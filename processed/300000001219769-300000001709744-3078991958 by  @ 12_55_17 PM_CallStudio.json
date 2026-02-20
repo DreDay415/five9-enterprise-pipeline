@@ -1,0 +1,109 @@
+{
+  "recording": {
+    "name": "300000001219769-300000001709744-3078991958 by  @ 12_55_17 PM_CallStudio.wav",
+    "size": 50566,
+    "modifyTime": 1769591238000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219769-300000001709744-3078991958 by  @ 12_55_17 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:07:18.000Z",
+    "callId": "300000001219769-300000001709744",
+    "phoneNumber": "3078991958",
+    "callTimestamp": "2026-01-28T09:07:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: So, Mark.\n\nSpeaker 1: This is a natural language AI.\n\nSpeaker 2: Just say what you would like to do.\n\nSpeaker 1: For example, track an order or send me to the billing department.\n\nSpeaker 2: Let's try again.\n\nSpeaker 1: Cancel my order.\n\nSpeaker 2: Please state the reason for your call.\n\nSpeaker 1: Cancel.\n\nSpeaker 2: Cancel my order.\n\nSpeaker 1: Cancel my order.\n\nSpeaker 2: Thanks, transferring to agent.",
+    "duration": 2333,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.28000020980835,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.28000020980835,
+        "end": 6.28000020980835,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.28000020980835,
+        "end": 8.640000343322754,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.640000343322754,
+        "end": 12.239999771118164,
+        "text": " So, Mark."
+      },
+      {
+        "id": 4,
+        "start": 12.239999771118164,
+        "end": 14.960000038146973,
+        "text": " This is a natural language AI."
+      },
+      {
+        "id": 5,
+        "start": 14.960000038146973,
+        "end": 17.1200008392334,
+        "text": " Just say what you would like to do."
+      },
+      {
+        "id": 6,
+        "start": 17.1200008392334,
+        "end": 21.68000030517578,
+        "text": " For example, track an order or send me to the billing department."
+      },
+      {
+        "id": 7,
+        "start": 21.68000030517578,
+        "end": 22.68000030517578,
+        "text": " Let's try again."
+      },
+      {
+        "id": 8,
+        "start": 22.68000030517578,
+        "end": 23.68000030517578,
+        "text": " Cancel my order."
+      },
+      {
+        "id": 9,
+        "start": 23.68000030517578,
+        "end": 24.68000030517578,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 10,
+        "start": 24.68000030517578,
+        "end": 25.68000030517578,
+        "text": " Cancel."
+      },
+      {
+        "id": 11,
+        "start": 25.68000030517578,
+        "end": 26.68000030517578,
+        "text": " Cancel my order."
+      },
+      {
+        "id": 12,
+        "start": 26.68000030517578,
+        "end": 29.68000030517578,
+        "text": " Cancel my order."
+      },
+      {
+        "id": 13,
+        "start": 29.68000030517578,
+        "end": 30.84000015258789,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e3-bed9-d8da0676188e",
+    "url": "https://www.notion.so/300000001219769-300000001709744-2f611d0a101c81e3bed9d8da0676188e"
+  },
+  "processedAt": "2026-01-28T11:42:01.100Z"
+}

@@ -1,0 +1,272 @@
+{
+  "recording": {
+    "name": "300000001222808-300000001712456-9206766239 by olivia@superbalife.com @ 12_17_32 PM.wav",
+    "size": 363606,
+    "modifyTime": 1769718098000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222808-300000001712456-9206766239 by olivia@superbalife.com @ 12_17_32 PM.wav",
+    "uploadDate": "2026-01-29T20:21:38.000Z",
+    "callId": "300000001222808-300000001712456",
+    "agent": "olivia",
+    "phoneNumber": "9206766239",
+    "callTimestamp": "2026-01-29T12:17:32.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, this is Olivia speaking.\n\nSpeaker 2: Who do I have the pleasure of speaking with today?\n\nSpeaker 1: Russell Gore.\n\nSpeaker 2: Hi Russell, how are you?\n\nSpeaker 1: I'm good.\n\nSpeaker 2: I need a prescription refill, there's one refill on it yet I guess.\n\nSpeaker 1: So I don't, so I don't feel, 100s?\n\nSpeaker 2: Yeah, we can, we can do that.\n\nSpeaker 1: Okay, what is your date of birth Russell?\n\nSpeaker 2: 7-5-1969.\n\nSpeaker 1: Okay, great, and you're located at 8811 Gore Road, Cracow, Wisconsin, 5-4-1-3-7?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, great.\n\nSpeaker 2: Yeah, so you said you want to order Sildenafil?\n\nSpeaker 1: Yes, 100 mg tablets, 50 of them I think.\n\nSpeaker 2: Okay, okay, okay, for Sildenafil, okay, interesting, okay, how many pills of Sildenafil did you want to order?\n\nSpeaker 1: 50.\n\nSpeaker 2: Okay, let's see about that.\n\nSpeaker 1: That's what I had I think.\n\nSpeaker 2: Last one was, say, August I think the last one was.\n\nSpeaker 1: So, Sildenafil, we don't have a 50 option, so we have a, you could do 30 pills for $60 or if you wanted a really, really good deal, you could do 150 pills for $149.\n\nSpeaker 2: It's up to you.\n\nSpeaker 1: Yeah, I could do that.\n\nSpeaker 2: Okay, great.\n\nSpeaker 1: And we can ship these to 8811 Gore Road, Cracow, Wisconsin, 5-4-1-3-7?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, perfect.\n\nSpeaker 2: And the credit card we have on file is the MasterCard that ends in 5930, is that accurate?\n\nSpeaker 1: Yep.\n\nSpeaker 2: Okay, great.\n\nSpeaker 1: So, I'm going to place that order for you and these should be out to you within the next three to five business days.\n\nSpeaker 2: Now, I think it's unlikely, but it is possible, just so you know, the pharmacy might have some sort of issue with you moving from Viagra to Cialis to Viagra to Cialis to Sildenafil.\n\nSpeaker 1: I think it'll be fine because it's been a little while and I started a new prescription for you.\n\nSpeaker 2: Yeah, if there's any issues, we will definitely let you know and can help you get it fixed up.\n\nSpeaker 1: We would know like today or tomorrow.\n\nSpeaker 2: Otherwise, they'll just ship it to you.\n\nSpeaker 1: Okay, sounds good.\n\nSpeaker 2: Okay, thank you, Russell.\n\nSpeaker 1: I hope you have a great day.\n\nSpeaker 2: You too, bye.\n\nSpeaker 1: Bye.",
+    "duration": 8308,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.199999809265137,
+        "text": " Thank you for calling Viagra, this is Olivia speaking."
+      },
+      {
+        "id": 1,
+        "start": 4.199999809265137,
+        "end": 6.400000095367432,
+        "text": " Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 2,
+        "start": 7.179999828338623,
+        "end": 8.4399995803833,
+        "text": " Russell Gore."
+      },
+      {
+        "id": 3,
+        "start": 10.100000381469727,
+        "end": 11.779999732971191,
+        "text": " Hi Russell, how are you?"
+      },
+      {
+        "id": 4,
+        "start": 12.4399995803833,
+        "end": 13.180000305175781,
+        "text": " I'm good."
+      },
+      {
+        "id": 5,
+        "start": 14.279999732971191,
+        "end": 18.6200008392334,
+        "text": " I need a prescription refill, there's one refill on it yet I guess."
+      },
+      {
+        "id": 6,
+        "start": 19.360000610351562,
+        "end": 22.3799991607666,
+        "text": " So I don't, so I don't feel, 100s?"
+      },
+      {
+        "id": 7,
+        "start": 24.040000915527344,
+        "end": 26.31999969482422,
+        "text": " Yeah, we can, we can do that."
+      },
+      {
+        "id": 8,
+        "start": 26.65999984741211,
+        "end": 29.739999771118164,
+        "text": " Okay, what is your date of birth Russell?"
+      },
+      {
+        "id": 9,
+        "start": 30.8799991607666,
+        "end": 33.279998779296875,
+        "text": " 7-5-1969."
+      },
+      {
+        "id": 10,
+        "start": 34.13999938964844,
+        "end": 43.560001373291016,
+        "text": " Okay, great, and you're located at 8811 Gore Road, Cracow, Wisconsin, 5-4-1-3-7?"
+      },
+      {
+        "id": 11,
+        "start": 44.2400016784668,
+        "end": 44.7400016784668,
+        "text": " Yes."
+      },
+      {
+        "id": 12,
+        "start": 45.47999954223633,
+        "end": 46.18000030517578,
+        "text": " Okay, great."
+      },
+      {
+        "id": 13,
+        "start": 46.68000030517578,
+        "end": 52.68000030517578,
+        "text": " Yeah, so you said you want to order Sildenafil?"
+      },
+      {
+        "id": 14,
+        "start": 53.400001525878906,
+        "end": 57.619998931884766,
+        "text": " Yes, 100 mg tablets, 50 of them I think."
+      },
+      {
+        "id": 15,
+        "start": 57.619998931884766,
+        "end": 82.4000015258789,
+        "text": " Okay, okay, okay, for Sildenafil, okay, interesting, okay, how many pills of Sildenafil did you want to order?"
+      },
+      {
+        "id": 16,
+        "start": 83.4800033569336,
+        "end": 83.9800033569336,
+        "text": " 50."
+      },
+      {
+        "id": 17,
+        "start": 85.41999816894531,
+        "end": 87.33999633789062,
+        "text": " Okay, let's see about that."
+      },
+      {
+        "id": 18,
+        "start": 88.62000274658203,
+        "end": 90.22000122070312,
+        "text": " That's what I had I think."
+      },
+      {
+        "id": 19,
+        "start": 92.0999984741211,
+        "end": 98.22000122070312,
+        "text": " Last one was, say, August I think the last one was."
+      },
+      {
+        "id": 20,
+        "start": 98.22000122070312,
+        "end": 128.1999969482422,
+        "text": " So, Sildenafil, we don't have a 50 option, so we have a, you could do 30 pills for $60 or if you wanted a really, really good deal, you could do 150 pills for $149."
+      },
+      {
+        "id": 21,
+        "start": 128.74000549316406,
+        "end": 130.74000549316406,
+        "text": " It's up to you."
+      },
+      {
+        "id": 22,
+        "start": 130.74000549316406,
+        "end": 132.74000549316406,
+        "text": " Yeah, I could do that."
+      },
+      {
+        "id": 23,
+        "start": 132.74000549316406,
+        "end": 134.74000549316406,
+        "text": " Okay, great."
+      },
+      {
+        "id": 24,
+        "start": 134.74000549316406,
+        "end": 145.74000549316406,
+        "text": " And we can ship these to 8811 Gore Road, Cracow, Wisconsin, 5-4-1-3-7?"
+      },
+      {
+        "id": 25,
+        "start": 145.74000549316406,
+        "end": 147.74000549316406,
+        "text": " Yes."
+      },
+      {
+        "id": 26,
+        "start": 147.74000549316406,
+        "end": 149.74000549316406,
+        "text": " Okay, perfect."
+      },
+      {
+        "id": 27,
+        "start": 149.74000549316406,
+        "end": 157.74000549316406,
+        "text": " And the credit card we have on file is the master card that ends in 5930, is that accurate?"
+      },
+      {
+        "id": 28,
+        "start": 158.25999450683594,
+        "end": 159.25999450683594,
+        "text": " Yep."
+      },
+      {
+        "id": 29,
+        "start": 159.25999450683594,
+        "end": 161.25999450683594,
+        "text": " Okay, great."
+      },
+      {
+        "id": 30,
+        "start": 161.25999450683594,
+        "end": 170.25999450683594,
+        "text": " So, I'm going to place that order for you and these should be out to you within the next three to five business days."
+      },
+      {
+        "id": 31,
+        "start": 170.25999450683594,
+        "end": 188.25999450683594,
+        "text": " Now, I think it's unlikely, but it is possible, just so you know, the pharmacy might have some sort of issue with you moving from Viagra to Cialis to Viagra to Cialis to Sildenafil."
+      },
+      {
+        "id": 32,
+        "start": 188.25999450683594,
+        "end": 196.25999450683594,
+        "text": " I think it'll be fine because it's been a little while and I started a new prescription for you."
+      },
+      {
+        "id": 33,
+        "start": 196.25999450683594,
+        "end": 210.25999450683594,
+        "text": " Yeah, if there's any issues, we will definitely let you know and can help you get it fixed up."
+      },
+      {
+        "id": 34,
+        "start": 210.25999450683594,
+        "end": 212.25999450683594,
+        "text": " We would know like today or tomorrow."
+      },
+      {
+        "id": 35,
+        "start": 212.25999450683594,
+        "end": 215.25999450683594,
+        "text": " Otherwise, they'll just ship it to you."
+      },
+      {
+        "id": 36,
+        "start": 215.25999450683594,
+        "end": 217.25999450683594,
+        "text": " Okay, sounds good."
+      },
+      {
+        "id": 37,
+        "start": 217.25999450683594,
+        "end": 219.25999450683594,
+        "text": " Okay, thank you, Russell."
+      },
+      {
+        "id": 38,
+        "start": 219.25999450683594,
+        "end": 221.25999450683594,
+        "text": " I hope you have a great day."
+      },
+      {
+        "id": 39,
+        "start": 221.25999450683594,
+        "end": 223.25999450683594,
+        "text": " You too, bye."
+      },
+      {
+        "id": 40,
+        "start": 223.25999450683594,
+        "end": 225.25999450683594,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-810d-aa5f-cc601a796580",
+    "url": "https://www.notion.so/300000001222808-300000001712456-2f711d0a101c810daa5fcc601a796580"
+  },
+  "processedAt": "2026-01-29T21:35:12.849Z"
+}

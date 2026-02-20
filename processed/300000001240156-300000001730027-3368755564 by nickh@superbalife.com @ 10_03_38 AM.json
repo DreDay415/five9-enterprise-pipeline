@@ -1,0 +1,225 @@
+{
+  "recording": {
+    "name": "300000001240156-300000001730027-3368755564 by nickh@superbalife.com @ 10_03_38 AM.wav",
+    "size": 235816,
+    "modifyTime": 1770919585000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240156-300000001730027-3368755564 by nickh@superbalife.com @ 10_03_38 AM.wav",
+    "uploadDate": "2026-02-12T18:06:25.000Z",
+    "callId": "300000001240156-300000001730027",
+    "agent": "nickh",
+    "phoneNumber": "3368755564",
+    "callTimestamp": "2026-02-12T10:03:38.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra at Score Blue. How can I help you today?\n\nSpeaker 2: I'd like to get some of that.\n\nSpeaker 1: You're looking to get the Viagra AGV, is that it?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Alright, sir. And have you ordered with Score Blue in the past?\n\nSpeaker 2: No, I haven't ordered before.\n\nSpeaker 1: Okay, so what we'll need to do is create an account for you.\n\nSpeaker 1: I'll walk you through a brief health survey, and then we can get your order completed, okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: To begin, the AGV comes in three different quantities.\n\nSpeaker 1: You can do 10 pills for $49, 25 pills for $99,\n\nSpeaker 2: or the February special, which is 40 pills for $149, and you save $1.50 per pill.\n\nSpeaker 1: Okay. What'd you say now? Say that again.\n\nSpeaker 2: You got the lowest to come out to $1.50 a pill, is what you said?\n\nSpeaker 1: You save $1.50 a pill, so the largest savings is the quantity of 40 for $149.\n\nSpeaker 2: Okay, and what's the smallest?\n\nSpeaker 1: 10 pills for $49.\n\nSpeaker 2: Okay, and how do I have to pay? With a card?\n\nSpeaker 1: Yes, this would be done either with a credit or debit card.\n\nSpeaker 2: Okay. Well, what I needed to know was the amount so I can go get a card.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And tell me the smallest and the largest, again, the exact price it'll be.\n\nSpeaker 1: Okay, so for the smallest, after tax and fees, it's $63.95, and that's for 10 pills.\n\nSpeaker 2: $63.95, okay.\n\nSpeaker 1: And then for 40 pills, it's $163.95.\n\nSpeaker 2: Okay, $163.95.\n\nSpeaker 1: How late are your hours for ordering it?\n\nSpeaker 2: We'll be open until 5 p.m. Pacific Standard Time.\n\nSpeaker 1: Okay, and how long do you take to Fort Mill?\n\nSpeaker 2: Two to five business days.\n\nSpeaker 1: Okay, I'll get back with you this evening.\n\nSpeaker 2: No worries. Thank you.\n\nSpeaker 1: Thanks. Bye.",
+    "duration": 6636,
+    "audioDuration": 145.0800018310547,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " Hi, thank you for calling Viagra at Score Blue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 11,
+        "text": " I'd like to get some of that."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 14,
+        "text": " You're looking to get the Viagra AGV, is that it?"
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 16,
+        "text": " Yeah."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 21,
+        "text": " Alright, sir. And have you ordered with Score Blue in the past?"
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 23,
+        "text": " No, I haven't ordered before."
+      },
+      {
+        "id": 6,
+        "start": 23,
+        "end": 26,
+        "text": " Okay, so what we'll need to do is create an account for you."
+      },
+      {
+        "id": 7,
+        "start": 26,
+        "end": 30,
+        "text": " I'll walk you through a brief health survey, and then we can get your order completed, okay?"
+      },
+      {
+        "id": 8,
+        "start": 30,
+        "end": 35,
+        "text": " Okay."
+      },
+      {
+        "id": 9,
+        "start": 35,
+        "end": 37,
+        "text": " To begin, the AGV comes in three different quantities."
+      },
+      {
+        "id": 10,
+        "start": 37,
+        "end": 41,
+        "text": " You can do 10 pills for $49, 25 pills for $99,"
+      },
+      {
+        "id": 11,
+        "start": 41,
+        "end": 50,
+        "text": " or the February special, which is 40 pills for $149, and you save $1.50 per pill."
+      },
+      {
+        "id": 12,
+        "start": 50,
+        "end": 55,
+        "text": " Okay. What'd you say now? Say that again."
+      },
+      {
+        "id": 13,
+        "start": 55,
+        "end": 62,
+        "text": " You got the lowest to come out to $1.50 a pill, is what you said?"
+      },
+      {
+        "id": 14,
+        "start": 62,
+        "end": 70,
+        "text": " You save $1.50 a pill, so the largest savings is the quantity of 40 for $149."
+      },
+      {
+        "id": 15,
+        "start": 70,
+        "end": 72,
+        "text": " Okay, and what's the smallest?"
+      },
+      {
+        "id": 16,
+        "start": 72,
+        "end": 77,
+        "text": " 10 pills for $49."
+      },
+      {
+        "id": 17,
+        "start": 77,
+        "end": 82,
+        "text": " Okay, and how do I have to pay? With a card?"
+      },
+      {
+        "id": 18,
+        "start": 82,
+        "end": 87,
+        "text": " Yes, this would be done either with a credit or debit card."
+      },
+      {
+        "id": 19,
+        "start": 87,
+        "end": 93,
+        "text": " Okay. Well, what I needed to know was the amount so I can go get a card."
+      },
+      {
+        "id": 20,
+        "start": 93,
+        "end": 95,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 95,
+        "end": 100,
+        "text": " And tell me the smallest and the largest, again, the exact price it'll be."
+      },
+      {
+        "id": 22,
+        "start": 100,
+        "end": 107,
+        "text": " Okay, so for the smallest, after tax and fees, it's $63.95, and that's for 10 pills."
+      },
+      {
+        "id": 23,
+        "start": 107,
+        "end": 110,
+        "text": " $63.95, okay."
+      },
+      {
+        "id": 24,
+        "start": 110,
+        "end": 115,
+        "text": " And then for 40 pills, it's $163.95."
+      },
+      {
+        "id": 25,
+        "start": 115,
+        "end": 120,
+        "text": " Okay, $163.95."
+      },
+      {
+        "id": 26,
+        "start": 120,
+        "end": 123,
+        "text": " How late are your hours for ordering it?"
+      },
+      {
+        "id": 27,
+        "start": 123,
+        "end": 128,
+        "text": " We'll be open until 5 p.m. Pacific Standard Time."
+      },
+      {
+        "id": 28,
+        "start": 128,
+        "end": 133,
+        "text": " Okay, and how long do you take to Fort Mill?"
+      },
+      {
+        "id": 29,
+        "start": 133,
+        "end": 135,
+        "text": " Two to five business days."
+      },
+      {
+        "id": 30,
+        "start": 135,
+        "end": 138,
+        "text": " Okay, I'll get back with you this evening."
+      },
+      {
+        "id": 31,
+        "start": 138,
+        "end": 140,
+        "text": " No worries. Thank you."
+      },
+      {
+        "id": 32,
+        "start": 140,
+        "end": 142,
+        "text": " Thanks. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8128-96d9-df12d2852ff6",
+    "url": "https://www.notion.so/300000001240156-300000001730027-30511d0a101c812896d9df12d2852ff6"
+  },
+  "processedAt": "2026-02-12T18:33:40.554Z"
+}

@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001239236-300000001728966-6153900404 by  @ 1_56_14 PM_CallStudio.wav",
+    "size": 22486,
+    "modifyTime": 1770847011000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239236-300000001728966-6153900404 by  @ 1_56_14 PM_CallStudio.wav",
+    "uploadDate": "2026-02-11T21:56:51.000Z",
+    "callId": "300000001239236-300000001728966",
+    "phoneNumber": "6153900404",
+    "callTimestamp": "2026-02-11T21:56:51.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Waiting on a shipping order.",
+    "duration": 967,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 8,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 12,
+        "text": " Waiting on a shipping order."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-8187-8c30-cda87bd37eea",
+    "url": "https://www.notion.so/300000001239236-300000001728966-30411d0a101c81878c30cda87bd37eea"
+  },
+  "processedAt": "2026-02-11T22:02:19.531Z"
+}

@@ -1,0 +1,266 @@
+{
+  "recording": {
+    "name": "300000001216617-300000001705982-3144829472 by john@superbalife.com @ 3_02_26 PM.wav",
+    "size": 265260,
+    "modifyTime": 1769589439000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216617-300000001705982-3144829472 by john@superbalife.com @ 3_02_26 PM.wav",
+    "uploadDate": "2026-01-28T08:37:19.000Z",
+    "callId": "300000001216617-300000001705982",
+    "agent": "john",
+    "phoneNumber": "3144829472",
+    "callTimestamp": "2026-01-28T15:02:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: My name is Uday. I need a receipt of my prescription.\n\nSpeaker 1: No problem at all, sir. Can I get your zip code?\n\nSpeaker 2: I used to have a different zip code. Now I get a new zip code. It's 63128.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Becker Place Drive?\n\nSpeaker 1: Correct.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yeah, I can get a refill for you. Sorry. I thought I was about to sneeze there.\n\nSpeaker 2: Okay. Same exact thing as last time on the same card?\n\nSpeaker 1: No. I have a different address and different card.\n\nSpeaker 2: Oh, it's not Becker Place Drive?\n\nSpeaker 1: Yeah, it's Becker Place Drive. Before it's Illinois.\n\nSpeaker 2: Yeah, I see that it used to be Illinois, but the current address we have is St. Louis. That's correct, right?\n\nSpeaker 1: Yes, yes.\n\nSpeaker 2: Okay. You got 30 pills. Is that what you're looking to do again?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Do I get AGV or just a regular?\n\nSpeaker 2: You got the AGV the last time. Your last order was AGV.\n\nSpeaker 1: Oh, really?\n\nSpeaker 2: Yeah. The one from August.\n\nSpeaker 1: Okay. I'll get the same one then.\n\nSpeaker 2: Is it the MasterCard that ends in 2297?\n\nSpeaker 1: No, a different card. Let me give you a new one.\n\nSpeaker 2: Okay. I'm ready when you are.\n\nSpeaker 1: 52133311838213161.\n\nSpeaker 2: Expiration?\n\nSpeaker 1: 0129.\n\nSpeaker 2: Okay, and the security code?\n\nSpeaker 1: 827.\n\nSpeaker 2: You want to repeat the card number again?\n\nSpeaker 1: No, it didn't go through yet, but I got it validated. It's good. I just updated it on our side, and then I'm going to get your order through here.\n\nSpeaker 2: We've actually changed the package. It's the same price, but you're going to get 40 pills. I don't know. I don't remember us doing 30.\n\nSpeaker 1: Okay. We're all set, sir. You're good to go. This will ship out on Monday.\n\nSpeaker 2: What's the total on that?\n\nSpeaker 1: 163.95. That's what your price has been for the last two orders now.\n\nSpeaker 2: Okay. All right. Thank you.\n\nSpeaker 1: Have a good weekend.\n\nSpeaker 2: You too.",
+    "duration": 5961,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 7,
+        "text": " My name is Uday. I need a receipt of my prescription."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 11,
+        "text": " No problem at all, sir. Can I get your zip code?"
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 18,
+        "text": " I used to have a different zip code. Now I get a new zip code. It's 63128."
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 21,
+        "text": " Okay."
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 23,
+        "text": " Becker Place Drive?"
+      },
+      {
+        "id": 6,
+        "start": 23,
+        "end": 25,
+        "text": " Correct."
+      },
+      {
+        "id": 7,
+        "start": 25,
+        "end": 29,
+        "text": " Okay."
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 34,
+        "text": " Yeah, I can get a refill for you. Sorry. I thought I was about to sneeze there."
+      },
+      {
+        "id": 9,
+        "start": 34,
+        "end": 38,
+        "text": " Okay. Same exact thing as last time on the same card?"
+      },
+      {
+        "id": 10,
+        "start": 38,
+        "end": 43,
+        "text": " No. I have different address and different card."
+      },
+      {
+        "id": 11,
+        "start": 43,
+        "end": 45,
+        "text": " Oh, it's not Becker Place Drive?"
+      },
+      {
+        "id": 12,
+        "start": 45,
+        "end": 50,
+        "text": " Yeah, it's Becker Place Drive. Before it's Illinois."
+      },
+      {
+        "id": 13,
+        "start": 50,
+        "end": 55,
+        "text": " Yeah, I see that it used to be Illinois, but the current address we have is St. Louis. That's correct, right?"
+      },
+      {
+        "id": 14,
+        "start": 55,
+        "end": 56,
+        "text": " Yes, yes."
+      },
+      {
+        "id": 15,
+        "start": 56,
+        "end": 61,
+        "text": " Okay. You got 30 pills. Is that what you're looking to do again?"
+      },
+      {
+        "id": 16,
+        "start": 61,
+        "end": 62,
+        "text": " Yeah."
+      },
+      {
+        "id": 17,
+        "start": 62,
+        "end": 63,
+        "text": " Okay."
+      },
+      {
+        "id": 18,
+        "start": 63,
+        "end": 68,
+        "text": " Do I get AGV or just a regular?"
+      },
+      {
+        "id": 19,
+        "start": 68,
+        "end": 73,
+        "text": " You got the AGV the last time. Your last order was AGV."
+      },
+      {
+        "id": 20,
+        "start": 73,
+        "end": 74,
+        "text": " Oh, really?"
+      },
+      {
+        "id": 21,
+        "start": 74,
+        "end": 79,
+        "text": " Yeah. The one from August."
+      },
+      {
+        "id": 22,
+        "start": 79,
+        "end": 83,
+        "text": " Okay. I'll get the same one then."
+      },
+      {
+        "id": 23,
+        "start": 83,
+        "end": 88,
+        "text": " Is it the MasterCard that ends in 2297?"
+      },
+      {
+        "id": 24,
+        "start": 88,
+        "end": 92,
+        "text": " No, a different card. Let me give you a new one."
+      },
+      {
+        "id": 25,
+        "start": 92,
+        "end": 94,
+        "text": " Okay. I'm ready when you are."
+      },
+      {
+        "id": 26,
+        "start": 94,
+        "end": 109,
+        "text": " 52133311838213161."
+      },
+      {
+        "id": 27,
+        "start": 109,
+        "end": 111,
+        "text": " Expiration?"
+      },
+      {
+        "id": 28,
+        "start": 111,
+        "end": 115,
+        "text": " 0129."
+      },
+      {
+        "id": 29,
+        "start": 115,
+        "end": 117,
+        "text": " Okay, and the security code?"
+      },
+      {
+        "id": 30,
+        "start": 117,
+        "end": 123,
+        "text": " 827."
+      },
+      {
+        "id": 31,
+        "start": 123,
+        "end": 126,
+        "text": " You want to repeat the card number again?"
+      },
+      {
+        "id": 32,
+        "start": 126,
+        "end": 136,
+        "text": " No, it didn't go through yet, but I got it validated. It's good. I just updated it on our side, and then I'm going to get your order through here."
+      },
+      {
+        "id": 33,
+        "start": 136,
+        "end": 147,
+        "text": " We've actually changed the package. It's the same price, but you're going to get 40 pills. I don't know. I don't remember us doing 30."
+      },
+      {
+        "id": 34,
+        "start": 147,
+        "end": 150,
+        "text": " Okay. We're all set, sir. You're good to go. This will ship out on Monday."
+      },
+      {
+        "id": 35,
+        "start": 150,
+        "end": 152,
+        "text": " What's the total on that?"
+      },
+      {
+        "id": 36,
+        "start": 152,
+        "end": 156,
+        "text": " 163.95. That's what your price has been for the last two orders now."
+      },
+      {
+        "id": 37,
+        "start": 156,
+        "end": 160,
+        "text": " Okay. All right. Thank you."
+      },
+      {
+        "id": 38,
+        "start": 160,
+        "end": 161,
+        "text": " Have a good weekend."
+      },
+      {
+        "id": 39,
+        "start": 161,
+        "end": 162,
+        "text": " You too."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8168-8b36-c8b629aa8ad4",
+    "url": "https://www.notion.so/300000001216617-300000001705982-2f611d0a101c81688b36c8b629aa8ad4"
+  },
+  "processedAt": "2026-01-28T12:42:20.747Z"
+}

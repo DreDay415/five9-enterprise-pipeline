@@ -1,0 +1,134 @@
+{
+  "recording": {
+    "name": "300000001218063-300000001708163-3059280291 by charles@superbalife.com @ 1_09_38 PM.wav",
+    "size": 84366,
+    "modifyTime": 1769584041000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218063-300000001708163-3059280291 by charles@superbalife.com @ 1_09_38 PM.wav",
+    "uploadDate": "2026-01-28T07:07:21.000Z",
+    "callId": "300000001218063-300000001708163",
+    "agent": "charles",
+    "phoneNumber": "3059280291",
+    "callTimestamp": "2026-01-28T13:09:38.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra. This is Charles.\n\nSpeaker 2: Hello.\n\nSpeaker 1: How are you doing?\n\nSpeaker 2: Hello. Yes, hi.\n\nSpeaker 1: I'm trying to cancel my prescription, please.\n\nSpeaker 2: Okay. I have Glendon Disharoon.\n\nSpeaker 1: Yes, you do.\n\nSpeaker 2: In Key West, Florida. Okay.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, Glendon. It does look like you are a VIP member here.\n\nSpeaker 1: Are you overstocked right now and just need to pump the brakes for a while?\n\nSpeaker 2: No, I just need to cancel it. I'm good.\n\nSpeaker 1: Gotcha. Were the pills just not a fit for you?\n\nSpeaker 2: Well, you know, it's okay. It's just I'm okay.\n\nSpeaker 1: I'm just kind of, you know, I guess I'm just backing off and I'm good.\n\nSpeaker 2: Okay. All right, then.\n\nSpeaker 1: All right. Everything has been canceled. Hope you have a good one.\n\nSpeaker 2: Thank you very much. Bye-bye.",
+    "duration": 2659,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thanks for calling Viagra. This is Charles."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5,
+        "text": " Hello."
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 6,
+        "text": " How are you doing?"
+      },
+      {
+        "id": 3,
+        "start": 6,
+        "end": 8,
+        "text": " Hello. Yes, hi."
+      },
+      {
+        "id": 4,
+        "start": 8,
+        "end": 12,
+        "text": " I'm trying to cancel my prescription, please."
+      },
+      {
+        "id": 5,
+        "start": 12,
+        "end": 15,
+        "text": " Okay. I have Glendon Disharoon."
+      },
+      {
+        "id": 6,
+        "start": 15,
+        "end": 16,
+        "text": " Yes, you do."
+      },
+      {
+        "id": 7,
+        "start": 16,
+        "end": 18,
+        "text": " In Key West, Florida. Okay."
+      },
+      {
+        "id": 8,
+        "start": 18,
+        "end": 19,
+        "text": " Yes."
+      },
+      {
+        "id": 9,
+        "start": 19,
+        "end": 21,
+        "text": " Okay, Glendon. It does look like you are a VIP member here."
+      },
+      {
+        "id": 10,
+        "start": 21,
+        "end": 24,
+        "text": " Are you overstocked right now and just need to pump the brakes for a while?"
+      },
+      {
+        "id": 11,
+        "start": 24,
+        "end": 29,
+        "text": " No, I just need to cancel it. I'm good."
+      },
+      {
+        "id": 12,
+        "start": 29,
+        "end": 33,
+        "text": " Gotcha. Were the pills just not a fit for you?"
+      },
+      {
+        "id": 13,
+        "start": 33,
+        "end": 36,
+        "text": " Well, you know, it's okay. It's just I'm okay."
+      },
+      {
+        "id": 14,
+        "start": 36,
+        "end": 41,
+        "text": " I'm just kind of, you know, I guess I'm just backing off and I'm good."
+      },
+      {
+        "id": 15,
+        "start": 41,
+        "end": 43,
+        "text": " Okay. All right, then."
+      },
+      {
+        "id": 16,
+        "start": 43,
+        "end": 46,
+        "text": " All right. Everything has been canceled. Hope you have a good one."
+      },
+      {
+        "id": 17,
+        "start": 46,
+        "end": 49,
+        "text": " Thank you very much. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81bb-a64f-ec25f83d3630",
+    "url": "https://www.notion.so/300000001218063-300000001708163-2f611d0a101c81bba64fec25f83d3630"
+  },
+  "processedAt": "2026-01-28T15:26:01.449Z"
+}

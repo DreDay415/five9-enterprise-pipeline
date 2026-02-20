@@ -1,0 +1,128 @@
+{
+  "recording": {
+    "name": "300000001218779-300000001708941-8154124475 by charles@superbalife.com @ 8_42_02 AM.wav",
+    "size": 102370,
+    "modifyTime": 1769592156000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218779-300000001708941-8154124475 by charles@superbalife.com @ 8_42_02 AM.wav",
+    "uploadDate": "2026-01-28T09:22:36.000Z",
+    "callId": "300000001218779-300000001708941",
+    "agent": "charles",
+    "phoneNumber": "8154124475",
+    "callTimestamp": "2026-01-28T08:42:02.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, I was wanting to cancel this reoccurring prescription.\n\nSpeaker 2: Oh, right. I got Craig Mihelic.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Gotcha. Okay. I'm assuming way overstocked right now, right?\n\nSpeaker 2: Yeah, to be honest with you, I didn't know it was reoccurring, to be honest with you.\n\nSpeaker 1: Okay, yeah. Your prescription when it gets written up does come with refills, understandably.\n\nSpeaker 2: So if you're way overstocked right now, yeah, we can go ahead and just pump the brakes.\n\nSpeaker 1: Whenever you need them again, just give us a holler, okay?\n\nSpeaker 2: And then just letting you know, if you ever don't want to keep getting 40 at a time,\n\nSpeaker 1: you can drop it down to either 25 for $99 or 10 pills for $49, okay?\n\nSpeaker 2: Yeah, just for future references.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right. Hope you have a great one, all right?\n\nSpeaker 1: Yep, thank you.\n\nSpeaker 2: All right, take care.\n\nSpeaker 1: You too, bye.",
+    "duration": 3078,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 14,
+        "text": " Hi, I was wanting to cancel this reoccurring prescription."
+      },
+      {
+        "id": 1,
+        "start": 14,
+        "end": 18,
+        "text": " Oh, right. I got Craig Mihelic."
+      },
+      {
+        "id": 2,
+        "start": 18,
+        "end": 19,
+        "text": " Yes."
+      },
+      {
+        "id": 3,
+        "start": 19,
+        "end": 20,
+        "text": " Yes."
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 25,
+        "text": " Gotcha. Okay. I'm assuming way overstocked right now, right?"
+      },
+      {
+        "id": 5,
+        "start": 26,
+        "end": 30,
+        "text": " Yeah, to be honest with you, I didn't know it was reoccurring, to be honest with you."
+      },
+      {
+        "id": 6,
+        "start": 30,
+        "end": 35,
+        "text": " Okay, yeah. Your prescription when it gets written up does come with refills, understandably."
+      },
+      {
+        "id": 7,
+        "start": 35,
+        "end": 39,
+        "text": " So if you're way overstocked right now, yeah, we can go ahead and just pump the brakes."
+      },
+      {
+        "id": 8,
+        "start": 39,
+        "end": 42,
+        "text": " Whenever you need them again, just give us a holler, okay?"
+      },
+      {
+        "id": 9,
+        "start": 42,
+        "end": 47,
+        "text": " And then just letting you know, if you ever don't want to keep getting 40 at a time,"
+      },
+      {
+        "id": 10,
+        "start": 47,
+        "end": 53,
+        "text": " you can drop it down to either 25 for $99 or 10 pills for $49, okay?"
+      },
+      {
+        "id": 11,
+        "start": 53,
+        "end": 55,
+        "text": " Yeah, just for future references."
+      },
+      {
+        "id": 12,
+        "start": 55,
+        "end": 56,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 56,
+        "end": 59,
+        "text": " All right. Hope you have a great one, all right?"
+      },
+      {
+        "id": 14,
+        "start": 59,
+        "end": 60,
+        "text": " Yep, thank you."
+      },
+      {
+        "id": 15,
+        "start": 60,
+        "end": 61,
+        "text": " All right, take care."
+      },
+      {
+        "id": 16,
+        "start": 61,
+        "end": 62,
+        "text": " You too, bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8183-bc32-f870e3e59432",
+    "url": "https://www.notion.so/300000001218779-300000001708941-2f611d0a101c8183bc32f870e3e59432"
+  },
+  "processedAt": "2026-01-28T10:40:23.860Z"
+}

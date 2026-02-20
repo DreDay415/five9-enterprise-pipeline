@@ -1,0 +1,380 @@
+{
+  "recording": {
+    "name": "300000001221571-300000001711356-2282630411 by jessie@superbalife.com @ 1_43_04 PM.wav",
+    "size": 248880,
+    "modifyTime": 1769636757000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221571-300000001711356-2282630411 by jessie@superbalife.com @ 1_43_04 PM.wav",
+    "uploadDate": "2026-01-28T21:45:57.000Z",
+    "callId": "300000001221571-300000001711356",
+    "agent": "jessie",
+    "phoneNumber": "2282630411",
+    "callTimestamp": "2026-01-28T13:43:04.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra.\n\nSpeaker 2: My name is Jessie.\n\nSpeaker 1: Can I get your first and last name?\n\nSpeaker 2: John Lauren, L-A-U-R-E-N.\n\nSpeaker 1: Perfect.\n\nSpeaker 2: And Mr. Lauren, can I get your zip code?\n\nSpeaker 1: 39574.\n\nSpeaker 2: Awesome.\n\nSpeaker 1: Do you receive your mail at 20008 Lenas Cuevas Road in Saucier, Mississippi?\n\nSpeaker 2: That's correct.\n\nSpeaker 1: Perfect.\n\nSpeaker 2: And then it says here that you received the wrong medication.\n\nSpeaker 1: Right.\n\nSpeaker 2: I called, oh, it was last week when I received the meds that you all sent me.\n\nSpeaker 1: The woman told me, okay, well, resend, I'm going to resend them today.\n\nSpeaker 2: And I've gotten no notifications of shipping, no notifications of delivery coming, I've—\n\nSpeaker 1: Got notifications of nothing.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Y'all sent me, you know, I bought what y'all were advertising.\n\nSpeaker 2: And y'all sent me a generic, whatever the hell they're called, I can't remember what—\n\nSpeaker 1: They're called now, but you sent me a generic.\n\nSpeaker 2: It is not what I ordered.\n\nSpeaker 1: It is not what you advertised to send.\n\nSpeaker 2: All right.\n\nSpeaker 1: We have the tracking number here.\n\nSpeaker 2: And I'm so sorry if that wasn't sent to you.\n\nSpeaker 1: It's due to arrive on, I'm sorry, what was that?\n\nSpeaker 2: So it was sent then.\n\nSpeaker 1: It was supposed to arrive today.\n\nSpeaker 2: But with the weather we've been having across the country, yeah.\n\nSpeaker 1: It's due to arrive Saturday the 31st.\n\nSpeaker 2: Bear with me just a second.\n\nSpeaker 1: Let me go ahead and send this to you.\n\nSpeaker 2: All right.\n\nSpeaker 1: I went ahead and texted it to you so you'll get it more quickly.\n\nSpeaker 2: Let me know if you've received it.\n\nSpeaker 1: This is USPS?\n\nSpeaker 2: Correct.\n\nSpeaker 1: If you click on the link, you'll see it as USPS.\n\nSpeaker 2: And this is your phone number, right?\n\nSpeaker 1: 228-263-0411?\n\nSpeaker 2: It is.\n\nSpeaker 1: All right.\n\nSpeaker 2: There it is.\n\nSpeaker 1: I think I heard it.\n\nSpeaker 2: Thought I heard something.\n\nSpeaker 1: Oh, yeah.\n\nSpeaker 2: I got a text.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I got it.\n\nSpeaker 1: All right.\n\nSpeaker 2: That'll work.\n\nSpeaker 1: Awesome.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thank you so much for your time.\n\nSpeaker 2: You have a good day.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Thank you.",
+    "duration": 7225,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.680000066757202,
+        "text": " Hi, thank you so much for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3.680000066757202,
+        "end": 4.679999828338623,
+        "text": " My name is Jessie."
+      },
+      {
+        "id": 2,
+        "start": 4.679999828338623,
+        "end": 6.519999980926514,
+        "text": " Can I get your first and last name?"
+      },
+      {
+        "id": 3,
+        "start": 6.519999980926514,
+        "end": 9.520000457763672,
+        "text": " John Lauren, L-A-U-R-E-N."
+      },
+      {
+        "id": 4,
+        "start": 9.520000457763672,
+        "end": 10.520000457763672,
+        "text": " Perfect."
+      },
+      {
+        "id": 5,
+        "start": 10.520000457763672,
+        "end": 14.5600004196167,
+        "text": " And Mr. Lauren, can I get your zip code?"
+      },
+      {
+        "id": 6,
+        "start": 14.5600004196167,
+        "end": 15.5600004196167,
+        "text": " 39574."
+      },
+      {
+        "id": 7,
+        "start": 15.5600004196167,
+        "end": 16.559999465942383,
+        "text": " Awesome."
+      },
+      {
+        "id": 8,
+        "start": 16.559999465942383,
+        "end": 27.079999923706055,
+        "text": " Do you receive your mail at 20008 Lenas Cuevas Road in Saucier, Mississippi?"
+      },
+      {
+        "id": 9,
+        "start": 27.079999923706055,
+        "end": 29.079999923706055,
+        "text": " That's correct."
+      },
+      {
+        "id": 10,
+        "start": 29.15999984741211,
+        "end": 30.15999984741211,
+        "text": " Perfect."
+      },
+      {
+        "id": 11,
+        "start": 30.15999984741211,
+        "end": 33.15999984741211,
+        "text": " And then it says here that you received the wrong medication."
+      },
+      {
+        "id": 12,
+        "start": 33.15999984741211,
+        "end": 34.15999984741211,
+        "text": " Right."
+      },
+      {
+        "id": 13,
+        "start": 34.15999984741211,
+        "end": 43.15999984741211,
+        "text": " I called, oh, it was last week when I received the meds that you all sent me."
+      },
+      {
+        "id": 14,
+        "start": 43.15999984741211,
+        "end": 48.15999984741211,
+        "text": " The woman told me, okay, well, resend, I'm going to resend them today."
+      },
+      {
+        "id": 15,
+        "start": 48.15999984741211,
+        "end": 54.15999984741211,
+        "text": " And I've gotten no notifications of shipping, no notifications of delivery coming, I've"
+      },
+      {
+        "id": 16,
+        "start": 54.15999984741211,
+        "end": 56.15999984741211,
+        "text": " got notifications of nothing."
+      },
+      {
+        "id": 17,
+        "start": 56.2400016784668,
+        "end": 57.2400016784668,
+        "text": " Okay."
+      },
+      {
+        "id": 18,
+        "start": 57.2400016784668,
+        "end": 61.2400016784668,
+        "text": " Y'all sent me, you know, I bought what y'all were advertising."
+      },
+      {
+        "id": 19,
+        "start": 61.2400016784668,
+        "end": 70.23999786376953,
+        "text": " And y'all sent me a generic, whatever the hell they're called, I can't remember what"
+      },
+      {
+        "id": 20,
+        "start": 70.23999786376953,
+        "end": 74.23999786376953,
+        "text": " they're called now, but you sent me a generic."
+      },
+      {
+        "id": 21,
+        "start": 74.23999786376953,
+        "end": 76.23999786376953,
+        "text": " It is not what I ordered."
+      },
+      {
+        "id": 22,
+        "start": 76.23999786376953,
+        "end": 79.23999786376953,
+        "text": " It is not what you advertised to send."
+      },
+      {
+        "id": 23,
+        "start": 82.23999786376953,
+        "end": 83.23999786376953,
+        "text": " All right."
+      },
+      {
+        "id": 24,
+        "start": 83.31999969482422,
+        "end": 84.31999969482422,
+        "text": " We have the tracking number here."
+      },
+      {
+        "id": 25,
+        "start": 84.31999969482422,
+        "end": 88.31999969482422,
+        "text": " And I'm so sorry if that wasn't sent to you."
+      },
+      {
+        "id": 26,
+        "start": 88.31999969482422,
+        "end": 94.31999969482422,
+        "text": " It's due to arrive on, I'm sorry, what was that?"
+      },
+      {
+        "id": 27,
+        "start": 94.31999969482422,
+        "end": 95.31999969482422,
+        "text": " So it was sent then."
+      },
+      {
+        "id": 28,
+        "start": 95.31999969482422,
+        "end": 97.31999969482422,
+        "text": " It was supposed to arrive today."
+      },
+      {
+        "id": 29,
+        "start": 97.31999969482422,
+        "end": 102.31999969482422,
+        "text": " But with the weather we've been having across the country, yeah."
+      },
+      {
+        "id": 30,
+        "start": 102.31999969482422,
+        "end": 105.31999969482422,
+        "text": " It's due to arrive Saturday the 31st."
+      },
+      {
+        "id": 31,
+        "start": 105.31999969482422,
+        "end": 106.31999969482422,
+        "text": " Bear with me just a second."
+      },
+      {
+        "id": 32,
+        "start": 106.31999969482422,
+        "end": 108.31999969482422,
+        "text": " Let me go ahead and send this to you."
+      },
+      {
+        "id": 33,
+        "start": 108.31999969482422,
+        "end": 109.31999969482422,
+        "text": " All right."
+      },
+      {
+        "id": 34,
+        "start": 109.31999969482422,
+        "end": 112.31999969482422,
+        "text": " I went ahead and texted it to you so you'll get it more quickly."
+      },
+      {
+        "id": 35,
+        "start": 112.4000015258789,
+        "end": 113.4000015258789,
+        "text": " Let me know if you've received it."
+      },
+      {
+        "id": 36,
+        "start": 118.4000015258789,
+        "end": 119.4000015258789,
+        "text": " This is USPS?"
+      },
+      {
+        "id": 37,
+        "start": 120.4000015258789,
+        "end": 121.4000015258789,
+        "text": " Correct."
+      },
+      {
+        "id": 38,
+        "start": 121.4000015258789,
+        "end": 123.4000015258789,
+        "text": " If you click on the link, you'll see it as USPS."
+      },
+      {
+        "id": 39,
+        "start": 128.39999389648438,
+        "end": 129.39999389648438,
+        "text": " And this is your phone number, right?"
+      },
+      {
+        "id": 40,
+        "start": 129.39999389648438,
+        "end": 132.39999389648438,
+        "text": " 228-263-0411?"
+      },
+      {
+        "id": 41,
+        "start": 133.39999389648438,
+        "end": 134.39999389648438,
+        "text": " It is."
+      },
+      {
+        "id": 42,
+        "start": 134.39999389648438,
+        "end": 135.39999389648438,
+        "text": " All right."
+      },
+      {
+        "id": 43,
+        "start": 135.39999389648438,
+        "end": 136.39999389648438,
+        "text": " There it is."
+      },
+      {
+        "id": 44,
+        "start": 136.39999389648438,
+        "end": 137.39999389648438,
+        "text": " I think I heard it."
+      },
+      {
+        "id": 45,
+        "start": 137.39999389648438,
+        "end": 138.39999389648438,
+        "text": " Thought I heard something."
+      },
+      {
+        "id": 46,
+        "start": 138.39999389648438,
+        "end": 139.39999389648438,
+        "text": " Oh, yeah."
+      },
+      {
+        "id": 47,
+        "start": 139.39999389648438,
+        "end": 140.39999389648438,
+        "text": " I got a text."
+      },
+      {
+        "id": 48,
+        "start": 140.39999389648438,
+        "end": 141.39999389648438,
+        "text": " Okay."
+      },
+      {
+        "id": 49,
+        "start": 141.47999572753906,
+        "end": 142.47999572753906,
+        "text": " I got it."
+      },
+      {
+        "id": 50,
+        "start": 145.47999572753906,
+        "end": 146.47999572753906,
+        "text": " All right."
+      },
+      {
+        "id": 51,
+        "start": 146.47999572753906,
+        "end": 147.47999572753906,
+        "text": " That'll work."
+      },
+      {
+        "id": 52,
+        "start": 147.47999572753906,
+        "end": 148.47999572753906,
+        "text": " Awesome."
+      },
+      {
+        "id": 53,
+        "start": 148.47999572753906,
+        "end": 149.47999572753906,
+        "text": " All right."
+      },
+      {
+        "id": 54,
+        "start": 149.47999572753906,
+        "end": 150.47999572753906,
+        "text": " Thank you so much for your time."
+      },
+      {
+        "id": 55,
+        "start": 150.47999572753906,
+        "end": 151.47999572753906,
+        "text": " You have a good day."
+      },
+      {
+        "id": 56,
+        "start": 151.47999572753906,
+        "end": 152.47999572753906,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 57,
+        "start": 152.47999572753906,
+        "end": 153.47999572753906,
+        "text": " Thank you."
+      },
+      {
+        "id": 58,
+        "start": 153.47999572753906,
+        "end": 153.47999572753906,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a6-b15b-e8986e38d511",
+    "url": "https://www.notion.so/300000001221571-300000001711356-2f611d0a101c81a6b15be8986e38d511"
+  },
+  "processedAt": "2026-01-28T22:30:11.120Z"
+}

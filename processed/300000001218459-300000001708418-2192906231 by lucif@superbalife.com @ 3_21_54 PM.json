@@ -1,0 +1,146 @@
+{
+  "recording": {
+    "name": "300000001218459-300000001708418-2192906231 by lucif@superbalife.com @ 3_21_54 PM.wav",
+    "size": 184270,
+    "modifyTime": 1769582239000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218459-300000001708418-2192906231 by lucif@superbalife.com @ 3_21_54 PM.wav",
+    "uploadDate": "2026-01-28T06:37:19.000Z",
+    "callId": "300000001218459-300000001708418",
+    "agent": "lucif",
+    "phoneNumber": "2192906231",
+    "callTimestamp": "2026-01-28T15:21:54.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Mr. King, how can I help you?\n\nSpeaker 2: Yes, hello, how are you?\n\nSpeaker 1: Hey, how are you doing? Am I speaking to Mr. King?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Hey, Mr. King, how can I help you out today?\n\nSpeaker 2: Yes, today I was calling to make sure my prescription was canceled.\n\nSpeaker 1: Oh, wow. What's going on? Is it not working for you, or what's happening?\n\nSpeaker 2: Oh, it's nothing like that. I just can't afford it right now, so I wanted to halt all the...\n\nSpeaker 1: Oh, that's fine. You can order this when you want, sir.\n\nSpeaker 2: We can just stop everything, and you can order your next order in the next five months, whenever you want.\n\nSpeaker 1: Okay, that'll be no problem. I would just like to cancel it right now, and if I need to, I can call back and order.\n\nSpeaker 2: Yeah, so basically what we do is for the next five months, we'll just keep your prescription open and allow you to call for your refills on your own in that time.\n\nSpeaker 1: Okay, so I'll just go ahead and cancel it altogether, because I might forget, and then if I need it again...\n\nSpeaker 2: Yeah, but if you need it again, you won't have a prescription. That's why I'm trying to tell you we can keep it available.\n\nSpeaker 1: Okay, so is this five months, if I don't call back, then it'll start again?\n\nSpeaker 2: Well, you can get whatever you would want in five months. If you want to continue the same way that you are now, we can keep it that way.\n\nSpeaker 1: If you don't want it anymore, we can get rid of it. It's totally up to you, sir, on how you proceed.\n\nSpeaker 2: Yeah, that's okay. I'll just go ahead and cancel it.\n\nSpeaker 1: All right, just know you will not be able to reorder with us once your prescription is gone, okay?\n\nSpeaker 2: Okay, no problem.",
+    "duration": 4178,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Mr. King, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 9,
+        "text": " Yes, hello, how are you?"
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 13,
+        "text": " Hey, how are you doing? Am I speaking to Mr. King?"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 14,
+        "text": " Yes."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 19,
+        "text": " Hey, Mr. King, how can I help you out today?"
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 23,
+        "text": " Yes, today I was calling to make sure my prescription was canceled."
+      },
+      {
+        "id": 6,
+        "start": 23,
+        "end": 28,
+        "text": " Oh, wow. What's going on? Is it not working for you, or what's happening?"
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 35,
+        "text": " Oh, it's nothing like that. I just can't afford it right now, so I wanted to halt all the..."
+      },
+      {
+        "id": 8,
+        "start": 35,
+        "end": 37,
+        "text": " Oh, that's fine. You can order this when you want, sir."
+      },
+      {
+        "id": 9,
+        "start": 37,
+        "end": 42,
+        "text": " We can just stop everything, and you can order your next order in the next five months, whenever you want."
+      },
+      {
+        "id": 10,
+        "start": 42,
+        "end": 49,
+        "text": " Okay, that'll be no problem. I would just like to cancel it right now, and if I need to, I can call back and order."
+      },
+      {
+        "id": 11,
+        "start": 49,
+        "end": 59,
+        "text": " Yeah, so basically what we do is for the next five months, we'll just keep your prescription open and allow you to call for your refills on your own in that time."
+      },
+      {
+        "id": 12,
+        "start": 59,
+        "end": 72,
+        "text": " Okay, so I'll just go ahead and cancel it altogether, because I might forget, and then if I need it again..."
+      },
+      {
+        "id": 13,
+        "start": 72,
+        "end": 77,
+        "text": " Yeah, but if you need it again, you won't have a prescription. That's why I'm trying to tell you we can keep it available."
+      },
+      {
+        "id": 14,
+        "start": 77,
+        "end": 84,
+        "text": " Okay, so is this five months, if I don't call back, then it'll start again?"
+      },
+      {
+        "id": 15,
+        "start": 84,
+        "end": 93,
+        "text": " Well, you can get whatever you would want in five months. If you want to continue the same way that you are now, we can keep it that way."
+      },
+      {
+        "id": 16,
+        "start": 93,
+        "end": 101,
+        "text": " If you don't want it anymore, we can get rid of it. It's totally up to you, sir, on how you proceed."
+      },
+      {
+        "id": 17,
+        "start": 101,
+        "end": 104,
+        "text": " Yeah, that's okay. I'll just go ahead and cancel it."
+      },
+      {
+        "id": 18,
+        "start": 107,
+        "end": 111,
+        "text": " All right, just know you will not be able to reorder with us once your prescription is gone, okay?"
+      },
+      {
+        "id": 19,
+        "start": 111,
+        "end": 113,
+        "text": " Okay, no problem."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e9-92a9-fc481a62c646",
+    "url": "https://www.notion.so/300000001218459-300000001708418-2f611d0a101c81e992a9fc481a62c646"
+  },
+  "processedAt": "2026-01-28T17:19:17.897Z"
+}

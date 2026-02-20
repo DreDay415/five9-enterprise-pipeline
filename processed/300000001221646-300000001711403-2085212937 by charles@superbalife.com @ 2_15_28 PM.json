@@ -1,0 +1,128 @@
+{
+  "recording": {
+    "name": "300000001221646-300000001711403-2085212937 by charles@superbalife.com @ 2_15_28 PM.wav",
+    "size": 80856,
+    "modifyTime": 1769638581000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221646-300000001711403-2085212937 by charles@superbalife.com @ 2_15_28 PM.wav",
+    "uploadDate": "2026-01-28T22:16:21.000Z",
+    "callId": "300000001221646-300000001711403",
+    "agent": "charles",
+    "phoneNumber": "2085212937",
+    "callTimestamp": "2026-01-28T14:15:28.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, this is Charles.\n\nSpeaker 2: Yeah, I just got some more of your pills, and I did not order them, and I don't want any more.\n\nSpeaker 1: One second.\n\nSpeaker 1: All right, Terry Young in Courtside, Arizona?\n\nSpeaker 2: Yep.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, Terry, it does look like you are a VIP member here.\n\nSpeaker 1: Do you just not need the pills as often as you've been getting them?\n\nSpeaker 2: Pardon?\n\nSpeaker 1: Do you not need the pills as often as every month?\n\nSpeaker 2: I don't want them.\n\nSpeaker 1: I don't think they're any good.\n\nSpeaker 2: Okay, I'll go ahead and cancel everything then.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: Take care.\n\nSpeaker 1: Bye.",
+    "duration": 2626,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thanks for calling Viagra, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10,
+        "text": " Yeah, I just got some more of your pills, and I did not order them, and I don't want"
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 12,
+        "text": " any more."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 15,
+        "text": " One second."
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 24,
+        "text": " All right, Terry Young in Courtside, Arizona?"
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 25,
+        "text": " Yep."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 26,
+        "text": " Okay."
+      },
+      {
+        "id": 7,
+        "start": 26,
+        "end": 29,
+        "text": " All right, Terry, it does look like you are a VIP member here."
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 33,
+        "text": " Do you just not need the pills as often as you've been getting them?"
+      },
+      {
+        "id": 9,
+        "start": 33,
+        "end": 34,
+        "text": " Pardon?"
+      },
+      {
+        "id": 10,
+        "start": 34,
+        "end": 38,
+        "text": " Do you not need the pills as often as every month?"
+      },
+      {
+        "id": 11,
+        "start": 38,
+        "end": 40,
+        "text": " I don't want them."
+      },
+      {
+        "id": 12,
+        "start": 40,
+        "end": 42,
+        "text": " I don't think they're any good."
+      },
+      {
+        "id": 13,
+        "start": 42,
+        "end": 45,
+        "text": " Okay, I'll go ahead and cancel everything then."
+      },
+      {
+        "id": 14,
+        "start": 45,
+        "end": 47,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 15,
+        "start": 47,
+        "end": 48,
+        "text": " Take care."
+      },
+      {
+        "id": 16,
+        "start": 48,
+        "end": 49,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8174-86ce-c958ffd7db52",
+    "url": "https://www.notion.so/300000001221646-300000001711403-2f611d0a101c817486cec958ffd7db52"
+  },
+  "processedAt": "2026-01-28T23:42:06.819Z"
+}

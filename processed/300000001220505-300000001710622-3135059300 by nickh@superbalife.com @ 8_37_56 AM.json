@@ -1,0 +1,194 @@
+{
+  "recording": {
+    "name": "300000001220505-300000001710622-3135059300 by nickh@superbalife.com @ 8_37_56 AM.wav",
+    "size": 225740,
+    "modifyTime": 1769618436000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220505-300000001710622-3135059300 by nickh@superbalife.com @ 8_37_56 AM.wav",
+    "uploadDate": "2026-01-28T16:40:36.000Z",
+    "callId": "300000001220505-300000001710622",
+    "agent": "nickh",
+    "phoneNumber": "3135059300",
+    "callTimestamp": "2026-01-28T08:37:56.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra at ScoreBlue. How can I help you today?\n\nSpeaker 2: Yes, let's see. I'm just online trying to put an order in, put my credit card.\n\nSpeaker 1: It says my credit card is being charged, but I didn't okay it,\n\nSpeaker 2: or I'm just trying to see what the process is.\n\nSpeaker 1: Okay, well let me pull up your potential account here and see if something went through.\n\nSpeaker 2: Can I get your full name and date of birth?\n\nSpeaker 1: It's John, K-O-H-N-O-B-I-D-O, 04-09-1957.\n\nSpeaker 2: So John, it looks like you did put your credit card information in and it was charged.\n\nSpeaker 1: It looks like a card – I'm pulling up the card information for you.\n\nSpeaker 2: So that was a MasterCard ending in 7-1-2-4?\n\nSpeaker 1: Correct. I just put the information in, but I didn't hit complete sell or anything.\n\nSpeaker 2: So did you want this prescription, sir, or not?\n\nSpeaker 1: Well, I wanted to find out how long it would take to get it shipped.\n\nSpeaker 2: I'm out of state right now, that's why.\n\nSpeaker 1: I'm just wondering if I should wait until I get home or order it now?\n\nSpeaker 2: So this has been ordered, and you can probably expect it in about 5 business days.\n\nSpeaker 1: And the address that's on file is 1116 South Washington Street.\n\nSpeaker 2: No, I'll be gone.\n\nSpeaker 1: Okay. The best bet here is canceling it and then reordering it again later down the road\n\nSpeaker 2: when you want it.\n\nSpeaker 1: Yeah. How can I cancel it?\n\nSpeaker 2: I'll do it for you right now.\n\nSpeaker 1: Please. Thank you.\n\nSpeaker 2: I went ahead and canceled that for you, okay?\n\nSpeaker 1: Thank you. All right then. I appreciate it.\n\nSpeaker 2: Yep, you got it.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 5557,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.5,
+        "text": " Hi, thank you for calling Viagra at ScoreBlue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 4.5,
+        "end": 12.199999809265137,
+        "text": " Yes, let's see. I'm just online trying to put an order in, put my credit card."
+      },
+      {
+        "id": 2,
+        "start": 12.199999809265137,
+        "end": 17.799999237060547,
+        "text": " It says my credit card is being charged, but I didn't okay it,"
+      },
+      {
+        "id": 3,
+        "start": 17.799999237060547,
+        "end": 21.799999237060547,
+        "text": " or I'm just trying to see what the process is."
+      },
+      {
+        "id": 4,
+        "start": 21.799999237060547,
+        "end": 25.600000381469727,
+        "text": " Okay, well let me pull up your potential account here and see if something went through."
+      },
+      {
+        "id": 5,
+        "start": 25.600000381469727,
+        "end": 28.799999237060547,
+        "text": " Can I get your full name and date of birth?"
+      },
+      {
+        "id": 6,
+        "start": 28.799999237060547,
+        "end": 39.20000076293945,
+        "text": " It's John, K-O-H-N-O-B-I-D-O-4-O-9-1957."
+      },
+      {
+        "id": 7,
+        "start": 39.20000076293945,
+        "end": 45.900001525878906,
+        "text": " So John, it looks like you did put your credit card information in and it was charged."
+      },
+      {
+        "id": 8,
+        "start": 45.900001525878906,
+        "end": 55.599998474121094,
+        "text": " It looks like a card – I'm pulling up the card information for you."
+      },
+      {
+        "id": 9,
+        "start": 55.599998474121094,
+        "end": 61.79999923706055,
+        "text": " So that was a MasterCard ending in 7-1-2-4?"
+      },
+      {
+        "id": 10,
+        "start": 61.79999923706055,
+        "end": 69.9000015258789,
+        "text": " Correct. I just put the information in, but I didn't hit complete sell or anything."
+      },
+      {
+        "id": 11,
+        "start": 69.9000015258789,
+        "end": 73.4000015258789,
+        "text": " So did you want this prescription, sir, or not?"
+      },
+      {
+        "id": 12,
+        "start": 73.4000015258789,
+        "end": 81.80000305175781,
+        "text": " Well, I wanted to find out how long it would take to get it shipped."
+      },
+      {
+        "id": 13,
+        "start": 82,
+        "end": 85.4000015258789,
+        "text": " I'm out of state right now, that's why."
+      },
+      {
+        "id": 14,
+        "start": 85.4000015258789,
+        "end": 90.5999984741211,
+        "text": " I'm just wondering if I should wait until I get home or order it now?"
+      },
+      {
+        "id": 15,
+        "start": 90.5999984741211,
+        "end": 96.5999984741211,
+        "text": " So this has been ordered, and you can probably expect it in about 5 business days."
+      },
+      {
+        "id": 16,
+        "start": 96.5999984741211,
+        "end": 102.0999984741211,
+        "text": " And the address that's on file is 1116 South Washington Street."
+      },
+      {
+        "id": 17,
+        "start": 102.0999984741211,
+        "end": 104.9000015258789,
+        "text": " No, I'll be gone."
+      },
+      {
+        "id": 18,
+        "start": 105.9000015258789,
+        "end": 115.30000305175781,
+        "text": " Okay. The best bet here is canceling it and then reordering it again later down the road"
+      },
+      {
+        "id": 19,
+        "start": 115.30000305175781,
+        "end": 117,
+        "text": " when you want it."
+      },
+      {
+        "id": 20,
+        "start": 117,
+        "end": 120,
+        "text": " Yeah. How can I cancel it?"
+      },
+      {
+        "id": 21,
+        "start": 120,
+        "end": 122,
+        "text": " I'll do it for you right now."
+      },
+      {
+        "id": 22,
+        "start": 122,
+        "end": 124,
+        "text": " Please. Thank you."
+      },
+      {
+        "id": 23,
+        "start": 129,
+        "end": 132,
+        "text": " I went ahead and canceled that for you, okay?"
+      },
+      {
+        "id": 24,
+        "start": 132.10000610351562,
+        "end": 135.10000610351562,
+        "text": " Thank you. All right then. I appreciate it."
+      },
+      {
+        "id": 25,
+        "start": 135.10000610351562,
+        "end": 137.10000610351562,
+        "text": " Yep, you got it."
+      },
+      {
+        "id": 26,
+        "start": 137.10000610351562,
+        "end": 138.10000610351562,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 27,
+        "start": 138.10000610351562,
+        "end": 139.10000610351562,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8182-ad17-caf75ac6e4e7",
+    "url": "https://www.notion.so/300000001220505-300000001710622-2f611d0a101c8182ad17caf75ac6e4e7"
+  },
+  "processedAt": "2026-01-28T18:56:43.956Z"
+}

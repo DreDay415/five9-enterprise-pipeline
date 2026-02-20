@@ -1,0 +1,200 @@
+{
+  "recording": {
+    "name": "300000001221232-300000001711122-8604915967 by josimar@superbalife.com @ 11_59_48 AM.wav",
+    "size": 100746,
+    "modifyTime": 1769630473000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221232-300000001711122-8604915967 by josimar@superbalife.com @ 11_59_48 AM.wav",
+    "uploadDate": "2026-01-28T20:01:13.000Z",
+    "callId": "300000001221232-300000001711122",
+    "agent": "josimar",
+    "phoneNumber": "8604915967",
+    "callTimestamp": "2026-01-28T11:59:48.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, how can I help you today?\n\nSpeaker 2: Yes, I'm calling to cancel my subscription.\n\nSpeaker 1: I can take a look into that for you.\n\nSpeaker 2: What's your last name and a zip code?\n\nSpeaker 1: Myers, M-Y-E-R-S, 20659.\n\nSpeaker 2: Got it.\n\nSpeaker 1: So I pulled up your prescription here,\n\nSpeaker 2: and I do want to mention you're currently a VIP member with the Pfizer AGV.\n\nSpeaker 1: The moment we do cancel out these prescriptions,\n\nSpeaker 2: the doctor will actually delete the visit from the system,\n\nSpeaker 1: and you wouldn't be able to order.\n\nSpeaker 2: However, I can always switch you over to our every six-month plan.\n\nSpeaker 1: That way you can always call us when you need them\n\nSpeaker 2: or call us to delay it, and you retain access to the medication.\n\nSpeaker 1: Well, the medication doesn't work.\n\nSpeaker 2: Got it. No worries.\n\nSpeaker 1: And how have you been taking it, by the way?\n\nSpeaker 2: Are you taking it on an empty stomach?\n\nSpeaker 1: I take it like a turtle on the bottom, yeah.\n\nSpeaker 2: Got it, yeah.\n\nSpeaker 1: So as long as you're taking them as directed and they're not working for you,\n\nSpeaker 2: then Fortune probably isn't a good fit for you.\n\nSpeaker 1: So I'll go ahead and I'll just stop the orders with you.\n\nSpeaker 2: Other than that, you're all set to go.\n\nSpeaker 1: So it's canceled?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right. Thank you.\n\nSpeaker 1: Have a good one. Bye-bye.",
+    "duration": 4845,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Viagra, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 6,
+        "text": " Yes, I'm calling to cancel my subscription."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 8,
+        "text": " I can take a look into that for you."
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 10,
+        "text": " What's your last name and a zip code?"
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 14,
+        "text": " Myers, M-Y-E-R-S, 20659."
+      },
+      {
+        "id": 5,
+        "start": 14,
+        "end": 15,
+        "text": " Got it."
+      },
+      {
+        "id": 6,
+        "start": 15,
+        "end": 17,
+        "text": " So I pulled up your prescription here,"
+      },
+      {
+        "id": 7,
+        "start": 17,
+        "end": 20,
+        "text": " and I do want to mention you're currently a VIP member with the Pfizer AGV."
+      },
+      {
+        "id": 8,
+        "start": 20,
+        "end": 22,
+        "text": " The moment we do cancel out these prescriptions,"
+      },
+      {
+        "id": 9,
+        "start": 22,
+        "end": 25,
+        "text": " the doctor will actually delete the visit from the system,"
+      },
+      {
+        "id": 10,
+        "start": 25,
+        "end": 27,
+        "text": " and you wouldn't be able to order."
+      },
+      {
+        "id": 11,
+        "start": 27,
+        "end": 30,
+        "text": " However, I can always switch you over to our every six-month plan."
+      },
+      {
+        "id": 12,
+        "start": 30,
+        "end": 32,
+        "text": " That way you can always call us when you need them"
+      },
+      {
+        "id": 13,
+        "start": 32,
+        "end": 36,
+        "text": " or call us to delay it, and you retain access to the medication."
+      },
+      {
+        "id": 14,
+        "start": 36,
+        "end": 38,
+        "text": " Well, the medication doesn't work."
+      },
+      {
+        "id": 15,
+        "start": 38,
+        "end": 39,
+        "text": " Got it. No worries."
+      },
+      {
+        "id": 16,
+        "start": 39,
+        "end": 41,
+        "text": " And how have you been taking it, by the way?"
+      },
+      {
+        "id": 17,
+        "start": 41,
+        "end": 44,
+        "text": " Are you taking it on an empty stomach?"
+      },
+      {
+        "id": 18,
+        "start": 44,
+        "end": 46,
+        "text": " I take it like a turtle on the bottom, yeah."
+      },
+      {
+        "id": 19,
+        "start": 46,
+        "end": 47,
+        "text": " Got it, yeah."
+      },
+      {
+        "id": 20,
+        "start": 47,
+        "end": 50,
+        "text": " So as long as you're taking them as directed and they're not working for you,"
+      },
+      {
+        "id": 21,
+        "start": 50,
+        "end": 52,
+        "text": " then Fortune probably isn't a good fit for you."
+      },
+      {
+        "id": 22,
+        "start": 52,
+        "end": 54,
+        "text": " So I'll go ahead and I'll just stop the orders with you."
+      },
+      {
+        "id": 23,
+        "start": 54,
+        "end": 57,
+        "text": " Other than that, you're all set to go."
+      },
+      {
+        "id": 24,
+        "start": 57,
+        "end": 58,
+        "text": " So it's canceled?"
+      },
+      {
+        "id": 25,
+        "start": 58,
+        "end": 59,
+        "text": " Yeah."
+      },
+      {
+        "id": 26,
+        "start": 59,
+        "end": 60,
+        "text": " Okay."
+      },
+      {
+        "id": 27,
+        "start": 60,
+        "end": 61,
+        "text": " All right. Thank you."
+      },
+      {
+        "id": 28,
+        "start": 61,
+        "end": 62,
+        "text": " Have a good one. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8162-9662-e5c81fd97ad6",
+    "url": "https://www.notion.so/300000001221232-300000001711122-2f611d0a101c81629662e5c81fd97ad6"
+  },
+  "processedAt": "2026-01-28T23:17:08.138Z"
+}

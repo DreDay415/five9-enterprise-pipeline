@@ -1,0 +1,206 @@
+{
+  "recording": {
+    "name": "300000001221740-300000001711452-2069090321 by jessie@superbalife.com @ 2_47_14 PM.wav",
+    "size": 127200,
+    "modifyTime": 1769640532000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221740-300000001711452-2069090321 by jessie@superbalife.com @ 2_47_14 PM.wav",
+    "uploadDate": "2026-01-28T22:48:52.000Z",
+    "callId": "300000001221740-300000001711452",
+    "agent": "jessie",
+    "phoneNumber": "2069090321",
+    "callTimestamp": "2026-01-28T14:47:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra.\n\nSpeaker 2: Can I get your first and last name, please?\n\nSpeaker 1: Yeah, it's Bjorn, B-J-O-R-N, last name Bailey, B-A-Y-L-E-Y.\n\nSpeaker 2: You got it.\n\nSpeaker 1: And Mr. Bailey, let's see here, are you at 4406th Avenue in Fox Island, Washington, 98333?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay, perfect.\n\nSpeaker 2: Let's take a look.\n\nSpeaker 1: It says here you're looking to cancel your monthlies, is that correct?\n\nSpeaker 2: That's right.\n\nSpeaker 1: Okay, let me go ahead and do that for you.\n\nSpeaker 2: Yeah, that is a lot every month.\n\nSpeaker 1: Let's see here.\n\nSpeaker 2: Now, I can just do it where you can keep your prescription active, but not get stuff monthly,\n\nSpeaker 1: so you're not getting inundated every month.\n\nSpeaker 2: And you can just order at will.\n\nSpeaker 1: I can set it up like that and just feel free to order whenever you feel like it.\n\nSpeaker 2: The only thing is to keep your prescription active.\n\nSpeaker 1: If you do not order in the six-month period, it will send you one refill just to keep your\n\nSpeaker 2: prescription active, and that's it.\n\nSpeaker 1: Okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, perfect.\n\nSpeaker 2: I appreciate that.\n\nSpeaker 1: No problem.\n\nSpeaker 2: Is there anything else I can assist you with?\n\nSpeaker 1: No, that's good.\n\nSpeaker 2: Thank you so much.\n\nSpeaker 1: All right.",
+    "duration": 4459,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.71999979019165,
+        "text": " Hi, thank you so much for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 4.71999979019165,
+        "end": 7.320000171661377,
+        "text": " Can I get your first and last name, please?"
+      },
+      {
+        "id": 2,
+        "start": 7.320000171661377,
+        "end": 18.280000686645508,
+        "text": " Yeah, it's Bjorn, B-J-O-R-N, last name Bailey, B-A-Y-L-E-Y."
+      },
+      {
+        "id": 3,
+        "start": 18.280000686645508,
+        "end": 19.280000686645508,
+        "text": " You got it."
+      },
+      {
+        "id": 4,
+        "start": 19.280000686645508,
+        "end": 27.399999618530273,
+        "text": " And Mr. Bailey, let's see here, are you at 4406th Avenue in Fox Island, Washington, 98333?"
+      },
+      {
+        "id": 5,
+        "start": 27.399999618530273,
+        "end": 28.399999618530273,
+        "text": " Yeah."
+      },
+      {
+        "id": 6,
+        "start": 28.399999618530273,
+        "end": 29.399999618530273,
+        "text": " Okay, perfect."
+      },
+      {
+        "id": 7,
+        "start": 30.399999618530273,
+        "end": 31.399999618530273,
+        "text": " Let's take a look."
+      },
+      {
+        "id": 8,
+        "start": 31.399999618530273,
+        "end": 34.400001525878906,
+        "text": " It says here you're looking to cancel your monthlies, is that correct?"
+      },
+      {
+        "id": 9,
+        "start": 34.400001525878906,
+        "end": 35.400001525878906,
+        "text": " That's right."
+      },
+      {
+        "id": 10,
+        "start": 35.400001525878906,
+        "end": 38.400001525878906,
+        "text": " Okay, let me go ahead and do that for you."
+      },
+      {
+        "id": 11,
+        "start": 38.400001525878906,
+        "end": 42.400001525878906,
+        "text": " Yeah, that is a lot every month."
+      },
+      {
+        "id": 12,
+        "start": 42.400001525878906,
+        "end": 44.400001525878906,
+        "text": " Let's see here."
+      },
+      {
+        "id": 13,
+        "start": 44.400001525878906,
+        "end": 51.400001525878906,
+        "text": " Now, I can just do it where you can keep your prescription active, but not get stuff monthly,"
+      },
+      {
+        "id": 14,
+        "start": 51.400001525878906,
+        "end": 53.400001525878906,
+        "text": " so you're not getting inundated every month."
+      },
+      {
+        "id": 15,
+        "start": 53.400001525878906,
+        "end": 56.400001525878906,
+        "text": " And you can just order at will."
+      },
+      {
+        "id": 16,
+        "start": 56.400001525878906,
+        "end": 60.400001525878906,
+        "text": " I can set it up like that and just feel free to order whenever you feel like it."
+      },
+      {
+        "id": 17,
+        "start": 60.400001525878906,
+        "end": 63.400001525878906,
+        "text": " The only thing is to keep your prescription active."
+      },
+      {
+        "id": 18,
+        "start": 63.400001525878906,
+        "end": 67.4000015258789,
+        "text": " If you do not order in the six-month period, it will send you one refill just to keep your"
+      },
+      {
+        "id": 19,
+        "start": 67.4000015258789,
+        "end": 69.4000015258789,
+        "text": " prescription active, and that's it."
+      },
+      {
+        "id": 20,
+        "start": 69.4000015258789,
+        "end": 70.4000015258789,
+        "text": " Okay?"
+      },
+      {
+        "id": 21,
+        "start": 70.4000015258789,
+        "end": 71.4000015258789,
+        "text": " Okay."
+      },
+      {
+        "id": 22,
+        "start": 71.4000015258789,
+        "end": 72.4000015258789,
+        "text": " All right, perfect."
+      },
+      {
+        "id": 23,
+        "start": 72.4000015258789,
+        "end": 73.4000015258789,
+        "text": " I appreciate that."
+      },
+      {
+        "id": 24,
+        "start": 73.4000015258789,
+        "end": 74.4000015258789,
+        "text": " No problem."
+      },
+      {
+        "id": 25,
+        "start": 74.4000015258789,
+        "end": 75.4000015258789,
+        "text": " Is there anything else I can assist you with?"
+      },
+      {
+        "id": 26,
+        "start": 75.4000015258789,
+        "end": 76.4000015258789,
+        "text": " No, that's good."
+      },
+      {
+        "id": 27,
+        "start": 76.4000015258789,
+        "end": 77.4000015258789,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 28,
+        "start": 77.4000015258789,
+        "end": 78.4000015258789,
+        "text": " All right."
+      },
+      {
+        "id": 29,
+        "start": 78.4000015258789,
+        "end": 78.4000015258789,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81c3-a0e0-eb5fa8e6846c",
+    "url": "https://www.notion.so/300000001221740-300000001711452-2f611d0a101c81c3a0e0eb5fa8e6846c"
+  },
+  "processedAt": "2026-01-28T23:31:00.981Z"
+}

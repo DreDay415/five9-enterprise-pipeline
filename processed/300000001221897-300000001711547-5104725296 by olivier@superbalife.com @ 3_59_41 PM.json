@@ -1,0 +1,74 @@
+{
+  "recording": {
+    "name": "300000001221897-300000001711547-5104725296 by olivier@superbalife.com @ 3_59_41 PM.wav",
+    "size": 64410,
+    "modifyTime": 1769644827000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221897-300000001711547-5104725296 by olivier@superbalife.com @ 3_59_41 PM.wav",
+    "uploadDate": "2026-01-29T00:00:27.000Z",
+    "callId": "300000001221897-300000001711547",
+    "agent": "olivier",
+    "phoneNumber": "5104725296",
+    "callTimestamp": "2026-01-29T15:59:41.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: All right, Mr. Jackson, yes. Yeah, so just wait, you will receive your email today, okay.\n\nSpeaker 2: Just wait, okay.\n\nSpeaker 1: You're going to receive an email, sir, today. Okay.\n\nSpeaker 2: Who'd you send the request to?\n\nSpeaker 1: Give me a name. I gotta send a request to somebody. Okay, who did you send the request to?\n\nSpeaker 2: One of my colleagues. Okay, who is the colleague?\n\nSpeaker 1: Who's the colleague? I'm gonna let you go, sir. You're doing too much.\n\nSpeaker 2: No, no, you're doing too much. You got...",
+    "duration": 2186,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7.480000019073486,
+        "text": " All right, mr. Jackson, yes. Yeah, so just wait you will receive your email today, okay"
+      },
+      {
+        "id": 1,
+        "start": 10.4399995803833,
+        "end": 12.4399995803833,
+        "text": " Just wait, okay"
+      },
+      {
+        "id": 2,
+        "start": 14.600000381469727,
+        "end": 17.440000534057617,
+        "text": " Request you're going to receive an email sir today. Okay"
+      },
+      {
+        "id": 3,
+        "start": 18.440000534057617,
+        "end": 21.520000457763672,
+        "text": " Who'd you see who'd you send the request to so?"
+      },
+      {
+        "id": 4,
+        "start": 22.079999923706055,
+        "end": 29.239999771118164,
+        "text": " Give me a name. I gotta send a request. So somebody okay, who did you send the request to?"
+      },
+      {
+        "id": 5,
+        "start": 30,
+        "end": 33.119998931884766,
+        "text": " One of my colleagues and okay, who is the colleague?"
+      },
+      {
+        "id": 6,
+        "start": 33.47999954223633,
+        "end": 36.68000030517578,
+        "text": " Who's the colleague? I'm gonna let you go sir. You're doing too much"
+      },
+      {
+        "id": 7,
+        "start": 37.2400016784668,
+        "end": 39.380001068115234,
+        "text": " No, no, you're doing too much. You got"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8127-84fb-cdf7116c82a5",
+    "url": "https://www.notion.so/300000001221897-300000001711547-2f711d0a101c812784fbcdf7116c82a5"
+  },
+  "processedAt": "2026-01-29T10:15:23.479Z"
+}

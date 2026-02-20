@@ -1,0 +1,152 @@
+{
+  "recording": {
+    "name": "300000001218099-300000001708180-2067789666 by josimar@superbalife.com @ 1_15_29 PM.wav",
+    "size": 108090,
+    "modifyTime": 1769585834000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218099-300000001708180-2067789666 by josimar@superbalife.com @ 1_15_29 PM.wav",
+    "uploadDate": "2026-01-28T07:37:14.000Z",
+    "callId": "300000001218099-300000001708180",
+    "agent": "josimar",
+    "phoneNumber": "2067789666",
+    "callTimestamp": "2026-01-28T13:15:29.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I am trying to cancel a subscription that I have with you guys and I don't see an option.\n\nSpeaker 2: To do that online.\n\nSpeaker 1: What's your last name and your zip code so I can pull up your account?\n\nSpeaker 2: Cameron, C-A-M-E-R-O-N, 98178.\n\nSpeaker 1: Okay, I pulled up your profile, so I do want to mention you're currently one of our VIP members for the AG Viagra.\n\nSpeaker 2: The moment it does get canceled out, you wouldn't be able to order in the future, so what I could always offer you if you want, we can always put you under a six-month freeze plan.\n\nSpeaker 1: That way you can freeze it out and then when you do require it on the road, you can always access them.\n\nSpeaker 2: No, I want to cancel it.\n\nSpeaker 1: It doesn't work for me.\n\nSpeaker 2: No worries.\n\nSpeaker 1: I'll go ahead and put a stop to those orders and just keep in mind the prescription would be deleted and you wouldn't be allowed to order in the future.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: No problem.\n\nSpeaker 1: Have a good one.\n\nSpeaker 2: Bye-bye.",
+    "duration": 3666,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 11.239999771118164,
+        "text": " I am trying to cancel a subscription that I have with you guys and I don't see an option"
+      },
+      {
+        "id": 1,
+        "start": 11.239999771118164,
+        "end": 12.239999771118164,
+        "text": " to do that online."
+      },
+      {
+        "id": 2,
+        "start": 12.239999771118164,
+        "end": 16.040000915527344,
+        "text": " What's your last name and your zip code so I can pull up your account?"
+      },
+      {
+        "id": 3,
+        "start": 16.040000915527344,
+        "end": 19.040000915527344,
+        "text": " Cameron, C-A-M-E-R-O-N, 98178."
+      },
+      {
+        "id": 4,
+        "start": 19.040000915527344,
+        "end": 35.7599983215332,
+        "text": " Okay, I pulled up your profile, so I do want to mention you're currently one of our VIP"
+      },
+      {
+        "id": 5,
+        "start": 35.7599983215332,
+        "end": 37.52000045776367,
+        "text": " members for the AG Viagra."
+      },
+      {
+        "id": 6,
+        "start": 37.52000045776367,
+        "end": 41.79999923706055,
+        "text": " The moment it does get canceled out, you wouldn't be able to order in the future, so what I"
+      },
+      {
+        "id": 7,
+        "start": 41.79999923706055,
+        "end": 45.400001525878906,
+        "text": " could always offer you if you want, we can always put you under a six-month freeze plan."
+      },
+      {
+        "id": 8,
+        "start": 45.400001525878906,
+        "end": 48.439998626708984,
+        "text": " That way you can freeze it out and then when you do require it on the road, you can always"
+      },
+      {
+        "id": 9,
+        "start": 48.439998626708984,
+        "end": 49.439998626708984,
+        "text": " access them."
+      },
+      {
+        "id": 10,
+        "start": 49.439998626708984,
+        "end": 50.439998626708984,
+        "text": " No, I want to cancel it."
+      },
+      {
+        "id": 11,
+        "start": 50.439998626708984,
+        "end": 51.439998626708984,
+        "text": " It doesn't work for me."
+      },
+      {
+        "id": 12,
+        "start": 51.439998626708984,
+        "end": 52.439998626708984,
+        "text": " No worries."
+      },
+      {
+        "id": 13,
+        "start": 52.439998626708984,
+        "end": 57.599998474121094,
+        "text": " I'll go ahead and put a stop to those orders and just keep in mind the prescription would"
+      },
+      {
+        "id": 14,
+        "start": 57.599998474121094,
+        "end": 60.040000915527344,
+        "text": " be deleted and you wouldn't be allowed to order in the future."
+      },
+      {
+        "id": 15,
+        "start": 60.040000915527344,
+        "end": 61.040000915527344,
+        "text": " All right."
+      },
+      {
+        "id": 16,
+        "start": 61.040000915527344,
+        "end": 62.040000915527344,
+        "text": " Thank you."
+      },
+      {
+        "id": 17,
+        "start": 62.040000915527344,
+        "end": 63.040000915527344,
+        "text": " No problem."
+      },
+      {
+        "id": 18,
+        "start": 63.040000915527344,
+        "end": 64.04000091552734,
+        "text": " Have a good one."
+      },
+      {
+        "id": 19,
+        "start": 64.04000091552734,
+        "end": 65.04000091552734,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 20,
+        "start": 65.04000091552734,
+        "end": 65.04000091552734,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81b3-8484-fbcfad4bdaf6",
+    "url": "https://www.notion.so/300000001218099-300000001708180-2f611d0a101c81b38484fbcfad4bdaf6"
+  },
+  "processedAt": "2026-01-28T14:10:27.816Z"
+}

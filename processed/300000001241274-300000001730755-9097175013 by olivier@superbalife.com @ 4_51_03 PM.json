@@ -1,0 +1,119 @@
+{
+  "recording": {
+    "name": "300000001241274-300000001730755-9097175013 by olivier@superbalife.com @ 4_51_03 PM.wav",
+    "size": 70456,
+    "modifyTime": 1770943913000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241274-300000001730755-9097175013 by olivier@superbalife.com @ 4_51_03 PM.wav",
+    "uploadDate": "2026-02-13T00:51:53.000Z",
+    "callId": "300000001241274-300000001730755",
+    "agent": "olivier",
+    "phoneNumber": "9097175013",
+    "callTimestamp": "2026-02-13T16:51:03.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivier_300000001241274-300000001730755_9097175013.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivier_300000001241274-300000001730755_9097175013.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, any amount of money to take me off this list?\n\nSpeaker 2: Mr. Sean?\n\nSpeaker 1: No, who's this?\n\nSpeaker 2: This is Cole Blue.\n\nSpeaker 1: Oh, how you doing?\n\nSpeaker 2: Yeah, good.\n\nSpeaker 1: Yeah, I'm calling just to follow up, because I know you wanted to receive your pill by Friday, because you remember we cut the order?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Yeah, I see that the shipping, it will come by Friday.\n\nSpeaker 2: Okay.\n\nSpeaker 1: You have a tracking number in your email if you want, or I can give it to you so you can see it.\n\nSpeaker 2: If it's in my email, that's great, man.\n\nSpeaker 1: Perfect. Okay, I just wanted to follow up. You have a good day.\n\nSpeaker 2: You're a good man. Thanks.\n\nSpeaker 1: Bye.",
+    "duration": 2733,
+    "audioDuration": 43.31999969482422,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hey, any amount of money to take me off this list?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 5,
+        "text": " Mr. Sean?"
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 7,
+        "text": " No, who's this?"
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 9,
+        "text": " This is Cole Blue."
+      },
+      {
+        "id": 4,
+        "start": 9,
+        "end": 11,
+        "text": " Oh, how you doing?"
+      },
+      {
+        "id": 5,
+        "start": 11,
+        "end": 12,
+        "text": " Yeah, good."
+      },
+      {
+        "id": 6,
+        "start": 12,
+        "end": 23,
+        "text": " Yeah, I'm calling just to follow up, because I know you wanted to receive your pill by Friday, because you remember we cut the order?"
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 24,
+        "text": " Yes."
+      },
+      {
+        "id": 8,
+        "start": 24,
+        "end": 28,
+        "text": " Yeah, I see that the shipping, it will come by Friday."
+      },
+      {
+        "id": 9,
+        "start": 28,
+        "end": 29,
+        "text": " Okay."
+      },
+      {
+        "id": 10,
+        "start": 29,
+        "end": 34,
+        "text": " You have a tracking number in your email if you want, or I can give it to you so you can see it."
+      },
+      {
+        "id": 11,
+        "start": 34,
+        "end": 37,
+        "text": " If it's in my email, that's great, man."
+      },
+      {
+        "id": 12,
+        "start": 37,
+        "end": 40,
+        "text": " Perfect. Okay, I just wanted to follow up. You have a good day."
+      },
+      {
+        "id": 13,
+        "start": 40,
+        "end": 42,
+        "text": " You're a good man. Thanks."
+      },
+      {
+        "id": 14,
+        "start": 42,
+        "end": 43,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8100-a156-d09cb95db696",
+    "url": "https://www.notion.so/300000001241274-300000001730755-30611d0a101c8100a156d09cb95db696"
+  },
+  "processedAt": "2026-02-13T01:02:26.268Z"
+}

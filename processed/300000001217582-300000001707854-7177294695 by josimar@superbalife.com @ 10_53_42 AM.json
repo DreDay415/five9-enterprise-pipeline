@@ -1,0 +1,188 @@
+{
+  "recording": {
+    "name": "300000001217582-300000001707854-7177294695 by josimar@superbalife.com @ 10_53_42 AM.wav",
+    "size": 153136,
+    "modifyTime": 1769586432000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217582-300000001707854-7177294695 by josimar@superbalife.com @ 10_53_42 AM.wav",
+    "uploadDate": "2026-01-28T07:47:12.000Z",
+    "callId": "300000001217582-300000001707854",
+    "agent": "josimar",
+    "phoneNumber": "7177294695",
+    "callTimestamp": "2026-01-28T10:53:42.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, can I help you today?\n\nSpeaker 2: Yes, I currently have a prescription with Score Blue.\n\nSpeaker 1: And I've seen advertised Viagra or BGR or something like that.\n\nSpeaker 2: Yeah, or AGV, that's the newest pill that we're offering.\n\nSpeaker 1: Can I get a sample of that or get prescribed for that?\n\nSpeaker 2: Unfortunately, we don't do samples, but you can always put an order in.\n\nSpeaker 1: It's going to be 10 pills for 63, it will be in our smallest package.\n\nSpeaker 2: Okay, that will be fine. Can you do that?\n\nSpeaker 1: Yeah, I can help you with that.\n\nSpeaker 2: What is your last name and a zip code so I can pull up your profile here?\n\nSpeaker 1: I'm sorry?\n\nSpeaker 2: Your last name and a zip code so I can pull up your profile.\n\nSpeaker 1: My last name is Michael, M-I-C-H-A-E-L.\n\nSpeaker 2: Zip code is 17201.\n\nSpeaker 1: Okay, and just to confirm here, we're going to be using the Visa that ends in 7324?\n\nSpeaker 2: That's correct.\n\nSpeaker 1: Perfect, one second.\n\nSpeaker 2: And did you want to do 25, 50, or 100 milligrams? It would be up to you.\n\nSpeaker 1: No, just 25.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I'm sorry.\n\nSpeaker 2: No, we actually went through it now. The doctor is going to review the script.\n\nSpeaker 1: It's going to be 63.95 for the 25 milligrams, 10 pills,\n\nSpeaker 2: and you'll receive this in about three to five business days here.\n\nSpeaker 1: Okay, all right. Thank you.\n\nSpeaker 2: Of course. Have a good one. Bye-bye.\n\nSpeaker 1: Bye.",
+    "duration": 5190,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Viagra, can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 6,
+        "text": " Yes, I currently have a prescription with score blue"
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 11,
+        "text": " and I've seen advertised Viagra or BGR or something like that."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 16,
+        "text": " Yeah, or AGV, that's the newest pill that we're offering."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 19,
+        "text": " Can I get a sample of that or get prescribed for that?"
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 23,
+        "text": " Unfortunately, we don't do samples, but you can always put an order in."
+      },
+      {
+        "id": 6,
+        "start": 23,
+        "end": 27,
+        "text": " It's going to be 10 pills for 63, it will be in our smallest package."
+      },
+      {
+        "id": 7,
+        "start": 27,
+        "end": 29,
+        "text": " Okay, that will be fine. Can you do that?"
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 30,
+        "text": " Yeah, I can help you with that."
+      },
+      {
+        "id": 9,
+        "start": 30,
+        "end": 34,
+        "text": " What is your last name and a zip code so I can pull up your profile here?"
+      },
+      {
+        "id": 10,
+        "start": 34,
+        "end": 36,
+        "text": " I'm sorry?"
+      },
+      {
+        "id": 11,
+        "start": 36,
+        "end": 39,
+        "text": " Your last name and a zip code so I can pull up your profile."
+      },
+      {
+        "id": 12,
+        "start": 39,
+        "end": 44,
+        "text": " My last name is Michael, M-I-C-H-A-E-L."
+      },
+      {
+        "id": 13,
+        "start": 44,
+        "end": 48,
+        "text": " Zip code is 17201."
+      },
+      {
+        "id": 14,
+        "start": 48,
+        "end": 54,
+        "text": " Okay, and just to confirm here, we're going to be using the visa that ends in 7324?"
+      },
+      {
+        "id": 15,
+        "start": 54,
+        "end": 55,
+        "text": " That's correct."
+      },
+      {
+        "id": 16,
+        "start": 55,
+        "end": 56,
+        "text": " Perfect, one second."
+      },
+      {
+        "id": 17,
+        "start": 60,
+        "end": 64,
+        "text": " And did you want to do 25, 50, or 100 milligrams? It would be up to you."
+      },
+      {
+        "id": 18,
+        "start": 64,
+        "end": 66,
+        "text": " No, just 25."
+      },
+      {
+        "id": 19,
+        "start": 66,
+        "end": 67,
+        "text": " Okay."
+      },
+      {
+        "id": 20,
+        "start": 75,
+        "end": 76,
+        "text": " I'm sorry."
+      },
+      {
+        "id": 21,
+        "start": 76,
+        "end": 80,
+        "text": " No, we actually went through it now. The doctor is going to review the script."
+      },
+      {
+        "id": 22,
+        "start": 80,
+        "end": 83,
+        "text": " It's going to be 63.95 for the 25 milligrams, 10 pills,"
+      },
+      {
+        "id": 23,
+        "start": 83,
+        "end": 86,
+        "text": " and you'll receive this in about three to five business days here."
+      },
+      {
+        "id": 24,
+        "start": 86,
+        "end": 88,
+        "text": " Okay, all right. Thank you."
+      },
+      {
+        "id": 25,
+        "start": 88,
+        "end": 90,
+        "text": " Of course. Have a good one. Bye-bye."
+      },
+      {
+        "id": 26,
+        "start": 90,
+        "end": 91,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816c-a3d0-f47085c9ed73",
+    "url": "https://www.notion.so/300000001217582-300000001707854-2f611d0a101c816ca3d0f47085c9ed73"
+  },
+  "processedAt": "2026-01-28T13:53:57.608Z"
+}

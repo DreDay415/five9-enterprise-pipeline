@@ -1,0 +1,176 @@
+{
+  "recording": {
+    "name": "300000001219150-300000001709273-5024036717 by charles@superbalife.com @ 10_12_02 AM.wav",
+    "size": 79490,
+    "modifyTime": 1769582239000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219150-300000001709273-5024036717 by charles@superbalife.com @ 10_12_02 AM.wav",
+    "uploadDate": "2026-01-28T06:37:19.000Z",
+    "callId": "300000001219150-300000001709273",
+    "agent": "charles",
+    "phoneNumber": "5024036717",
+    "callTimestamp": "2026-01-28T10:12:02.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Mr. Kronbacher, this is Charles.\n\nSpeaker 2: Yeah, I need to cancel a subscription.\n\nSpeaker 1: I didn't realize I signed up for a subscription.\n\nSpeaker 2: I was a one-time thing, and I got charged $104.\n\nSpeaker 1: And I'm very happy.\n\nSpeaker 2: Yeah, OK.\n\nSpeaker 1: If you want to send that back, there's\n\nSpeaker 2: a Southgate, Kentucky address on the pill bottle.\n\nSpeaker 1: Send it back to us.\n\nSpeaker 2: You'll get the money back.\n\nSpeaker 1: Everything else is canceled, right?\n\nSpeaker 2: So what do I got to do?\n\nSpeaker 1: The Southgate, Kentucky address that's on the pill bottle.\n\nSpeaker 2: And it should cost no more than a couple of bucks\n\nSpeaker 1: to shoot it back over to us, unless if you\n\nSpeaker 2: have the original packaging.\n\nSpeaker 1: Just write return to sender on it,\n\nSpeaker 2: and put it back in the mailbox.\n\nSpeaker 1: And the mailman will send it back to us,\n\nSpeaker 2: and you'll get the money back.\n\nSpeaker 1: All right, but my subscription or whatever is canceled?\n\nSpeaker 2: Yes, sir.\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: All right, thank you.\n\nSpeaker 1: Yep, it's OK.",
+    "duration": 2618,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.119999885559082,
+        "text": " Mr. Kronbacher, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 3.119999885559082,
+        "end": 7.519999980926514,
+        "text": " Yeah, I need to cancel a subscription."
+      },
+      {
+        "id": 2,
+        "start": 7.519999980926514,
+        "end": 9.520000457763672,
+        "text": " I didn't realize I signed up for a subscription."
+      },
+      {
+        "id": 3,
+        "start": 9.520000457763672,
+        "end": 12.359999656677246,
+        "text": " I was a one-time thing, and I got charged $104."
+      },
+      {
+        "id": 4,
+        "start": 12.359999656677246,
+        "end": 14.720000267028809,
+        "text": " And I'm very happy."
+      },
+      {
+        "id": 5,
+        "start": 14.720000267028809,
+        "end": 15.5600004196167,
+        "text": " Yeah, OK."
+      },
+      {
+        "id": 6,
+        "start": 15.5600004196167,
+        "end": 17.15999984741211,
+        "text": " If you want to send that back, there's"
+      },
+      {
+        "id": 7,
+        "start": 17.15999984741211,
+        "end": 19.399999618530273,
+        "text": " a Southgate, Kentucky address on the pill bottle."
+      },
+      {
+        "id": 8,
+        "start": 19.399999618530273,
+        "end": 20,
+        "text": " Send it back to us."
+      },
+      {
+        "id": 9,
+        "start": 20,
+        "end": 21.079999923706055,
+        "text": " You'll get the money back."
+      },
+      {
+        "id": 10,
+        "start": 21.079999923706055,
+        "end": 23.280000686645508,
+        "text": " Everything else is canceled, right?"
+      },
+      {
+        "id": 11,
+        "start": 23.280000686645508,
+        "end": 25.440000534057617,
+        "text": " So what do I got to do?"
+      },
+      {
+        "id": 12,
+        "start": 25.440000534057617,
+        "end": 28.280000686645508,
+        "text": " The Southgate, Kentucky address that's on the pill bottle."
+      },
+      {
+        "id": 13,
+        "start": 28.280000686645508,
+        "end": 29.959999084472656,
+        "text": " And it should cost no more than a couple of bucks"
+      },
+      {
+        "id": 14,
+        "start": 29.959999084472656,
+        "end": 31.760000228881836,
+        "text": " to shoot it back over to us, unless if you"
+      },
+      {
+        "id": 15,
+        "start": 31.760000228881836,
+        "end": 33.31999969482422,
+        "text": " have the original packaging."
+      },
+      {
+        "id": 16,
+        "start": 33.31999969482422,
+        "end": 34.720001220703125,
+        "text": " Just write return to sender on it,"
+      },
+      {
+        "id": 17,
+        "start": 34.720001220703125,
+        "end": 35.91999816894531,
+        "text": " and put it back in the mailbox."
+      },
+      {
+        "id": 18,
+        "start": 35.91999816894531,
+        "end": 37.58000183105469,
+        "text": " And the mailman will send it back to us,"
+      },
+      {
+        "id": 19,
+        "start": 37.58000183105469,
+        "end": 39.279998779296875,
+        "text": " and you'll get the money back."
+      },
+      {
+        "id": 20,
+        "start": 39.279998779296875,
+        "end": 42.439998626708984,
+        "text": " All right, but my subscription or whatever is canceled?"
+      },
+      {
+        "id": 21,
+        "start": 42.439998626708984,
+        "end": 43.08000183105469,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 22,
+        "start": 43.08000183105469,
+        "end": 44.68000030517578,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 23,
+        "start": 44.68000030517578,
+        "end": 45.880001068115234,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 24,
+        "start": 45.880001068115234,
+        "end": 47.720001220703125,
+        "text": " Yep, it's OK."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8191-b42e-e0724e68e887",
+    "url": "https://www.notion.so/300000001219150-300000001709273-2f611d0a101c8191b42ee0724e68e887"
+  },
+  "processedAt": "2026-01-28T17:19:01.189Z"
+}

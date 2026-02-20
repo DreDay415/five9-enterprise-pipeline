@@ -1,0 +1,224 @@
+{
+  "recording": {
+    "name": "300000001221581-300000001711366-6622077762 by olivia@superbalife.com @ 1_48_17 PM.wav",
+    "size": 162236,
+    "modifyTime": 1769637019000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221581-300000001711366-6622077762 by olivia@superbalife.com @ 1_48_17 PM.wav",
+    "uploadDate": "2026-01-28T21:50:19.000Z",
+    "callId": "300000001221581-300000001711366",
+    "agent": "olivia",
+    "phoneNumber": "6622077762",
+    "callTimestamp": "2026-01-28T13:48:17.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, this is Olivia speaking.\n\nSpeaker 2: Who do I have the pleasure of speaking with today?\n\nSpeaker 1: My name is Sylvester.\n\nSpeaker 2: Hi, Sylvester.\n\nSpeaker 1: How are you?\n\nSpeaker 2: I'm good.\n\nSpeaker 1: Good.\n\nSpeaker 2: How can I help you today?\n\nSpeaker 1: I need to request a refill on the 100 milligram AGV.\n\nSpeaker 2: Yeah, yeah, we can definitely do that.\n\nSpeaker 1: Okay, great.\n\nSpeaker 2: Perfect, let me see.\n\nSpeaker 1: Yeah, yeah, yeah.\n\nSpeaker 2: Okay, and we're still shipping to PO Box 1525,\n\nSpeaker 1: Indianola, Mississippi, 38751?\n\nSpeaker 2: That's correct, yes, ma'am.\n\nSpeaker 1: Okay, and the card we have on file is the visa that ends in 1614.\n\nSpeaker 2: Is that right?\n\nSpeaker 1: That's correct.\n\nSpeaker 2: Okay, great.\n\nSpeaker 1: Yeah, so I'll place that for you right now,\n\nSpeaker 2: and then it should be out to you in the next three to five business days,\n\nSpeaker 1: pending the crazy winter storm, you know.\n\nSpeaker 2: Yeah, we're in the midst of one.\n\nSpeaker 1: Great.\n\nSpeaker 2: Well, thank you so much, and if you need anything, you know,\n\nSpeaker 1: we're always here Monday through Friday, 8 to 5 Pacific.\n\nSpeaker 2: Okay, thank you very much.\n\nSpeaker 1: Yeah, of course.\n\nSpeaker 2: Have a great day.\n\nSpeaker 1: Yes, ma'am, you too.\n\nSpeaker 2: Okay, bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 4128,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you for calling Viagra, this is Olivia speaking."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 8,
+        "text": " Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " My name is Sylvester."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 14,
+        "text": " Hi, Sylvester."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 15,
+        "text": " How are you?"
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 17,
+        "text": " I'm good."
+      },
+      {
+        "id": 6,
+        "start": 17,
+        "end": 19,
+        "text": " Good."
+      },
+      {
+        "id": 7,
+        "start": 19,
+        "end": 20,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 8,
+        "start": 20,
+        "end": 25,
+        "text": " I need to request a refill on the 100 milligram AGV."
+      },
+      {
+        "id": 9,
+        "start": 25,
+        "end": 29,
+        "text": " Yeah, yeah, we can definitely do that."
+      },
+      {
+        "id": 10,
+        "start": 29,
+        "end": 32,
+        "text": " Okay, great."
+      },
+      {
+        "id": 11,
+        "start": 32,
+        "end": 37,
+        "text": " Perfect, let me see."
+      },
+      {
+        "id": 12,
+        "start": 37,
+        "end": 38,
+        "text": " Yeah, yeah, yeah."
+      },
+      {
+        "id": 13,
+        "start": 38,
+        "end": 44,
+        "text": " Okay, and we're still shipping to PO Box 1525,"
+      },
+      {
+        "id": 14,
+        "start": 44,
+        "end": 49,
+        "text": " Indianola, Mississippi, 38751?"
+      },
+      {
+        "id": 15,
+        "start": 49,
+        "end": 52,
+        "text": " That's correct, yes, ma'am."
+      },
+      {
+        "id": 16,
+        "start": 52,
+        "end": 58,
+        "text": " Okay, and the card we have on file is the visa that ends in 1614."
+      },
+      {
+        "id": 17,
+        "start": 58,
+        "end": 60,
+        "text": " Is that right?"
+      },
+      {
+        "id": 18,
+        "start": 60,
+        "end": 61,
+        "text": " That's correct."
+      },
+      {
+        "id": 19,
+        "start": 61,
+        "end": 63,
+        "text": " Okay, great."
+      },
+      {
+        "id": 20,
+        "start": 63,
+        "end": 66,
+        "text": " Yeah, so I'll place that for you right now,"
+      },
+      {
+        "id": 21,
+        "start": 66,
+        "end": 71,
+        "text": " and then it should be out to you in the next three to five business days,"
+      },
+      {
+        "id": 22,
+        "start": 71,
+        "end": 74,
+        "text": " pending the crazy winter storm, you know."
+      },
+      {
+        "id": 23,
+        "start": 74,
+        "end": 78,
+        "text": " Yeah, we're in the midst of one."
+      },
+      {
+        "id": 24,
+        "start": 78,
+        "end": 80,
+        "text": " Great."
+      },
+      {
+        "id": 25,
+        "start": 80,
+        "end": 84,
+        "text": " Well, thank you so much, and if you need anything, you know,"
+      },
+      {
+        "id": 26,
+        "start": 84,
+        "end": 89,
+        "text": " we're always here December Monday through Friday, 8 to 5 Pacific."
+      },
+      {
+        "id": 27,
+        "start": 89,
+        "end": 91,
+        "text": " Okay, thank you very much."
+      },
+      {
+        "id": 28,
+        "start": 91,
+        "end": 92,
+        "text": " Yeah, of course."
+      },
+      {
+        "id": 29,
+        "start": 92,
+        "end": 94,
+        "text": " Have a great day."
+      },
+      {
+        "id": 30,
+        "start": 94,
+        "end": 95,
+        "text": " Yes, ma'am, you too."
+      },
+      {
+        "id": 31,
+        "start": 95,
+        "end": 97,
+        "text": " Okay, bye."
+      },
+      {
+        "id": 32,
+        "start": 97,
+        "end": 98,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e7-b243-f3a1178c8866",
+    "url": "https://www.notion.so/300000001221581-300000001711366-2f611d0a101c81e7b243f3a1178c8866"
+  },
+  "processedAt": "2026-01-28T22:29:26.654Z"
+}

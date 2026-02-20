@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "name": "300000001219160-300000001709295-6164432880 by summer@verifiednutrition.com @ 10_14_41 AM.wav",
+    "size": 3310,
+    "modifyTime": 1769582255000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219160-300000001709295-6164432880 by summer@verifiednutrition.com @ 10_14_41 AM.wav",
+    "uploadDate": "2026-01-28T06:37:35.000Z",
+    "callId": "300000001219160-300000001709295",
+    "agent": "summer",
+    "phoneNumber": "6164432880",
+    "callTimestamp": "2026-01-28T10:14:41.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: So we'll find out what's going on with that in a sec.",
+    "duration": 602,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " So we'll find out what's going on with that in a sec."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8136-a26c-ec63994b3476",
+    "url": "https://www.notion.so/300000001219160-300000001709295-2f611d0a101c8136a26cec63994b3476"
+  },
+  "processedAt": "2026-01-28T17:14:39.754Z"
+}

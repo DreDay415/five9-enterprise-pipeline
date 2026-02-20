@@ -1,0 +1,314 @@
+{
+  "recording": {
+    "name": "300000001216058-300000001705606-6315982009 by josimar@superbalife.com @ 11_47_15 AM.wav",
+    "size": 233540,
+    "modifyTime": 1769587940000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216058-300000001705606-6315982009 by josimar@superbalife.com @ 11_47_15 AM.wav",
+    "uploadDate": "2026-01-28T08:12:20.000Z",
+    "callId": "300000001216058-300000001705606",
+    "agent": "josimar",
+    "phoneNumber": "6315982009",
+    "callTimestamp": "2026-01-28T11:47:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, I can help you today.\n\nSpeaker 2: Yeah, how are you doing, this is Greg, who am I speaking with?\n\nSpeaker 1: My name is Joe, I can help you.\n\nSpeaker 2: Joe, I ordered this Viagra, you know, the new one out, the last of 14 hours, you take—\n\nSpeaker 1: It in 14 minutes, it gives you an erection or whatever it is, right?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Hello?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Hello?\n\nSpeaker 2: I'm still here, sir, how can we help you?\n\nSpeaker 1: Well, it's the wrong, you sent me the wrong one, you sent me, send us the, the, the—\n\nSpeaker 2: Yeah, what's the zip code to pull up your profile, sir?\n\nSpeaker 1: Sure.\n\nSpeaker 2: Here, what's the zip code?\n\nSpeaker 1: 11701.\n\nSpeaker 2: 11701?\n\nSpeaker 1: 11701, yes.\n\nSpeaker 2: And your first and last name?\n\nSpeaker 1: Greg Frederick.\n\nSpeaker 2: Is it Gregory or is it Greg legally?\n\nSpeaker 1: It's Gregory, it's the legal name.\n\nSpeaker 2: Got it, so I pulled you up here.\n\nSpeaker 1: So the latest order you received should have been the AGB Viagra, what does the marking—\n\nSpeaker 2: On the pill say?\n\nSpeaker 1: You want the drug number or on the pill itself?\n\nSpeaker 2: The marking on the pill, sir.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Well, it says on the pill is 100, so that's the milligrams, right?\n\nSpeaker 1: Yeah, that's going to be the AGB, sir.\n\nSpeaker 2: The one that's not the AGB says AC on there.\n\nSpeaker 1: The one you receive is going to be the AGB because it only shows the dosages.\n\nSpeaker 2: All right, so I disregard saying this is generic for Viagra.\n\nSpeaker 1: Yeah, it's authorized generic Viagra is the full name for the AGB.\n\nSpeaker 2: It's a step up higher than a standard generic Viagra.\n\nSpeaker 1: Oh, okay.\n\nSpeaker 2: All right.\n\nSpeaker 1: Okay, I just wanted to make sure because I've used this before, the other one I tried.\n\nSpeaker 2: You might have used the generic, but not an authorized one.\n\nSpeaker 1: This is a step up higher.\n\nSpeaker 2: You'll see how the benefits of these are more efficient.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I take your word for it.\n\nSpeaker 2: No problem.\n\nSpeaker 1: You have a good day now, sir.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: You too.\n\nSpeaker 2: Bye.",
+    "duration": 6062,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7.599999904632568,
+        "text": " Thank you for calling Viagra, I can help you today."
+      },
+      {
+        "id": 1,
+        "start": 7.599999904632568,
+        "end": 11.720000267028809,
+        "text": " Yeah, how are you doing, this is Greg, who am I speaking with?"
+      },
+      {
+        "id": 2,
+        "start": 11.720000267028809,
+        "end": 14.5600004196167,
+        "text": " My name is Joe, I can help you."
+      },
+      {
+        "id": 3,
+        "start": 14.5600004196167,
+        "end": 23.8799991607666,
+        "text": " Joe, I ordered this Viagra, you know, the new one out, the last of 14 hours, you take"
+      },
+      {
+        "id": 4,
+        "start": 23.8799991607666,
+        "end": 29.399999618530273,
+        "text": " it in 14 minutes, it gives you an erection or whatever it is, right?"
+      },
+      {
+        "id": 5,
+        "start": 29.399999618530273,
+        "end": 30.399999618530273,
+        "text": " Yeah."
+      },
+      {
+        "id": 6,
+        "start": 30.399999618530273,
+        "end": 31.399999618530273,
+        "text": " Hello?"
+      },
+      {
+        "id": 7,
+        "start": 31.399999618530273,
+        "end": 32.400001525878906,
+        "text": " Yeah."
+      },
+      {
+        "id": 8,
+        "start": 32.400001525878906,
+        "end": 33.400001525878906,
+        "text": " Hello?"
+      },
+      {
+        "id": 9,
+        "start": 33.400001525878906,
+        "end": 36.400001525878906,
+        "text": " I'm still here, sir, how can we help you?"
+      },
+      {
+        "id": 10,
+        "start": 36.400001525878906,
+        "end": 41.400001525878906,
+        "text": " Well, it's the wrong, you sent me the wrong one, you sent me, send us the, the, the,"
+      },
+      {
+        "id": 11,
+        "start": 41.400001525878906,
+        "end": 46.400001525878906,
+        "text": " Yeah, what's the zip code to pull up your profile, sir?"
+      },
+      {
+        "id": 12,
+        "start": 46.400001525878906,
+        "end": 47.400001525878906,
+        "text": " Sure."
+      },
+      {
+        "id": 13,
+        "start": 47.400001525878906,
+        "end": 51.400001525878906,
+        "text": " Here, what's the zip code?"
+      },
+      {
+        "id": 14,
+        "start": 51.400001525878906,
+        "end": 53.400001525878906,
+        "text": " 11701."
+      },
+      {
+        "id": 15,
+        "start": 53.400001525878906,
+        "end": 55.400001525878906,
+        "text": " 11701?"
+      },
+      {
+        "id": 16,
+        "start": 55.400001525878906,
+        "end": 58.400001525878906,
+        "text": " 11701, yes."
+      },
+      {
+        "id": 17,
+        "start": 58.400001525878906,
+        "end": 62.400001525878906,
+        "text": " And your first and last name?"
+      },
+      {
+        "id": 18,
+        "start": 62.400001525878906,
+        "end": 64.4000015258789,
+        "text": " Greg Frederick."
+      },
+      {
+        "id": 19,
+        "start": 64.4000015258789,
+        "end": 67.4000015258789,
+        "text": " Is it Gregory or is it Greg legally?"
+      },
+      {
+        "id": 20,
+        "start": 67.4000015258789,
+        "end": 69.4000015258789,
+        "text": " It's Gregory, it's the legal name."
+      },
+      {
+        "id": 21,
+        "start": 69.4000015258789,
+        "end": 71.4000015258789,
+        "text": " Got it, so I pulled you up here."
+      },
+      {
+        "id": 22,
+        "start": 71.4000015258789,
+        "end": 74.4000015258789,
+        "text": " So the latest order you received should have been the AGB Viagra, what does the marking"
+      },
+      {
+        "id": 23,
+        "start": 74.4000015258789,
+        "end": 77.4000015258789,
+        "text": " on the pill say?"
+      },
+      {
+        "id": 24,
+        "start": 77.4000015258789,
+        "end": 80.4000015258789,
+        "text": " You want the drug number or on the pill itself?"
+      },
+      {
+        "id": 25,
+        "start": 80.4000015258789,
+        "end": 82.4000015258789,
+        "text": " The marking on the pill, sir."
+      },
+      {
+        "id": 26,
+        "start": 82.4000015258789,
+        "end": 83.4000015258789,
+        "text": " Okay."
+      },
+      {
+        "id": 27,
+        "start": 84.4000015258789,
+        "end": 99.4000015258789,
+        "text": " Well, it says on the pill is 100, so that's the milligrams, right?"
+      },
+      {
+        "id": 28,
+        "start": 99.4000015258789,
+        "end": 101.4000015258789,
+        "text": " Yeah, that's going to be the AGB, sir."
+      },
+      {
+        "id": 29,
+        "start": 101.4000015258789,
+        "end": 104.4000015258789,
+        "text": " The one that's not the AGB says AC on there."
+      },
+      {
+        "id": 30,
+        "start": 104.4000015258789,
+        "end": 108.4000015258789,
+        "text": " The one you receive is going to be the AGB because it only shows the dosages."
+      },
+      {
+        "id": 31,
+        "start": 109.4000015258789,
+        "end": 114.4000015258789,
+        "text": " All right, so I disregard saying this is generic for Viagra."
+      },
+      {
+        "id": 32,
+        "start": 114.4000015258789,
+        "end": 118.4000015258789,
+        "text": " Yeah, it's authorized generic Viagra is the full name for the AGB."
+      },
+      {
+        "id": 33,
+        "start": 118.4000015258789,
+        "end": 121.4000015258789,
+        "text": " It's a step up higher than a standard generic Viagra."
+      },
+      {
+        "id": 34,
+        "start": 121.4000015258789,
+        "end": 122.4000015258789,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 35,
+        "start": 122.4000015258789,
+        "end": 123.4000015258789,
+        "text": " All right."
+      },
+      {
+        "id": 36,
+        "start": 123.4000015258789,
+        "end": 131.39999389648438,
+        "text": " Okay, I just wanted to make sure because I've used this before, the other one I tried."
+      },
+      {
+        "id": 37,
+        "start": 131.39999389648438,
+        "end": 133.39999389648438,
+        "text": " You might have used the generic, but not an authorized one."
+      },
+      {
+        "id": 38,
+        "start": 133.39999389648438,
+        "end": 134.39999389648438,
+        "text": " This is a step up higher."
+      },
+      {
+        "id": 39,
+        "start": 134.39999389648438,
+        "end": 137.39999389648438,
+        "text": " You'll see how the benefits of these are more efficient."
+      },
+      {
+        "id": 40,
+        "start": 137.39999389648438,
+        "end": 138.39999389648438,
+        "text": " Okay."
+      },
+      {
+        "id": 41,
+        "start": 138.39999389648438,
+        "end": 139.39999389648438,
+        "text": " Okay."
+      },
+      {
+        "id": 42,
+        "start": 139.39999389648438,
+        "end": 140.39999389648438,
+        "text": " I take your word for it."
+      },
+      {
+        "id": 43,
+        "start": 140.39999389648438,
+        "end": 141.39999389648438,
+        "text": " No problem."
+      },
+      {
+        "id": 44,
+        "start": 141.39999389648438,
+        "end": 142.39999389648438,
+        "text": " You have a good day now, sir."
+      },
+      {
+        "id": 45,
+        "start": 142.39999389648438,
+        "end": 143.39999389648438,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 46,
+        "start": 143.39999389648438,
+        "end": 144.39999389648438,
+        "text": " You too."
+      },
+      {
+        "id": 47,
+        "start": 144.39999389648438,
+        "end": 145.39999389648438,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8196-82d5-db12e1b90861",
+    "url": "https://www.notion.so/300000001216058-300000001705606-2f611d0a101c819682d5db12e1b90861"
+  },
+  "processedAt": "2026-01-28T13:10:44.297Z"
+}

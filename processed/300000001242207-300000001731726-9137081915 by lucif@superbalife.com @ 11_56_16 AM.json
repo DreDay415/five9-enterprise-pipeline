@@ -1,0 +1,215 @@
+{
+  "recording": {
+    "name": "300000001242207-300000001731726-9137081915 by lucif@superbalife.com @ 11_56_16 AM.wav",
+    "size": 200390,
+    "modifyTime": 1771012721000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242207-300000001731726-9137081915 by lucif@superbalife.com @ 11_56_16 AM.wav",
+    "uploadDate": "2026-02-13T19:58:41.000Z",
+    "callId": "300000001242207-300000001731726",
+    "agent": "lucif",
+    "phoneNumber": "9137081915",
+    "callTimestamp": "2026-02-13T11:56:16.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_lucif_300000001242207-300000001731726_9137081915.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_lucif_300000001242207-300000001731726_9137081915.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yes, my name is Kyle McNeillis, M-C-N-E-L-L-I-S, I'm going to get inside there and go on out.\n\nSpeaker 2: Here.\n\nSpeaker 1: I'm sorry, what's going on?\n\nSpeaker 2: What do you need help with, sir?\n\nSpeaker 1: I've got to go inside.\n\nSpeaker 2: I can't, I can't hear out here.\n\nSpeaker 1: Okay, anyway, I've been with you guys for a while, and I went to a period where I didn't—\n\nSpeaker 2: Get any, because we moved, and we had the, we may have 400, but I guess, my name is Elizabeth.\n\nSpeaker 1: And I never got it.\n\nSpeaker 2: I think I got 15 kills or something, but I went to my urologist, but, I don't know.\n\nSpeaker 1: Hold on, give me a second.\n\nSpeaker 2: I don't understand anything you're saying.\n\nSpeaker 1: So, what is the issue?\n\nSpeaker 2: Is it because I'm not working, or are you saying too many of them, or what's happening?\n\nSpeaker 1: All right, can you hear me now?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay.\n\nSpeaker 2: My urologist gave me a prescription for Chilxenafil, 30 tablets for a month for $12 at Wall, at—\n\nSpeaker 1: Hy-Vee, and it's just cheap.\n\nSpeaker 2: And, I'm retired, and I need to cancel that.\n\nSpeaker 1: I can't be paying that much.\n\nSpeaker 2: Okay, so that's all you want, is you want to cancel, correct?\n\nSpeaker 1: That's it.\n\nSpeaker 2: Okay, all right, you're canceled, sir.\n\nSpeaker 1: Need anything else?\n\nSpeaker 2: I'm sorry?\n\nSpeaker 1: You are canceled.\n\nSpeaker 2: Is there anything else you need?\n\nSpeaker 1: No.\n\nSpeaker 2: Okay, well you have a great day.\n\nSpeaker 1: You are canceled.",
+    "duration": 5053,
+    "audioDuration": 123.27999877929688,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 19.31999969482422,
+        "text": " Yes, my name is Kyle McNeillis, M-C-N-E-L-L-I-S, I'm going to get inside there and go on out"
+      },
+      {
+        "id": 1,
+        "start": 19.31999969482422,
+        "end": 20.31999969482422,
+        "text": " here."
+      },
+      {
+        "id": 2,
+        "start": 20.31999969482422,
+        "end": 21.31999969482422,
+        "text": " I'm sorry, what's going on?"
+      },
+      {
+        "id": 3,
+        "start": 21.31999969482422,
+        "end": 22.31999969482422,
+        "text": " What do you need help with, sir?"
+      },
+      {
+        "id": 4,
+        "start": 22.31999969482422,
+        "end": 23.31999969482422,
+        "text": " I've got to go inside."
+      },
+      {
+        "id": 5,
+        "start": 23.31999969482422,
+        "end": 24.31999969482422,
+        "text": " I can't, I can't hear out here."
+      },
+      {
+        "id": 6,
+        "start": 25.31999969482422,
+        "end": 39.31999969482422,
+        "text": " Okay, anyway, I've been with you guys for a while, and I went to a period where I didn't"
+      },
+      {
+        "id": 7,
+        "start": 39.31999969482422,
+        "end": 46.31999969482422,
+        "text": " get any, because we moved, and we had the, we may have 400, but I guess, my name is Elizabeth,"
+      },
+      {
+        "id": 8,
+        "start": 46.31999969482422,
+        "end": 47.31999969482422,
+        "text": " and I never got it."
+      },
+      {
+        "id": 9,
+        "start": 47.31999969482422,
+        "end": 54.31999969482422,
+        "text": " I think I got 15 kills or something, but I went to my urologist, but, I don't know."
+      },
+      {
+        "id": 10,
+        "start": 54.31999969482422,
+        "end": 57.31999969482422,
+        "text": " Hold on, give me a second."
+      },
+      {
+        "id": 11,
+        "start": 57.31999969482422,
+        "end": 60.31999969482422,
+        "text": " I don't understand anything you're saying."
+      },
+      {
+        "id": 12,
+        "start": 60.31999969482422,
+        "end": 61.31999969482422,
+        "text": " So, what is the issue?"
+      },
+      {
+        "id": 13,
+        "start": 61.31999969482422,
+        "end": 65.31999969482422,
+        "text": " Is it because I'm not working, or are you saying too many of them, or what's happening?"
+      },
+      {
+        "id": 14,
+        "start": 68.31999969482422,
+        "end": 69.31999969482422,
+        "text": " All right, can you hear me now?"
+      },
+      {
+        "id": 15,
+        "start": 69.31999969482422,
+        "end": 70.31999969482422,
+        "text": " Yes."
+      },
+      {
+        "id": 16,
+        "start": 71.31999969482422,
+        "end": 72.31999969482422,
+        "text": " Okay."
+      },
+      {
+        "id": 17,
+        "start": 72.31999969482422,
+        "end": 85.31999969482422,
+        "text": " My urologist gave me a prescription for Chilxenafil, 30 tablets for a month for $12 at Wall, at"
+      },
+      {
+        "id": 18,
+        "start": 85.31999969482422,
+        "end": 90.31999969482422,
+        "text": " Hy-Vee, and it's just cheap."
+      },
+      {
+        "id": 19,
+        "start": 90.31999969482422,
+        "end": 100.31999969482422,
+        "text": " And, I'm retired, and I need to cancel that."
+      },
+      {
+        "id": 20,
+        "start": 100.31999969482422,
+        "end": 103.31999969482422,
+        "text": " I can't be paying that much."
+      },
+      {
+        "id": 21,
+        "start": 103.31999969482422,
+        "end": 107.31999969482422,
+        "text": " Okay, so that's all you want, is you want to cancel, correct?"
+      },
+      {
+        "id": 22,
+        "start": 107.31999969482422,
+        "end": 108.31999969482422,
+        "text": " That's it."
+      },
+      {
+        "id": 23,
+        "start": 108.31999969482422,
+        "end": 110.31999969482422,
+        "text": " Okay, all right, you're canceled, sir."
+      },
+      {
+        "id": 24,
+        "start": 110.31999969482422,
+        "end": 111.31999969482422,
+        "text": " Need anything else?"
+      },
+      {
+        "id": 25,
+        "start": 113.31999969482422,
+        "end": 114.31999969482422,
+        "text": " I'm sorry?"
+      },
+      {
+        "id": 26,
+        "start": 114.31999969482422,
+        "end": 115.31999969482422,
+        "text": " You are canceled."
+      },
+      {
+        "id": 27,
+        "start": 115.31999969482422,
+        "end": 117.31999969482422,
+        "text": " Is there anything else you need?"
+      },
+      {
+        "id": 28,
+        "start": 117.31999969482422,
+        "end": 118.31999969482422,
+        "text": " No."
+      },
+      {
+        "id": 29,
+        "start": 119.31999969482422,
+        "end": 120.31999969482422,
+        "text": " Okay, well you have a great day."
+      },
+      {
+        "id": 30,
+        "start": 120.31999969482422,
+        "end": 121.31999969482422,
+        "text": " You are canceled."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81e1-b7b9-f57df47668a5",
+    "url": "https://www.notion.so/300000001242207-300000001731726-30611d0a101c81e1b7b9f57df47668a5"
+  },
+  "processedAt": "2026-02-13T20:02:18.632Z"
+}

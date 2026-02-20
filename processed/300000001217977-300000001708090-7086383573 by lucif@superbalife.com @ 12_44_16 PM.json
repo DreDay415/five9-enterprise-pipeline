@@ -1,0 +1,110 @@
+{
+  "recording": {
+    "name": "300000001217977-300000001708090-7086383573 by lucif@superbalife.com @ 12_44_16 PM.wav",
+    "size": 138706,
+    "modifyTime": 1769584633000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217977-300000001708090-7086383573 by lucif@superbalife.com @ 12_44_16 PM.wav",
+    "uploadDate": "2026-01-28T07:17:13.000Z",
+    "callId": "300000001217977-300000001708090",
+    "agent": "lucif",
+    "phoneNumber": "7086383573",
+    "callTimestamp": "2026-01-28T12:44:16.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra Quinn speaking, how can I help you?\n\nSpeaker 2: Hey, good afternoon, my name is Aaron Wojcik, I'm calling to cancel my subscription.\n\nSpeaker 1: Alrighty sir, one moment, let me pull up your account.\n\nSpeaker 2: You're going to use it to say Aaron, correct?\n\nSpeaker 1: Yeah, Aaron Wojcik, W-O-J-C-I-K.\n\nSpeaker 2: Alright, I do see your VIP getting a Cialis here, you might have asked why I canceled it?\n\nSpeaker 1: Yeah, you guys changed the generic that you're sending me and it wrecks my stomach.\n\nSpeaker 2: Oh wow, really, let me see.\n\nSpeaker 1: I was hoping that it would be just like a temporary one-off thing,\n\nSpeaker 2: but the last few batches you guys sent me are those kind of egg-shaped, pale ones,\n\nSpeaker 1: and it wrecks my stomach, I can't use those.\n\nSpeaker 2: Alright, give me one moment, let me see if I can look into this real quick,\n\nSpeaker 1: see what's going on, okay, one second.\n\nSpeaker 2: Thank you.",
+    "duration": 3038,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 9,
+        "text": " Thanks for calling Viagra Quinn speaking, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 9,
+        "end": 15,
+        "text": " Hey, good afternoon, my name is Aaron Wojcik, I'm calling to cancel my subscription."
+      },
+      {
+        "id": 2,
+        "start": 15,
+        "end": 21,
+        "text": " Alrighty sir, one moment, let me pull up your account."
+      },
+      {
+        "id": 3,
+        "start": 21,
+        "end": 29,
+        "text": " You're going to use it to say Aaron, correct?"
+      },
+      {
+        "id": 4,
+        "start": 29,
+        "end": 33,
+        "text": " Yeah, Aaron Wojcik, W-O-J-C-I-K."
+      },
+      {
+        "id": 5,
+        "start": 33,
+        "end": 38,
+        "text": " Alright, I do see your VIP getting a Cialis here, you might have asked why I canceled it?"
+      },
+      {
+        "id": 6,
+        "start": 38,
+        "end": 44,
+        "text": " Yeah, you guys changed the generic that you're sending me and it wrecks my stomach."
+      },
+      {
+        "id": 7,
+        "start": 45,
+        "end": 61,
+        "text": " Oh wow, really, let me see."
+      },
+      {
+        "id": 8,
+        "start": 61,
+        "end": 65,
+        "text": " I was hoping that it would be just like a temporary one-off thing,"
+      },
+      {
+        "id": 9,
+        "start": 65,
+        "end": 71,
+        "text": " but the last few batches you guys sent me are those kind of egg-shaped, pale ones,"
+      },
+      {
+        "id": 10,
+        "start": 71,
+        "end": 78,
+        "text": " and it wrecks my stomach, I can't use those."
+      },
+      {
+        "id": 11,
+        "start": 78,
+        "end": 81,
+        "text": " Alright, give me one moment, let me see if I can look into this real quick,"
+      },
+      {
+        "id": 12,
+        "start": 82,
+        "end": 84,
+        "text": " see what's going on, okay, one second."
+      },
+      {
+        "id": 13,
+        "start": 84,
+        "end": 85,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81d8-91d9-d71b66948364",
+    "url": "https://www.notion.so/300000001217977-300000001708090-2f611d0a101c81d891d9d71b66948364"
+  },
+  "processedAt": "2026-01-28T15:00:07.898Z"
+}

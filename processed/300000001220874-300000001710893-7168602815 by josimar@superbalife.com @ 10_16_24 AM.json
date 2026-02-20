@@ -1,0 +1,158 @@
+{
+  "recording": {
+    "name": "300000001220874-300000001710893-7168602815 by josimar@superbalife.com @ 10_16_24 AM.wav",
+    "size": 170946,
+    "modifyTime": 1769624296000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220874-300000001710893-7168602815 by josimar@superbalife.com @ 10_16_24 AM.wav",
+    "uploadDate": "2026-01-28T18:18:16.000Z",
+    "callId": "300000001220874-300000001710893",
+    "agent": "josimar",
+    "phoneNumber": "7168602815",
+    "callTimestamp": "2026-01-28T10:16:24.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, I can help you today.\n\nSpeaker 2: Yes, my name is John Raimondo.\n\nSpeaker 1: I purchased Scorboo back on 12-28, and I was billed on my Discover card 6395 Ford,\n\nSpeaker 2: and to date I have not received the product.\n\nSpeaker 1: Okay, I can take a look at what's going on here.\n\nSpeaker 2: Sure.\n\nSpeaker 1: What's your zip code?\n\nSpeaker 2: 14228.\n\nSpeaker 1: I have a warning on me.\n\nSpeaker 2: Okay, so it looks like this is actually canceled out for you on the 27th.\n\nSpeaker 1: You might have left us a voicemail.\n\nSpeaker 2: They already canceled, well, this has already been canceled out,\n\nSpeaker 1: since it looks like there was no response on the doctor's end or your end a little bit.\n\nSpeaker 2: Well, you billed me for it.\n\nSpeaker 1: Yeah, yeah, so I'm trying to get to that point right now, so let me finish.\n\nSpeaker 2: Your refund was already issued.\n\nSpeaker 1: You'll get that in three to five business days, so you're all set on that part.\n\nSpeaker 2: Okay, very good.\n\nSpeaker 1: No problem.\n\nSpeaker 2: Hope you have a good day.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Thank you.",
+    "duration": 2729,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra, I can help you today."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " Yes, my name is John Raimondo."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 18,
+        "text": " I purchased Scorboo back on 12-28, and I was billed on my Discover card 6395 Ford,"
+      },
+      {
+        "id": 3,
+        "start": 18,
+        "end": 22,
+        "text": " and to date I have not received the product."
+      },
+      {
+        "id": 4,
+        "start": 22,
+        "end": 25,
+        "text": " Okay, I can take a look at what's going on here."
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 29,
+        "text": " Sure."
+      },
+      {
+        "id": 6,
+        "start": 29,
+        "end": 31,
+        "text": " What's your zip code?"
+      },
+      {
+        "id": 7,
+        "start": 31,
+        "end": 35,
+        "text": " 14228."
+      },
+      {
+        "id": 8,
+        "start": 35,
+        "end": 38,
+        "text": " I have a warning on me."
+      },
+      {
+        "id": 9,
+        "start": 65,
+        "end": 78,
+        "text": " Okay, so it looks like this is actually canceled out for you on the 27th."
+      },
+      {
+        "id": 10,
+        "start": 78,
+        "end": 80,
+        "text": " You might have left us a voicemail."
+      },
+      {
+        "id": 11,
+        "start": 80,
+        "end": 83,
+        "text": " They already canceled, well, this has already been canceled out,"
+      },
+      {
+        "id": 12,
+        "start": 83,
+        "end": 87,
+        "text": " since it looks like there was no response on the doctor's end or your end a little bit."
+      },
+      {
+        "id": 13,
+        "start": 87,
+        "end": 89,
+        "text": " Well, you billed me for it."
+      },
+      {
+        "id": 14,
+        "start": 89,
+        "end": 93,
+        "text": " Yeah, yeah, so I'm trying to get to that point right now, so let me finish."
+      },
+      {
+        "id": 15,
+        "start": 93,
+        "end": 95,
+        "text": " Your refund was already issued."
+      },
+      {
+        "id": 16,
+        "start": 95,
+        "end": 99,
+        "text": " You'll get that in three to five business days, so you're all set on that part."
+      },
+      {
+        "id": 17,
+        "start": 99,
+        "end": 101,
+        "text": " Okay, very good."
+      },
+      {
+        "id": 18,
+        "start": 101,
+        "end": 102,
+        "text": " No problem."
+      },
+      {
+        "id": 19,
+        "start": 102,
+        "end": 103,
+        "text": " Hope you have a good day."
+      },
+      {
+        "id": 20,
+        "start": 103,
+        "end": 104,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 21,
+        "start": 104,
+        "end": 105,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81e2-975a-ff6a90f73d70",
+    "url": "https://www.notion.so/300000001220874-300000001710893-2f711d0a101c81e2975aff6a90f73d70"
+  },
+  "processedAt": "2026-01-29T00:21:44.579Z"
+}

@@ -1,0 +1,362 @@
+{
+  "recording": {
+    "name": "300000001218123-300000001708190-8064109539 by josimar@superbalife.com @ 1_21_37 PM.wav",
+    "size": 284566,
+    "modifyTime": 1769585835000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218123-300000001708190-8064109539 by josimar@superbalife.com @ 1_21_37 PM.wav",
+    "uploadDate": "2026-01-28T07:37:15.000Z",
+    "callId": "300000001218123-300000001708190",
+    "agent": "josimar",
+    "phoneNumber": "8064109539",
+    "callTimestamp": "2026-01-28T13:21:37.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, how are you?\n\nSpeaker 2: Doing well, how can I help you?\n\nSpeaker 1: Excuse me.\n\nSpeaker 2: Hi, my name is Tennessee Chantelon.\n\nSpeaker 1: Okay, how can I help you?\n\nSpeaker 2: Yes, I order Blue Score, White Acre, AQE.\n\nSpeaker 1: And they send me the wrong, they didn't send me that one.\n\nSpeaker 2: They send me something else.\n\nSpeaker 1: I can take a look.\n\nSpeaker 2: I can take a look, one moment.\n\nSpeaker 1: Okay, how do I spell your last name and your zip code?\n\nSpeaker 2: My last name?\n\nSpeaker 1: Yeah, and a zip code.\n\nSpeaker 2: C-H-A-E-N-T-H-A-V-O-N-T.\n\nSpeaker 1: Okay, your profile actually pulled up with just your last name.\n\nSpeaker 2: You need to send a picture of your ID for us to verify you, sir.\n\nSpeaker 1: They emailed you about that to your email.\n\nSpeaker 2: My email?\n\nSpeaker 1: Yeah, they emailed you regarding your profile.\n\nSpeaker 2: You need to send us a picture of your ID so we can approve you.\n\nSpeaker 1: Oh, I have to send a picture and send it to you?\n\nSpeaker 2: Yeah, they emailed you.\n\nSpeaker 1: I can email you again.\n\nSpeaker 2: You just need to send a picture of your ID so the system can verify you.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So I'll send an email again, and then you're going to get the email in 15 to 20 minutes.\n\nSpeaker 1: Take a picture of your ID and send us a picture of your ID.\n\nSpeaker 2: Take a picture of my ID and send it to you?\n\nSpeaker 1: Send it to the email that you're going to get in 15 minutes.\n\nSpeaker 2: My email?\n\nSpeaker 1: Okay, let me just slow it down for you so that way you can understand.\n\nSpeaker 2: I am going to send you an email.\n\nSpeaker 1: Okay, just give me the email.\n\nSpeaker 2: Okay, so I'm barely getting through the first sentence.\n\nSpeaker 1: I'm going to send you an email.\n\nSpeaker 2: You're going to receive that in about 10 to 15 minutes.\n\nSpeaker 1: And that email is going to give you instructions on what we need you to send us\n\nSpeaker 2: so they can approve your ID.\n\nSpeaker 1: So you're going to send a picture of your ID and attach it to that email\n\nSpeaker 2: and send it back to us.\n\nSpeaker 1: Once we get it, the doctor will approve your prescription,\n\nSpeaker 2: and your order will be shipped out.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, okay.\n\nSpeaker 1: Go ahead and send me your email.\n\nSpeaker 2: We're going to send an email to you.\n\nSpeaker 1: We're going to email your email.\n\nSpeaker 2: You're going to get it in 10 to 15 minutes, so just keep an eye out for that.\n\nSpeaker 1: Follow the instructions on the email, and you're going to be all set.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, thank you.\n\nSpeaker 2: Perfect.\n\nSpeaker 1: No worries.\n\nSpeaker 2: Have a good one.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: All right.",
+    "duration": 7067,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, how are you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 6,
+        "text": " Doing well, how can I help you?"
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 7,
+        "text": " Excuse me."
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 10,
+        "text": " Hi, my name is Tennessee Chantelon."
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 13,
+        "text": " Okay, how can I help you?"
+      },
+      {
+        "id": 5,
+        "start": 13,
+        "end": 19,
+        "text": " Yes, I order Blue Score, White Acre, AQE."
+      },
+      {
+        "id": 6,
+        "start": 19,
+        "end": 23,
+        "text": " And they send me the wrong, they didn't send me that one."
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 26,
+        "text": " They send me something else."
+      },
+      {
+        "id": 8,
+        "start": 26,
+        "end": 28,
+        "text": " I can take a look."
+      },
+      {
+        "id": 9,
+        "start": 29,
+        "end": 31,
+        "text": " I can take a look, one moment."
+      },
+      {
+        "id": 10,
+        "start": 42,
+        "end": 45,
+        "text": " Okay, how do I spell your last name and your zip code?"
+      },
+      {
+        "id": 11,
+        "start": 45,
+        "end": 47,
+        "text": " My last name?"
+      },
+      {
+        "id": 12,
+        "start": 47,
+        "end": 49,
+        "text": " Yeah, and a zip code."
+      },
+      {
+        "id": 13,
+        "start": 49,
+        "end": 54,
+        "text": " C-H-A-E-N-T-H-A-V-O-N-T."
+      },
+      {
+        "id": 14,
+        "start": 55,
+        "end": 60,
+        "text": " Okay, your profile actually pulled up with just your last name."
+      },
+      {
+        "id": 15,
+        "start": 60,
+        "end": 63,
+        "text": " You need to send a picture of your ID for us to verify you, sir."
+      },
+      {
+        "id": 16,
+        "start": 63,
+        "end": 66,
+        "text": " They emailed you about that to your email."
+      },
+      {
+        "id": 17,
+        "start": 66,
+        "end": 68,
+        "text": " My email?"
+      },
+      {
+        "id": 18,
+        "start": 68,
+        "end": 70,
+        "text": " Yeah, they emailed you regarding your profile."
+      },
+      {
+        "id": 19,
+        "start": 70,
+        "end": 73,
+        "text": " You need to send us a picture of your ID so we can approve you."
+      },
+      {
+        "id": 20,
+        "start": 73,
+        "end": 76,
+        "text": " Oh, I have to send a picture and send it to you?"
+      },
+      {
+        "id": 21,
+        "start": 76,
+        "end": 78,
+        "text": " Yeah, they emailed you."
+      },
+      {
+        "id": 22,
+        "start": 78,
+        "end": 79,
+        "text": " I can email you again."
+      },
+      {
+        "id": 23,
+        "start": 79,
+        "end": 82,
+        "text": " You just need to send a picture of your ID so the system can verify you."
+      },
+      {
+        "id": 24,
+        "start": 82,
+        "end": 83,
+        "text": " Okay."
+      },
+      {
+        "id": 25,
+        "start": 89,
+        "end": 94,
+        "text": " So I'll send an email again, and then you're going to get the email in 15 to 20 minutes."
+      },
+      {
+        "id": 26,
+        "start": 94,
+        "end": 98,
+        "text": " Take a picture of your ID and send us a picture of your ID."
+      },
+      {
+        "id": 27,
+        "start": 98,
+        "end": 101,
+        "text": " Take a picture of my ID and send it to you?"
+      },
+      {
+        "id": 28,
+        "start": 101,
+        "end": 105,
+        "text": " Send it to the email that you're going to get in 15 minutes."
+      },
+      {
+        "id": 29,
+        "start": 105,
+        "end": 107,
+        "text": " My email?"
+      },
+      {
+        "id": 30,
+        "start": 108,
+        "end": 112,
+        "text": " Okay, let me just slow it down for you so that way you can understand."
+      },
+      {
+        "id": 31,
+        "start": 112,
+        "end": 115,
+        "text": " I am going to send you an email."
+      },
+      {
+        "id": 32,
+        "start": 115,
+        "end": 117,
+        "text": " Okay, just give me the email."
+      },
+      {
+        "id": 33,
+        "start": 117,
+        "end": 122,
+        "text": " Okay, so I'm barely getting through the first sentence."
+      },
+      {
+        "id": 34,
+        "start": 122,
+        "end": 124,
+        "text": " I'm going to send you an email."
+      },
+      {
+        "id": 35,
+        "start": 124,
+        "end": 128,
+        "text": " You're going to receive that in about 10 to 15 minutes."
+      },
+      {
+        "id": 36,
+        "start": 128,
+        "end": 133,
+        "text": " And that email is going to give you instructions on what we need you to send us"
+      },
+      {
+        "id": 37,
+        "start": 133,
+        "end": 136,
+        "text": " so they can approve your ID."
+      },
+      {
+        "id": 38,
+        "start": 136,
+        "end": 141,
+        "text": " So you're going to send a picture of your ID and attach it to that email"
+      },
+      {
+        "id": 39,
+        "start": 141,
+        "end": 143,
+        "text": " and send it back to us."
+      },
+      {
+        "id": 40,
+        "start": 143,
+        "end": 147,
+        "text": " Once we get it, the doctor will approve your prescription,"
+      },
+      {
+        "id": 41,
+        "start": 147,
+        "end": 149,
+        "text": " and your order will be shipped out."
+      },
+      {
+        "id": 42,
+        "start": 150,
+        "end": 152,
+        "text": " Okay."
+      },
+      {
+        "id": 43,
+        "start": 154,
+        "end": 155,
+        "text": " All right, okay."
+      },
+      {
+        "id": 44,
+        "start": 155,
+        "end": 158,
+        "text": " Go ahead and send me your email."
+      },
+      {
+        "id": 45,
+        "start": 158,
+        "end": 160,
+        "text": " We're going to send an email to you."
+      },
+      {
+        "id": 46,
+        "start": 160,
+        "end": 162,
+        "text": " We're going to email your email."
+      },
+      {
+        "id": 47,
+        "start": 162,
+        "end": 165,
+        "text": " You're going to get it in 10 to 15 minutes, so just keep an eye out for that."
+      },
+      {
+        "id": 48,
+        "start": 165,
+        "end": 168,
+        "text": " Follow the instructions on the email, and you're going to be all set."
+      },
+      {
+        "id": 49,
+        "start": 169,
+        "end": 170,
+        "text": " Okay."
+      },
+      {
+        "id": 50,
+        "start": 170,
+        "end": 171,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 51,
+        "start": 171,
+        "end": 172,
+        "text": " Perfect."
+      },
+      {
+        "id": 52,
+        "start": 172,
+        "end": 173,
+        "text": " No worries."
+      },
+      {
+        "id": 53,
+        "start": 173,
+        "end": 174,
+        "text": " Have a good one."
+      },
+      {
+        "id": 54,
+        "start": 174,
+        "end": 175,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 55,
+        "start": 175,
+        "end": 176,
+        "text": " All right."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8168-9cfa-d5829d6a51b0",
+    "url": "https://www.notion.so/300000001218123-300000001708190-2f611d0a101c81689cfad5829d6a51b0"
+  },
+  "processedAt": "2026-01-28T14:08:55.503Z"
+}

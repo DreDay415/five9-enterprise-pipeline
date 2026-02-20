@@ -1,0 +1,140 @@
+{
+  "recording": {
+    "name": "300000001216311-300000001705794-5162412732 by gabriela@superbalife.com @ 1_19_37 PM.wav",
+    "size": 118100,
+    "modifyTime": 1769584630000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216311-300000001705794-5162412732 by gabriela@superbalife.com @ 1_19_37 PM.wav",
+    "uploadDate": "2026-01-28T07:17:10.000Z",
+    "callId": "300000001216311-300000001705794",
+    "agent": "gabriela",
+    "phoneNumber": "5162412732",
+    "callTimestamp": "2026-01-28T13:19:37.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Hi, I'm calling to cancel my prescription, please.\n\nSpeaker 1: Okay, what's your name and date of birth?\n\nSpeaker 2: Okay, first name Eugene, E-U-G-E-N-E.\n\nSpeaker 1: Last name Emily Mary, O-R-D as in David, A.\n\nSpeaker 2: Date of birth is May 16, 1970.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Okay, and you say you want to repeat that again? How can I assist you?\n\nSpeaker 1: I'd like to cancel my prescription and not receive your product anymore, please.\n\nSpeaker 2: Okay, and what's going on? Is it that you have no supply at this time?\n\nSpeaker 1: I'm not using it, thank you.\n\nSpeaker 2: Okay, so if you're not using it at this time, then I can always go ahead and just pause your prescription, Eugene.\n\nSpeaker 1: And you can always give us a call to reorder if you need any supply.\n\nSpeaker 2: Okay, that's fine. I won't get any automatically then, correct?\n\nSpeaker 1: It will be paused for right now, yeah.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, you're all set. Have a nice day.\n\nSpeaker 2: Thank you very much.\n\nSpeaker 1: You're welcome.",
+    "duration": 4412,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10,
+        "text": " Hi, I'm calling to cancel my prescription, please."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 13,
+        "text": " Okay, what's your name and date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 18,
+        "text": " Okay, first name Eugene, E-U-G-E-N-E."
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 23,
+        "text": " Last name Emily Mary, O-R-D as in David, A."
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 28,
+        "text": " Date of birth is May 16, 1970."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 32,
+        "text": " Thank you."
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 37,
+        "text": " Okay, and you say you want to repeat that again? How can I assist you?"
+      },
+      {
+        "id": 8,
+        "start": 37,
+        "end": 42,
+        "text": " I'd like to cancel my prescription and not receive your product anymore, please."
+      },
+      {
+        "id": 9,
+        "start": 42,
+        "end": 46,
+        "text": " Okay, and what's going on? Is it that you have no supply at this time?"
+      },
+      {
+        "id": 10,
+        "start": 46,
+        "end": 49,
+        "text": " I'm not using it, thank you."
+      },
+      {
+        "id": 11,
+        "start": 49,
+        "end": 55,
+        "text": " Okay, so if you're not using it at this time, then I can always go ahead and just pause your prescription, Eugene."
+      },
+      {
+        "id": 12,
+        "start": 55,
+        "end": 60,
+        "text": " And you can always give us a call to reorder if you need any supply."
+      },
+      {
+        "id": 13,
+        "start": 60,
+        "end": 65,
+        "text": " Okay, that's fine. I won't get any automatically then, correct?"
+      },
+      {
+        "id": 14,
+        "start": 65,
+        "end": 68,
+        "text": " It will be paused for right now, yeah."
+      },
+      {
+        "id": 15,
+        "start": 68,
+        "end": 69,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 69,
+        "end": 71,
+        "text": " Okay, you're all set. Have a nice day."
+      },
+      {
+        "id": 17,
+        "start": 71,
+        "end": 72,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 18,
+        "start": 72,
+        "end": 73,
+        "text": " You're welcome."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ea-8d23-d6b628ae9f51",
+    "url": "https://www.notion.so/300000001216311-300000001705794-2f611d0a101c81ea8d23d6b628ae9f51"
+  },
+  "processedAt": "2026-01-28T15:07:09.980Z"
+}

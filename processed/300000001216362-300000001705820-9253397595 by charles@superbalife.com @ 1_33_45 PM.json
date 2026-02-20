@@ -1,0 +1,104 @@
+{
+  "recording": {
+    "name": "300000001216362-300000001705820-9253397595 by charles@superbalife.com @ 1_33_45 PM.wav",
+    "size": 109910,
+    "modifyTime": 1769584041000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216362-300000001705820-9253397595 by charles@superbalife.com @ 1_33_45 PM.wav",
+    "uploadDate": "2026-01-28T07:07:21.000Z",
+    "callId": "300000001216362-300000001705820",
+    "agent": "charles",
+    "phoneNumber": "9253397595",
+    "callTimestamp": "2026-01-28T13:33:45.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling by. I go to Mr. Charles. Yeah, hi, Charles. I got an order that I see\n\nSpeaker 2: that went through yesterday and I want to cancel that.\n\nSpeaker 1: One second. Andrew Upman in California. Okay.\n\nSpeaker 2: Okay. And you said you just don't need this next shipment?\n\nSpeaker 1: No, I don't. I just want to cancel the whole account too.\n\nSpeaker 2: Okay. Just canceled everything for the future. This one has already left our facility already.\n\nSpeaker 1: It's in USPS's hands. So when it arrives, don't tear it up. Don't do anything to it.\n\nSpeaker 2: All you need to do is write return to sender on it. Put it back in your mailbox.\n\nSpeaker 1: The mailman will take it next time he comes by. Send it back to us and then we'll issue the refund\n\nSpeaker 2: as soon as we have it back in our possession.\n\nSpeaker 1: Okay. Perfect.\n\nSpeaker 2: All right. Hope you have a good one.\n\nSpeaker 1: You too. Thank you. Bye.",
+    "duration": 2186,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 9,
+        "text": " Thanks for calling by. I go to Mr. Charles. Yeah, hi, Charles. I got an order that I see"
+      },
+      {
+        "id": 1,
+        "start": 9,
+        "end": 18,
+        "text": " that went through yesterday and I want to cancel that."
+      },
+      {
+        "id": 2,
+        "start": 18,
+        "end": 28,
+        "text": " One second. Andrew Upman in California. Okay."
+      },
+      {
+        "id": 3,
+        "start": 28,
+        "end": 36,
+        "text": " Okay. And you said you just don't need this next shipment?"
+      },
+      {
+        "id": 4,
+        "start": 36,
+        "end": 40,
+        "text": " No, I don't. I just want to cancel the whole account too."
+      },
+      {
+        "id": 5,
+        "start": 40,
+        "end": 45,
+        "text": " Okay. Just canceled everything for the future. This one has already left our facility already."
+      },
+      {
+        "id": 6,
+        "start": 45,
+        "end": 50,
+        "text": " It's in USPS's hands. So when it arrives, don't tear it up. Don't do anything to it."
+      },
+      {
+        "id": 7,
+        "start": 50,
+        "end": 53,
+        "text": " All you need to do is write return to sender on it. Put it back in your mailbox."
+      },
+      {
+        "id": 8,
+        "start": 53,
+        "end": 57,
+        "text": " The mailman will take it next time he comes by. Send it back to us and then we'll issue the refund"
+      },
+      {
+        "id": 9,
+        "start": 57,
+        "end": 60,
+        "text": " as soon as we have it back in our possession."
+      },
+      {
+        "id": 10,
+        "start": 60,
+        "end": 61,
+        "text": " Okay. Perfect."
+      },
+      {
+        "id": 11,
+        "start": 61,
+        "end": 63,
+        "text": " All right. Hope you have a good one."
+      },
+      {
+        "id": 12,
+        "start": 63,
+        "end": 65,
+        "text": " You too. Thank you. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-812c-9b0d-dcafee00a2bb",
+    "url": "https://www.notion.so/300000001216362-300000001705820-2f611d0a101c812c9b0ddcafee00a2bb"
+  },
+  "processedAt": "2026-01-28T15:25:39.780Z"
+}

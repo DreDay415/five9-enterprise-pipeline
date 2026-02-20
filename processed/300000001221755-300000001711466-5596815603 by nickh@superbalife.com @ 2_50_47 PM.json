@@ -1,0 +1,134 @@
+{
+  "recording": {
+    "name": "300000001221755-300000001711466-5596815603 by nickh@superbalife.com @ 2_50_47 PM.wav",
+    "size": 101006,
+    "modifyTime": 1769640711000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221755-300000001711466-5596815603 by nickh@superbalife.com @ 2_50_47 PM.wav",
+    "uploadDate": "2026-01-28T22:51:51.000Z",
+    "callId": "300000001221755-300000001711466",
+    "agent": "nickh",
+    "phoneNumber": "5596815603",
+    "callTimestamp": "2026-01-28T14:50:47.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hello?\n\nSpeaker 2: Hi, Mr. Sosa, this is Nick over at Score Blue. How are you?\n\nSpeaker 1: What, where?\n\nSpeaker 2: This is Nick at Score Blue.\n\nSpeaker 1: Okay, yes, yes.\n\nSpeaker 2: Hi, Hans. Yes, I got your voicemail, and it looks like the address was just off by one digit.\n\nSpeaker 1: So it looks like we sent it to 7198 North Blythe, and it needs to go to 3198 North Blythe, okay?\n\nSpeaker 2: I'm going to get this resolved and get it to you, okay?\n\nSpeaker 1: Okay, so when would I expect it?\n\nSpeaker 2: I'm going to try to get it to you two to five business days.\n\nSpeaker 1: Okay, so you're going to take care of it on your end and reship it then?\n\nSpeaker 2: Yes, sir.\n\nSpeaker 1: Okay, all right.\n\nSpeaker 2: All right?\n\nSpeaker 1: Okay, thank you very much.\n\nSpeaker 2: All right, thank you.\n\nSpeaker 1: Okay, bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 2144,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Hello?"
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 6,
+        "text": " Hi, Mr. Sosa, this is Nick over at Score Blue. How are you?"
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 7,
+        "text": " What, where?"
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 10,
+        "text": " This is Nick at Score Blue."
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 12,
+        "text": " Okay, yes, yes."
+      },
+      {
+        "id": 5,
+        "start": 12,
+        "end": 19,
+        "text": " Hi, Hans. Yes, I got your voicemail, and it looks like the address was just off by one digit."
+      },
+      {
+        "id": 6,
+        "start": 19,
+        "end": 26,
+        "text": " So it looks like we sent it to 7198 North Blythe, and it needs to go to 3198 North Blythe, okay?"
+      },
+      {
+        "id": 7,
+        "start": 26,
+        "end": 29,
+        "text": " I'm going to get this resolved and get it to you, okay?"
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 32,
+        "text": " Okay, so when would I expect it?"
+      },
+      {
+        "id": 9,
+        "start": 32,
+        "end": 36,
+        "text": " I'm going to try to get it to you two to five business days."
+      },
+      {
+        "id": 10,
+        "start": 36,
+        "end": 41,
+        "text": " Okay, so you're going to take care of it on your end and reship it then?"
+      },
+      {
+        "id": 11,
+        "start": 41,
+        "end": 42,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 12,
+        "start": 42,
+        "end": 44,
+        "text": " Okay, all right."
+      },
+      {
+        "id": 13,
+        "start": 44,
+        "end": 45,
+        "text": " All right?"
+      },
+      {
+        "id": 14,
+        "start": 45,
+        "end": 47,
+        "text": " Okay, thank you very much."
+      },
+      {
+        "id": 15,
+        "start": 47,
+        "end": 49,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 16,
+        "start": 49,
+        "end": 50,
+        "text": " Okay, bye-bye."
+      },
+      {
+        "id": 17,
+        "start": 59,
+        "end": 60,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a5-b06d-feb8ffb7a9a8",
+    "url": "https://www.notion.so/300000001221755-300000001711466-2f611d0a101c81a5b06dfeb8ffb7a9a8"
+  },
+  "processedAt": "2026-01-28T23:29:44.876Z"
+}

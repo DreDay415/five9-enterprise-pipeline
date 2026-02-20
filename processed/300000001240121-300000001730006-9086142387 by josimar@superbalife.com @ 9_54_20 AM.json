@@ -1,0 +1,188 @@
+{
+  "recording": {
+    "name": "300000001240121-300000001730006-9086142387 by josimar@superbalife.com @ 9_54_20 AM.wav",
+    "size": 206826,
+    "modifyTime": 1770919009000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240121-300000001730006-9086142387 by josimar@superbalife.com @ 9_54_20 AM.wav",
+    "uploadDate": "2026-02-12T17:56:49.000Z",
+    "callId": "300000001240121-300000001730006",
+    "agent": "josimar",
+    "phoneNumber": "9086142387",
+    "callTimestamp": "2026-02-12T09:54:20.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, how can I help you today?\n\nSpeaker 2: Yes, hi, my name is Jeffrey Bognatz, B-O-G-N-A-T-Z.\n\nSpeaker 1: Yeah, how can I help you today?\n\nSpeaker 2: I would like to know what specials you have on.\n\nSpeaker 1: Yeah, right now we have our standard deals for AGB Viagra.\n\nSpeaker 2: It's going to be 10 pills for 63, 25 at 113, and 40 for 163.\n\nSpeaker 1: I'll take the 40 pills, and that's the 100 mg?\n\nSpeaker 2: 100 mg is correct. It'll be 100 mg and it'll come out to 163.95.\n\nSpeaker 1: Okay, sounds good. You have my address?\n\nSpeaker 2: Yeah, I can pull you up here in my system. What's your zip code?\n\nSpeaker 1: 0-7753.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, I pulled up your profile here.\n\nSpeaker 2: Okay, let me just verify the address we have here on file.\n\nSpeaker 1: It's going to be 231 South Riverside Drive?\n\nSpeaker 2: Yep, Neptune, New Jersey.\n\nSpeaker 1: Got it.\n\nSpeaker 2: And we're doing 40 pills, 100 mg each, that's 163.\n\nSpeaker 1: Are we billing the MasterCard that ends in 4145?\n\nSpeaker 2: Yes, your time.\n\nSpeaker 1: Got it. One moment.\n\nSpeaker 2: Alright, I'll say it'll be in three to five business days.\n\nSpeaker 1: If you have any questions, let us know.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: No worries, have a good one.\n\nSpeaker 2: Yep.\n\nSpeaker 1: Bye-bye.",
+    "duration": 3505,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Viagra, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10,
+        "text": " Yes, hi, my name is Jeffrey Bognatz, B-O-G-N-A-T-Z."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 15,
+        "text": " Yeah, how can I help you today?"
+      },
+      {
+        "id": 3,
+        "start": 15,
+        "end": 18,
+        "text": " I would like to know what specials you have on."
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 22,
+        "text": " Yeah, right now we have our standard deals for AGB Viagra."
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 28,
+        "text": " It's going to be 10 pills for 63, 25 at 113, and 40 for 163."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 36,
+        "text": " I'll take the 40 pills, and that's the 100 mL, 100 mg?"
+      },
+      {
+        "id": 7,
+        "start": 36,
+        "end": 41,
+        "text": " 100 mg is correct. It'll be 100 mg and it'll come out to 163.95."
+      },
+      {
+        "id": 8,
+        "start": 41,
+        "end": 46,
+        "text": " Okay, sounds good. You have my address?"
+      },
+      {
+        "id": 9,
+        "start": 46,
+        "end": 49,
+        "text": " Yeah, I can pull you up here in my system. What's your zip code?"
+      },
+      {
+        "id": 10,
+        "start": 49,
+        "end": 52,
+        "text": " 0-7753."
+      },
+      {
+        "id": 11,
+        "start": 52,
+        "end": 77,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 77,
+        "end": 79,
+        "text": " Okay, I pulled up your profile here."
+      },
+      {
+        "id": 13,
+        "start": 79,
+        "end": 82,
+        "text": " Okay, let me just verify the address we have here on file."
+      },
+      {
+        "id": 14,
+        "start": 82,
+        "end": 85,
+        "text": " It's going to be 231 South Riverside Drive?"
+      },
+      {
+        "id": 15,
+        "start": 85,
+        "end": 87,
+        "text": " Yep, Neptune, New Jersey."
+      },
+      {
+        "id": 16,
+        "start": 87,
+        "end": 89,
+        "text": " Got it."
+      },
+      {
+        "id": 17,
+        "start": 89,
+        "end": 92,
+        "text": " And we're doing 40 pills, 100 mg each, that's 163."
+      },
+      {
+        "id": 18,
+        "start": 92,
+        "end": 96,
+        "text": " Are we billing the MasterCard that ends in 4145?"
+      },
+      {
+        "id": 19,
+        "start": 96,
+        "end": 99,
+        "text": " Yes, your time."
+      },
+      {
+        "id": 20,
+        "start": 99,
+        "end": 116,
+        "text": " Got it. One moment."
+      },
+      {
+        "id": 21,
+        "start": 116,
+        "end": 118,
+        "text": " Alright, I'll say it'll be in three to five business days."
+      },
+      {
+        "id": 22,
+        "start": 118,
+        "end": 120,
+        "text": " If you have any questions, let us know."
+      },
+      {
+        "id": 23,
+        "start": 120,
+        "end": 122,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 24,
+        "start": 122,
+        "end": 124,
+        "text": " No worries, have a good one."
+      },
+      {
+        "id": 25,
+        "start": 124,
+        "end": 126,
+        "text": " Yep."
+      },
+      {
+        "id": 26,
+        "start": 126,
+        "end": 127,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8156-8d99-da944de0a052",
+    "url": "https://www.notion.so/300000001240121-300000001730006-30511d0a101c81568d99da944de0a052"
+  },
+  "processedAt": "2026-02-12T18:04:19.160Z"
+}

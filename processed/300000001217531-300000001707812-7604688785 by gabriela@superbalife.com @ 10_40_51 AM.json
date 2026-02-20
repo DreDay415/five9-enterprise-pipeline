@@ -1,0 +1,182 @@
+{
+  "recording": {
+    "name": "300000001217531-300000001707812-7604688785 by gabriela@superbalife.com @ 10_40_51 AM.wav",
+    "size": 198310,
+    "modifyTime": 1769584632000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217531-300000001707812-7604688785 by gabriela@superbalife.com @ 10_40_51 AM.wav",
+    "uploadDate": "2026-01-28T07:17:12.000Z",
+    "callId": "300000001217531-300000001707812",
+    "agent": "gabriela",
+    "phoneNumber": "7604688785",
+    "callTimestamp": "2026-01-28T10:40:51.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Hi, yeah, I'd like to cancel my prescription.\n\nSpeaker 1: What's your name and date of birth?\n\nSpeaker 2: Yeah, Chris Chase, and my date of birth is October 4, 1966.\n\nSpeaker 1: Okay, I'm looking at my website page that says Christopher, so maybe Christopher Chase.\n\nSpeaker 2: Okay, Christopher, and what's going on? Is it that you have enough supply at this time?\n\nSpeaker 1: Well, that and it's actually, I thought having that new ingredient would help, but it doesn't work for me.\n\nSpeaker 2: All I get is the side effects.\n\nSpeaker 1: So you shouldn't be getting side effects with the AGV. Do you have the pills with you at this moment?\n\nSpeaker 2: I do.\n\nSpeaker 1: Okay, can you take a look at them and let me know what's ingrained from the pills? Take a look at the pills.\n\nSpeaker 2: Yeah, hold on a second.\n\nSpeaker 1: It says AC339.\n\nSpeaker 2: Oh, that explains why you're getting side effects because it looks like they sent you the classic Viagra instead of the AGV Christopher.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So what I will go ahead and do is that I'll ask the pharmacy to reship your order at no additional cost to make up for that.\n\nSpeaker 1: And then I will also go ahead and pause your VIP. I'll pause it until April.\n\nSpeaker 2: That way you have enough time to use the supply that you currently have at the moment, okay?\n\nSpeaker 1: Okay, so this one I should just dump it down the toilet or whatever?\n\nSpeaker 2: Yeah, go ahead and keep them or discard them. I mean, you're getting side effects, so you probably don't want to take them.\n\nSpeaker 1: So go ahead and just discard them. And then I will be asking the pharmacy to reship that order to you.\n\nSpeaker 2: And then I will also be pausing your VIP until April, okay?\n\nSpeaker 1: Sounds good.\n\nSpeaker 2: Okay, well, you're all set, Christopher. Have a good rest of your day, okay?\n\nSpeaker 1: You as well. Thank you.\n\nSpeaker 2: Thank you. Bye.",
+    "duration": 4942,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 7,
+        "text": " Hi, yeah, I'd like to cancel my prescription."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " What's your name and date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 16,
+        "text": " Yeah, Chris Chase, and my date of birth is October 4, 1966."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 22,
+        "text": " Okay, I'm looking at my website page that says Christopher, so maybe Christopher Chase."
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 27,
+        "text": " Okay, Christopher, and what's going on? Is it that you have enough supply at this time?"
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 37,
+        "text": " Well, that and it's actually, I thought having that new ingredient would help, but it doesn't work for me."
+      },
+      {
+        "id": 7,
+        "start": 37,
+        "end": 40,
+        "text": " All I get is the side effects."
+      },
+      {
+        "id": 8,
+        "start": 40,
+        "end": 48,
+        "text": " So you shouldn't be getting side effects with the AGV. Do you have the pills with you at this moment?"
+      },
+      {
+        "id": 9,
+        "start": 48,
+        "end": 50,
+        "text": " I do."
+      },
+      {
+        "id": 10,
+        "start": 50,
+        "end": 55,
+        "text": " Okay, can you take a look at them and let me know what's ingrained from the pills? Take a look at the pills."
+      },
+      {
+        "id": 11,
+        "start": 56,
+        "end": 58,
+        "text": " Yeah, hold on a second."
+      },
+      {
+        "id": 12,
+        "start": 66,
+        "end": 69,
+        "text": " It says AC339."
+      },
+      {
+        "id": 13,
+        "start": 69,
+        "end": 76,
+        "text": " Oh, that explains why you're getting side effects because it looks like they sent you the classic Viagra instead of the AGV Christopher."
+      },
+      {
+        "id": 14,
+        "start": 76,
+        "end": 77,
+        "text": " Okay."
+      },
+      {
+        "id": 15,
+        "start": 77,
+        "end": 84,
+        "text": " So what I will go ahead and do is that I'll ask the pharmacy to reship your order at no additional cost to make up for that."
+      },
+      {
+        "id": 16,
+        "start": 84,
+        "end": 90,
+        "text": " And then I will also go ahead and pause your VIP. I'll pause it until April."
+      },
+      {
+        "id": 17,
+        "start": 90,
+        "end": 95,
+        "text": " That way you have enough time to use the supply that you currently have at the moment, okay?"
+      },
+      {
+        "id": 18,
+        "start": 95,
+        "end": 99,
+        "text": " Okay, so this one I should just dump it down the toilet or whatever?"
+      },
+      {
+        "id": 19,
+        "start": 99,
+        "end": 104,
+        "text": " Yeah, go ahead and keep them or discard them. I mean, you're getting side effects, so you probably don't want to take them."
+      },
+      {
+        "id": 20,
+        "start": 104,
+        "end": 109,
+        "text": " So go ahead and just discard them. And then I will be asking the pharmacy to reship that order to you."
+      },
+      {
+        "id": 21,
+        "start": 109,
+        "end": 113,
+        "text": " And then I will also be pausing your VIP until April, okay?"
+      },
+      {
+        "id": 22,
+        "start": 113,
+        "end": 114,
+        "text": " Sounds good."
+      },
+      {
+        "id": 23,
+        "start": 114,
+        "end": 118,
+        "text": " Okay, well, you're all set, Christopher. Have a good rest of your day, okay?"
+      },
+      {
+        "id": 24,
+        "start": 118,
+        "end": 119,
+        "text": " You as well. Thank you."
+      },
+      {
+        "id": 25,
+        "start": 119,
+        "end": 120,
+        "text": " Thank you. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ac-a852-d915a8a646a4",
+    "url": "https://www.notion.so/300000001217531-300000001707812-2f611d0a101c81aca852d915a8a646a4"
+  },
+  "processedAt": "2026-01-28T15:03:09.704Z"
+}

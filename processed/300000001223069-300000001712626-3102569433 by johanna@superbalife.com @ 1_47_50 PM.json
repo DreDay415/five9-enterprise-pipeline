@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "name": "300000001223069-300000001712626-3102569433 by johanna@superbalife.com @ 1_47_50 PM.wav",
+    "size": 9096,
+    "modifyTime": 1769723296000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223069-300000001712626-3102569433 by johanna@superbalife.com @ 1_47_50 PM.wav",
+    "uploadDate": "2026-01-29T21:48:16.000Z",
+    "callId": "300000001223069-300000001712626",
+    "agent": "johanna",
+    "phoneNumber": "3102569433",
+    "callTimestamp": "2026-01-29T13:47:50.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you.",
+    "duration": 1133,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-813e-88bb-c0641b79f101",
+    "url": "https://www.notion.so/300000001223069-300000001712626-2f711d0a101c813e88bbc0641b79f101"
+  },
+  "processedAt": "2026-01-29T22:09:30.248Z"
+}

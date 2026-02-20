@@ -1,0 +1,314 @@
+{
+  "recording": {
+    "name": "300000001220640-300000001710716-7083076019 by michelleh@superbalife.com @ 9_12_04 AM.wav",
+    "size": 212090,
+    "modifyTime": 1769620477000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220640-300000001710716-7083076019 by michelleh@superbalife.com @ 9_12_04 AM.wav",
+    "uploadDate": "2026-01-28T17:14:37.000Z",
+    "callId": "300000001220640-300000001710716",
+    "agent": "michelleh",
+    "phoneNumber": "7083076019",
+    "callTimestamp": "2026-01-28T09:12:04.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you?\n\nSpeaker 2: Well, I'd like to check on my prescription.\n\nSpeaker 1: I believe it's on automatic refill.\n\nSpeaker 2: I'd like to check for how long and how often I'm getting them\n\nSpeaker 1: because they're kind of piling them up.\n\nSpeaker 2: I'm not using them that fast.\n\nSpeaker 1: Okay, no problem, Dennis, I can help you out.\n\nSpeaker 2: Can you just confirm your date of birth?\n\nSpeaker 1: 6-11-54.\n\nSpeaker 2: Thank you so much, I see you're a VIP status customer.\n\nSpeaker 1: Oh, okay, the doctor put you on refills on a monthly basis,\n\nSpeaker 2: which you do not have to have.\n\nSpeaker 1: You can change that to every two months, every three months.\n\nSpeaker 2: A lot of people just like to go ahead\n\nSpeaker 1: and put a six-month hold on it.\n\nSpeaker 2: That way it keeps you locked in at your rate\n\nSpeaker 1: and keeps your prescription active\n\nSpeaker 2: and just allows you to call in whenever you need a refill.\n\nSpeaker 1: I could pause that for you until July 31st, 2026.\n\nSpeaker 2: Will there be any kind of notification come July?\n\nSpeaker 1: You just have to put a reminder in your phone.\n\nSpeaker 2: Six months, I think that's probably a little too long.\n\nSpeaker 1: What am I getting, 10 a month?\n\nSpeaker 2: Yes, 10 a month.\n\nSpeaker 1: And then what were my options?\n\nSpeaker 2: You could do it in monthly increments,\n\nSpeaker 1: like every two months, every three months,\n\nSpeaker 2: every four months, every five months, up to six months.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Let's try every, if I go every three months\n\nSpeaker 1: and I need some, can I just call and get it refilled?\n\nSpeaker 2: Exactly, yeah, you can just call in\n\nSpeaker 1: whenever you need a refill.\n\nSpeaker 2: Okay, let's go every three months then.\n\nSpeaker 1: Okay, give me one second and I'll tell you your next date.\n\nSpeaker 2: It'll still just be the same amount, right, the 10?\n\nSpeaker 1: Yes, yes, the 10.\n\nSpeaker 2: Okay, so your next refill would go out to you\n\nSpeaker 1: on April 20th.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yes, if you need a refill before then,\n\nSpeaker 2: give us a call, if not, or if you don't need one by then,\n\nSpeaker 1: you know, you can call us and you can pause it further.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: Yeah, not a problem, Dennis.\n\nSpeaker 2: Have a great day.\n\nSpeaker 1: You too, bye-bye.\n\nSpeaker 2: Bye.",
+    "duration": 4998,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.200000047683716,
+        "text": " Thank you for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3.200000047683716,
+        "end": 6.440000057220459,
+        "text": " Well, I'd like to check on my prescription."
+      },
+      {
+        "id": 2,
+        "start": 6.440000057220459,
+        "end": 9.220000267028809,
+        "text": " I believe it's on automatic refill."
+      },
+      {
+        "id": 3,
+        "start": 9.220000267028809,
+        "end": 12.199999809265137,
+        "text": " I'd like to check for how long and how often I'm getting them"
+      },
+      {
+        "id": 4,
+        "start": 12.199999809265137,
+        "end": 14.039999961853027,
+        "text": " because they're kind of piling them up."
+      },
+      {
+        "id": 5,
+        "start": 14.039999961853027,
+        "end": 16.6200008392334,
+        "text": " I'm not using them that fast."
+      },
+      {
+        "id": 6,
+        "start": 16.6200008392334,
+        "end": 18.360000610351562,
+        "text": " Okay, no problem, Dennis, I can help you out."
+      },
+      {
+        "id": 7,
+        "start": 18.360000610351562,
+        "end": 20.8799991607666,
+        "text": " Can you just confirm your date of birth?"
+      },
+      {
+        "id": 8,
+        "start": 20.8799991607666,
+        "end": 23.079999923706055,
+        "text": " 6-11-54."
+      },
+      {
+        "id": 9,
+        "start": 23.079999923706055,
+        "end": 26.079999923706055,
+        "text": " Thank you so much, I see you're a VIP status customer."
+      },
+      {
+        "id": 10,
+        "start": 26.079999923706055,
+        "end": 28.959999084472656,
+        "text": " Oh, okay, the doctor put you on refills on a monthly basis,"
+      },
+      {
+        "id": 11,
+        "start": 29,
+        "end": 30.68000030517578,
+        "text": " which you do not have to have."
+      },
+      {
+        "id": 12,
+        "start": 30.68000030517578,
+        "end": 33.63999938964844,
+        "text": " You can change that to every two months, every three months."
+      },
+      {
+        "id": 13,
+        "start": 33.63999938964844,
+        "end": 34.959999084472656,
+        "text": " A lot of people just like to go ahead"
+      },
+      {
+        "id": 14,
+        "start": 34.959999084472656,
+        "end": 37.20000076293945,
+        "text": " and put a six-month hold on it."
+      },
+      {
+        "id": 15,
+        "start": 37.20000076293945,
+        "end": 39.040000915527344,
+        "text": " That way it keeps you locked in at your rate"
+      },
+      {
+        "id": 16,
+        "start": 39.040000915527344,
+        "end": 40.7599983215332,
+        "text": " and keeps your prescription active"
+      },
+      {
+        "id": 17,
+        "start": 40.7599983215332,
+        "end": 43.540000915527344,
+        "text": " and just allows you to call in whenever you need a refill."
+      },
+      {
+        "id": 18,
+        "start": 43.540000915527344,
+        "end": 46.880001068115234,
+        "text": " I could pause that for you until July 31st, 2026."
+      },
+      {
+        "id": 19,
+        "start": 49.439998626708984,
+        "end": 51.939998626708984,
+        "text": " Will there be any kind of notification come July?"
+      },
+      {
+        "id": 20,
+        "start": 53.20000076293945,
+        "end": 55.52000045776367,
+        "text": " You just have to put a reminder in your phone."
+      },
+      {
+        "id": 21,
+        "start": 59.84000015258789,
+        "end": 64.83999633789062,
+        "text": " Six months, I think that's probably a little too long."
+      },
+      {
+        "id": 22,
+        "start": 66.4000015258789,
+        "end": 67.95999908447266,
+        "text": " What am I getting, 10 a month?"
+      },
+      {
+        "id": 23,
+        "start": 69.04000091552734,
+        "end": 70.5999984741211,
+        "text": " Yes, 10 a month."
+      },
+      {
+        "id": 24,
+        "start": 70.5999984741211,
+        "end": 72.5199966430664,
+        "text": " And then what were my options?"
+      },
+      {
+        "id": 25,
+        "start": 72.5199966430664,
+        "end": 74.16000366210938,
+        "text": " You could do it in monthly increments,"
+      },
+      {
+        "id": 26,
+        "start": 74.16000366210938,
+        "end": 76.12000274658203,
+        "text": " like every two months, every three months,"
+      },
+      {
+        "id": 27,
+        "start": 76.12000274658203,
+        "end": 78.91999816894531,
+        "text": " every four months, every five months, up to six months."
+      },
+      {
+        "id": 28,
+        "start": 78.91999816894531,
+        "end": 79.73999786376953,
+        "text": " Okay."
+      },
+      {
+        "id": 29,
+        "start": 88.44000244140625,
+        "end": 91.5199966430664,
+        "text": " Let's try every, if I go every three months"
+      },
+      {
+        "id": 30,
+        "start": 91.5199966430664,
+        "end": 94.31999969482422,
+        "text": " and I need some, can I just call and get it refilled?"
+      },
+      {
+        "id": 31,
+        "start": 94.31999969482422,
+        "end": 96,
+        "text": " Exactly, yeah, you can just call in"
+      },
+      {
+        "id": 32,
+        "start": 96,
+        "end": 98,
+        "text": " whenever you need a refill."
+      },
+      {
+        "id": 33,
+        "start": 98,
+        "end": 100.27999877929688,
+        "text": " Okay, let's go every three months then."
+      },
+      {
+        "id": 34,
+        "start": 100.27999877929688,
+        "end": 103.23999786376953,
+        "text": " Okay, give me one second and I'll tell you your next date."
+      },
+      {
+        "id": 35,
+        "start": 106,
+        "end": 108.55999755859375,
+        "text": " It'll still just be the same amount, right, the 10?"
+      },
+      {
+        "id": 36,
+        "start": 109.19999694824219,
+        "end": 110.04000091552734,
+        "text": " Yes, yes, the 10."
+      },
+      {
+        "id": 37,
+        "start": 110.04000091552734,
+        "end": 111.91999816894531,
+        "text": " Okay, so your next refill would go out to you"
+      },
+      {
+        "id": 38,
+        "start": 111.91999816894531,
+        "end": 113.12000274658203,
+        "text": " on April 20th."
+      },
+      {
+        "id": 39,
+        "start": 114,
+        "end": 115.27999877929688,
+        "text": " Okay."
+      },
+      {
+        "id": 40,
+        "start": 115.27999877929688,
+        "end": 116.87999725341797,
+        "text": " Yes, if you need a refill before then,"
+      },
+      {
+        "id": 41,
+        "start": 116.87999725341797,
+        "end": 119.4800033569336,
+        "text": " give us a call, if not, or if you don't need one by then,"
+      },
+      {
+        "id": 42,
+        "start": 119.4800033569336,
+        "end": 122.55999755859375,
+        "text": " you know, you can call us and you can pause it further."
+      },
+      {
+        "id": 43,
+        "start": 122.55999755859375,
+        "end": 123.91999816894531,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 44,
+        "start": 123.91999816894531,
+        "end": 125.4000015258789,
+        "text": " Yeah, not a problem, Dennis."
+      },
+      {
+        "id": 45,
+        "start": 125.4000015258789,
+        "end": 126.83999633789062,
+        "text": " Have a great day."
+      },
+      {
+        "id": 46,
+        "start": 126.83999633789062,
+        "end": 128.0800018310547,
+        "text": " You too, bye-bye."
+      },
+      {
+        "id": 47,
+        "start": 128.0800018310547,
+        "end": 128.9199981689453,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81f6-94a5-c46acb07a18c",
+    "url": "https://www.notion.so/300000001220640-300000001710716-2f611d0a101c81f694a5c46acb07a18c"
+  },
+  "processedAt": "2026-01-28T18:37:59.181Z"
+}

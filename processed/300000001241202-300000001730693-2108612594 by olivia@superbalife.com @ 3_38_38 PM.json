@@ -1,0 +1,149 @@
+{
+  "recording": {
+    "name": "300000001241202-300000001730693-2108612594 by olivia@superbalife.com @ 3_38_38 PM.wav",
+    "size": 174520,
+    "modifyTime": 1770939648000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241202-300000001730693-2108612594 by olivia@superbalife.com @ 3_38_38 PM.wav",
+    "uploadDate": "2026-02-12T23:40:48.000Z",
+    "callId": "300000001241202-300000001730693",
+    "agent": "olivia",
+    "phoneNumber": "2108612594",
+    "callTimestamp": "2026-02-12T15:38:38.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_olivia_300000001241202-300000001730693_2108612594.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_olivia_300000001241202-300000001730693_2108612594.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Olivia speaking. Who do I have the pleasure of speaking with today?\n\nSpeaker 2: My name is William Saunders.\n\nSpeaker 1: Hi, William. How are you?\n\nSpeaker 2: Okay. I'm getting ready to have surgery and I want to cancel my subscription.\n\nSpeaker 1: Yeah, I can help you with that. Okay, William, what is your date of birth?\n\nSpeaker 2: August 9, 1952.\n\nSpeaker 1: Okay. There we go. And you're located at 536 Ogden Lane, San Antonio, Texas?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Yeah, so if you don't want to receive those regular monthly refills with the prescription, you certainly don't have to.\n\nSpeaker 2: You always have the option to place your prescription on hold for up to six months at a time,\n\nSpeaker 1: just because six months is when the prescription would expire if we didn't refill it.\n\nSpeaker 2: And the way that would work is whenever you are ready to order, if it is before then, you can.\n\nSpeaker 1: You just have to give us a call to place the order yourself.\n\nSpeaker 2: Well, let's do that. We'll put it on hold.\n\nSpeaker 1: Okay, great. Yeah, so if you need anything before August, just give us a call.\n\nSpeaker 2: We're always here Monday through Friday, 8 to 5 Pacific.\n\nSpeaker 1: Okay, wonderful. Well, thank you.\n\nSpeaker 2: Thank you, William. I hope you have a great day.\n\nSpeaker 1: All right, bye.\n\nSpeaker 2: Bye.",
+    "duration": 4000,
+    "audioDuration": 107.36000061035156,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8,
+        "text": " Thank you for calling Viagra. This is Olivia speaking. Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 1,
+        "start": 8,
+        "end": 11,
+        "text": " My name is William Saunders."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 14,
+        "text": " Hi, William. How are you?"
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 22,
+        "text": " Okay. I'm getting ready to have surgery and I want to cancel my subscription."
+      },
+      {
+        "id": 4,
+        "start": 22,
+        "end": 30,
+        "text": " Yeah, I can help you with that. Okay, William, what is your date of birth?"
+      },
+      {
+        "id": 5,
+        "start": 30,
+        "end": 33,
+        "text": " August 9, 1952."
+      },
+      {
+        "id": 6,
+        "start": 33,
+        "end": 45,
+        "text": " Okay. There we go. And you're located at 536 Ogden Lane, San Antonio, Texas?"
+      },
+      {
+        "id": 7,
+        "start": 45,
+        "end": 47,
+        "text": " Correct."
+      },
+      {
+        "id": 8,
+        "start": 47,
+        "end": 56,
+        "text": " Yeah, so if you don't want to receive those regular monthly refills with the prescription, you certainly don't have to."
+      },
+      {
+        "id": 9,
+        "start": 56,
+        "end": 64,
+        "text": " You always have the option to place your prescription on hold for up to six months at a time,"
+      },
+      {
+        "id": 10,
+        "start": 64,
+        "end": 70,
+        "text": " just because six months is when the prescription would expire if we didn't refill it."
+      },
+      {
+        "id": 11,
+        "start": 70,
+        "end": 78,
+        "text": " And the way that would work is whenever you are ready to order, if it is before then, you can."
+      },
+      {
+        "id": 12,
+        "start": 78,
+        "end": 83,
+        "text": " You just have to give us a call to place the order yourself."
+      },
+      {
+        "id": 13,
+        "start": 83,
+        "end": 86,
+        "text": " Well, let's do that. We'll put it on hold."
+      },
+      {
+        "id": 14,
+        "start": 86,
+        "end": 93,
+        "text": " Okay, great. Yeah, so if you need anything before August, just give us a call."
+      },
+      {
+        "id": 15,
+        "start": 93,
+        "end": 97,
+        "text": " We're always here Monday through Friday, 8 to 5 Pacific."
+      },
+      {
+        "id": 16,
+        "start": 97,
+        "end": 100,
+        "text": " Okay, wonderful. Well, thank you."
+      },
+      {
+        "id": 17,
+        "start": 100,
+        "end": 103,
+        "text": " Thank you, William. I hope you have a great day."
+      },
+      {
+        "id": 18,
+        "start": 103,
+        "end": 105,
+        "text": " All right, bye."
+      },
+      {
+        "id": 19,
+        "start": 105,
+        "end": 106,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-819e-b847-c3384885f5c0",
+    "url": "https://www.notion.so/300000001241202-300000001730693-30611d0a101c819eb847c3384885f5c0"
+  },
+  "processedAt": "2026-02-13T00:05:37.736Z"
+}

@@ -1,0 +1,152 @@
+{
+  "recording": {
+    "name": "300000001218097-300000001708168-5053770575 by john@superbalife.com @ 1_14_49 PM.wav",
+    "size": 141306,
+    "modifyTime": 1769584043000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218097-300000001708168-5053770575 by john@superbalife.com @ 1_14_49 PM.wav",
+    "uploadDate": "2026-01-28T07:07:23.000Z",
+    "callId": "300000001218097-300000001708168",
+    "agent": "john",
+    "phoneNumber": "5053770575",
+    "callTimestamp": "2026-01-28T13:14:49.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you today?\n\nSpeaker 2: Yeah, John. I went online and I think I filled out the proper work for a prescription, but I'm not sure.\n\nSpeaker 1: Okay. I can check. I just need your name and zip code. I can double check everything for you.\n\nSpeaker 2: Okay. John Buffington. Zip code is 87401.\n\nSpeaker 1: 4409 Cayamillo?\n\nSpeaker 2: Yes.\n\nSpeaker 1: So what I see here is that you ordered the 50 milligrams. You ordered 80 pills.\n\nSpeaker 2: You first ordered 40 and then it asked if you wanted 40 more and you hit yes, you'll get 80 total.\n\nSpeaker 1: But I do see the order went through successfully.\n\nSpeaker 2: Okay. And that's when you say 15. I thought it was in 50 or...\n\nSpeaker 1: No, no, no. Sir, I said 50, 5-0.\n\nSpeaker 2: Oh, okay. I'm sorry. I misunderstood that thing.\n\nSpeaker 1: Yeah. Okay. So then I'm done. I just need to what? Wait?\n\nSpeaker 2: You just need to wait, yeah. So what's going to happen is that health information you filled out,\n\nSpeaker 1: that's going to be transmitted to a doctor we work with. That doctor will be licensed to practice in your state.\n\nSpeaker 2: They'll review everything and then by tomorrow they will have approved you and then we'll ship it out.\n\nSpeaker 1: So you're just waiting. You'll get an email as well.\n\nSpeaker 2: All right. Sounds good. I appreciate it. Thank you.\n\nSpeaker 1: Of course. Have a good one.\n\nSpeaker 2: You too. Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 4385,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.5999999046325684,
+        "text": " Thank you for calling. This is John. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 2.5999999046325684,
+        "end": 13,
+        "text": " Yeah, John. I went online and I think I filled out the proper work for a prescription, but I'm not sure."
+      },
+      {
+        "id": 2,
+        "start": 13,
+        "end": 16.399999618530273,
+        "text": " Okay. I can check. I just need your name and zip code. I can double check everything for you."
+      },
+      {
+        "id": 3,
+        "start": 16.399999618530273,
+        "end": 25.799999237060547,
+        "text": " Okay. John Buffington. Zip code is 87401."
+      },
+      {
+        "id": 4,
+        "start": 26,
+        "end": 28.200000762939453,
+        "text": " 4409 Cayamillo?"
+      },
+      {
+        "id": 5,
+        "start": 28.200000762939453,
+        "end": 30,
+        "text": " Yes."
+      },
+      {
+        "id": 6,
+        "start": 30,
+        "end": 37.79999923706055,
+        "text": " So what I see here is that you ordered the 50 milligrams. You ordered 80 pills."
+      },
+      {
+        "id": 7,
+        "start": 37.79999923706055,
+        "end": 42.400001525878906,
+        "text": " You first ordered 40 and then it asked if you wanted 40 more and you hit yes, you'll get 80 total."
+      },
+      {
+        "id": 8,
+        "start": 42.400001525878906,
+        "end": 44.79999923706055,
+        "text": " But I do see the order went through successfully."
+      },
+      {
+        "id": 9,
+        "start": 44.79999923706055,
+        "end": 52.79999923706055,
+        "text": " Okay. And that's when you say 15. I thought it was in 50 or..."
+      },
+      {
+        "id": 10,
+        "start": 52.79999923706055,
+        "end": 56.20000076293945,
+        "text": " No, no, no. Sir, I said 50, 5-0."
+      },
+      {
+        "id": 11,
+        "start": 56.20000076293945,
+        "end": 59.20000076293945,
+        "text": " Oh, okay. I'm sorry. I misunderstood that thing."
+      },
+      {
+        "id": 12,
+        "start": 59.20000076293945,
+        "end": 63.20000076293945,
+        "text": " Yeah. Okay. So then I'm done. I just need to what? Wait?"
+      },
+      {
+        "id": 13,
+        "start": 63.20000076293945,
+        "end": 67,
+        "text": " You just need to wait, yeah. So what's going to happen is that health information you filled out,"
+      },
+      {
+        "id": 14,
+        "start": 67,
+        "end": 73.80000305175781,
+        "text": " that's going to be transmitted to a doctor we work with. That doctor will be licensed to practice in your state."
+      },
+      {
+        "id": 15,
+        "start": 73.80000305175781,
+        "end": 78.4000015258789,
+        "text": " They'll review everything and then by tomorrow they will have approved you and then we'll ship it out."
+      },
+      {
+        "id": 16,
+        "start": 78.4000015258789,
+        "end": 81.4000015258789,
+        "text": " So you're just waiting. You'll get an email as well."
+      },
+      {
+        "id": 17,
+        "start": 81.4000015258789,
+        "end": 84,
+        "text": " All right. Sounds good. I appreciate it. Thank you."
+      },
+      {
+        "id": 18,
+        "start": 84,
+        "end": 85,
+        "text": " Of course. Have a good one."
+      },
+      {
+        "id": 19,
+        "start": 85,
+        "end": 86,
+        "text": " You too. Bye-bye."
+      },
+      {
+        "id": 20,
+        "start": 86,
+        "end": 87,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-818e-994d-fec09d47b44b",
+    "url": "https://www.notion.so/300000001218097-300000001708168-2f611d0a101c818e994dfec09d47b44b"
+  },
+  "processedAt": "2026-01-28T15:22:41.381Z"
+}

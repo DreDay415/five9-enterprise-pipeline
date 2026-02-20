@@ -1,0 +1,284 @@
+{
+  "recording": {
+    "name": "300000001220238-300000001710052-5418176065 by olivier@superbalife.com @ 3_40_07 PM.wav",
+    "size": 230096,
+    "modifyTime": 1769557370000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220238-300000001710052-5418176065 by olivier@superbalife.com @ 3_40_07 PM.wav",
+    "uploadDate": "2026-01-27T23:42:50.000Z",
+    "callId": "300000001220238-300000001710052",
+    "agent": "olivier",
+    "phoneNumber": "5418176065",
+    "callTimestamp": "2026-01-27T15:40:07.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Hey, how you doing?\n\nSpeaker 1: Good.\n\nSpeaker 2: How you doing, sir?\n\nSpeaker 1: I'm doing good.\n\nSpeaker 2: Yeah, I actually went and saw my urologist,\n\nSpeaker 1: and he is helping me with prescriptions,\n\nSpeaker 2: so I need to cancel any further prescriptions with you guys.\n\nSpeaker 1: Give me one moment.\n\nSpeaker 2: Is that envelope salvageable?\n\nSpeaker 1: Probably not.\n\nSpeaker 2: Okay.\n\nSpeaker 1: It will probably cost a couple bucks to send it back, but nothing crazy.\n\nSpeaker 2: But the Southgate, Kentucky address that's on the pill bottle,\n\nSpeaker 1: send it back to them as soon as they have it back over to the room.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Correct, yeah.\n\nSpeaker 1: I'll make sure that this doesn't happen again,\n\nSpeaker 2: and then we'll be coming to you for this answer from here on out.\n\nSpeaker 1: All right.\n\nSpeaker 2: Have a good one.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, Mr. Rick, yes, you have a prescription for Viagra,\n\nSpeaker 1: 100 milligram prescription written by Dr. Blackwell.\n\nSpeaker 2: How can I help you, sir?\n\nSpeaker 1: Yeah, I would need to cancel any further prescriptions.\n\nSpeaker 2: I went and saw my urologist,\n\nSpeaker 1: and he's already got me a prescription for like 40 bucks a month\n\nSpeaker 2: for like a month's supply at a time of stuff,\n\nSpeaker 1: and I've tried it and it's working,\n\nSpeaker 2: so I want to cancel any further billing from you guys for anything.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Let me do that for you.\n\nSpeaker 1: Just keep in mind if anything changes,\n\nSpeaker 2: the price probably will be different\n\nSpeaker 1: because we're going to have to get you another doctor consultation.\n\nSpeaker 2: I just canceled the doctor prescription and the VIP account, Mr. Winkler.\n\nSpeaker 1: You're good to go.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thank you very much.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 5396,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 4.5,
+        "text": " Hey, how you doing?"
+      },
+      {
+        "id": 2,
+        "start": 4.5,
+        "end": 7,
+        "text": " Good."
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 9,
+        "text": " How you doing, sir?"
+      },
+      {
+        "id": 4,
+        "start": 9,
+        "end": 10,
+        "text": " I'm doing good."
+      },
+      {
+        "id": 5,
+        "start": 10,
+        "end": 13,
+        "text": " Yeah, I actually went and saw my urologist,"
+      },
+      {
+        "id": 6,
+        "start": 13,
+        "end": 16,
+        "text": " and he is helping me with prescriptions,"
+      },
+      {
+        "id": 7,
+        "start": 16,
+        "end": 22,
+        "text": " so I need to cancel any further prescriptions with you guys."
+      },
+      {
+        "id": 8,
+        "start": 22,
+        "end": 25,
+        "text": " Give me one moment."
+      },
+      {
+        "id": 9,
+        "start": 25,
+        "end": 31,
+        "text": " Is that envelope salvageable?"
+      },
+      {
+        "id": 10,
+        "start": 31,
+        "end": 32,
+        "text": " Probably not."
+      },
+      {
+        "id": 11,
+        "start": 32,
+        "end": 33,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 33,
+        "end": 36,
+        "text": " It will probably cost a couple bucks to send it back, but nothing crazy."
+      },
+      {
+        "id": 13,
+        "start": 36,
+        "end": 40,
+        "text": " But the Southgate, Kentucky address that's on the pill bottle,"
+      },
+      {
+        "id": 14,
+        "start": 40,
+        "end": 44,
+        "text": " send it back to them as soon as they have it back over to the room."
+      },
+      {
+        "id": 15,
+        "start": 44,
+        "end": 49,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 49,
+        "end": 57,
+        "text": " Okay."
+      },
+      {
+        "id": 17,
+        "start": 57,
+        "end": 58,
+        "text": " Correct, yeah."
+      },
+      {
+        "id": 18,
+        "start": 58,
+        "end": 61,
+        "text": " I'll make sure that this doesn't happen again,"
+      },
+      {
+        "id": 19,
+        "start": 61,
+        "end": 71,
+        "text": " and then we'll be coming to you for this answer from here on out."
+      },
+      {
+        "id": 20,
+        "start": 71,
+        "end": 72,
+        "text": " All right."
+      },
+      {
+        "id": 21,
+        "start": 72,
+        "end": 73,
+        "text": " Have a good one."
+      },
+      {
+        "id": 22,
+        "start": 73,
+        "end": 82,
+        "text": " Okay."
+      },
+      {
+        "id": 23,
+        "start": 82,
+        "end": 90,
+        "text": " Okay, Mr. Rick, yes, you have a prescription for Viagra,"
+      },
+      {
+        "id": 24,
+        "start": 90,
+        "end": 95,
+        "text": " 100 milligram prescription written by Dr. Blackwell."
+      },
+      {
+        "id": 25,
+        "start": 95,
+        "end": 97,
+        "text": " How can I help you, sir?"
+      },
+      {
+        "id": 26,
+        "start": 97,
+        "end": 101,
+        "text": " Yeah, I would need to cancel any further prescriptions."
+      },
+      {
+        "id": 27,
+        "start": 102,
+        "end": 104,
+        "text": " I went and saw my urologist,"
+      },
+      {
+        "id": 28,
+        "start": 104,
+        "end": 110,
+        "text": " and he's already got me a prescription for like 40 bucks a month"
+      },
+      {
+        "id": 29,
+        "start": 110,
+        "end": 113,
+        "text": " for like a month's supply at a time of stuff,"
+      },
+      {
+        "id": 30,
+        "start": 113,
+        "end": 115,
+        "text": " and I've tried it and it's working,"
+      },
+      {
+        "id": 31,
+        "start": 115,
+        "end": 119,
+        "text": " so I want to cancel any further billing from you guys for anything."
+      },
+      {
+        "id": 32,
+        "start": 119,
+        "end": 120,
+        "text": " Okay."
+      },
+      {
+        "id": 33,
+        "start": 120,
+        "end": 122,
+        "text": " Let me do that for you."
+      },
+      {
+        "id": 34,
+        "start": 122,
+        "end": 124,
+        "text": " Just keep in mind if anything changes,"
+      },
+      {
+        "id": 35,
+        "start": 124,
+        "end": 127,
+        "text": " the price probably will be different"
+      },
+      {
+        "id": 36,
+        "start": 127,
+        "end": 129,
+        "text": " because we're going to have to get you another doctor consultation."
+      },
+      {
+        "id": 37,
+        "start": 129,
+        "end": 134,
+        "text": " I just canceled the doctor prescription and the VIP account, Mr. Winkler."
+      },
+      {
+        "id": 38,
+        "start": 134,
+        "end": 135,
+        "text": " You're good to go."
+      },
+      {
+        "id": 39,
+        "start": 135,
+        "end": 136,
+        "text": " All right."
+      },
+      {
+        "id": 40,
+        "start": 136,
+        "end": 137,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 41,
+        "start": 137,
+        "end": 138,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 42,
+        "start": 138,
+        "end": 139,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-815d-9acd-f234e86b671c",
+    "url": "https://www.notion.so/300000001220238-300000001710052-2f611d0a101c815d9acdf234e86b671c"
+  },
+  "processedAt": "2026-01-28T17:52:24.989Z"
+}

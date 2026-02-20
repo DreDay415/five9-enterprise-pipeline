@@ -1,0 +1,260 @@
+{
+  "recording": {
+    "name": "300000001239237-300000001728961-8186243464 by josimar@superbalife.com @ 1_54_22 PM.wav",
+    "size": 260906,
+    "modifyTime": 1770847041000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239237-300000001728961-8186243464 by josimar@superbalife.com @ 1_54_22 PM.wav",
+    "uploadDate": "2026-02-11T21:57:21.000Z",
+    "callId": "300000001239237-300000001728961",
+    "agent": "josimar",
+    "phoneNumber": "8186243464",
+    "callTimestamp": "2026-02-11T13:54:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. I can help you today.\n\nSpeaker 2: Yes, my name is Guzwan Fidel and I ordered some of the Viagra.\n\nSpeaker 1: Anyway, instead of $40, they sent me $80.\n\nSpeaker 2: And now they sent me another email that I'm going to get another order.\n\nSpeaker 1: What's going on?\n\nSpeaker 2: What's your last name and zip code? You must have added a bonus package to your order.\n\nSpeaker 1: F like Frank, U be like David, IL, zip code 91207.\n\nSpeaker 2: Okay, I pulled up your account. So you ordered 40 pills for $163.\n\nSpeaker 1: Then you selected an additional add-on bonus where you can get double your pills.\n\nSpeaker 2: That's what they told me, but honestly, I did not select that option.\n\nSpeaker 1: But they sent me 80 pills.\n\nSpeaker 2: Yeah, the reason why they sent you 80 pills is because it was selected, sir.\n\nSpeaker 1: And you received this quite some time ago.\n\nSpeaker 2: Is there a reason why you were calling us? Because you got an email, correct?\n\nSpeaker 1: Yeah, I got an email because I sent you an email.\n\nSpeaker 2: Anyway, they sent me an email. They sent me an email.\n\nSpeaker 1: They're going to send me another shipment.\n\nSpeaker 2: I had to use them.\n\nSpeaker 1: No, they haven't sent you anything yet, and they're not going to as of now, what I'm seeing.\n\nSpeaker 2: Other than that, it looks like the way that they will get refilled through the doctor,\n\nSpeaker 1: because these are prescriptions through Pfizer, it's going to be April 13th.\n\nSpeaker 2: But what I could do for you is just freeze it out for you.\n\nSpeaker 1: That way you have an opportunity to try them,\n\nSpeaker 2: and then you can call us back if you decide you want to keep it active or not.\n\nSpeaker 1: Yeah, don't send me anymore, please. You can freeze it.\n\nSpeaker 2: Yeah, so I'll freeze it, so that way you can just call us back once you try them.\n\nSpeaker 1: As soon as you try them and you see if you like them or not, call us back.\n\nSpeaker 2: Ah, okay.\n\nSpeaker 1: And then you can make a final choice there and then.\n\nSpeaker 2: Okay, so please don't send anymore. Freeze the thing.\n\nSpeaker 1: Yeah, I'll tell you, just call us back once you try them out.\n\nSpeaker 2: Is there like a confirmation number or something?\n\nSpeaker 1: Not a confirmation number, but you can go to your account later on,\n\nSpeaker 2: and you'll see that it's been postponed out,\n\nSpeaker 1: and you're not going to receive anything for the next few months.\n\nSpeaker 2: Just go ahead and call us once you try them, so that way you can make a final decision\n\nSpeaker 1: if you want to stick with these or not.\n\nSpeaker 2: Okay, all right. Thank you.\n\nSpeaker 1: No problem. Bye-bye.",
+    "duration": 7876,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you for calling Viagra. I can help you today."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 12,
+        "text": " Yes, my name is Guzwan Fidel and I ordered some of the Viagra."
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 16,
+        "text": " Anyway, instead of $40, they sent me $80."
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 21,
+        "text": " And now they sent me another email that I'm going to get another order."
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 24,
+        "text": " What's going on?"
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 28,
+        "text": " What's your last name and zip code? You must have added a bonus package to your order."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 48,
+        "text": " F like Frank, U be like David, IL, zip code 91207."
+      },
+      {
+        "id": 7,
+        "start": 48,
+        "end": 52,
+        "text": " Okay, I pulled up your account. So you ordered 40 pills for $163."
+      },
+      {
+        "id": 8,
+        "start": 52,
+        "end": 56,
+        "text": " Then you selected an additional add-on bonus where you can get double your pills."
+      },
+      {
+        "id": 9,
+        "start": 56,
+        "end": 62,
+        "text": " That's what they told me, but honestly, I did not select that option."
+      },
+      {
+        "id": 10,
+        "start": 62,
+        "end": 67,
+        "text": " But they sent me 80 pills."
+      },
+      {
+        "id": 11,
+        "start": 67,
+        "end": 71,
+        "text": " Yeah, the reason why they sent you 80 pills is because it was selected, sir."
+      },
+      {
+        "id": 12,
+        "start": 71,
+        "end": 73,
+        "text": " And you received this quite some time ago."
+      },
+      {
+        "id": 13,
+        "start": 73,
+        "end": 77,
+        "text": " Is there a reason why you were calling us? Because you got an email, correct?"
+      },
+      {
+        "id": 14,
+        "start": 77,
+        "end": 80,
+        "text": " Yeah, I got an email because I sent you an email."
+      },
+      {
+        "id": 15,
+        "start": 80,
+        "end": 85,
+        "text": " Anyway, they sent me an email. They sent me an email."
+      },
+      {
+        "id": 16,
+        "start": 85,
+        "end": 87,
+        "text": " They're going to send me another shipment."
+      },
+      {
+        "id": 17,
+        "start": 87,
+        "end": 90,
+        "text": " I had to use them."
+      },
+      {
+        "id": 18,
+        "start": 90,
+        "end": 94,
+        "text": " No, they haven't sent you anything yet, and they're not going to as of now, what I'm seeing."
+      },
+      {
+        "id": 19,
+        "start": 94,
+        "end": 99,
+        "text": " Other than that, it looks like the way that they will get refilled through the doctor,"
+      },
+      {
+        "id": 20,
+        "start": 99,
+        "end": 103,
+        "text": " because these are prescriptions through Pfizer, it's going to be April 13th."
+      },
+      {
+        "id": 21,
+        "start": 103,
+        "end": 106,
+        "text": " But what I could do for you is just freeze it out for you."
+      },
+      {
+        "id": 22,
+        "start": 106,
+        "end": 108,
+        "text": " That way you have an opportunity to try them,"
+      },
+      {
+        "id": 23,
+        "start": 108,
+        "end": 113,
+        "text": " and then you can call us back if you decide you want to keep it active or not."
+      },
+      {
+        "id": 24,
+        "start": 113,
+        "end": 116,
+        "text": " Yeah, don't send me anymore, please. You can freeze it."
+      },
+      {
+        "id": 25,
+        "start": 116,
+        "end": 119,
+        "text": " Yeah, so I'll freeze it, so that way you can just call us back once you try them."
+      },
+      {
+        "id": 26,
+        "start": 119,
+        "end": 124,
+        "text": " As soon as you try them and you see if you like them or not, call us back."
+      },
+      {
+        "id": 27,
+        "start": 124,
+        "end": 127,
+        "text": " Ah, okay."
+      },
+      {
+        "id": 28,
+        "start": 127,
+        "end": 130,
+        "text": " And then you can make a final choice there and then."
+      },
+      {
+        "id": 29,
+        "start": 130,
+        "end": 134,
+        "text": " Okay, so please don't send anymore. Freeze the thing."
+      },
+      {
+        "id": 30,
+        "start": 134,
+        "end": 138,
+        "text": " Yeah, I'll tell you, just call us back once you try them out."
+      },
+      {
+        "id": 31,
+        "start": 138,
+        "end": 140,
+        "text": " Is there like a confirmation number or something?"
+      },
+      {
+        "id": 32,
+        "start": 140,
+        "end": 143,
+        "text": " Not a confirmation number, but you can go to your account later on,"
+      },
+      {
+        "id": 33,
+        "start": 143,
+        "end": 145,
+        "text": " and you'll see that it's been postponed out,"
+      },
+      {
+        "id": 34,
+        "start": 145,
+        "end": 149,
+        "text": " and you're not going to receive anything for the next few months."
+      },
+      {
+        "id": 35,
+        "start": 149,
+        "end": 152,
+        "text": " Just go ahead and call us once you try them, so that way you can make a final decision"
+      },
+      {
+        "id": 36,
+        "start": 152,
+        "end": 155,
+        "text": " if you want to stick with these or not."
+      },
+      {
+        "id": 37,
+        "start": 155,
+        "end": 157,
+        "text": " Okay, all right. Thank you."
+      },
+      {
+        "id": 38,
+        "start": 157,
+        "end": 159,
+        "text": " No problem. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-8121-9957-e225babe5b36",
+    "url": "https://www.notion.so/300000001239237-300000001728961-30411d0a101c81219957e225babe5b36"
+  },
+  "processedAt": "2026-02-11T22:02:16.825Z"
+}

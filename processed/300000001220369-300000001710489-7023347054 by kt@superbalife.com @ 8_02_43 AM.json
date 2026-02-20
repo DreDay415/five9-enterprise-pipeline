@@ -1,0 +1,224 @@
+{
+  "recording": {
+    "name": "300000001220369-300000001710489-7023347054 by kt@superbalife.com @ 8_02_43 AM.wav",
+    "size": 132726,
+    "modifyTime": 1769616480000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220369-300000001710489-7023347054 by kt@superbalife.com @ 8_02_43 AM.wav",
+    "uploadDate": "2026-01-28T16:08:00.000Z",
+    "callId": "300000001220369-300000001710489",
+    "agent": "kt",
+    "phoneNumber": "7023347054",
+    "callTimestamp": "2026-01-28T08:02:43.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey Larry, good morning, happy Wednesday.\n\nSpeaker 2: My name's KT, I'm gonna take care of you today.\n\nSpeaker 1: I'm gonna use your telephone number,\n\nSpeaker 2: that's 702, to pull up your account.\n\nSpeaker 1: Sure.\n\nSpeaker 2: And then I'm gonna pull up your chart,\n\nSpeaker 1: I'm gonna read off what I see,\n\nSpeaker 2: and just help me verify a couple things\n\nSpeaker 1: so I can help you put a stop to this, all right bud?\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: You bet, I'm just waiting.\n\nSpeaker 2: So, when I'm looking at your chart,\n\nSpeaker 1: it looks like, and just confirm that\n\nSpeaker 2: you're working with Dr. Shamil Tadiki,\n\nSpeaker 1: he's one of our Pfizer doctors,\n\nSpeaker 2: and I've seen this guy's name many times,\n\nSpeaker 1: and he looks like he set you up as a VIP status,\n\nSpeaker 2: and he wrote a script for Viagra, 100 milligrams,\n\nSpeaker 1: 10 quantity, it's a white diamond pill, I believe,\n\nSpeaker 2: and it's the FDA approved one, it's the diamond shape.\n\nSpeaker 1: It's the one we make in our labs in France,\n\nSpeaker 2: and I do see that Dr. Tadiki has ordered the pharmacy\n\nSpeaker 1: to send me refills on a monthly basis.\n\nSpeaker 2: Did he notify you about the refills?\n\nSpeaker 1: No, no, I got them in the mail, I'm good,\n\nSpeaker 2: I'm just canceling my order, I want to stop the delivery.\n\nSpeaker 1: Yeah, absolutely, let me put you on a brief hold,\n\nSpeaker 2: and I'll overwrite the system, I'll put a stop to that,\n\nSpeaker 1: and should you want it, you can just get it,\n\nSpeaker 2: I'll give you my extension, you can call me,\n\nSpeaker 1: I'll set it up for you where it's easy, all right bud?\n\nSpeaker 2: Okay.\n\nSpeaker 1: One moment.",
+    "duration": 4710,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.119999885559082,
+        "text": " Hey Larry, good morning, happy Wednesday."
+      },
+      {
+        "id": 1,
+        "start": 3.119999885559082,
+        "end": 5.679999828338623,
+        "text": " My name's KT, I'm gonna take care of you today."
+      },
+      {
+        "id": 2,
+        "start": 5.679999828338623,
+        "end": 8.600000381469727,
+        "text": " I'm gonna use your telephone number,"
+      },
+      {
+        "id": 3,
+        "start": 8.600000381469727,
+        "end": 10.720000267028809,
+        "text": " that's 702, to pull up your account."
+      },
+      {
+        "id": 4,
+        "start": 10.720000267028809,
+        "end": 11.600000381469727,
+        "text": " Sure."
+      },
+      {
+        "id": 5,
+        "start": 11.600000381469727,
+        "end": 13.239999771118164,
+        "text": " And then I'm gonna pull up your chart,"
+      },
+      {
+        "id": 6,
+        "start": 13.239999771118164,
+        "end": 14.920000076293945,
+        "text": " I'm gonna read off what I see,"
+      },
+      {
+        "id": 7,
+        "start": 14.920000076293945,
+        "end": 16.959999084472656,
+        "text": " and just help me verify a couple things"
+      },
+      {
+        "id": 8,
+        "start": 16.959999084472656,
+        "end": 19.719999313354492,
+        "text": " so I can help you put a stop to this, all right bud?"
+      },
+      {
+        "id": 9,
+        "start": 19.719999313354492,
+        "end": 21.1200008392334,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 10,
+        "start": 21.1200008392334,
+        "end": 22.959999084472656,
+        "text": " You bet, I'm just waiting."
+      },
+      {
+        "id": 11,
+        "start": 22.959999084472656,
+        "end": 25.15999984741211,
+        "text": " So, when I'm looking at your chart,"
+      },
+      {
+        "id": 12,
+        "start": 25.15999984741211,
+        "end": 27.280000686645508,
+        "text": " it looks like, and just confirm that"
+      },
+      {
+        "id": 13,
+        "start": 27.280000686645508,
+        "end": 29,
+        "text": " you're working with Dr. Shamil Tadiki,"
+      },
+      {
+        "id": 14,
+        "start": 29,
+        "end": 30.360000610351562,
+        "text": " he's one of our Pfizer doctors,"
+      },
+      {
+        "id": 15,
+        "start": 30.360000610351562,
+        "end": 32.599998474121094,
+        "text": " and I've seen this guy's name many times,"
+      },
+      {
+        "id": 16,
+        "start": 32.599998474121094,
+        "end": 36.439998626708984,
+        "text": " and he looks like he set you up as a VIP status,"
+      },
+      {
+        "id": 17,
+        "start": 36.439998626708984,
+        "end": 41.119998931884766,
+        "text": " and he wrote a script for Viagra, 100 milligrams,"
+      },
+      {
+        "id": 18,
+        "start": 41.119998931884766,
+        "end": 44.439998626708984,
+        "text": " 10 quantity, it's a white diamond pill, I believe,"
+      },
+      {
+        "id": 19,
+        "start": 44.439998626708984,
+        "end": 48.36000061035156,
+        "text": " and it's the FDA approved one, it's the diamond shape."
+      },
+      {
+        "id": 20,
+        "start": 48.36000061035156,
+        "end": 50.08000183105469,
+        "text": " It's the one we make in our labs in France,"
+      },
+      {
+        "id": 21,
+        "start": 50.08000183105469,
+        "end": 54.599998474121094,
+        "text": " and I do see that Dr. Tadiki has ordered the pharmacy"
+      },
+      {
+        "id": 22,
+        "start": 54.599998474121094,
+        "end": 57.15999984741211,
+        "text": " to send me refills on a monthly basis."
+      },
+      {
+        "id": 23,
+        "start": 57.15999984741211,
+        "end": 59.84000015258789,
+        "text": " Did he notify you about the refills?"
+      },
+      {
+        "id": 24,
+        "start": 61.2400016784668,
+        "end": 64.5199966430664,
+        "text": " No, no, I got them in the mail, I'm good,"
+      },
+      {
+        "id": 25,
+        "start": 64.5199966430664,
+        "end": 67.95999908447266,
+        "text": " I'm just canceling my order, I want to stop the delivery."
+      },
+      {
+        "id": 26,
+        "start": 67.95999908447266,
+        "end": 70.27999877929688,
+        "text": " Yeah, absolutely, let me put you on a brief hold,"
+      },
+      {
+        "id": 27,
+        "start": 70.27999877929688,
+        "end": 72.4000015258789,
+        "text": " and I'll overwrite the system, I'll put a stop to that,"
+      },
+      {
+        "id": 28,
+        "start": 72.4000015258789,
+        "end": 74.83999633789062,
+        "text": " and should you want it, you can just get it,"
+      },
+      {
+        "id": 29,
+        "start": 74.83999633789062,
+        "end": 76.5199966430664,
+        "text": " I'll give you my extension, you can call me,"
+      },
+      {
+        "id": 30,
+        "start": 76.5199966430664,
+        "end": 79.76000213623047,
+        "text": " I'll set it up for you where it's easy, all right bud?"
+      },
+      {
+        "id": 31,
+        "start": 79.76000213623047,
+        "end": 80.76000213623047,
+        "text": " Okay."
+      },
+      {
+        "id": 32,
+        "start": 80.76000213623047,
+        "end": 81.5999984741211,
+        "text": " One moment."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e5-ae6f-dd565ae8c057",
+    "url": "https://www.notion.so/300000001220369-300000001710489-2f611d0a101c81e5ae6fdd565ae8c057"
+  },
+  "processedAt": "2026-01-28T19:08:54.360Z"
+}

@@ -1,0 +1,230 @@
+{
+  "recording": {
+    "name": "300000001240133-300000001730014-2567494211 by olivia@superbalife.com @ 9_56_26 AM.wav",
+    "size": 233020,
+    "modifyTime": 1770919155000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240133-300000001730014-2567494211 by olivia@superbalife.com @ 9_56_26 AM.wav",
+    "uploadDate": "2026-02-12T17:59:15.000Z",
+    "callId": "300000001240133-300000001730014",
+    "agent": "olivia",
+    "phoneNumber": "2567494211",
+    "callTimestamp": "2026-02-12T09:56:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, this is Olivia speaking.\n\nSpeaker 2: Who do I have the pleasure of speaking with today?\n\nSpeaker 1: Olivia, this is Rick Jones, and I've tried to cancel my AutoShip subscription.\n\nSpeaker 2: I can't do it online, and I was sent a message to call this number.\n\nSpeaker 1: Yeah, I can definitely help you, Rick.\n\nSpeaker 2: Okay, Rick, what is your date of birth?\n\nSpeaker 1: It is 9-20-1955.\n\nSpeaker 2: Great.\n\nSpeaker 1: And you're located at 382 Deer Trace, Alexander City, Alabama?\n\nSpeaker 2: That's correct.\n\nSpeaker 1: Okay, great.\n\nSpeaker 2: Yeah, I do see you here.\n\nSpeaker 1: Yeah, Rick, if you don't want to receive those regular monthly refills with your prescription,\n\nSpeaker 2: you certainly don't have to.\n\nSpeaker 1: You always have the option to place your prescription on hold for up to six months at a time,\n\nSpeaker 2: just because six months is when the prescription would expire if we didn't refill it.\n\nSpeaker 1: And the way that works is whenever you are ready to order, if it is before then you can.\n\nSpeaker 2: You just have to give us a call to place the order yourself.\n\nSpeaker 1: Yeah, I don't want to put it on hold.\n\nSpeaker 2: I just want to cancel the subscription for now.\n\nSpeaker 1: Okay, so the pills, they don't work for you?\n\nSpeaker 2: No, they're fine.\n\nSpeaker 1: Okay, it's just my job to let you know that because we do offer you guys the option to place your prescription on hold\n\nSpeaker 2: for an extended period of time.\n\nSpeaker 1: We no longer pay the doctor's fee more than once for your prescription.\n\nSpeaker 2: So although we'd love to have you back, if you did come back, you'd just have to pay that full fee to restart the script\n\nSpeaker 1: because we do offer the option to just place the script on hold that was already approved by the doctor.\n\nSpeaker 2: Yeah, that's fine.\n\nSpeaker 1: But I'll fill out just to cancel right now.\n\nSpeaker 2: All right.\n\nSpeaker 1: Yeah, that's totally fine.\n\nSpeaker 2: Okay, your script is canceled and you've been first on the terms.\n\nSpeaker 1: But I hope you have a great day, Rick.\n\nSpeaker 2: Bye.",
+    "duration": 4638,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you for calling Viagra, this is Olivia speaking."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 8,
+        "text": " Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 15,
+        "text": " Olivia, this is Rick Jones, and I've tried to cancel my AutoShip subscription."
+      },
+      {
+        "id": 3,
+        "start": 15,
+        "end": 20,
+        "text": " I can't do it online, and I was sent a message to call this number."
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 23,
+        "text": " Yeah, I can definitely help you, Rick."
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 26,
+        "text": " Okay, Rick, what is your date of birth?"
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 31,
+        "text": " It is 9-20-1955."
+      },
+      {
+        "id": 7,
+        "start": 31,
+        "end": 33,
+        "text": " Great."
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 38,
+        "text": " And you're located at 382 Deer Trace, Alexander City, Alabama?"
+      },
+      {
+        "id": 9,
+        "start": 38,
+        "end": 40,
+        "text": " That's correct."
+      },
+      {
+        "id": 10,
+        "start": 40,
+        "end": 41,
+        "text": " Okay, great."
+      },
+      {
+        "id": 11,
+        "start": 41,
+        "end": 43,
+        "text": " Yeah, I do see you here."
+      },
+      {
+        "id": 12,
+        "start": 43,
+        "end": 49,
+        "text": " Yeah, Rick, if you don't want to receive those regular monthly refills with your prescription,"
+      },
+      {
+        "id": 13,
+        "start": 49,
+        "end": 52,
+        "text": " you certainly don't have to."
+      },
+      {
+        "id": 14,
+        "start": 53,
+        "end": 60,
+        "text": " You always have the option to place your prescription on hold for up to six months at a time,"
+      },
+      {
+        "id": 15,
+        "start": 60,
+        "end": 66,
+        "text": " just because six months is when the prescription would expire if we didn't refill it."
+      },
+      {
+        "id": 16,
+        "start": 66,
+        "end": 73,
+        "text": " And the way that works is whenever you are ready to order, if it is before then you can."
+      },
+      {
+        "id": 17,
+        "start": 73,
+        "end": 77,
+        "text": " You just have to give us a call to place the order yourself."
+      },
+      {
+        "id": 18,
+        "start": 77,
+        "end": 80,
+        "text": " Yeah, I don't want to put it on hold."
+      },
+      {
+        "id": 19,
+        "start": 80,
+        "end": 82,
+        "text": " I just want to cancel the subscription for now."
+      },
+      {
+        "id": 20,
+        "start": 82,
+        "end": 87,
+        "text": " Okay, so the pills, they don't work for you?"
+      },
+      {
+        "id": 21,
+        "start": 87,
+        "end": 91,
+        "text": " No, they're fine."
+      },
+      {
+        "id": 22,
+        "start": 91,
+        "end": 102,
+        "text": " Okay, it's just my job to let you know that because we do offer you guys the option to place your prescription on hold"
+      },
+      {
+        "id": 23,
+        "start": 103,
+        "end": 105,
+        "text": " for an extended period of time."
+      },
+      {
+        "id": 24,
+        "start": 105,
+        "end": 110,
+        "text": " We no longer pay the doctor's fee more than once for your prescription."
+      },
+      {
+        "id": 25,
+        "start": 110,
+        "end": 118,
+        "text": " So although we'd love to have you back, if you did come back, you'd just have to pay that full fee to restart the script"
+      },
+      {
+        "id": 26,
+        "start": 118,
+        "end": 126,
+        "text": " because we do offer the option to just place the script on hold that was already approved by the doctor."
+      },
+      {
+        "id": 27,
+        "start": 126,
+        "end": 129,
+        "text": " Yeah, that's fine."
+      },
+      {
+        "id": 28,
+        "start": 129,
+        "end": 134,
+        "text": " But I'll fill out just to cancel right now."
+      },
+      {
+        "id": 29,
+        "start": 134,
+        "end": 135,
+        "text": " All right."
+      },
+      {
+        "id": 30,
+        "start": 135,
+        "end": 137,
+        "text": " Yeah, that's totally fine."
+      },
+      {
+        "id": 31,
+        "start": 137,
+        "end": 141,
+        "text": " Okay, your script is canceled and you've been first on the terms."
+      },
+      {
+        "id": 32,
+        "start": 141,
+        "end": 143,
+        "text": " But I hope you have a great day, Rick."
+      },
+      {
+        "id": 33,
+        "start": 143,
+        "end": 144,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81e2-8a36-c8161325d86e",
+    "url": "https://www.notion.so/300000001240133-300000001730014-30511d0a101c81e28a36c8161325d86e"
+  },
+  "processedAt": "2026-02-12T18:02:41.542Z"
+}

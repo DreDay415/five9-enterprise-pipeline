@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001221980-300000001711884-5412817126 by  @ 8_01_11 AM_CallStudio.wav",
+    "size": 30806,
+    "modifyTime": 1769702511000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001221980-300000001711884-5412817126 by  @ 8_01_11 AM_CallStudio.wav",
+    "uploadDate": "2026-01-29T16:01:51.000Z",
+    "callId": "300000001221980-300000001711884",
+    "phoneNumber": "5412817126",
+    "callTimestamp": "2026-01-29T16:01:51.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Person wanted to speak to me.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 1539,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 7,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 13,
+        "text": " Person wanted to speak to me."
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 16,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-810a-8c54-d486f7ef8fe5",
+    "url": "https://www.notion.so/300000001221980-300000001711884-2f711d0a101c810a8c54d486f7ef8fe5"
+  },
+  "processedAt": "2026-01-29T16:02:07.209Z"
+}

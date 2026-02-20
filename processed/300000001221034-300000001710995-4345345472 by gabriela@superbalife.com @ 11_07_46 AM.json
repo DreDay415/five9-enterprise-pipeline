@@ -1,0 +1,56 @@
+{
+  "recording": {
+    "name": "300000001221034-300000001710995-4345345472 by gabriela@superbalife.com @ 11_07_46 AM.wav",
+    "size": 35160,
+    "modifyTime": 1769627315000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221034-300000001710995-4345345472 by gabriela@superbalife.com @ 11_07_46 AM.wav",
+    "uploadDate": "2026-01-28T19:08:35.000Z",
+    "callId": "300000001221034-300000001710995",
+    "agent": "gabriela",
+    "phoneNumber": "4345345472",
+    "callTimestamp": "2026-01-28T11:07:46.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi. Thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: I thought I was being transferred to the person I was talking to earlier.\n\nSpeaker 1: KT Goodrich at 0037.\n\nSpeaker 2: Oh, KT. Yeah, give me a second. Let me transfer you over.\n\nSpeaker 1: Okay.",
+    "duration": 911,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Hi. Thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 12,
+        "text": " I thought I was being transferred to the person I was talking to earlier."
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 15,
+        "text": " KT Goodrich at 0037."
+      },
+      {
+        "id": 3,
+        "start": 15,
+        "end": 20,
+        "text": " Oh, KT. Yeah, give me a second. Let me transfer you over."
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 21,
+        "text": " Okay."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8150-9931-f81579eef24b",
+    "url": "https://www.notion.so/300000001221034-300000001710995-2f711d0a101c81509931f81579eef24b"
+  },
+  "processedAt": "2026-01-29T00:00:32.965Z"
+}

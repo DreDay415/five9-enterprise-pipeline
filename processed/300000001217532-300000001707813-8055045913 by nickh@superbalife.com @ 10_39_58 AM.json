@@ -1,0 +1,248 @@
+{
+  "recording": {
+    "name": "300000001217532-300000001707813-8055045913 by nickh@superbalife.com @ 10_39_58 AM.wav",
+    "size": 289960,
+    "modifyTime": 1769584049000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217532-300000001707813-8055045913 by nickh@superbalife.com @ 10_39_58 AM.wav",
+    "uploadDate": "2026-01-28T07:07:29.000Z",
+    "callId": "300000001217532-300000001707813",
+    "agent": "nickh",
+    "phoneNumber": "8055045913",
+    "callTimestamp": "2026-01-28T10:39:58.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you so much for calling Viagra at Score Blue. How can I help you today?\n\nSpeaker 2: Yes, I'd like to cancel my subscription.\n\nSpeaker 1: Yes, sir. I can help you with this. Could you please provide me with your full name and date of birth under the prescription?\n\nSpeaker 2: Okay, James Velocien.\n\nSpeaker 1: V-a-l-o-v-c-i-n?\n\nSpeaker 2: Date of birth 3-17-1958.\n\nSpeaker 1: Thanks, James. So I'm looking at your prescription here. This is for the 50 milligram generic Viagra, quantity of 30. Does that sound accurate?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Okay, so it looks here that the most recent order went through on the 25th.\n\nSpeaker 2: It does appear that that one has not yet been shipped. Would you like me to put a cancellation request in there for that?\n\nSpeaker 1: Yes, please.\n\nSpeaker 2: Yes. Okay. Let me reach out to the pharmacy, one moment.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: So I went ahead and put that request in to cancel the most recent order.\n\nSpeaker 1: Once they're confirmed with me that that's canceled, I'll go ahead and issue a refund of the 103.95.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Now, regarding the prescription as a whole, you do have VIP status with us.\n\nSpeaker 2: That's because you've been a patient since—\n\nSpeaker 1: 2023. What that means is your account is perfectly adjustable. This is not a subscription.\n\nSpeaker 2: You're not required to get this bi-monthly how you have been. If you wanted, you could simply pause it.\n\nSpeaker 1: And then that would allow you to call in and place orders as needed.\n\nSpeaker 2: Okay. Well, then let's do that because I've got, you know, like three vials, you know.\n\nSpeaker 1: Yeah, the older I get, them slowing down. I tell you, you know.\n\nSpeaker 2: Sometimes. Now, food for thought in the future, you know, I know you've been taking the same thing for some time.\n\nSpeaker 1: And if you like it, that's completely understandable.\n\nSpeaker 2: But we do offer you new Viagra AGV. A lot of patients are moving over to that from the pills that you are currently taking.\n\nSpeaker 1: Proving a little bit more effective, longer lasting.\n\nSpeaker 2: Now, cost effectiveness. I mean, it's about the same price. It's a little bit more money.\n\nSpeaker 1: But also that's for a hundred milligrams instead of 50 milligrams.\n\nSpeaker 2: So if you ever want to place an order in the future, feel free to inquire.\n\nSpeaker 1: You know, we might even be able to send you a sample if you wanted.\n\nSpeaker 2: Okay, that's good to know. Yeah, so for now, let's just put it on pause and then when I—\n\nSpeaker 1: Go through the back order that I have, I'll give you a call back and reinstate.\n\nSpeaker 2: Consider the new option.\n\nSpeaker 1: Perfect. All right. So like I said, yeah, once that's confirmed that that's been canceled, you'll be issued that refund.\n\nSpeaker 2: Okay, wonderful.\n\nSpeaker 1: All right, anything else I can do for you today?\n\nSpeaker 2: No, that's it. You've been very helpful.\n\nSpeaker 1: I appreciate your responsiveness and thank you for your assistance.\n\nSpeaker 2: Of course, happy to help anytime.\n\nSpeaker 1: You have a good rest of your day.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: You as well. Take care. Bye.\n\nSpeaker 2: Bye.",
+    "duration": 6115,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.4000000953674316,
+        "text": " Thank you so much for calling Viagra at score blue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8.619999885559082,
+        "text": " Yes, I'd like to cancel my subscription. Yes, sir. I can help you with this"
+      },
+      {
+        "id": 2,
+        "start": 8.760000228881836,
+        "end": 12.640000343322754,
+        "text": " Could you please provide me with your full name and date of birth under the prescription?"
+      },
+      {
+        "id": 3,
+        "start": 13.279999732971191,
+        "end": 15.279999732971191,
+        "text": " Okay, James Velocien"
+      },
+      {
+        "id": 4,
+        "start": 15.880000114440918,
+        "end": 17.399999618530273,
+        "text": " V-a-l-o-v-c-i-n"
+      },
+      {
+        "id": 5,
+        "start": 17.399999618530273,
+        "end": 20.959999084472656,
+        "text": " date of birth 3-17-1958"
+      },
+      {
+        "id": 6,
+        "start": 22.1200008392334,
+        "end": 28.399999618530273,
+        "text": " Thanks, James. So I'm looking at your prescription here. This is for the 50 milligram generic Viagra quantity of 30. Does that sound accurate?"
+      },
+      {
+        "id": 7,
+        "start": 29.200000762939453,
+        "end": 30.399999618530273,
+        "text": " Correct"
+      },
+      {
+        "id": 8,
+        "start": 30.399999618530273,
+        "end": 34.20000076293945,
+        "text": " Okay, so I looks here that the most recent order that went through on the 25th"
+      },
+      {
+        "id": 9,
+        "start": 34.20000076293945,
+        "end": 41.36000061035156,
+        "text": " It does appear that that one has not yet been shipped. Would you like me to put a cancellation request in there for that?"
+      },
+      {
+        "id": 10,
+        "start": 41.36000061035156,
+        "end": 45.52000045776367,
+        "text": " Yes, please. Yes. Okay. Let me reach out to the pharmacy one moment"
+      },
+      {
+        "id": 11,
+        "start": 45.52000045776367,
+        "end": 47.52000045776367,
+        "text": " Yeah"
+      },
+      {
+        "id": 12,
+        "start": 56.959999084472656,
+        "end": 60.20000076293945,
+        "text": " So I went ahead and put that request in to cancel the most recent order"
+      },
+      {
+        "id": 13,
+        "start": 60.439998626708984,
+        "end": 67.12000274658203,
+        "text": " Once they're confirmed with me that that's canceled. I'll go ahead and issue a refund of the 103.95. Okay"
+      },
+      {
+        "id": 14,
+        "start": 67.72000122070312,
+        "end": 73.12000274658203,
+        "text": " Okay. Now regarding the prescription as a whole you do have VIP status with us"
+      },
+      {
+        "id": 15,
+        "start": 73.23999786376953,
+        "end": 75.23999786376953,
+        "text": " That's because you've been a patient since"
+      },
+      {
+        "id": 16,
+        "start": 75.95999908447266,
+        "end": 80.31999969482422,
+        "text": " 2023 what that means is your account is perfectly adjustable. This is not a subscription"
+      },
+      {
+        "id": 17,
+        "start": 80.31999969482422,
+        "end": 85.55999755859375,
+        "text": " You're not required to get this by monthly how you have been if you wanted you could simply pause it"
+      },
+      {
+        "id": 18,
+        "start": 85.55999755859375,
+        "end": 88.5999984741211,
+        "text": " And then that would allow you to call in in place orders as needed"
+      },
+      {
+        "id": 19,
+        "start": 89.68000030517578,
+        "end": 95.63999938964844,
+        "text": " Okay. Well, then let's do that because I've got you know, like three vials, you know, yeah"
+      },
+      {
+        "id": 20,
+        "start": 95.80000305175781,
+        "end": 100.19999694824219,
+        "text": " Yeah, the older I get them slowing down. I tell you, you know, you know"
+      },
+      {
+        "id": 21,
+        "start": 101.16000366210938,
+        "end": 105.72000122070312,
+        "text": " Sometimes now food for thought in the future, you know, I know you've been taking the same thing for some time"
+      },
+      {
+        "id": 22,
+        "start": 105.72000122070312,
+        "end": 107.72000122070312,
+        "text": " And if you like it, that's completely understandable"
+      },
+      {
+        "id": 23,
+        "start": 108.4800033569336,
+        "end": 116.27999877929688,
+        "text": " But we do offer you new Viagra AGV. A lot of patients are moving over to that from the pills that you are currently taking"
+      },
+      {
+        "id": 24,
+        "start": 117.4800033569336,
+        "end": 119.68000030517578,
+        "text": " Proving a little bit more effective longer lasting"
+      },
+      {
+        "id": 25,
+        "start": 120.27999877929688,
+        "end": 125.91999816894531,
+        "text": " Now cost effectiveness. I mean, it's about the same price. It's a little bit more money"
+      },
+      {
+        "id": 26,
+        "start": 126.80000305175781,
+        "end": 130.8800048828125,
+        "text": " But also that's for a hundred milligrams instead of 50 milligrams"
+      },
+      {
+        "id": 27,
+        "start": 131.47999572753906,
+        "end": 134.32000732421875,
+        "text": " So if you ever want to place out in the future, feel free to inquire"
+      },
+      {
+        "id": 28,
+        "start": 134.8800048828125,
+        "end": 137.75999450683594,
+        "text": " You know, we might even be able to send you a sample if you wanted"
+      },
+      {
+        "id": 29,
+        "start": 138.47999572753906,
+        "end": 143.60000610351562,
+        "text": " Okay, that's good to know. Yeah, so for now, let's just put it on pause and then when I"
+      },
+      {
+        "id": 30,
+        "start": 144.83999633789062,
+        "end": 150.1199951171875,
+        "text": " Gone through the the back order that I have. I'll give you a call back and reinstate"
+      },
+      {
+        "id": 31,
+        "start": 150.83999633789062,
+        "end": 152.83999633789062,
+        "text": " Consider the new option"
+      },
+      {
+        "id": 32,
+        "start": 153,
+        "end": 160.1199951171875,
+        "text": " Perfect. All right. So like I said, yeah once that's confirmed that that's been that I can cancel it you'll be issued that refund. Okay"
+      },
+      {
+        "id": 33,
+        "start": 160.67999267578125,
+        "end": 162.67999267578125,
+        "text": " Okay, wonderful"
+      },
+      {
+        "id": 34,
+        "start": 163.0800018310547,
+        "end": 167,
+        "text": " All right, anything else I can do for you today? No, that's it. You've been very helpful"
+      },
+      {
+        "id": 35,
+        "start": 167,
+        "end": 173.44000244140625,
+        "text": " I appreciate your responsiveness and thank you for your assistance. Of course happy to help anytime"
+      },
+      {
+        "id": 36,
+        "start": 173.44000244140625,
+        "end": 176.8800048828125,
+        "text": " You have a good rest of your day. Thank you. You as well. Take care. Bye. Bye. Bye"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-812e-9e88-d2c42dc54b99",
+    "url": "https://www.notion.so/300000001217532-300000001707813-2f611d0a101c812e9e88d2c42dc54b99"
+  },
+  "processedAt": "2026-01-28T15:18:33.208Z"
+}

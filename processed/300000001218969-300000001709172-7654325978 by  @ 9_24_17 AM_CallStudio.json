@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001218969-300000001709172-7654325978 by  @ 9_24_17 AM_CallStudio.wav",
+    "size": 36266,
+    "modifyTime": 1769584929000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218969-300000001709172-7654325978 by  @ 9_24_17 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:22:09.000Z",
+    "callId": "300000001218969-300000001709172",
+    "phoneNumber": "7654325978",
+    "callTimestamp": "2026-01-28T07:22:09.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español Marquen Número 9.\n\nSpeaker 2: Okay, I ordered the pills and I thought I ordered the A.G.V. pills, but I got the Sildenafil pills.\n\nSpeaker 1: Thanks, transferring to A.G.V.",
+    "duration": 2076,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.159999847412109,
+        "end": 7.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.159999847412109,
+        "end": 9.399999618530273,
+        "text": " Para Español Marquen Número 9."
+      },
+      {
+        "id": 3,
+        "start": 9.399999618530273,
+        "end": 17.760000228881836,
+        "text": " Okay, I ordered the pills and I thought I ordered the A.G.V. pills, I got the Sidenafil"
+      },
+      {
+        "id": 4,
+        "start": 17.760000228881836,
+        "end": 20.200000762939453,
+        "text": " pills."
+      },
+      {
+        "id": 5,
+        "start": 20.200000762939453,
+        "end": 21.239999771118164,
+        "text": " Thanks transferring to A.G.V."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a2-aaf6-e212bcad75b7",
+    "url": "https://www.notion.so/300000001218969-300000001709172-2f611d0a101c81a2aaf6e212bcad75b7"
+  },
+  "processedAt": "2026-01-28T14:53:04.180Z"
+}

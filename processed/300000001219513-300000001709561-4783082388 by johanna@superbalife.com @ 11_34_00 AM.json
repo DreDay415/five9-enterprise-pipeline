@@ -1,0 +1,380 @@
+{
+  "recording": {
+    "name": "300000001219513-300000001709561-4783082388 by johanna@superbalife.com @ 11_34_00 AM.wav",
+    "size": 381936,
+    "modifyTime": 1769590032000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219513-300000001709561-4783082388 by johanna@superbalife.com @ 11_34_00 AM.wav",
+    "uploadDate": "2026-01-28T08:47:12.000Z",
+    "callId": "300000001219513-300000001709561",
+    "agent": "johanna",
+    "phoneNumber": "4783082388",
+    "callTimestamp": "2026-01-28T11:34:00.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. Joanna speaking. How can I help you?\n\nSpeaker 2: Hi. This is Henry Dishart. I had returned some medicine to you guys, and I wanted to find out if you received it and when I can expect the refund.\n\nSpeaker 1: Okay. And you said you sent it back when?\n\nSpeaker 2: When did you send it back, sir?\n\nSpeaker 1: What's that?\n\nSpeaker 2: When did you send it back?\n\nSpeaker 1: I don't know the exact date, but it's been a couple of weeks.\n\nSpeaker 2: I know it's been received because I sent it where I got a receipt. I sent it in Tuesday, Monday before I left, so I'm thinking, like, Thursday of that week, so probably, like, last Thursday or something like that.\n\nSpeaker 1: It just basically what it says is it says it was at the PO Box ready for pickup, so I don't know how long, you know, how often you guys pick them up for the box that you guys use, but I sent it back to you.\n\nSpeaker 2: Okay.\n\nSpeaker 1: And what about the AGD that we sent you in the mail, the one we sent out on December 16th? Did you have an opportunity to try that?\n\nSpeaker 2: I did. It just didn't work for me.\n\nSpeaker 1: You and I have talked, and that's the reason I contacted you directly. You sent me out a hundred, and it didn't work, and so I sent you back the 50 because I asked if I could get a refund on the second one, because I wasn't aware that it was a subscription anyhow.\n\nSpeaker 2: I was thinking it was just, you know, I order them when I get them, and you explain to me, you know, it's a subscription, and then you suggested to try the hundred, but you sent them in. It didn't work that much better.\n\nSpeaker 1: And so you said if I sent you back the 50, you know, then you'd be able to refund that second charge that you guys, you know, charged me.\n\nSpeaker 2: Okay. I'll go ahead and issue the refund for that second order.\n\nSpeaker 1: Okay. Will that go back on the card, or how will that be?\n\nSpeaker 2: Yes, it's going to go back on the card.\n\nSpeaker 1: Visa ending in 5339.\n\nSpeaker 2: Yep, that's correct.\n\nSpeaker 1: I've gone ahead and done that.\n\nSpeaker 2: Okay. Yeah, I know you don't care, but I'm going to go see a urologist.\n\nSpeaker 1: Maybe there's a little more going on with this medicine.\n\nSpeaker 2: Yeah, no, absolutely.\n\nSpeaker 1: Although we're FDA approved, and, you know, if there's something else going on, it might be worth getting it checked out, and maybe your doctor has another solution.\n\nSpeaker 2: But anyhow, thanks for trying it out, and I'm sorry it didn't end up working out for you.\n\nSpeaker 1: Well, I appreciate that.\n\nSpeaker 2: Thank you so much, and you have a good day.\n\nSpeaker 1: You too, sir.\n\nSpeaker 2: I've issued that refund for that second order of yours.\n\nSpeaker 1: It could take five to ten business days, but it's already been issued on our end.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I'll check it sometime next week or something, see where we're at.\n\nSpeaker 2: As I don't see it in about three weeks or so, I'll give you a holler back.\n\nSpeaker 1: I figure that should be plenty of time.\n\nSpeaker 2: Yep, that sounds good.\n\nSpeaker 1: Sounds like a plan.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, enjoy the rest of your day.\n\nSpeaker 2: Thanks for calling.\n\nSpeaker 1: Thank you so much.\n\nSpeaker 2: Thank you.",
+    "duration": 8932,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you for calling Viagra. Joanna speaking. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 14,
+        "text": " Hi. This is Henry Dishart. I had returned some medicine to you guys,"
+      },
+      {
+        "id": 2,
+        "start": 14,
+        "end": 22,
+        "text": " and I wanted to find out if you received it and when I can expect the refund."
+      },
+      {
+        "id": 3,
+        "start": 22,
+        "end": 26,
+        "text": " Okay. And you said you sent it back when?"
+      },
+      {
+        "id": 4,
+        "start": 26,
+        "end": 29,
+        "text": " Sure."
+      },
+      {
+        "id": 5,
+        "start": 29,
+        "end": 33,
+        "text": " When did you send it back, sir?"
+      },
+      {
+        "id": 6,
+        "start": 33,
+        "end": 34,
+        "text": " What's that?"
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 38,
+        "text": " When did you send it back?"
+      },
+      {
+        "id": 8,
+        "start": 38,
+        "end": 41,
+        "text": " I don't know the exact date, but it's been a couple of weeks."
+      },
+      {
+        "id": 9,
+        "start": 41,
+        "end": 49,
+        "text": " I know it's been received because I sent it where I got a receipt."
+      },
+      {
+        "id": 10,
+        "start": 49,
+        "end": 54,
+        "text": " They can, like, last."
+      },
+      {
+        "id": 11,
+        "start": 54,
+        "end": 61,
+        "text": " I sent it in Tuesday, Monday before I left, so I'm thinking, like, Thursday of that week,"
+      },
+      {
+        "id": 12,
+        "start": 61,
+        "end": 67,
+        "text": " so probably, like, last Thursday or something like that."
+      },
+      {
+        "id": 13,
+        "start": 67,
+        "end": 73,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 73,
+        "end": 77,
+        "text": " It just basically what it says is it says it was at the PO Box ready for pickup,"
+      },
+      {
+        "id": 15,
+        "start": 77,
+        "end": 84,
+        "text": " so I don't know how long, you know, how often you guys pick them up for the box that you guys use,"
+      },
+      {
+        "id": 16,
+        "start": 84,
+        "end": 86,
+        "text": " but I sent it back to you."
+      },
+      {
+        "id": 17,
+        "start": 86,
+        "end": 87,
+        "text": " Okay."
+      },
+      {
+        "id": 18,
+        "start": 87,
+        "end": 93,
+        "text": " And what about the AGD that we sent you in the mail, the one we sent out on December 16th?"
+      },
+      {
+        "id": 19,
+        "start": 93,
+        "end": 96,
+        "text": " Did you have an opportunity to try that?"
+      },
+      {
+        "id": 20,
+        "start": 96,
+        "end": 100,
+        "text": " I did. It just didn't work for me."
+      },
+      {
+        "id": 21,
+        "start": 100,
+        "end": 105,
+        "text": " You and I have talked, and that's the reason I contacted you directly."
+      },
+      {
+        "id": 22,
+        "start": 105,
+        "end": 108,
+        "text": " You sent me out a hundred, and it didn't work,"
+      },
+      {
+        "id": 23,
+        "start": 108,
+        "end": 113,
+        "text": " and so I sent you back the 50 because I asked if I could get a refund on the second one,"
+      },
+      {
+        "id": 24,
+        "start": 113,
+        "end": 117,
+        "text": " because I wasn't aware that it was a subscription anyhow."
+      },
+      {
+        "id": 25,
+        "start": 117,
+        "end": 121,
+        "text": " I was thinking it was just, you know, I order them when I get them,"
+      },
+      {
+        "id": 26,
+        "start": 121,
+        "end": 123,
+        "text": " and you explain to me, you know, it's a subscription,"
+      },
+      {
+        "id": 27,
+        "start": 123,
+        "end": 126,
+        "text": " and then you suggested to try the hundred, but you sent them in."
+      },
+      {
+        "id": 28,
+        "start": 126,
+        "end": 129,
+        "text": " It didn't work that much better."
+      },
+      {
+        "id": 29,
+        "start": 130,
+        "end": 135,
+        "text": " And so you said if I sent you back the 50, you know,"
+      },
+      {
+        "id": 30,
+        "start": 135,
+        "end": 141,
+        "text": " then you'd be able to refund that second charge that you guys, you know, charged me."
+      },
+      {
+        "id": 31,
+        "start": 141,
+        "end": 148,
+        "text": " Okay. I'll go ahead and issue the refund for that second order."
+      },
+      {
+        "id": 32,
+        "start": 148,
+        "end": 152,
+        "text": " Okay. Will that go back on the card, or how will that be?"
+      },
+      {
+        "id": 33,
+        "start": 152,
+        "end": 156,
+        "text": " Yes, it's going to go back on the card."
+      },
+      {
+        "id": 34,
+        "start": 156,
+        "end": 160,
+        "text": " Visa ending in 5339."
+      },
+      {
+        "id": 35,
+        "start": 160,
+        "end": 163,
+        "text": " Yep, that's correct."
+      },
+      {
+        "id": 36,
+        "start": 163,
+        "end": 167,
+        "text": " I've gone ahead and done that."
+      },
+      {
+        "id": 37,
+        "start": 167,
+        "end": 172,
+        "text": " Okay. Yeah, I know you don't care, but I'm going to go see a urologist."
+      },
+      {
+        "id": 38,
+        "start": 172,
+        "end": 176,
+        "text": " Maybe there's a little more going on with this medicine."
+      },
+      {
+        "id": 39,
+        "start": 176,
+        "end": 179,
+        "text": " Yeah, no, absolutely."
+      },
+      {
+        "id": 40,
+        "start": 180,
+        "end": 184,
+        "text": " Although we're FDA approved, and, you know, if there's something else going on,"
+      },
+      {
+        "id": 41,
+        "start": 184,
+        "end": 190,
+        "text": " it might be worth getting it checked out, and maybe your doctor has another solution."
+      },
+      {
+        "id": 42,
+        "start": 190,
+        "end": 197,
+        "text": " But anyhow, thanks for trying it out, and I'm sorry it didn't end up working out for you."
+      },
+      {
+        "id": 43,
+        "start": 197,
+        "end": 199,
+        "text": " Well, I appreciate that."
+      },
+      {
+        "id": 44,
+        "start": 199,
+        "end": 201,
+        "text": " Thank you so much, and you have a good day."
+      },
+      {
+        "id": 45,
+        "start": 201,
+        "end": 202,
+        "text": " You too, sir."
+      },
+      {
+        "id": 46,
+        "start": 202,
+        "end": 205,
+        "text": " I've issued that refund for that second order of yours."
+      },
+      {
+        "id": 47,
+        "start": 205,
+        "end": 211,
+        "text": " It could take five to ten business days, but it's already been issued on our end."
+      },
+      {
+        "id": 48,
+        "start": 211,
+        "end": 212,
+        "text": " Okay."
+      },
+      {
+        "id": 49,
+        "start": 212,
+        "end": 216,
+        "text": " I'll check it sometime next week or something, see where we're at."
+      },
+      {
+        "id": 50,
+        "start": 216,
+        "end": 219,
+        "text": " As I don't see it in about three weeks or so, I'll give you a holler back."
+      },
+      {
+        "id": 51,
+        "start": 219,
+        "end": 222,
+        "text": " I figure that should be plenty of time."
+      },
+      {
+        "id": 52,
+        "start": 222,
+        "end": 224,
+        "text": " Yep, that sounds good."
+      },
+      {
+        "id": 53,
+        "start": 224,
+        "end": 225,
+        "text": " Sounds like a plan."
+      },
+      {
+        "id": 54,
+        "start": 225,
+        "end": 226,
+        "text": " Okay."
+      },
+      {
+        "id": 55,
+        "start": 226,
+        "end": 227,
+        "text": " All right, enjoy the rest of your day."
+      },
+      {
+        "id": 56,
+        "start": 227,
+        "end": 229,
+        "text": " Thanks for calling."
+      },
+      {
+        "id": 57,
+        "start": 229,
+        "end": 231,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 58,
+        "start": 231,
+        "end": 232,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8131-8126-e056ba854fd1",
+    "url": "https://www.notion.so/300000001219513-300000001709561-2f611d0a101c81318126e056ba854fd1"
+  },
+  "processedAt": "2026-01-28T12:22:28.216Z"
+}

@@ -1,0 +1,170 @@
+{
+  "recording": {
+    "name": "300000001218954-300000001709151-7576209000 by gabriela@superbalife.com @ 9_20_10 AM.wav",
+    "size": 200650,
+    "modifyTime": 1769582237000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218954-300000001709151-7576209000 by gabriela@superbalife.com @ 9_20_10 AM.wav",
+    "uploadDate": "2026-01-28T06:37:17.000Z",
+    "callId": "300000001218954-300000001709151",
+    "agent": "gabriela",
+    "phoneNumber": "7576209000",
+    "callTimestamp": "2026-01-28T09:20:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Yes, ma'am. My name is Ronald Pack, P-A-C-K.\n\nSpeaker 1: Mm-hmm. I just ordered some—\n\nSpeaker 2: Bag, what's the new bag called, bigger A-T-C or something like that. Okay.\n\nSpeaker 1: And you sent me this—\n\nSpeaker 2: So I can fill.\n\nSpeaker 1: Okay, um, do you have the pills with you, Ron?\n\nSpeaker 2: I have them on hand right now.\n\nSpeaker 1: Okay, um, can you take a look at the pills? Do they have a number 50 engraved on them? One second, I have to take it apart.\n\nSpeaker 2: Yes, they can, yes.\n\nSpeaker 1: I'm coming.\n\nSpeaker 2: You're still there?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Hello?\n\nSpeaker 1: Yes, 339 in Grayville.\n\nSpeaker 2: Okay, so it sounds like you got the classic Viagra wrong and not the AGV.\n\nSpeaker 1: So I'll notify the pharmacy so that they reship the correct Viagra AGV for you, okay?\n\nSpeaker 2: And then I'll go ahead and I'll pause your VIP till March so that you have enough time to try it.\n\nSpeaker 1: Okay.\n\nSpeaker 2: What do you want me to do with the ones in my hand?\n\nSpeaker 1: Don't worry about having to return them back to us.\n\nSpeaker 2: You can go ahead and keep them or discard them, up to you, okay?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, have a good rest of your day, Yvonne. Bye.",
+    "duration": 5119,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.9600000381469727,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 4.28000020980835,
+        "end": 7.28000020980835,
+        "text": " Yes, ma'am. My name is Ronald Pack, P-A-C-K."
+      },
+      {
+        "id": 2,
+        "start": 7.920000076293945,
+        "end": 10.079999923706055,
+        "text": " Mm-hmm. I just ordered some"
+      },
+      {
+        "id": 3,
+        "start": 10.640000343322754,
+        "end": 15.359999656677246,
+        "text": " bag, what's the new bag called, bigger A-T-C or something like that. Okay."
+      },
+      {
+        "id": 4,
+        "start": 16.600000381469727,
+        "end": 18.600000381469727,
+        "text": " And you sent me this"
+      },
+      {
+        "id": 5,
+        "start": 18.600000381469727,
+        "end": 20.600000381469727,
+        "text": " so I can fill."
+      },
+      {
+        "id": 6,
+        "start": 20.639999389648438,
+        "end": 23.040000915527344,
+        "text": " Okay, um, do you have the pills with you, Ron?"
+      },
+      {
+        "id": 7,
+        "start": 23.959999084472656,
+        "end": 25.920000076293945,
+        "text": " I have them on hand right now."
+      },
+      {
+        "id": 8,
+        "start": 25.920000076293945,
+        "end": 32.599998474121094,
+        "text": " Okay, um, can you take a look at the pills? Do they have a number 50 engraved on them? One second, I have to take it apart."
+      },
+      {
+        "id": 9,
+        "start": 55.91999816894531,
+        "end": 57.91999816894531,
+        "text": " Yes, they can, yes."
+      },
+      {
+        "id": 10,
+        "start": 57.91999816894531,
+        "end": 62.91999816894531,
+        "text": " I'm coming."
+      },
+      {
+        "id": 11,
+        "start": 62.91999816894531,
+        "end": 67.91999816894531,
+        "text": " You're still there?"
+      },
+      {
+        "id": 12,
+        "start": 67.91999816894531,
+        "end": 72.91999816894531,
+        "text": " Yes."
+      },
+      {
+        "id": 13,
+        "start": 72.91999816894531,
+        "end": 77.91999816894531,
+        "text": " Hello?"
+      },
+      {
+        "id": 14,
+        "start": 77.91999816894531,
+        "end": 82.91999816894531,
+        "text": " Yes, 339 in Grayville."
+      },
+      {
+        "id": 15,
+        "start": 82.91999816894531,
+        "end": 87.91999816894531,
+        "text": " Okay, so it sounds like you got the classic Viagra wrong and not the AGV."
+      },
+      {
+        "id": 16,
+        "start": 87.91999816894531,
+        "end": 92.91999816894531,
+        "text": " So I'll notify the pharmacy so that they reship the correct Viagra AGV for you, okay?"
+      },
+      {
+        "id": 17,
+        "start": 92.91999816894531,
+        "end": 97.91999816894531,
+        "text": " And then I'll go ahead and I'll pause your VIP till March so that you have enough time to try it."
+      },
+      {
+        "id": 18,
+        "start": 97.91999816894531,
+        "end": 102.91999816894531,
+        "text": " Okay."
+      },
+      {
+        "id": 19,
+        "start": 102.91999816894531,
+        "end": 107.91999816894531,
+        "text": " What do you want me to do with the ones in my hand?"
+      },
+      {
+        "id": 20,
+        "start": 107.91999816894531,
+        "end": 112.91999816894531,
+        "text": " Don't worry about having to return them back to us."
+      },
+      {
+        "id": 21,
+        "start": 112.91999816894531,
+        "end": 117.91999816894531,
+        "text": " You can go ahead and keep them or discard them up to you, okay?"
+      },
+      {
+        "id": 22,
+        "start": 117.91999816894531,
+        "end": 122.91999816894531,
+        "text": " Okay."
+      },
+      {
+        "id": 23,
+        "start": 122.91999816894531,
+        "end": 127.91999816894531,
+        "text": " Okay, have a good rest of your day, Yvonne. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8142-ab5e-e2a6539396bc",
+    "url": "https://www.notion.so/300000001218954-300000001709151-2f611d0a101c8142ab5ee2a6539396bc"
+  },
+  "processedAt": "2026-01-28T17:25:42.059Z"
+}

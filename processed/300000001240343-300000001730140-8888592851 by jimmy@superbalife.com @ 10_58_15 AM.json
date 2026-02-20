@@ -1,0 +1,189 @@
+{
+  "recording": {
+    "name": "300000001240343-300000001730140-8888592851 by jimmy@superbalife.com @ 10_58_15 AM.wav",
+    "size": 162756,
+    "modifyTime": 1770922817000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240343-300000001730140-8888592851 by jimmy@superbalife.com @ 10_58_15 AM.wav",
+    "uploadDate": "2026-02-12T19:00:17.000Z",
+    "callId": "300000001240343-300000001730140",
+    "agent": "jimmy",
+    "phoneNumber": "8888592851",
+    "callTimestamp": "2026-02-12T10:58:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Jimmy. How can I help you?\n\nSpeaker 2: Yeah, my name is Louis Edmond.\n\nSpeaker 1: Mr. Edmond, before you go any further, you looked like you were transferred over,\n\nSpeaker 2: so can I get your phone number and I can probably fill up your account a lot faster that way, if you don't mind?\n\nSpeaker 1: Yeah, 931-367-4092.\n\nSpeaker 2: All right. Great. I have you up here.\n\nSpeaker 1: I just got an order for 10 pills, and I didn't place it.\n\nSpeaker 2: You just got an order for 10 pills?\n\nSpeaker 1: I'd already gotten 20 from you guys before, and I still got 14.\n\nSpeaker 2: I took six, and they didn't do the same for me.\n\nSpeaker 1: Okay. I have your account up here, Louis.\n\nSpeaker 2: And what I'm looking at, I'm looking at your account.\n\nSpeaker 1: It looks like you're getting the Viagra, the 50 milligrams.\n\nSpeaker 2: It looks like they have you set up to get them every month by the doctor with your prescription.\n\nSpeaker 1: Is that too frequently for you?\n\nSpeaker 2: Because we can always postpone it and pause your prescription for a while, if that's what you want to do.\n\nSpeaker 1: I'll call you if I need some.\n\nSpeaker 2: Okay. All right. We'll put that on the pause for you. Not a problem.\n\nSpeaker 1: How much were those?\n\nSpeaker 2: You're getting a discounted price at $63.95, okay?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right. So we'll go ahead and take that. We'll go ahead and pause you out there, okay?\n\nSpeaker 2: All right. I'll stop sending no more.\n\nSpeaker 1: I got you. Not a problem.\n\nSpeaker 2: All right. Thanks.\n\nSpeaker 1: Bye-bye.",
+    "duration": 4645,
+    "audioDuration": 100.12000274658203,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra. This is Jimmy. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Yeah, my name is Louis Edmond."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " Mr. Edmond, before you go any further, you looked like you were transferred over,"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 17,
+        "text": " so can I get your phone number and I can probably fill up your account a lot faster that way, if you don't mind?"
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 26,
+        "text": " Yeah, 931-367-4092."
+      },
+      {
+        "id": 5,
+        "start": 26,
+        "end": 29,
+        "text": " All right. Great. I have you up here."
+      },
+      {
+        "id": 6,
+        "start": 29,
+        "end": 37,
+        "text": " I just got an order for 10 pills, and I didn't place it."
+      },
+      {
+        "id": 7,
+        "start": 37,
+        "end": 40,
+        "text": " You just got an order for 10 pills?"
+      },
+      {
+        "id": 8,
+        "start": 40,
+        "end": 44,
+        "text": " I'd already gotten 20 from you guys before, and I still got 14."
+      },
+      {
+        "id": 9,
+        "start": 44,
+        "end": 47,
+        "text": " I took six, and they didn't do the same for me."
+      },
+      {
+        "id": 10,
+        "start": 47,
+        "end": 51,
+        "text": " Okay. I have your account up here, Louis."
+      },
+      {
+        "id": 11,
+        "start": 51,
+        "end": 54,
+        "text": " And what I'm looking at, I'm looking at your account."
+      },
+      {
+        "id": 12,
+        "start": 54,
+        "end": 57,
+        "text": " It looks like you're getting the Viagra, the 50 milligrams."
+      },
+      {
+        "id": 13,
+        "start": 57,
+        "end": 62,
+        "text": " It looks like they have you set up to get them every month by the doctor with your prescription."
+      },
+      {
+        "id": 14,
+        "start": 62,
+        "end": 64,
+        "text": " Is that too frequently for you?"
+      },
+      {
+        "id": 15,
+        "start": 64,
+        "end": 68,
+        "text": " Because we can always postpone it and pause your prescription for a while, if that's what you want to do."
+      },
+      {
+        "id": 16,
+        "start": 68,
+        "end": 71,
+        "text": " I'll call you if I need some."
+      },
+      {
+        "id": 17,
+        "start": 71,
+        "end": 75,
+        "text": " Okay. All right. We'll put that on the pause for you. Not a problem."
+      },
+      {
+        "id": 18,
+        "start": 75,
+        "end": 78,
+        "text": " How much were those?"
+      },
+      {
+        "id": 19,
+        "start": 78,
+        "end": 83,
+        "text": " You're getting a discounted price at $63.95, okay?"
+      },
+      {
+        "id": 20,
+        "start": 83,
+        "end": 86,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 86,
+        "end": 87,
+        "text": " Okay."
+      },
+      {
+        "id": 22,
+        "start": 87,
+        "end": 91,
+        "text": " All right. So we'll go ahead and take that. We'll go ahead and pause you out there, okay?"
+      },
+      {
+        "id": 23,
+        "start": 91,
+        "end": 94,
+        "text": " All right. I'll stop sending no more."
+      },
+      {
+        "id": 24,
+        "start": 94,
+        "end": 96,
+        "text": " I got you. Not a problem."
+      },
+      {
+        "id": 25,
+        "start": 96,
+        "end": 97,
+        "text": " All right. Thanks."
+      },
+      {
+        "id": 26,
+        "start": 97,
+        "end": 100,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8149-a404-f762800aca92",
+    "url": "https://www.notion.so/300000001240343-300000001730140-30511d0a101c8149a404f762800aca92"
+  },
+  "processedAt": "2026-02-12T19:02:00.608Z"
+}

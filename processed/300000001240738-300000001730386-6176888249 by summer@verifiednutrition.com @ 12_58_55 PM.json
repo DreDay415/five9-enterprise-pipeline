@@ -1,0 +1,213 @@
+{
+  "recording": {
+    "name": "300000001240738-300000001730386-6176888249 by summer@verifiednutrition.com @ 12_58_55 PM.wav",
+    "size": 161260,
+    "modifyTime": 1770930054000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240738-300000001730386-6176888249 by summer@verifiednutrition.com @ 12_58_55 PM.wav",
+    "uploadDate": "2026-02-12T21:00:54.000Z",
+    "callId": "300000001240738-300000001730386",
+    "agent": "summer",
+    "phoneNumber": "6176888249",
+    "callTimestamp": "2026-02-12T12:58:55.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling the service.\n\nSpeaker 2: I can help you.\n\nSpeaker 1: Yeah, can you hear me?\n\nSpeaker 2: Yeah, I can help you.\n\nSpeaker 1: Well, I placed an order, I don't know, two days ago.\n\nSpeaker 2: They sent me a text.\n\nSpeaker 1: They're looking for my phone number.\n\nSpeaker 2: Yeah, you just replied to the text saying yes.\n\nSpeaker 1: I just want to make sure they got the right number.\n\nSpeaker 2: 617-688-8249.\n\nSpeaker 1: Yeah, so what they're missing is you need to send in a video.\n\nSpeaker 2: Send in what?\n\nSpeaker 1: A video.\n\nSpeaker 2: A video of what?\n\nSpeaker 1: You just say your name, your birthday,\n\nSpeaker 2: and the type of medication you're requesting,\n\nSpeaker 1: or you have to talk to the doctor on the phone.\n\nSpeaker 2: You want a phone call?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: OK.\n\nSpeaker 1: OK, he'll give you a phone call tomorrow.\n\nSpeaker 2: Oh, I can't talk to him now?\n\nSpeaker 1: No, he goes in line of the people who are assigned to him.\n\nSpeaker 2: OK, because I usually don't answer my phone during the day\n\nSpeaker 1: when I'm working.\n\nSpeaker 2: Oh, OK.\n\nSpeaker 1: I'll try.\n\nSpeaker 2: OK.\n\nSpeaker 1: All right, bye.\n\nSpeaker 2: All right, have a good day.\n\nSpeaker 1: Bye-bye.",
+    "duration": 5404,
+    "audioDuration": 99.19999694824219,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1.399999976158142,
+        "text": " Thank you for calling the service."
+      },
+      {
+        "id": 1,
+        "start": 1.399999976158142,
+        "end": 3.640000104904175,
+        "text": " I can help you."
+      },
+      {
+        "id": 2,
+        "start": 3.640000104904175,
+        "end": 5.599999904632568,
+        "text": " Yeah, can you hear me?"
+      },
+      {
+        "id": 3,
+        "start": 5.599999904632568,
+        "end": 9.079999923706055,
+        "text": " Yeah, I can help you."
+      },
+      {
+        "id": 4,
+        "start": 9.079999923706055,
+        "end": 12.319999694824219,
+        "text": " Well, I placed an order, I don't know, two days ago."
+      },
+      {
+        "id": 5,
+        "start": 12.319999694824219,
+        "end": 13.15999984741211,
+        "text": " They sent me a text."
+      },
+      {
+        "id": 6,
+        "start": 13.15999984741211,
+        "end": 16.31999969482422,
+        "text": " They're looking for my phone number."
+      },
+      {
+        "id": 7,
+        "start": 16.31999969482422,
+        "end": 18.959999084472656,
+        "text": " Yeah, you just replied to the text saying yes."
+      },
+      {
+        "id": 8,
+        "start": 22,
+        "end": 25.200000762939453,
+        "text": " I just want to make sure they got the right number."
+      },
+      {
+        "id": 9,
+        "start": 25.200000762939453,
+        "end": 29.68000030517578,
+        "text": " 617-688-8249."
+      },
+      {
+        "id": 10,
+        "start": 29.68000030517578,
+        "end": 33.040000915527344,
+        "text": " Yeah, so what they're missing is you need to send in a video."
+      },
+      {
+        "id": 11,
+        "start": 36.08000183105469,
+        "end": 37.599998474121094,
+        "text": " Send in what?"
+      },
+      {
+        "id": 12,
+        "start": 37.599998474121094,
+        "end": 38.119998931884766,
+        "text": " A video."
+      },
+      {
+        "id": 13,
+        "start": 40.79999923706055,
+        "end": 42.560001373291016,
+        "text": " A video of what?"
+      },
+      {
+        "id": 14,
+        "start": 42.560001373291016,
+        "end": 44.279998779296875,
+        "text": " You just say your name, your birthday,"
+      },
+      {
+        "id": 15,
+        "start": 44.279998779296875,
+        "end": 46.68000030517578,
+        "text": " and the type of medication you're requesting,"
+      },
+      {
+        "id": 16,
+        "start": 46.68000030517578,
+        "end": 48.63999938964844,
+        "text": " or you have to talk to the doctor on the phone."
+      },
+      {
+        "id": 17,
+        "start": 48.63999938964844,
+        "end": 50.79999923706055,
+        "text": " You want a phone call?"
+      },
+      {
+        "id": 18,
+        "start": 50.79999923706055,
+        "end": 51.79999923706055,
+        "text": " Yeah."
+      },
+      {
+        "id": 19,
+        "start": 51.79999923706055,
+        "end": 52.29999923706055,
+        "text": " OK."
+      },
+      {
+        "id": 20,
+        "start": 59.68000030517578,
+        "end": 79.04000091552734,
+        "text": " OK, he'll give you a phone call tomorrow."
+      },
+      {
+        "id": 21,
+        "start": 79.04000091552734,
+        "end": 81.5199966430664,
+        "text": " Oh, I can't talk to him now?"
+      },
+      {
+        "id": 22,
+        "start": 81.5199966430664,
+        "end": 86.19999694824219,
+        "text": " No, he goes in line of the people who are assigned to him."
+      },
+      {
+        "id": 23,
+        "start": 86.19999694824219,
+        "end": 88.72000122070312,
+        "text": " OK, because I usually don't answer my phone during the day"
+      },
+      {
+        "id": 24,
+        "start": 88.76000213623047,
+        "end": 90.80000305175781,
+        "text": " when I'm working."
+      },
+      {
+        "id": 25,
+        "start": 90.80000305175781,
+        "end": 92.16000366210938,
+        "text": " Oh, OK."
+      },
+      {
+        "id": 26,
+        "start": 92.16000366210938,
+        "end": 93.63999938964844,
+        "text": " I'll try."
+      },
+      {
+        "id": 27,
+        "start": 93.63999938964844,
+        "end": 95.87999725341797,
+        "text": " OK."
+      },
+      {
+        "id": 28,
+        "start": 95.87999725341797,
+        "end": 96.5199966430664,
+        "text": " All right, bye."
+      },
+      {
+        "id": 29,
+        "start": 96.5199966430664,
+        "end": 97.68000030517578,
+        "text": " All right, have a good day."
+      },
+      {
+        "id": 30,
+        "start": 97.68000030517578,
+        "end": 99.23999786376953,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81cf-ab1d-e2dae40c7353",
+    "url": "https://www.notion.so/300000001240738-300000001730386-30511d0a101c81cfab1de2dae40c7353"
+  },
+  "processedAt": "2026-02-12T21:01:56.815Z"
+}

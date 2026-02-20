@@ -1,0 +1,116 @@
+{
+  "recording": {
+    "name": "300000001216720-300000001706050-7065360705 by john@superbalife.com @ 4_17_19 PM.wav",
+    "size": 85926,
+    "modifyTime": 1769584032000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216720-300000001706050-7065360705 by john@superbalife.com @ 4_17_19 PM.wav",
+    "uploadDate": "2026-01-28T07:07:12.000Z",
+    "callId": "300000001216720-300000001706050",
+    "agent": "john",
+    "phoneNumber": "7065360705",
+    "callTimestamp": "2026-01-28T16:17:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling, this is John. How can I help you?\n\nSpeaker 2: Hey John, I just placed an order for three different items for y'all. And unfortunately the wrong shift key address got in there, the wrong number on my shift key address got in there. I need to get it changed as soon as possible.\n\nSpeaker 1: I can fix that. I need your name and date of birth.\n\nSpeaker 2: Yes, Joseph Barker, 429-61.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Okay, I got you here. So it's 60-67 Oakwood Court is what we have. What do I need to change it to?\n\nSpeaker 1: 69-67.\n\nSpeaker 2: Okay, I've updated that. Nothing has shipped yet, so we're all good. Thank you for calling right away though.\n\nSpeaker 1: You got it. Okay. Can you send me an email saying you got it changed or is that too much trouble?\n\nSpeaker 2: No, I can send you an email. That's no problem. J.Barker11 at Yahoo.com.\n\nSpeaker 1: Yeah, thank you so much for your help, John. Have a good evening.\n\nSpeaker 2: You too, sir. Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 2779,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling, this is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 7,
+        "text": " Hey John, I just placed an order for three different items for y'all."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 13,
+        "text": " And unfortunately the wrong shift key address got in there, the wrong number on my shift key address got in there."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 16,
+        "text": " I need to get it changed as soon as possible."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 18,
+        "text": " I can fix that. I need your name and date of birth."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 22,
+        "text": " Yes, Joseph Barker, 429-61."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 24,
+        "text": " Thank you."
+      },
+      {
+        "id": 7,
+        "start": 25,
+        "end": 30,
+        "text": " Okay, I got you here. So it's 60-67 Oakwood Court is what we have. What do I need to change it to?"
+      },
+      {
+        "id": 8,
+        "start": 30,
+        "end": 32,
+        "text": " 69-67."
+      },
+      {
+        "id": 9,
+        "start": 32,
+        "end": 37,
+        "text": " Okay, I've updated that. Nothing has shipped yet, so we're all good. Thank you for calling right away though."
+      },
+      {
+        "id": 10,
+        "start": 37,
+        "end": 43,
+        "text": " You got it. Okay. Can you send me an email saying you got it changed or is that too much trouble?"
+      },
+      {
+        "id": 11,
+        "start": 43,
+        "end": 48,
+        "text": " No, I can send you an email. That's no problem. J.Barker11 at Yahoo.com."
+      },
+      {
+        "id": 12,
+        "start": 48,
+        "end": 50,
+        "text": " Yeah, thank you so much for your help, John. Have a good evening."
+      },
+      {
+        "id": 13,
+        "start": 50,
+        "end": 52,
+        "text": " You too, sir. Bye-bye."
+      },
+      {
+        "id": 14,
+        "start": 52,
+        "end": 53,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81f5-9006-e0837d8af1c7",
+    "url": "https://www.notion.so/300000001216720-300000001706050-2f611d0a101c81f59006e0837d8af1c7"
+  },
+  "processedAt": "2026-01-28T15:45:09.003Z"
+}

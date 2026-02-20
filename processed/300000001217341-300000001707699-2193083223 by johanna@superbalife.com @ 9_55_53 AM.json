@@ -1,0 +1,536 @@
+{
+  "recording": {
+    "name": "300000001217341-300000001707699-2193083223 by johanna@superbalife.com @ 9_55_53 AM.wav",
+    "size": 415606,
+    "modifyTime": 1769592443000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217341-300000001707699-2193083223 by johanna@superbalife.com @ 9_55_53 AM.wav",
+    "uploadDate": "2026-01-28T09:27:23.000Z",
+    "callId": "300000001217341-300000001707699",
+    "agent": "johanna",
+    "phoneNumber": "2193083223",
+    "callTimestamp": "2026-01-28T09:55:53.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, Joanna speaking, how can I help you?\n\nSpeaker 2: Hi, I'm already on the auto resale plan.\n\nSpeaker 1: I don't know if you have my number there or not.\n\nSpeaker 2: I'm sorry.\n\nSpeaker 1: Yes, your number did come up, so let me pull up your account.\n\nSpeaker 2: Can I get your date of birth, please?\n\nSpeaker 1: 12-9-58.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay, Mr. Ryan, I have your account here.\n\nSpeaker 2: How can I help you today?\n\nSpeaker 1: I know I'm on the auto retail for Viagra.\n\nSpeaker 2: Can I get a one-time fill of Cialis, Cialis, the 20-milligram?\n\nSpeaker 1: Yeah, of course.\n\nSpeaker 2: What was the reason you wanted to switch to Cialis?\n\nSpeaker 1: I don't know.\n\nSpeaker 2: It would just be for this.\n\nSpeaker 1: I just wanted every once in a while.\n\nSpeaker 2: Viagra doesn't work all the time really well.\n\nSpeaker 1: I think I've used Cialis before.\n\nSpeaker 2: It seemed to work a lot better.\n\nSpeaker 1: Okay, yeah.\n\nSpeaker 2: Of course.\n\nSpeaker 1: Let's see.\n\nSpeaker 2: So you wanted to do Cialis?\n\nSpeaker 1: Yep.\n\nSpeaker 2: I have a much younger wife.\n\nSpeaker 1: Okay, so with the Cialis, there's two versions.\n\nSpeaker 2: There's the 5-milligram, which you would take every day, and then there's the 10-\n\nSpeaker 1: or 20-milligram, which you would take on the weekends.\n\nSpeaker 2: It lasts up to 72 hours.\n\nSpeaker 1: I'm going to go with the 20-milligram.\n\nSpeaker 2: Okay.\n\nSpeaker 1: 72 hours, okay.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: So those run about, let's see, they run about $10 a tablet.\n\nSpeaker 2: Did you want to get a quantity?\n\nSpeaker 1: Did you say you wanted to do 20-milligrams or 10?\n\nSpeaker 2: I'm sorry.\n\nSpeaker 1: 20-milligrams.\n\nSpeaker 2: Okay, 20-milligrams.\n\nSpeaker 1: And did you want 4, 6, 8, or 10 of them?\n\nSpeaker 2: I'll go with 10 of them.\n\nSpeaker 1: Okay.\n\nSpeaker 2: That's going to be $100.\n\nSpeaker 1: Is that okay with you?\n\nSpeaker 2: That's fine, yep.\n\nSpeaker 1: Okay, and the address, the shipping address is still the same, the P.O. Box 712?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, and I have MasterCard ending in 3972.\n\nSpeaker 2: Right, that's it.\n\nSpeaker 1: Now, will I continue to get the auto-refill on the Viagra too?\n\nSpeaker 2: I think it's probably more like March or something like that.\n\nSpeaker 1: Well, one cancels out the other.\n\nSpeaker 2: So it's going to change your prescription to the Cialis.\n\nSpeaker 1: So you'll have to call us back if you want to change that back.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Can I go with 20 of them instead?\n\nSpeaker 1: Let me see.\n\nSpeaker 2: There's 10 in there.\n\nSpeaker 1: Let's see.\n\nSpeaker 2: For 20 of them, it would be $159.\n\nSpeaker 1: That's good.\n\nSpeaker 2: That's my wife, I think.\n\nSpeaker 1: Yes, and that's for 24 of them.\n\nSpeaker 2: 24 of them.\n\nSpeaker 1: Yeah, that sounds like a much better deal.\n\nSpeaker 2: It is, yeah, absolutely.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, sir, that successfully went through.\n\nSpeaker 1: It's at the pharmacy.\n\nSpeaker 2: They'll fulfill that order and ship it out to you.\n\nSpeaker 1: Okay, then when will the auto-refill actually be on a different schedule now?\n\nSpeaker 2: It looks like it was set up for three months.\n\nSpeaker 1: So your next order will not be until April 26th, unless, of course,\n\nSpeaker 2: you call in before then to make any changes, delay, or make an order before then.\n\nSpeaker 1: Okay, that sounds great.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: My pleasure.\n\nSpeaker 2: Thanks for calling in.\n\nSpeaker 1: Have a good day.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: You too.\n\nSpeaker 2: Thanks.\n\nSpeaker 1: Okay.",
+    "duration": 8509,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra, Joanna speaking, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Hi, I'm already on the auto resale plan."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " I don't know if you have my number there or not."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 13,
+        "text": " I'm sorry."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 16,
+        "text": " Yes, your number did come up, so let me pull up your account."
+      },
+      {
+        "id": 5,
+        "start": 16,
+        "end": 19,
+        "text": " Can I get your date of birth, please?"
+      },
+      {
+        "id": 6,
+        "start": 19,
+        "end": 21,
+        "text": " 12-9-58."
+      },
+      {
+        "id": 7,
+        "start": 21,
+        "end": 36,
+        "text": " Thank you."
+      },
+      {
+        "id": 8,
+        "start": 36,
+        "end": 38,
+        "text": " Okay, Mr. Ryan, I have your account here."
+      },
+      {
+        "id": 9,
+        "start": 38,
+        "end": 40,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 10,
+        "start": 40,
+        "end": 43,
+        "text": " I know I'm on the auto retail for Viagra."
+      },
+      {
+        "id": 11,
+        "start": 43,
+        "end": 49,
+        "text": " Can I get a one-time fill of Cialis, Cialis, the 20-milligram?"
+      },
+      {
+        "id": 12,
+        "start": 49,
+        "end": 51,
+        "text": " Yeah, of course."
+      },
+      {
+        "id": 13,
+        "start": 51,
+        "end": 54,
+        "text": " What was the reason you wanted to switch to Cialis?"
+      },
+      {
+        "id": 14,
+        "start": 54,
+        "end": 56,
+        "text": " I don't know."
+      },
+      {
+        "id": 15,
+        "start": 56,
+        "end": 57,
+        "text": " It would just be for this."
+      },
+      {
+        "id": 16,
+        "start": 57,
+        "end": 59,
+        "text": " I just wanted every once in a while."
+      },
+      {
+        "id": 17,
+        "start": 59,
+        "end": 61,
+        "text": " Viagra doesn't work all the time really well."
+      },
+      {
+        "id": 18,
+        "start": 61,
+        "end": 63,
+        "text": " I think I've used Cialis before."
+      },
+      {
+        "id": 19,
+        "start": 63,
+        "end": 65,
+        "text": " It seemed to work a lot better."
+      },
+      {
+        "id": 20,
+        "start": 65,
+        "end": 68,
+        "text": " Okay, yeah."
+      },
+      {
+        "id": 21,
+        "start": 68,
+        "end": 71,
+        "text": " Of course."
+      },
+      {
+        "id": 22,
+        "start": 71,
+        "end": 72,
+        "text": " Let's see."
+      },
+      {
+        "id": 23,
+        "start": 72,
+        "end": 74,
+        "text": " So you wanted to do Cialis?"
+      },
+      {
+        "id": 24,
+        "start": 74,
+        "end": 76,
+        "text": " Yep."
+      },
+      {
+        "id": 25,
+        "start": 76,
+        "end": 80,
+        "text": " I have a much younger wife."
+      },
+      {
+        "id": 26,
+        "start": 80,
+        "end": 83,
+        "text": " Okay, so with the Cialis, there's two versions."
+      },
+      {
+        "id": 27,
+        "start": 83,
+        "end": 88,
+        "text": " There's the 5-milligram, which you would take every day, and then there's the 10-"
+      },
+      {
+        "id": 28,
+        "start": 88,
+        "end": 91,
+        "text": " or 20-milligram, which you would take on the weekends."
+      },
+      {
+        "id": 29,
+        "start": 91,
+        "end": 93,
+        "text": " It lasts up to 72 hours."
+      },
+      {
+        "id": 30,
+        "start": 93,
+        "end": 96,
+        "text": " I'm going to go with the 20-milligram."
+      },
+      {
+        "id": 31,
+        "start": 96,
+        "end": 97,
+        "text": " Okay."
+      },
+      {
+        "id": 32,
+        "start": 97,
+        "end": 99,
+        "text": " 72 hours, okay."
+      },
+      {
+        "id": 33,
+        "start": 99,
+        "end": 100,
+        "text": " Yeah."
+      },
+      {
+        "id": 34,
+        "start": 101,
+        "end": 108,
+        "text": " So those run about, let's see, they run about $10 a tablet."
+      },
+      {
+        "id": 35,
+        "start": 108,
+        "end": 110,
+        "text": " Did you want to get a quantity?"
+      },
+      {
+        "id": 36,
+        "start": 110,
+        "end": 112,
+        "text": " Did you say you wanted to do 20-milligrams or 10?"
+      },
+      {
+        "id": 37,
+        "start": 112,
+        "end": 114,
+        "text": " I'm sorry."
+      },
+      {
+        "id": 38,
+        "start": 114,
+        "end": 115,
+        "text": " 20-milligrams."
+      },
+      {
+        "id": 39,
+        "start": 115,
+        "end": 117,
+        "text": " Okay, 20-milligrams."
+      },
+      {
+        "id": 40,
+        "start": 117,
+        "end": 127,
+        "text": " And did you want 4, 6, 8, or 10 of them?"
+      },
+      {
+        "id": 41,
+        "start": 127,
+        "end": 129,
+        "text": " I'll go with 10 of them."
+      },
+      {
+        "id": 42,
+        "start": 129,
+        "end": 130,
+        "text": " Okay."
+      },
+      {
+        "id": 43,
+        "start": 130,
+        "end": 131,
+        "text": " That's going to be $100."
+      },
+      {
+        "id": 44,
+        "start": 131,
+        "end": 133,
+        "text": " Is that okay with you?"
+      },
+      {
+        "id": 45,
+        "start": 133,
+        "end": 135,
+        "text": " That's fine, yep."
+      },
+      {
+        "id": 46,
+        "start": 135,
+        "end": 141,
+        "text": " Okay, and the address, the shipping address is still the same, the P.O. Box 712?"
+      },
+      {
+        "id": 47,
+        "start": 141,
+        "end": 143,
+        "text": " Yes."
+      },
+      {
+        "id": 48,
+        "start": 143,
+        "end": 148,
+        "text": " Okay, and I have MasterCard ending in 3972."
+      },
+      {
+        "id": 49,
+        "start": 148,
+        "end": 150,
+        "text": " Right, that's it."
+      },
+      {
+        "id": 50,
+        "start": 150,
+        "end": 153,
+        "text": " Now, will I continue to get the auto-refill on the Viagra too?"
+      },
+      {
+        "id": 51,
+        "start": 153,
+        "end": 156,
+        "text": " I think it's probably more like March or something like that."
+      },
+      {
+        "id": 52,
+        "start": 156,
+        "end": 158,
+        "text": " Well, one cancels out the other."
+      },
+      {
+        "id": 53,
+        "start": 158,
+        "end": 163,
+        "text": " So it's going to change your prescription to the Cialis."
+      },
+      {
+        "id": 54,
+        "start": 163,
+        "end": 166,
+        "text": " So you'll have to call us back if you want to change that back."
+      },
+      {
+        "id": 55,
+        "start": 166,
+        "end": 168,
+        "text": " Okay."
+      },
+      {
+        "id": 56,
+        "start": 168,
+        "end": 170,
+        "text": " Okay."
+      },
+      {
+        "id": 57,
+        "start": 170,
+        "end": 172,
+        "text": " Can I go with 20 of them instead?"
+      },
+      {
+        "id": 58,
+        "start": 172,
+        "end": 174,
+        "text": " Let me see."
+      },
+      {
+        "id": 59,
+        "start": 174,
+        "end": 176,
+        "text": " There's 10 in there."
+      },
+      {
+        "id": 60,
+        "start": 177,
+        "end": 179,
+        "text": " Let's see."
+      },
+      {
+        "id": 61,
+        "start": 179,
+        "end": 198,
+        "text": " For 20 of them, it would be $159."
+      },
+      {
+        "id": 62,
+        "start": 198,
+        "end": 200,
+        "text": " That's good."
+      },
+      {
+        "id": 63,
+        "start": 200,
+        "end": 203,
+        "text": " That's my wife, I think."
+      },
+      {
+        "id": 64,
+        "start": 203,
+        "end": 206,
+        "text": " Yes, and that's for 24 of them."
+      },
+      {
+        "id": 65,
+        "start": 206,
+        "end": 208,
+        "text": " 24 of them."
+      },
+      {
+        "id": 66,
+        "start": 208,
+        "end": 210,
+        "text": " Yeah, that sounds like a much better deal."
+      },
+      {
+        "id": 67,
+        "start": 210,
+        "end": 212,
+        "text": " It is, yeah, absolutely."
+      },
+      {
+        "id": 68,
+        "start": 212,
+        "end": 223,
+        "text": " Okay."
+      },
+      {
+        "id": 69,
+        "start": 223,
+        "end": 225,
+        "text": " Okay, sir, that successfully went through."
+      },
+      {
+        "id": 70,
+        "start": 225,
+        "end": 227,
+        "text": " It's at the pharmacy."
+      },
+      {
+        "id": 71,
+        "start": 227,
+        "end": 229,
+        "text": " They'll fulfill that order and ship it out to you."
+      },
+      {
+        "id": 72,
+        "start": 229,
+        "end": 234,
+        "text": " Okay, then when will the auto-refill actually be on a different schedule now?"
+      },
+      {
+        "id": 73,
+        "start": 234,
+        "end": 238,
+        "text": " It looks like it was set up for three months."
+      },
+      {
+        "id": 74,
+        "start": 238,
+        "end": 242,
+        "text": " So your next order will not be until April 26th, unless, of course,"
+      },
+      {
+        "id": 75,
+        "start": 242,
+        "end": 247,
+        "text": " you call in before then to make any changes, delay, or make an order before then."
+      },
+      {
+        "id": 76,
+        "start": 247,
+        "end": 248,
+        "text": " Okay, that sounds great."
+      },
+      {
+        "id": 77,
+        "start": 248,
+        "end": 249,
+        "text": " Thank you."
+      },
+      {
+        "id": 78,
+        "start": 249,
+        "end": 250,
+        "text": " My pleasure."
+      },
+      {
+        "id": 79,
+        "start": 250,
+        "end": 251,
+        "text": " Thanks for calling in."
+      },
+      {
+        "id": 80,
+        "start": 251,
+        "end": 252,
+        "text": " Have a good day."
+      },
+      {
+        "id": 81,
+        "start": 252,
+        "end": 253,
+        "text": " Thank you."
+      },
+      {
+        "id": 82,
+        "start": 253,
+        "end": 254,
+        "text": " You too."
+      },
+      {
+        "id": 83,
+        "start": 254,
+        "end": 255,
+        "text": " Thanks."
+      },
+      {
+        "id": 84,
+        "start": 255,
+        "end": 256,
+        "text": " Okay."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a0-bb84-d1cbca181569",
+    "url": "https://www.notion.so/300000001217341-300000001707699-2f611d0a101c81a0bb84d1cbca181569"
+  },
+  "processedAt": "2026-01-28T10:30:11.324Z"
+}

@@ -1,0 +1,284 @@
+{
+  "recording": {
+    "name": "300000001219406-300000001709470-3175294893 by charles@superbalife.com @ 11_09_48 AM.wav",
+    "size": 187650,
+    "modifyTime": 1769586740000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219406-300000001709470-3175294893 by charles@superbalife.com @ 11_09_48 AM.wav",
+    "uploadDate": "2026-01-28T07:52:20.000Z",
+    "callId": "300000001219406-300000001709470",
+    "agent": "charles",
+    "phoneNumber": "3175294893",
+    "callTimestamp": "2026-01-28T11:09:48.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, my name is Gary Hornaday, I need to cancel my prescription to make sure I'm not billed.\n\nSpeaker 2: Anymore.\n\nSpeaker 1: Okay, Riverview, Florida?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Gotcha, it looks like you're a VIP member here, Gary, are you just overstocked right now?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, completely understandable, especially if you're overstocked right now.\n\nSpeaker 2: With your VIP status, Gary, you do get some perks that you're able to utilize.\n\nSpeaker 1: If you'd like, we can pause, freeze your account, whatever you want to call it, for the next six months, that way you've got some time to use up what you've got.\n\nSpeaker 2: After that, it wouldn't come how it has been every two months, it'd be like whenever you need it after that.\n\nSpeaker 1: I'd rather just cancel now.\n\nSpeaker 2: If I want to start again, I'll give it a hold, I'll give it a start again.\n\nSpeaker 1: Okay, are you sure you don't want to just pause everything?\n\nSpeaker 2: It's always better that way, so that the prescription's always just in your back pocket and just work with us on when it's needed and when it's not needed.\n\nSpeaker 1: You're going to have to call it regardless.\n\nSpeaker 2: The problem with that is I'd have to remember six months from now and all that.\n\nSpeaker 1: Are you able to write it down?\n\nSpeaker 2: I have everybody write it down on the pill bottle or write it down on their calendar.\n\nSpeaker 1: What is the date?\n\nSpeaker 2: It would be July 27th.\n\nSpeaker 1: If you freeze it, I'll make myself a note and contact you again if I don't need it cancelled.\n\nSpeaker 2: I haven't been shipped or billed recently, right?\n\nSpeaker 1: Nothing.\n\nSpeaker 2: Negative.\n\nSpeaker 1: Okay.\n\nSpeaker 2: That sounds good to me.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Sounds good, Gary.\n\nSpeaker 1: If you ever need me again, my extension is 0040.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thanks so much.\n\nSpeaker 2: Absolutely.\n\nSpeaker 1: Have a great one.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Bye.",
+    "duration": 6370,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 13.420000076293945,
+        "text": " Hi, my name is Gary Hornaday, I need to cancel my prescription to make sure I'm not billed"
+      },
+      {
+        "id": 1,
+        "start": 13.420000076293945,
+        "end": 14.420000076293945,
+        "text": " anymore."
+      },
+      {
+        "id": 2,
+        "start": 14.420000076293945,
+        "end": 15.420000076293945,
+        "text": " Okay, Riverview, Florida?"
+      },
+      {
+        "id": 3,
+        "start": 15.420000076293945,
+        "end": 16.420000076293945,
+        "text": " Yes."
+      },
+      {
+        "id": 4,
+        "start": 16.420000076293945,
+        "end": 21.719999313354492,
+        "text": " Gotcha, it looks like you're a VIP member here, Gary, are you just overstocked right"
+      },
+      {
+        "id": 5,
+        "start": 21.719999313354492,
+        "end": 22.719999313354492,
+        "text": " now?"
+      },
+      {
+        "id": 6,
+        "start": 22.719999313354492,
+        "end": 23.719999313354492,
+        "text": " Yes."
+      },
+      {
+        "id": 7,
+        "start": 23.719999313354492,
+        "end": 29,
+        "text": " Okay, completely understandable, especially if you're overstocked right now."
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 34.279998779296875,
+        "text": " With your VIP status, Gary, you do get some perks that you're able to utilize."
+      },
+      {
+        "id": 9,
+        "start": 34.279998779296875,
+        "end": 39.15999984741211,
+        "text": " If you'd like, we can pause, freeze your account, whatever you want to call it, for the next"
+      },
+      {
+        "id": 10,
+        "start": 39.15999984741211,
+        "end": 42,
+        "text": " six months, that way you've got some time to use up what you've got."
+      },
+      {
+        "id": 11,
+        "start": 42,
+        "end": 46.68000030517578,
+        "text": " After that, it wouldn't come how it has been every two months, it'd be like whenever you"
+      },
+      {
+        "id": 12,
+        "start": 46.68000030517578,
+        "end": 47.68000030517578,
+        "text": " need it after that."
+      },
+      {
+        "id": 13,
+        "start": 47.68000030517578,
+        "end": 48.68000030517578,
+        "text": " I'd rather just cancel now."
+      },
+      {
+        "id": 14,
+        "start": 48.68000030517578,
+        "end": 54.68000030517578,
+        "text": " If I want to start again, I'll give it a hold, I'll give it a start again."
+      },
+      {
+        "id": 15,
+        "start": 54.68000030517578,
+        "end": 57.599998474121094,
+        "text": " Okay, are you sure you don't want to just pause everything?"
+      },
+      {
+        "id": 16,
+        "start": 57.599998474121094,
+        "end": 60.91999816894531,
+        "text": " It's always better that way, so that the prescription's always just in your back pocket"
+      },
+      {
+        "id": 17,
+        "start": 60.91999816894531,
+        "end": 63.20000076293945,
+        "text": " and just work with us on when it's needed and when it's not needed."
+      },
+      {
+        "id": 18,
+        "start": 63.20000076293945,
+        "end": 64.72000122070312,
+        "text": " You're going to have to call it regardless."
+      },
+      {
+        "id": 19,
+        "start": 64.72000122070312,
+        "end": 72.04000091552734,
+        "text": " The problem with that is I'd have to remember six months from now and all that."
+      },
+      {
+        "id": 20,
+        "start": 72.04000091552734,
+        "end": 74.19999694824219,
+        "text": " Are you able to write it down?"
+      },
+      {
+        "id": 21,
+        "start": 74.19999694824219,
+        "end": 81.08000183105469,
+        "text": " I have everybody write it down on the pill bottle or write it down on their calendar."
+      },
+      {
+        "id": 22,
+        "start": 81.08000183105469,
+        "end": 82.08000183105469,
+        "text": " What is the date?"
+      },
+      {
+        "id": 23,
+        "start": 82.08000183105469,
+        "end": 85.08000183105469,
+        "text": " It would be July 27th."
+      },
+      {
+        "id": 24,
+        "start": 85.08000183105469,
+        "end": 98.08000183105469,
+        "text": " If you freeze it, I'll make myself a note and contact you again if I don't need it cancelled."
+      },
+      {
+        "id": 25,
+        "start": 98.08000183105469,
+        "end": 101.08000183105469,
+        "text": " I haven't been shipped or billed recently, right?"
+      },
+      {
+        "id": 26,
+        "start": 101.08000183105469,
+        "end": 102.08000183105469,
+        "text": " Nothing."
+      },
+      {
+        "id": 27,
+        "start": 102.08000183105469,
+        "end": 103.08000183105469,
+        "text": " Negative."
+      },
+      {
+        "id": 28,
+        "start": 103.08000183105469,
+        "end": 104.08000183105469,
+        "text": " Okay."
+      },
+      {
+        "id": 29,
+        "start": 104.08000183105469,
+        "end": 105.08000183105469,
+        "text": " That sounds good to me."
+      },
+      {
+        "id": 30,
+        "start": 105.08000183105469,
+        "end": 106.08000183105469,
+        "text": " Okay."
+      },
+      {
+        "id": 31,
+        "start": 106.08000183105469,
+        "end": 107.08000183105469,
+        "text": " Sounds good, Gary."
+      },
+      {
+        "id": 32,
+        "start": 107.08000183105469,
+        "end": 108.08000183105469,
+        "text": " If you ever need me again, my extension is 0040."
+      },
+      {
+        "id": 33,
+        "start": 108.08000183105469,
+        "end": 109.08000183105469,
+        "text": " All right."
+      },
+      {
+        "id": 34,
+        "start": 109.08000183105469,
+        "end": 110.08000183105469,
+        "text": " Thanks so much."
+      },
+      {
+        "id": 35,
+        "start": 110.08000183105469,
+        "end": 111.08000183105469,
+        "text": " Absolutely."
+      },
+      {
+        "id": 36,
+        "start": 111.08000183105469,
+        "end": 112.08000183105469,
+        "text": " Have a great one."
+      },
+      {
+        "id": 37,
+        "start": 112.08000183105469,
+        "end": 113.08000183105469,
+        "text": " Bye."
+      },
+      {
+        "id": 38,
+        "start": 113.08000183105469,
+        "end": 114.08000183105469,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 39,
+        "start": 114.08000183105469,
+        "end": 115.08000183105469,
+        "text": " Bye."
+      },
+      {
+        "id": 40,
+        "start": 115.08000183105469,
+        "end": 116.08000183105469,
+        "text": " Bye."
+      },
+      {
+        "id": 41,
+        "start": 116.08000183105469,
+        "end": 117.08000183105469,
+        "text": " Bye."
+      },
+      {
+        "id": 42,
+        "start": 117.08000183105469,
+        "end": 117.08000183105469,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8177-aba7-c66317c65c88",
+    "url": "https://www.notion.so/300000001219406-300000001709470-2f611d0a101c8177aba7c66317c65c88"
+  },
+  "processedAt": "2026-01-28T13:35:42.469Z"
+}

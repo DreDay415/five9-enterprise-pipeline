@@ -1,0 +1,212 @@
+{
+  "recording": {
+    "name": "300000001218024-300000001708123-5202370059 by gabriela@superbalife.com @ 1_01_28 PM.wav",
+    "size": 201106,
+    "modifyTime": 1769586736000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218024-300000001708123-5202370059 by gabriela@superbalife.com @ 1_01_28 PM.wav",
+    "uploadDate": "2026-01-28T07:52:16.000Z",
+    "callId": "300000001218024-300000001708123",
+    "agent": "gabriela",
+    "phoneNumber": "5202370059",
+    "callTimestamp": "2026-01-28T13:01:28.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Oh, hi. Yeah, this is James Hefner.\n\nSpeaker 1: Uh-huh.\n\nSpeaker 2: Yeah, I've been receiving a prescription, and I thought I had signed up for the AGV.\n\nSpeaker 1: Uh-huh.\n\nSpeaker 2: But the bottles, only one of them has said AGV on it,\n\nSpeaker 1: and the tablets that I've been getting the most of say AC339,\n\nSpeaker 2: where the AGV tablets just said 50.\n\nSpeaker 1: And so I'm wondering what am I—\n\nSpeaker 2: Yeah, so the AGV should have the number 50 engraved on the pills.\n\nSpeaker 1: Go ahead and just confirm your name and date of birth for me, please.\n\nSpeaker 2: Oh, yeah, it's Jim or James Hefner, A-G-F-N-E-R, August 29, 47.\n\nSpeaker 1: Okay, thank you for confirming that information, James.\n\nSpeaker 2: And, yes, it looks like you did place an order for Viagra AGV,\n\nSpeaker 1: and you said that they had a different engraving of AC340?\n\nSpeaker 2: Yeah, except for one bottle that I received.\n\nSpeaker 1: I think the second time I got them was the AGV,\n\nSpeaker 2: and the others were all the AC339 it shows on the tablet.\n\nSpeaker 1: Okay, so that is strange because it looks like you did purchase AGV.\n\nSpeaker 2: Okay, James, so what I can go ahead and do for you is that I can ask the pharmacy\n\nSpeaker 1: to reship your last order with the correct Viagra AGV, okay?\n\nSpeaker 2: So those should have the number 50 engraved on them.\n\nSpeaker 1: Yeah, I'm really kind of frustrated because the first bottle I got was 20 tablets,\n\nSpeaker 2: and they're all the AC339, and what I ordered was AGV, so I'm really—\n\nSpeaker 1: Yeah, okay, so, yes, what I can go ahead and do, which is under my control,\n\nSpeaker 2: is just ask the pharmacy to reship your order for the correct Viagra AGV, okay?\n\nSpeaker 1: Yeah, okay. All right, thank you.\n\nSpeaker 2: Okay, so you should be receiving that within the next three to five business days.\n\nSpeaker 1: You're welcome, James.\n\nSpeaker 2: Okay, all right, thanks. Bye-bye.\n\nSpeaker 1: Okay, bye. You're welcome.",
+    "duration": 5817,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 7,
+        "text": " Oh, hi. Yeah, this is James Hefner."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 8,
+        "text": " Uh-huh."
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 16,
+        "text": " Yeah, I've been receiving a prescription, and I thought I had signed up for the AGV."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 17,
+        "text": " Uh-huh."
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 21,
+        "text": " But the bottles, only one of them has said AGV on it,"
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 29,
+        "text": " and the tablets that I've been getting the most of say AC339,"
+      },
+      {
+        "id": 7,
+        "start": 29,
+        "end": 33,
+        "text": " where the AGV tablets just said 50."
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 35,
+        "text": " And so I'm wondering what am I—"
+      },
+      {
+        "id": 9,
+        "start": 35,
+        "end": 39,
+        "text": " Yeah, so the AGV should have the number 50 engraved on the pills."
+      },
+      {
+        "id": 10,
+        "start": 39,
+        "end": 43,
+        "text": " Go ahead and just confirm your name and date of birth for me, please."
+      },
+      {
+        "id": 11,
+        "start": 43,
+        "end": 50,
+        "text": " Oh, yeah, it's Jim or James Hefner, A-G-F-N-E-R, August 29, 47."
+      },
+      {
+        "id": 12,
+        "start": 50,
+        "end": 53,
+        "text": " Okay, thank you for confirming that information, James."
+      },
+      {
+        "id": 13,
+        "start": 53,
+        "end": 60,
+        "text": " And, yes, it looks like you did place an order for Viagra AGV,"
+      },
+      {
+        "id": 14,
+        "start": 60,
+        "end": 64,
+        "text": " and you said that they had a different engraving of AC340?"
+      },
+      {
+        "id": 15,
+        "start": 64,
+        "end": 68,
+        "text": " Yeah, except for one bottle that I received."
+      },
+      {
+        "id": 16,
+        "start": 68,
+        "end": 72,
+        "text": " I think the second time I got them was the AGV,"
+      },
+      {
+        "id": 17,
+        "start": 72,
+        "end": 77,
+        "text": " and the others were all the AC339 it shows on the tablet."
+      },
+      {
+        "id": 18,
+        "start": 77,
+        "end": 81,
+        "text": " Okay, so that is strange because it looks like you did purchase AGV."
+      },
+      {
+        "id": 19,
+        "start": 81,
+        "end": 86,
+        "text": " Okay, James, so what I can go ahead and do for you is that I can ask the pharmacy"
+      },
+      {
+        "id": 20,
+        "start": 86,
+        "end": 90,
+        "text": " to reship your last order with the correct Viagra AGV, okay?"
+      },
+      {
+        "id": 21,
+        "start": 90,
+        "end": 93,
+        "text": " So those should have the number 50 engraved on them."
+      },
+      {
+        "id": 22,
+        "start": 93,
+        "end": 99,
+        "text": " Yeah, I'm really kind of frustrated because the first bottle I got was 20 tablets,"
+      },
+      {
+        "id": 23,
+        "start": 99,
+        "end": 105,
+        "text": " and they're all the AC339, and what I ordered was AGV, so I'm really—"
+      },
+      {
+        "id": 24,
+        "start": 105,
+        "end": 109,
+        "text": " Yeah, okay, so, yes, what I can go ahead and do, which is under my control,"
+      },
+      {
+        "id": 25,
+        "start": 109,
+        "end": 114,
+        "text": " is just ask the pharmacy to reship your order for the correct Viagra AGV, okay?"
+      },
+      {
+        "id": 26,
+        "start": 114,
+        "end": 117,
+        "text": " Yeah, okay. All right, thank you."
+      },
+      {
+        "id": 27,
+        "start": 117,
+        "end": 120,
+        "text": " Okay, so you should be receiving that within the next three to five business days."
+      },
+      {
+        "id": 28,
+        "start": 120,
+        "end": 121,
+        "text": " You're welcome, James."
+      },
+      {
+        "id": 29,
+        "start": 121,
+        "end": 123,
+        "text": " Okay, all right, thanks. Bye-bye."
+      },
+      {
+        "id": 30,
+        "start": 123,
+        "end": 124,
+        "text": " Okay, bye. You're welcome."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813e-8502-d64b7e0eb156",
+    "url": "https://www.notion.so/300000001218024-300000001708123-2f611d0a101c813e8502d64b7e0eb156"
+  },
+  "processedAt": "2026-01-28T13:38:06.677Z"
+}

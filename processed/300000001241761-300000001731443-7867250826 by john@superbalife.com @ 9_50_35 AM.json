@@ -1,0 +1,35 @@
+{
+  "recording": {
+    "name": "300000001241761-300000001731443-7867250826 by john@superbalife.com @ 9_50_35 AM.wav",
+    "size": 8446,
+    "modifyTime": 1771005063000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241761-300000001731443-7867250826 by john@superbalife.com @ 9_50_35 AM.wav",
+    "uploadDate": "2026-02-13T17:51:03.000Z",
+    "callId": "300000001241761-300000001731443",
+    "agent": "john",
+    "phoneNumber": "7867250826",
+    "callTimestamp": "2026-02-13T09:50:35.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_john_300000001241761-300000001731443_7867250826.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_john_300000001241761-300000001731443_7867250826.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you.",
+    "duration": 665,
+    "audioDuration": 5.159999847412109,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8104-a0fc-fc1fce3f4fd9",
+    "url": "https://www.notion.so/300000001241761-300000001731443-30611d0a101c8104a0fcfc1fce3f4fd9"
+  },
+  "processedAt": "2026-02-13T18:07:45.534Z"
+}

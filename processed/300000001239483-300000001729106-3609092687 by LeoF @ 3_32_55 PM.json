@@ -1,0 +1,301 @@
+{
+  "recording": {
+    "name": "300000001239483-300000001729106-3609092687 by LeoF @ 3_32_55 PM.wav",
+    "size": 168216,
+    "modifyTime": 1770852888000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239483-300000001729106-3609092687 by LeoF @ 3_32_55 PM.wav",
+    "uploadDate": "2026-02-11T23:34:48.000Z",
+    "callId": "300000001239483-300000001729106",
+    "phoneNumber": "3609092687",
+    "callTimestamp": "2026-02-11T15:32:55.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, thanks for calling Viagra, how can I help you?\n\nSpeaker 2: Hello, sir, I just signed up for the prescription today, but I would like to make a cancel.\n\nSpeaker 1: OK, give me just a second. And what's your first and last name?\n\nSpeaker 2: My first name is Adrian, and the last name is Kazako.\n\nSpeaker 1: OK, Mr. Kazako, and you don't want the order?\n\nSpeaker 2: What happened?\n\nSpeaker 1: I can cancel it for you.\n\nSpeaker 2: You don't want to get it?\n\nSpeaker 1: Because it was advertised as Viagra VGT,\n\nSpeaker 2: but they end up to be prescribed sildenafil,\n\nSpeaker 1: which I'm not OK with that.\n\nSpeaker 2: So Viagra AGV, the name is technically\n\nSpeaker 1: sildenafil, the scientific name.\n\nSpeaker 2: That's what that stands for, AGV,\n\nSpeaker 1: Authorized Generic Viagra.\n\nSpeaker 2: So any Viagra that doesn't get that blue coating\n\nSpeaker 1: on the outside is still scientifically sildenafil.\n\nSpeaker 2: So it's just a name, though.\n\nSpeaker 1: The important thing is the manufacturer\n\nSpeaker 2: that it comes from.\n\nSpeaker 1: It comes from the same facility that\n\nSpeaker 2: makes the other pills in France.\n\nSpeaker 1: It's just their newest version of the pill.\n\nSpeaker 2: So I can cancel for you, but I just wanted to let you know.\n\nSpeaker 1: That is how it works, the AGV.\n\nSpeaker 2: Well, yeah, but you should have advertised sildenafil\n\nSpeaker 1: not Viagra VGT, so yeah, I would like to cancel that.\n\nSpeaker 2: OK, no problem.\n\nSpeaker 1: All righty, so I did cancel that for you,\n\nSpeaker 2: and I refunded it for you as well.\n\nSpeaker 1: But do be careful getting other pills out there.\n\nSpeaker 2: We are the only FDA-approved company that has a license\n\nSpeaker 1: to sell this medication.\n\nSpeaker 2: So anywhere else you go, it's going\n\nSpeaker 1: to be cheap pills from India, China, definitely not\n\nSpeaker 2: legal and overseen by any sort of oversight committee.\n\nSpeaker 1: OK, so you're all set there, Mr. Adrian, OK?\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Can you send me an email with the cancellation confirmation?\n\nSpeaker 2: No problem.\n\nSpeaker 1: I can do that for you.\n\nSpeaker 2: Thank you so much.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Bye now.",
+    "duration": 4315,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.640000104904175,
+        "text": " Hey, thanks for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3.640000104904175,
+        "end": 6.71999979019165,
+        "text": " Hello, sir, I just signed up for the prescription today,"
+      },
+      {
+        "id": 2,
+        "start": 6.71999979019165,
+        "end": 8.84000015258789,
+        "text": " but I would like to make a cancel."
+      },
+      {
+        "id": 3,
+        "start": 8.84000015258789,
+        "end": 11.640000343322754,
+        "text": " OK, give me just a second."
+      },
+      {
+        "id": 4,
+        "start": 11.640000343322754,
+        "end": 14.520000457763672,
+        "text": " And what's your first and last name?"
+      },
+      {
+        "id": 5,
+        "start": 14.520000457763672,
+        "end": 20.1200008392334,
+        "text": " My first name is Adrian, and the last name is Kazako."
+      },
+      {
+        "id": 6,
+        "start": 20.1200008392334,
+        "end": 22.040000915527344,
+        "text": " OK, Mr. Kazako, and you don't want the order?"
+      },
+      {
+        "id": 7,
+        "start": 22.040000915527344,
+        "end": 22.440000534057617,
+        "text": " What happened?"
+      },
+      {
+        "id": 8,
+        "start": 22.440000534057617,
+        "end": 23.440000534057617,
+        "text": " I can cancel it for you."
+      },
+      {
+        "id": 9,
+        "start": 23.440000534057617,
+        "end": 25.280000686645508,
+        "text": " You don't want to get it?"
+      },
+      {
+        "id": 10,
+        "start": 25.280000686645508,
+        "end": 28.600000381469727,
+        "text": " Because it was advertised as Viagra VGT,"
+      },
+      {
+        "id": 11,
+        "start": 28.600000381469727,
+        "end": 32.119998931884766,
+        "text": " but they end up to be prescribed sildenafil,"
+      },
+      {
+        "id": 12,
+        "start": 32.119998931884766,
+        "end": 34.15999984741211,
+        "text": " which I'm not OK with that."
+      },
+      {
+        "id": 13,
+        "start": 34.15999984741211,
+        "end": 38.040000915527344,
+        "text": " So Viagra AGV, the name is technically"
+      },
+      {
+        "id": 14,
+        "start": 38.040000915527344,
+        "end": 39.599998474121094,
+        "text": " sildenafil, the scientific name."
+      },
+      {
+        "id": 15,
+        "start": 39.599998474121094,
+        "end": 41.119998931884766,
+        "text": " That's what that stands for, AGV,"
+      },
+      {
+        "id": 16,
+        "start": 41.119998931884766,
+        "end": 42.91999816894531,
+        "text": " Authorized Generic Viagra."
+      },
+      {
+        "id": 17,
+        "start": 42.91999816894531,
+        "end": 45.7599983215332,
+        "text": " So any Viagra that doesn't get that blue coating"
+      },
+      {
+        "id": 18,
+        "start": 45.7599983215332,
+        "end": 49,
+        "text": " on the outside is still scientifically sildenafil."
+      },
+      {
+        "id": 19,
+        "start": 49,
+        "end": 50.20000076293945,
+        "text": " So it's just a name, though."
+      },
+      {
+        "id": 20,
+        "start": 50.20000076293945,
+        "end": 51.880001068115234,
+        "text": " The important thing is the manufacturer"
+      },
+      {
+        "id": 21,
+        "start": 51.880001068115234,
+        "end": 52.68000030517578,
+        "text": " that it comes from."
+      },
+      {
+        "id": 22,
+        "start": 52.68000030517578,
+        "end": 54.439998626708984,
+        "text": " It comes from the same facility that"
+      },
+      {
+        "id": 23,
+        "start": 54.439998626708984,
+        "end": 56.119998931884766,
+        "text": " makes the other pills in France."
+      },
+      {
+        "id": 24,
+        "start": 56.119998931884766,
+        "end": 58.20000076293945,
+        "text": " It's just their newest version of the pill."
+      },
+      {
+        "id": 25,
+        "start": 58.20000076293945,
+        "end": 60.91999816894531,
+        "text": " So I can cancel for you, but I just wanted to let you know."
+      },
+      {
+        "id": 26,
+        "start": 60.91999816894531,
+        "end": 62.91999816894531,
+        "text": " That is how it works, the AGV."
+      },
+      {
+        "id": 27,
+        "start": 65.44000244140625,
+        "end": 67.63999938964844,
+        "text": " Well, yeah, but you should have advertised sildenafil"
+      },
+      {
+        "id": 28,
+        "start": 67.63999938964844,
+        "end": 71.19999694824219,
+        "text": " not Viagra VGT, so yeah, I would like to cancel that."
+      },
+      {
+        "id": 29,
+        "start": 71.19999694824219,
+        "end": 74.63999938964844,
+        "text": " OK, no problem."
+      },
+      {
+        "id": 30,
+        "start": 74.63999938964844,
+        "end": 78.12000274658203,
+        "text": " All righty, so I did cancel that for you,"
+      },
+      {
+        "id": 31,
+        "start": 78.12000274658203,
+        "end": 80.04000091552734,
+        "text": " and I refunded it for you as well."
+      },
+      {
+        "id": 32,
+        "start": 80.04000091552734,
+        "end": 82.04000091552734,
+        "text": " But do be careful getting other pills out there."
+      },
+      {
+        "id": 33,
+        "start": 82.04000091552734,
+        "end": 84.76000213623047,
+        "text": " We are the only FDA-approved company that has a license"
+      },
+      {
+        "id": 34,
+        "start": 84.76000213623047,
+        "end": 85.76000213623047,
+        "text": " to sell this medication."
+      },
+      {
+        "id": 35,
+        "start": 85.76000213623047,
+        "end": 86.76000213623047,
+        "text": " So anywhere else you go, it's going"
+      },
+      {
+        "id": 36,
+        "start": 86.76000213623047,
+        "end": 89.08000183105469,
+        "text": " to be cheap pills from India, China, definitely not"
+      },
+      {
+        "id": 37,
+        "start": 89.08000183105469,
+        "end": 92.5199966430664,
+        "text": " legal and overseen by any sort of oversight committee."
+      },
+      {
+        "id": 38,
+        "start": 92.5199966430664,
+        "end": 95,
+        "text": " OK, so you're all set there, Mr. Adrian, OK?"
+      },
+      {
+        "id": 39,
+        "start": 95,
+        "end": 95.63999938964844,
+        "text": " Thank you."
+      },
+      {
+        "id": 40,
+        "start": 95.63999938964844,
+        "end": 99.12000274658203,
+        "text": " Can you send me an email with the cancellation confirmation?"
+      },
+      {
+        "id": 41,
+        "start": 99.12000274658203,
+        "end": 99.72000122070312,
+        "text": " No problem."
+      },
+      {
+        "id": 42,
+        "start": 99.72000122070312,
+        "end": 101.4000015258789,
+        "text": " I can do that for you."
+      },
+      {
+        "id": 43,
+        "start": 101.4000015258789,
+        "end": 102.5199966430664,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 44,
+        "start": 102.5199966430664,
+        "end": 103.04000091552734,
+        "text": " Thank you."
+      },
+      {
+        "id": 45,
+        "start": 103.04000091552734,
+        "end": 104.5999984741211,
+        "text": " Bye now."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8131-bb4c-c6d5bc2b0e59",
+    "url": "https://www.notion.so/300000001239483-300000001729106-30511d0a101c8131bb4cc6d5bc2b0e59"
+  },
+  "processedAt": "2026-02-12T00:09:20.089Z"
+}

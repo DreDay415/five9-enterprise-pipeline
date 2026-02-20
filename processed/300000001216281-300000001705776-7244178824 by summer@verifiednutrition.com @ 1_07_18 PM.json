@@ -1,0 +1,92 @@
+{
+  "recording": {
+    "name": "300000001216281-300000001705776-7244178824 by summer@verifiednutrition.com @ 1_07_18 PM.wav",
+    "size": 76956,
+    "modifyTime": 1769582530000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216281-300000001705776-7244178824 by summer@verifiednutrition.com @ 1_07_18 PM.wav",
+    "uploadDate": "2026-01-28T06:42:10.000Z",
+    "callId": "300000001216281-300000001705776",
+    "agent": "summer",
+    "phoneNumber": "7244178824",
+    "callTimestamp": "2026-01-28T13:07:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service. How can I help you?\n\nSpeaker 2: Yes, I'm a patient. My name is Joseph Rubino, R-U-B-I-N-O.\n\nSpeaker 1: I was on automatic refill, and I'd like to cancel that and just call when I need something.\n\nSpeaker 2: Okay. Can I have your birthday and zip code, please?\n\nSpeaker 1: July 7, 1975.\n\nSpeaker 2: Okay. Your account is paused.\n\nSpeaker 1: Whenever you're ready to order, you can just call in and place the order,\n\nSpeaker 2: or you can do it online with the doctor.\n\nSpeaker 1: All right. Thank you very much.\n\nSpeaker 2: You're welcome. Have a good one. Bye-bye.\n\nSpeaker 1: Bye.",
+    "duration": 3997,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling customer service. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10,
+        "text": " Yes, I'm a patient. My name is Joseph Rubino, R-U-B-I-N-O."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 18,
+        "text": " I was on automatic refill, and I'd like to cancel that and just call when I need something."
+      },
+      {
+        "id": 3,
+        "start": 18,
+        "end": 22,
+        "text": " Okay. Can I have your birthday and zip code, please?"
+      },
+      {
+        "id": 4,
+        "start": 22,
+        "end": 25,
+        "text": " July 7, 1975."
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 37,
+        "text": " Okay. Your account is paused."
+      },
+      {
+        "id": 6,
+        "start": 37,
+        "end": 40,
+        "text": " Whenever you're ready to order, you can just call in and place the order,"
+      },
+      {
+        "id": 7,
+        "start": 40,
+        "end": 42,
+        "text": " or you can do it online with the doctor."
+      },
+      {
+        "id": 8,
+        "start": 42,
+        "end": 44,
+        "text": " All right. Thank you very much."
+      },
+      {
+        "id": 9,
+        "start": 44,
+        "end": 46,
+        "text": " You're welcome. Have a good one. Bye-bye."
+      },
+      {
+        "id": 10,
+        "start": 46,
+        "end": 47,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816a-a890-dfb1c6b31be4",
+    "url": "https://www.notion.so/300000001216281-300000001705776-2f611d0a101c816aa890dfb1c6b31be4"
+  },
+  "processedAt": "2026-01-28T17:12:29.233Z"
+}

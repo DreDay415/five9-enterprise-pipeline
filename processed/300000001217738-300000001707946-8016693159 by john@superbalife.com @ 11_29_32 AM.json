@@ -1,0 +1,146 @@
+{
+  "recording": {
+    "name": "300000001217738-300000001707946-8016693159 by john@superbalife.com @ 11_29_32 AM.wav",
+    "size": 110170,
+    "modifyTime": 1769584936000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217738-300000001707946-8016693159 by john@superbalife.com @ 11_29_32 AM.wav",
+    "uploadDate": "2026-01-28T07:22:16.000Z",
+    "callId": "300000001217738-300000001707946",
+    "agent": "john",
+    "phoneNumber": "8016693159",
+    "callTimestamp": "2026-01-28T11:29:32.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Hi, John. I just called to say that I received my first shipment,\n\nSpeaker 1: and as everything was advertised to make sure it was authentic,\n\nSpeaker 2: I'm supposed to get little blue pills with AGV written on them, and they were not.\n\nSpeaker 1: Okay. Well, the AGV pills are not blue. They're white, but I can help you, sir.\n\nSpeaker 2: I need your name and zip code.\n\nSpeaker 1: Okay. Sean Ford, 84065.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: What is written on the pill, though?\n\nSpeaker 2: 100.\n\nSpeaker 1: Okay. Yeah, that's the right pill. So the AGV would be a white diamond that says 100 on it.\n\nSpeaker 2: Why do they advertise that differently in the ads?\n\nSpeaker 1: I don't know, sir. I'm not in charge of that, unfortunately.\n\nSpeaker 2: I don't like it as much as you don't, but the one you have is the AGV pill.\n\nSpeaker 1: Okay. Because they said if it's not blue and if it's not diamond, it says AGV.\n\nSpeaker 2: It's not authentic. That's what they say in the ads.\n\nSpeaker 1: No, it doesn't say anything about being blue, sir.\n\nSpeaker 2: We actually refer to it as white Viagra, but you have the right pill, sir.\n\nSpeaker 1: Boy, you're not a very good customer service agent.\n\nSpeaker 2: I certainly am, sir.",
+    "duration": 3615,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 7,
+        "text": " Hi, John. I just called to say that I received my first shipment,"
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 12,
+        "text": " and as everything was advertised to make sure it was authentic,"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 17,
+        "text": " I'm supposed to get little blue pills with AGV written on them, and they were not."
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 20,
+        "text": " Okay. Well, the AGV pills are not blue. They're white, but I can help you, sir."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 22,
+        "text": " I need your name and zip code."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 27,
+        "text": " Okay. Sean Ford, 84065."
+      },
+      {
+        "id": 7,
+        "start": 27,
+        "end": 28,
+        "text": " Thank you."
+      },
+      {
+        "id": 8,
+        "start": 28,
+        "end": 31,
+        "text": " What is written on the pill, though?"
+      },
+      {
+        "id": 9,
+        "start": 31,
+        "end": 33,
+        "text": " 100."
+      },
+      {
+        "id": 10,
+        "start": 33,
+        "end": 38,
+        "text": " Okay. Yeah, that's the right pill. So the AGV would be a white diamond that says 100 on it."
+      },
+      {
+        "id": 11,
+        "start": 38,
+        "end": 41,
+        "text": " Why do they advertise that differently in the ads?"
+      },
+      {
+        "id": 12,
+        "start": 41,
+        "end": 43,
+        "text": " I don't know, sir. I'm not in charge of that, unfortunately."
+      },
+      {
+        "id": 13,
+        "start": 43,
+        "end": 50,
+        "text": " I don't like it as much as you don't, but the one you have is the AGV pill."
+      },
+      {
+        "id": 14,
+        "start": 50,
+        "end": 54,
+        "text": " Okay. Because they said if it's not blue and if it's not diamond, it says AGV."
+      },
+      {
+        "id": 15,
+        "start": 54,
+        "end": 56,
+        "text": " It's not authentic. That's what they say in the ads."
+      },
+      {
+        "id": 16,
+        "start": 56,
+        "end": 58,
+        "text": " No, it doesn't say anything about being blue, sir."
+      },
+      {
+        "id": 17,
+        "start": 58,
+        "end": 61,
+        "text": " We actually refer to it as white Viagra, but you have the right pill, sir."
+      },
+      {
+        "id": 18,
+        "start": 63,
+        "end": 66,
+        "text": " Boy, you're not a very good customer service agent."
+      },
+      {
+        "id": 19,
+        "start": 66,
+        "end": 67,
+        "text": " I certainly am, sir."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8165-af83-f12597410897",
+    "url": "https://www.notion.so/300000001217738-300000001707946-2f611d0a101c8165af83f12597410897"
+  },
+  "processedAt": "2026-01-28T14:43:09.089Z"
+}

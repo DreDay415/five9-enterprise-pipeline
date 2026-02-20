@@ -1,0 +1,134 @@
+{
+  "recording": {
+    "name": "300000001216700-300000001706030-7137032021 by olivier@superbalife.com @ 3_57_45 PM.wav",
+    "size": 132336,
+    "modifyTime": 1769583131000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216700-300000001706030-7137032021 by olivier@superbalife.com @ 3_57_45 PM.wav",
+    "uploadDate": "2026-01-28T06:52:11.000Z",
+    "callId": "300000001216700-300000001706030",
+    "agent": "olivier",
+    "phoneNumber": "7137032021",
+    "callTimestamp": "2026-01-28T15:57:45.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hello, Mr. Gibson?\n\nSpeaker 2: Yep, this is me.\n\nSpeaker 1: Yes, I just pulled your prescription.\n\nSpeaker 2: I see that you have a prescription from Dr. Sanderson for Viagra 100mg, 10 tablets, every 30 days.\n\nSpeaker 1: How can I help you, Mr. Gibson?\n\nSpeaker 2: Yeah, I want to cancel it.\n\nSpeaker 1: Any health concern, or you just don't need it every 30 days?\n\nSpeaker 2: No, I just don't want it anymore.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Alright, you have the possibility, because I have to tell you that, to pause the prescription so you can order as needed.\n\nSpeaker 1: So, we advise the pharmacy to stop the initial 30 days, 10 tablets, so you can just order as needed, maybe once or twice a year.\n\nSpeaker 2: No, no, no. I want you to cancel it.\n\nSpeaker 1: Alright, so I'm canceling the doctor's prescription.\n\nSpeaker 2: We advise of the price change.\n\nSpeaker 1: If the company takes your order, they're going to apply the cost of a new doctor consultation probably in the price, because we're losing that one right now.\n\nSpeaker 2: So, everything has been cancelled, and you're all set.\n\nSpeaker 1: Alright, thank you.\n\nSpeaker 2: Bye-bye.",
+    "duration": 2796,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hello, Mr. Gibson?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5,
+        "text": " Yep, this is me."
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 8,
+        "text": " Yes, I just pulled your prescription."
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 15,
+        "text": " I see that you have a prescription for Dr. Sanderson for Viagra 100mg, 10 tablets, every 30 days."
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 17,
+        "text": " How can I help you, Mr. Gibson?"
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 19,
+        "text": " Yeah, I want to cancel it."
+      },
+      {
+        "id": 6,
+        "start": 19,
+        "end": 23,
+        "text": " Any health concern, or you just don't need it every 30 days?"
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 26,
+        "text": " No, I just don't want it anymore."
+      },
+      {
+        "id": 8,
+        "start": 26,
+        "end": 28,
+        "text": " Okay."
+      },
+      {
+        "id": 9,
+        "start": 28,
+        "end": 36,
+        "text": " Alright, you have the possibility, because I have to tell you that, to pause the prescription so you can order as needed."
+      },
+      {
+        "id": 10,
+        "start": 36,
+        "end": 46,
+        "text": " So, we advise the pharmacy to stop the initial 30 days, 10 tablets, so you can just order as needed, maybe once or twice a year."
+      },
+      {
+        "id": 11,
+        "start": 46,
+        "end": 49,
+        "text": " No, no, no. I want you to cancel it."
+      },
+      {
+        "id": 12,
+        "start": 49,
+        "end": 53,
+        "text": " Alright, so I'm canceling the doctor's prescription."
+      },
+      {
+        "id": 13,
+        "start": 53,
+        "end": 55,
+        "text": " We advise of the price change."
+      },
+      {
+        "id": 14,
+        "start": 55,
+        "end": 64,
+        "text": " If the company takes your order, they're going to apply the cost of a new doctor consultation probably in the price, because we're losing that one right now."
+      },
+      {
+        "id": 15,
+        "start": 64,
+        "end": 68,
+        "text": " So, everything has been cancelled, and you're all set."
+      },
+      {
+        "id": 16,
+        "start": 68,
+        "end": 70,
+        "text": " Alright, thank you."
+      },
+      {
+        "id": 17,
+        "start": 70,
+        "end": 72,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-819c-9ca0-e6f1f5ed3377",
+    "url": "https://www.notion.so/300000001216700-300000001706030-2f611d0a101c819c9ca0e6f1f5ed3377"
+  },
+  "processedAt": "2026-01-28T16:37:07.058Z"
+}

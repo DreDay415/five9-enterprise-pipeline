@@ -1,0 +1,80 @@
+{
+  "recording": {
+    "name": "300000001220140-300000001709991-9892450429 by charles@superbalife.com @ 3_01_47 PM.wav",
+    "size": 117970,
+    "modifyTime": 1769554981000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220140-300000001709991-9892450429 by charles@superbalife.com @ 3_01_47 PM.wav",
+    "uploadDate": "2026-01-27T23:03:01.000Z",
+    "callId": "300000001220140-300000001709991",
+    "agent": "charles",
+    "phoneNumber": "9892450429",
+    "callTimestamp": "2026-01-27T15:01:47.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra. This is Charles.\n\nSpeaker 2: Yeah, I want to reorder what I had last time.\n\nSpeaker 1: Okay, I got Michael Miga. Yes. Okay, Bay City, Michigan, 1401 North Henry Street. Yes. All right. Looking for 40 pills again?\n\nSpeaker 2: Yes. Gotcha. Are we still charging on the Visa card ending in 9094 that expires on 11 of 27? Or do we need a new card?\n\nSpeaker 1: I got a new card, but I don't have it with me right now.\n\nSpeaker 2: Okay. Like at all, you don't have it with you? Or do you just need to go downstairs and get it?\n\nSpeaker 1: No, somebody took it, and they're gone. I don't know when they'll be back.\n\nSpeaker 2: Okay. Give us a call either later today. We're here for like another hour and a half today. If not, call us tomorrow morning, okay?\n\nSpeaker 1: All right. All right. All right, brother. Thank you.",
+    "duration": 2383,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 11,
+        "text": " Thanks for calling Viagra. This is Charles. Yeah, I want to reorder what I had last time."
+      },
+      {
+        "id": 1,
+        "start": 11,
+        "end": 23.15999984741211,
+        "text": " Okay, I got Michael Miga. Yes. Okay, Bay City, Michigan, 1401 North Henry Street. Yes. All"
+      },
+      {
+        "id": 2,
+        "start": 23.15999984741211,
+        "end": 32.84000015258789,
+        "text": " right. Looking for 40 pills again? Yes. Gotcha. Are we still charging on the Visa card ending"
+      },
+      {
+        "id": 3,
+        "start": 32.84000015258789,
+        "end": 42.52000045776367,
+        "text": " in 9094 that expires on 11 of 27? Or do we need a new card? I got a new card, but I don't"
+      },
+      {
+        "id": 4,
+        "start": 42.52000045776367,
+        "end": 49.47999954223633,
+        "text": " have it with me right now. Okay. Like at all, you don't have it with you? Or do you just"
+      },
+      {
+        "id": 5,
+        "start": 49.47999954223633,
+        "end": 56.599998474121094,
+        "text": " need to go downstairs and get it? No, somebody took it, and they're gone. I don't know when"
+      },
+      {
+        "id": 6,
+        "start": 56.599998474121094,
+        "end": 62.599998474121094,
+        "text": " they'll be back. Okay. Give us a call either later today. We're here for like another hour"
+      },
+      {
+        "id": 7,
+        "start": 62.599998474121094,
+        "end": 69.31999969482422,
+        "text": " and a half today. If not, call us tomorrow morning, okay? All right. All right. All right,"
+      },
+      {
+        "id": 8,
+        "start": 69.31999969482422,
+        "end": 70.12000274658203,
+        "text": " brother. Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8139-975d-cbc44785a81f",
+    "url": "https://www.notion.so/300000001220140-300000001709991-2f611d0a101c8139975dcbc44785a81f"
+  },
+  "processedAt": "2026-01-28T18:04:31.053Z"
+}

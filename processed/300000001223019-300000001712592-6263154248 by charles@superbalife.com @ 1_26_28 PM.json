@@ -1,0 +1,284 @@
+{
+  "recording": {
+    "name": "300000001223019-300000001712592-6263154248 by charles@superbalife.com @ 1_26_28 PM.wav",
+    "size": 235230,
+    "modifyTime": 1769722138000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223019-300000001712592-6263154248 by charles@superbalife.com @ 1_26_28 PM.wav",
+    "uploadDate": "2026-01-29T21:28:58.000Z",
+    "callId": "300000001223019-300000001712592",
+    "agent": "charles",
+    "phoneNumber": "6263154248",
+    "callTimestamp": "2026-01-29T13:26:28.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra. This is Charles.\n\nSpeaker 2: Yes. I'm calling to cancel my subscription.\n\nSpeaker 1: I don't think I subscribed to the Viagra, but somehow, you know, I got a subscription.\n\nSpeaker 2: So if you subscribe, I'd like to cancel it.\n\nSpeaker 1: Okay. I have Anthony Luck in Alhambra.\n\nSpeaker 2: Yes. Yes.\n\nSpeaker 1: Okay. It does look like you are a VIP member here.\n\nSpeaker 2: Are you way overstocked right now? You got too many?\n\nSpeaker 1: No, but I just find a better price somewhere else.\n\nSpeaker 2: So I want to cancel it.\n\nSpeaker 1: Is that right? Okay.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Well, really fast, I do see that you've been getting the generic Viagra.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Have you been seeing the Viagra AGV?\n\nSpeaker 2: It's a brand new formula that Pfizer invented that we have.\n\nSpeaker 1: I can't get it anywhere else.\n\nSpeaker 2: Yes, I understand.\n\nSpeaker 1: But I just decided to, you know, I tried the other one too.\n\nSpeaker 2: I mean, they work the same way.\n\nSpeaker 1: These ones that I'm talking about, really fast, Anthony,\n\nSpeaker 2: these ones activate within about 15 to 20 minutes.\n\nSpeaker 1: So I'm not telling this to you.\n\nSpeaker 2: I'm not telling this to you, brother.\n\nSpeaker 1: I want to see if I can send you a sample and see if this one is a\n\nSpeaker 2: better pill than the one that you've been getting.\n\nSpeaker 1: Because we are with Pfizer, so our stuff should be top notch.\n\nSpeaker 2: Okay.\n\nSpeaker 1: How much are those?\n\nSpeaker 2: You can get 10 pills for $63.95.\n\nSpeaker 1: But honestly, they are a really, really good pill.\n\nSpeaker 2: Okay.\n\nSpeaker 1: They're one of the better pills that's on the market today.\n\nSpeaker 2: Yeah, I understand.\n\nSpeaker 1: But I want you to go ahead and cancel my order.\n\nSpeaker 2: My subscription.\n\nSpeaker 1: Sounds good.\n\nSpeaker 2: All right.\n\nSpeaker 1: You're good.\n\nSpeaker 2: Have a good one.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye.",
+    "duration": 4424,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thanks for calling Viagra. This is Charles."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " Yes. I'm calling to cancel my subscription."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 16,
+        "text": " I don't think I subscribed to the Viagra, but somehow, you know, I got a subscription."
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 20,
+        "text": " So if you subscribe, I'd like to cancel it."
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 23,
+        "text": " Okay. I have Anthony Luck in Alhambra."
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 25,
+        "text": " Yes. Yes."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 27,
+        "text": " Okay. It does look like you are a VIP member here."
+      },
+      {
+        "id": 7,
+        "start": 27,
+        "end": 30,
+        "text": " Are you way overstocked right now? You got too many?"
+      },
+      {
+        "id": 8,
+        "start": 30,
+        "end": 38,
+        "text": " No, but I just find a better price somewhere else."
+      },
+      {
+        "id": 9,
+        "start": 38,
+        "end": 40,
+        "text": " So I want to cancel it."
+      },
+      {
+        "id": 10,
+        "start": 40,
+        "end": 42,
+        "text": " Is that right? Okay."
+      },
+      {
+        "id": 11,
+        "start": 42,
+        "end": 43,
+        "text": " Yes."
+      },
+      {
+        "id": 12,
+        "start": 43,
+        "end": 47,
+        "text": " Well, really fast, I do see that you've been getting the generic Viagra."
+      },
+      {
+        "id": 13,
+        "start": 47,
+        "end": 48,
+        "text": " Yes."
+      },
+      {
+        "id": 14,
+        "start": 48,
+        "end": 51,
+        "text": " Have you been seeing the Viagra AGV?"
+      },
+      {
+        "id": 15,
+        "start": 51,
+        "end": 54,
+        "text": " It's a brand new formula that Pfizer invented that we have."
+      },
+      {
+        "id": 16,
+        "start": 54,
+        "end": 56,
+        "text": " I can't get it anywhere else."
+      },
+      {
+        "id": 17,
+        "start": 56,
+        "end": 58,
+        "text": " Yes, I understand."
+      },
+      {
+        "id": 18,
+        "start": 58,
+        "end": 66,
+        "text": " But I just decided to, you know, I tried the other one too."
+      },
+      {
+        "id": 19,
+        "start": 66,
+        "end": 71,
+        "text": " I mean, they work the same way."
+      },
+      {
+        "id": 20,
+        "start": 71,
+        "end": 75,
+        "text": " These ones that I'm talking about, really fast, Anthony,"
+      },
+      {
+        "id": 21,
+        "start": 75,
+        "end": 78,
+        "text": " these ones activate within about 15 to 20 minutes."
+      },
+      {
+        "id": 22,
+        "start": 78,
+        "end": 80,
+        "text": " So I'm not telling this to you."
+      },
+      {
+        "id": 23,
+        "start": 80,
+        "end": 82,
+        "text": " I'm not telling this to you, brother."
+      },
+      {
+        "id": 24,
+        "start": 82,
+        "end": 86,
+        "text": " I want to see if I can send you a sample and see if this one is a"
+      },
+      {
+        "id": 25,
+        "start": 86,
+        "end": 88,
+        "text": " better pill than the one that you've been getting."
+      },
+      {
+        "id": 26,
+        "start": 88,
+        "end": 91,
+        "text": " Because we are with Pfizer, so our stuff should be top notch."
+      },
+      {
+        "id": 27,
+        "start": 91,
+        "end": 92,
+        "text": " Okay."
+      },
+      {
+        "id": 28,
+        "start": 92,
+        "end": 94,
+        "text": " How much are those?"
+      },
+      {
+        "id": 29,
+        "start": 94,
+        "end": 97,
+        "text": " You can get 10 pills for $63.95."
+      },
+      {
+        "id": 30,
+        "start": 97,
+        "end": 101,
+        "text": " But honestly, they are a really, really good pill."
+      },
+      {
+        "id": 31,
+        "start": 101,
+        "end": 102,
+        "text": " Okay."
+      },
+      {
+        "id": 32,
+        "start": 102,
+        "end": 104,
+        "text": " They're one of the better pills that's on the market today."
+      },
+      {
+        "id": 33,
+        "start": 104,
+        "end": 107,
+        "text": " Yeah, I understand."
+      },
+      {
+        "id": 34,
+        "start": 107,
+        "end": 109,
+        "text": " But I want you to go ahead and cancel my order."
+      },
+      {
+        "id": 35,
+        "start": 110,
+        "end": 111,
+        "text": " My subscription."
+      },
+      {
+        "id": 36,
+        "start": 111,
+        "end": 112,
+        "text": " Sounds good."
+      },
+      {
+        "id": 37,
+        "start": 112,
+        "end": 113,
+        "text": " All right."
+      },
+      {
+        "id": 38,
+        "start": 113,
+        "end": 114,
+        "text": " You're good."
+      },
+      {
+        "id": 39,
+        "start": 114,
+        "end": 115,
+        "text": " Have a good one."
+      },
+      {
+        "id": 40,
+        "start": 115,
+        "end": 116,
+        "text": " Thank you."
+      },
+      {
+        "id": 41,
+        "start": 116,
+        "end": 117,
+        "text": " Bye."
+      },
+      {
+        "id": 42,
+        "start": 139,
+        "end": 141,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81c1-937d-f1d3aaaf2d08",
+    "url": "https://www.notion.so/300000001223019-300000001712592-2f711d0a101c81c1937df1d3aaaf2d08"
+  },
+  "processedAt": "2026-01-29T21:45:05.967Z"
+}

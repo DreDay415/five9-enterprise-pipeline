@@ -1,0 +1,476 @@
+{
+  "recording": {
+    "name": "300000001220477-300000001710533-8014256667 by olivier@superbalife.com @ 8_30_15 AM.wav",
+    "size": 336176,
+    "modifyTime": 1769618043000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220477-300000001710533-8014256667 by olivier@superbalife.com @ 8_30_15 AM.wav",
+    "uploadDate": "2026-01-28T16:34:03.000Z",
+    "callId": "300000001220477-300000001710533",
+    "agent": "olivier",
+    "phoneNumber": "8014256667",
+    "callTimestamp": "2026-01-28T08:30:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Yes, hello?\n\nSpeaker 1: Hello, how are we doing, sir?\n\nSpeaker 2: Okay, my name is Wayne Larson.\n\nSpeaker 1: I'm getting a monthly prescription from you, which I need to cancel.\n\nSpeaker 2: Okay, yeah, Mr. Larson, yeah.\n\nSpeaker 1: I see you have Viagra AGV.\n\nSpeaker 2: We sent you a replacement, 50 mg, and it just got to your refill.\n\nSpeaker 1: If you don't need it, you could pause your prescription up to half a year and just reorder as needed.\n\nSpeaker 2: Okay.\n\nSpeaker 1: You don't have to lose it.\n\nSpeaker 2: All right.\n\nSpeaker 1: That would unlock your price in.\n\nSpeaker 2: Your price is locked in.\n\nSpeaker 1: You don't pay a new price when you try to reorder.\n\nSpeaker 2: You know what I'm saying?\n\nSpeaker 1: Okay, that's fine.\n\nSpeaker 2: I'm willing to pause it.\n\nSpeaker 1: Did I just tell you that, or what else?\n\nSpeaker 2: Yeah, yeah, yeah.\n\nSpeaker 1: I can pause it for you.\n\nSpeaker 2: You think how long you want to pause it?\n\nSpeaker 1: The maximum, or you want it for 90 days?\n\nSpeaker 2: Just pause it indefinitely, and if I move back to it, I'll give you a call.\n\nSpeaker 1: Okay, so I'm going to pause.\n\nSpeaker 2: They pause you up to half a year, so you don't get monthly.\n\nSpeaker 1: You can call to reorder.\n\nSpeaker 2: You can get your refill once.\n\nSpeaker 1: They just lock your price in, right?\n\nSpeaker 2: They just require you to get your refill once a year to guarantee your price.\n\nSpeaker 1: Why don't we just cancel it?\n\nSpeaker 2: It doesn't work for me.\n\nSpeaker 1: Oh, it doesn't work for you?\n\nSpeaker 2: It doesn't work.\n\nSpeaker 1: It starts to work, but it never gets to a full erection.\n\nSpeaker 2: How many times did you take it?\n\nSpeaker 1: Oh, several times, yeah.\n\nSpeaker 2: Several times.\n\nSpeaker 1: Three or four times.\n\nSpeaker 2: It's the same result every time.\n\nSpeaker 1: It's almost there, but not there.\n\nSpeaker 2: I mean, if it starts you, that means there is something maybe you need to keep using.\n\nSpeaker 1: It usually improves.\n\nSpeaker 2: That's what some patients say, that, you know, as they micro-dose it, and everything is getting better.\n\nSpeaker 1: Because if you did have no reaction, I would say, oh, that's kind of critical.\n\nSpeaker 2: But if you get something, that means we're in good shape.\n\nSpeaker 1: We're in good shape.\n\nSpeaker 2: Okay, well, why don't we pause it for six months?\n\nSpeaker 1: I still have a bunch of them, so I can try a few more times,\n\nSpeaker 2: and I'll call you if I decide that I want it monthly.\n\nSpeaker 1: No, you don't have to get it monthly either.\n\nSpeaker 2: You can get it every 90 days, three months.\n\nSpeaker 1: You see what I'm saying?\n\nSpeaker 2: You don't have to get it every month.\n\nSpeaker 1: There's no requirement for you.\n\nSpeaker 2: So you just tell us the frequency that you think might be okay for you, and that's what we're going to do.\n\nSpeaker 1: Why don't we pause it for 90 days, and I'll get back to you.\n\nSpeaker 2: Yes, and then, you know, if you still have some, you can even let us know, hey, you know what?\n\nSpeaker 1: I need to be paused longer.\n\nSpeaker 2: I still have some left, you know.\n\nSpeaker 1: You're not required to get it as often, you know.\n\nSpeaker 2: Okay, fine.\n\nSpeaker 1: You can get it once or twice a year or more if you need more.\n\nSpeaker 2: Get it more, you know.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So let's pause it for now for 90 days, and I'll be back in touch if I want more.\n\nSpeaker 1: Okay, amazing.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thank you, Mr. Larson, and thank you for calling.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Everything has been updated, and you're all set.\n\nSpeaker 2: All righty.\n\nSpeaker 1: Thanks very much.\n\nSpeaker 2: Yes, you have a good one.\n\nSpeaker 1: Bye-bye.",
+    "duration": 11123,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Yes, hello?"
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 8,
+        "text": " Hello, how are we doing, sir?"
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 14,
+        "text": " Okay, my name is Wayne Larson."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 20,
+        "text": " I'm getting a monthly prescription from you, which I need to cancel."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 22,
+        "text": " Okay, yeah, Mr. Larson, yeah."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 24,
+        "text": " I see you have Viagra AGV."
+      },
+      {
+        "id": 7,
+        "start": 24,
+        "end": 29,
+        "text": " We sent you a replacement, 50 mg, and it just got to your refill."
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 37,
+        "text": " If you don't need it, you could pause your prescription up to half a year and just reorder as needed."
+      },
+      {
+        "id": 9,
+        "start": 37,
+        "end": 39,
+        "text": " Okay."
+      },
+      {
+        "id": 10,
+        "start": 39,
+        "end": 41,
+        "text": " You don't have to lose it."
+      },
+      {
+        "id": 11,
+        "start": 41,
+        "end": 43,
+        "text": " All right."
+      },
+      {
+        "id": 12,
+        "start": 43,
+        "end": 45,
+        "text": " That would unlock your price in."
+      },
+      {
+        "id": 13,
+        "start": 45,
+        "end": 47,
+        "text": " Your price is locked in."
+      },
+      {
+        "id": 14,
+        "start": 47,
+        "end": 49,
+        "text": " You don't pay a new price when you try to reorder."
+      },
+      {
+        "id": 15,
+        "start": 49,
+        "end": 51,
+        "text": " You know what I'm saying?"
+      },
+      {
+        "id": 16,
+        "start": 51,
+        "end": 53,
+        "text": " Okay, that's fine."
+      },
+      {
+        "id": 17,
+        "start": 53,
+        "end": 55,
+        "text": " I'm willing to pause it."
+      },
+      {
+        "id": 18,
+        "start": 55,
+        "end": 57,
+        "text": " Did I just tell you that, or what else?"
+      },
+      {
+        "id": 19,
+        "start": 57,
+        "end": 59,
+        "text": " Yeah, yeah, yeah."
+      },
+      {
+        "id": 20,
+        "start": 59,
+        "end": 61,
+        "text": " I can pause it for you."
+      },
+      {
+        "id": 21,
+        "start": 61,
+        "end": 63,
+        "text": " You think how long you want to pause it?"
+      },
+      {
+        "id": 22,
+        "start": 63,
+        "end": 65,
+        "text": " The maximum, or you want it for 90 days?"
+      },
+      {
+        "id": 23,
+        "start": 65,
+        "end": 71,
+        "text": " Just pause it indefinitely, and if I move back to it, I'll give you a call."
+      },
+      {
+        "id": 24,
+        "start": 71,
+        "end": 73,
+        "text": " Okay, so I'm going to pause."
+      },
+      {
+        "id": 25,
+        "start": 73,
+        "end": 75,
+        "text": " They pause you up to half a year, so you don't get monthly."
+      },
+      {
+        "id": 26,
+        "start": 75,
+        "end": 77,
+        "text": " You can call to reorder."
+      },
+      {
+        "id": 27,
+        "start": 77,
+        "end": 79,
+        "text": " You can get your refill once."
+      },
+      {
+        "id": 28,
+        "start": 79,
+        "end": 81,
+        "text": " They just lock your price in, right?"
+      },
+      {
+        "id": 29,
+        "start": 81,
+        "end": 85,
+        "text": " They just require you to get your refill once a year to guarantee your price."
+      },
+      {
+        "id": 30,
+        "start": 85,
+        "end": 87,
+        "text": " Why don't we just cancel it?"
+      },
+      {
+        "id": 31,
+        "start": 87,
+        "end": 89,
+        "text": " It doesn't work for me."
+      },
+      {
+        "id": 32,
+        "start": 89,
+        "end": 91,
+        "text": " Oh, it doesn't work for you?"
+      },
+      {
+        "id": 33,
+        "start": 91,
+        "end": 93,
+        "text": " It doesn't work."
+      },
+      {
+        "id": 34,
+        "start": 93,
+        "end": 97,
+        "text": " It starts to work, but it never gets to a full erection."
+      },
+      {
+        "id": 35,
+        "start": 97,
+        "end": 99,
+        "text": " How many times did you take it?"
+      },
+      {
+        "id": 36,
+        "start": 99,
+        "end": 103,
+        "text": " Oh, several times, yeah."
+      },
+      {
+        "id": 37,
+        "start": 103,
+        "end": 105,
+        "text": " Several times."
+      },
+      {
+        "id": 38,
+        "start": 105,
+        "end": 107,
+        "text": " Three or four times."
+      },
+      {
+        "id": 39,
+        "start": 107,
+        "end": 109,
+        "text": " It's the same result every time."
+      },
+      {
+        "id": 40,
+        "start": 109,
+        "end": 111,
+        "text": " It's almost there, but not there."
+      },
+      {
+        "id": 41,
+        "start": 111,
+        "end": 117,
+        "text": " I mean, if it starts you, that means there is something maybe you need to keep using."
+      },
+      {
+        "id": 42,
+        "start": 117,
+        "end": 119,
+        "text": " It usually improves."
+      },
+      {
+        "id": 43,
+        "start": 119,
+        "end": 123,
+        "text": " That's what some patients say, that, you know, as they micro-dose it, and everything is getting better."
+      },
+      {
+        "id": 44,
+        "start": 123,
+        "end": 127,
+        "text": " Because if you did have no reaction, I would say, oh, that's kind of critical."
+      },
+      {
+        "id": 45,
+        "start": 127,
+        "end": 131,
+        "text": " But if you get something, that means we're in good shape."
+      },
+      {
+        "id": 46,
+        "start": 131,
+        "end": 133,
+        "text": " We're in good shape."
+      },
+      {
+        "id": 47,
+        "start": 133,
+        "end": 135,
+        "text": " Okay, well, why don't we pause it for six months?"
+      },
+      {
+        "id": 48,
+        "start": 135,
+        "end": 139,
+        "text": " I still have a bunch of them, so I can try a few more times,"
+      },
+      {
+        "id": 49,
+        "start": 139,
+        "end": 143,
+        "text": " and I'll call you if I decide that I want it monthly."
+      },
+      {
+        "id": 50,
+        "start": 143,
+        "end": 145,
+        "text": " No, you don't have to get it monthly either."
+      },
+      {
+        "id": 51,
+        "start": 145,
+        "end": 147,
+        "text": " You can get it every 90 days, three months."
+      },
+      {
+        "id": 52,
+        "start": 147,
+        "end": 149,
+        "text": " You see what I'm saying?"
+      },
+      {
+        "id": 53,
+        "start": 149,
+        "end": 151,
+        "text": " You don't have to get it every month."
+      },
+      {
+        "id": 54,
+        "start": 151,
+        "end": 153,
+        "text": " There's no requirement for you."
+      },
+      {
+        "id": 55,
+        "start": 153,
+        "end": 157,
+        "text": " So you just tell us the frequency that you think might be okay for you, and that's what we're going to do."
+      },
+      {
+        "id": 56,
+        "start": 157,
+        "end": 165,
+        "text": " Why don't we pause it for 90 days, and I'll get back to you."
+      },
+      {
+        "id": 57,
+        "start": 165,
+        "end": 171,
+        "text": " Yes, and then, you know, if you still have some, you can even let us know, hey, you know what?"
+      },
+      {
+        "id": 58,
+        "start": 171,
+        "end": 173,
+        "text": " I need to be paused longer."
+      },
+      {
+        "id": 59,
+        "start": 173,
+        "end": 175,
+        "text": " I still have some left, you know."
+      },
+      {
+        "id": 60,
+        "start": 175,
+        "end": 177,
+        "text": " You're not required to get it as often, you know."
+      },
+      {
+        "id": 61,
+        "start": 177,
+        "end": 179,
+        "text": " Okay, fine."
+      },
+      {
+        "id": 62,
+        "start": 179,
+        "end": 181,
+        "text": " You can get it once or twice a year or more if you need more."
+      },
+      {
+        "id": 63,
+        "start": 181,
+        "end": 183,
+        "text": " Get it more, you know."
+      },
+      {
+        "id": 64,
+        "start": 183,
+        "end": 185,
+        "text": " Okay."
+      },
+      {
+        "id": 65,
+        "start": 185,
+        "end": 189,
+        "text": " So let's pause it for now for 90 days, and I'll be back in touch if I want more."
+      },
+      {
+        "id": 66,
+        "start": 189,
+        "end": 191,
+        "text": " Okay, amazing."
+      },
+      {
+        "id": 67,
+        "start": 191,
+        "end": 193,
+        "text": " All right."
+      },
+      {
+        "id": 68,
+        "start": 193,
+        "end": 197,
+        "text": " Thank you, Mr. Larson, and thank you for calling."
+      },
+      {
+        "id": 69,
+        "start": 197,
+        "end": 199,
+        "text": " Yeah."
+      },
+      {
+        "id": 70,
+        "start": 199,
+        "end": 201,
+        "text": " Everything has been updated, and you're all set."
+      },
+      {
+        "id": 71,
+        "start": 201,
+        "end": 203,
+        "text": " All righty."
+      },
+      {
+        "id": 72,
+        "start": 203,
+        "end": 205,
+        "text": " Thanks very much."
+      },
+      {
+        "id": 73,
+        "start": 205,
+        "end": 207,
+        "text": " Yes, you have a good one."
+      },
+      {
+        "id": 74,
+        "start": 207,
+        "end": 209,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81f1-9d4e-d18e510a4615",
+    "url": "https://www.notion.so/300000001220477-300000001710533-2f611d0a101c81f19d4ed18e510a4615"
+  },
+  "processedAt": "2026-01-28T19:00:49.963Z"
+}

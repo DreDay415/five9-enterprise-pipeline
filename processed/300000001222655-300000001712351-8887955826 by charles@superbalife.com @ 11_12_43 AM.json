@@ -1,0 +1,98 @@
+{
+  "recording": {
+    "name": "300000001222655-300000001712351-8887955826 by charles@superbalife.com @ 11_12_43 AM.wav",
+    "size": 173740,
+    "modifyTime": 1769714075000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222655-300000001712351-8887955826 by charles@superbalife.com @ 11_12_43 AM.wav",
+    "uploadDate": "2026-01-29T19:14:35.000Z",
+    "callId": "300000001222655-300000001712351",
+    "agent": "charles",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-29T11:12:43.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: My name is Jose Rios and my birthdate is 2/3/55 and your zip code please?\n\nSpeaker 2: 11372. You said Reyes?\n\nSpeaker 1: With a Z or an S?\n\nSpeaker 2: Rios, R-I-O-S.\n\nSpeaker 1: Oh, Rios, sorry. Yep. 2, 3, you said February 3rd, 1955?\n\nSpeaker 2: Yes, exactly.\n\nSpeaker 1: Okay, what was the zip code one more time, I'm sorry?\n\nSpeaker 2: 11372.\n\nSpeaker 1: Okay, gotcha, right there.\n\nSpeaker 2: Okay, Jackson Heights, New York, right?\n\nSpeaker 1: Exactly.\n\nSpeaker 2: Okay, looks like you're a VIP member here.\n\nSpeaker 1: Yeah, the reason that I'm calling you is because I'm moving overseas. I'm going\n\nSpeaker 2: to live in Italy and by the 20th of this month, coming February. So I would like to close\n\nSpeaker 1: my account because there is no way that I'm going to be getting that.\n\nSpeaker 2: Yeah, fair enough. Always wanted to do that myself, so best of luck to you on your adventures, all right?\n\nSpeaker 1: I will enjoy that. My son lives in there, that's the reason why I'm moving there.\n\nSpeaker 2: Awesome, that's awesome. All righty then brother, I hope you have a great one. Thank you so much.\n\nSpeaker 1: So my account's closed already?\n\nSpeaker 2: Completely closed, yes sir.\n\nSpeaker 1: Thank you so much, I really appreciate your help.\n\nSpeaker 2: Absolutely, take care.\n\nSpeaker 1: Oh, you too, thank you. Bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 4571,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 24.200000762939453,
+        "text": " My name is Jose Rios and my birthdate is 2355 and your zip code please 11372 you said Reyes"
+      },
+      {
+        "id": 1,
+        "start": 24.200000762939453,
+        "end": 34.599998474121094,
+        "text": " with a Z or a S? Rios, R-I-O-S. Oh Rios, sorry. Yep. 2, 3, you said February 3rd, 1955? Yes,"
+      },
+      {
+        "id": 2,
+        "start": 34.599998474121094,
+        "end": 46.91999816894531,
+        "text": " exactly. Okay, what was the zip code one more time, I'm sorry? 11372. Okay, gotcha, right"
+      },
+      {
+        "id": 3,
+        "start": 46.91999816894531,
+        "end": 57.959999084472656,
+        "text": " there. Okay, Jackson Heights, New York, right? Exactly. Okay, looks like you're a VIP member"
+      },
+      {
+        "id": 4,
+        "start": 57.959999084472656,
+        "end": 66,
+        "text": " here. Yeah, the reason that I'm calling you is because I'm moving overseas. I'm going"
+      },
+      {
+        "id": 5,
+        "start": 66,
+        "end": 73.83999633789062,
+        "text": " to live in Italy and by the 20th of this month, coming February. So I would like to close"
+      },
+      {
+        "id": 6,
+        "start": 73.83999633789062,
+        "end": 80.04000091552734,
+        "text": " my account because there is no way that I'm going to be getting that. Yeah, fair enough."
+      },
+      {
+        "id": 7,
+        "start": 80.04000091552734,
+        "end": 85.63999938964844,
+        "text": " Always wanted to do that myself, so best of luck to you on your adventures, all right?"
+      },
+      {
+        "id": 8,
+        "start": 85.63999938964844,
+        "end": 90.08000183105469,
+        "text": " I will enjoy that. My son lives in there, that's the reason why I'm moving there. Awesome,"
+      },
+      {
+        "id": 9,
+        "start": 90.08000183105469,
+        "end": 94.63999938964844,
+        "text": " that's awesome. All righty then brother, I hope you have a great one. Thank you so much."
+      },
+      {
+        "id": 10,
+        "start": 94.63999938964844,
+        "end": 100,
+        "text": " So my account's closed already? Completely closed, yes sir. Thank you so much, I really"
+      },
+      {
+        "id": 11,
+        "start": 100,
+        "end": 105.83999633789062,
+        "text": " appreciate your help. Absolutely, take care. Oh, you too, thank you. Bye-bye. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8139-a5cf-e8385647e896",
+    "url": "https://www.notion.so/300000001222655-300000001712351-2f711d0a101c8139a5cfe8385647e896"
+  },
+  "processedAt": "2026-01-29T22:00:57.191Z"
+}

@@ -1,0 +1,128 @@
+{
+  "recording": {
+    "name": "300000001216531-300000001705937-9852941350 by josimar@superbalife.com @ 2_32_50 PM.wav",
+    "size": 75136,
+    "modifyTime": 1769588829000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216531-300000001705937-9852941350 by josimar@superbalife.com @ 2_32_50 PM.wav",
+    "uploadDate": "2026-01-28T08:27:09.000Z",
+    "callId": "300000001216531-300000001705937",
+    "agent": "josimar",
+    "phoneNumber": "9852941350",
+    "callTimestamp": "2026-01-28T14:32:50.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, how can I help you today?\n\nSpeaker 2: This is Robert Brandon and I was calling to try to get a repair on the bag.\n\nSpeaker 1: Yeah, what's your zip code, sir?\n\nSpeaker 2: Uh, 70427, is that right?\n\nSpeaker 1: I really can't understand you too well, sir.\n\nSpeaker 2: Maybe is it, are you further from the phone or so?\n\nSpeaker 1: Huh?\n\nSpeaker 2: I can't really understand you, sir.\n\nSpeaker 1: Can you repeat that one more time?\n\nSpeaker 2: Oh, what's up with you?\n\nSpeaker 1: Hang on, I'm gonna help you with that.\n\nSpeaker 2: What's up with you?\n\nSpeaker 1: I'm just trying to figure out what's going on.\n\nSpeaker 2: What's up?\n\nSpeaker 1: It's Robert.\n\nSpeaker 2: What's the matter with you?\n\nSpeaker 1: I don't know what you're talking about.",
+    "duration": 3967,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Viagra, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 9,
+        "text": " This is Robert Brandon and I was calling to try to get a repair on the bag."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 13,
+        "text": " Yeah, what's your zip code, sir?"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 17,
+        "text": " Uh, 70427, is that right?"
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 19,
+        "text": " I really can't understand you too well, sir."
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 23,
+        "text": " Maybe is it, are you further from the phone or so?"
+      },
+      {
+        "id": 6,
+        "start": 23,
+        "end": 24,
+        "text": " Huh?"
+      },
+      {
+        "id": 7,
+        "start": 24,
+        "end": 26,
+        "text": " I can't really understand you, sir."
+      },
+      {
+        "id": 8,
+        "start": 26,
+        "end": 29,
+        "text": " Can you repeat that one more time?"
+      },
+      {
+        "id": 9,
+        "start": 29,
+        "end": 32,
+        "text": " Oh, what's up with you?"
+      },
+      {
+        "id": 10,
+        "start": 32,
+        "end": 35,
+        "text": " Hang on, I'm gonna help you with that."
+      },
+      {
+        "id": 11,
+        "start": 35,
+        "end": 37,
+        "text": " What's up with you?"
+      },
+      {
+        "id": 12,
+        "start": 37,
+        "end": 40,
+        "text": " I'm just trying to figure out what's going on."
+      },
+      {
+        "id": 13,
+        "start": 40,
+        "end": 42,
+        "text": " What's up?"
+      },
+      {
+        "id": 14,
+        "start": 42,
+        "end": 44,
+        "text": " It's Robert."
+      },
+      {
+        "id": 15,
+        "start": 44,
+        "end": 45,
+        "text": " What's the matter with you?"
+      },
+      {
+        "id": 16,
+        "start": 45,
+        "end": 46,
+        "text": " I don't know what you're talking about."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81c6-8a2f-dc9273281caa",
+    "url": "https://www.notion.so/300000001216531-300000001705937-2f611d0a101c81c68a2fdc9273281caa"
+  },
+  "processedAt": "2026-01-28T13:04:59.395Z"
+}

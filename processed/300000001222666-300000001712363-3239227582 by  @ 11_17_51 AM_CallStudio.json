@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001222666-300000001712363-3239227582 by  @ 11_17_51 AM_CallStudio.wav",
+    "size": 28140,
+    "modifyTime": 1769714311000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222666-300000001712363-3239227582 by  @ 11_17_51 AM_CallStudio.wav",
+    "uploadDate": "2026-01-29T19:18:31.000Z",
+    "callId": "300000001222666-300000001712363",
+    "phoneNumber": "3239227582",
+    "callTimestamp": "2026-01-29T19:18:31.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español Marque Numero Nueve.\n\nSpeaker 2: I want to know why, how to take you to.",
+    "duration": 864,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.239999771118164,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.239999771118164,
+        "end": 6.239999771118164,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.239999771118164,
+        "end": 11.680000305175781,
+        "text": " Para Español Marque Numero Nueve."
+      },
+      {
+        "id": 3,
+        "start": 11.680000305175781,
+        "end": 16.920000076293945,
+        "text": " I want to know why, how to take you to."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81e4-bd79-f85e0a7ca444",
+    "url": "https://www.notion.so/300000001222666-300000001712363-2f711d0a101c81e4bd79f85e0a7ca444"
+  },
+  "processedAt": "2026-01-29T22:00:27.989Z"
+}

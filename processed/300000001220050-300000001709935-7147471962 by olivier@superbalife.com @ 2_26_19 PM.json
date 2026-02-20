@@ -1,0 +1,128 @@
+{
+  "recording": {
+    "name": "300000001220050-300000001709935-7147471962 by olivier@superbalife.com @ 2_26_19 PM.wav",
+    "size": 119140,
+    "modifyTime": 1769552873000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220050-300000001709935-7147471962 by olivier@superbalife.com @ 2_26_19 PM.wav",
+    "uploadDate": "2026-01-27T22:27:53.000Z",
+    "callId": "300000001220050-300000001709935",
+    "agent": "olivier",
+    "phoneNumber": "7147471962",
+    "callTimestamp": "2026-01-27T14:26:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Richard. I don't have Score Blue. I canceled it like months and months and months ago.\n\nSpeaker 2: And now you guys are charging me $63. I need that removed.\n\nSpeaker 1: Okay, let's fix it. Oh yeah, I see what happened. So Mr. Cooper?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Yeah, so what happened was in July you paused your account for six months and I think you were up for a refill, but I can reverse that for you, okay, if you're still not ready.\n\nSpeaker 2: Yeah, I canceled it a long time ago.\n\nSpeaker 1: Okay, and you don't want to pause it to reorder?\n\nSpeaker 2: No, I don't want anything to do with it. Just please cancel it and reverse the charge.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay. Yeah, so you're going to receive your refund of $63.95. I canceled everything. Just keep in mind if you try to reorder, the price will be different. They're going to have to get you a new doctor or consultation, which has a cost. So you're all set.\n\nSpeaker 2: Okay, great. Thank you.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 3541,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 10.520000457763672,
+        "text": " Hi, this is Richard. I don't have score blue. I canceled it like months and months and months"
+      },
+      {
+        "id": 1,
+        "start": 10.520000457763672,
+        "end": 14,
+        "text": " ago and now you guys are charging me $63. I need that removed."
+      },
+      {
+        "id": 2,
+        "start": 14,
+        "end": 25,
+        "text": " Okay, let's fix it. Oh yeah, I see what happened. So Mr. Cooper?"
+      },
+      {
+        "id": 3,
+        "start": 25,
+        "end": 26,
+        "text": " Yes."
+      },
+      {
+        "id": 4,
+        "start": 26,
+        "end": 33.2400016784668,
+        "text": " Yeah, so what happened was on July you paused your account for six months and I think you"
+      },
+      {
+        "id": 5,
+        "start": 33.2400016784668,
+        "end": 38,
+        "text": " were up for a refill, but I can reverse that for you, okay, if you're still not ready."
+      },
+      {
+        "id": 6,
+        "start": 38,
+        "end": 42,
+        "text": " Yeah, I canceled it a long time ago."
+      },
+      {
+        "id": 7,
+        "start": 42,
+        "end": 46,
+        "text": " Okay, and you don't want to pause it to reorder?"
+      },
+      {
+        "id": 8,
+        "start": 46,
+        "end": 51,
+        "text": " No, I don't want anything to do with it. Just please cancel it and reverse the charge."
+      },
+      {
+        "id": 9,
+        "start": 51,
+        "end": 53,
+        "text": " All right."
+      },
+      {
+        "id": 10,
+        "start": 53,
+        "end": 55,
+        "text": " Thank you."
+      },
+      {
+        "id": 11,
+        "start": 55,
+        "end": 60,
+        "text": " Okay. Yeah, so you're going to receive your refund $63.95. I canceled everything. Just"
+      },
+      {
+        "id": 12,
+        "start": 60,
+        "end": 65,
+        "text": " keep in mind if you try to reorder, price will be different. They're going to have to"
+      },
+      {
+        "id": 13,
+        "start": 65,
+        "end": 69,
+        "text": " get you a new doctor or consultation, which has a cost. So you're all set."
+      },
+      {
+        "id": 14,
+        "start": 69,
+        "end": 71,
+        "text": " Okay, great. Thank you."
+      },
+      {
+        "id": 15,
+        "start": 71,
+        "end": 72,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 16,
+        "start": 72,
+        "end": 73,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-81f3-b894-ca6858932b3e",
+    "url": "https://www.notion.so/300000001220050-300000001709935-2f511d0a101c81f3b894ca6858932b3e"
+  },
+  "processedAt": "2026-01-27T23:01:40.290Z"
+}

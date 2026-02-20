@@ -1,0 +1,152 @@
+{
+  "recording": {
+    "name": "300000001216147-300000001705675-9092408048 by olivier@superbalife.com @ 12_21_56 PM.wav",
+    "size": 136560,
+    "modifyTime": 1769600529000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216147-300000001705675-9092408048 by olivier@superbalife.com @ 12_21_56 PM.wav",
+    "uploadDate": "2026-01-28T11:42:09.000Z",
+    "callId": "300000001216147-300000001705675",
+    "agent": "olivier",
+    "phoneNumber": "9092408048",
+    "callTimestamp": "2026-01-28T12:21:56.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Hey, how are you doing, sir? My name is Robert Estrella.\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: I'm sorry. My name is Robert Estrella. I just ordered today, the first order.\n\nSpeaker 1: Am I supposed to wait for some type of teleconference doctor's visit, or is it going to automatically be sent out?\n\nSpeaker 2: No, they're going to evaluate your medical survey, the medical information you provided to the questioner,\n\nSpeaker 1: and they're going to write a prescription, because it gives an overall idea of your health,\n\nSpeaker 2: so they know if it's safe for you to take Viagra or not, and they'll write the prescription.\n\nSpeaker 1: But I can already tell you that I think everything was good, because I see the doctor already wrote the prescription,\n\nSpeaker 2: so the pharmacy has it, so it's going to take two to five business days to get to you.\n\nSpeaker 1: Mr. Robert Estrella on Redland, California, right?\n\nSpeaker 2: That is correct, sir.\n\nSpeaker 1: Yeah, so you are approved by the doctor, so you probably have your health in general pretty okay,\n\nSpeaker 2: so they wrote the prescription already, so two to five business days.\n\nSpeaker 1: Keep in mind, we have the weekend, so maybe sometime next week.\n\nSpeaker 2: Yeah, got it. Okay.\n\nSpeaker 1: All right, I just want to know, I don't know if I was making a teleconference call, but okay, I appreciate your help.\n\nSpeaker 2: Thank you very much. You've been very helpful, sir. Thank you.\n\nSpeaker 1: You're welcome. Bye-bye.\n\nSpeaker 2: You have a good day. Bye-bye.\n\nSpeaker 1: You too. Bye-bye.",
+    "duration": 4584,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 6,
+        "text": " Hey, how are you doing, sir? My name is Robert Estrella."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 8,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 16,
+        "text": " I'm sorry. My name is Robert Estrella. I just ordered today, the first order."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 24,
+        "text": " Am I supposed to wait for some type of teleconference doctor's visit, or is it going to automatically be sent out?"
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 32,
+        "text": " No, they're going to evaluate your medical survey, the medical information you provided to the questioner,"
+      },
+      {
+        "id": 6,
+        "start": 32,
+        "end": 38,
+        "text": " and they're going to write a prescription, because it gives an overall idea of your health,"
+      },
+      {
+        "id": 7,
+        "start": 38,
+        "end": 43,
+        "text": " so they know if it's safe for you to take Viagra or not, and they'll write the prescription."
+      },
+      {
+        "id": 8,
+        "start": 43,
+        "end": 49,
+        "text": " But I can already tell you that I think everything was good, because I see the doctor already wrote the prescription,"
+      },
+      {
+        "id": 9,
+        "start": 49,
+        "end": 53,
+        "text": " so the pharmacy has it, so it's going to take two to five business days to get to you."
+      },
+      {
+        "id": 10,
+        "start": 53,
+        "end": 56,
+        "text": " Mr. Robert Estrella on Redland, California, right?"
+      },
+      {
+        "id": 11,
+        "start": 56,
+        "end": 58,
+        "text": " That is correct, sir."
+      },
+      {
+        "id": 12,
+        "start": 58,
+        "end": 63,
+        "text": " Yeah, so you are approved by the doctor, so you probably have your health in general pretty okay,"
+      },
+      {
+        "id": 13,
+        "start": 63,
+        "end": 67,
+        "text": " so they wrote the prescription already, so two to five business days."
+      },
+      {
+        "id": 14,
+        "start": 67,
+        "end": 71,
+        "text": " Keep in mind, we have the weekend, so maybe sometime next week."
+      },
+      {
+        "id": 15,
+        "start": 71,
+        "end": 73,
+        "text": " Yeah, got it. Okay."
+      },
+      {
+        "id": 16,
+        "start": 73,
+        "end": 78,
+        "text": " All right, I just want to know, I don't know if I was making a teleconference call, but okay, I appreciate your help."
+      },
+      {
+        "id": 17,
+        "start": 78,
+        "end": 80,
+        "text": " Thank you very much. You've been very helpful, sir. Thank you."
+      },
+      {
+        "id": 18,
+        "start": 80,
+        "end": 81,
+        "text": " You're welcome. Bye-bye."
+      },
+      {
+        "id": 19,
+        "start": 81,
+        "end": 82,
+        "text": " You have a good day. Bye-bye."
+      },
+      {
+        "id": 20,
+        "start": 82,
+        "end": 84,
+        "text": " You too. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81d4-987d-d16314739383",
+    "url": "https://www.notion.so/300000001216147-300000001705675-2f611d0a101c81d4987dd16314739383"
+  },
+  "processedAt": "2026-01-28T19:11:37.036Z"
+}

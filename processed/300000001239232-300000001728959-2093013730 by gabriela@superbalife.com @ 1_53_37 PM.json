@@ -1,0 +1,242 @@
+{
+  "recording": {
+    "name": "300000001239232-300000001728959-2093013730 by gabriela@superbalife.com @ 1_53_37 PM.wav",
+    "size": 243810,
+    "modifyTime": 1770846990000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239232-300000001728959-2093013730 by gabriela@superbalife.com @ 1_53_37 PM.wav",
+    "uploadDate": "2026-02-11T21:56:30.000Z",
+    "callId": "300000001239232-300000001728959",
+    "agent": "gabriela",
+    "phoneNumber": "2093013730",
+    "callTimestamp": "2026-02-11T13:53:37.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Yes, I want to cancel my subscription.\n\nSpeaker 1: Okay, what is your name and date of birth?\n\nSpeaker 2: Corey, C-O-R-E-Y, and V as in Victor, I-E-R.\n\nSpeaker 1: Okay, Corey, I did hear that you placed an order three days ago, and what's going on? Is it that you have...\n\nSpeaker 2: Yeah, no, I... so I... well, I will try it when... because you guys already know that, and I already paid for the first one, so...\n\nSpeaker 1: but I spoke with my actual doctor, and none of what you guys advertise is...\n\nSpeaker 2: whether they're not FDA approved, none of that, so...\n\nSpeaker 1: Viagra is FDA approved by Pfizer.\n\nSpeaker 2: Yeah, but you guys are... it's not actual Viagra, it's generic.\n\nSpeaker 1: Yeah, it's still generic is what it stands for, authorized generic Viagra, A-G-V.\n\nSpeaker 2: Yeah, I don't know, I just... I talked to my doctor, but...\n\nSpeaker 1: Yeah, it's alright, I'm actually just going to go through my doctor, so...\n\nSpeaker 2: Well, this is actually better than what they would prescribe you at your doctor.\n\nSpeaker 1: Yeah, but...\n\nSpeaker 2: I just want to say, are you sure before making any changes? I can go ahead and just pause your prescription.\n\nSpeaker 1: I can pause it until April so that you have enough time to try it and see how you like it, which I'm pretty sure you're going to love it,\n\nSpeaker 2: because the A-G-V is the best thing that there is when it comes to E.T. medication.\n\nSpeaker 1: Right, but I would just like to cancel it for now.\n\nSpeaker 2: Okay, so the thing is that you haven't tried it yet, Corey, so I do suggest you just to pause it right now.\n\nSpeaker 1: I don't understand why you're trying to talk me into using it instead of just canceling it when I asked to cancel it, like you're trying to oversell it.\n\nSpeaker 2: So if you cancel it right now, let's say we do end up liking it, because you canceled it,\n\nSpeaker 1: it means you wouldn't be able to reorder with us in the future because you would be canceling it.\n\nSpeaker 2: Hey, I take them for fun, so really it doesn't matter.\n\nSpeaker 1: You're trying to oversell something that I'm just asking you to cancel.\n\nSpeaker 2: You don't got to try to sell it to me.\n\nSpeaker 1: Like, I understand what you're saying, but I would like to cancel it.\n\nSpeaker 2: If not, I'll just call my bank if I have to.\n\nSpeaker 1: I mean, I figured I could cancel it through you guys, but if I have to call my bank and have them just stop payment,\n\nSpeaker 2: then that's what I'll have to do.\n\nSpeaker 1: Okay, so if I cancel it...\n\nSpeaker 2: You should just be like, yeah, we will cancel it for you.\n\nSpeaker 1: Okay, just be aware you're not going to be able to reorder with us in the future, okay?\n\nSpeaker 2: All right, that's all right, perfectly fine.\n\nSpeaker 1: You're welcome.\n\nSpeaker 2: Okay, have a nice day. Bye.",
+    "duration": 8104,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 10,
+        "text": " Yes, I want to cancel my subscription."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 13,
+        "text": " Okay, what is your name and date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 20,
+        "text": " Corey, C-O-R-E-Y, and V as in Victor, I-E-R."
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 27,
+        "text": " Okay, Corey, I did hear that you took place an order three days ago, and what's going on? Is it that you have..."
+      },
+      {
+        "id": 5,
+        "start": 27,
+        "end": 36,
+        "text": " Yeah, no, I...so I...well, I will try it when...because you guys already know that, and I already paid for the first one, so..."
+      },
+      {
+        "id": 6,
+        "start": 36,
+        "end": 43,
+        "text": " but I spoke with my actual doctor, and none of what you guys advertise is..."
+      },
+      {
+        "id": 7,
+        "start": 43,
+        "end": 48,
+        "text": " whether they're not FDA approved, none of that, so..."
+      },
+      {
+        "id": 8,
+        "start": 48,
+        "end": 51,
+        "text": " Viagra is FDA approved by Pfizer."
+      },
+      {
+        "id": 9,
+        "start": 51,
+        "end": 56,
+        "text": " Yeah, but you guys are...it's not actual Viagra, it's generic."
+      },
+      {
+        "id": 10,
+        "start": 56,
+        "end": 61,
+        "text": " Yeah, it's still generic is what it stands for, authorized generic Viagra, A-G-V."
+      },
+      {
+        "id": 11,
+        "start": 61,
+        "end": 65,
+        "text": " Yeah, I don't know, I just...I talked to my doctor, but..."
+      },
+      {
+        "id": 12,
+        "start": 65,
+        "end": 71,
+        "text": " Yeah, it's alright, I'm actually just going to go through my doctor, so..."
+      },
+      {
+        "id": 13,
+        "start": 71,
+        "end": 75,
+        "text": " Well, this is actually better than what they would prescribe you at your doctor."
+      },
+      {
+        "id": 14,
+        "start": 75,
+        "end": 76,
+        "text": " Yeah, but..."
+      },
+      {
+        "id": 15,
+        "start": 76,
+        "end": 81,
+        "text": " I just want to say, are you first before making any changes? I can go ahead and just pause your prescription."
+      },
+      {
+        "id": 16,
+        "start": 81,
+        "end": 86,
+        "text": " I can pause it until April so that you have enough time to try it and see how you like it, which I'm pretty sure you're going to love it,"
+      },
+      {
+        "id": 17,
+        "start": 86,
+        "end": 90,
+        "text": " because the A-G-V is the best thing that there is when it comes to E.T. medication."
+      },
+      {
+        "id": 18,
+        "start": 90,
+        "end": 94,
+        "text": " Right, but I would just like to cancel it for now."
+      },
+      {
+        "id": 19,
+        "start": 94,
+        "end": 100,
+        "text": " Okay, so the thing is that you haven't tried it yet, Corey, so I do suggest you just to pause it right now."
+      },
+      {
+        "id": 20,
+        "start": 100,
+        "end": 107,
+        "text": " I don't understand why you're trying to talk me into using it instead of just canceling it when I asked to cancel it, like you're trying to oversell it."
+      },
+      {
+        "id": 21,
+        "start": 107,
+        "end": 112,
+        "text": " So if you cancel it right now, let's say we do end up liking it, because you canceled it,"
+      },
+      {
+        "id": 22,
+        "start": 112,
+        "end": 116,
+        "text": " it means you wouldn't be able to reorder with us in the future because you would be canceling it."
+      },
+      {
+        "id": 23,
+        "start": 116,
+        "end": 119,
+        "text": " Hey, I take them for fun, so really it doesn't matter."
+      },
+      {
+        "id": 24,
+        "start": 119,
+        "end": 123,
+        "text": " You're trying to oversell something that I'm just asking you to cancel."
+      },
+      {
+        "id": 25,
+        "start": 123,
+        "end": 125,
+        "text": " You don't got to try to sell it to me."
+      },
+      {
+        "id": 26,
+        "start": 125,
+        "end": 128,
+        "text": " Like, I understand what you're saying, but I would like to cancel it."
+      },
+      {
+        "id": 27,
+        "start": 128,
+        "end": 130,
+        "text": " If not, I'll just call my bank if I have to."
+      },
+      {
+        "id": 28,
+        "start": 130,
+        "end": 134,
+        "text": " I mean, I figured I could cancel it through you guys, but if I have to call my bank and have them just stop payment,"
+      },
+      {
+        "id": 29,
+        "start": 134,
+        "end": 136,
+        "text": " then that's what I'll have to do."
+      },
+      {
+        "id": 30,
+        "start": 136,
+        "end": 138,
+        "text": " Okay, so if I cancel it..."
+      },
+      {
+        "id": 31,
+        "start": 138,
+        "end": 141,
+        "text": " You should just be like, yeah, we will cancel it for you."
+      },
+      {
+        "id": 32,
+        "start": 141,
+        "end": 145,
+        "text": " Okay, just be aware you're not going to be able to reorder with us in the future, okay?"
+      },
+      {
+        "id": 33,
+        "start": 145,
+        "end": 147,
+        "text": " All right, that's all right, perfectly fine."
+      },
+      {
+        "id": 34,
+        "start": 147,
+        "end": 148,
+        "text": " You're welcome."
+      },
+      {
+        "id": 35,
+        "start": 148,
+        "end": 150,
+        "text": " Okay, have a nice day. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-8160-8aec-ded53dc4d4a8",
+    "url": "https://www.notion.so/300000001239232-300000001728959-30411d0a101c81608aecded53dc4d4a8"
+  },
+  "processedAt": "2026-02-11T22:03:02.190Z"
+}

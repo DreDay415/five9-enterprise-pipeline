@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001218525-300000001708477-6146203560 by  @ 3_52_01 PM_CallStudio.wav",
+    "size": 31326,
+    "modifyTime": 1769589439000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218525-300000001708477-6146203560 by  @ 3_52_01 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T08:37:19.000Z",
+    "callId": "300000001218525-300000001708477",
+    "phoneNumber": "6146203560",
+    "callTimestamp": "2026-01-28T08:37:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque número nueve.\n\nSpeaker 2: I want to check if my prescription is the super...",
+    "duration": 824,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.559999942779541,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.559999942779541,
+        "end": 6.199999809265137,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.199999809265137,
+        "end": 10.479999542236328,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.479999542236328,
+        "end": 18,
+        "text": " I want to check if my prescription is the super..."
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 19,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 19,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8172-a19c-dc2c17ebaae9",
+    "url": "https://www.notion.so/300000001218525-300000001708477-2f611d0a101c8172a19cdc2c17ebaae9"
+  },
+  "processedAt": "2026-01-28T12:42:24.226Z"
+}

@@ -1,0 +1,38 @@
+{
+  "recording": {
+    "name": "300000001217796-300000001707985-7697586603 by charles@superbalife.com @ 11_54_13 AM.wav",
+    "size": 22226,
+    "modifyTime": 1769592141000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217796-300000001707985-7697586603 by charles@superbalife.com @ 11_54_13 AM.wav",
+    "uploadDate": "2026-01-28T09:22:21.000Z",
+    "callId": "300000001217796-300000001707985",
+    "agent": "charles",
+    "phoneNumber": "7697586603",
+    "callTimestamp": "2026-01-28T11:54:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra. This is Charles.\n\nSpeaker 2: Hi there, Charles. By the way, my name is Jason Tibberbow. Yep.",
+    "duration": 1450,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 10.680000305175781,
+        "text": " Thanks for calling Viagra. This is Charles. Hi there, Charles. By the way, my name is"
+      },
+      {
+        "id": 1,
+        "start": 10.680000305175781,
+        "end": 13.479999542236328,
+        "text": " Jason Tibberbow. Yep."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81dc-9ae9-f779e584d3a1",
+    "url": "https://www.notion.so/300000001217796-300000001707985-2f611d0a101c81dc9ae9f779e584d3a1"
+  },
+  "processedAt": "2026-01-28T11:02:42.447Z"
+}

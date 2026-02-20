@@ -1,0 +1,43 @@
+{
+  "recording": {
+    "name": "300000001220375-300000001710515-9719177389 by  @ 8_07_53 AM_CallStudio.wav",
+    "size": 46340,
+    "modifyTime": 1769616523000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220375-300000001710515-9719177389 by  @ 8_07_53 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T16:08:43.000Z",
+    "callId": "300000001220375-300000001710515",
+    "phoneNumber": "9719177389",
+    "callTimestamp": "2026-01-28T16:08:43.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto.\n\nSpeaker 2: Y claro.\n\nSpeaker 1: Necesito saber acerca de mi orden.",
+    "duration": 2233,
+    "language": "spanish",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 16.639999389648438,
+        "text": " Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto"
+      },
+      {
+        "id": 1,
+        "start": 16.639999389648438,
+        "end": 17.639999389648438,
+        "text": " y claro."
+      },
+      {
+        "id": 2,
+        "start": 17.639999389648438,
+        "end": 25.15999984741211,
+        "text": " Necesito saber acerca de mi orden."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81df-9c1e-eef02f6941fe",
+    "url": "https://www.notion.so/300000001220375-300000001710515-2f611d0a101c81df9c1eeef02f6941fe"
+  },
+  "processedAt": "2026-01-28T19:08:37.468Z"
+}

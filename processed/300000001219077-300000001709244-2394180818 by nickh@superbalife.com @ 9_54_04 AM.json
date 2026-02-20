@@ -1,0 +1,308 @@
+{
+  "recording": {
+    "name": "300000001219077-300000001709244-2394180818 by nickh@superbalife.com @ 9_54_04 AM.wav",
+    "size": 173546,
+    "modifyTime": 1769592141000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219077-300000001709244-2394180818 by nickh@superbalife.com @ 9_54_04 AM.wav",
+    "uploadDate": "2026-01-28T09:22:21.000Z",
+    "callId": "300000001219077-300000001709244",
+    "agent": "nickh",
+    "phoneNumber": "2394180818",
+    "callTimestamp": "2026-01-28T09:54:04.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra, Escort Blue.\n\nSpeaker 2: How can I help you today?\n\nSpeaker 1: Yes, this is Michael Comerford,\n\nSpeaker 2: and you shipped me another refill that I didn't order.\n\nSpeaker 1: Okay, Michael, could I just get your date of birth,\n\nSpeaker 2: and I'll pull up your account and see what happened here?\n\nSpeaker 1: Okay, August 18th, 1948.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay, to confirm, this prescription\n\nSpeaker 2: was initially written in November,\n\nSpeaker 1: and that was for the 100 milligram Viagra, correct?\n\nSpeaker 2: Quantity of 25?\n\nSpeaker 1: Correct.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I see.\n\nSpeaker 2: So it looks like the doctor, based on the quantity,\n\nSpeaker 1: wrote it with refills every two months.\n\nSpeaker 2: Michael, you're not required or obligated\n\nSpeaker 1: to get this every two months.\n\nSpeaker 2: This is not a subscription, this is a prescription.\n\nSpeaker 1: It is perfectly adjustable, if you would like.\n\nSpeaker 2: Yeah, well, I'd like to,\n\nSpeaker 1: when I need it, call you and reorder it.\n\nSpeaker 2: I just don't want to,\n\nSpeaker 1: because I don't need that much,\n\nSpeaker 2: and you keep, you know, okay.\n\nSpeaker 1: No, it is perfect.\n\nSpeaker 2: So this prescription, when written, it comes with 12.\n\nSpeaker 1: And some patients do it monthly,\n\nSpeaker 2: some patients do it bi-monthly for convenience.\n\nSpeaker 1: If you would prefer to call in and place orders as needed,\n\nSpeaker 2: we can adjust your account that way.\n\nSpeaker 1: What I would do is I would put an extended pause on this,\n\nSpeaker 2: and then you can call in for any future orders.\n\nSpeaker 1: The remaining 10 are accessible at any time.\n\nSpeaker 2: Yeah, that would be great, then.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I went ahead and did that for you.\n\nSpeaker 1: You're all set.\n\nSpeaker 2: Okay, so I'm all set?\n\nSpeaker 1: Yes, sir, you're all set.\n\nSpeaker 2: Okay, thank you for your help.\n\nSpeaker 1: We appreciate it.\n\nSpeaker 2: Of course, happy to help, thank you.\n\nSpeaker 1: Bye.",
+    "duration": 4281,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, thank you so much for calling Viagra, Escort Blue."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5.139999866485596,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 2,
+        "start": 5.139999866485596,
+        "end": 7.159999847412109,
+        "text": " Yes, this is Michael Comerford,"
+      },
+      {
+        "id": 3,
+        "start": 7.159999847412109,
+        "end": 10.600000381469727,
+        "text": " and you shipped me another refill that I didn't order."
+      },
+      {
+        "id": 4,
+        "start": 12.119999885559082,
+        "end": 14.4399995803833,
+        "text": " Okay, Michael, could I just get your date of birth,"
+      },
+      {
+        "id": 5,
+        "start": 14.4399995803833,
+        "end": 17.1200008392334,
+        "text": " and I'll pull up your account and see what happened here?"
+      },
+      {
+        "id": 6,
+        "start": 17.1200008392334,
+        "end": 19.8799991607666,
+        "text": " Okay, August 18th, 1948."
+      },
+      {
+        "id": 7,
+        "start": 22.200000762939453,
+        "end": 23.020000457763672,
+        "text": " Thank you."
+      },
+      {
+        "id": 8,
+        "start": 24,
+        "end": 25.639999389648438,
+        "text": " Okay, to confirm, this prescription"
+      },
+      {
+        "id": 9,
+        "start": 25.639999389648438,
+        "end": 27.719999313354492,
+        "text": " was initially written in November,"
+      },
+      {
+        "id": 10,
+        "start": 27.719999313354492,
+        "end": 30.1200008392334,
+        "text": " and that was for the 100 milligram Viagra, correct?"
+      },
+      {
+        "id": 11,
+        "start": 30.1200008392334,
+        "end": 31.959999084472656,
+        "text": " Quantity of 25?"
+      },
+      {
+        "id": 12,
+        "start": 31.959999084472656,
+        "end": 32.79999923706055,
+        "text": " Correct."
+      },
+      {
+        "id": 13,
+        "start": 32.79999923706055,
+        "end": 33.720001220703125,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 33.720001220703125,
+        "end": 34.7599983215332,
+        "text": " Yes."
+      },
+      {
+        "id": 15,
+        "start": 34.7599983215332,
+        "end": 36.279998779296875,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 36.279998779296875,
+        "end": 37.279998779296875,
+        "text": " I see."
+      },
+      {
+        "id": 17,
+        "start": 37.279998779296875,
+        "end": 39.68000030517578,
+        "text": " So it looks like the doctor, based on the quantity,"
+      },
+      {
+        "id": 18,
+        "start": 39.68000030517578,
+        "end": 42.2400016784668,
+        "text": " wrote it with refills every two months."
+      },
+      {
+        "id": 19,
+        "start": 42.2400016784668,
+        "end": 43.880001068115234,
+        "text": " Michael, you're not required or obligated"
+      },
+      {
+        "id": 20,
+        "start": 43.880001068115234,
+        "end": 46.31999969482422,
+        "text": " to get this every two months."
+      },
+      {
+        "id": 21,
+        "start": 46.31999969482422,
+        "end": 48.84000015258789,
+        "text": " This is not a subscription, this is a prescription."
+      },
+      {
+        "id": 22,
+        "start": 48.84000015258789,
+        "end": 51.13999938964844,
+        "text": " It is perfectly adjustable, if you would like."
+      },
+      {
+        "id": 23,
+        "start": 53.20000076293945,
+        "end": 56.20000076293945,
+        "text": " Yeah, well, I'd like to,"
+      },
+      {
+        "id": 24,
+        "start": 56.20000076293945,
+        "end": 59.560001373291016,
+        "text": " when I need it, call you and reorder it."
+      },
+      {
+        "id": 25,
+        "start": 59.560001373291016,
+        "end": 60.79999923706055,
+        "text": " I just don't want to,"
+      },
+      {
+        "id": 26,
+        "start": 60.79999923706055,
+        "end": 63.20000076293945,
+        "text": " because I don't need that much,"
+      },
+      {
+        "id": 27,
+        "start": 63.20000076293945,
+        "end": 65.36000061035156,
+        "text": " and you keep, you know, okay."
+      },
+      {
+        "id": 28,
+        "start": 65.36000061035156,
+        "end": 66.5999984741211,
+        "text": " No, it is perfect."
+      },
+      {
+        "id": 29,
+        "start": 66.5999984741211,
+        "end": 69.95999908447266,
+        "text": " So this prescription, when written, it comes with 12."
+      },
+      {
+        "id": 30,
+        "start": 69.95999908447266,
+        "end": 71.83999633789062,
+        "text": " And some patients do it monthly,"
+      },
+      {
+        "id": 31,
+        "start": 71.83999633789062,
+        "end": 74.19999694824219,
+        "text": " some patients do it bi-monthly for convenience."
+      },
+      {
+        "id": 32,
+        "start": 74.19999694824219,
+        "end": 76.5199966430664,
+        "text": " If you would prefer to call in and place orders as needed,"
+      },
+      {
+        "id": 33,
+        "start": 76.5199966430664,
+        "end": 78.55999755859375,
+        "text": " we can adjust your account that way."
+      },
+      {
+        "id": 34,
+        "start": 78.55999755859375,
+        "end": 81.08000183105469,
+        "text": " What I would do is I would put an extended pause on this,"
+      },
+      {
+        "id": 35,
+        "start": 81.08000183105469,
+        "end": 83.27999877929688,
+        "text": " and then you can call in for any future orders."
+      },
+      {
+        "id": 36,
+        "start": 83.27999877929688,
+        "end": 85.80000305175781,
+        "text": " The remaining 10 are accessible at any time."
+      },
+      {
+        "id": 37,
+        "start": 86.91999816894531,
+        "end": 88.4800033569336,
+        "text": " Yeah, that would be great, then."
+      },
+      {
+        "id": 38,
+        "start": 88.4800033569336,
+        "end": 89.31999969482422,
+        "text": " Okay."
+      },
+      {
+        "id": 39,
+        "start": 92.5199966430664,
+        "end": 93.72000122070312,
+        "text": " I went ahead and did that for you."
+      },
+      {
+        "id": 40,
+        "start": 93.72000122070312,
+        "end": 94.55999755859375,
+        "text": " You're all set."
+      },
+      {
+        "id": 41,
+        "start": 95.81999969482422,
+        "end": 97.4800033569336,
+        "text": " Okay, so I'm all set?"
+      },
+      {
+        "id": 42,
+        "start": 97.4800033569336,
+        "end": 99.45999908447266,
+        "text": " Yes, sir, you're all set."
+      },
+      {
+        "id": 43,
+        "start": 99.45999908447266,
+        "end": 100.80000305175781,
+        "text": " Okay, thank you for your help."
+      },
+      {
+        "id": 44,
+        "start": 100.80000305175781,
+        "end": 101.63999938964844,
+        "text": " We appreciate it."
+      },
+      {
+        "id": 45,
+        "start": 101.63999938964844,
+        "end": 103.5999984741211,
+        "text": " Of course, happy to help, thank you."
+      },
+      {
+        "id": 46,
+        "start": 103.5999984741211,
+        "end": 104.44000244140625,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8104-ba35-de0391d8a43e",
+    "url": "https://www.notion.so/300000001219077-300000001709244-2f611d0a101c8104ba35de0391d8a43e"
+  },
+  "processedAt": "2026-01-28T11:00:48.797Z"
+}

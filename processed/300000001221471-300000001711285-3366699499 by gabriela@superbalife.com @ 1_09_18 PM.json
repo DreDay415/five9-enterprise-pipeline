@@ -1,0 +1,380 @@
+{
+  "recording": {
+    "name": "300000001221471-300000001711285-3366699499 by gabriela@superbalife.com @ 1_09_18 PM.wav",
+    "size": 334746,
+    "modifyTime": 1769634770000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221471-300000001711285-3366699499 by gabriela@superbalife.com @ 1_09_18 PM.wav",
+    "uploadDate": "2026-01-28T21:12:50.000Z",
+    "callId": "300000001221471-300000001711285",
+    "agent": "gabriela",
+    "phoneNumber": "3366699499",
+    "callTimestamp": "2026-01-28T13:09:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Yeah, I was cancelling my prescription.\n\nSpeaker 1: Okay, what is your name and date of birth?\n\nSpeaker 2: Mark Schaffner, S-H-O-F-F-N-E-R, date of birth 6-15-56.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Okay, and what is the reason? Is it that you have enough supply? What's going on?\n\nSpeaker 1: Well, I used to take that same drug a long time ago.\n\nSpeaker 2: And I thought I was getting that new one, the A, B something.\n\nSpeaker 1: But they sent me this.\n\nSpeaker 2: Yeah, what you order is the A-G-V.\n\nSpeaker 1: So it says N-F-L-C-H-O, the active ingredient in it.\n\nSpeaker 2: However, this is a much more improved Viagra.\n\nSpeaker 1: So you're able to know that it's the A-G-V because on the container it should say Greenstone\n\nSpeaker 2: since these are made in the Pfizer-Benz facility.\n\nSpeaker 1: And the pill should also have the number 100 engraved on them.\n\nSpeaker 2: Yeah, I'm just getting the rest of them.\n\nSpeaker 1: Can you confirm, do you have the pills with you?\n\nSpeaker 2: Say what now? Say that again.\n\nSpeaker 1: Do you have the pills with you?\n\nSpeaker 2: No, I don't.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Well, when you get home, you can go ahead and check and take a look at the pills\n\nSpeaker 1: and see if they have the number 100 engraved on them.\n\nSpeaker 2: If they don't have the number 100 engraved on them, then give us a call back.\n\nSpeaker 1: That's good. I think it does have 100.\n\nSpeaker 2: It's sending now or something like that.\n\nSpeaker 1: So then it puts the active ingredient in the Viagra.\n\nSpeaker 2: Yeah, it didn't do me any good.\n\nSpeaker 1: Okay, so it could be that they probably sent you the classic one,\n\nSpeaker 2: which is why it's not working for you.\n\nSpeaker 1: Yeah, whatever they're saying, they know.\n\nSpeaker 2: Yeah, so let me go ahead and put you on a quick hold\n\nSpeaker 1: and verify with the pharmacy because if that's the case,\n\nSpeaker 2: you can go ahead and reship your order at no additional cost, okay?\n\nSpeaker 1: Well, I was just trying one bottle,\n\nSpeaker 2: and then I realized yesterday I looked on PayPal.\n\nSpeaker 1: Can they get ready to send me another bottle?\n\nSpeaker 2: I don't like to get on a full prescription.\n\nSpeaker 1: I like to just try it out before I decide to get a full prescription\n\nSpeaker 2: and get it every month.\n\nSpeaker 1: Yeah, well, it is a prescription, so that prescription, we do pay for it,\n\nSpeaker 2: so that prescription does come with refill.\n\nSpeaker 1: Yeah, that's what I want, all the refills.\n\nSpeaker 2: I got one bottle.\n\nSpeaker 1: I guess I got another one on the way.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: So if you do not need it every month,\n\nSpeaker 2: we can always go ahead and just adjust it to your preference,\n\nSpeaker 1: or we can modify it to every two months or every three months.\n\nSpeaker 2: Yeah, I'll just cancel all out, O-U-T.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So just be aware that you're not going to be able to reorder with us\n\nSpeaker 1: in the future, okay?\n\nSpeaker 2: You're all set.\n\nSpeaker 1: It's been canceled one floor.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Thank you, ma'am.\n\nSpeaker 2: Okay.",
+    "duration": 7122,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 9,
+        "text": " Yeah, I was cancelling my prescription."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 12,
+        "text": " Okay, what is your name and date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 20,
+        "text": " Mark Schaffner, S-H-O-F-F-N-E-R, date of birth 6-15-56."
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 24,
+        "text": " Thank you."
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 29,
+        "text": " Okay, and what is the reason? Is it that you have enough supply? What's going on?"
+      },
+      {
+        "id": 6,
+        "start": 29,
+        "end": 35,
+        "text": " Well, I used to take that same drug a long time ago."
+      },
+      {
+        "id": 7,
+        "start": 35,
+        "end": 40,
+        "text": " And I thought I was getting that new one, the A, B something."
+      },
+      {
+        "id": 8,
+        "start": 40,
+        "end": 42,
+        "text": " But they sent me this."
+      },
+      {
+        "id": 9,
+        "start": 42,
+        "end": 44,
+        "text": " Yeah, what you order is the A-G-V."
+      },
+      {
+        "id": 10,
+        "start": 44,
+        "end": 47,
+        "text": " So it says N-F-L-C-H-O, the active ingredient in it."
+      },
+      {
+        "id": 11,
+        "start": 47,
+        "end": 50,
+        "text": " However, this is a much more improved Viagra."
+      },
+      {
+        "id": 12,
+        "start": 50,
+        "end": 56,
+        "text": " So you're able to know that it's the A-G-V because on the container it should say Greenstone"
+      },
+      {
+        "id": 13,
+        "start": 56,
+        "end": 62,
+        "text": " since these are made in the Pfizer-Benz facility."
+      },
+      {
+        "id": 14,
+        "start": 62,
+        "end": 67,
+        "text": " And the pill should also have the number 100 engraved on them."
+      },
+      {
+        "id": 15,
+        "start": 67,
+        "end": 74,
+        "text": " Yeah, I'm just getting the rest of them."
+      },
+      {
+        "id": 16,
+        "start": 74,
+        "end": 78,
+        "text": " Can you confirm, do you have the pills with you?"
+      },
+      {
+        "id": 17,
+        "start": 78,
+        "end": 82,
+        "text": " Say what now? Say that again."
+      },
+      {
+        "id": 18,
+        "start": 82,
+        "end": 85,
+        "text": " Do you have the pills with you?"
+      },
+      {
+        "id": 19,
+        "start": 85,
+        "end": 89,
+        "text": " No, I don't."
+      },
+      {
+        "id": 20,
+        "start": 89,
+        "end": 90,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 90,
+        "end": 95,
+        "text": " Well, when you get home, you can go ahead and check and take a look at the pills"
+      },
+      {
+        "id": 22,
+        "start": 95,
+        "end": 98,
+        "text": " and see if they have the number 100 engraved on them."
+      },
+      {
+        "id": 23,
+        "start": 98,
+        "end": 102,
+        "text": " If they don't have the number 100 engraved on them, then give us a call back."
+      },
+      {
+        "id": 24,
+        "start": 102,
+        "end": 106,
+        "text": " That's good. I think it does have 100."
+      },
+      {
+        "id": 25,
+        "start": 106,
+        "end": 110,
+        "text": " It's sending now or something like that."
+      },
+      {
+        "id": 26,
+        "start": 111,
+        "end": 117,
+        "text": " So then it puts the active ingredient in the Viagra."
+      },
+      {
+        "id": 27,
+        "start": 117,
+        "end": 120,
+        "text": " Yeah, it didn't do me any good."
+      },
+      {
+        "id": 28,
+        "start": 120,
+        "end": 123,
+        "text": " Okay, so it could be that they probably sent you the classic one,"
+      },
+      {
+        "id": 29,
+        "start": 123,
+        "end": 128,
+        "text": " which is why it's not working for you."
+      },
+      {
+        "id": 30,
+        "start": 128,
+        "end": 130,
+        "text": " Yeah, whatever they're saying, they know."
+      },
+      {
+        "id": 31,
+        "start": 130,
+        "end": 133,
+        "text": " Yeah, so let me go ahead and put you on a quick hold"
+      },
+      {
+        "id": 32,
+        "start": 133,
+        "end": 136,
+        "text": " and verify with the pharmacy because if that's the case,"
+      },
+      {
+        "id": 33,
+        "start": 136,
+        "end": 140,
+        "text": " you can go ahead and reship your order at no additional cost, okay?"
+      },
+      {
+        "id": 34,
+        "start": 140,
+        "end": 145,
+        "text": " Well, I was just trying one bottle,"
+      },
+      {
+        "id": 35,
+        "start": 145,
+        "end": 149,
+        "text": " and then I realized yesterday I looked on PayPal."
+      },
+      {
+        "id": 36,
+        "start": 149,
+        "end": 152,
+        "text": " Can they get ready to send me another bottle?"
+      },
+      {
+        "id": 37,
+        "start": 152,
+        "end": 155,
+        "text": " I don't like to get on a full prescription."
+      },
+      {
+        "id": 38,
+        "start": 155,
+        "end": 158,
+        "text": " I like to just try it out before I decide to get a full prescription"
+      },
+      {
+        "id": 39,
+        "start": 158,
+        "end": 160,
+        "text": " and get it every month."
+      },
+      {
+        "id": 40,
+        "start": 160,
+        "end": 164,
+        "text": " Yeah, well, it is a prescription, so that prescription, we do pay for it,"
+      },
+      {
+        "id": 41,
+        "start": 164,
+        "end": 167,
+        "text": " so that prescription does come with refill."
+      },
+      {
+        "id": 42,
+        "start": 167,
+        "end": 173,
+        "text": " Yeah, that's what I want, all the refills."
+      },
+      {
+        "id": 43,
+        "start": 173,
+        "end": 175,
+        "text": " I got one bottle."
+      },
+      {
+        "id": 44,
+        "start": 175,
+        "end": 177,
+        "text": " I guess I got another one on the way."
+      },
+      {
+        "id": 45,
+        "start": 177,
+        "end": 180,
+        "text": " Yeah."
+      },
+      {
+        "id": 46,
+        "start": 180,
+        "end": 182,
+        "text": " So if you do not need it every month,"
+      },
+      {
+        "id": 47,
+        "start": 182,
+        "end": 185,
+        "text": " we can always go ahead and just adjust it to your preference,"
+      },
+      {
+        "id": 48,
+        "start": 185,
+        "end": 189,
+        "text": " or we can modify it to every two months or every three months."
+      },
+      {
+        "id": 49,
+        "start": 190,
+        "end": 196,
+        "text": " Yeah, I'll just cancel all out, O-U-T."
+      },
+      {
+        "id": 50,
+        "start": 196,
+        "end": 198,
+        "text": " Okay."
+      },
+      {
+        "id": 51,
+        "start": 198,
+        "end": 200,
+        "text": " So just be aware that you're not going to be able to reorder with us"
+      },
+      {
+        "id": 52,
+        "start": 200,
+        "end": 201,
+        "text": " in the future, okay?"
+      },
+      {
+        "id": 53,
+        "start": 201,
+        "end": 202,
+        "text": " You're all set."
+      },
+      {
+        "id": 54,
+        "start": 202,
+        "end": 204,
+        "text": " It's been canceled one floor."
+      },
+      {
+        "id": 55,
+        "start": 204,
+        "end": 205,
+        "text": " Okay."
+      },
+      {
+        "id": 56,
+        "start": 205,
+        "end": 206,
+        "text": " Thank you, ma'am."
+      },
+      {
+        "id": 57,
+        "start": 206,
+        "end": 207,
+        "text": " Okay."
+      },
+      {
+        "id": 58,
+        "start": 207,
+        "end": 207,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81dd-98fd-cdae17d1a02b",
+    "url": "https://www.notion.so/300000001221471-300000001711285-2f611d0a101c81dd98fdcdae17d1a02b"
+  },
+  "processedAt": "2026-01-28T22:41:34.487Z"
+}

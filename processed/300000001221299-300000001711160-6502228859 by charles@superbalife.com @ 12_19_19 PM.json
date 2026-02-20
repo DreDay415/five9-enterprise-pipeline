@@ -1,0 +1,386 @@
+{
+  "recording": {
+    "name": "300000001221299-300000001711160-6502228859 by charles@superbalife.com @ 12_19_19 PM.wav",
+    "size": 226456,
+    "modifyTime": 1769631720000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221299-300000001711160-6502228859 by charles@superbalife.com @ 12_19_19 PM.wav",
+    "uploadDate": "2026-01-28T20:22:00.000Z",
+    "callId": "300000001221299-300000001711160",
+    "agent": "charles",
+    "phoneNumber": "6502228859",
+    "callTimestamp": "2026-01-28T12:19:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi Charles, my name is Omar, I'm calling about my prescription or just my account actually.\n\nSpeaker 2: What information can I give you to look at my account?\n\nSpeaker 1: Omar Otero in Daly City, California?\n\nSpeaker 2: Yes, that's it.\n\nSpeaker 1: All right, how can I help you?\n\nSpeaker 2: I called a while ago to basically terminate my account and I was billed for another prescription\n\nSpeaker 1: which I no longer needed.\n\nSpeaker 2: So I'd like to go ahead and cancel my account please.\n\nSpeaker 1: Okay, it looks like the last time you called in was in September.\n\nSpeaker 2: The notes that I have here, the last gentleman you spoke with offered to pause everything\n\nSpeaker 1: for the next five months and it looks like that's what happened.\n\nSpeaker 2: So that's probably why.\n\nSpeaker 1: Oh, the pause.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Okay.\n\nSpeaker 1: So it's not coming every month.\n\nSpeaker 2: I don't know if he told you that.\n\nSpeaker 1: Correct.\n\nSpeaker 2: It just came up.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: I don't know if that's something that you're still interested in, but it's not coming once\n\nSpeaker 1: a month anymore.\n\nSpeaker 2: It's like once or twice a year.\n\nSpeaker 1: So if that's something that you're still willing to get on, that's what we can keep it at right\n\nSpeaker 2: now or I could pause everything from now until July.\n\nSpeaker 1: You're saying it's just once or twice a year?\n\nSpeaker 2: Yeah, exactly.\n\nSpeaker 1: So it's not, you're not being billed every month like you were the first time.\n\nSpeaker 2: It's like every five or six months.\n\nSpeaker 1: Okay.\n\nSpeaker 2: If that's something that you can stick with, we can keep everything as is.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: So you're saying the next time I'll be able to be in July or something?\n\nSpeaker 1: Correct.\n\nSpeaker 2: Correct.\n\nSpeaker 1: So it's, what are the two months?\n\nSpeaker 2: It'll be July and January?\n\nSpeaker 1: Correct.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I'll keep it to July and January then, yes.\n\nSpeaker 1: Solid.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Twice a year.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Write it in the notes, in your notes as well.\n\nSpeaker 2: That way you know everything that's coming.\n\nSpeaker 1: In the future, it'll always be towards the end of the month in July and January, okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: Well, thank you.\n\nSpeaker 2: Absolutely.\n\nSpeaker 1: All righty.\n\nSpeaker 2: Hope you have a great rest of your day.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thank you too.\n\nSpeaker 1: Bye.",
+    "duration": 7198,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 17.799999237060547,
+        "text": " Hi Charles, my name is Omar, I'm calling about my prescription or just my account actually."
+      },
+      {
+        "id": 1,
+        "start": 17.799999237060547,
+        "end": 20.760000228881836,
+        "text": " What information can I give you to look at my account?"
+      },
+      {
+        "id": 2,
+        "start": 20.760000228881836,
+        "end": 24.600000381469727,
+        "text": " Omar Otero in Daly City, California?"
+      },
+      {
+        "id": 3,
+        "start": 24.600000381469727,
+        "end": 25.600000381469727,
+        "text": " Yes, that's it."
+      },
+      {
+        "id": 4,
+        "start": 25.600000381469727,
+        "end": 28.360000610351562,
+        "text": " All right, how can I help you?"
+      },
+      {
+        "id": 5,
+        "start": 28.360000610351562,
+        "end": 37.79999923706055,
+        "text": " I called a while ago to basically terminate my account and I was billed for another prescription"
+      },
+      {
+        "id": 6,
+        "start": 37.79999923706055,
+        "end": 39.47999954223633,
+        "text": " which I no longer needed."
+      },
+      {
+        "id": 7,
+        "start": 39.47999954223633,
+        "end": 44.2400016784668,
+        "text": " So I'd like to go ahead and cancel my account please."
+      },
+      {
+        "id": 8,
+        "start": 44.2400016784668,
+        "end": 49.560001373291016,
+        "text": " Okay, it looks like the last time you called in was in September."
+      },
+      {
+        "id": 9,
+        "start": 49.560001373291016,
+        "end": 54.20000076293945,
+        "text": " The notes that I have here, the last gentleman you spoke with offered to pause everything"
+      },
+      {
+        "id": 10,
+        "start": 54.20000076293945,
+        "end": 58.279998779296875,
+        "text": " for the next five months and it looks like that's what happened."
+      },
+      {
+        "id": 11,
+        "start": 58.279998779296875,
+        "end": 59.279998779296875,
+        "text": " So that's probably why."
+      },
+      {
+        "id": 12,
+        "start": 59.279998779296875,
+        "end": 60.279998779296875,
+        "text": " Oh, the pause."
+      },
+      {
+        "id": 13,
+        "start": 60.279998779296875,
+        "end": 61.279998779296875,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 61.279998779296875,
+        "end": 62.279998779296875,
+        "text": " Yeah."
+      },
+      {
+        "id": 15,
+        "start": 62.279998779296875,
+        "end": 63.279998779296875,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 63.279998779296875,
+        "end": 64.27999877929688,
+        "text": " So it's not coming every month."
+      },
+      {
+        "id": 17,
+        "start": 64.27999877929688,
+        "end": 65.27999877929688,
+        "text": " I don't know if he told you that."
+      },
+      {
+        "id": 18,
+        "start": 65.27999877929688,
+        "end": 66.27999877929688,
+        "text": " Correct."
+      },
+      {
+        "id": 19,
+        "start": 66.27999877929688,
+        "end": 67.27999877929688,
+        "text": " It just came up."
+      },
+      {
+        "id": 20,
+        "start": 67.27999877929688,
+        "end": 68.27999877929688,
+        "text": " Yeah."
+      },
+      {
+        "id": 21,
+        "start": 68.27999877929688,
+        "end": 69.27999877929688,
+        "text": " Okay."
+      },
+      {
+        "id": 22,
+        "start": 69.27999877929688,
+        "end": 70.27999877929688,
+        "text": " Yeah."
+      },
+      {
+        "id": 23,
+        "start": 70.27999877929688,
+        "end": 72.4000015258789,
+        "text": " I don't know if that's something that you're still interested in, but it's not coming once"
+      },
+      {
+        "id": 24,
+        "start": 72.4000015258789,
+        "end": 73.4000015258789,
+        "text": " a month anymore."
+      },
+      {
+        "id": 25,
+        "start": 73.4000015258789,
+        "end": 75.5199966430664,
+        "text": " It's like once or twice a year."
+      },
+      {
+        "id": 26,
+        "start": 75.5199966430664,
+        "end": 78.95999908447266,
+        "text": " So if that's something that you're still willing to get on, that's what we can keep it at right"
+      },
+      {
+        "id": 27,
+        "start": 78.95999908447266,
+        "end": 82.08000183105469,
+        "text": " now or I could pause everything from now until July."
+      },
+      {
+        "id": 28,
+        "start": 82.08000183105469,
+        "end": 86.12000274658203,
+        "text": " You're saying it's just once or twice a year?"
+      },
+      {
+        "id": 29,
+        "start": 86.12000274658203,
+        "end": 87.12000274658203,
+        "text": " Yeah, exactly."
+      },
+      {
+        "id": 30,
+        "start": 87.44000244140625,
+        "end": 91.4800033569336,
+        "text": " So it's not, you're not being billed every month like you were the first time."
+      },
+      {
+        "id": 31,
+        "start": 91.4800033569336,
+        "end": 94.4800033569336,
+        "text": " It's like every five or six months."
+      },
+      {
+        "id": 32,
+        "start": 94.4800033569336,
+        "end": 95.4800033569336,
+        "text": " Okay."
+      },
+      {
+        "id": 33,
+        "start": 95.4800033569336,
+        "end": 101.68000030517578,
+        "text": " If that's something that you can stick with, we can keep everything as is."
+      },
+      {
+        "id": 34,
+        "start": 101.68000030517578,
+        "end": 102.68000030517578,
+        "text": " Yeah."
+      },
+      {
+        "id": 35,
+        "start": 102.68000030517578,
+        "end": 106.80000305175781,
+        "text": " So you're saying the next time I'll be able to be in July or something?"
+      },
+      {
+        "id": 36,
+        "start": 106.80000305175781,
+        "end": 107.80000305175781,
+        "text": " Correct."
+      },
+      {
+        "id": 37,
+        "start": 107.80000305175781,
+        "end": 108.80000305175781,
+        "text": " Correct."
+      },
+      {
+        "id": 38,
+        "start": 108.80000305175781,
+        "end": 110.4800033569336,
+        "text": " So it's, what are the two months?"
+      },
+      {
+        "id": 39,
+        "start": 110.4800033569336,
+        "end": 112.4800033569336,
+        "text": " It'll be July and January?"
+      },
+      {
+        "id": 40,
+        "start": 112.4800033569336,
+        "end": 113.4800033569336,
+        "text": " Correct."
+      },
+      {
+        "id": 41,
+        "start": 113.4800033569336,
+        "end": 114.4800033569336,
+        "text": " Okay."
+      },
+      {
+        "id": 42,
+        "start": 114.83999633789062,
+        "end": 115.83999633789062,
+        "text": " Okay."
+      },
+      {
+        "id": 43,
+        "start": 115.83999633789062,
+        "end": 117.83999633789062,
+        "text": " I'll keep it to July and January then, yes."
+      },
+      {
+        "id": 44,
+        "start": 117.83999633789062,
+        "end": 118.83999633789062,
+        "text": " Solid."
+      },
+      {
+        "id": 45,
+        "start": 118.83999633789062,
+        "end": 119.83999633789062,
+        "text": " Okay."
+      },
+      {
+        "id": 46,
+        "start": 119.83999633789062,
+        "end": 120.83999633789062,
+        "text": " Twice a year."
+      },
+      {
+        "id": 47,
+        "start": 120.83999633789062,
+        "end": 121.83999633789062,
+        "text": " Yeah."
+      },
+      {
+        "id": 48,
+        "start": 121.83999633789062,
+        "end": 122.83999633789062,
+        "text": " Write it in the notes, in your notes as well."
+      },
+      {
+        "id": 49,
+        "start": 122.83999633789062,
+        "end": 126.08000183105469,
+        "text": " That way you know everything that's coming."
+      },
+      {
+        "id": 50,
+        "start": 126.08000183105469,
+        "end": 130.32000732421875,
+        "text": " In the future, it'll always be towards the end of the month in July and January, okay?"
+      },
+      {
+        "id": 51,
+        "start": 130.32000732421875,
+        "end": 131.32000732421875,
+        "text": " Okay."
+      },
+      {
+        "id": 52,
+        "start": 131.32000732421875,
+        "end": 132.32000732421875,
+        "text": " Well, thank you."
+      },
+      {
+        "id": 53,
+        "start": 132.32000732421875,
+        "end": 133.32000732421875,
+        "text": " Absolutely."
+      },
+      {
+        "id": 54,
+        "start": 133.32000732421875,
+        "end": 134.32000732421875,
+        "text": " All righty."
+      },
+      {
+        "id": 55,
+        "start": 134.32000732421875,
+        "end": 135.32000732421875,
+        "text": " Hope you have a great rest of your day."
+      },
+      {
+        "id": 56,
+        "start": 135.32000732421875,
+        "end": 136.32000732421875,
+        "text": " All right."
+      },
+      {
+        "id": 57,
+        "start": 136.32000732421875,
+        "end": 137.32000732421875,
+        "text": " Thank you too."
+      },
+      {
+        "id": 58,
+        "start": 137.32000732421875,
+        "end": 138.32000732421875,
+        "text": " Bye."
+      },
+      {
+        "id": 59,
+        "start": 138.32000732421875,
+        "end": 138.32000732421875,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8162-bbf2-e7c968391521",
+    "url": "https://www.notion.so/300000001221299-300000001711160-2f611d0a101c8162bbf2e7c968391521"
+  },
+  "processedAt": "2026-01-28T23:06:21.007Z"
+}

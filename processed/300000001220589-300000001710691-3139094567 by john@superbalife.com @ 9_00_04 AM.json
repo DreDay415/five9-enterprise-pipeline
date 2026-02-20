@@ -1,0 +1,194 @@
+{
+  "recording": {
+    "name": "300000001220589-300000001710691-3139094567 by john@superbalife.com @ 9_00_04 AM.wav",
+    "size": 163990,
+    "modifyTime": 1769619727000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220589-300000001710691-3139094567 by john@superbalife.com @ 9_00_04 AM.wav",
+    "uploadDate": "2026-01-28T17:02:07.000Z",
+    "callId": "300000001220589-300000001710691",
+    "agent": "john",
+    "phoneNumber": "3139094567",
+    "callTimestamp": "2026-01-28T09:00:04.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling, this is John, how can I help you?\n\nSpeaker 2: Hey, how you doing?\n\nSpeaker 1: What can I help you with?\n\nSpeaker 2: I'd like to pay for water.\n\nSpeaker 1: Okay, can I get your name and zip code?\n\nSpeaker 2: My name is Emilius Birkin, and my zip code is 48210.\n\nSpeaker 1: Wait a second, one second.\n\nSpeaker 2: 6673 Eagle Street?\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: Would you like to do 25 pills again, sir?\n\nSpeaker 1: Can I get 50?\n\nSpeaker 2: We have 40, do you want to bump up to 40?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, and then you want me to use the same visa card, 7551?\n\nSpeaker 1: No.\n\nSpeaker 2: Okay, I can update you when you're ready.\n\nSpeaker 1: Let's go with 5508-8300-0950-8892.\n\nSpeaker 2: Thank you, the expiration?\n\nSpeaker 1: It's 12-26.\n\nSpeaker 2: And the security code?\n\nSpeaker 1: It's 322.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: We're all set, Cornelius, your order's good to go.\n\nSpeaker 2: Okay, and how much is it?\n\nSpeaker 1: Oh, sorry, yeah, the 40 is 163.\n\nSpeaker 2: Okay.\n\nSpeaker 1: We're all set, have a good one.\n\nSpeaker 2: You too.",
+    "duration": 3969,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling, this is John, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 4,
+        "text": " Hey, how you doing?"
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 6,
+        "text": " What can I help you with?"
+      },
+      {
+        "id": 3,
+        "start": 6,
+        "end": 7,
+        "text": " I'd like to pay for water."
+      },
+      {
+        "id": 4,
+        "start": 8,
+        "end": 10,
+        "text": " Okay, can I get your name and zip code?"
+      },
+      {
+        "id": 5,
+        "start": 11,
+        "end": 17,
+        "text": " My name is Emilius Birkin, and my zip code is 48210."
+      },
+      {
+        "id": 6,
+        "start": 18,
+        "end": 19,
+        "text": " Wait a second, one second."
+      },
+      {
+        "id": 7,
+        "start": 24,
+        "end": 26,
+        "text": " 6673 Eagle Street?"
+      },
+      {
+        "id": 8,
+        "start": 27,
+        "end": 28,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 9,
+        "start": 28,
+        "end": 30,
+        "text": " Would you like to do 25 pills again, sir?"
+      },
+      {
+        "id": 10,
+        "start": 31,
+        "end": 32,
+        "text": " Can I get 50?"
+      },
+      {
+        "id": 11,
+        "start": 33,
+        "end": 35,
+        "text": " We have 40, do you want to bump up to 40?"
+      },
+      {
+        "id": 12,
+        "start": 36,
+        "end": 37,
+        "text": " Yes."
+      },
+      {
+        "id": 13,
+        "start": 37,
+        "end": 41,
+        "text": " Okay, and then you want me to use the same visa card, 7551?"
+      },
+      {
+        "id": 14,
+        "start": 42,
+        "end": 43,
+        "text": " No."
+      },
+      {
+        "id": 15,
+        "start": 43,
+        "end": 45,
+        "text": " Okay, I can update you when you're ready."
+      },
+      {
+        "id": 16,
+        "start": 45,
+        "end": 66,
+        "text": " Let's go with 5508-8300-0950-8892."
+      },
+      {
+        "id": 17,
+        "start": 67,
+        "end": 68,
+        "text": " Thank you, the expiration?"
+      },
+      {
+        "id": 18,
+        "start": 70,
+        "end": 72,
+        "text": " It's 12-26."
+      },
+      {
+        "id": 19,
+        "start": 73,
+        "end": 74,
+        "text": " And the security code?"
+      },
+      {
+        "id": 20,
+        "start": 75,
+        "end": 80,
+        "text": " It's 322."
+      },
+      {
+        "id": 21,
+        "start": 81,
+        "end": 82,
+        "text": " Thank you."
+      },
+      {
+        "id": 22,
+        "start": 86,
+        "end": 89,
+        "text": " We're all set, Cornelius, your order's good to go."
+      },
+      {
+        "id": 23,
+        "start": 90,
+        "end": 91,
+        "text": " Okay, and how much is it?"
+      },
+      {
+        "id": 24,
+        "start": 92,
+        "end": 94,
+        "text": " Oh, sorry, yeah, the 40 is 163."
+      },
+      {
+        "id": 25,
+        "start": 95,
+        "end": 96,
+        "text": " Okay."
+      },
+      {
+        "id": 26,
+        "start": 97,
+        "end": 98,
+        "text": " We're all set, have a good one."
+      },
+      {
+        "id": 27,
+        "start": 99,
+        "end": 100,
+        "text": " You too."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8191-ae01-fe0202c198ad",
+    "url": "https://www.notion.so/300000001220589-300000001710691-2f611d0a101c8191ae01fe0202c198ad"
+  },
+  "processedAt": "2026-01-28T18:44:59.373Z"
+}

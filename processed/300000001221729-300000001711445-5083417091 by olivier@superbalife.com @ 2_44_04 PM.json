@@ -1,0 +1,152 @@
+{
+  "recording": {
+    "name": "300000001221729-300000001711445-5083417091 by olivier@superbalife.com @ 2_44_04 PM.wav",
+    "size": 180176,
+    "modifyTime": 1769640377000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221729-300000001711445-5083417091 by olivier@superbalife.com @ 2_44_04 PM.wav",
+    "uploadDate": "2026-01-28T22:46:17.000Z",
+    "callId": "300000001221729-300000001711445",
+    "agent": "olivier",
+    "phoneNumber": "5083417091",
+    "callTimestamp": "2026-01-28T14:44:04.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Yes, my email is wrong on my account. How do I fix it?\n\nSpeaker 1: Okay, I can fix it for you, Mr. Jones-Padilla.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Yes, what would be the new email? I have jeepadilla77 at Comcast.com.\n\nSpeaker 2: What would be the new one?\n\nSpeaker 1: Well, it's supposed to be jspadia, spadia, not padia, at Comcast.net.\n\nSpeaker 2: jspadia77 at Comcast.net.\n\nSpeaker 1: Okay, spadia, so s-p-a-d-e-a 77 at Comcast.com?\n\nSpeaker 2: Dot net.\n\nSpeaker 1: Dot net, okay. Yeah, that's what I have. I guess it was just the s missing, I guess.\n\nSpeaker 2: It was the s missing, and yeah, I just signed up and everything, and I was supposed to get confirmation email, so obviously it wasn't sent.\n\nSpeaker 1: Yeah, you're going to need it for your tracking number as well when your package is coming.\n\nSpeaker 2: Yes, and they said that should be, after I signed up, they said you'll be getting sent an email.\n\nSpeaker 1: Yeah, you might get a text message too, like a general text message from the physician who's going to write your script for the Viagra.\n\nSpeaker 2: Okay, okay.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: All right, so yeah, I'll look in the email box too. I want confirmation of my purchase, right?\n\nSpeaker 1: Or do you just wait for the script from the doctor? All right, appreciate it. Thank you.\n\nSpeaker 2: Fantastic. You have a good one.\n\nSpeaker 1: All right, have a good day.",
+    "duration": 4807,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 14,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 14,
+        "end": 21,
+        "text": " Yes, my email is wrong on my account. How do I fix it?"
+      },
+      {
+        "id": 2,
+        "start": 21,
+        "end": 24,
+        "text": " Okay, I can fix it for you, Mr. Jones-Padilla."
+      },
+      {
+        "id": 3,
+        "start": 24,
+        "end": 27,
+        "text": " Yes."
+      },
+      {
+        "id": 4,
+        "start": 27,
+        "end": 32,
+        "text": " Yes, what would be the new email? I have jeepadilla77 at Comcast.com."
+      },
+      {
+        "id": 5,
+        "start": 32,
+        "end": 34,
+        "text": " What would be the new one?"
+      },
+      {
+        "id": 6,
+        "start": 34,
+        "end": 42,
+        "text": " Well, it's supposed to be jspadia, spadia, not padia, at Comcast.net."
+      },
+      {
+        "id": 7,
+        "start": 42,
+        "end": 46,
+        "text": " jspadia77 at Comcast.net."
+      },
+      {
+        "id": 8,
+        "start": 46,
+        "end": 53,
+        "text": " Okay, spadia, so s-p-a-d-e-a 77 at Comcast.com?"
+      },
+      {
+        "id": 9,
+        "start": 53,
+        "end": 55,
+        "text": " Dot net."
+      },
+      {
+        "id": 10,
+        "start": 55,
+        "end": 62,
+        "text": " Dot net, okay. Yeah, that's what I have. I guess it was just the s missing, I guess."
+      },
+      {
+        "id": 11,
+        "start": 62,
+        "end": 73,
+        "text": " It was the s missing, and yeah, I just signed up and everything, and I was supposed to get confirmation email, so obviously it wasn't sent."
+      },
+      {
+        "id": 12,
+        "start": 73,
+        "end": 78,
+        "text": " Yeah, you're going to need it for your tracking number as well when your package is coming."
+      },
+      {
+        "id": 13,
+        "start": 78,
+        "end": 86,
+        "text": " Yes, and they said that should be, after I signed up, they said you'll be getting sent an email."
+      },
+      {
+        "id": 14,
+        "start": 86,
+        "end": 94,
+        "text": " Yeah, you might get a text message too, like a general text message from the physician who's going to write your script for the Viagra."
+      },
+      {
+        "id": 15,
+        "start": 94,
+        "end": 96,
+        "text": " Okay, okay."
+      },
+      {
+        "id": 16,
+        "start": 96,
+        "end": 97,
+        "text": " Yeah."
+      },
+      {
+        "id": 17,
+        "start": 97,
+        "end": 103,
+        "text": " All right, so yeah, I'll look in the email box too. I want confirmation of my purchase, right?"
+      },
+      {
+        "id": 18,
+        "start": 103,
+        "end": 107,
+        "text": " Or do you just wait for the script from the doctor? All right, appreciate it. Thank you."
+      },
+      {
+        "id": 19,
+        "start": 107,
+        "end": 109,
+        "text": " Fantastic. You have a good one."
+      },
+      {
+        "id": 20,
+        "start": 109,
+        "end": 111,
+        "text": " All right, have a good day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81fd-a7a1-d423100a6dd7",
+    "url": "https://www.notion.so/300000001221729-300000001711445-2f611d0a101c81fda7a1d423100a6dd7"
+  },
+  "processedAt": "2026-01-28T23:32:20.600Z"
+}

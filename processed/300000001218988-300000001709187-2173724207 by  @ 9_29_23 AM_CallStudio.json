@@ -1,0 +1,67 @@
+{
+  "recording": {
+    "name": "300000001218988-300000001709187-2173724207 by  @ 9_29_23 AM_CallStudio.wav",
+    "size": 37630,
+    "modifyTime": 1769582253000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218988-300000001709187-2173724207 by  @ 9_29_23 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T06:37:33.000Z",
+    "callId": "300000001218988-300000001709187",
+    "phoneNumber": "2173724207",
+    "callTimestamp": "2026-01-28T06:37:33.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Subscription.\n\nSpeaker 1: I heard you say, subscription.\n\nSpeaker 2: Say yes or press one if this is correct.\n\nSpeaker 1: Otherwise, thanks. Transferring to agent.",
+    "duration": 2550,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.159999847412109,
+        "end": 6.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.159999847412109,
+        "end": 11.15999984741211,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 11.15999984741211,
+        "end": 14.84000015258789,
+        "text": " Subscription."
+      },
+      {
+        "id": 4,
+        "start": 14.84000015258789,
+        "end": 17.559999465942383,
+        "text": " I heard you say, subscription."
+      },
+      {
+        "id": 5,
+        "start": 17.559999465942383,
+        "end": 20.399999618530273,
+        "text": " Say yes or press one if this is correct."
+      },
+      {
+        "id": 6,
+        "start": 20.399999618530273,
+        "end": 22.760000228881836,
+        "text": " Otherwise, thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-815e-81bc-e0707d3456ca",
+    "url": "https://www.notion.so/300000001218988-300000001709187-2f611d0a101c815e81bce0707d3456ca"
+  },
+  "processedAt": "2026-01-28T17:14:50.984Z"
+}

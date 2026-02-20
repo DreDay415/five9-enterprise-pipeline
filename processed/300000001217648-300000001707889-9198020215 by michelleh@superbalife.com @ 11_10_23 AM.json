@@ -1,0 +1,74 @@
+{
+  "recording": {
+    "name": "300000001217648-300000001707889-9198020215 by michelleh@superbalife.com @ 11_10_23 AM.wav",
+    "size": 29506,
+    "modifyTime": 1769584332000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217648-300000001707889-9198020215 by michelleh@superbalife.com @ 11_10_23 AM.wav",
+    "uploadDate": "2026-01-28T07:12:12.000Z",
+    "callId": "300000001217648-300000001707889",
+    "agent": "michelleh",
+    "phoneNumber": "9198020215",
+    "callTimestamp": "2026-01-28T11:10:23.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yeah, we don't ship to Puerto Rico.\n\nSpeaker 2: Okay, let me just cancel that, but let me work on it. I think I can maybe figure something out.\n\nSpeaker 1: Okay, perfect.\n\nSpeaker 2: Okay, thanks very much.\n\nSpeaker 1: No problem.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 754,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Yeah, we don't ship to Puerto Rico."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10.5,
+        "text": " Okay, let me just cancel that, but let me work on it. I think I can maybe figure something out."
+      },
+      {
+        "id": 2,
+        "start": 10.5,
+        "end": 12,
+        "text": " Okay, perfect."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 14,
+        "text": " Okay, thanks very much."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 15,
+        "text": " No problem."
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 16,
+        "text": " Thank you."
+      },
+      {
+        "id": 6,
+        "start": 16,
+        "end": 17,
+        "text": " Bye."
+      },
+      {
+        "id": 7,
+        "start": 17,
+        "end": 18,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-814f-9653-c53959b30894",
+    "url": "https://www.notion.so/300000001217648-300000001707889-2f611d0a101c814f9653c53959b30894"
+  },
+  "processedAt": "2026-01-28T15:14:37.937Z"
+}

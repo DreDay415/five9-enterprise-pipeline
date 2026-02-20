@@ -1,0 +1,224 @@
+{
+  "recording": {
+    "name": "300000001218741-300000001708931-4192041562 by gabriela@superbalife.com @ 8_30_29 AM.wav",
+    "size": 228600,
+    "modifyTime": 1769591841000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218741-300000001708931-4192041562 by gabriela@superbalife.com @ 8_30_29 AM.wav",
+    "uploadDate": "2026-01-28T09:17:21.000Z",
+    "callId": "300000001218741-300000001708931",
+    "agent": "gabriela",
+    "phoneNumber": "4192041562",
+    "callTimestamp": "2026-01-28T08:30:29.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi. Thank you for calling Viagra. This is Gabriela speaking. How can I assist you?\n\nSpeaker 2: Yeah. Is this SCOREblue or not?\n\nSpeaker 1: Yes. SCOREblue is the name of our company. How can I assist you?\n\nSpeaker 2: Well, a week or so ago, I ordered some of the Viagra ABV.\n\nSpeaker 1: When I got it, the file says generic Viagra.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Oh, okay. Well, let's take a look and see what you ordered.\n\nSpeaker 2: What is your name and favorite?\n\nSpeaker 1: Well, I've got that. It's Jeffrey Lee, 9-12-1953.\n\nSpeaker 2: Thank you, Jeffrey.\n\nSpeaker 1: Okay, yes. It looks like you did place an order for Viagra ABV.\n\nSpeaker 2: Do you happen to have the pills with you at this moment?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, can you do me a favor and get them and take a look at them?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, I've got them.\n\nSpeaker 1: Okay. Do the pills happen to have the number 100 engraved on them?\n\nSpeaker 2: What's the number?\n\nSpeaker 1: Do the pills have the number 100 engraved on them?\n\nSpeaker 2: No, it says 340.\n\nSpeaker 1: Okay, so yes, it looks like the pharmacy did send you the classic Viagra,\n\nSpeaker 2: not the ABV.\n\nSpeaker 1: So don't worry about it, Jeffrey.\n\nSpeaker 2: I'll go ahead and notify the pharmacy so that they reship your order\n\nSpeaker 1: at no additional cost, okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: And don't worry about having to return those back to us.\n\nSpeaker 2: You can go ahead and keep them or discard them, up to you,\n\nSpeaker 1: but we will be reshipping your order, okay?\n\nSpeaker 2: All right. Thank you.\n\nSpeaker 1: You're welcome. Have a good rest of your day.\n\nSpeaker 2: Bye, Jeffrey.\n\nSpeaker 1: Okay, bye.",
+    "duration": 6018,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " Hi. Thank you for calling Viagra. This is Gabriela speaking. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 9,
+        "text": " Yeah. Is this SCOREblue or not?"
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 14,
+        "text": " Yes. SCOREblue is the name of our company. How can I assist you?"
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 20,
+        "text": " Well, a week or so ago, I ordered some of the Viagra ABV."
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 24,
+        "text": " When I got it, the file says generic Viagra."
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 27,
+        "text": " Okay."
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 31,
+        "text": " Oh, okay. Well, let's take a look and see what you ordered."
+      },
+      {
+        "id": 7,
+        "start": 31,
+        "end": 32,
+        "text": " What is your name and favorite?"
+      },
+      {
+        "id": 8,
+        "start": 32,
+        "end": 39,
+        "text": " Well, I've got that. It's Jeffrey Lee, 9-12-1953."
+      },
+      {
+        "id": 9,
+        "start": 39,
+        "end": 42,
+        "text": " Thank you, Jeffrey."
+      },
+      {
+        "id": 10,
+        "start": 42,
+        "end": 46,
+        "text": " Okay, yes. It looks like you did place an order for Viagra ABV."
+      },
+      {
+        "id": 11,
+        "start": 46,
+        "end": 50,
+        "text": " Do you happen to have the pills with you at this moment?"
+      },
+      {
+        "id": 12,
+        "start": 50,
+        "end": 52,
+        "text": " Yes."
+      },
+      {
+        "id": 13,
+        "start": 52,
+        "end": 59,
+        "text": " Okay, can you do me a favor and get them and take a look at them?"
+      },
+      {
+        "id": 14,
+        "start": 59,
+        "end": 61,
+        "text": " Okay."
+      },
+      {
+        "id": 15,
+        "start": 83,
+        "end": 86,
+        "text": " Okay, I've got them."
+      },
+      {
+        "id": 16,
+        "start": 86,
+        "end": 101,
+        "text": " Okay. Do the pills happen to have the number 100 engraved on them?"
+      },
+      {
+        "id": 17,
+        "start": 101,
+        "end": 104,
+        "text": " What's the number?"
+      },
+      {
+        "id": 18,
+        "start": 104,
+        "end": 108,
+        "text": " Do the pills have the number 100 engraved on them?"
+      },
+      {
+        "id": 19,
+        "start": 108,
+        "end": 110,
+        "text": " No, it says 340."
+      },
+      {
+        "id": 20,
+        "start": 110,
+        "end": 115,
+        "text": " Okay, so yes, it looks like the pharmacy did send you the classic Viagra,"
+      },
+      {
+        "id": 21,
+        "start": 115,
+        "end": 117,
+        "text": " not the AGB."
+      },
+      {
+        "id": 22,
+        "start": 117,
+        "end": 119,
+        "text": " So don't worry about it, Jeffrey."
+      },
+      {
+        "id": 23,
+        "start": 119,
+        "end": 122,
+        "text": " I'll go ahead and notify the pharmacy so that they reship your order"
+      },
+      {
+        "id": 24,
+        "start": 122,
+        "end": 124,
+        "text": " at no additional cost, okay?"
+      },
+      {
+        "id": 25,
+        "start": 124,
+        "end": 125,
+        "text": " Okay."
+      },
+      {
+        "id": 26,
+        "start": 125,
+        "end": 129,
+        "text": " And don't worry about having to return those back to us."
+      },
+      {
+        "id": 27,
+        "start": 129,
+        "end": 132,
+        "text": " You can go ahead and keep them or discard them up to you,"
+      },
+      {
+        "id": 28,
+        "start": 132,
+        "end": 135,
+        "text": " but we will be reshipping your order, okay?"
+      },
+      {
+        "id": 29,
+        "start": 135,
+        "end": 136,
+        "text": " All right. Thank you."
+      },
+      {
+        "id": 30,
+        "start": 136,
+        "end": 138,
+        "text": " You're welcome. Have a good rest of your day."
+      },
+      {
+        "id": 31,
+        "start": 138,
+        "end": 139,
+        "text": " Bye, Jeffrey."
+      },
+      {
+        "id": 32,
+        "start": 139,
+        "end": 140,
+        "text": " Okay, bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a0-98f4-ff5406bec6f9",
+    "url": "https://www.notion.so/300000001218741-300000001708931-2f611d0a101c81a098f4ff5406bec6f9"
+  },
+  "processedAt": "2026-01-28T11:19:29.175Z"
+}

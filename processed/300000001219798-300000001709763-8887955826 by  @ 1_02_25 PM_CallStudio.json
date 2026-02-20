@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001219798-300000001709763-8887955826 by  @ 1_02_25 PM_CallStudio.wav",
+    "size": 27166,
+    "modifyTime": 1769592445000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219798-300000001709763-8887955826 by  @ 1_02_25 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:27:25.000Z",
+    "callId": "300000001219798-300000001709763",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T09:27:25.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: I have a second order of Sidenithine, but I did not order it.",
+    "duration": 956,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.079999923706055,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.079999923706055,
+        "end": 7.079999923706055,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.079999923706055,
+        "end": 11.119999885559082,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 11.119999885559082,
+        "end": 16.559999465942383,
+        "text": " I have a second order of Sidenithine, but I did not order it."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8140-ae0b-edc9b13eaaba",
+    "url": "https://www.notion.so/300000001219798-300000001709763-2f611d0a101c8140ae0bedc9b13eaaba"
+  },
+  "processedAt": "2026-01-28T10:17:23.133Z"
+}

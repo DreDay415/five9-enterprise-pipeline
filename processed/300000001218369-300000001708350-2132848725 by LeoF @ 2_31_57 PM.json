@@ -1,0 +1,367 @@
+{
+  "recording": {
+    "name": "300000001218369-300000001708350-2132848725 by LeoF @ 2_31_57 PM.wav",
+    "size": 472806,
+    "modifyTime": 1769590940000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218369-300000001708350-2132848725 by LeoF @ 2_31_57 PM.wav",
+    "uploadDate": "2026-01-28T09:02:20.000Z",
+    "callId": "300000001218369-300000001708350",
+    "phoneNumber": "2132848725",
+    "callTimestamp": "2026-01-28T14:31:57.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thanks for calling Viagra. How can I help you?\n\nSpeaker 2: Yes, I'd like to order some Viagra.\n\nSpeaker 1: Yeah, absolutely. What was your first and last name, please?\n\nSpeaker 2: First name is Jeff, J-E-F-F. Last name Hasner, H-A-S-N-E-R.\n\nSpeaker 1: Perfect. Mr. Hasner, it looks like you were doing the, what, 50 pills at a time, 100 milligrams?\n\nSpeaker 2: You going to do that same order again today?\n\nSpeaker 1: Yeah, what about the newer stuff? Tell me what the difference is.\n\nSpeaker 2: The new Viagra A-G-V, it activates in as little as 11 minutes, so it's faster acting,\n\nSpeaker 1: and it lasts up to 14 hours in your system, so it lasts longer and it acts faster.\n\nSpeaker 2: Is it sold in the same kind of dosages?\n\nSpeaker 1: Yeah, we have a 100 milligram option if you want to try it out.\n\nSpeaker 2: What are the other options for it?\n\nSpeaker 1: 50 milligrams and 25 milligrams.\n\nSpeaker 2: I see. And what's the cost difference?\n\nSpeaker 1: So I can actually get you a little price break.\n\nSpeaker 2: If you wanted to try the new Viagra A-G-V just because it's your first time trying it,\n\nSpeaker 1: I can set you up with 40 pills for $163.95.\n\nSpeaker 2: I usually get 50, right?\n\nSpeaker 1: Hang on just a second. 40 for $163. And how much would 50 be?\n\nSpeaker 2: 50 is $249.\n\nSpeaker 1: Oh, that's quite a...\n\nSpeaker 2: Let's do the 40.\n\nSpeaker 1: Yeah, let's try it out.\n\nSpeaker 2: Now what card do you have?\n\nSpeaker 1: I have a MasterCard here that ends in 7608.\n\nSpeaker 2: No. Let's use this card here.\n\nSpeaker 1: It's a Visa.\n\nSpeaker 2: Okay, I'll take the new card number whenever you're ready.\n\nSpeaker 1: 4465, 4203, 9260, 1076.\n\nSpeaker 2: Expiration?\n\nSpeaker 1: April of 2028.\n\nSpeaker 2: And then the CBV code?\n\nSpeaker 1: 312.\n\nSpeaker 2: Perfect. I'm going to place this order for you now. Give me just a moment.\n\nSpeaker 1: Hang on. This is a different address.\n\nSpeaker 2: Okay. What's the address on your card?\n\nSpeaker 1: It's my winter address, 777 East Quartz Avenue, number 8007.\n\nSpeaker 2: Sandy Valley, two words, Nevada, 89019.\n\nSpeaker 1: It might come up as Gene, J-E-A-N, Nevada at that zip code, and that's fine.\n\nSpeaker 2: That's actually 20 miles away.\n\nSpeaker 1: No worries. So you said 777 East Quartz Avenue, number 8007, Sandy Valley, Nevada, 89019.\n\nSpeaker 2: Correct.\n\nSpeaker 1: All right. Give me just a moment.\n\nSpeaker 2: Have you heard any people, have you talked to anybody who's used them, likes them better, doesn't like them better?\n\nSpeaker 1: Yeah, no, we're getting a ton of great feedback. People seem to like the pill quite a bit more.\n\nSpeaker 2: Some people don't, but that's fewer and far in between. Some people like the regular generic Fiagra.\n\nSpeaker 1: But the AGB definitely seems to be much more popular.\n\nSpeaker 2: So, yeah, give it a chance when you try it and let us know how it goes.\n\nSpeaker 1: Okay. Now, what's the time limit on ordering this thing?\n\nSpeaker 2: You know, there's a certain amount you can have over a certain amount of time, isn't it?\n\nSpeaker 1: I forget how it works.\n\nSpeaker 2: For the 40 pills, I think it's like 60 days, so you can place another order in like, I don't even know if it's 60 days,\n\nSpeaker 1: but essentially you would be able to place another order March 26th.\n\nSpeaker 2: But you can always call back to check before then as well.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right. You're all set.\n\nSpeaker 1: Thank you very much. Bye-bye.",
+    "duration": 8156,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thanks for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 11,
+        "text": " Yes, I'd like to order some Viagra."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 15,
+        "text": " Yeah, absolutely. What was your first and last name, please?"
+      },
+      {
+        "id": 3,
+        "start": 15,
+        "end": 22,
+        "text": " First name is Jeff, J-E-F-F. Last name Hasner, H-A-S-N-E-R."
+      },
+      {
+        "id": 4,
+        "start": 22,
+        "end": 27,
+        "text": " Perfect. Mr. Hasner, it looks like you were doing the, what, 50 pills at a time, 100 milligrams?"
+      },
+      {
+        "id": 5,
+        "start": 27,
+        "end": 29,
+        "text": " You going to do that same order again today?"
+      },
+      {
+        "id": 6,
+        "start": 29,
+        "end": 34,
+        "text": " Yeah, what about the newer stuff? Tell me what the difference is."
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 42,
+        "text": " The new Viagra A-G-V, it activates in as little as 11 minutes, so it's faster acting,"
+      },
+      {
+        "id": 8,
+        "start": 42,
+        "end": 50,
+        "text": " and it lasts up to 14 hours in your system, so it lasts longer and it acts faster."
+      },
+      {
+        "id": 9,
+        "start": 50,
+        "end": 55,
+        "text": " Is it sold in the same kind of dosages?"
+      },
+      {
+        "id": 10,
+        "start": 55,
+        "end": 58,
+        "text": " Yeah, we have a 100 milligram option if you want to try it out."
+      },
+      {
+        "id": 11,
+        "start": 58,
+        "end": 61,
+        "text": " What are the other options for it?"
+      },
+      {
+        "id": 12,
+        "start": 61,
+        "end": 65,
+        "text": " 50 milligrams and 25 milligrams."
+      },
+      {
+        "id": 13,
+        "start": 65,
+        "end": 69,
+        "text": " I see. And what's the cost difference?"
+      },
+      {
+        "id": 14,
+        "start": 69,
+        "end": 71,
+        "text": " So I can actually get you a little price break."
+      },
+      {
+        "id": 15,
+        "start": 71,
+        "end": 76,
+        "text": " If you wanted to try the new Viagra A-G-V just because it's your first time trying it,"
+      },
+      {
+        "id": 16,
+        "start": 76,
+        "end": 81,
+        "text": " I can set you up with 40 pills for $163.95."
+      },
+      {
+        "id": 17,
+        "start": 81,
+        "end": 85,
+        "text": " I usually get 50, right?"
+      },
+      {
+        "id": 18,
+        "start": 85,
+        "end": 91,
+        "text": " Hang on just a second. 40 for $163. And how much would 50 be?"
+      },
+      {
+        "id": 19,
+        "start": 91,
+        "end": 93,
+        "text": " 50 is $249."
+      },
+      {
+        "id": 20,
+        "start": 93,
+        "end": 97,
+        "text": " Oh, that's quite a..."
+      },
+      {
+        "id": 21,
+        "start": 97,
+        "end": 99,
+        "text": " Let's do the 40."
+      },
+      {
+        "id": 22,
+        "start": 99,
+        "end": 101,
+        "text": " Yeah, let's try it out."
+      },
+      {
+        "id": 23,
+        "start": 101,
+        "end": 104,
+        "text": " Now what card do you have?"
+      },
+      {
+        "id": 24,
+        "start": 104,
+        "end": 110,
+        "text": " I have a MasterCard here that ends in 7608."
+      },
+      {
+        "id": 25,
+        "start": 110,
+        "end": 115,
+        "text": " No. Let's use this card here."
+      },
+      {
+        "id": 26,
+        "start": 115,
+        "end": 116,
+        "text": " It's a Visa."
+      },
+      {
+        "id": 27,
+        "start": 116,
+        "end": 119,
+        "text": " Okay, I'll take the new card number whenever you're ready."
+      },
+      {
+        "id": 28,
+        "start": 119,
+        "end": 137,
+        "text": " 4465, 4203, 9260, 1076."
+      },
+      {
+        "id": 29,
+        "start": 137,
+        "end": 141,
+        "text": " Expiration?"
+      },
+      {
+        "id": 30,
+        "start": 141,
+        "end": 144,
+        "text": " April of 2028."
+      },
+      {
+        "id": 31,
+        "start": 144,
+        "end": 148,
+        "text": " And then the CBV code?"
+      },
+      {
+        "id": 32,
+        "start": 148,
+        "end": 151,
+        "text": " 312."
+      },
+      {
+        "id": 33,
+        "start": 151,
+        "end": 154,
+        "text": " Perfect. I'm going to place this order for you now. Give me just a moment."
+      },
+      {
+        "id": 34,
+        "start": 154,
+        "end": 158,
+        "text": " Hang on. This is a different address."
+      },
+      {
+        "id": 35,
+        "start": 158,
+        "end": 162,
+        "text": " Okay. What's the address on your card?"
+      },
+      {
+        "id": 36,
+        "start": 163,
+        "end": 187,
+        "text": " It's my winter address, 777 East Quartz Avenue, number 8007."
+      },
+      {
+        "id": 37,
+        "start": 187,
+        "end": 198,
+        "text": " Sandy Valley, two words, Nevada, 89019."
+      },
+      {
+        "id": 38,
+        "start": 198,
+        "end": 209,
+        "text": " It might come up as Gene, J-E-A-N, Nevada at that zip code, and that's fine."
+      },
+      {
+        "id": 39,
+        "start": 209,
+        "end": 213,
+        "text": " That's actually 20 miles away."
+      },
+      {
+        "id": 40,
+        "start": 213,
+        "end": 221,
+        "text": " No worries. So you said 777 East Quartz Avenue, number 8007, Sandy Valley, Nevada, 89019."
+      },
+      {
+        "id": 41,
+        "start": 221,
+        "end": 224,
+        "text": " Correct."
+      },
+      {
+        "id": 42,
+        "start": 224,
+        "end": 227,
+        "text": " All right. Give me just a moment."
+      },
+      {
+        "id": 43,
+        "start": 227,
+        "end": 239,
+        "text": " Have you heard any people, have you talked to anybody who's used them, likes them better, doesn't like them better?"
+      },
+      {
+        "id": 44,
+        "start": 239,
+        "end": 244,
+        "text": " Yeah, no, we're getting a ton of great feedback. People seem to like the pill quite a bit more."
+      },
+      {
+        "id": 45,
+        "start": 244,
+        "end": 249,
+        "text": " Some people don't, but that's fewer and far in between. Some people like the regular generic Fiagra."
+      },
+      {
+        "id": 46,
+        "start": 249,
+        "end": 252,
+        "text": " But the AGB definitely seems to be much more popular."
+      },
+      {
+        "id": 47,
+        "start": 252,
+        "end": 256,
+        "text": " So, yeah, give it a chance when you try it and let us know how it goes."
+      },
+      {
+        "id": 48,
+        "start": 256,
+        "end": 260,
+        "text": " Okay. Now, what's the time limit on ordering this thing?"
+      },
+      {
+        "id": 49,
+        "start": 260,
+        "end": 265,
+        "text": " You know, there's a certain amount you can have over a certain amount of time, isn't it?"
+      },
+      {
+        "id": 50,
+        "start": 265,
+        "end": 266,
+        "text": " I forget how it works."
+      },
+      {
+        "id": 51,
+        "start": 266,
+        "end": 272,
+        "text": " For the 40 pills, I think it's like 60 days, so you can place another order in like, I don't even know if it's 60 days,"
+      },
+      {
+        "id": 52,
+        "start": 272,
+        "end": 277,
+        "text": " but essentially you would be able to place another order March 26th."
+      },
+      {
+        "id": 53,
+        "start": 277,
+        "end": 281,
+        "text": " But you can always call back to check before then as well."
+      },
+      {
+        "id": 54,
+        "start": 281,
+        "end": 283,
+        "text": " Okay."
+      },
+      {
+        "id": 55,
+        "start": 283,
+        "end": 284,
+        "text": " All right. You're all set."
+      },
+      {
+        "id": 56,
+        "start": 284,
+        "end": 287,
+        "text": " Thank you very much. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813b-bcf1-dde1103ecb6e",
+    "url": "https://www.notion.so/300000001218369-300000001708350-2f611d0a101c813bbcf1dde1103ecb6e"
+  },
+  "processedAt": "2026-01-28T11:53:38.015Z"
+}

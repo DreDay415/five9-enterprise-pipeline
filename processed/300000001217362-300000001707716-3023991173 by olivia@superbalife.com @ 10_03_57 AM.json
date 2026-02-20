@@ -1,0 +1,290 @@
+{
+  "recording": {
+    "name": "300000001217362-300000001707716-3023991173 by olivia@superbalife.com @ 10_03_57 AM.wav",
+    "size": 210206,
+    "modifyTime": 1769583735000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217362-300000001707716-3023991173 by olivia@superbalife.com @ 10_03_57 AM.wav",
+    "uploadDate": "2026-01-28T07:02:15.000Z",
+    "callId": "300000001217362-300000001707716",
+    "agent": "olivia",
+    "phoneNumber": "3023991173",
+    "callTimestamp": "2026-01-28T10:03:57.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, this is Olivia speaking.\n\nSpeaker 2: Who do I have the pleasure of speaking with today?\n\nSpeaker 1: Yes, hi, my name is Suleman Dew.\n\nSpeaker 2: Hi, Suleman, how are you?\n\nSpeaker 1: Good, how are you doing?\n\nSpeaker 2: Good.\n\nSpeaker 1: How can I help, thank you so much for asking,\n\nSpeaker 2: how can I help you today?\n\nSpeaker 1: Yeah, I was trying to cancel my subscription.\n\nSpeaker 2: Yeah, I can help you with that.\n\nSpeaker 1: Okay, Suleman, what is your date of birth?\n\nSpeaker 2: 01, 01, 1980.\n\nSpeaker 1: Okay, great, and you're located in Dover, Delaware?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Great, yeah, so I see your prescription here.\n\nSpeaker 2: Yeah, if you don't want to receive regular refills,\n\nSpeaker 1: those monthly refills, especially with your prescription,\n\nSpeaker 2: you certainly don't have to.\n\nSpeaker 1: But you do always have the option with your prescription,\n\nSpeaker 2: if you do want to keep overall access to it,\n\nSpeaker 1: the doctor's approval, the price point,\n\nSpeaker 2: without those regular orders, to place the prescription on hold\n\nSpeaker 1: for up to six months at a time,\n\nSpeaker 2: just because six months is when the prescription would expire\n\nSpeaker 1: if we didn't refill it.\n\nSpeaker 2: And the way that would work is whenever you are ready to order,\n\nSpeaker 1: if you did place it on hold, say, for the next six months,\n\nSpeaker 2: if you did want to order before July 27th of this year, you could.\n\nSpeaker 1: You just have to give us a call to place the order yourself.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, great.\n\nSpeaker 2: All right, cool.\n\nSpeaker 1: Well, if you need anything before then, like I mentioned,\n\nSpeaker 2: just give us a call.\n\nSpeaker 1: We're always here at this number, Monday through Friday,\n\nSpeaker 2: 8 to 5 Pacific.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, great.\n\nSpeaker 1: Thanks, Solomon.\n\nSpeaker 2: Your prescription is on hold, and just let us know if you need anything.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay, bye.\n\nSpeaker 2: Bye.",
+    "duration": 7406,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.159999847412109,
+        "text": " Thank you for calling Viagra, this is Olivia speaking."
+      },
+      {
+        "id": 1,
+        "start": 4.159999847412109,
+        "end": 7.5,
+        "text": " Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 2,
+        "start": 7.5,
+        "end": 11,
+        "text": " Yes, hi, my name is Suleman Dew."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 13.5,
+        "text": " Hi, Suleman, how are you?"
+      },
+      {
+        "id": 4,
+        "start": 13.5,
+        "end": 15.5,
+        "text": " Good, how are you doing?"
+      },
+      {
+        "id": 5,
+        "start": 15.5,
+        "end": 17,
+        "text": " Good."
+      },
+      {
+        "id": 6,
+        "start": 17,
+        "end": 19,
+        "text": " How can I help, thank you so much for asking,"
+      },
+      {
+        "id": 7,
+        "start": 19,
+        "end": 21,
+        "text": " how can I help you today?"
+      },
+      {
+        "id": 8,
+        "start": 21,
+        "end": 25.5,
+        "text": " Yeah, I was trying to cancel my subscription."
+      },
+      {
+        "id": 9,
+        "start": 25.5,
+        "end": 27.5,
+        "text": " Yeah, I can help you with that."
+      },
+      {
+        "id": 10,
+        "start": 28,
+        "end": 32.5,
+        "text": " Okay, Suleman, what is your date of birth?"
+      },
+      {
+        "id": 11,
+        "start": 32.5,
+        "end": 36,
+        "text": " 01, 01, 1980."
+      },
+      {
+        "id": 12,
+        "start": 36,
+        "end": 40,
+        "text": " Okay, great, and you're located in Dover, Delaware?"
+      },
+      {
+        "id": 13,
+        "start": 40,
+        "end": 41.5,
+        "text": " Yes."
+      },
+      {
+        "id": 14,
+        "start": 41.5,
+        "end": 45.5,
+        "text": " Great, yeah, so I see your prescription here."
+      },
+      {
+        "id": 15,
+        "start": 45.5,
+        "end": 50,
+        "text": " Yeah, if you don't want to receive regular refills,"
+      },
+      {
+        "id": 16,
+        "start": 50,
+        "end": 52.5,
+        "text": " those monthly refills, especially with your prescription,"
+      },
+      {
+        "id": 17,
+        "start": 52.5,
+        "end": 55,
+        "text": " you certainly don't have to."
+      },
+      {
+        "id": 18,
+        "start": 55,
+        "end": 59,
+        "text": " But you do always have the option with your prescription,"
+      },
+      {
+        "id": 19,
+        "start": 59,
+        "end": 62,
+        "text": " if you do want to keep overall access to it,"
+      },
+      {
+        "id": 20,
+        "start": 62,
+        "end": 64,
+        "text": " the doctor's approval, the price point,"
+      },
+      {
+        "id": 21,
+        "start": 64,
+        "end": 68,
+        "text": " without those regular orders, to place the prescription on hold"
+      },
+      {
+        "id": 22,
+        "start": 68,
+        "end": 70,
+        "text": " for up to six months at a time,"
+      },
+      {
+        "id": 23,
+        "start": 70,
+        "end": 73,
+        "text": " just because six months is when the prescription would expire"
+      },
+      {
+        "id": 24,
+        "start": 73,
+        "end": 76,
+        "text": " if we didn't refill it."
+      },
+      {
+        "id": 25,
+        "start": 76,
+        "end": 81,
+        "text": " And the way that would work is whenever you are ready to order,"
+      },
+      {
+        "id": 26,
+        "start": 81,
+        "end": 84.5,
+        "text": " if you did place it on hold, say, for the next six months,"
+      },
+      {
+        "id": 27,
+        "start": 84.5,
+        "end": 89.5,
+        "text": " if you did want to order before July 27th of this year, you could."
+      },
+      {
+        "id": 28,
+        "start": 89.5,
+        "end": 94.5,
+        "text": " You just have to give us a call to place the order yourself."
+      },
+      {
+        "id": 29,
+        "start": 94.5,
+        "end": 97.5,
+        "text": " Okay."
+      },
+      {
+        "id": 30,
+        "start": 97.5,
+        "end": 99.5,
+        "text": " Okay, great."
+      },
+      {
+        "id": 31,
+        "start": 99.5,
+        "end": 102.5,
+        "text": " All right, cool."
+      },
+      {
+        "id": 32,
+        "start": 102.5,
+        "end": 108.5,
+        "text": " Well, if you need anything before then, like I mentioned,"
+      },
+      {
+        "id": 33,
+        "start": 108.5,
+        "end": 109.5,
+        "text": " just give us a call."
+      },
+      {
+        "id": 34,
+        "start": 109.5,
+        "end": 112.5,
+        "text": " We're always here at this number, Monday through Friday,"
+      },
+      {
+        "id": 35,
+        "start": 112.5,
+        "end": 115.5,
+        "text": " 8 to 5 Pacific."
+      },
+      {
+        "id": 36,
+        "start": 115.5,
+        "end": 116.5,
+        "text": " Okay."
+      },
+      {
+        "id": 37,
+        "start": 116.5,
+        "end": 118.5,
+        "text": " Okay, great."
+      },
+      {
+        "id": 38,
+        "start": 118.5,
+        "end": 119.5,
+        "text": " Thanks, Solomon."
+      },
+      {
+        "id": 39,
+        "start": 119.5,
+        "end": 122.5,
+        "text": " Your prescription is on hold, and just let us know if you need anything."
+      },
+      {
+        "id": 40,
+        "start": 122.5,
+        "end": 124.5,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 41,
+        "start": 124.5,
+        "end": 125.5,
+        "text": " Yeah."
+      },
+      {
+        "id": 42,
+        "start": 125.5,
+        "end": 126.5,
+        "text": " Okay, bye."
+      },
+      {
+        "id": 43,
+        "start": 126.5,
+        "end": 127.5,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-812b-9f9f-d6f7f862a85b",
+    "url": "https://www.notion.so/300000001217362-300000001707716-2f611d0a101c812b9f9fd6f7f862a85b"
+  },
+  "processedAt": "2026-01-28T16:05:21.363Z"
+}

@@ -1,0 +1,158 @@
+{
+  "recording": {
+    "name": "300000001220581-300000001710656-9734776725 by john@superbalife.com @ 8_57_18 AM.wav",
+    "size": 150600,
+    "modifyTime": 1769619552000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220581-300000001710656-9734776725 by john@superbalife.com @ 8_57_18 AM.wav",
+    "uploadDate": "2026-01-28T16:59:12.000Z",
+    "callId": "300000001220581-300000001710656",
+    "agent": "john",
+    "phoneNumber": "9734776725",
+    "callTimestamp": "2026-01-28T08:57:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Yeah, I'm calling about a tracking number. I've been tracking a package and it seems like it came and went.\n\nSpeaker 1: It's going back again. It didn't get delivered twice.\n\nSpeaker 2: Can I get your name and zip code?\n\nSpeaker 1: Yeah, Eugene Cooper 32940.\n\nSpeaker 2: So I see what you're talking about, sir. I'm not exactly sure. I'm not the post office.\n\nSpeaker 1: What I would suggest is you call the post office with that tracking number.\n\nSpeaker 2: And ask them why it went back to North Carolina after it was just in Florida.\n\nSpeaker 1: That would be your best bet.\n\nSpeaker 2: If they tell you something like we were returning it or it got lost or something, we'll just reship it to you.\n\nSpeaker 1: But I would check with them first because I don't have a reason for why it's doing that.\n\nSpeaker 2: But I see what you're saying, too.\n\nSpeaker 1: Yeah, okay. It never was delivered. I don't know. It's kind of weird.\n\nSpeaker 2: You've got to call the post office because I don't work for them.\n\nSpeaker 1: So give them that tracking number. They'll have more information on what's going on with that package.\n\nSpeaker 2: If they tell you it's lost or it's not going to arrive...\n\nSpeaker 1: Do I have to go there or I can call? Is there a number to call?\n\nSpeaker 2: It's super easy, sir. You just look up your local post office number.\n\nSpeaker 1: And give them that tracking number that you already have. That's all you have to do.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: Welcome.\n\nSpeaker 2: Bye.",
+    "duration": 5977,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 11,
+        "text": " Yeah, I'm calling about a tracking number. I've been tracking a package and it seems like it came and went."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 14,
+        "text": " It's going back again. It didn't get delivered twice."
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 17,
+        "text": " Can I get your name and zip code?"
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 37,
+        "text": " Yeah, Eugene Cooper 32940."
+      },
+      {
+        "id": 5,
+        "start": 37,
+        "end": 42,
+        "text": " So I see what you're talking about, sir. I'm not exactly sure. I'm not the post office."
+      },
+      {
+        "id": 6,
+        "start": 42,
+        "end": 45,
+        "text": " What I would suggest is you call the post office with that tracking number"
+      },
+      {
+        "id": 7,
+        "start": 45,
+        "end": 49,
+        "text": " and ask them why it went back to North Carolina after it was just in Florida."
+      },
+      {
+        "id": 8,
+        "start": 49,
+        "end": 50,
+        "text": " That would be your best bet."
+      },
+      {
+        "id": 9,
+        "start": 50,
+        "end": 56,
+        "text": " If they tell you something like we were returning it or it got lost or something, we'll just reship it to you."
+      },
+      {
+        "id": 10,
+        "start": 56,
+        "end": 59,
+        "text": " But I would check with them first because I don't have a reason for why it's doing that."
+      },
+      {
+        "id": 11,
+        "start": 59,
+        "end": 62,
+        "text": " But I see what you're saying, too."
+      },
+      {
+        "id": 12,
+        "start": 62,
+        "end": 68,
+        "text": " Yeah, okay. It never was delivered. I don't know. It's kind of weird."
+      },
+      {
+        "id": 13,
+        "start": 68,
+        "end": 71,
+        "text": " You've got to call the post office because I don't work for them."
+      },
+      {
+        "id": 14,
+        "start": 71,
+        "end": 75,
+        "text": " So give them that tracking number. They'll have more information on what's going on with that package."
+      },
+      {
+        "id": 15,
+        "start": 75,
+        "end": 77,
+        "text": " If they tell you it's lost or it's not going to arrive..."
+      },
+      {
+        "id": 16,
+        "start": 77,
+        "end": 81,
+        "text": " Do I have to go there or I can call? Is there a number to call?"
+      },
+      {
+        "id": 17,
+        "start": 81,
+        "end": 84,
+        "text": " It's super easy, sir. You just look up your local post office number"
+      },
+      {
+        "id": 18,
+        "start": 84,
+        "end": 88,
+        "text": " and give them that tracking number that you already have. That's all you have to do."
+      },
+      {
+        "id": 19,
+        "start": 88,
+        "end": 90,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 20,
+        "start": 90,
+        "end": 92,
+        "text": " Welcome."
+      },
+      {
+        "id": 21,
+        "start": 92,
+        "end": 93,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8169-94eb-df094a680e31",
+    "url": "https://www.notion.so/300000001220581-300000001710656-2f611d0a101c816994ebdf094a680e31"
+  },
+  "processedAt": "2026-01-28T18:45:34.131Z"
+}

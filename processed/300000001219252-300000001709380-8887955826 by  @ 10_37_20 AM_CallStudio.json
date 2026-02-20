@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001219252-300000001709380-8887955826 by  @ 10_37_20 AM_CallStudio.wav",
+    "size": 22420,
+    "modifyTime": 1769583733000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219252-300000001709380-8887955826 by  @ 10_37_20 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:02:13.000Z",
+    "callId": "300000001219252-300000001709380",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T07:02:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Cancel.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Transferring to agent.",
+    "duration": 1214,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.159999847412109,
+        "end": 7.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.159999847412109,
+        "end": 10.15999984741211,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.15999984741211,
+        "end": 11.15999984741211,
+        "text": " Cancel."
+      },
+      {
+        "id": 4,
+        "start": 11.15999984741211,
+        "end": 12.15999984741211,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 12.15999984741211,
+        "end": 13.039999961853027,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81d8-84be-d1cb5b24e048",
+    "url": "https://www.notion.so/300000001219252-300000001709380-2f611d0a101c81d884bed1cb5b24e048"
+  },
+  "processedAt": "2026-01-28T16:08:23.170Z"
+}

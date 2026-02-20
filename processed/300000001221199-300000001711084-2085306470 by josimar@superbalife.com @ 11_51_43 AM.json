@@ -1,0 +1,188 @@
+{
+  "recording": {
+    "name": "300000001221199-300000001711084-2085306470 by josimar@superbalife.com @ 11_51_43 AM.wav",
+    "size": 124210,
+    "modifyTime": 1769630001000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221199-300000001711084-2085306470 by josimar@superbalife.com @ 11_51_43 AM.wav",
+    "uploadDate": "2026-01-28T19:53:21.000Z",
+    "callId": "300000001221199-300000001711084",
+    "agent": "josimar",
+    "phoneNumber": "2085306470",
+    "callTimestamp": "2026-01-28T11:51:43.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, I called a while back about returning my prescription and I was instructed by someone\n\nSpeaker 2: there to send it back, to reject it at the post office, to have it sent back and I would\n\nSpeaker 1: get a refund.\n\nSpeaker 2: And that's been about a month ago and I still haven't seen a refund.\n\nSpeaker 1: Yeah, we just need to confirm it was sent back to our pharmacy.\n\nSpeaker 2: One moment.\n\nSpeaker 1: What's your last name and a zip code?\n\nSpeaker 2: Miller.\n\nSpeaker 1: 3239?\n\nSpeaker 2: Ok, one moment.\n\nSpeaker 1: Yeah, it is all FDA approved so there's no feedback on that but I'll get that to you.\n\nSpeaker 2: It's all made by the same company, just that you buy items from the same company, you know,\n\nSpeaker 1: the same, but you should see quality level.\n\nSpeaker 2: So if you're gonna get higher quality, you should be able to make your choice based on\n\nSpeaker 1: the quality of the product.\n\nSpeaker 2: I'll respond to the procedure.\n\nSpeaker 1: Take FDA's ranking.\n\nSpeaker 2: Ok, so as of now, that package is actually still on its way to the Kentucky facility,\n\nSpeaker 1: the pharmacy.\n\nSpeaker 2: But since it's already basically on its way there, I could just go ahead and request them\n\nSpeaker 1: to push the refund in now.\n\nSpeaker 2: You'll receive that in three to five business days.\n\nSpeaker 1: Ok, thank you.\n\nSpeaker 2: Yeah, no problem.\n\nSpeaker 1: Have a good day.\n\nSpeaker 2: Bye bye.\n\nSpeaker 1: You too, bye.",
+    "duration": 5772,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 11.800000190734863,
+        "text": " Hi, I called a while back about returning my prescription and I was instructed by someone"
+      },
+      {
+        "id": 1,
+        "start": 11.800000190734863,
+        "end": 16.8799991607666,
+        "text": " there to send it back, to reject it at the post office, to have it sent back and I would"
+      },
+      {
+        "id": 2,
+        "start": 16.8799991607666,
+        "end": 17.8799991607666,
+        "text": " get a refund."
+      },
+      {
+        "id": 3,
+        "start": 17.8799991607666,
+        "end": 20.8799991607666,
+        "text": " And that's been about a month ago and I still haven't seen a refund."
+      },
+      {
+        "id": 4,
+        "start": 20.8799991607666,
+        "end": 24.1200008392334,
+        "text": " Yeah, we just need to confirm it was sent back to our pharmacy."
+      },
+      {
+        "id": 5,
+        "start": 24.1200008392334,
+        "end": 25.1200008392334,
+        "text": " One moment."
+      },
+      {
+        "id": 6,
+        "start": 25.1200008392334,
+        "end": 28.1200008392334,
+        "text": " What's your last name and a zip code?"
+      },
+      {
+        "id": 7,
+        "start": 28.1200008392334,
+        "end": 29.1200008392334,
+        "text": " Miller."
+      },
+      {
+        "id": 8,
+        "start": 29.1200008392334,
+        "end": 31.1200008392334,
+        "text": " 3239?"
+      },
+      {
+        "id": 9,
+        "start": 31.1200008392334,
+        "end": 35.119998931884766,
+        "text": " Ok, one moment."
+      },
+      {
+        "id": 10,
+        "start": 35.119998931884766,
+        "end": 40.119998931884766,
+        "text": " Yeah, it is all FDA approved so there's no feedback on that but I'll get that to you."
+      },
+      {
+        "id": 11,
+        "start": 40.119998931884766,
+        "end": 45.119998931884766,
+        "text": " It's all made by the same company, just that you buy items from the same company, you know,"
+      },
+      {
+        "id": 12,
+        "start": 45.119998931884766,
+        "end": 47.119998931884766,
+        "text": " the same, but you should see quality level."
+      },
+      {
+        "id": 13,
+        "start": 47.119998931884766,
+        "end": 50.119998931884766,
+        "text": " So if you're gonna get higher quality, you should be able to make your choice based on"
+      },
+      {
+        "id": 14,
+        "start": 50.119998931884766,
+        "end": 52.119998931884766,
+        "text": " the quality of the product."
+      },
+      {
+        "id": 15,
+        "start": 52.119998931884766,
+        "end": 54.119998931884766,
+        "text": " I'll respond to the procedure."
+      },
+      {
+        "id": 16,
+        "start": 54.119998931884766,
+        "end": 56.119998931884766,
+        "text": " Take FDA's ranking."
+      },
+      {
+        "id": 17,
+        "start": 56.119998931884766,
+        "end": 61.119998931884766,
+        "text": " Ok, so as of now, that package is actually still on its way to the Kentucky facility,"
+      },
+      {
+        "id": 18,
+        "start": 61.119998931884766,
+        "end": 62.119998931884766,
+        "text": " the pharmacy."
+      },
+      {
+        "id": 19,
+        "start": 62.119998931884766,
+        "end": 66.12000274658203,
+        "text": " But since it's already basically on its way there, I could just go ahead and request them"
+      },
+      {
+        "id": 20,
+        "start": 66.12000274658203,
+        "end": 68.12000274658203,
+        "text": " to push the refund in now."
+      },
+      {
+        "id": 21,
+        "start": 68.12000274658203,
+        "end": 71.12000274658203,
+        "text": " You'll receive that in three to five business days."
+      },
+      {
+        "id": 22,
+        "start": 71.12000274658203,
+        "end": 72.12000274658203,
+        "text": " Ok, thank you."
+      },
+      {
+        "id": 23,
+        "start": 72.12000274658203,
+        "end": 73.12000274658203,
+        "text": " Yeah, no problem."
+      },
+      {
+        "id": 24,
+        "start": 73.12000274658203,
+        "end": 74.12000274658203,
+        "text": " Have a good day."
+      },
+      {
+        "id": 25,
+        "start": 74.12000274658203,
+        "end": 75.12000274658203,
+        "text": " Bye bye."
+      },
+      {
+        "id": 26,
+        "start": 75.12000274658203,
+        "end": 76.12000274658203,
+        "text": " You too, bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81fb-a968-f62cb2578152",
+    "url": "https://www.notion.so/300000001221199-300000001711084-2f611d0a101c81fba968f62cb2578152"
+  },
+  "processedAt": "2026-01-28T23:19:32.229Z"
+}

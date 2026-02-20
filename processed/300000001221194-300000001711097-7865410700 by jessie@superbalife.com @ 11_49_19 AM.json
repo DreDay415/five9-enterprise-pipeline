@@ -1,0 +1,134 @@
+{
+  "recording": {
+    "name": "300000001221194-300000001711097-7865410700 by jessie@superbalife.com @ 11_49_19 AM.wav",
+    "size": 203836,
+    "modifyTime": 1769629903000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221194-300000001711097-7865410700 by jessie@superbalife.com @ 11_49_19 AM.wav",
+    "uploadDate": "2026-01-28T19:51:43.000Z",
+    "callId": "300000001221194-300000001711097",
+    "agent": "jessie",
+    "phoneNumber": "7865410700",
+    "callTimestamp": "2026-01-28T11:49:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi. Thank you so much for calling Viagra. My name is Jessie. May I get your first and last name?\n\nSpeaker 2: Hi. My name is Andrew Smith and I want to cancel my membership with you. Can you help me?\n\nSpeaker 1: Sure. Let me pull up your account. Could I please get the phone number on file?\n\nSpeaker 2: 623-418-3830.\n\nSpeaker 1: I'm sorry. The last four numbers again are 3830?\n\nSpeaker 2: Yeah. The last four are 3830.\n\nSpeaker 1: Okay. Thank you. Andrew Smith. And are you still at 5125 North 69th Drive in Glendale, Arizona?\n\nSpeaker 2: Yeah. 5125 North 69th Drive. Grangell, Arizona.\n\nSpeaker 1: Oh. It says Glendale. Okay. No problem. Let me see. Ooh. Okay. So this has been every three months.\n\nSpeaker 2: Would you like me to just turn that off for you so that way you can just order at will?\n\nSpeaker 1: I'm actually willing to cancel this right away for a refund.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Hello?\n\nSpeaker 2: Just read.\n\nSpeaker 1: I'm sorry. One moment, Mr. Smith. Yeah. Hello. Just very quickly, what is your date of birth?\n\nSpeaker 2: Yeah. My date of birth is January 26, 1969. Like 1969.\n\nSpeaker 1: Okay. Just a moment.\n\nSpeaker 2: Please have Mr. Smith call us.",
+    "duration": 3794,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi. Thank you so much for calling Viagra. My name is Jessie. May I get your first and last name?"
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 13,
+        "text": " Hi. My name is Andrew Smith and I want to cancel my membership with you. Can you help me?"
+      },
+      {
+        "id": 2,
+        "start": 14,
+        "end": 18,
+        "text": " Sure. Let me pull up your account. Could I please get the phone number on file?"
+      },
+      {
+        "id": 3,
+        "start": 20,
+        "end": 24,
+        "text": " 623-418-3830."
+      },
+      {
+        "id": 4,
+        "start": 25,
+        "end": 28,
+        "text": " I'm sorry. The last four numbers again are 3830?"
+      },
+      {
+        "id": 5,
+        "start": 30,
+        "end": 32,
+        "text": " Yeah. The last four are 3830."
+      },
+      {
+        "id": 6,
+        "start": 33,
+        "end": 40,
+        "text": " Okay. Thank you. Andrew Smith. And are you still at 5125 North 69th Drive in Glendale, Arizona?"
+      },
+      {
+        "id": 7,
+        "start": 43,
+        "end": 49,
+        "text": " Yeah. 5125 North 69th Drive. Grangell, Arizona."
+      },
+      {
+        "id": 8,
+        "start": 50,
+        "end": 56,
+        "text": " Oh. It says Glendale. Okay. No problem. Let me see. Ooh. Okay. So this has been every three months."
+      },
+      {
+        "id": 9,
+        "start": 56,
+        "end": 62,
+        "text": " Would you like me to just turn that off for you so that way you can just order at will?"
+      },
+      {
+        "id": 10,
+        "start": 65,
+        "end": 69,
+        "text": " I'm actually willing to cancel this right away for a refund."
+      },
+      {
+        "id": 11,
+        "start": 82,
+        "end": 83,
+        "text": " Yeah."
+      },
+      {
+        "id": 12,
+        "start": 84,
+        "end": 85,
+        "text": " Hello?"
+      },
+      {
+        "id": 13,
+        "start": 86,
+        "end": 87,
+        "text": " Just read."
+      },
+      {
+        "id": 14,
+        "start": 90,
+        "end": 95,
+        "text": " I'm sorry. One moment, Mr. Smith. Yeah. Hello. Just very quickly, what is your date of birth?"
+      },
+      {
+        "id": 15,
+        "start": 97,
+        "end": 105,
+        "text": " Yeah. My date of birth is January 26, 1969. Like 1969."
+      },
+      {
+        "id": 16,
+        "start": 106,
+        "end": 110,
+        "text": " Okay. Just a moment."
+      },
+      {
+        "id": 17,
+        "start": 115,
+        "end": 117,
+        "text": " Please have Mr. Smith call us."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8106-b792-facd5ed37b9d",
+    "url": "https://www.notion.so/300000001221194-300000001711097-2f611d0a101c8106b792facd5ed37b9d"
+  },
+  "processedAt": "2026-01-28T23:20:11.465Z"
+}

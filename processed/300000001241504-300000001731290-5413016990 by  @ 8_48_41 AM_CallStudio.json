@@ -1,0 +1,64 @@
+{
+  "recording": {
+    "name": "300000001241504-300000001731290-5413016990 by  @ 8_48_41 AM_CallStudio.wav",
+    "size": 33926,
+    "modifyTime": 1771001364000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241504-300000001731290-5413016990 by  @ 8_48_41 AM_CallStudio.wav",
+    "uploadDate": "2026-02-13T16:49:24.000Z",
+    "callId": "300000001241504-300000001731290",
+    "phoneNumber": "5413016990",
+    "callTimestamp": "2026-02-13T16:49:24.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241504-300000001731290_5413016990.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241504-300000001731290_5413016990.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I need to speak to somebody.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: I need to speak to the doctor, and I think I'm supposed to stay on the line.\n\nSpeaker 1: Thanks. Transfer into agent.",
+    "duration": 1052,
+    "audioDuration": 20.84000015258789,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.260000228881836,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.420000076293945,
+        "end": 5.900000095367432,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.21999979019165,
+        "end": 7.659999847412109,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 7.659999847412109,
+        "end": 11.5,
+        "text": " I need to speak to somebody."
+      },
+      {
+        "id": 4,
+        "start": 11.5,
+        "end": 17.34000015258789,
+        "text": " I need to speak to the doctor, and I think I'm supposed to stay on the line."
+      },
+      {
+        "id": 5,
+        "start": 18.600000381469727,
+        "end": 20.700000762939453,
+        "text": " Thanks. Transfer into agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81e5-b1e7-e670c436d8d5",
+    "url": "https://www.notion.so/300000001241504-300000001731290-30611d0a101c81e5b1e7e670c436d8d5"
+  },
+  "processedAt": "2026-02-13T17:08:34.436Z"
+}

@@ -1,0 +1,320 @@
+{
+  "recording": {
+    "name": "300000001216008-300000001705566-5857645488 by olivier@superbalife.com @ 11_29_48 AM.wav",
+    "size": 324150,
+    "modifyTime": 1769586131000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216008-300000001705566-5857645488 by olivier@superbalife.com @ 11_29_48 AM.wav",
+    "uploadDate": "2026-01-28T07:42:11.000Z",
+    "callId": "300000001216008-300000001705566",
+    "agent": "olivier",
+    "phoneNumber": "5857645488",
+    "callTimestamp": "2026-01-28T11:29:48.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Hi there, how are you?\n\nSpeaker 1: Good, thank you for asking.\n\nSpeaker 2: Good, is Tamara there?\n\nSpeaker 1: No.\n\nSpeaker 2: Let me place you on brief hold, let me see if I can help you as well, if you want.\n\nSpeaker 1: Sure, sure.\n\nSpeaker 2: I thought that I had canceled my prescription like a month ago, maybe two,\n\nSpeaker 1: and I see that I was charged again for another round.\n\nSpeaker 2: And I texted her, she texted me back and told me it's best to call, so I'm calling.\n\nSpeaker 1: Okay, yes, absolutely.\n\nSpeaker 2: Yeah, so Mr. Ferreri?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, yes, so I see that, yes, you have a prescription for Viagra and tablet,\n\nSpeaker 1: and you paused your prescription for six months, that's why you were up for a refill.\n\nSpeaker 2: I mean, you could pause for another six months, or you don't want to get to refill in six months later?\n\nSpeaker 1: No.\n\nSpeaker 2: Yeah, at the time I told the guy to not put, he said, when I spoke to him six months ago,\n\nSpeaker 1: I told him that I wanted to cancel, and he said, well, why don't you just pause it for six months,\n\nSpeaker 2: and then we'll contact you before we resubscribe it.\n\nSpeaker 1: And it looked like I was charged anyway, so I just want to cancel it altogether.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yeah, just be advised in the future if you try to reorder,\n\nSpeaker 2: because I'm going to cancel the prescription for Dr. Williams that you have here,\n\nSpeaker 1: and since there is a cost, in the future they're going to have to pay that again for you,\n\nSpeaker 2: if they take the order, so you're going to have a different price.\n\nSpeaker 1: So don't be surprised if you try to order 10 pills and the price is different.\n\nSpeaker 2: Usually they advise to pause, get 10 pills once or twice a year to lock your price in,\n\nSpeaker 1: and keep kind of access to your Viagra and stuff like that.\n\nSpeaker 2: But if you're sure that you will not need Viagra in the future and all of that,\n\nSpeaker 1: I'm canceling the account, okay?\n\nSpeaker 2: Yeah, let's do that, please.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: So you all said Mr. Ferreri and everything are being canceled for you.\n\nSpeaker 1: You will not receive any refill moving forward, and you all said.\n\nSpeaker 2: Okay, are they going to – did they send out the prescription?\n\nSpeaker 1: Yes, the last refill I shipped.\n\nSpeaker 2: You probably, if there's a delay, you don't have a tracking number,\n\nSpeaker 1: you will see that in your email, but, yeah, I shipped already.\n\nSpeaker 2: Okay, well, can I return it for a refund, or how does this work?\n\nSpeaker 1: Yeah, you can write refuse return to the sender for a refund, or if you want,\n\nSpeaker 2: I can ask my manager to get you a discount as we speak, whatever works best for you.\n\nSpeaker 1: Yeah, either way.\n\nSpeaker 2: Either way is fine.\n\nSpeaker 1: Okay, so let me place you on brief hold, and I'm going to ask to see if I can get you a discount.\n\nSpeaker 2: Okay?\n\nSpeaker 1: Okay.",
+    "duration": 8606,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5,
+        "text": " Hi there, how are you?"
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 7,
+        "text": " Good, thank you for asking."
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 10,
+        "text": " Good, is Tamara there?"
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 12,
+        "text": " No."
+      },
+      {
+        "id": 5,
+        "start": 12,
+        "end": 18,
+        "text": " Let me place you on brief hold, let me see if I can help you as well, if you want."
+      },
+      {
+        "id": 6,
+        "start": 18,
+        "end": 20,
+        "text": " Sure, sure."
+      },
+      {
+        "id": 7,
+        "start": 20,
+        "end": 26,
+        "text": " I thought that I had canceled my prescription like a month ago, maybe two,"
+      },
+      {
+        "id": 8,
+        "start": 26,
+        "end": 31,
+        "text": " and I see that I was charged again for another round."
+      },
+      {
+        "id": 9,
+        "start": 31,
+        "end": 39,
+        "text": " And I texted her, she texted me back and told me it's best to call, so I'm calling."
+      },
+      {
+        "id": 10,
+        "start": 39,
+        "end": 41,
+        "text": " Okay, yes, absolutely."
+      },
+      {
+        "id": 11,
+        "start": 41,
+        "end": 44,
+        "text": " Yeah, so Mr. Ferreri?"
+      },
+      {
+        "id": 12,
+        "start": 44,
+        "end": 45,
+        "text": " Yes."
+      },
+      {
+        "id": 13,
+        "start": 45,
+        "end": 51,
+        "text": " Okay, yes, so I see that, yes, you have a prescription for Viagra and tablet,"
+      },
+      {
+        "id": 14,
+        "start": 51,
+        "end": 56,
+        "text": " and you paused your prescription for six months, that's why you were up for a refill."
+      },
+      {
+        "id": 15,
+        "start": 56,
+        "end": 63,
+        "text": " I mean, you could pause for another six months, or you don't want to get to refill in six months later?"
+      },
+      {
+        "id": 16,
+        "start": 63,
+        "end": 65,
+        "text": " No."
+      },
+      {
+        "id": 17,
+        "start": 65,
+        "end": 71,
+        "text": " Yeah, at the time I told the guy to not put, he said, when I spoke to him six months ago,"
+      },
+      {
+        "id": 18,
+        "start": 71,
+        "end": 76,
+        "text": " I told him that I wanted to cancel, and he said, well, why don't you just pause it for six months,"
+      },
+      {
+        "id": 19,
+        "start": 77,
+        "end": 83,
+        "text": " and then we'll contact you before we resubscribe it."
+      },
+      {
+        "id": 20,
+        "start": 83,
+        "end": 88,
+        "text": " And it looked like I was charged anyway, so I just want to cancel it altogether."
+      },
+      {
+        "id": 21,
+        "start": 88,
+        "end": 89,
+        "text": " Okay."
+      },
+      {
+        "id": 22,
+        "start": 89,
+        "end": 92,
+        "text": " Yeah, just be advised in the future if you try to reorder,"
+      },
+      {
+        "id": 23,
+        "start": 92,
+        "end": 97,
+        "text": " because I'm going to cancel the prescription for Dr. Williams that you have here,"
+      },
+      {
+        "id": 24,
+        "start": 97,
+        "end": 101,
+        "text": " and since there is a cost, in the future they're going to have to pay that again for you,"
+      },
+      {
+        "id": 25,
+        "start": 101,
+        "end": 104,
+        "text": " if they take the order, so you're going to have a different price."
+      },
+      {
+        "id": 26,
+        "start": 104,
+        "end": 107,
+        "text": " So don't be surprised if you try to order 10 pills and the price is different."
+      },
+      {
+        "id": 27,
+        "start": 107,
+        "end": 113,
+        "text": " Usually they advise to pause, get 10 pills once or twice a year to lock your price in,"
+      },
+      {
+        "id": 28,
+        "start": 113,
+        "end": 116,
+        "text": " and keep kind of access to your Viagra and stuff like that."
+      },
+      {
+        "id": 29,
+        "start": 116,
+        "end": 120,
+        "text": " But if you're sure that you will not need Viagra in the future and all of that,"
+      },
+      {
+        "id": 30,
+        "start": 120,
+        "end": 122,
+        "text": " I'm canceling the account, okay?"
+      },
+      {
+        "id": 31,
+        "start": 122,
+        "end": 124,
+        "text": " Yeah, let's do that, please."
+      },
+      {
+        "id": 32,
+        "start": 124,
+        "end": 125,
+        "text": " Okay."
+      },
+      {
+        "id": 33,
+        "start": 135,
+        "end": 136,
+        "text": " Okay."
+      },
+      {
+        "id": 34,
+        "start": 142,
+        "end": 144,
+        "text": " All right."
+      },
+      {
+        "id": 35,
+        "start": 144,
+        "end": 149,
+        "text": " So you all said Mr. Ferreri and everything are being canceled for you."
+      },
+      {
+        "id": 36,
+        "start": 149,
+        "end": 154,
+        "text": " You will not receive any refill moving forward, and you all said."
+      },
+      {
+        "id": 37,
+        "start": 154,
+        "end": 159,
+        "text": " Okay, are they going to – did they send out the prescription?"
+      },
+      {
+        "id": 38,
+        "start": 159,
+        "end": 163,
+        "text": " Yes, the last refill I shipped."
+      },
+      {
+        "id": 39,
+        "start": 163,
+        "end": 166,
+        "text": " You probably, if there's a delay, you don't have a tracking number,"
+      },
+      {
+        "id": 40,
+        "start": 166,
+        "end": 170,
+        "text": " you will see that in your email, but, yeah, I shipped already."
+      },
+      {
+        "id": 41,
+        "start": 170,
+        "end": 175,
+        "text": " Okay, well, can I return it for a refund, or how does this work?"
+      },
+      {
+        "id": 42,
+        "start": 175,
+        "end": 180,
+        "text": " Yeah, you can write refuse return to the sender for a refund, or if you want,"
+      },
+      {
+        "id": 43,
+        "start": 180,
+        "end": 189,
+        "text": " I can ask my manager to get you a discount as we speak, whatever works best for you."
+      },
+      {
+        "id": 44,
+        "start": 189,
+        "end": 191,
+        "text": " Yeah, either way."
+      },
+      {
+        "id": 45,
+        "start": 191,
+        "end": 192,
+        "text": " Either way is fine."
+      },
+      {
+        "id": 46,
+        "start": 192,
+        "end": 196,
+        "text": " Okay, so let me place you on brief hold, and I'm going to ask to see if I can get you a discount."
+      },
+      {
+        "id": 47,
+        "start": 196,
+        "end": 197,
+        "text": " Okay?"
+      },
+      {
+        "id": 48,
+        "start": 197,
+        "end": 198,
+        "text": " Okay."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8145-9632-ef8c93c23c43",
+    "url": "https://www.notion.so/300000001216008-300000001705566-2f611d0a101c81459632ef8c93c23c43"
+  },
+  "processedAt": "2026-01-28T14:04:15.506Z"
+}

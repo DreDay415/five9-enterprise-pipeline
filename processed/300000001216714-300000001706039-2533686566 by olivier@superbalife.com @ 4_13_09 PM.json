@@ -1,0 +1,104 @@
+{
+  "recording": {
+    "name": "300000001216714-300000001706039-2533686566 by olivier@superbalife.com @ 4_13_09 PM.wav",
+    "size": 104320,
+    "modifyTime": 1769583131000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216714-300000001706039-2533686566 by olivier@superbalife.com @ 4_13_09 PM.wav",
+    "uploadDate": "2026-01-28T06:52:11.000Z",
+    "callId": "300000001216714-300000001706039",
+    "agent": "olivier",
+    "phoneNumber": "2533686566",
+    "callTimestamp": "2026-01-28T16:13:09.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: All right, Mr. Roy? Yeah. Yeah, the pharmacy is aware, so they're not gonna go based on—\n\nSpeaker 2: Initial 30 days, it's paused for half a year, like I said, and then, you know, just—\n\nSpeaker 1: Return, just write \"refuse return\" on the package, okay? So that way the tracking—\n\nSpeaker 2: Number gonna show us as soon as the mailman takes that. Few days after, gonna—\n\nSpeaker 1: Show us that it's coming back, okay? And your refund gonna click in, okay? So we—\n\nSpeaker 2: Got you, we're gonna refund you, okay, no problem. Okay, yeah, and then just write—\n\nSpeaker 1: Refuse return. You still have the package, right?\n\nSpeaker 2: Yeah, I just opened it.\n\nSpeaker 1: That's okay. Tape it nicely if you could and just write \"refuse return\" on it, okay? So the—\n\nSpeaker 2: Tracking number attached to it. So as soon as that's done, maybe three, four—\n\nSpeaker 1: Days later, we will see that, oh, it's almost there, and refund gonna click in.\n\nSpeaker 2: Okay, I'm placing note that you're gonna get a refund for that, okay?\n\nSpeaker 1: Yes, and thank—\n\nSpeaker 2: You for making time to call and have a good weekend, and you can't expose.\n\nSpeaker 1: Okay, thank you very much.\n\nSpeaker 2: You're welcome.",
+    "duration": 2484,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.320000171661377,
+        "text": " All right Mr. Roy? Yeah. Yeah the pharmacy is aware so they're not gonna go based on"
+      },
+      {
+        "id": 1,
+        "start": 6.320000171661377,
+        "end": 11.34000015258789,
+        "text": " initial 30 days it's paused for half a year like I said and then you know just"
+      },
+      {
+        "id": 2,
+        "start": 11.34000015258789,
+        "end": 16.100000381469727,
+        "text": " return just write refuse return on the package okay so that way the tracking"
+      },
+      {
+        "id": 3,
+        "start": 16.100000381469727,
+        "end": 19.600000381469727,
+        "text": " number gonna show us as soon as the mailman take that few days after gonna"
+      },
+      {
+        "id": 4,
+        "start": 19.600000381469727,
+        "end": 23.979999542236328,
+        "text": " show us that it's coming back okay and your refund gonna click in okay so we"
+      },
+      {
+        "id": 5,
+        "start": 23.979999542236328,
+        "end": 29.979999542236328,
+        "text": " got you we're gonna refund you okay no problem okay yeah and then just write"
+      },
+      {
+        "id": 6,
+        "start": 29.979999542236328,
+        "end": 36.099998474121094,
+        "text": " refuse return you still have the package right yeah I just opened it that's okay"
+      },
+      {
+        "id": 7,
+        "start": 36.099998474121094,
+        "end": 41.220001220703125,
+        "text": " tape it nicely if you could and just write refuse return on it okay so the"
+      },
+      {
+        "id": 8,
+        "start": 41.220001220703125,
+        "end": 44.540000915527344,
+        "text": " tracking number attached to it so as soon as that's done maybe three four"
+      },
+      {
+        "id": 9,
+        "start": 44.540000915527344,
+        "end": 48.13999938964844,
+        "text": " days later we will see that oh it's almost there and refund gonna click in"
+      },
+      {
+        "id": 10,
+        "start": 48.13999938964844,
+        "end": 54.13999938964844,
+        "text": " okay I'm placing note that you're gonna get a refund for that okay yes and thank"
+      },
+      {
+        "id": 11,
+        "start": 54.13999938964844,
+        "end": 57.939998626708984,
+        "text": " you for making time to call and have a good weekend and you can't expose okay"
+      },
+      {
+        "id": 12,
+        "start": 57.939998626708984,
+        "end": 62.97999954223633,
+        "text": " okay thank you very much you're welcome"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-817a-ba27-e2ba9b0961e6",
+    "url": "https://www.notion.so/300000001216714-300000001706039-2f611d0a101c817aba27e2ba9b0961e6"
+  },
+  "processedAt": "2026-01-28T16:38:52.549Z"
+}

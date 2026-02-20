@@ -1,0 +1,302 @@
+{
+  "recording": {
+    "name": "300000001220519-300000001710573-8887955826 by jessie@superbalife.com @ 8_41_40 AM.wav",
+    "size": 198896,
+    "modifyTime": 1769618643000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220519-300000001710573-8887955826 by jessie@superbalife.com @ 8_41_40 AM.wav",
+    "uploadDate": "2026-01-28T16:44:03.000Z",
+    "callId": "300000001220519-300000001710573",
+    "agent": "jessie",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T08:41:40.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra.\n\nSpeaker 2: My name is Jessie.\n\nSpeaker 1: Can I get your first and last name?\n\nSpeaker 2: My name Nick.\n\nSpeaker 1: J-O-N-N-I-M-I-E-C-H.\n\nSpeaker 2: M-I-C...\n\nSpeaker 1: M-I-E-C-H.\n\nSpeaker 2: M-I-E-C-H. Okay.\n\nSpeaker 1: And may I get your zip code, Mr. Meach?\n\nSpeaker 2: My what?\n\nSpeaker 1: What is your zip code?\n\nSpeaker 2: 8-2-8-0-1.\n\nSpeaker 1: 8-2-8-0-1.\n\nSpeaker 2: And were you looking to get a refill?\n\nSpeaker 1: Yes, I was, if I could.\n\nSpeaker 2: Okay, perfect.\n\nSpeaker 1: And it's Lonnie, right?\n\nSpeaker 2: Yes, it is.\n\nSpeaker 1: Okay, perfect.\n\nSpeaker 2: I have you at 509 E. Brundage Lane, Unit 203 in Sheridan, Wyoming?\n\nSpeaker 1: Correct.\n\nSpeaker 2: All right.\n\nSpeaker 1: And did you want the same one or did you want to get more pills?\n\nSpeaker 2: I'd prefer to get more pills if I could.\n\nSpeaker 1: Yeah, of course.\n\nSpeaker 2: So we have two other packages.\n\nSpeaker 1: We have 25 pills for $99 and, excuse me, 40 pills for $149.\n\nSpeaker 2: The more pills you buy, the cheaper it gets per pill.\n\nSpeaker 1: Okay, I'll take the 40 for $149.\n\nSpeaker 2: Okay, perfect.\n\nSpeaker 1: Is it 100 milligrams?\n\nSpeaker 2: Oh, exact same medication as before, exact same medication.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: Yeah, nothing's changing.\n\nSpeaker 1: All right.\n\nSpeaker 2: And then we have a MasterCard on file that ends in 3280.\n\nSpeaker 1: Should we use that card?\n\nSpeaker 2: Correct, yes, you would.\n\nSpeaker 1: Okay, one moment, please.\n\nSpeaker 2: Okay, all right, you're all set.\n\nSpeaker 1: Your refill should arrive in the next few days.\n\nSpeaker 2: Is there anything else I can help you with?\n\nSpeaker 1: No, that's everything.\n\nSpeaker 2: Appreciate it.\n\nSpeaker 1: All right, thank you.\n\nSpeaker 2: Bye-bye.",
+    "duration": 4494,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, thank you so much for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 3,
+        "text": " My name is Jessie."
+      },
+      {
+        "id": 2,
+        "start": 3,
+        "end": 5,
+        "text": " Can I get your first and last name?"
+      },
+      {
+        "id": 3,
+        "start": 5,
+        "end": 8,
+        "text": " My name Nick."
+      },
+      {
+        "id": 4,
+        "start": 8,
+        "end": 13,
+        "text": " J-O-N-N-I-M-I-E-C-H."
+      },
+      {
+        "id": 5,
+        "start": 13,
+        "end": 15,
+        "text": " M-I-C..."
+      },
+      {
+        "id": 6,
+        "start": 15,
+        "end": 17,
+        "text": " M-I-E-C-H."
+      },
+      {
+        "id": 7,
+        "start": 17,
+        "end": 19,
+        "text": " M-I-E-C-H. Okay."
+      },
+      {
+        "id": 8,
+        "start": 19,
+        "end": 22,
+        "text": " And may I get your zip code, Mr. Meach?"
+      },
+      {
+        "id": 9,
+        "start": 22,
+        "end": 24,
+        "text": " My what?"
+      },
+      {
+        "id": 10,
+        "start": 24,
+        "end": 26,
+        "text": " What is your zip code?"
+      },
+      {
+        "id": 11,
+        "start": 26,
+        "end": 29,
+        "text": " 8-2-8-0-1."
+      },
+      {
+        "id": 12,
+        "start": 29,
+        "end": 43,
+        "text": " 8-2-8-0-1."
+      },
+      {
+        "id": 13,
+        "start": 43,
+        "end": 45,
+        "text": " And were you looking to get a refill?"
+      },
+      {
+        "id": 14,
+        "start": 45,
+        "end": 48,
+        "text": " Yes, I was, if I could."
+      },
+      {
+        "id": 15,
+        "start": 48,
+        "end": 49,
+        "text": " Okay, perfect."
+      },
+      {
+        "id": 16,
+        "start": 49,
+        "end": 51,
+        "text": " And it's Lonnie, right?"
+      },
+      {
+        "id": 17,
+        "start": 51,
+        "end": 52,
+        "text": " Yes, it is."
+      },
+      {
+        "id": 18,
+        "start": 52,
+        "end": 53,
+        "text": " Okay, perfect."
+      },
+      {
+        "id": 19,
+        "start": 53,
+        "end": 58,
+        "text": " I have you at 509 E. Brundage Lane, Unit 203 in Sheridan, Wyoming?"
+      },
+      {
+        "id": 20,
+        "start": 58,
+        "end": 60,
+        "text": " Correct."
+      },
+      {
+        "id": 21,
+        "start": 60,
+        "end": 61,
+        "text": " All right."
+      },
+      {
+        "id": 22,
+        "start": 61,
+        "end": 64,
+        "text": " And did you want the same one or did you want to get more pills?"
+      },
+      {
+        "id": 23,
+        "start": 64,
+        "end": 67,
+        "text": " I'd prefer to get more pills if I could."
+      },
+      {
+        "id": 24,
+        "start": 67,
+        "end": 68,
+        "text": " Yeah, of course."
+      },
+      {
+        "id": 25,
+        "start": 68,
+        "end": 70,
+        "text": " So we have two other packages."
+      },
+      {
+        "id": 26,
+        "start": 70,
+        "end": 76,
+        "text": " We have 25 pills for $99 and, excuse me, 40 pills for $149."
+      },
+      {
+        "id": 27,
+        "start": 76,
+        "end": 79,
+        "text": " The more pills you buy, the cheaper it gets per pill."
+      },
+      {
+        "id": 28,
+        "start": 80,
+        "end": 83,
+        "text": " Okay, I'll take the 40 for $149."
+      },
+      {
+        "id": 29,
+        "start": 83,
+        "end": 85,
+        "text": " Okay, perfect."
+      },
+      {
+        "id": 30,
+        "start": 85,
+        "end": 90,
+        "text": " Is it 100 milligrams?"
+      },
+      {
+        "id": 31,
+        "start": 90,
+        "end": 94,
+        "text": " Oh, exact same medication as before, exact same medication."
+      },
+      {
+        "id": 32,
+        "start": 94,
+        "end": 95,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 33,
+        "start": 95,
+        "end": 96,
+        "text": " Yeah, nothing's changing."
+      },
+      {
+        "id": 34,
+        "start": 96,
+        "end": 98,
+        "text": " All right."
+      },
+      {
+        "id": 35,
+        "start": 98,
+        "end": 101,
+        "text": " And then we have a MasterCard on file that ends in 3280."
+      },
+      {
+        "id": 36,
+        "start": 101,
+        "end": 102,
+        "text": " Should we use that card?"
+      },
+      {
+        "id": 37,
+        "start": 102,
+        "end": 104,
+        "text": " Correct, yes, you would."
+      },
+      {
+        "id": 38,
+        "start": 104,
+        "end": 106,
+        "text": " Okay, one moment, please."
+      },
+      {
+        "id": 39,
+        "start": 107,
+        "end": 109,
+        "text": " Okay, all right, you're all set."
+      },
+      {
+        "id": 40,
+        "start": 109,
+        "end": 111,
+        "text": " Your refill should arrive in the next few days."
+      },
+      {
+        "id": 41,
+        "start": 111,
+        "end": 113,
+        "text": " Is there anything else I can help you with?"
+      },
+      {
+        "id": 42,
+        "start": 113,
+        "end": 115,
+        "text": " No, that's everything."
+      },
+      {
+        "id": 43,
+        "start": 115,
+        "end": 116,
+        "text": " Appreciate it."
+      },
+      {
+        "id": 44,
+        "start": 116,
+        "end": 117,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 45,
+        "start": 117,
+        "end": 118,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8153-9cda-f714520f8498",
+    "url": "https://www.notion.so/300000001220519-300000001710573-2f611d0a101c81539cdaf714520f8498"
+  },
+  "processedAt": "2026-01-28T18:55:58.432Z"
+}

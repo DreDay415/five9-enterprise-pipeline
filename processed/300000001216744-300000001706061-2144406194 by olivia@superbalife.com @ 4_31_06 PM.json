@@ -1,0 +1,446 @@
+{
+  "recording": {
+    "name": "300000001216744-300000001706061-2144406194 by olivia@superbalife.com @ 4_31_06 PM.wav",
+    "size": 275140,
+    "modifyTime": 1769585229000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216744-300000001706061-2144406194 by olivia@superbalife.com @ 4_31_06 PM.wav",
+    "uploadDate": "2026-01-28T07:27:09.000Z",
+    "callId": "300000001216744-300000001706061",
+    "agent": "olivia",
+    "phoneNumber": "2144406194",
+    "callTimestamp": "2026-01-28T16:31:06.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, this is Olivia speaking, who do I have the pleasure of speaking with today?\n\nSpeaker 2: Marcus Brown.\n\nSpeaker 1: Hi, Marcus. How are you?\n\nSpeaker 2: I'm great.\n\nSpeaker 1: How are you?\n\nSpeaker 2: Good.\n\nSpeaker 1: Good.\n\nSpeaker 2: Thank you so much for asking.\n\nSpeaker 1: How can I help you today, Marcus?\n\nSpeaker 2: Okay. I was giving you a call because they charged my card for, I think, a refill and I did not want that to happen, and I'm trying to cancel that. It says at pharmacy or whatever, but I'm trying to cancel that.\n\nSpeaker 1: Yeah, I can help you with that.\n\nSpeaker 2: Okay.\n\nSpeaker 1: What's your date of birth, Marcus?\n\nSpeaker 2: 08-27-82.\n\nSpeaker 1: Okay. And you're located at 3716 Poteet Drive, apartment 1025, Mesquite, Texas?\n\nSpeaker 2: That's it.\n\nSpeaker 1: Uh-huh. And you want this refill from today. Is that accurate?\n\nSpeaker 2: That is correct.\n\nSpeaker 1: Okay. So I just canceled and refunded it, so you should see that refund within these next few days. Keep your eye out for it.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Or if you pay with something like PayPal, sometimes they do it even faster.\n\nSpeaker 2: Great.\n\nSpeaker 1: And then if you don't want to receive regular refills with your prescription, you certainly don't have to. You always have the option to place your prescription on hold for up to six months at a time, just because six months is when the prescription would expire if we didn't refill it.\n\nSpeaker 2: And the way that would work, if you did want to place it on hold today, is you could place an order before that hold date. You just have to give us a call to do so yourself.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Got you.\n\nSpeaker 1: And I can put that on hold for you if you like.\n\nSpeaker 2: And if, yeah, so I can place it on hold for you until July 23rd, so six months from today.\n\nSpeaker 1: And then if you need anything before then, just give us a call to place the order, because otherwise, the script's on hold.\n\nSpeaker 2: Okay.\n\nSpeaker 1: If you could do that, then I'd appreciate that.\n\nSpeaker 2: Yeah, of course.\n\nSpeaker 1: All right, Marcus.\n\nSpeaker 2: Well, thanks so much.\n\nSpeaker 1: You always know where to find us.\n\nSpeaker 2: We're at this phone number, Monday through Friday, 8 to 5 Pacific.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thank you so much.\n\nSpeaker 1: I appreciate that.\n\nSpeaker 2: Yeah, of course.\n\nSpeaker 1: I hope you have a great day.\n\nSpeaker 2: All right.\n\nSpeaker 1: You too.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Yeah. Bye.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye.",
+    "duration": 6275,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.760000228881836,
+        "text": " Thank you for calling Viagra, this is Olivia speaking, who do I have the pleasure of speaking"
+      },
+      {
+        "id": 1,
+        "start": 5.760000228881836,
+        "end": 6.760000228881836,
+        "text": " with today?"
+      },
+      {
+        "id": 2,
+        "start": 6.760000228881836,
+        "end": 7.760000228881836,
+        "text": " Marcus Brown."
+      },
+      {
+        "id": 3,
+        "start": 7.760000228881836,
+        "end": 8.760000228881836,
+        "text": " Hi, Marcus."
+      },
+      {
+        "id": 4,
+        "start": 8.760000228881836,
+        "end": 9.760000228881836,
+        "text": " How are you?"
+      },
+      {
+        "id": 5,
+        "start": 9.760000228881836,
+        "end": 10.760000228881836,
+        "text": " I'm great."
+      },
+      {
+        "id": 6,
+        "start": 10.760000228881836,
+        "end": 11.760000228881836,
+        "text": " How are you?"
+      },
+      {
+        "id": 7,
+        "start": 11.760000228881836,
+        "end": 12.760000228881836,
+        "text": " Good."
+      },
+      {
+        "id": 8,
+        "start": 12.760000228881836,
+        "end": 13.760000228881836,
+        "text": " Good."
+      },
+      {
+        "id": 9,
+        "start": 13.760000228881836,
+        "end": 14.760000228881836,
+        "text": " Thank you so much for asking."
+      },
+      {
+        "id": 10,
+        "start": 14.760000228881836,
+        "end": 15.760000228881836,
+        "text": " How can I help you today, Marcus?"
+      },
+      {
+        "id": 11,
+        "start": 15.760000228881836,
+        "end": 16.760000228881836,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 16.760000228881836,
+        "end": 27.84000015258789,
+        "text": " I was giving you a call because there was a, they charged my card for, I think, a refill"
+      },
+      {
+        "id": 13,
+        "start": 27.84000015258789,
+        "end": 31.719999313354492,
+        "text": " and I did not want that to happen, and I'm trying to cancel that."
+      },
+      {
+        "id": 14,
+        "start": 31.719999313354492,
+        "end": 35.400001525878906,
+        "text": " It says at pharmacy or whatever, but I'm trying to cancel that."
+      },
+      {
+        "id": 15,
+        "start": 35.400001525878906,
+        "end": 38.040000915527344,
+        "text": " Yeah, I can help you with that."
+      },
+      {
+        "id": 16,
+        "start": 38.040000915527344,
+        "end": 39.040000915527344,
+        "text": " Okay."
+      },
+      {
+        "id": 17,
+        "start": 39.040000915527344,
+        "end": 42.040000915527344,
+        "text": " What's your date of birth, Marcus?"
+      },
+      {
+        "id": 18,
+        "start": 42.040000915527344,
+        "end": 43.040000915527344,
+        "text": " 08-2782."
+      },
+      {
+        "id": 19,
+        "start": 43.040000915527344,
+        "end": 44.040000915527344,
+        "text": " Okay."
+      },
+      {
+        "id": 20,
+        "start": 44.040000915527344,
+        "end": 51.959999084472656,
+        "text": " And you're located at 3716 Poteet Drive, apartment 1025 Mesquite, Texas?"
+      },
+      {
+        "id": 21,
+        "start": 51.959999084472656,
+        "end": 53.560001373291016,
+        "text": " That's it."
+      },
+      {
+        "id": 22,
+        "start": 53.560001373291016,
+        "end": 54.560001373291016,
+        "text": " Uh-huh."
+      },
+      {
+        "id": 23,
+        "start": 54.560001373291016,
+        "end": 55.560001373291016,
+        "text": " Okay."
+      },
+      {
+        "id": 24,
+        "start": 55.68000030517578,
+        "end": 56.68000030517578,
+        "text": " And you want this refill from today."
+      },
+      {
+        "id": 25,
+        "start": 56.68000030517578,
+        "end": 57.68000030517578,
+        "text": " Is that accurate?"
+      },
+      {
+        "id": 26,
+        "start": 57.68000030517578,
+        "end": 58.68000030517578,
+        "text": " That is correct."
+      },
+      {
+        "id": 27,
+        "start": 58.68000030517578,
+        "end": 59.68000030517578,
+        "text": " Okay."
+      },
+      {
+        "id": 28,
+        "start": 59.68000030517578,
+        "end": 66.36000061035156,
+        "text": " So I just canceled and refunded it, so you should see that refund within these next few"
+      },
+      {
+        "id": 29,
+        "start": 66.36000061035156,
+        "end": 67.36000061035156,
+        "text": " days."
+      },
+      {
+        "id": 30,
+        "start": 67.36000061035156,
+        "end": 68.36000061035156,
+        "text": " Keep your eye out for it."
+      },
+      {
+        "id": 31,
+        "start": 68.36000061035156,
+        "end": 69.36000061035156,
+        "text": " Okay."
+      },
+      {
+        "id": 32,
+        "start": 69.36000061035156,
+        "end": 73.36000061035156,
+        "text": " Or if you pay with something like PayPal, sometimes they do it even faster."
+      },
+      {
+        "id": 33,
+        "start": 73.36000061035156,
+        "end": 75.27999877929688,
+        "text": " Great."
+      },
+      {
+        "id": 34,
+        "start": 75.27999877929688,
+        "end": 82.04000091552734,
+        "text": " And then if you don't want to receive regular refills with your prescription, you certainly"
+      },
+      {
+        "id": 35,
+        "start": 82.04000091552734,
+        "end": 83.31999969482422,
+        "text": " don't have to."
+      },
+      {
+        "id": 36,
+        "start": 83.31999969482422,
+        "end": 90.08000183105469,
+        "text": " You always have the option to place your prescription on hold for up to six months at a time, just"
+      },
+      {
+        "id": 37,
+        "start": 90.08000183105469,
+        "end": 96,
+        "text": " because six months is when the prescription would expire if we didn't refill it."
+      },
+      {
+        "id": 38,
+        "start": 96,
+        "end": 101.08000183105469,
+        "text": " And the way that would work, if you did want to place it on hold today, is you could place"
+      },
+      {
+        "id": 39,
+        "start": 101.08000183105469,
+        "end": 103.83999633789062,
+        "text": " an order before that hold date."
+      },
+      {
+        "id": 40,
+        "start": 103.83999633789062,
+        "end": 108,
+        "text": " You just have to give us a call to do so yourself."
+      },
+      {
+        "id": 41,
+        "start": 108,
+        "end": 109,
+        "text": " Okay."
+      },
+      {
+        "id": 42,
+        "start": 109,
+        "end": 110,
+        "text": " Got you."
+      },
+      {
+        "id": 43,
+        "start": 110,
+        "end": 117.27999877929688,
+        "text": " And I can put that on hold on the website in my account, right?"
+      },
+      {
+        "id": 44,
+        "start": 117.27999877929688,
+        "end": 124.83999633789062,
+        "text": " For whatever reason, no, but I can place it on hold for you if you like."
+      },
+      {
+        "id": 45,
+        "start": 124.83999633789062,
+        "end": 132.39999389648438,
+        "text": " And if, yeah, so I can place it on hold for you until July 23rd, so six months from today."
+      },
+      {
+        "id": 46,
+        "start": 132.39999389648438,
+        "end": 138.0800018310547,
+        "text": " And then if you need anything before then, just give us a call to place the order, because"
+      },
+      {
+        "id": 47,
+        "start": 138.0800018310547,
+        "end": 141.0800018310547,
+        "text": " otherwise, the script's on hold."
+      },
+      {
+        "id": 48,
+        "start": 141.0800018310547,
+        "end": 142.0800018310547,
+        "text": " Okay."
+      },
+      {
+        "id": 49,
+        "start": 142.0800018310547,
+        "end": 143.0800018310547,
+        "text": " Yeah."
+      },
+      {
+        "id": 50,
+        "start": 143.0800018310547,
+        "end": 144.0800018310547,
+        "text": " If you could do that, then I'd appreciate that."
+      },
+      {
+        "id": 51,
+        "start": 144.0800018310547,
+        "end": 145.0800018310547,
+        "text": " Yeah, of course."
+      },
+      {
+        "id": 52,
+        "start": 145.0800018310547,
+        "end": 146.0800018310547,
+        "text": " All right, Marcus."
+      },
+      {
+        "id": 53,
+        "start": 146.0800018310547,
+        "end": 147.0800018310547,
+        "text": " Well, thanks so much."
+      },
+      {
+        "id": 54,
+        "start": 147.0800018310547,
+        "end": 148.0800018310547,
+        "text": " You always know where to find us."
+      },
+      {
+        "id": 55,
+        "start": 148.0800018310547,
+        "end": 149.0800018310547,
+        "text": " We're at this phone number, Monday through Friday, 8 to 5 Pacific."
+      },
+      {
+        "id": 56,
+        "start": 149.0800018310547,
+        "end": 150.0800018310547,
+        "text": " All right."
+      },
+      {
+        "id": 57,
+        "start": 150.0800018310547,
+        "end": 151.0800018310547,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 58,
+        "start": 151.0800018310547,
+        "end": 152.0800018310547,
+        "text": " I appreciate that."
+      },
+      {
+        "id": 59,
+        "start": 152.0800018310547,
+        "end": 153.0800018310547,
+        "text": " Yeah, of course."
+      },
+      {
+        "id": 60,
+        "start": 153.0800018310547,
+        "end": 154.0800018310547,
+        "text": " I hope you have a great day."
+      },
+      {
+        "id": 61,
+        "start": 154.0800018310547,
+        "end": 155.0800018310547,
+        "text": " All right."
+      },
+      {
+        "id": 62,
+        "start": 155.0800018310547,
+        "end": 156.0800018310547,
+        "text": " You too."
+      },
+      {
+        "id": 63,
+        "start": 156.0800018310547,
+        "end": 157.0800018310547,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 64,
+        "start": 157.0800018310547,
+        "end": 158.0800018310547,
+        "text": " Yeah."
+      },
+      {
+        "id": 65,
+        "start": 158.0800018310547,
+        "end": 158.0800018310547,
+        "text": ""
+      },
+      {
+        "id": 66,
+        "start": 168.0800018310547,
+        "end": 169.0800018310547,
+        "text": " Bye."
+      },
+      {
+        "id": 67,
+        "start": 169.0800018310547,
+        "end": 170.0800018310547,
+        "text": " Bye."
+      },
+      {
+        "id": 68,
+        "start": 170.0800018310547,
+        "end": 171.0800018310547,
+        "text": " Bye."
+      },
+      {
+        "id": 69,
+        "start": 171.0800018310547,
+        "end": 171.0800018310547,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81dc-a18c-f6259c6f795e",
+    "url": "https://www.notion.so/300000001216744-300000001706061-2f611d0a101c81dca18cf6259c6f795e"
+  },
+  "processedAt": "2026-01-28T14:42:13.300Z"
+}

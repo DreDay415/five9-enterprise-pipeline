@@ -1,0 +1,290 @@
+{
+  "recording": {
+    "name": "300000001218327-300000001708336-2177415974 by jessie@superbalife.com @ 2_22_58 PM.wav",
+    "size": 265910,
+    "modifyTime": 1769584936000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218327-300000001708336-2177415974 by jessie@superbalife.com @ 2_22_58 PM.wav",
+    "uploadDate": "2026-01-28T07:22:16.000Z",
+    "callId": "300000001218327-300000001708336",
+    "agent": "jessie",
+    "phoneNumber": "2177415974",
+    "callTimestamp": "2026-01-28T14:22:58.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, my name is Jessie, can I get your first and last name?\n\nSpeaker 2: Hi, Jessie, this is Frederick Phillips.\n\nSpeaker 1: Perfect, and Mr. Phillips, how can I help you today?\n\nSpeaker 2: Yeah, I'd like to reorder some Viagra ABG.\n\nSpeaker 1: Yeah, absolutely, bear with me one second. Can you verify your zip code for me?\n\nSpeaker 2: Yeah, it's 62707.\n\nSpeaker 1: Perfect, and are you still at 2437 Grom Drive in Springfield, Illinois?\n\nSpeaker 2: Yes, ma'am.\n\nSpeaker 1: Alrighty then, and last time you got the 10 pills, do you want to do the same, just same everything?\n\nSpeaker 2: Is it still $69?\n\nSpeaker 1: $63.95.\n\nSpeaker 2: Is it $63.95?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Yeah, everything's the same.\n\nSpeaker 1: Okay, super.\n\nSpeaker 2: And when I reorder it, I don't need it once a month, I need it like once every three months?\n\nSpeaker 1: Yeah, of course, let's do that.\n\nSpeaker 2: Can I do that?\n\nSpeaker 1: Oh, yeah, of course. I'll set your next refill for next April, so that's three months out,\n\nSpeaker 2: and it only occurs once every three months, so that's basically four times a year.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yeah, let's do that. Okay, just a moment. Let's get your refill and BGV, 10 pills, that's $63.95.\n\nSpeaker 1: The visa on file ends in 2531, is that the card we should use?\n\nSpeaker 2: Yes, ma'am.\n\nSpeaker 1: All right then. Okay, let me go ahead and process this for you, one moment.\n\nSpeaker 2: And again, that's the AGV at 100 milligrams, okay?\n\nSpeaker 1: Yes, it is.\n\nSpeaker 2: Yeah, and I think the last time I ordered was last August.\n\nSpeaker 1: Yes, actually it is last August.\n\nSpeaker 2: Okay, right.\n\nSpeaker 1: Okay, perfect.\n\nSpeaker 2: Your next refill won't be until April, that's three months out, and it only occurs once every three months, okay?\n\nSpeaker 1: Thank you so much. And when can I expect those to work?\n\nSpeaker 2: Less than a week. I mean, your prescription is still active.\n\nSpeaker 1: Less than a week?\n\nSpeaker 2: Yeah, less than a week.\n\nSpeaker 1: Okay, wonderful, wonderful.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Thank you, Jessie.\n\nSpeaker 2: No problem.\n\nSpeaker 1: I appreciate it.\n\nSpeaker 2: Have a good day.\n\nSpeaker 1: Yeah, you too. Bye-bye.\n\nSpeaker 2: All right, bye-bye.",
+    "duration": 5194,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 20,
+        "text": " Thank you for calling Viagra, my name is Jessie, can I get your first and last name?"
+      },
+      {
+        "id": 1,
+        "start": 20,
+        "end": 24,
+        "text": " Hi, Jessie, this is Frederick Phillips."
+      },
+      {
+        "id": 2,
+        "start": 24,
+        "end": 29,
+        "text": " Perfect, and Mr. Phillips, how can I help you today?"
+      },
+      {
+        "id": 3,
+        "start": 29,
+        "end": 35,
+        "text": " Yeah, I'd like to reorder some Viagra ABG."
+      },
+      {
+        "id": 4,
+        "start": 35,
+        "end": 40,
+        "text": " Yeah, absolutely, bear with me one second. Can you verify your zip code for me?"
+      },
+      {
+        "id": 5,
+        "start": 40,
+        "end": 45,
+        "text": " Yeah, it's 62707."
+      },
+      {
+        "id": 6,
+        "start": 45,
+        "end": 50,
+        "text": " Perfect, and are you still at 2437 Grom Drive in Springfield, Illinois?"
+      },
+      {
+        "id": 7,
+        "start": 50,
+        "end": 52,
+        "text": " Yes, ma'am."
+      },
+      {
+        "id": 8,
+        "start": 52,
+        "end": 58,
+        "text": " Alrighty then, and last time you got the 10 pills, do you want to do the same, just same everything?"
+      },
+      {
+        "id": 9,
+        "start": 58,
+        "end": 62,
+        "text": " Is it still $69?"
+      },
+      {
+        "id": 10,
+        "start": 62,
+        "end": 64,
+        "text": " $63.95."
+      },
+      {
+        "id": 11,
+        "start": 64,
+        "end": 66,
+        "text": " Is it $63.95?"
+      },
+      {
+        "id": 12,
+        "start": 66,
+        "end": 67,
+        "text": " Yeah."
+      },
+      {
+        "id": 13,
+        "start": 67,
+        "end": 70,
+        "text": " Yeah, everything's the same."
+      },
+      {
+        "id": 14,
+        "start": 70,
+        "end": 71,
+        "text": " Okay, super."
+      },
+      {
+        "id": 15,
+        "start": 71,
+        "end": 80,
+        "text": " And when I reorder it, I don't need it once a month, I need it like once every three months?"
+      },
+      {
+        "id": 16,
+        "start": 80,
+        "end": 82,
+        "text": " Yeah, of course, let's do that."
+      },
+      {
+        "id": 17,
+        "start": 82,
+        "end": 83,
+        "text": " Can I do that?"
+      },
+      {
+        "id": 18,
+        "start": 83,
+        "end": 89,
+        "text": " Oh, yeah, of course. I'll set your next refill for next April, so that's three months out,"
+      },
+      {
+        "id": 19,
+        "start": 89,
+        "end": 94,
+        "text": " and it only occurs once every three months, so that's basically four times a year."
+      },
+      {
+        "id": 20,
+        "start": 94,
+        "end": 96,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 96,
+        "end": 107,
+        "text": " Yeah, let's do that. Okay, just a moment. Let's get your refill and BGV, 10 pills, that's $63.95."
+      },
+      {
+        "id": 22,
+        "start": 107,
+        "end": 112,
+        "text": " The visa on file ends in 2531, is that the card we should use?"
+      },
+      {
+        "id": 23,
+        "start": 112,
+        "end": 113,
+        "text": " Yes, ma'am."
+      },
+      {
+        "id": 24,
+        "start": 113,
+        "end": 119,
+        "text": " All right then. Okay, let me go ahead and process this for you, one moment."
+      },
+      {
+        "id": 25,
+        "start": 119,
+        "end": 123,
+        "text": " And again, that's the AGV at 100 milligrams, okay?"
+      },
+      {
+        "id": 26,
+        "start": 123,
+        "end": 125,
+        "text": " Yes, it is."
+      },
+      {
+        "id": 27,
+        "start": 125,
+        "end": 131,
+        "text": " Yeah, and I think the last time I ordered was last August."
+      },
+      {
+        "id": 28,
+        "start": 131,
+        "end": 133,
+        "text": " Yes, actually it is last August."
+      },
+      {
+        "id": 29,
+        "start": 133,
+        "end": 135,
+        "text": " Okay, right."
+      },
+      {
+        "id": 30,
+        "start": 135,
+        "end": 137,
+        "text": " Okay, perfect."
+      },
+      {
+        "id": 31,
+        "start": 137,
+        "end": 144,
+        "text": " Your next refill won't be until April, that's three months out, and it only occurs once every three months, okay?"
+      },
+      {
+        "id": 32,
+        "start": 144,
+        "end": 148,
+        "text": " Thank you so much. And when can I expect those to work?"
+      },
+      {
+        "id": 33,
+        "start": 148,
+        "end": 151,
+        "text": " Less than a week. I mean, your prescription is still active."
+      },
+      {
+        "id": 34,
+        "start": 151,
+        "end": 152,
+        "text": " Less than a week?"
+      },
+      {
+        "id": 35,
+        "start": 152,
+        "end": 153,
+        "text": " Yeah, less than a week."
+      },
+      {
+        "id": 36,
+        "start": 153,
+        "end": 155,
+        "text": " Okay, wonderful, wonderful."
+      },
+      {
+        "id": 37,
+        "start": 155,
+        "end": 156,
+        "text": " Okay."
+      },
+      {
+        "id": 38,
+        "start": 156,
+        "end": 157,
+        "text": " Thank you, Jessie."
+      },
+      {
+        "id": 39,
+        "start": 157,
+        "end": 158,
+        "text": " No problem."
+      },
+      {
+        "id": 40,
+        "start": 158,
+        "end": 159,
+        "text": " I appreciate it."
+      },
+      {
+        "id": 41,
+        "start": 159,
+        "end": 160,
+        "text": " Have a good day."
+      },
+      {
+        "id": 42,
+        "start": 160,
+        "end": 162,
+        "text": " Yeah, you too. Bye-bye."
+      },
+      {
+        "id": 43,
+        "start": 162,
+        "end": 163,
+        "text": " All right, bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816f-96d3-c8da64a9b839",
+    "url": "https://www.notion.so/300000001218327-300000001708336-2f611d0a101c816f96d3c8da64a9b839"
+  },
+  "processedAt": "2026-01-28T14:43:29.444Z"
+}

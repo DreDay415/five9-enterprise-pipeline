@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001217575-300000001707859-9178280556 by  @ 10_53_54 AM_CallStudio.wav",
+    "size": 24630,
+    "modifyTime": 1769592152000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217575-300000001707859-9178280556 by  @ 10_53_54 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:22:32.000Z",
+    "callId": "300000001217575-300000001707859",
+    "phoneNumber": "9178280556",
+    "callTimestamp": "2026-01-28T09:22:32.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Bad side effects.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 768,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.28000020980835,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.28000020980835,
+        "end": 7.71999979019165,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.71999979019165,
+        "end": 11.319999694824219,
+        "text": " Bad side effects."
+      },
+      {
+        "id": 3,
+        "start": 11.319999694824219,
+        "end": 14.680000305175781,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8173-b81a-c58f3acf5bd4",
+    "url": "https://www.notion.so/300000001217575-300000001707859-2f611d0a101c8173b81ac58f3acf5bd4"
+  },
+  "processedAt": "2026-01-28T10:43:47.291Z"
+}

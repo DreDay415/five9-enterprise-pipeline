@@ -1,0 +1,58 @@
+{
+  "recording": {
+    "name": "300000001241039-300000001730587-7402442555 by  @ 2_29_03 PM_CallStudio.wav",
+    "size": 26646,
+    "modifyTime": 1770935381000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241039-300000001730587-7402442555 by  @ 2_29_03 PM_CallStudio.wav",
+    "uploadDate": "2026-02-12T22:29:41.000Z",
+    "callId": "300000001241039-300000001730587",
+    "phoneNumber": "7402442555",
+    "callTimestamp": "2026-02-12T22:29:41.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_unknown_300000001241039-300000001730587_7402442555.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_unknown_300000001241039-300000001730587_7402442555.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: To see about the blue, the um, the George...\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 901,
+    "audioDuration": 16.360000610351562,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 8,
+        "text": " Para Español Marque Numero Nueve."
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 14,
+        "text": " To see about the blue, the um, the George..."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 16,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81ca-8178-eabbc3de7188",
+    "url": "https://www.notion.so/300000001241039-300000001730587-30511d0a101c81ca8178eabbc3de7188"
+  },
+  "processedAt": "2026-02-12T22:46:42.609Z"
+}

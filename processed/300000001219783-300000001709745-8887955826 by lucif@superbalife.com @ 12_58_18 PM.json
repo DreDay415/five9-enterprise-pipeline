@@ -1,0 +1,188 @@
+{
+  "recording": {
+    "name": "300000001219783-300000001709745-8887955826 by lucif@superbalife.com @ 12_58_18 PM.wav",
+    "size": 169710,
+    "modifyTime": 1769592156000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219783-300000001709745-8887955826 by lucif@superbalife.com @ 12_58_18 PM.wav",
+    "uploadDate": "2026-01-28T09:22:36.000Z",
+    "callId": "300000001219783-300000001709745",
+    "agent": "lucif",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T12:58:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, Clint speaking. How can I help you?\n\nSpeaker 2: Yeah, I wish to cancel my prescription.\n\nSpeaker 1: What's your zip code?\n\nSpeaker 2: What's that?\n\nSpeaker 1: Your zip code?\n\nSpeaker 2: 49094.\n\nSpeaker 1: What's your first and last name?\n\nSpeaker 2: Tim Carpenter.\n\nSpeaker 1: Alrighty, and do you mind if I ask why it is you're canceling the Viagra today, sir?\n\nSpeaker 2: Because I was only supposed to be trying it, and it wasn't supposed to be a prescription.\n\nSpeaker 1: Yeah, all you got to do is set this up, sir. I mean, it's obviously a prescription.\n\nSpeaker 2: Well, yeah, I mean, I know that, but it was supposed to be just a one-time order.\n\nSpeaker 1: Yeah, as long as you set that up, sir, that's fine. You can set it up to order as needed.\n\nSpeaker 2: That's an option. We give those options when you purchase this.\n\nSpeaker 1: Yeah, well, that's what I did, and it's not working. I just want to cancel it.\n\nSpeaker 2: Well, you don't want to just order it as needed?\n\nSpeaker 1: No, I want to cancel it.\n\nSpeaker 2: And that's because it's not working?\n\nSpeaker 1: I've already got a prescription through my doctor for that stuff,\n\nSpeaker 2: and this stuff that I'm getting from you guys is not what was advertised.\n\nSpeaker 1: So I just want to cancel it.\n\nSpeaker 2: So what was advertised? What did you think you were getting, sir?\n\nSpeaker 1: Dude, I just want to cancel the prescription, all right, please?\n\nSpeaker 2: Look, I'm trying to help you out, sir.\n\nSpeaker 1: I don't want your help. I just want your help in canceling it.\n\nSpeaker 2: All right, sir. Have a good day. We'll cancel it for you. Have a good one.\n\nSpeaker 1: Yep.",
+    "duration": 4820,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thanks for calling Viagra, Clint speaking. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 8,
+        "text": " Yeah, I wish to cancel my prescription."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 10,
+        "text": " What's your zip code?"
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 12,
+        "text": " What's that?"
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 14,
+        "text": " Your zip code?"
+      },
+      {
+        "id": 5,
+        "start": 14,
+        "end": 20,
+        "text": " 49094."
+      },
+      {
+        "id": 6,
+        "start": 20,
+        "end": 22,
+        "text": " What's your first and last name?"
+      },
+      {
+        "id": 7,
+        "start": 22,
+        "end": 27,
+        "text": " Tim Carpenter."
+      },
+      {
+        "id": 8,
+        "start": 27,
+        "end": 32,
+        "text": " Alrighty, and do you mind if I ask why it is you're canceling the Viagra today, sir?"
+      },
+      {
+        "id": 9,
+        "start": 32,
+        "end": 41,
+        "text": " Because I was only supposed to be trying it, and it wasn't supposed to be a prescription."
+      },
+      {
+        "id": 10,
+        "start": 41,
+        "end": 46,
+        "text": " Yeah, all you got to do is set this up, sir. I mean, it's obviously a prescription."
+      },
+      {
+        "id": 11,
+        "start": 46,
+        "end": 50,
+        "text": " Well, yeah, I mean, I know that, but it was supposed to be just a one-time order."
+      },
+      {
+        "id": 12,
+        "start": 50,
+        "end": 54,
+        "text": " Yeah, as long as you set that up, sir, that's fine. You can set it up to order as needed."
+      },
+      {
+        "id": 13,
+        "start": 55,
+        "end": 58,
+        "text": " That's an option. We give those options when you purchase this."
+      },
+      {
+        "id": 14,
+        "start": 58,
+        "end": 65,
+        "text": " Yeah, well, that's what I did, and it's not working. I just want to cancel it."
+      },
+      {
+        "id": 15,
+        "start": 65,
+        "end": 68,
+        "text": " Well, you don't want to just order it as needed?"
+      },
+      {
+        "id": 16,
+        "start": 68,
+        "end": 73,
+        "text": " No, I want to cancel it."
+      },
+      {
+        "id": 17,
+        "start": 73,
+        "end": 77,
+        "text": " And that's because it's not working?"
+      },
+      {
+        "id": 18,
+        "start": 77,
+        "end": 81,
+        "text": " I've already got a prescription through my doctor for that stuff,"
+      },
+      {
+        "id": 19,
+        "start": 81,
+        "end": 85,
+        "text": " and this stuff that I'm getting from you guys is not what was advertised."
+      },
+      {
+        "id": 20,
+        "start": 85,
+        "end": 88,
+        "text": " So I just want to cancel it."
+      },
+      {
+        "id": 21,
+        "start": 88,
+        "end": 92,
+        "text": " So what was advertised? What did you think you were getting, sir?"
+      },
+      {
+        "id": 22,
+        "start": 92,
+        "end": 95,
+        "text": " Dude, I just want to cancel the prescription, all right, please?"
+      },
+      {
+        "id": 23,
+        "start": 95,
+        "end": 97,
+        "text": " Look, I'm trying to help you out, sir."
+      },
+      {
+        "id": 24,
+        "start": 97,
+        "end": 100,
+        "text": " I don't want your help. I just want your help in canceling it."
+      },
+      {
+        "id": 25,
+        "start": 100,
+        "end": 103,
+        "text": " All right, sir. Have a good day. We'll cancel it for you. Have a good one."
+      },
+      {
+        "id": 26,
+        "start": 103,
+        "end": 104,
+        "text": " Yep."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8162-a344-e1fff6c22d7f",
+    "url": "https://www.notion.so/300000001219783-300000001709745-2f611d0a101c8162a344e1fff6c22d7f"
+  },
+  "processedAt": "2026-01-28T10:40:15.281Z"
+}

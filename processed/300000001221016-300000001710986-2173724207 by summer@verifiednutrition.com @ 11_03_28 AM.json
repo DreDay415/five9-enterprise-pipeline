@@ -1,0 +1,68 @@
+{
+  "recording": {
+    "name": "300000001221016-300000001710986-2173724207 by summer@verifiednutrition.com @ 11_03_28 AM.wav",
+    "size": 50890,
+    "modifyTime": 1769627060000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221016-300000001710986-2173724207 by summer@verifiednutrition.com @ 11_03_28 AM.wav",
+    "uploadDate": "2026-01-28T19:04:20.000Z",
+    "callId": "300000001221016-300000001710986",
+    "agent": "summer",
+    "phoneNumber": "2173724207",
+    "callTimestamp": "2026-01-28T11:03:28.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: He was calling customer service, I can help you.\n\nSpeaker 2: Yes, I was calling to make sure my subscription is cancelled.\n\nSpeaker 1: What's your name and birthday?\n\nSpeaker 2: Tony Walker, 8-12-1970.\n\nSpeaker 1: You cancelled it yesterday.\n\nSpeaker 2: I was verifying it.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: You're welcome.",
+    "duration": 864,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " He was calling customer service, I can help you."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Yes, I was calling to make sure my subscription is cancelled."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " What's your name and birthday?"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 16,
+        "text": " Tony Walker, 8-12-1970."
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 24,
+        "text": " You cancelled it yesterday."
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 28,
+        "text": " I was verifying it."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 32,
+        "text": " Thank you. You're welcome."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81ba-a0ae-c67265f90188",
+    "url": "https://www.notion.so/300000001221016-300000001710986-2f711d0a101c81baa0aec67265f90188"
+  },
+  "processedAt": "2026-01-29T00:02:03.643Z"
+}

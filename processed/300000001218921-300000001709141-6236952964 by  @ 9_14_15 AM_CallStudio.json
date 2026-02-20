@@ -1,0 +1,85 @@
+{
+  "recording": {
+    "name": "300000001218921-300000001709141-6236952964 by  @ 9_14_15 AM_CallStudio.wav",
+    "size": 63176,
+    "modifyTime": 1769592444000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218921-300000001709141-6236952964 by  @ 9_14_15 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:27:24.000Z",
+    "callId": "300000001218921-300000001709141",
+    "phoneNumber": "6236952964",
+    "callTimestamp": "2026-01-28T09:27:24.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Para Español, marque numero nueve.\n\nSpeaker 1: Orders.\n\nSpeaker 2: I heard you say, orders.\n\nSpeaker 1: Say yes or press 1 if this is correct.\n\nSpeaker 2: Otherwise, say no or press 2.\n\nSpeaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Para Español, marque numero nueve.\n\nSpeaker 1: To stop order prescriptions.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 2187,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 8,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " Orders."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 14,
+        "text": " I heard you say, orders."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 17,
+        "text": " Say yes or press 1 if this is correct."
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 20,
+        "text": " Otherwise, say no or press 2."
+      },
+      {
+        "id": 6,
+        "start": 20,
+        "end": 28,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 32,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 8,
+        "start": 32,
+        "end": 36,
+        "text": " To stop order prescriptions."
+      },
+      {
+        "id": 9,
+        "start": 36,
+        "end": 39,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81f5-a087-e58f94030809",
+    "url": "https://www.notion.so/300000001218921-300000001709141-2f611d0a101c81f5a087e58f94030809"
+  },
+  "processedAt": "2026-01-28T10:20:14.004Z"
+}

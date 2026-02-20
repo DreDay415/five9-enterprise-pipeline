@@ -1,0 +1,152 @@
+{
+  "recording": {
+    "name": "300000001217719-300000001707934-9044492308 by olivier@superbalife.com @ 11_25_26 AM.wav",
+    "size": 219500,
+    "modifyTime": 1769584935000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217719-300000001707934-9044492308 by olivier@superbalife.com @ 11_25_26 AM.wav",
+    "uploadDate": "2026-01-28T07:22:15.000Z",
+    "callId": "300000001217719-300000001707934",
+    "agent": "olivier",
+    "phoneNumber": "9044492308",
+    "callTimestamp": "2026-01-28T11:25:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra. This is Ollie speaking, Viagra Score Blue. How may I help?\n\nSpeaker 2: You Mr. Kerry Campbell? You are. Okay, let me pull your prescription, okay. Well, I don't really, I don't want a refill. I want to cancel a subscription.\n\nSpeaker 1: Okay, you don't have a subscription.\n\nSpeaker 2: You say that you have refills but you can't stop that. Let me pull the prescription first.\n\nSpeaker 1: Okay, so I can help you. So does that mean you are not going to charge me again?\n\nSpeaker 2: No, so what you do, you can order as needed as well. Some patients need that often, maybe that's not your case so you can order as needed.\n\nSpeaker 1: As needed, okay. What is your zip code, sir?\n\nSpeaker 2: So I'm not on a recurring purchase. Let me take a look first, okay. What is your zip code?\n\nSpeaker 1: What do you mean? Zip code, zip code sir, zip code.\n\nSpeaker 2: 32068.\n\nSpeaker 1: Okay, let me pull that prescription here.\n\nSpeaker 2: Okay, Mr. Kerry Campbell, I see that you have a prescription, Viagra 100mg, 10 tablets.\n\nSpeaker 1: If you don't need it often, that's not a problem. I can post the prescription, they post it, I think, up to half a year and you can order as needed. The monthly is not required.\n\nSpeaker 2: I usually do initial prescription because you know in the occasion that you are really active you need some Viagra but when you call saying, you know what, I'm kind of slowing down, I don't need much, we advise the pharmacy to pause so you can order as needed, okay.\n\nSpeaker 1: I appreciate it, I just don't want to get charged again out of the blue because my wife has a cow.\n\nSpeaker 2: So basically that locks your price in and keeps the consultation available, you can reorder maybe once or twice a year or more, whatever you need but you don't get it necessarily every 30 days basically, right.\n\nSpeaker 1: Okay, good, thank you very much.\n\nSpeaker 2: You're welcome, the pharmacy is going to pause for half a year and call to reorder, okay.\n\nSpeaker 1: Alright, thanks, bye.\n\nSpeaker 2: You're welcome, Baba.",
+    "duration": 4511,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8.5600004196167,
+        "text": " Hi this is Viagra. This is who? This is Ollie speaking, Viagra score blue. How may I help"
+      },
+      {
+        "id": 1,
+        "start": 8.5600004196167,
+        "end": 18.31999969482422,
+        "text": " you Mr. Kerry Campbell? You are. Okay let me pull your prescription okay. Well I don't"
+      },
+      {
+        "id": 2,
+        "start": 18.31999969482422,
+        "end": 28.84000015258789,
+        "text": " really, I don't want a refill. I want to cancel a subscription. Okay you don't have a subscription,"
+      },
+      {
+        "id": 3,
+        "start": 28.84000015258789,
+        "end": 32.720001220703125,
+        "text": " you say that you have refills but you can't stop that. Let me pull the prescription first"
+      },
+      {
+        "id": 4,
+        "start": 32.720001220703125,
+        "end": 38,
+        "text": " okay so I can help you. So does that mean you are not going to charge me again? No,"
+      },
+      {
+        "id": 5,
+        "start": 38,
+        "end": 42.400001525878906,
+        "text": " so what you do, you can order as needed as well. Some patients need that often, maybe"
+      },
+      {
+        "id": 6,
+        "start": 42.400001525878906,
+        "end": 48.68000030517578,
+        "text": " that's not your case so you can order as needed. As needed okay. What is your zip code sir?"
+      },
+      {
+        "id": 7,
+        "start": 48.68000030517578,
+        "end": 58.560001373291016,
+        "text": " So I'm not on a recurring purchase. Let me take a look first okay. What is your zip code?"
+      },
+      {
+        "id": 8,
+        "start": 58.560001373291016,
+        "end": 69.76000213623047,
+        "text": " What do you mean? Zip code, zip code sir, zip code. 32068. Okay let me pull that prescription"
+      },
+      {
+        "id": 9,
+        "start": 69.76000213623047,
+        "end": 77.5999984741211,
+        "text": " here. Okay Mr. Kerry Campbell I see that you have a prescription, Viagra 100mg, 10 tablets."
+      },
+      {
+        "id": 10,
+        "start": 77.5999984741211,
+        "end": 82.23999786376953,
+        "text": " If you don't need it often, that's not a problem. I can post the prescription, they post it"
+      },
+      {
+        "id": 11,
+        "start": 82.23999786376953,
+        "end": 86.31999969482422,
+        "text": " I think up to half a year and you can order as needed. The monthly is not required. I"
+      },
+      {
+        "id": 12,
+        "start": 86.31999969482422,
+        "end": 94.31999969482422,
+        "text": " usually do initial prescription because you know in the occasion that you are really active"
+      },
+      {
+        "id": 13,
+        "start": 94.31999969482422,
+        "end": 98.72000122070312,
+        "text": " you need some Viagra but when you call saying you know what, I'm kind of slowing down, I"
+      },
+      {
+        "id": 14,
+        "start": 98.72000122070312,
+        "end": 103.91999816894531,
+        "text": " don't need much, we advise the pharmacy to pause so you can order as needed okay. I appreciate"
+      },
+      {
+        "id": 15,
+        "start": 103.91999816894531,
+        "end": 111,
+        "text": " it, I just don't want to get charged again out of the blue because my wife has a cow."
+      },
+      {
+        "id": 16,
+        "start": 111,
+        "end": 117.91999816894531,
+        "text": " So basically that lock your price in and keep the consultation available, you can reorder"
+      },
+      {
+        "id": 17,
+        "start": 117.91999816894531,
+        "end": 122.4000015258789,
+        "text": " maybe once or twice a year or more, whatever you need but you don't get it necessarily"
+      },
+      {
+        "id": 18,
+        "start": 122.4000015258789,
+        "end": 129.1999969482422,
+        "text": " every 30 days basically right. Okay good, thank you very much. You're welcome, the pharmacy"
+      },
+      {
+        "id": 19,
+        "start": 129.1999969482422,
+        "end": 134.0800018310547,
+        "text": " is going to pause for half a year and call to reorder okay. Alright thanks, bye. You're"
+      },
+      {
+        "id": 20,
+        "start": 134.0800018310547,
+        "end": 134.8800048828125,
+        "text": " welcome Baba."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81d3-8dd2-e38c1c71c8eb",
+    "url": "https://www.notion.so/300000001217719-300000001707934-2f611d0a101c81d38dd2e38c1c71c8eb"
+  },
+  "processedAt": "2026-01-28T14:45:39.956Z"
+}

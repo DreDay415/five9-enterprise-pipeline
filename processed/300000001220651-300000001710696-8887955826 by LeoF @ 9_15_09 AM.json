@@ -1,0 +1,235 @@
+{
+  "recording": {
+    "name": "300000001220651-300000001710696-8887955826 by LeoF @ 9_15_09 AM.wav",
+    "size": 250636,
+    "modifyTime": 1769620685000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220651-300000001710696-8887955826 by LeoF @ 9_15_09 AM.wav",
+    "uploadDate": "2026-01-28T17:18:05.000Z",
+    "callId": "300000001220651-300000001710696",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T09:15:09.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, thanks for calling Viagra. How can I help you?\n\nSpeaker 2: Hi, I wanted to refill a prescription.\n\nSpeaker 1: Yeah, I can help you with that, sir. What is your last name?\n\nSpeaker 2: Scruggs, S-C-R-U-G-G-S.\n\nSpeaker 1: And your zip code, Mr. Scruggs?\n\nSpeaker 2: 90740.\n\nSpeaker 1: 90740, give me just a sec. Scott. All right, you've got it.\n\nSpeaker 2: All right, Scott, it looks like you got the 10 pills of the new Viagra AGV.\n\nSpeaker 1: Did you want to just do that same order again, or do you want to get more or less? Or not less, but more?\n\nSpeaker 2: Yeah, not less.\n\nSpeaker 1: Can you refresh my memory on how much they are?\n\nSpeaker 2: You got 10 pills for $63.95.\n\nSpeaker 1: If you were at 25 pills, which is just the next quantity up, it'd be $113.95. $50 more.\n\nSpeaker 2: Yeah, and do you have any military—\n\nSpeaker 1: Pricing or discounts? Unfortunately, not. Currently, we definitely do appreciate that service, though.\n\nSpeaker 2: Okay. All right, I always ask. You never know.\n\nSpeaker 1: Is it normal, and I'm driving down the coast, so if it's garbled, let me know.\n\nSpeaker 2: Is it normal to just take one pill or two pills?\n\nSpeaker 1: You got a 50 milligram option, so it's just up to you, really.\n\nSpeaker 2: Some people, I mean, the doctor doesn't want anyone taking more than a 100—\n\nSpeaker 1: But they say you can take one or two. Some people split them in half, too, you know.\n\nSpeaker 2: So it's just really how much you need. Everybody's bioavailability is a little different.\n\nSpeaker 1: So when you say split them in half, you could even take less than one?\n\nSpeaker 2: I mean, if it works, yeah. It just depends how much you need, you know. If 25 milligrams works, that's perfect.\n\nSpeaker 1: Some people, they want the 50 milligram, they get the 100, and they just split them in half, you know, twice as many.\n\nSpeaker 2: Oh, I got you. All right, let's go with the second quantity that you mentioned.\n\nSpeaker 1: And then you're at 4181 Ironwood Avenue, Seal Beach, 90740?\n\nSpeaker 2: Yeah, and it's shipped discreetly, right?\n\nSpeaker 1: It is, yeah, absolutely. Just your name will be on it.\n\nSpeaker 2: And then, Scott, I have your Discover card here that ends at 2747. Is that the card you wanted to use?\n\nSpeaker 1: Yeah, that works.\n\nSpeaker 2: All right, give me just a sec.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, you're all set, Mr. Scruggs. Your order's been placed.\n\nSpeaker 1: You'll see that process ship out and arrive in the next few days, okay?\n\nSpeaker 2: Thank you. Appreciate it. Bye.\n\nSpeaker 1: Thank you. Bye-bye now.",
+    "duration": 5995,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hey, thanks for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3.1600000858306885,
+        "end": 5.599999904632568,
+        "text": " Hi, I wanted to refill a prescription"
+      },
+      {
+        "id": 2,
+        "start": 6.480000019073486,
+        "end": 9.039999961853027,
+        "text": " Yeah, I can help you with that, sir. What is your last name?"
+      },
+      {
+        "id": 3,
+        "start": 10.520000457763672,
+        "end": 15.600000381469727,
+        "text": " Scruggs, S-C-R-U-G-G-S. And your zip code, Mr. Scruggs?"
+      },
+      {
+        "id": 4,
+        "start": 17.280000686645508,
+        "end": 19.280000686645508,
+        "text": " 90740"
+      },
+      {
+        "id": 5,
+        "start": 20.760000228881836,
+        "end": 26.200000762939453,
+        "text": " 90740, give me just a sec. Scott. All right, you've got it."
+      },
+      {
+        "id": 6,
+        "start": 26.600000381469727,
+        "end": 29.719999313354492,
+        "text": " All right, Scott, it looks like you got the 10 pills of the new Viagra AGV."
+      },
+      {
+        "id": 7,
+        "start": 29.719999313354492,
+        "end": 33.119998931884766,
+        "text": " Did you want to just do that same order again, or do you want to get more or less? Or not less, but more?"
+      },
+      {
+        "id": 8,
+        "start": 34.84000015258789,
+        "end": 36.84000015258789,
+        "text": " Yeah, not less."
+      },
+      {
+        "id": 9,
+        "start": 36.84000015258789,
+        "end": 42.720001220703125,
+        "text": " Can you refresh my memory on how much they are? You got 10 pills for $63.95."
+      },
+      {
+        "id": 10,
+        "start": 42.720001220703125,
+        "end": 48.41999816894531,
+        "text": " If you were at 25 pills, which is just the next quantity up, it'd be $113.95. $50 more."
+      },
+      {
+        "id": 11,
+        "start": 50.599998474121094,
+        "end": 52.68000030517578,
+        "text": " Yeah, and do you have any military"
+      },
+      {
+        "id": 12,
+        "start": 53.119998931884766,
+        "end": 59.31999969482422,
+        "text": " pricing or discounts? Unfortunately, not. Currently, we definitely do appreciate that service, though."
+      },
+      {
+        "id": 13,
+        "start": 61,
+        "end": 64,
+        "text": " Okay. All right, I always ask. You never know."
+      },
+      {
+        "id": 14,
+        "start": 66.04000091552734,
+        "end": 74.08000183105469,
+        "text": " Is it normal, and I'm driving down the coast, so if it's garbled, let me know."
+      },
+      {
+        "id": 15,
+        "start": 75.27999877929688,
+        "end": 80.72000122070312,
+        "text": " Is it normal to just take one pill or two pills?"
+      },
+      {
+        "id": 16,
+        "start": 81.19999694824219,
+        "end": 84.72000122070312,
+        "text": " You got a 50 milligram option, so it's just up to you, really."
+      },
+      {
+        "id": 17,
+        "start": 84.72000122070312,
+        "end": 88.31999969482422,
+        "text": " Some people, I mean, the doctor doesn't want anyone taking more than a 100,"
+      },
+      {
+        "id": 18,
+        "start": 88.31999969482422,
+        "end": 91.55999755859375,
+        "text": " but they say you can take one or two. Some people split them in half, too, you know."
+      },
+      {
+        "id": 19,
+        "start": 92.12000274658203,
+        "end": 96.08000183105469,
+        "text": " So it's just really how much you need. Everybody's bioavailability is a little different."
+      },
+      {
+        "id": 20,
+        "start": 97.19999694824219,
+        "end": 100.68000030517578,
+        "text": " So when you say split them in half, you could even take less than one?"
+      },
+      {
+        "id": 21,
+        "start": 101.16000366210938,
+        "end": 107.36000061035156,
+        "text": " I mean, if it works, yeah. It just depends how much you need, you know. If 25 milligrams works, that's perfect."
+      },
+      {
+        "id": 22,
+        "start": 107.4000015258789,
+        "end": 112.68000030517578,
+        "text": " Some people, they want the 50 milligram, they get the 100, and they just split them in half, you know, twice as many."
+      },
+      {
+        "id": 23,
+        "start": 114.63999938964844,
+        "end": 121.4000015258789,
+        "text": " Oh, I got you. All right, let's go with the second quantity that you mentioned."
+      },
+      {
+        "id": 24,
+        "start": 121.87999725341797,
+        "end": 126.27999877929688,
+        "text": " And then you're at 4181 Ironwood Avenue, Seal Beach, 90740?"
+      },
+      {
+        "id": 25,
+        "start": 127.68000030517578,
+        "end": 129.9600067138672,
+        "text": " Yeah, and it's shipped discreetly, right?"
+      },
+      {
+        "id": 26,
+        "start": 130.39999389648438,
+        "end": 132.67999267578125,
+        "text": " It is, yeah, absolutely. Just your name will be on it."
+      },
+      {
+        "id": 27,
+        "start": 133,
+        "end": 138,
+        "text": " And then, Scott, I have your Discover card here that ends at 2747. Is that the card you wanted to use?"
+      },
+      {
+        "id": 28,
+        "start": 139.36000061035156,
+        "end": 140.36000061035156,
+        "text": " Yeah, that works."
+      },
+      {
+        "id": 29,
+        "start": 140.9199981689453,
+        "end": 142.0800018310547,
+        "text": " All right, give me just a sec."
+      },
+      {
+        "id": 30,
+        "start": 144.36000061035156,
+        "end": 144.63999938964844,
+        "text": " Okay."
+      },
+      {
+        "id": 31,
+        "start": 145.1999969482422,
+        "end": 147.27999877929688,
+        "text": " All right, you're all set, Mr. Scruggs. Your order's been placed."
+      },
+      {
+        "id": 32,
+        "start": 147.27999877929688,
+        "end": 149.52000427246094,
+        "text": " You'll see that process ship out and arrive in the next few days, okay?"
+      },
+      {
+        "id": 33,
+        "start": 151.16000366210938,
+        "end": 152.47999572753906,
+        "text": " Thank you. Appreciate it. Bye."
+      },
+      {
+        "id": 34,
+        "start": 152.60000610351562,
+        "end": 153.55999755859375,
+        "text": " Thank you. Bye-bye now."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8155-93c2-e0167ab7dd3e",
+    "url": "https://www.notion.so/300000001220651-300000001710696-2f611d0a101c815593c2e0167ab7dd3e"
+  },
+  "processedAt": "2026-01-28T18:36:52.149Z"
+}

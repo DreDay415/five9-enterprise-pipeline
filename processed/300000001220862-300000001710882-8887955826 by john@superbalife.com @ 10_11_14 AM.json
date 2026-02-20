@@ -1,0 +1,146 @@
+{
+  "recording": {
+    "name": "300000001220862-300000001710882-8887955826 by john@superbalife.com @ 10_11_14 AM.wav",
+    "size": 179656,
+    "modifyTime": 1769624006000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220862-300000001710882-8887955826 by john@superbalife.com @ 10_11_14 AM.wav",
+    "uploadDate": "2026-01-28T18:13:26.000Z",
+    "callId": "300000001220862-300000001710882",
+    "agent": "john",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T10:11:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Yes, sir, I would like to—I have one refilled on my score blue.\n\nSpeaker 1: The RX number is—oh, your name and zip code can help me more.\n\nSpeaker 2: Okay, first name is Alfred. A L F R E D.\n\nSpeaker 1: Last name is Pompei?\n\nSpeaker 2: P-o-m-p-e-i.\n\nSpeaker 1: Okay, my—my address is one six five—\n\nSpeaker 2: Zero zero eighty second Street in Bristol, Wisconsin.\n\nSpeaker 1: Five three one zero four.\n\nSpeaker 2: Thanks.\n\nSpeaker 1: Okay, I—\n\nSpeaker 2: Got you. You said one six five zero zero eighty second Street, right?\n\nSpeaker 1: Yeah, one six five zero zero eighty second Street in Wisconsin.\n\nSpeaker 2: Okay, I have the RX number. I don't know. I got everything I need in terms of that.\n\nSpeaker 1: So you just want to do the same thing you did last time, just get a refill of that?\n\nSpeaker 2: Yes, okay, and then I'm okay to charge the same Visa card, sir.\n\nSpeaker 1: Which one was it? It ends in six four nine seven?\n\nSpeaker 2: Yes, yes, that's the correct one. Okay, perfect.\n\nSpeaker 1: Okay. Thank you very much, sir. I appreciate it. You're welcome. We're set, Alfred. Have a good day.\n\nSpeaker 2: Okay, you too. Bye. Bye. Bye.",
+    "duration": 3044,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.1600000858306885,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3.9200000762939453,
+        "end": 9.720000267028809,
+        "text": " Yes, sir, I would like to I have one refilled on my score blue"
+      },
+      {
+        "id": 2,
+        "start": 11.15999984741211,
+        "end": 15.380000114440918,
+        "text": " The RX number is oh your name and zip code can help me more"
+      },
+      {
+        "id": 3,
+        "start": 16.399999618530273,
+        "end": 20.719999313354492,
+        "text": " Okay, first name is Alfred. A L F R E D"
+      },
+      {
+        "id": 4,
+        "start": 21.360000610351562,
+        "end": 23.559999465942383,
+        "text": " Last name is Pompei"
+      },
+      {
+        "id": 5,
+        "start": 24.639999389648438,
+        "end": 26.639999389648438,
+        "text": " P-o-m-p-e-i"
+      },
+      {
+        "id": 6,
+        "start": 27.200000762939453,
+        "end": 31.1200008392334,
+        "text": " Okay, my my address is one six five"
+      },
+      {
+        "id": 7,
+        "start": 32.52000045776367,
+        "end": 36.20000076293945,
+        "text": " Zero zero eighty second Street in Bristol, Wisconsin"
+      },
+      {
+        "id": 8,
+        "start": 37.31999969482422,
+        "end": 39.31999969482422,
+        "text": " five three one zero four"
+      },
+      {
+        "id": 9,
+        "start": 40.15999984741211,
+        "end": 42.15999984741211,
+        "text": " Thanks"
+      },
+      {
+        "id": 10,
+        "start": 56.63999938964844,
+        "end": 61.63999938964844,
+        "text": " Okay, I"
+      },
+      {
+        "id": 11,
+        "start": 64.4800033569336,
+        "end": 67.63999938964844,
+        "text": " Got you. You said one six five zero zero eighty second Street, right?"
+      },
+      {
+        "id": 12,
+        "start": 69.31999969482422,
+        "end": 74.83999633789062,
+        "text": " Yeah, one six five zero zero eighty second Street in the Wisconsin"
+      },
+      {
+        "id": 13,
+        "start": 75.23999786376953,
+        "end": 80.95999908447266,
+        "text": " Okay, I have the RX number. I don't know. I got I got everything I need in terms of that"
+      },
+      {
+        "id": 14,
+        "start": 80.95999908447266,
+        "end": 83.87999725341797,
+        "text": " So you just want to do the same thing you did last time just get a refill of that"
+      },
+      {
+        "id": 15,
+        "start": 84.68000030517578,
+        "end": 89.95999908447266,
+        "text": " Yes, okay and then I'm okay to charge the same Visa card, sir"
+      },
+      {
+        "id": 16,
+        "start": 91.63999938964844,
+        "end": 95.5199966430664,
+        "text": " Which one was it to you it it ends in six four nine seven"
+      },
+      {
+        "id": 17,
+        "start": 97.12000274658203,
+        "end": 100.44000244140625,
+        "text": " Yes, yes, that's the correct one, okay, perfect"
+      },
+      {
+        "id": 18,
+        "start": 101.91999816894531,
+        "end": 106.5199966430664,
+        "text": " Okay. Thank you very much, sir. I appreciate it. You're welcome. We're set Alfred. Have a good day"
+      },
+      {
+        "id": 19,
+        "start": 107.44000244140625,
+        "end": 109.44000244140625,
+        "text": " Okay, you too. Bye. Bye. Bye"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81a4-bb27-c6880a444977",
+    "url": "https://www.notion.so/300000001220862-300000001710882-2f711d0a101c81a4bb27c6880a444977"
+  },
+  "processedAt": "2026-01-29T00:22:40.688Z"
+}

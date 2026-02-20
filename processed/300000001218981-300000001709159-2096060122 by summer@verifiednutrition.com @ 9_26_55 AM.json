@@ -1,0 +1,122 @@
+{
+  "recording": {
+    "name": "300000001218981-300000001709159-2096060122 by summer@verifiednutrition.com @ 9_26_55 AM.wav",
+    "size": 102826,
+    "modifyTime": 1769583732000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218981-300000001709159-2096060122 by summer@verifiednutrition.com @ 9_26_55 AM.wav",
+    "uploadDate": "2026-01-28T07:02:12.000Z",
+    "callId": "300000001218981-300000001709159",
+    "agent": "summer",
+    "phoneNumber": "2096060122",
+    "callTimestamp": "2026-01-28T09:26:55.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Okay, thank you so much for holding. I apologize. My system is being very slow today.\n\nSpeaker 2: Okay, I have your account. Can you refer your name and birthday for me?\n\nSpeaker 1: It's Darryl Moore, and my birthday is 9-29-53.\n\nSpeaker 2: Awesome. And then how can I help you?\n\nSpeaker 1: Well, I ordered the new AGT that you guys have.\n\nSpeaker 2: And they sent me the regular 100 mil, not the new one.\n\nSpeaker 1: I received the same order that I've been using, and I wanted to try the new stuff.\n\nSpeaker 2: I see. Okay, I'm going to send you out the right one.\n\nSpeaker 1: Are you still on Villa Ramen Drive?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And do you want me to send these back to you?\n\nSpeaker 1: No, you don't have to send them back.\n\nSpeaker 2: Okay. All right, dear. Thank you very much.\n\nSpeaker 1: You're more than welcome. You have a wonderful day, okay?\n\nSpeaker 2: You too. All right. Bye-bye.",
+    "duration": 2826,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Okay, thank you so much for holding. I apologize. My system is being very slow today."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Okay, I have your account. Can you refer your name and birthday for me?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 14,
+        "text": " It's Darryl Moore, and my birthday is 9-29-53."
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 17,
+        "text": " Awesome. And then how can I help you?"
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 23,
+        "text": " Well, I ordered the new AGT that you guys have."
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 30,
+        "text": " And they sent me the regular 100 mil, not the new one."
+      },
+      {
+        "id": 6,
+        "start": 30,
+        "end": 36,
+        "text": " I received the same order that I've been using, and I wanted to try the new stuff."
+      },
+      {
+        "id": 7,
+        "start": 36,
+        "end": 38,
+        "text": " I see. Okay, I'm going to send you out the right one."
+      },
+      {
+        "id": 8,
+        "start": 38,
+        "end": 41,
+        "text": " Are you still on Villa Ramen Drive?"
+      },
+      {
+        "id": 9,
+        "start": 41,
+        "end": 43,
+        "text": " Yes."
+      },
+      {
+        "id": 10,
+        "start": 43,
+        "end": 45,
+        "text": " Okay."
+      },
+      {
+        "id": 11,
+        "start": 45,
+        "end": 49,
+        "text": " And do you want me to send these back to you?"
+      },
+      {
+        "id": 12,
+        "start": 49,
+        "end": 51,
+        "text": " No, you don't have to send them back."
+      },
+      {
+        "id": 13,
+        "start": 52,
+        "end": 56,
+        "text": " Okay. All right, dear. Thank you very much."
+      },
+      {
+        "id": 14,
+        "start": 56,
+        "end": 59,
+        "text": " You're more than welcome. You have a wonderful day, okay?"
+      },
+      {
+        "id": 15,
+        "start": 59,
+        "end": 62,
+        "text": " You too. All right. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-814d-bea0-ddb47df94b08",
+    "url": "https://www.notion.so/300000001218981-300000001709159-2f611d0a101c814dbea0ddb47df94b08"
+  },
+  "processedAt": "2026-01-28T16:10:45.960Z"
+}

@@ -1,0 +1,116 @@
+{
+  "recording": {
+    "name": "300000001219622-300000001709647-9086425513 by summer@verifiednutrition.com @ 12_05_33 PM.wav",
+    "size": 72276,
+    "modifyTime": 1769591840000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219622-300000001709647-9086425513 by summer@verifiednutrition.com @ 12_05_33 PM.wav",
+    "uploadDate": "2026-01-28T09:17:20.000Z",
+    "callId": "300000001219622-300000001709647",
+    "agent": "summer",
+    "phoneNumber": "9086425513",
+    "callTimestamp": "2026-01-28T12:05:33.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 2: I placed an order and I keep on getting sent the generic Viagra and not what you're advertising.\n\nSpeaker 1: Yes, I want to cancel my account.\n\nSpeaker 1: Okay, all righty, I canceled your account.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All righty.\n\nSpeaker 2: Are you going to send anything to verify that?\n\nSpeaker 1: It should be via email, but yes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, thank you.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye.\n\nSpeaker 2: She didn't even care.\n\nSpeaker 1: Yeah.",
+    "duration": 2476,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.400000095367432,
+        "text": " Yes, I want to cancel my account."
+      },
+      {
+        "id": 1,
+        "start": 5.400000095367432,
+        "end": 15.079999923706055,
+        "text": " I placed an order and I keep on getting sent the generic Viagra and not what you're advertising."
+      },
+      {
+        "id": 2,
+        "start": 15.079999923706055,
+        "end": 26,
+        "text": " Okay, all righty, I canceled your account."
+      },
+      {
+        "id": 3,
+        "start": 26,
+        "end": 27,
+        "text": " Okay."
+      },
+      {
+        "id": 4,
+        "start": 27,
+        "end": 28,
+        "text": " All righty."
+      },
+      {
+        "id": 5,
+        "start": 29,
+        "end": 32,
+        "text": " Are you going to send anything to verify that?"
+      },
+      {
+        "id": 6,
+        "start": 32,
+        "end": 37,
+        "text": " It should be via email, but yes."
+      },
+      {
+        "id": 7,
+        "start": 37,
+        "end": 38,
+        "text": " Okay."
+      },
+      {
+        "id": 8,
+        "start": 38,
+        "end": 39,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 9,
+        "start": 39,
+        "end": 40,
+        "text": " You're welcome."
+      },
+      {
+        "id": 10,
+        "start": 40,
+        "end": 41,
+        "text": " Bye."
+      },
+      {
+        "id": 11,
+        "start": 41,
+        "end": 42,
+        "text": " Bye."
+      },
+      {
+        "id": 12,
+        "start": 42,
+        "end": 43,
+        "text": " Bye."
+      },
+      {
+        "id": 13,
+        "start": 43,
+        "end": 44,
+        "text": " She didn't even care."
+      },
+      {
+        "id": 14,
+        "start": 44,
+        "end": 45,
+        "text": " Yeah."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8156-b821-ff284a12f1d6",
+    "url": "https://www.notion.so/300000001219622-300000001709647-2f611d0a101c8156b821ff284a12f1d6"
+  },
+  "processedAt": "2026-01-28T11:20:48.700Z"
+}

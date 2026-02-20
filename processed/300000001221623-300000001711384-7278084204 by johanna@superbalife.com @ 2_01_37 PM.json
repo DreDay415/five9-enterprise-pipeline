@@ -1,0 +1,350 @@
+{
+  "recording": {
+    "name": "300000001221623-300000001711384-7278084204 by johanna@superbalife.com @ 2_01_37 PM.wav",
+    "size": 386290,
+    "modifyTime": 1769637957000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221623-300000001711384-7278084204 by johanna@superbalife.com @ 2_01_37 PM.wav",
+    "uploadDate": "2026-01-28T22:05:57.000Z",
+    "callId": "300000001221623-300000001711384",
+    "agent": "johanna",
+    "phoneNumber": "7278084204",
+    "callTimestamp": "2026-01-28T14:01:37.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, Joanna speaking, how can I help you?\n\nSpeaker 2: Yeah, hi.\n\nSpeaker 1: I just tried to order a reorder of prescription and try the AGV format and it was declined\n\nSpeaker 2: because I'm in the process of moving and I had put in my new address and I forgot to\n\nSpeaker 1: change it with you guys so they declined it because it didn't match my credit card\n\nSpeaker 2: address.\n\nSpeaker 1: So I just need for you to update my address and then I can reorder again because it was\n\nSpeaker 2: declined, soft declined because the information was not accurate, my address.\n\nSpeaker 1: Of course.\n\nSpeaker 2: Can I get your name and date of birth?\n\nSpeaker 1: Howard Manhoff, 6-20-1950.\n\nSpeaker 2: Okay, so the current address I have for the shipping and the billing is 1547 El Pardo\n\nSpeaker 1: Drive.\n\nSpeaker 2: Yeah, that's, yes, it's changed.\n\nSpeaker 1: It's a new address.\n\nSpeaker 2: So can I give you that new address?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: 16230 Southwest 9th Street, that's a nine, 9th Street, Pembroke, P-E-M-B-R-O-K-E, Pembroke,\n\nSpeaker 2: Pines.\n\nSpeaker 1: Say that for me one more time, sir.\n\nSpeaker 2: Pembroke, Pines.\n\nSpeaker 1: E as in Paul, E as in Edward, M as in Mary, B as in boy, R as in Romeo, O as in Oscar,\n\nSpeaker 2: K as in Karen, E as in Edward, Pembroke, P-E-M-B-R-O-K-E, Pines, P-I-N-E-S, Florida.\n\nSpeaker 1: Uh huh.\n\nSpeaker 2: 33027.\n\nSpeaker 1: Can you read that back to me again, please?\n\nSpeaker 2: Yes, absolutely.\n\nSpeaker 1: So I have 16230 Southwest 9th Street, Pembroke, P-E-M-B-R-O-K-E, Pines, Florida, 33027.\n\nSpeaker 2: And the Pines is P-I-N-E-S, that's correct?\n\nSpeaker 1: Yep, that's correct.\n\nSpeaker 2: And it was 33027, correct?\n\nSpeaker 1: 33027, correct.\n\nSpeaker 2: Now I'm just updating the billing address to the same, right?\n\nSpeaker 1: Thank you, yes.\n\nSpeaker 2: Okay, sir, I have updated that for you.\n\nSpeaker 1: And since I have you on the line, did you want me to place the order for you now?\n\nSpeaker 2: Please, and I'm going to give the AGV the try.\n\nSpeaker 1: Excellent, okay, so I'll place the order for the AGV.\n\nSpeaker 2: Did you want to do a quantity of 40 again?\n\nSpeaker 1: Yes, and that's 100 milligrams, correct?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, MasterCard ending in 6700, is that okay?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, sir, your refill has been ordered.\n\nSpeaker 1: It's at the pharmacy.\n\nSpeaker 2: They will fulfill that order and ship it out to you.\n\nSpeaker 1: You'll get it in five days or less.\n\nSpeaker 2: Thank you very much.\n\nSpeaker 1: Have a great day.\n\nSpeaker 2: You too, thank you.\n\nSpeaker 1: Thank you, bye.\n\nSpeaker 2: Thanks, bye.",
+    "duration": 10555,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " Thank you for calling Viagra, Joanna speaking, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 7,
+        "text": " Yeah, hi."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 20.280000686645508,
+        "text": " I just tried to order a reorder of prescription and try the AGV format and it was declined"
+      },
+      {
+        "id": 3,
+        "start": 20.280000686645508,
+        "end": 26.8799991607666,
+        "text": " because I'm in the process of moving and I had put in my new address and I forgot to"
+      },
+      {
+        "id": 4,
+        "start": 26.8799991607666,
+        "end": 32.279998779296875,
+        "text": " change it with you guys so they declined it because it didn't match my credit card"
+      },
+      {
+        "id": 5,
+        "start": 32.279998779296875,
+        "end": 34.02000045776367,
+        "text": " address."
+      },
+      {
+        "id": 6,
+        "start": 34.02000045776367,
+        "end": 38.959999084472656,
+        "text": " So I just need for you to update my address and then I can reorder again because it was"
+      },
+      {
+        "id": 7,
+        "start": 38.959999084472656,
+        "end": 47.15999984741211,
+        "text": " declined, soft declined because the information was not accurate, my address."
+      },
+      {
+        "id": 8,
+        "start": 47.15999984741211,
+        "end": 48.15999984741211,
+        "text": " Of course."
+      },
+      {
+        "id": 9,
+        "start": 48.15999984741211,
+        "end": 50.08000183105469,
+        "text": " Can I get your name and date of birth?"
+      },
+      {
+        "id": 10,
+        "start": 50.08000183105469,
+        "end": 53.08000183105469,
+        "text": " Howard Manhoff, 6-20-1950."
+      },
+      {
+        "id": 11,
+        "start": 54.08000183105469,
+        "end": 60.439998626708984,
+        "text": " Okay, so the current address I have for the shipping and the billing is 1547 El Pardo"
+      },
+      {
+        "id": 12,
+        "start": 60.439998626708984,
+        "end": 61.439998626708984,
+        "text": " Drive."
+      },
+      {
+        "id": 13,
+        "start": 61.439998626708984,
+        "end": 66.44000244140625,
+        "text": " Yeah, that's, yes, it's changed."
+      },
+      {
+        "id": 14,
+        "start": 66.44000244140625,
+        "end": 68.44000244140625,
+        "text": " It's a new address."
+      },
+      {
+        "id": 15,
+        "start": 68.44000244140625,
+        "end": 70.44000244140625,
+        "text": " So can I give you that new address?"
+      },
+      {
+        "id": 16,
+        "start": 70.44000244140625,
+        "end": 71.44000244140625,
+        "text": " Yes."
+      },
+      {
+        "id": 17,
+        "start": 71.44000244140625,
+        "end": 72.44000244140625,
+        "text": " Okay."
+      },
+      {
+        "id": 18,
+        "start": 72.80000305175781,
+        "end": 95.80000305175781,
+        "text": " 16230 Southwest 9th Street, that's a nine, 9th Street, Pembroke, P-E-M-B-R-O-K-E, Pembroke,"
+      },
+      {
+        "id": 19,
+        "start": 96.16000366210938,
+        "end": 97.16000366210938,
+        "text": " Pines."
+      },
+      {
+        "id": 20,
+        "start": 97.16000366210938,
+        "end": 100.16000366210938,
+        "text": " Say that for me one more time, sir."
+      },
+      {
+        "id": 21,
+        "start": 100.16000366210938,
+        "end": 101.16000366210938,
+        "text": " Pembroke, Pines."
+      },
+      {
+        "id": 22,
+        "start": 101.16000366210938,
+        "end": 108.16000366210938,
+        "text": " E as in Paul, E as in Edward, M as in Mary, B as in boy, R as in Romeo, O as in Oscar,"
+      },
+      {
+        "id": 23,
+        "start": 108.16000366210938,
+        "end": 121.16000366210938,
+        "text": " K as in Karen, E as in Edward, Pembroke, P-E-M-B-R-O-K-E, Pines, P-I-N-E-S, Florida."
+      },
+      {
+        "id": 24,
+        "start": 121.16000366210938,
+        "end": 124.16000366210938,
+        "text": " Uh huh."
+      },
+      {
+        "id": 25,
+        "start": 124.5199966430664,
+        "end": 128.52000427246094,
+        "text": " 33027."
+      },
+      {
+        "id": 26,
+        "start": 130.52000427246094,
+        "end": 133.52000427246094,
+        "text": " Can you read that back to me again, please?"
+      },
+      {
+        "id": 27,
+        "start": 133.52000427246094,
+        "end": 134.52000427246094,
+        "text": " Yes, absolutely."
+      },
+      {
+        "id": 28,
+        "start": 134.52000427246094,
+        "end": 150.52000427246094,
+        "text": " So I have 16230 Southwest 9th Street, Pembroke, P-E-M-B-R-O-K-E, Pines, Florida, 33027."
+      },
+      {
+        "id": 29,
+        "start": 150.8800048828125,
+        "end": 155.8800048828125,
+        "text": " And the Pines is P-I-N-E-S, that's correct?"
+      },
+      {
+        "id": 30,
+        "start": 155.8800048828125,
+        "end": 157.8800048828125,
+        "text": " Yep, that's correct."
+      },
+      {
+        "id": 31,
+        "start": 157.8800048828125,
+        "end": 160.8800048828125,
+        "text": " And it was 33027, correct?"
+      },
+      {
+        "id": 32,
+        "start": 160.8800048828125,
+        "end": 163.8800048828125,
+        "text": " 33027, correct."
+      },
+      {
+        "id": 33,
+        "start": 163.8800048828125,
+        "end": 169.8800048828125,
+        "text": " Now I'm just updating the billing address to the same, right?"
+      },
+      {
+        "id": 34,
+        "start": 169.8800048828125,
+        "end": 171.8800048828125,
+        "text": " Thank you, yes."
+      },
+      {
+        "id": 35,
+        "start": 180.8800048828125,
+        "end": 183.8800048828125,
+        "text": " Okay, sir, I have updated that for you."
+      },
+      {
+        "id": 36,
+        "start": 183.8800048828125,
+        "end": 188.8800048828125,
+        "text": " And since I have you on the line, did you want me to place the order for you now?"
+      },
+      {
+        "id": 37,
+        "start": 188.8800048828125,
+        "end": 195.8800048828125,
+        "text": " Please, and I'm going to give the AGV the try."
+      },
+      {
+        "id": 38,
+        "start": 195.8800048828125,
+        "end": 199.8800048828125,
+        "text": " Excellent, okay, so I'll place the order for the AGV."
+      },
+      {
+        "id": 39,
+        "start": 199.8800048828125,
+        "end": 202.8800048828125,
+        "text": " Did you want to do a quantity of 40 again?"
+      },
+      {
+        "id": 40,
+        "start": 202.8800048828125,
+        "end": 205.8800048828125,
+        "text": " Yes, and that's 100 milligrams, correct?"
+      },
+      {
+        "id": 41,
+        "start": 205.8800048828125,
+        "end": 207.8800048828125,
+        "text": " Correct."
+      },
+      {
+        "id": 42,
+        "start": 207.8800048828125,
+        "end": 208.8800048828125,
+        "text": " Yes."
+      },
+      {
+        "id": 43,
+        "start": 209.24000549316406,
+        "end": 214.24000549316406,
+        "text": " Okay, MasterCard ending in 6700, is that okay?"
+      },
+      {
+        "id": 44,
+        "start": 214.24000549316406,
+        "end": 215.24000549316406,
+        "text": " Yes."
+      },
+      {
+        "id": 45,
+        "start": 222.24000549316406,
+        "end": 225.24000549316406,
+        "text": " Okay, sir, your refill has been ordered."
+      },
+      {
+        "id": 46,
+        "start": 225.24000549316406,
+        "end": 226.24000549316406,
+        "text": " It's at the pharmacy."
+      },
+      {
+        "id": 47,
+        "start": 226.24000549316406,
+        "end": 229.24000549316406,
+        "text": " They will fulfill that order and ship it out to you."
+      },
+      {
+        "id": 48,
+        "start": 229.24000549316406,
+        "end": 231.24000549316406,
+        "text": " You'll get it in five days or less."
+      },
+      {
+        "id": 49,
+        "start": 231.24000549316406,
+        "end": 232.24000549316406,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 50,
+        "start": 232.24000549316406,
+        "end": 233.24000549316406,
+        "text": " Have a great day."
+      },
+      {
+        "id": 51,
+        "start": 233.24000549316406,
+        "end": 234.24000549316406,
+        "text": " You too, thank you."
+      },
+      {
+        "id": 52,
+        "start": 234.24000549316406,
+        "end": 235.24000549316406,
+        "text": " Thank you, bye."
+      },
+      {
+        "id": 53,
+        "start": 235.24000549316406,
+        "end": 236.24000549316406,
+        "text": " Thanks, bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-814f-a34f-f52e649a7dfa",
+    "url": "https://www.notion.so/300000001221623-300000001711384-2f611d0a101c814fa34ff52e649a7dfa"
+  },
+  "processedAt": "2026-01-28T22:20:22.244Z"
+}

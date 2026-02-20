@@ -1,0 +1,284 @@
+{
+  "recording": {
+    "name": "300000001239201-300000001728940-6787247096 by gabriela@superbalife.com @ 1_38_25 PM.wav",
+    "size": 202340,
+    "modifyTime": 1770846051000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239201-300000001728940-6787247096 by gabriela@superbalife.com @ 1_38_25 PM.wav",
+    "uploadDate": "2026-02-11T21:40:51.000Z",
+    "callId": "300000001239201-300000001728940",
+    "agent": "gabriela",
+    "phoneNumber": "6787247096",
+    "callTimestamp": "2026-02-11T13:38:25.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi. Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Yes. Hey. Okay. My name is Alfred Millicent.\n\nSpeaker 1: I ordered one order of these pills.\n\nSpeaker 2: Then I canceled it through my card because they sent me another one.\n\nSpeaker 1: I didn't ask for another one.\n\nSpeaker 2: So I kept that one, but I canceled it.\n\nSpeaker 1: And now they're telling me I got another order ready.\n\nSpeaker 2: And then I text them back a reply and told them,\n\nSpeaker 1: no, this order is being canceled,\n\nSpeaker 2: and don't send me make a mistake and use my card again\n\nSpeaker 1: and send me another package.\n\nSpeaker 2: I'm tired of being harassed like this,\n\nSpeaker 1: and I want y'all to get it whereas because I'm going to delete y'all,\n\nSpeaker 2: and I just want y'all to stop telling me I got an order\n\nSpeaker 1: because I don't have an order no more.\n\nSpeaker 2: I stopped that a long time ago when y'all sent me the first one.\n\nSpeaker 1: Okay?\n\nSpeaker 2: Okay. So we haven't charged you.\n\nSpeaker 1: What's your name and date of birth?\n\nSpeaker 2: Alfred Millicent, 6-15-55.\n\nSpeaker 1: Thank you, Alfred.\n\nSpeaker 2: Okay, yes, so we haven't charged you.\n\nSpeaker 1: However, you do have a prescription with us for Viagra AGB.\n\nSpeaker 2: That prescription, you do receive it every month.\n\nSpeaker 1: We have not charged you yet.\n\nSpeaker 2: But you do need it every month,\n\nSpeaker 1: and we can always modify it to your preference.\n\nSpeaker 2: I didn't want every month.\n\nSpeaker 1: That's what I'm saying.\n\nSpeaker 2: That's the thing that I hate to be ordering stuff.\n\nSpeaker 1: Every month, we can always adjust it.\n\nSpeaker 2: We can do every three months for you, okay?\n\nSpeaker 1: I just want you to cancel it, period.\n\nSpeaker 2: I don't want no more to do with y'all.\n\nSpeaker 1: Cancel it.\n\nSpeaker 2: If you can't cancel it, then I have to call somebody else that can.\n\nSpeaker 1: Okay, just know that once we cancel,\n\nSpeaker 2: that means that you will no longer be able to reorder with us, okay?\n\nSpeaker 1: I'm so happy with that.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay, well, you're all set.\n\nSpeaker 2: Have a good day.\n\nSpeaker 1: Bye.",
+    "duration": 5586,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi. Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Yes. Hey. Okay. My name is Alfred Millicent."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " I ordered one order of these pills."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 18,
+        "text": " Then I canceled it through my card because they sent me another one."
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 20,
+        "text": " I didn't ask for another one."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 24,
+        "text": " So I kept that one, but I canceled it."
+      },
+      {
+        "id": 6,
+        "start": 24,
+        "end": 28,
+        "text": " And now they're telling me I got another order ready."
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 32,
+        "text": " And then I text them back a reply and told them,"
+      },
+      {
+        "id": 8,
+        "start": 32,
+        "end": 36,
+        "text": " no, this order is being canceled,"
+      },
+      {
+        "id": 9,
+        "start": 36,
+        "end": 40,
+        "text": " and don't send me make a mistake and use my card again"
+      },
+      {
+        "id": 10,
+        "start": 40,
+        "end": 46,
+        "text": " and send me another package."
+      },
+      {
+        "id": 11,
+        "start": 46,
+        "end": 48,
+        "text": " I'm tired of being harassed like this,"
+      },
+      {
+        "id": 12,
+        "start": 48,
+        "end": 52,
+        "text": " and I want y'all to get it whereas because I'm going to delete y'all,"
+      },
+      {
+        "id": 13,
+        "start": 52,
+        "end": 56,
+        "text": " and I just want y'all to stop telling me I got an order"
+      },
+      {
+        "id": 14,
+        "start": 56,
+        "end": 58,
+        "text": " because I don't have an order no more."
+      },
+      {
+        "id": 15,
+        "start": 58,
+        "end": 64,
+        "text": " I stopped that a long time ago when y'all sent me the first one."
+      },
+      {
+        "id": 16,
+        "start": 64,
+        "end": 65,
+        "text": " Okay?"
+      },
+      {
+        "id": 17,
+        "start": 65,
+        "end": 67,
+        "text": " Okay. So we haven't charged you."
+      },
+      {
+        "id": 18,
+        "start": 67,
+        "end": 70,
+        "text": " What's your name and date of birth?"
+      },
+      {
+        "id": 19,
+        "start": 70,
+        "end": 74,
+        "text": " Alfred Millicent, 6-15-55."
+      },
+      {
+        "id": 20,
+        "start": 74,
+        "end": 75,
+        "text": " Thank you, Alfred."
+      },
+      {
+        "id": 21,
+        "start": 75,
+        "end": 78,
+        "text": " Okay, yes, so we haven't charged you."
+      },
+      {
+        "id": 22,
+        "start": 78,
+        "end": 82,
+        "text": " However, you do have a prescription with us for Viagra AGB."
+      },
+      {
+        "id": 23,
+        "start": 83,
+        "end": 86,
+        "text": " That prescription, you do receive it every month."
+      },
+      {
+        "id": 24,
+        "start": 86,
+        "end": 88,
+        "text": " We have not charged you yet."
+      },
+      {
+        "id": 25,
+        "start": 88,
+        "end": 91,
+        "text": " But you do need it every month,"
+      },
+      {
+        "id": 26,
+        "start": 91,
+        "end": 94,
+        "text": " and we can always modify it to your preference."
+      },
+      {
+        "id": 27,
+        "start": 94,
+        "end": 97,
+        "text": " I didn't want every month."
+      },
+      {
+        "id": 28,
+        "start": 97,
+        "end": 99,
+        "text": " That's what I'm saying."
+      },
+      {
+        "id": 29,
+        "start": 99,
+        "end": 101,
+        "text": " That's the thing that I hate to be ordering stuff."
+      },
+      {
+        "id": 30,
+        "start": 101,
+        "end": 103,
+        "text": " Every month, we can always adjust it."
+      },
+      {
+        "id": 31,
+        "start": 103,
+        "end": 105,
+        "text": " We can do every three months for you, okay?"
+      },
+      {
+        "id": 32,
+        "start": 105,
+        "end": 108,
+        "text": " I just want you to cancel it, period."
+      },
+      {
+        "id": 33,
+        "start": 108,
+        "end": 110,
+        "text": " I don't want no more to do with y'all."
+      },
+      {
+        "id": 34,
+        "start": 110,
+        "end": 111,
+        "text": " Cancel it."
+      },
+      {
+        "id": 35,
+        "start": 111,
+        "end": 115,
+        "text": " If you can't cancel it, then I have to call somebody else that can."
+      },
+      {
+        "id": 36,
+        "start": 115,
+        "end": 117,
+        "text": " Okay, just know that once we cancel,"
+      },
+      {
+        "id": 37,
+        "start": 117,
+        "end": 120,
+        "text": " that means that you will no longer be able to reorder with us, okay?"
+      },
+      {
+        "id": 38,
+        "start": 120,
+        "end": 121,
+        "text": " I'm so happy with that."
+      },
+      {
+        "id": 39,
+        "start": 121,
+        "end": 122,
+        "text": " Thank you."
+      },
+      {
+        "id": 40,
+        "start": 122,
+        "end": 123,
+        "text": " Okay, well, you're all set."
+      },
+      {
+        "id": 41,
+        "start": 123,
+        "end": 124,
+        "text": " Have a good day."
+      },
+      {
+        "id": 42,
+        "start": 124,
+        "end": 125,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-812d-b844-f9ba6c15bdb9",
+    "url": "https://www.notion.so/300000001239201-300000001728940-30411d0a101c812db844f9ba6c15bdb9"
+  },
+  "processedAt": "2026-02-11T22:07:30.710Z"
+}

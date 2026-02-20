@@ -1,0 +1,200 @@
+{
+  "recording": {
+    "name": "300000001220494-300000001710608-9719177389 by gabriela@superbalife.com @ 8_36_05 AM.wav",
+    "size": 144360,
+    "modifyTime": 1769618276000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220494-300000001710608-9719177389 by gabriela@superbalife.com @ 8_36_05 AM.wav",
+    "uploadDate": "2026-01-28T16:37:56.000Z",
+    "callId": "300000001220494-300000001710608",
+    "agent": "gabriela",
+    "phoneNumber": "9719177389",
+    "callTimestamp": "2026-01-28T08:36:05.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra, how can I assist you?\n\nSpeaker 2: Yes, ma'am.\n\nSpeaker 1: I don't know why you asked me for my email address,\n\nSpeaker 2: and then you guys tell me my email address is not valuable.\n\nSpeaker 1: I don't know what happened.\n\nSpeaker 2: I need to make a short video to send to the doctor.\n\nSpeaker 1: Spanish?\n\nSpeaker 2: I can't right now because the link is already expired.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Lázaro, sí.\n\nSpeaker 1: ¿Prefieres español o inglés?\n\nSpeaker 2: No, español.\n\nSpeaker 1: Español, okay.\n\nSpeaker 2: Okay, Lázaro, sí.\n\nSpeaker 1: Mira aquí que sí puso una orden con nosotros el día de ayer.\n\nSpeaker 2: Lo único que falta es que usted haga ese video de cinco segundos para poder\n\nSpeaker 1: aprobar su prescripción.\n\nSpeaker 2: Pero no puedo porque el link ya se venció.\n\nSpeaker 1: Yo necesito otra vez el link.\n\nSpeaker 2: Lo que voy a hacer para que se le haga más fácil a usted y a nosotros también\n\nSpeaker 1: y todo sea más rápido y usted haga ese producto lo más pronto posible,\n\nSpeaker 2: le voy a pedir al doctor que le dé una llamada, ¿okay?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, Lázaro, entonces estoy esperando una llamada del doctor en las próximas\n\nSpeaker 1: 24 a 48 horas, ¿okay?\n\nSpeaker 2: Okay, gracias.\n\nSpeaker 1: Gracias.\n\nSpeaker 2: Perfecto, de nada.\n\nSpeaker 1: Adiós.",
+    "duration": 2999,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi, thank you for calling Viagra, how can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 6,
+        "text": " Yes, ma'am."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 16,
+        "text": " I don't know why you asked me for my email address,"
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 21,
+        "text": " and then you guys tell me my email address is not valuable."
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 22,
+        "text": " I don't know what happened."
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 28,
+        "text": " I need to make a short video to send to the doctor."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 29,
+        "text": " Spanish?"
+      },
+      {
+        "id": 7,
+        "start": 29,
+        "end": 33,
+        "text": " I can't right now because the link is already expired."
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 34,
+        "text": " Okay."
+      },
+      {
+        "id": 9,
+        "start": 34,
+        "end": 36,
+        "text": " Lázaro, sí."
+      },
+      {
+        "id": 10,
+        "start": 36,
+        "end": 39,
+        "text": " ¿Prefieres español o inglés?"
+      },
+      {
+        "id": 11,
+        "start": 39,
+        "end": 40,
+        "text": " No, español."
+      },
+      {
+        "id": 12,
+        "start": 40,
+        "end": 42,
+        "text": " Español, okay."
+      },
+      {
+        "id": 13,
+        "start": 42,
+        "end": 44,
+        "text": " Okay, Lázaro, sí."
+      },
+      {
+        "id": 14,
+        "start": 44,
+        "end": 47,
+        "text": " Mira aquí que sí puso una orden con nosotros el día de ayer."
+      },
+      {
+        "id": 15,
+        "start": 47,
+        "end": 53,
+        "text": " Lo único que falta es que usted haga ese video de cinco segundos para poder"
+      },
+      {
+        "id": 16,
+        "start": 53,
+        "end": 56,
+        "text": " aprobar su prescripción."
+      },
+      {
+        "id": 17,
+        "start": 57,
+        "end": 60,
+        "text": " Pero no puedo porque el link ya se venció."
+      },
+      {
+        "id": 18,
+        "start": 60,
+        "end": 62,
+        "text": " Yo necesito otra vez el link."
+      },
+      {
+        "id": 19,
+        "start": 62,
+        "end": 66,
+        "text": " Lo que voy a hacer para que se le haga más fácil a usted y a nosotros también"
+      },
+      {
+        "id": 20,
+        "start": 66,
+        "end": 70,
+        "text": " y todo sea más rápido y usted haga ese producto lo más pronto posible,"
+      },
+      {
+        "id": 21,
+        "start": 70,
+        "end": 74,
+        "text": " le voy a pedir al doctor que le dé una llamada, ¿okay?"
+      },
+      {
+        "id": 22,
+        "start": 74,
+        "end": 75,
+        "text": " Okay."
+      },
+      {
+        "id": 23,
+        "start": 75,
+        "end": 80,
+        "text": " Okay, Lázaro, entonces estoy esperando una llamada del doctor en las próximas"
+      },
+      {
+        "id": 24,
+        "start": 80,
+        "end": 83,
+        "text": " 24 a 48 horas, ¿okay?"
+      },
+      {
+        "id": 25,
+        "start": 83,
+        "end": 85,
+        "text": " Okay, gracias."
+      },
+      {
+        "id": 26,
+        "start": 85,
+        "end": 86,
+        "text": " Gracias."
+      },
+      {
+        "id": 27,
+        "start": 86,
+        "end": 87,
+        "text": " Perfecto, de nada."
+      },
+      {
+        "id": 28,
+        "start": 87,
+        "end": 88,
+        "text": " Adiós."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8160-be43-c8ee34dec8e2",
+    "url": "https://www.notion.so/300000001220494-300000001710608-2f611d0a101c8160be43c8ee34dec8e2"
+  },
+  "processedAt": "2026-01-28T18:57:59.598Z"
+}

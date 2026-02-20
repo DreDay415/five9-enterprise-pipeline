@@ -1,0 +1,344 @@
+{
+  "recording": {
+    "name": "300000001223078-300000001712636-9789958730 by charles@superbalife.com @ 1_48_18 PM.wav",
+    "size": 326556,
+    "modifyTime": 1769723503000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223078-300000001712636-9789958730 by charles@superbalife.com @ 1_48_18 PM.wav",
+    "uploadDate": "2026-01-29T21:51:43.000Z",
+    "callId": "300000001223078-300000001712636",
+    "agent": "charles",
+    "phoneNumber": "9789958730",
+    "callTimestamp": "2026-01-29T13:48:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling by, this is Charles.\n\nSpeaker 2: How are you doing?\n\nSpeaker 1: Good, how about yourself?\n\nSpeaker 2: All right, so I put an order in earlier today, I was trying to, anyway, but I kept on adding on these extra things, you know,\n\nSpeaker 1: 10 more for so much money and got out of hand, I think, and I just really wanted to score the $50,\n\nSpeaker 2: what did you get for $49, whatever it was?\n\nSpeaker 1: Gotcha, Robert DesCoste?\n\nSpeaker 2: Yeah, DesCoste, yeah.\n\nSpeaker 1: Sorry, gotcha.\n\nSpeaker 2: Okay, so you only wanted the original 10 pills, you didn't want the 15 for the pill quantity upgrade?\n\nSpeaker 1: What was the, how much was the 15?\n\nSpeaker 2: For 15 total, one second, for 15 total it's $78.65.\n\nSpeaker 1: For 15 or 50?\n\nSpeaker 2: One-fives, 15.\n\nSpeaker 1: One-fives, 15, so $79?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Yeah, we can do that.\n\nSpeaker 2: Okay, sounds good.\n\nSpeaker 1: It was 100 milligrams?\n\nSpeaker 2: 100 milligrams, correct, yeah.\n\nSpeaker 1: This is one hell of a pill, too, Robert, believe me.\n\nSpeaker 2: Doctor already approved of everything, so everything should go out tomorrow.\n\nSpeaker 1: I'd expect everything to arrive by either Wednesday, Thursday, or Friday, depending on the weather, okay?\n\nSpeaker 2: Right.\n\nSpeaker 1: Let me ask you a question.\n\nSpeaker 2: Can you call those into a pharmacy?\n\nSpeaker 1: Great question.\n\nSpeaker 2: One second, okay?\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Okay, Robert, are you with me?\n\nSpeaker 1: Yep.\n\nSpeaker 2: Okay, that was a great question.\n\nSpeaker 1: I had to actually ask myself.\n\nSpeaker 2: So with your prescription, for your prescription with the AGV with us, we are the only ones that are exclusive to it, okay?\n\nSpeaker 1: So if we do send it to the prescription to your local pharmacy, they don't have our Viagra.\n\nSpeaker 2: So they would get whatever it is that they have.\n\nSpeaker 1: So to answer the question, no, we cannot send it to the pharmacy unless if you just want regular Viagra that the pharmacy has.\n\nSpeaker 2: Our AGV pill is Pfizer.\n\nSpeaker 1: Yeah, 100 milligrams.\n\nSpeaker 2: So our stuff is honestly really the better pill.\n\nSpeaker 1: We are with Pfizer, and we are the only company that is FDA approved currently.\n\nSpeaker 2: Yeah, I know.\n\nSpeaker 1: It took so long to get in, though.\n\nSpeaker 2: Another week.\n\nSpeaker 1: Yeah, yeah, just about.\n\nSpeaker 2: But like I said, it's going to be worth the wait, believe me.\n\nSpeaker 1: All right, I'll take your word for it.\n\nSpeaker 2: Okay, Robert, I hope you have a great one.\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: Take care.\n\nSpeaker 1: You too.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Bye-bye.",
+    "duration": 7375,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Thanks for calling by, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 9,
+        "text": " How are you doing?"
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 11,
+        "text": " Good, how about yourself?"
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 19,
+        "text": " All right, so I put an order in earlier today, I was trying to, anyway, but I kept on adding on these extra things, you know,"
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 26,
+        "text": " 10 more for so much money and got out of hand, I think, and I just really wanted to score the $50,"
+      },
+      {
+        "id": 5,
+        "start": 27,
+        "end": 29,
+        "text": " what did you get for $49, whatever it was?"
+      },
+      {
+        "id": 6,
+        "start": 29,
+        "end": 32,
+        "text": " Gotcha, Robert DesCoste?"
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 33,
+        "text": " Yeah, DesCoste, yeah."
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 35,
+        "text": " Sorry, gotcha."
+      },
+      {
+        "id": 9,
+        "start": 35,
+        "end": 44,
+        "text": " Okay, so you only wanted the original 10 pills, you didn't want the 15 for the pill quantity upgrade?"
+      },
+      {
+        "id": 10,
+        "start": 44,
+        "end": 47,
+        "text": " What was the, how much was the 15?"
+      },
+      {
+        "id": 11,
+        "start": 48,
+        "end": 62,
+        "text": " For 15 total, one second, for 15 total it's $78.65."
+      },
+      {
+        "id": 12,
+        "start": 62,
+        "end": 64,
+        "text": " For 15 or 50?"
+      },
+      {
+        "id": 13,
+        "start": 64,
+        "end": 66,
+        "text": " One-fives, 15."
+      },
+      {
+        "id": 14,
+        "start": 66,
+        "end": 69,
+        "text": " One-fives, 15, so $79?"
+      },
+      {
+        "id": 15,
+        "start": 69,
+        "end": 72,
+        "text": " Correct."
+      },
+      {
+        "id": 16,
+        "start": 72,
+        "end": 74,
+        "text": " Yeah, we can do that."
+      },
+      {
+        "id": 17,
+        "start": 74,
+        "end": 75,
+        "text": " Okay, sounds good."
+      },
+      {
+        "id": 18,
+        "start": 76,
+        "end": 78,
+        "text": " It was 100 milligrams?"
+      },
+      {
+        "id": 19,
+        "start": 78,
+        "end": 80,
+        "text": " 100 milligrams, correct, yeah."
+      },
+      {
+        "id": 20,
+        "start": 80,
+        "end": 83,
+        "text": " This is one hell of a pill, too, Robert, believe me."
+      },
+      {
+        "id": 21,
+        "start": 83,
+        "end": 86,
+        "text": " Doctor already approved of everything, so everything should go out tomorrow."
+      },
+      {
+        "id": 22,
+        "start": 86,
+        "end": 92,
+        "text": " I'd expect everything to arrive by either Wednesday, Thursday, or Friday, depending on the weather, okay?"
+      },
+      {
+        "id": 23,
+        "start": 92,
+        "end": 93,
+        "text": " Right."
+      },
+      {
+        "id": 24,
+        "start": 93,
+        "end": 94,
+        "text": " Let me ask you a question."
+      },
+      {
+        "id": 25,
+        "start": 94,
+        "end": 98,
+        "text": " Can you call those into a pharmacy?"
+      },
+      {
+        "id": 26,
+        "start": 98,
+        "end": 100,
+        "text": " Great question."
+      },
+      {
+        "id": 27,
+        "start": 100,
+        "end": 102,
+        "text": " One second, okay?"
+      },
+      {
+        "id": 28,
+        "start": 102,
+        "end": 104,
+        "text": " Thank you."
+      },
+      {
+        "id": 29,
+        "start": 133,
+        "end": 136,
+        "text": " Okay, Robert, are you with me?"
+      },
+      {
+        "id": 30,
+        "start": 136,
+        "end": 137,
+        "text": " Yep."
+      },
+      {
+        "id": 31,
+        "start": 137,
+        "end": 138,
+        "text": " Okay, that was a great question."
+      },
+      {
+        "id": 32,
+        "start": 138,
+        "end": 140,
+        "text": " I had to actually ask myself."
+      },
+      {
+        "id": 33,
+        "start": 140,
+        "end": 146,
+        "text": " So with your prescription, for your prescription with the AGV with us, we are the only ones that are exclusive to it, okay?"
+      },
+      {
+        "id": 34,
+        "start": 146,
+        "end": 154,
+        "text": " So if we do send it to the prescription to your local pharmacy, they don't have our Viagra."
+      },
+      {
+        "id": 35,
+        "start": 154,
+        "end": 157,
+        "text": " So they would get whatever it is that they have."
+      },
+      {
+        "id": 36,
+        "start": 158,
+        "end": 166,
+        "text": " So to answer the question, no, we cannot send it to the pharmacy unless if you just want regular Viagra that the pharmacy has."
+      },
+      {
+        "id": 37,
+        "start": 166,
+        "end": 169,
+        "text": " Our AGV pill is Pfizer."
+      },
+      {
+        "id": 38,
+        "start": 169,
+        "end": 171,
+        "text": " Yeah, 100 milligrams."
+      },
+      {
+        "id": 39,
+        "start": 171,
+        "end": 173,
+        "text": " So our stuff is honestly really the better pill."
+      },
+      {
+        "id": 40,
+        "start": 173,
+        "end": 178,
+        "text": " We are with Pfizer, and we are the only company that is FDA approved currently."
+      },
+      {
+        "id": 41,
+        "start": 178,
+        "end": 179,
+        "text": " Yeah, I know."
+      },
+      {
+        "id": 42,
+        "start": 179,
+        "end": 181,
+        "text": " It took so long to get in, though."
+      },
+      {
+        "id": 43,
+        "start": 181,
+        "end": 182,
+        "text": " Another week."
+      },
+      {
+        "id": 44,
+        "start": 182,
+        "end": 185,
+        "text": " Yeah, yeah, just about."
+      },
+      {
+        "id": 45,
+        "start": 185,
+        "end": 189,
+        "text": " But like I said, it's going to be worth the wait, believe me."
+      },
+      {
+        "id": 46,
+        "start": 189,
+        "end": 192,
+        "text": " All right, I'll take your word for it."
+      },
+      {
+        "id": 47,
+        "start": 192,
+        "end": 195,
+        "text": " Okay, Robert, I hope you have a great one."
+      },
+      {
+        "id": 48,
+        "start": 195,
+        "end": 196,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 49,
+        "start": 196,
+        "end": 197,
+        "text": " Take care."
+      },
+      {
+        "id": 50,
+        "start": 197,
+        "end": 198,
+        "text": " You too."
+      },
+      {
+        "id": 51,
+        "start": 198,
+        "end": 199,
+        "text": " Thank you."
+      },
+      {
+        "id": 52,
+        "start": 199,
+        "end": 200,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8188-ac69-f92f4e638b58",
+    "url": "https://www.notion.so/300000001223078-300000001712636-2f711d0a101c8188ac69f92f4e638b58"
+  },
+  "processedAt": "2026-01-29T22:08:57.436Z"
+}

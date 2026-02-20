@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001220557-300000001710676-9729211422 by  @ 8_53_05 AM_CallStudio.wav",
+    "size": 26256,
+    "modifyTime": 1769619223000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220557-300000001710676-9729211422 by  @ 8_53_05 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T16:53:43.000Z",
+    "callId": "300000001220557-300000001710676",
+    "phoneNumber": "9729211422",
+    "callTimestamp": "2026-01-28T16:53:43.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Cancel my subscription.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 861,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.320000171661377,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.320000171661377,
+        "end": 8.760000228881836,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 8.760000228881836,
+        "end": 12.600000381469727,
+        "text": " Cancel my subscription."
+      },
+      {
+        "id": 3,
+        "start": 12.600000381469727,
+        "end": 15.720000267028809,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81bd-b3e1-f92694d5618a",
+    "url": "https://www.notion.so/300000001220557-300000001710676-2f611d0a101c81bdb3e1f92694d5618a"
+  },
+  "processedAt": "2026-01-28T18:48:48.477Z"
+}

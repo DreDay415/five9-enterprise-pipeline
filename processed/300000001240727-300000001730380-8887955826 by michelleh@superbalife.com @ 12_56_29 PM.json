@@ -1,0 +1,213 @@
+{
+  "recording": {
+    "name": "300000001240727-300000001730380-8887955826 by michelleh@superbalife.com @ 12_56_29 PM.wav",
+    "size": 193306,
+    "modifyTime": 1770929931000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240727-300000001730380-8887955826 by michelleh@superbalife.com @ 12_56_29 PM.wav",
+    "uploadDate": "2026-02-12T20:58:51.000Z",
+    "callId": "300000001240727-300000001730380",
+    "agent": "michelleh",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-02-12T12:56:29.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Yes, I just received my medicine from Store Blue.\n\nSpeaker 1: Okay.\n\nSpeaker 2: It does not say anything about being AGB, the new medicine.\n\nSpeaker 1: Okay. Can I have your phone number? Let me help you out.\n\nSpeaker 2: Can I have your phone number? Pull up your account.\n\nSpeaker 1: 937-539-2594.\n\nSpeaker 2: Thank you, Thomas. Can you just confirm your date of birth?\n\nSpeaker 1: 3-9-51.\n\nSpeaker 2: Thank you so much to your VIP status customer. And how's the medication working out for you?\n\nSpeaker 1: I just got it today.\n\nSpeaker 2: Okay. It looks like the pharmacy sent it there.\n\nSpeaker 1: Yeah, it looks like they just sent you regular generic Viagras. You did not receive the AGB.\n\nSpeaker 2: No, that's what I ordered.\n\nSpeaker 1: Yeah, give me a second. I'm going to get you out of replacement and then I'm going to tell you how\n\nSpeaker 2: you can confirm you received the correct medication. I'm going to send you 25 instead of 20.\n\nSpeaker 1: All right, perfect. I'll be shipping this out to you tomorrow morning. So this is how you can\n\nSpeaker 2: confirm you received the AGB. When you get this new bottle, it's going to say AGB on the bottle,\n\nSpeaker 1: but it's also going to say Greenstone LLC. Greenstone is the name of Pfizer's manufacturer\n\nSpeaker 2: in France that we're contracted with. And then the only number imprinted on the pill is going\n\nSpeaker 1: to be the number 100 for the milligrams. And those are the two ways you can confirm. Yeah. Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right. You're all set.\n\nSpeaker 2: I appreciate it, honey.\n\nSpeaker 1: Sure. No problem. Sorry about that.\n\nSpeaker 2: Do I need to send these back?\n\nSpeaker 1: No, just throw them in the trash.\n\nSpeaker 2: Okay, honey. Thank you so much. I appreciate it.\n\nSpeaker 1: No problem. No problem. Have a good day.\n\nSpeaker 2: Have a great day, hon. Bye.\n\nSpeaker 1: You too. Bye.",
+    "duration": 3977,
+    "audioDuration": 118.91999816894531,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3.8399999141693115,
+        "end": 8,
+        "text": " Yes, I just received my medicine from Store Blue."
+      },
+      {
+        "id": 2,
+        "start": 9.119999885559082,
+        "end": 9.680000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 3,
+        "start": 9.680000305175781,
+        "end": 15.600000381469727,
+        "text": " It does not say anything about being AGB, the new medicine."
+      },
+      {
+        "id": 4,
+        "start": 15.600000381469727,
+        "end": 17.600000381469727,
+        "text": " Okay. Can I have your phone number? Let me help you out."
+      },
+      {
+        "id": 5,
+        "start": 17.600000381469727,
+        "end": 19.200000762939453,
+        "text": " Can I have your phone number? Pull up your account."
+      },
+      {
+        "id": 6,
+        "start": 21.520000457763672,
+        "end": 28.079999923706055,
+        "text": " 937-539-2594."
+      },
+      {
+        "id": 7,
+        "start": 30.959999084472656,
+        "end": 33.119998931884766,
+        "text": " Thank you, Thomas. Can you just confirm your date of birth?"
+      },
+      {
+        "id": 8,
+        "start": 34.880001068115234,
+        "end": 36.31999969482422,
+        "text": " 3-9-51."
+      },
+      {
+        "id": 9,
+        "start": 37.279998779296875,
+        "end": 41.599998474121094,
+        "text": " Thank you so much to your VIP status customer. And how's the medication working out for you?"
+      },
+      {
+        "id": 10,
+        "start": 43.439998626708984,
+        "end": 44.720001220703125,
+        "text": " I just got it today."
+      },
+      {
+        "id": 11,
+        "start": 46.880001068115234,
+        "end": 50.400001525878906,
+        "text": " Okay. It looks like the pharmacy sent it there."
+      },
+      {
+        "id": 12,
+        "start": 50.400001525878906,
+        "end": 54.720001220703125,
+        "text": " Yeah, it looks like they just sent you regular generic Viagras. You did not receive the AGB."
+      },
+      {
+        "id": 13,
+        "start": 56.47999954223633,
+        "end": 58.959999084472656,
+        "text": " No, that's what I ordered."
+      },
+      {
+        "id": 14,
+        "start": 58.959999084472656,
+        "end": 62.15999984741211,
+        "text": " Yeah, give me a second. I'm going to get you out of replacement and then I'm going to tell you how"
+      },
+      {
+        "id": 15,
+        "start": 62.79999923706055,
+        "end": 67.76000213623047,
+        "text": " you can confirm you received the correct medication. I'm going to send you 25 instead of 20."
+      },
+      {
+        "id": 16,
+        "start": 69.68000030517578,
+        "end": 73.12000274658203,
+        "text": " All right, perfect. I'll be shipping this out to you tomorrow morning. So this is how you can"
+      },
+      {
+        "id": 17,
+        "start": 73.12000274658203,
+        "end": 77.76000213623047,
+        "text": " confirm you received the AGB. When you get this new bottle, it's going to say AGB on the bottle,"
+      },
+      {
+        "id": 18,
+        "start": 77.76000213623047,
+        "end": 83.76000213623047,
+        "text": " but it's also going to say Greenstone LLC. Greenstone is the name of Pfizer's manufacturer"
+      },
+      {
+        "id": 19,
+        "start": 83.83999633789062,
+        "end": 90.95999908447266,
+        "text": " in France that we're contracted with. And then the only number imprinted on the pill is going"
+      },
+      {
+        "id": 20,
+        "start": 90.95999908447266,
+        "end": 96.4000015258789,
+        "text": " to be the number 100 for the milligrams. And those are the two ways you can confirm. Yeah. Okay."
+      },
+      {
+        "id": 21,
+        "start": 97.91999816894531,
+        "end": 98.41999816894531,
+        "text": " Okay."
+      },
+      {
+        "id": 22,
+        "start": 99.27999877929688,
+        "end": 100.08000183105469,
+        "text": " All right. You're all set."
+      },
+      {
+        "id": 23,
+        "start": 100.08000183105469,
+        "end": 101.27999877929688,
+        "text": " I appreciate it, honey."
+      },
+      {
+        "id": 24,
+        "start": 101.91999816894531,
+        "end": 102.95999908447266,
+        "text": " Sure. No problem. Sorry about that."
+      },
+      {
+        "id": 25,
+        "start": 102.95999908447266,
+        "end": 104.4000015258789,
+        "text": " Do I need to send these back?"
+      },
+      {
+        "id": 26,
+        "start": 105.12000274658203,
+        "end": 106.31999969482422,
+        "text": " No, just throw them in the trash."
+      },
+      {
+        "id": 27,
+        "start": 107.68000030517578,
+        "end": 109.36000061035156,
+        "text": " Okay, honey. Thank you so much. I appreciate it."
+      },
+      {
+        "id": 28,
+        "start": 109.36000061035156,
+        "end": 111.44000244140625,
+        "text": " No problem. No problem. Have a good day."
+      },
+      {
+        "id": 29,
+        "start": 111.44000244140625,
+        "end": 113.04000091552734,
+        "text": " Have a great day, hon. Bye."
+      },
+      {
+        "id": 30,
+        "start": 113.04000091552734,
+        "end": 118.80000305175781,
+        "text": " You too. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81eb-aee2-e3d073572256",
+    "url": "https://www.notion.so/300000001240727-300000001730380-30511d0a101c81ebaee2e3d073572256"
+  },
+  "processedAt": "2026-02-12T21:03:00.902Z"
+}

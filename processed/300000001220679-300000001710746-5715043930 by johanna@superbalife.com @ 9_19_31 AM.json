@@ -1,0 +1,62 @@
+{
+  "recording": {
+    "name": "300000001220679-300000001710746-5715043930 by johanna@superbalife.com @ 9_19_31 AM.wav",
+    "size": 25086,
+    "modifyTime": 1769621078000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220679-300000001710746-5715043930 by johanna@superbalife.com @ 9_19_31 AM.wav",
+    "uploadDate": "2026-01-28T17:24:38.000Z",
+    "callId": "300000001220679-300000001710746",
+    "agent": "johanna",
+    "phoneNumber": "5715043930",
+    "callTimestamp": "2026-01-28T09:19:31.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, Joanna speaking, how can I help you?\n\nSpeaker 2: Yes, ma'am.\n\nSpeaker 1: I wanted to make another prescription.\n\nSpeaker 2: Okay, I can assist you.\n\nSpeaker 1: Give me just one moment while I locate your account.\n\nSpeaker 2: Okay.",
+    "duration": 1090,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra, Joanna speaking, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 5,
+        "text": " Yes, ma'am."
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 7,
+        "text": " I wanted to make another description."
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 9,
+        "text": " Okay, I can assist you."
+      },
+      {
+        "id": 4,
+        "start": 9,
+        "end": 12,
+        "text": " Give me just one moment while I locate your account."
+      },
+      {
+        "id": 5,
+        "start": 12,
+        "end": 13,
+        "text": " Okay."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ae-a02a-e75e2ce11d18",
+    "url": "https://www.notion.so/300000001220679-300000001710746-2f611d0a101c81aea02ae75e2ce11d18"
+  },
+  "processedAt": "2026-01-28T18:31:11.535Z"
+}

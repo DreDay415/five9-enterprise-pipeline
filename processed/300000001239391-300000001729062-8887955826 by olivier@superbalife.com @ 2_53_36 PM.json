@@ -1,0 +1,176 @@
+{
+  "recording": {
+    "name": "300000001239391-300000001729062-8887955826 by olivier@superbalife.com @ 2_53_36 PM.wav",
+    "size": 202276,
+    "modifyTime": 1770850562000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239391-300000001729062-8887955826 by olivier@superbalife.com @ 2_53_36 PM.wav",
+    "uploadDate": "2026-02-11T22:56:02.000Z",
+    "callId": "300000001239391-300000001729062",
+    "agent": "olivier",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-02-11T14:53:36.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Yeah, how you doing?\n\nSpeaker 1: Can I have the phone number that you use for your account?\n\nSpeaker 2: 6 3 1 8 7 2 4 1 2 5.\n\nSpeaker 1: Mr. Richard Westcott, yes. Yes, so I see that you’ve been receiving Viagra.\n\nSpeaker 2: 20 to 30 and oh, you got a great deal, too. Yeah, let me assist you, sir.\n\nSpeaker 1: Yeah, I don't want to get them anymore, not automatically anyway, because I don't use them as fast as I get them, believe me.\n\nSpeaker 2: Oh, I have like four vials full of them.\n\nSpeaker 1: Okay, I can pause you if you like, tell them to stop the monthly and pause you so that way—\n\nSpeaker 2: You don't lose the current price that you are because apparently you're getting 30 pills—\n\nSpeaker 1: Which is three times the regular quantity for the price that you're paying if you go on the website.\n\nSpeaker 2: Yeah, yeah, I have enough to last me the rest of my life. I'm near 70 years old.\n\nSpeaker 1: I don't need that anymore, so I just don't—I want to stop coming. I want to stop paying for them.\n\nSpeaker 2: No matter how much they are.\n\nSpeaker 1: Okay, okay, no problem. Yeah, I was trying to offer to pause so you could reorder at your own leisure.\n\nSpeaker 2: But if you’re sure that those for me like you say, gonna keep me the rest—\n\nSpeaker 1: You're never gonna reorder again, so you don't need your prescription anymore.\n\nSpeaker 2: I don't. My wife sort of gave that up.\n\nSpeaker 1: Okay, oh, she should not.\n\nSpeaker 2: Well, I know that, but she's having her own problems, so yeah, okay.\n\nSpeaker 1: All right, anyway, so that—I mean, I didn't call for a consultation.\n\nSpeaker 2: I'm not gonna get the pills anymore.\n\nSpeaker 1: Okay, okay. Yeah, I cancelled everything.\n\nSpeaker 2: Okay, all right. You all said.\n\nSpeaker 1: Thank you. Bye. Bye.",
+    "duration": 3910,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Viagra"
+      },
+      {
+        "id": 1,
+        "start": 2.7200000286102295,
+        "end": 4.71999979019165,
+        "text": " Yeah, how you doing?"
+      },
+      {
+        "id": 2,
+        "start": 4.760000228881836,
+        "end": 8.279999732971191,
+        "text": " Can I have the phone number that you use for your account?"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 12.859999656677246,
+        "text": " 6 3 1 8 7 2 4 1 2 5"
+      },
+      {
+        "id": 4,
+        "start": 16.719999313354492,
+        "end": 23.280000686645508,
+        "text": " Mr.. Richard Westcott yes, yes, so I see that you be receiving Viagra"
+      },
+      {
+        "id": 5,
+        "start": 23.280000686645508,
+        "end": 31.360000610351562,
+        "text": " 20 to 30 and oh you got a great deal, too. Yeah, let me assist you sir"
+      },
+      {
+        "id": 6,
+        "start": 33.279998779296875,
+        "end": 40.15999984741211,
+        "text": " Yeah, I don't want to get them anymore not automatically anyway because I I don't use them as fast as I get them believe me"
+      },
+      {
+        "id": 7,
+        "start": 40.15999984741211,
+        "end": 42.79999923706055,
+        "text": " Oh, I have like four vials full of them"
+      },
+      {
+        "id": 8,
+        "start": 43.91999816894531,
+        "end": 49.68000030517578,
+        "text": " Okay, I can pause you if you like tell them to stop the monthly and pause you so that way"
+      },
+      {
+        "id": 9,
+        "start": 50.2400016784668,
+        "end": 55.959999084472656,
+        "text": " You don't lose the current price that you are because apparently you're getting 30 pills"
+      },
+      {
+        "id": 10,
+        "start": 55.959999084472656,
+        "end": 60.20000076293945,
+        "text": " Which is three times the regular quantity for the price that you're paying if you go on the website"
+      },
+      {
+        "id": 11,
+        "start": 61.31999969482422,
+        "end": 68.23999786376953,
+        "text": " Yeah, yeah, I can I have I have enough to last me the rest of my life. I'm near 70 years old"
+      },
+      {
+        "id": 12,
+        "start": 68.23999786376953,
+        "end": 74.55999755859375,
+        "text": " I don't need that anymore, so I just don't I want to stop coming. I want to stop paying for them"
+      },
+      {
+        "id": 13,
+        "start": 75.08000183105469,
+        "end": 77.08000183105469,
+        "text": " No matter how much they are"
+      },
+      {
+        "id": 14,
+        "start": 77.27999877929688,
+        "end": 82.76000213623047,
+        "text": " Okay, okay, no problem. Yeah, I was trying to offer to pause so you could reorder as your own leisure"
+      },
+      {
+        "id": 15,
+        "start": 82.76000213623047,
+        "end": 87.91999816894531,
+        "text": " But if you sure that those for me like you say gonna keep you the rest"
+      },
+      {
+        "id": 16,
+        "start": 87.91999816894531,
+        "end": 91.44000244140625,
+        "text": " You're never gonna reorder again, so you don't need your prescription anymore. I"
+      },
+      {
+        "id": 17,
+        "start": 92.19999694824219,
+        "end": 94.31999969482422,
+        "text": " Don't my wife sort of gave that up"
+      },
+      {
+        "id": 18,
+        "start": 95.80000305175781,
+        "end": 98.08000183105469,
+        "text": " Okay, oh, she should not"
+      },
+      {
+        "id": 19,
+        "start": 99.16000366210938,
+        "end": 104,
+        "text": " Well, I know that but she's having her own problems, so yeah, okay"
+      },
+      {
+        "id": 20,
+        "start": 105,
+        "end": 108.68000030517578,
+        "text": " All right anyway, so that I mean I didn't call for a consultation"
+      },
+      {
+        "id": 21,
+        "start": 110.31999969482422,
+        "end": 112.31999969482422,
+        "text": " I'm not gonna get the pills anymore"
+      },
+      {
+        "id": 22,
+        "start": 112.87999725341797,
+        "end": 115.44000244140625,
+        "text": " Okay, okay. Yeah, I cancelled everything"
+      },
+      {
+        "id": 23,
+        "start": 116.63999938964844,
+        "end": 118.95999908447266,
+        "text": " Okay, all right. You all said"
+      },
+      {
+        "id": 24,
+        "start": 119.83999633789062,
+        "end": 121.83999633789062,
+        "text": " Thank you. Bye. Bye"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-81f2-a178-d11430dfb3dd",
+    "url": "https://www.notion.so/300000001239391-300000001729062-30411d0a101c81f2a178d11430dfb3dd"
+  },
+  "processedAt": "2026-02-11T23:04:21.244Z"
+}

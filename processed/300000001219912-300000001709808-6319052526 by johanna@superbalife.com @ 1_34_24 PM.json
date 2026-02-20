@@ -1,0 +1,62 @@
+{
+  "recording": {
+    "name": "300000001219912-300000001709808-6319052526 by johanna@superbalife.com @ 1_34_24 PM.wav",
+    "size": 21056,
+    "modifyTime": 1769550013000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219912-300000001709808-6319052526 by johanna@superbalife.com @ 1_34_24 PM.wav",
+    "uploadDate": "2026-01-27T21:40:13.000Z",
+    "callId": "300000001219912-300000001709808",
+    "agent": "johanna",
+    "phoneNumber": "6319052526",
+    "callTimestamp": "2026-01-27T13:34:24.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Mr. Warren, thank you for your patience.\n\nSpeaker 2: I'm connecting with the pharmacy to have them release that hold and ship it out to you today.\n\nSpeaker 1: Okay?\n\nSpeaker 2: Give me just a couple more minutes.\n\nSpeaker 1: Okay.",
+    "duration": 1448,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.9200000762939453,
+        "text": " Mr. Warren, thank you for your patience."
+      },
+      {
+        "id": 1,
+        "start": 3.9200000762939453,
+        "end": 8.520000457763672,
+        "text": " I'm connecting with the pharmacy to have them release that hold and ship it out to you today,"
+      },
+      {
+        "id": 2,
+        "start": 8.520000457763672,
+        "end": 9.520000457763672,
+        "text": " okay?"
+      },
+      {
+        "id": 3,
+        "start": 9.520000457763672,
+        "end": 10.520000457763672,
+        "text": " Give me just a couple more minutes."
+      },
+      {
+        "id": 4,
+        "start": 10.520000457763672,
+        "end": 11.520000457763672,
+        "text": " Okay."
+      },
+      {
+        "id": 5,
+        "start": 11.520000457763672,
+        "end": 11.520000457763672,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8150-8d0a-cda540c108cd",
+    "url": "https://www.notion.so/300000001219912-300000001709808-2f511d0a101c81508d0acda540c108cd"
+  },
+  "processedAt": "2026-01-27T23:26:29.294Z"
+}

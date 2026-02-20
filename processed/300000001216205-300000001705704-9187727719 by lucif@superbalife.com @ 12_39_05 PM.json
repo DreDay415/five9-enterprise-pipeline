@@ -1,0 +1,92 @@
+{
+  "recording": {
+    "name": "300000001216205-300000001705704-9187727719 by lucif@superbalife.com @ 12_39_05 PM.wav",
+    "size": 74810,
+    "modifyTime": 1769591232000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216205-300000001705704-9187727719 by lucif@superbalife.com @ 12_39_05 PM.wav",
+    "uploadDate": "2026-01-28T09:07:12.000Z",
+    "callId": "300000001216205-300000001705704",
+    "agent": "lucif",
+    "phoneNumber": "9187727719",
+    "callTimestamp": "2026-01-28T12:39:05.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hello, how are you doing, sir? This is Quinn speaking. How can I help you?\n\nSpeaker 2: Hello. I'm sorry, what was your name?\n\nSpeaker 1: Quinn.\n\nSpeaker 2: Is there a Jimmy around there? I was talking to one last week.\n\nSpeaker 1: Yeah, there sure is a Jimmy. You sure you want to talk to him?\n\nSpeaker 2: Yeah, last week I was talking to him, and he sent me some stuff saying it was going to be different.\n\nSpeaker 1: And he sent me the same exact stuff.\n\nSpeaker 2: And he sent you the same stuff. Okay, I'm going to get you right over to him. One moment.\n\nSpeaker 1: Cool.\n\nSpeaker 2: I'm just going to put you in a brief hold, sir. It should probably be like not even a couple seconds. He'll pick up.\n\nSpeaker 1: All right, thanks.",
+    "duration": 2562,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hello, how are you doing, sir? This is Quinn speaking. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 8,
+        "text": " Hello. I'm sorry, what was your name?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " Quinn."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 14,
+        "text": " Is there a Jimmy around there? I was talking to one last week."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 18,
+        "text": " Yeah, there sure is a Jimmy. You sure you want to talk to him?"
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 24,
+        "text": " Yeah, last week I was talking to him, and he sent me some stuff saying it was going to be different."
+      },
+      {
+        "id": 6,
+        "start": 24,
+        "end": 26,
+        "text": " And he sent me the same exact stuff."
+      },
+      {
+        "id": 7,
+        "start": 26,
+        "end": 30,
+        "text": " And he sent you the same stuff. Okay, I'm going to get you right over to him. One moment."
+      },
+      {
+        "id": 8,
+        "start": 30,
+        "end": 41,
+        "text": " Cool."
+      },
+      {
+        "id": 9,
+        "start": 41,
+        "end": 45,
+        "text": " I'm just going to put you in a brief hold, sir. It should probably be like not even a couple seconds. He'll pick up."
+      },
+      {
+        "id": 10,
+        "start": 45,
+        "end": 46,
+        "text": " All right, thanks."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8199-9f40-fabca03d59ba",
+    "url": "https://www.notion.so/300000001216205-300000001705704-2f611d0a101c81999f40fabca03d59ba"
+  },
+  "processedAt": "2026-01-28T11:47:13.447Z"
+}

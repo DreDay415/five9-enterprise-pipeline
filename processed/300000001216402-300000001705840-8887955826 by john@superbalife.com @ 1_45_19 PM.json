@@ -1,0 +1,248 @@
+{
+  "recording": {
+    "name": "300000001216402-300000001705840-8887955826 by john@superbalife.com @ 1_45_19 PM.wav",
+    "size": 216836,
+    "modifyTime": 1769585528000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216402-300000001705840-8887955826 by john@superbalife.com @ 1_45_19 PM.wav",
+    "uploadDate": "2026-01-28T07:32:08.000Z",
+    "callId": "300000001216402-300000001705840",
+    "agent": "john",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T13:45:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Hey, John. How you doing? My name is Mr. Lawrence.\n\nSpeaker 1: And I had ordered something from you guys one time.\n\nSpeaker 2: I never asked for no refill or none of that crap.\n\nSpeaker 1: And you all are sending me stuff and taking money out of my account.\n\nSpeaker 2: Okay, sir.\n\nSpeaker 1: I would appreciate it if y'all canceled whatever y'all got going on\n\nSpeaker 2: because I already told my bank followers I'm concerned there's some fraudulent going on.\n\nSpeaker 1: I never gave y'all permission to go in my account to get nothing.\n\nSpeaker 2: When I ordered what I brought from y'all, I paid for it then.\n\nSpeaker 1: Sir, if you don't let me talk, I can't help you.\n\nSpeaker 2: I told the lady. What did she say?\n\nSpeaker 1: If I cannot speak at all, I can't help you with this, so I need your name and zip code, sir.\n\nSpeaker 2: First name Jesse, last name Lawrence.\n\nSpeaker 1: Okay. And your zip code?\n\nSpeaker 2: 2742.\n\nSpeaker 1: What was it one more time, the zip code? Because that didn't pull up anything.\n\nSpeaker 2: It's 20743.\n\nSpeaker 1: Okay, there we go. Thank you.\n\nSpeaker 2: Capitol Heights Boulevard?\n\nSpeaker 1: Yes, indeed.\n\nSpeaker 2: Like I told the person that the number I told them I'm going to mail that back to them\n\nSpeaker 1: and not to send that to my house anymore.\n\nSpeaker 2: Yeah, that will be taken care of.\n\nSpeaker 1: You will never be sent anything or billed again.\n\nSpeaker 2: We'll get your money back, sir.\n\nSpeaker 1: No, no, no, no, no, no.\n\nSpeaker 2: Excuse me, you don't have to give me my money back because my bank got it back already\n\nSpeaker 1: because I filed fraudulent charges.\n\nSpeaker 2: I didn't ask y'all to go in my account.\n\nSpeaker 1: I understand what you did.\n\nSpeaker 2: So we're good.\n\nSpeaker 1: I understand.\n\nSpeaker 2: And when you signed up, it told you.\n\nSpeaker 1: So we're good.\n\nSpeaker 2: But you didn't read through it, so that was your fault.\n\nSpeaker 1: So have a good day.",
+    "duration": 5344,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " Hey, John. How you doing? My name is Mr. Lawrence."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 13,
+        "text": " And I had ordered something from you guys one time."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 16,
+        "text": " I never asked for no refill or none of that crap."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 21,
+        "text": " And you all are sending me stuff and taking money out of my account."
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 22,
+        "text": " Okay, sir."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 26,
+        "text": " I would appreciate it if y'all canceled whatever y'all got going on"
+      },
+      {
+        "id": 7,
+        "start": 26,
+        "end": 31,
+        "text": " because I already told my bank followers I'm concerned there's some fraudulent going on."
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 34,
+        "text": " I never gave y'all permission to go in my account to get nothing."
+      },
+      {
+        "id": 9,
+        "start": 34,
+        "end": 37,
+        "text": " When I ordered what I brought from y'all, I paid for it then."
+      },
+      {
+        "id": 10,
+        "start": 37,
+        "end": 39,
+        "text": " Sir, if you don't let me talk, I can't help you."
+      },
+      {
+        "id": 11,
+        "start": 39,
+        "end": 42,
+        "text": " I told the lady. What did she say?"
+      },
+      {
+        "id": 12,
+        "start": 42,
+        "end": 47,
+        "text": " If I cannot speak at all, I can't help you with this, so I need your name and zip code, sir."
+      },
+      {
+        "id": 13,
+        "start": 47,
+        "end": 51,
+        "text": " First name Jesse, last name Lawrence."
+      },
+      {
+        "id": 14,
+        "start": 51,
+        "end": 55,
+        "text": " Okay. And your zip code?"
+      },
+      {
+        "id": 15,
+        "start": 56,
+        "end": 60,
+        "text": " 2742."
+      },
+      {
+        "id": 16,
+        "start": 77,
+        "end": 80,
+        "text": " What was it one more time, the zip code? Because that didn't pull up anything."
+      },
+      {
+        "id": 17,
+        "start": 81,
+        "end": 87,
+        "text": " It's 20743."
+      },
+      {
+        "id": 18,
+        "start": 90,
+        "end": 92,
+        "text": " Okay, there we go. Thank you."
+      },
+      {
+        "id": 19,
+        "start": 94,
+        "end": 96,
+        "text": " Capitol Heights Boulevard?"
+      },
+      {
+        "id": 20,
+        "start": 96,
+        "end": 98,
+        "text": " Yes, indeed."
+      },
+      {
+        "id": 21,
+        "start": 98,
+        "end": 104,
+        "text": " Like I told the person that the number I told them I'm going to mail that back to them"
+      },
+      {
+        "id": 22,
+        "start": 104,
+        "end": 107,
+        "text": " and not to send that to my house anymore."
+      },
+      {
+        "id": 23,
+        "start": 107,
+        "end": 109,
+        "text": " Yeah, that will be taken care of."
+      },
+      {
+        "id": 24,
+        "start": 109,
+        "end": 111,
+        "text": " You will never be sent anything or billed again."
+      },
+      {
+        "id": 25,
+        "start": 111,
+        "end": 113,
+        "text": " We'll get your money back, sir."
+      },
+      {
+        "id": 26,
+        "start": 113,
+        "end": 116,
+        "text": " No, no, no, no, no, no."
+      },
+      {
+        "id": 27,
+        "start": 116,
+        "end": 121,
+        "text": " Excuse me, you don't have to give me my money back because my bank got it back already"
+      },
+      {
+        "id": 28,
+        "start": 121,
+        "end": 123,
+        "text": " because I filed fraudulent charges."
+      },
+      {
+        "id": 29,
+        "start": 123,
+        "end": 125,
+        "text": " I didn't ask y'all to go in my account."
+      },
+      {
+        "id": 30,
+        "start": 125,
+        "end": 126,
+        "text": " I understand what you did."
+      },
+      {
+        "id": 31,
+        "start": 126,
+        "end": 127,
+        "text": " So we're good."
+      },
+      {
+        "id": 32,
+        "start": 127,
+        "end": 128,
+        "text": " I understand."
+      },
+      {
+        "id": 33,
+        "start": 128,
+        "end": 130,
+        "text": " And when you signed up, it told you."
+      },
+      {
+        "id": 34,
+        "start": 130,
+        "end": 131,
+        "text": " So we're good."
+      },
+      {
+        "id": 35,
+        "start": 131,
+        "end": 133,
+        "text": " But you didn't read through it, so that was your fault."
+      },
+      {
+        "id": 36,
+        "start": 133,
+        "end": 134,
+        "text": " So have a good day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ae-93dd-c01efb599738",
+    "url": "https://www.notion.so/300000001216402-300000001705840-2f611d0a101c81ae93ddc01efb599738"
+  },
+  "processedAt": "2026-01-28T14:21:01.788Z"
+}

@@ -1,0 +1,86 @@
+{
+  "recording": {
+    "name": "300000001221081-300000001711027-6192796404 by josimar@superbalife.com @ 11_18_44 AM.wav",
+    "size": 81116,
+    "modifyTime": 1769627997000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221081-300000001711027-6192796404 by josimar@superbalife.com @ 11_18_44 AM.wav",
+    "uploadDate": "2026-01-28T19:19:57.000Z",
+    "callId": "300000001221081-300000001711027",
+    "agent": "josimar",
+    "phoneNumber": "6192796404",
+    "callTimestamp": "2026-01-28T11:18:44.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Can I help you today?\n\nSpeaker 2: Yeah, I'd like to cancel my prescription, please.\n\nSpeaker 1: Yeah, I can take a look into your prescription. What's your last name and zip code?\n\nSpeaker 2: Garrity, G-E-R-A-T-Y, 92019.\n\nSpeaker 1: Got it. I pulled up your profile here. So real quick—\n\nSpeaker 2: I do want to mention, sir, that the moment we cancel your prescription—\n\nSpeaker 1: Unfortunately, the doctor would also delete the visit, meaning you wouldn't be able to order these anymore.\n\nSpeaker 2: However, yeah, we set you up to our every six-month freeze plan.\n\nSpeaker 1: That way you can retain access to these whenever you need them down the road. Did you want to try that on?\n\nSpeaker 2: No, I'm fine. I got plenty right now.\n\nSpeaker 1: Okay, you canceled it?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay. All right. Thank you, sir.",
+    "duration": 2499,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Can help you today"
+      },
+      {
+        "id": 1,
+        "start": 2.4600000381469727,
+        "end": 8.760000228881836,
+        "text": " Yeah, I'd like to cancel my prescription, please. Yeah, I could take a look into your prescription. What's your last name and a zip code?"
+      },
+      {
+        "id": 2,
+        "start": 10.5,
+        "end": 14.4399995803833,
+        "text": " Garrity g e r a t y 9 2 0 1 9"
+      },
+      {
+        "id": 3,
+        "start": 14.979999542236328,
+        "end": 17.420000076293945,
+        "text": " Got it. I pulled up your profile here. So real quick"
+      },
+      {
+        "id": 4,
+        "start": 17.420000076293945,
+        "end": 20.84000015258789,
+        "text": " I do want to mention sir that the moment we do cancel out your prescription"
+      },
+      {
+        "id": 5,
+        "start": 21.020000457763672,
+        "end": 24.6200008392334,
+        "text": " Unfortunately, the doctor would also delete the visit meaning you wouldn't be able to order these anymore"
+      },
+      {
+        "id": 6,
+        "start": 25.18000030517578,
+        "end": 28.860000610351562,
+        "text": " However, yeah, we set you up to our every six-month freeze plan"
+      },
+      {
+        "id": 7,
+        "start": 28.860000610351562,
+        "end": 33.02000045776367,
+        "text": " That way you can retain access to these whenever you need them down the road. Did you want to try that on?"
+      },
+      {
+        "id": 8,
+        "start": 33.91999816894531,
+        "end": 36.47999954223633,
+        "text": " No, I'm fine. I got plenty right now"
+      },
+      {
+        "id": 9,
+        "start": 43.47999954223633,
+        "end": 48.220001220703125,
+        "text": " Okay, you canceled it yeah, okay. All right. Thank you, sir"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81b0-8388-d44c01256d9f",
+    "url": "https://www.notion.so/300000001221081-300000001711027-2f611d0a101c81b08388d44c01256d9f"
+  },
+  "processedAt": "2026-01-28T23:54:30.658Z"
+}

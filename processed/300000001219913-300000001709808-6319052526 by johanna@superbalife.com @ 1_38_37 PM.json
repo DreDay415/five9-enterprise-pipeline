@@ -1,0 +1,200 @@
+{
+  "recording": {
+    "name": "300000001219913-300000001709808-6319052526 by johanna@superbalife.com @ 1_38_37 PM.wav",
+    "size": 116150,
+    "modifyTime": 1769550013000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219913-300000001709808-6319052526 by johanna@superbalife.com @ 1_38_37 PM.wav",
+    "uploadDate": "2026-01-27T21:40:13.000Z",
+    "callId": "300000001219913-300000001709808",
+    "agent": "johanna",
+    "phoneNumber": "6319052526",
+    "callTimestamp": "2026-01-27T13:38:37.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Okay, Mr. Warren, thank you so much for your patience.\n\nSpeaker 2: I'm going to make sure that the pharmacy sends it out to you today.\n\nSpeaker 1: I do apologize for the delay.\n\nSpeaker 2: It will be 25 milligrams.\n\nSpeaker 1: I see that you responded to the doctor and agreed to it rather than the 100 milligrams,\n\nSpeaker 2: but you will receive a quantity of 40 of those, okay?\n\nSpeaker 1: 40, 25 milligrams?\n\nSpeaker 2: Correct.\n\nSpeaker 1: So, is it a price difference?\n\nSpeaker 2: Because I paid for 100 milligrams.\n\nSpeaker 1: There isn't.\n\nSpeaker 2: It's the same cost.\n\nSpeaker 1: The only thing that changes the cost is the quantity.\n\nSpeaker 2: So whether you get 25 milligrams, 50 milligrams, or 100 milligrams, the cost remains the same.\n\nSpeaker 1: It doesn't impact the price.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thank you very much.\n\nSpeaker 1: So how soon will that be arriving?\n\nSpeaker 2: That's going to arrive.\n\nSpeaker 1: It's going to be sent out today, and then as soon as they print out the shipping label,\n\nSpeaker 2: you'll get a tracking number, but it's usually less than five days.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thank you very much, Miss.\n\nSpeaker 1: I appreciate it.\n\nSpeaker 2: My pleasure.\n\nSpeaker 1: Thank you so much for calling me.\n\nSpeaker 2: All right.",
+    "duration": 3839,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.71999979019165,
+        "text": " Okay, Mr. Warren, thank you so much for your patience."
+      },
+      {
+        "id": 1,
+        "start": 4.71999979019165,
+        "end": 8.960000038146973,
+        "text": " I'm going to make sure that the pharmacy sends it out to you today."
+      },
+      {
+        "id": 2,
+        "start": 8.960000038146973,
+        "end": 11.479999542236328,
+        "text": " I do apologize for the delay."
+      },
+      {
+        "id": 3,
+        "start": 11.479999542236328,
+        "end": 13.760000228881836,
+        "text": " It will be 25 milligrams."
+      },
+      {
+        "id": 4,
+        "start": 13.760000228881836,
+        "end": 19.079999923706055,
+        "text": " I see that you responded to the doctor and agreed to it rather than the 100 milligrams,"
+      },
+      {
+        "id": 5,
+        "start": 19.079999923706055,
+        "end": 22.84000015258789,
+        "text": " but you will receive a quantity of 40 of those, okay?"
+      },
+      {
+        "id": 6,
+        "start": 22.84000015258789,
+        "end": 25.239999771118164,
+        "text": " 40, 25 milligrams?"
+      },
+      {
+        "id": 7,
+        "start": 25.239999771118164,
+        "end": 26.239999771118164,
+        "text": " Correct."
+      },
+      {
+        "id": 8,
+        "start": 27.239999771118164,
+        "end": 30.399999618530273,
+        "text": " So, is it a price difference?"
+      },
+      {
+        "id": 9,
+        "start": 30.399999618530273,
+        "end": 32.400001525878906,
+        "text": " Because I paid for 100 milligrams."
+      },
+      {
+        "id": 10,
+        "start": 32.400001525878906,
+        "end": 33.400001525878906,
+        "text": " There isn't."
+      },
+      {
+        "id": 11,
+        "start": 33.400001525878906,
+        "end": 34.400001525878906,
+        "text": " It's the same cost."
+      },
+      {
+        "id": 12,
+        "start": 34.400001525878906,
+        "end": 39.959999084472656,
+        "text": " The only thing that changes the cost is the quantity."
+      },
+      {
+        "id": 13,
+        "start": 39.959999084472656,
+        "end": 46.400001525878906,
+        "text": " So whether you get 25 milligrams, 50 milligrams, or 100 milligrams, the cost remains the same."
+      },
+      {
+        "id": 14,
+        "start": 46.400001525878906,
+        "end": 48.400001525878906,
+        "text": " It doesn't impact the price."
+      },
+      {
+        "id": 15,
+        "start": 48.400001525878906,
+        "end": 49.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 49.400001525878906,
+        "end": 50.400001525878906,
+        "text": " All right."
+      },
+      {
+        "id": 17,
+        "start": 50.400001525878906,
+        "end": 51.400001525878906,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 18,
+        "start": 51.400001525878906,
+        "end": 52.400001525878906,
+        "text": " So how soon will that be arriving?"
+      },
+      {
+        "id": 19,
+        "start": 52.400001525878906,
+        "end": 53.400001525878906,
+        "text": " That's going to arrive."
+      },
+      {
+        "id": 20,
+        "start": 53.400001525878906,
+        "end": 61.2400016784668,
+        "text": " It's going to be sent out today, and then as soon as they print out the shipping label,"
+      },
+      {
+        "id": 21,
+        "start": 61.2400016784668,
+        "end": 64.36000061035156,
+        "text": " you'll get a tracking number, but it's usually less than five days."
+      },
+      {
+        "id": 22,
+        "start": 64.36000061035156,
+        "end": 65.36000061035156,
+        "text": " Okay."
+      },
+      {
+        "id": 23,
+        "start": 65.36000061035156,
+        "end": 66.36000061035156,
+        "text": " Thank you very much, Miss."
+      },
+      {
+        "id": 24,
+        "start": 66.36000061035156,
+        "end": 67.36000061035156,
+        "text": " I appreciate it."
+      },
+      {
+        "id": 25,
+        "start": 67.36000061035156,
+        "end": 68.36000061035156,
+        "text": " My pleasure."
+      },
+      {
+        "id": 26,
+        "start": 68.36000061035156,
+        "end": 69.36000061035156,
+        "text": " Thank you so much for calling me."
+      },
+      {
+        "id": 27,
+        "start": 69.36000061035156,
+        "end": 70.36000061035156,
+        "text": " All right."
+      },
+      {
+        "id": 28,
+        "start": 70.36000061035156,
+        "end": 70.36000061035156,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8115-8bc9-f84af6c1adbe",
+    "url": "https://www.notion.so/300000001219913-300000001709808-2f511d0a101c81158bc9f84af6c1adbe"
+  },
+  "processedAt": "2026-01-27T23:26:38.947Z"
+}

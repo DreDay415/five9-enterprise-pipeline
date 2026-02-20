@@ -1,0 +1,326 @@
+{
+  "recording": {
+    "name": "300000001217802-300000001707986-3012470009 by michelleh@superbalife.com @ 11_54_29 AM.wav",
+    "size": 238546,
+    "modifyTime": 1769585529000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217802-300000001707986-3012470009 by michelleh@superbalife.com @ 11_54_29 AM.wav",
+    "uploadDate": "2026-01-28T07:32:09.000Z",
+    "callId": "300000001217802-300000001707986",
+    "agent": "michelleh",
+    "phoneNumber": "3012470009",
+    "callTimestamp": "2026-01-28T11:54:29.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra.\n\nSpeaker 2: How can I help you?\n\nSpeaker 1: Yes.\n\nSpeaker 2: I was with School Blue before, and they gave me something that didn't work.\n\nSpeaker 1: And so I was seeing that you have a Viagra AGV, and I wanted to try that.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I can help you out with that.\n\nSpeaker 2: Give me one second.\n\nSpeaker 1: Pull up your profile.\n\nSpeaker 2: All right, Gerald, can you just confirm your date of birth?\n\nSpeaker 1: August 27, 1972.\n\nSpeaker 2: Thank you so much.\n\nSpeaker 1: I see you ordered with us back in 2024.\n\nSpeaker 2: Yes.\n\nSpeaker 1: So right now we have the new AGV.\n\nSpeaker 2: So we're the only company that's contracted directly with Pfizer with their manufacturer\n\nSpeaker 1: in France called Greenstone to provide the AGV.\n\nSpeaker 2: And it's Pfizer's latest formula.\n\nSpeaker 1: So they switched around the inactive ingredients so it kicks in faster.\n\nSpeaker 2: People are saying they feel it kick in in about 11 to 15 minutes.\n\nSpeaker 1: But on the bottle it will say take one hour prior to get the full results.\n\nSpeaker 2: And then it lasts longer.\n\nSpeaker 1: It lasts in your system for 14 hours.\n\nSpeaker 2: And people are saying it will have side effects, especially less headaches.\n\nSpeaker 1: You said no side effects and less headaches?\n\nSpeaker 2: Yeah, and less of that flushed feeling.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Does it really work, though?\n\nSpeaker 1: Yes, it works.\n\nSpeaker 2: It works so great sometimes the pharmacy runs out.\n\nSpeaker 1: How many do you get?\n\nSpeaker 2: I mean, how much does it cost?\n\nSpeaker 1: Okay, right now we have a deal in a month.\n\nSpeaker 2: You can get a quantity of 40 for $149.\n\nSpeaker 1: Pharmacy charges $14.95 processing fee, so that comes out to $163.95.\n\nSpeaker 2: Then we have a quantity of 25 for $99, which comes out to $113.95.\n\nSpeaker 1: And a quantity of 10 for $49 with a fee comes out to $63.95.\n\nSpeaker 2: And how much would it be?\n\nSpeaker 1: You said 60 what?\n\nSpeaker 2: $63.95.\n\nSpeaker 1: And that's free delivery, right?\n\nSpeaker 2: Yeah, so we don't charge you for the doctor's visits or your shipping.\n\nSpeaker 1: Okay, okay, okay.\n\nSpeaker 2: I get off of work in about an hour.\n\nSpeaker 1: Is there any way you can call me back or I can call you back and I can make the process and I can do it?\n\nSpeaker 2: Yeah, you can just call us back.\n\nSpeaker 1: Okay, I'll call you back in an hour.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: Bye.",
+    "duration": 9095,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 3,
+        "text": " How can I help you?"
+      },
+      {
+        "id": 2,
+        "start": 3,
+        "end": 4,
+        "text": " Yes."
+      },
+      {
+        "id": 3,
+        "start": 4,
+        "end": 8,
+        "text": " I was with School Blue before, and they gave me something that didn't work."
+      },
+      {
+        "id": 4,
+        "start": 8,
+        "end": 15,
+        "text": " And so I was seeing that you have a Viagra AGV, and I wanted to try that."
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 16,
+        "text": " Okay."
+      },
+      {
+        "id": 6,
+        "start": 16,
+        "end": 18,
+        "text": " I can help you out with that."
+      },
+      {
+        "id": 7,
+        "start": 18,
+        "end": 19,
+        "text": " Give me one second."
+      },
+      {
+        "id": 8,
+        "start": 19,
+        "end": 26,
+        "text": " Pull up your profile."
+      },
+      {
+        "id": 9,
+        "start": 26,
+        "end": 29,
+        "text": " All right, Gerald, can you just confirm your date of birth?"
+      },
+      {
+        "id": 10,
+        "start": 29,
+        "end": 32,
+        "text": " August 27, 1972."
+      },
+      {
+        "id": 11,
+        "start": 32,
+        "end": 34,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 12,
+        "start": 34,
+        "end": 36,
+        "text": " I see you ordered with us back in 2024."
+      },
+      {
+        "id": 13,
+        "start": 36,
+        "end": 37,
+        "text": " Yes."
+      },
+      {
+        "id": 14,
+        "start": 37,
+        "end": 39,
+        "text": " So right now we have the new AGV."
+      },
+      {
+        "id": 15,
+        "start": 39,
+        "end": 43,
+        "text": " So we're the only company that's contracted directly with Pfizer with their manufacturer"
+      },
+      {
+        "id": 16,
+        "start": 43,
+        "end": 46,
+        "text": " in France called Greenstone to provide the AGV."
+      },
+      {
+        "id": 17,
+        "start": 46,
+        "end": 48,
+        "text": " And it's Pfizer's latest formula."
+      },
+      {
+        "id": 18,
+        "start": 48,
+        "end": 52,
+        "text": " So they switched around the inactive ingredients so it kicks in faster."
+      },
+      {
+        "id": 19,
+        "start": 52,
+        "end": 56,
+        "text": " People are saying they feel it kick in in about 11 to 15 minutes."
+      },
+      {
+        "id": 20,
+        "start": 56,
+        "end": 60,
+        "text": " But on the bottle it will say take one hour prior to get the full results."
+      },
+      {
+        "id": 21,
+        "start": 60,
+        "end": 62,
+        "text": " And then it lasts longer."
+      },
+      {
+        "id": 22,
+        "start": 62,
+        "end": 64,
+        "text": " It lasts in your system for 14 hours."
+      },
+      {
+        "id": 23,
+        "start": 64,
+        "end": 68,
+        "text": " And people are saying it will have side effects, especially less headaches."
+      },
+      {
+        "id": 24,
+        "start": 68,
+        "end": 72,
+        "text": " You said no side effects and less headaches?"
+      },
+      {
+        "id": 25,
+        "start": 72,
+        "end": 75,
+        "text": " Yeah, and less of that flushed feeling."
+      },
+      {
+        "id": 26,
+        "start": 75,
+        "end": 77,
+        "text": " Okay."
+      },
+      {
+        "id": 27,
+        "start": 77,
+        "end": 79,
+        "text": " Does it really work, though?"
+      },
+      {
+        "id": 28,
+        "start": 79,
+        "end": 80,
+        "text": " Yes, it works."
+      },
+      {
+        "id": 29,
+        "start": 80,
+        "end": 83,
+        "text": " It works so great sometimes the pharmacy runs out."
+      },
+      {
+        "id": 30,
+        "start": 83,
+        "end": 85,
+        "text": " How many do you get?"
+      },
+      {
+        "id": 31,
+        "start": 85,
+        "end": 87,
+        "text": " I mean, how much does it cost?"
+      },
+      {
+        "id": 32,
+        "start": 87,
+        "end": 89,
+        "text": " Okay, right now we have a deal in a month."
+      },
+      {
+        "id": 33,
+        "start": 89,
+        "end": 95,
+        "text": " You can get a quantity of 40 for $149."
+      },
+      {
+        "id": 34,
+        "start": 95,
+        "end": 101,
+        "text": " Pharmacy charges $14.95 processing fee, so that comes out to $163.95."
+      },
+      {
+        "id": 35,
+        "start": 101,
+        "end": 106,
+        "text": " Then we have a quantity of 25 for $99, which comes out to $113.95."
+      },
+      {
+        "id": 36,
+        "start": 106,
+        "end": 113,
+        "text": " And a quantity of 10 for $49 with a fee comes out to $63.95."
+      },
+      {
+        "id": 37,
+        "start": 113,
+        "end": 114,
+        "text": " And how much would it be?"
+      },
+      {
+        "id": 38,
+        "start": 114,
+        "end": 116,
+        "text": " You said 60 what?"
+      },
+      {
+        "id": 39,
+        "start": 116,
+        "end": 118,
+        "text": " $63.95."
+      },
+      {
+        "id": 40,
+        "start": 118,
+        "end": 120,
+        "text": " And that's free delivery, right?"
+      },
+      {
+        "id": 41,
+        "start": 120,
+        "end": 127,
+        "text": " Yeah, so we don't charge you for the doctor's visits or your shipping."
+      },
+      {
+        "id": 42,
+        "start": 127,
+        "end": 132,
+        "text": " Okay, okay, okay."
+      },
+      {
+        "id": 43,
+        "start": 132,
+        "end": 134,
+        "text": " I get off of work in about an hour."
+      },
+      {
+        "id": 44,
+        "start": 134,
+        "end": 139,
+        "text": " Is there any way you can call me back or I can call you back and I can make the process and I can do it?"
+      },
+      {
+        "id": 45,
+        "start": 139,
+        "end": 141,
+        "text": " Yeah, you can just call us back."
+      },
+      {
+        "id": 46,
+        "start": 141,
+        "end": 143,
+        "text": " Okay, I'll call you back in an hour."
+      },
+      {
+        "id": 47,
+        "start": 143,
+        "end": 144,
+        "text": " Okay."
+      },
+      {
+        "id": 48,
+        "start": 144,
+        "end": 145,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 49,
+        "start": 145,
+        "end": 147,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8182-88f1-c171cd2979cc",
+    "url": "https://www.notion.so/300000001217802-300000001707986-2f611d0a101c818288f1c171cd2979cc"
+  },
+  "processedAt": "2026-01-28T14:20:14.856Z"
+}

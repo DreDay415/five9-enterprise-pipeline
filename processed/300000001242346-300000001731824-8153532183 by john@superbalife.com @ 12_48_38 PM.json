@@ -1,0 +1,341 @@
+{
+  "recording": {
+    "name": "300000001242346-300000001731824-8153532183 by john@superbalife.com @ 12_48_38 PM.wav",
+    "size": 187780,
+    "modifyTime": 1771015856000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242346-300000001731824-8153532183 by john@superbalife.com @ 12_48_38 PM.wav",
+    "uploadDate": "2026-02-13T20:50:56.000Z",
+    "callId": "300000001242346-300000001731824",
+    "agent": "john",
+    "phoneNumber": "8153532183",
+    "callTimestamp": "2026-02-13T12:48:38.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_john_300000001242346-300000001731824_8153532183.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_john_300000001242346-300000001731824_8153532183.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling.\n\nSpeaker 2: This is John.\n\nSpeaker 1: How can I help you?\n\nSpeaker 2: Yes.\n\nSpeaker 1: I'd like to place an order for the new AGV at Viagra.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: No problem.\n\nSpeaker 2: Can I get your name and ZIP code?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Mike Hansen, H-A-N-S-E-N, and my ZIP code is 60002.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: You still live at West Astor Street.\n\nSpeaker 1: Is that accurate?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yeah, I can get you set back up with us if you want to get the AGV, sir.\n\nSpeaker 1: We have three options.\n\nSpeaker 2: We have 40 pills at $163.95, 25 at $113.95, or 10 at $63.95.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I'd like to order the 10.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And you were previously getting 50 milligram.\n\nSpeaker 1: Do you want that again, or do you want to bump it to 100?\n\nSpeaker 2: I'll do the 100, yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: It looks like you updated this card this week.\n\nSpeaker 2: Is it the 5464?\n\nSpeaker 1: Actually, hang on a second.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I only assume you updated it because it shows you logged in this week.\n\nSpeaker 2: And it expires in 2030.\n\nSpeaker 1: Oh, yeah.\n\nSpeaker 2: Let's make sure, because I have a couple different cards here.\n\nSpeaker 1: No problem.\n\nSpeaker 2: 45464, the last four digits?\n\nSpeaker 1: Yeah, that's what I have.\n\nSpeaker 2: Yeah, okay.\n\nSpeaker 1: That's it.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: You're all set, Mike.\n\nSpeaker 1: So this will update your prescription.\n\nSpeaker 2: And then once you're approved over the weekend.\n\nSpeaker 1: We'll ship it out at the beginning of this next week.\n\nSpeaker 2: So you'll have it in five to seven days from today.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thank you very much.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Bye.",
+    "duration": 6440,
+    "audioDuration": 115.5199966430664,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Thank you for calling."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2,
+        "text": " This is John."
+      },
+      {
+        "id": 2,
+        "start": 2,
+        "end": 3,
+        "text": " How can I help you?"
+      },
+      {
+        "id": 3,
+        "start": 3,
+        "end": 4,
+        "text": " Yes."
+      },
+      {
+        "id": 4,
+        "start": 4,
+        "end": 8,
+        "text": " I'd like to place an order for the new AGV at Viagra."
+      },
+      {
+        "id": 5,
+        "start": 8,
+        "end": 9,
+        "text": " Yeah."
+      },
+      {
+        "id": 6,
+        "start": 9,
+        "end": 10,
+        "text": " No problem."
+      },
+      {
+        "id": 7,
+        "start": 10,
+        "end": 12,
+        "text": " Can I get your name and ZIP code?"
+      },
+      {
+        "id": 8,
+        "start": 12,
+        "end": 13,
+        "text": " Yeah."
+      },
+      {
+        "id": 9,
+        "start": 13,
+        "end": 18,
+        "text": " Mike Hansen, H-A-N-S-E-N, and my ZIP code is 60002."
+      },
+      {
+        "id": 10,
+        "start": 18,
+        "end": 19,
+        "text": " Thanks."
+      },
+      {
+        "id": 11,
+        "start": 19,
+        "end": 25,
+        "text": " You still live at West Astor Street."
+      },
+      {
+        "id": 12,
+        "start": 25,
+        "end": 27,
+        "text": " Is that accurate?"
+      },
+      {
+        "id": 13,
+        "start": 27,
+        "end": 28,
+        "text": " Yes."
+      },
+      {
+        "id": 14,
+        "start": 28,
+        "end": 29,
+        "text": " Okay."
+      },
+      {
+        "id": 15,
+        "start": 29,
+        "end": 34,
+        "text": " Yeah, I can get you set back up with us if you want to get the AGV, sir."
+      },
+      {
+        "id": 16,
+        "start": 34,
+        "end": 35,
+        "text": " We have three options."
+      },
+      {
+        "id": 17,
+        "start": 35,
+        "end": 45,
+        "text": " We have 40 pills at $163.95, 25 at $113.95, or 10 at $63.95."
+      },
+      {
+        "id": 18,
+        "start": 45,
+        "end": 46,
+        "text": " Okay."
+      },
+      {
+        "id": 19,
+        "start": 46,
+        "end": 48,
+        "text": " I'd like to order the 10."
+      },
+      {
+        "id": 20,
+        "start": 48,
+        "end": 49,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 49,
+        "end": 51,
+        "text": " And you were previously getting 50 milligram."
+      },
+      {
+        "id": 22,
+        "start": 51,
+        "end": 54,
+        "text": " Do you want that again, or do you want to bump it to 100?"
+      },
+      {
+        "id": 23,
+        "start": 54,
+        "end": 56,
+        "text": " I'll do the 100, yeah."
+      },
+      {
+        "id": 24,
+        "start": 56,
+        "end": 57,
+        "text": " Okay."
+      },
+      {
+        "id": 25,
+        "start": 58,
+        "end": 59,
+        "text": " Okay."
+      },
+      {
+        "id": 26,
+        "start": 59,
+        "end": 61,
+        "text": " It looks like you updated this card this week."
+      },
+      {
+        "id": 27,
+        "start": 61,
+        "end": 63,
+        "text": " Is it the 5464?"
+      },
+      {
+        "id": 28,
+        "start": 63,
+        "end": 69,
+        "text": " Actually, hang on a second."
+      },
+      {
+        "id": 29,
+        "start": 69,
+        "end": 70,
+        "text": " Okay."
+      },
+      {
+        "id": 30,
+        "start": 70,
+        "end": 73,
+        "text": " I only assume you updated it because it shows you logged in this week,"
+      },
+      {
+        "id": 31,
+        "start": 73,
+        "end": 74,
+        "text": " and it expires in 2030."
+      },
+      {
+        "id": 32,
+        "start": 74,
+        "end": 77,
+        "text": " Oh, yeah."
+      },
+      {
+        "id": 33,
+        "start": 77,
+        "end": 82,
+        "text": " Let's make sure, because I have a couple different cards here."
+      },
+      {
+        "id": 34,
+        "start": 82,
+        "end": 83,
+        "text": " No problem."
+      },
+      {
+        "id": 35,
+        "start": 84,
+        "end": 89,
+        "text": " 45464, the last four digits?"
+      },
+      {
+        "id": 36,
+        "start": 89,
+        "end": 90,
+        "text": " Yeah, that's what I have."
+      },
+      {
+        "id": 37,
+        "start": 90,
+        "end": 91,
+        "text": " Yeah, okay."
+      },
+      {
+        "id": 38,
+        "start": 91,
+        "end": 92,
+        "text": " That's it."
+      },
+      {
+        "id": 39,
+        "start": 92,
+        "end": 93,
+        "text": " Yeah."
+      },
+      {
+        "id": 40,
+        "start": 93,
+        "end": 94,
+        "text": " Okay."
+      },
+      {
+        "id": 41,
+        "start": 94,
+        "end": 95,
+        "text": " You're all set, Mike."
+      },
+      {
+        "id": 42,
+        "start": 95,
+        "end": 97,
+        "text": " So this will update your prescription,"
+      },
+      {
+        "id": 43,
+        "start": 97,
+        "end": 101,
+        "text": " and then once you're approved over the weekend,"
+      },
+      {
+        "id": 44,
+        "start": 101,
+        "end": 103,
+        "text": " we'll ship it out at the beginning of this next week."
+      },
+      {
+        "id": 45,
+        "start": 103,
+        "end": 105,
+        "text": " So you'll have it in five to seven days from today."
+      },
+      {
+        "id": 46,
+        "start": 105,
+        "end": 106,
+        "text": " Okay."
+      },
+      {
+        "id": 47,
+        "start": 106,
+        "end": 107,
+        "text": " All right."
+      },
+      {
+        "id": 48,
+        "start": 107,
+        "end": 108,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 49,
+        "start": 109,
+        "end": 110,
+        "text": " Okay."
+      },
+      {
+        "id": 50,
+        "start": 110,
+        "end": 111,
+        "text": " Bye."
+      },
+      {
+        "id": 51,
+        "start": 111,
+        "end": 112,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8113-ae75-f4489bf73688",
+    "url": "https://www.notion.so/300000001242346-300000001731824-30611d0a101c8113ae75f4489bf73688"
+  },
+  "processedAt": "2026-02-13T20:58:48.458Z"
+}

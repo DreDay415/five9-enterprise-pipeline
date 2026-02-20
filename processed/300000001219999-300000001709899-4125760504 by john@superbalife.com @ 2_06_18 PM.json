@@ -1,0 +1,338 @@
+{
+  "recording": {
+    "name": "300000001219999-300000001709899-4125760504 by john@superbalife.com @ 2_06_18 PM.wav",
+    "size": 262466,
+    "modifyTime": 1769551761000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219999-300000001709899-4125760504 by john@superbalife.com @ 2_06_18 PM.wav",
+    "uploadDate": "2026-01-27T22:09:21.000Z",
+    "callId": "300000001219999-300000001709899",
+    "agent": "john",
+    "phoneNumber": "4125760504",
+    "callTimestamp": "2026-01-27T14:06:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Would you like to renew my subscription, please?\n\nSpeaker 1: Okay. I need your name and zip code.\n\nSpeaker 2: Sal, S-A-L, Scadero, S-C-U-D-I-R-O, 34135.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Bonita National Boulevard?\n\nSpeaker 1: Yep.\n\nSpeaker 2: Do you want to do the 50 Cialis again?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay. So, $258.95 for that.\n\nSpeaker 1: Do you want me to use the Visa that ends in 6426?\n\nSpeaker 2: Hold on. I've got to get this number.\n\nSpeaker 1: I don't have that card anymore.\n\nSpeaker 2: No problem. I can update it.\n\nSpeaker 1: Let's use this one. You ready?\n\nSpeaker 2: Yes, sir.\n\nSpeaker 1: 6426 6841 8882 1858.\n\nSpeaker 2: Thanks. Expiration?\n\nSpeaker 1: August 30.\n\nSpeaker 2: And then the code?\n\nSpeaker 1: 824.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: So, I did get a decline on that.\n\nSpeaker 2: Why?\n\nSpeaker 1: So, it could be just your bank.\n\nSpeaker 2: It could just be your bank's like, oh, it's suspicious,\n\nSpeaker 1: and they're just blocking until you tell them it's you.\n\nSpeaker 2: That's usually what that is.\n\nSpeaker 1: Yeah, well, let me see. These are the attachments.\n\nSpeaker 2: Okay. Okay.\n\nSpeaker 1: I'll just give you a different card for it.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Do you take Amex?\n\nSpeaker 2: We do.\n\nSpeaker 1: Let's do that one.\n\nSpeaker 2: That number is 3715 7644 169 8008.\n\nSpeaker 1: Expiration on that?\n\nSpeaker 2: 7/27.\n\nSpeaker 1: And then the security code?\n\nSpeaker 2: That's a four-digit one.\n\nSpeaker 1: It is 7041.\n\nSpeaker 2: But this one's got a different zip code.\n\nSpeaker 1: This one goes to, I forget where it goes.\n\nSpeaker 2: Any zip code or no?\n\nSpeaker 1: I'll see if it goes through.\n\nSpeaker 2: Yeah, it went through with the Pittsburgh zip code.\n\nSpeaker 1: Perfect. Okay.\n\nSpeaker 2: We're all set.\n\nSpeaker 1: I forget if I can change the numbers, and I live in Florida,\n\nSpeaker 2: but I will make sure to go to Pittsburgh. Thanks.\n\nSpeaker 1: You're welcome. Have a good one.\n\nSpeaker 2: Thanks.",
+    "duration": 5077,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 6,
+        "text": " Would you like to renew my subscription, please?"
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 9,
+        "text": " Okay. I need your name and zip code."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 15,
+        "text": " Sal, S-A-L, Scadero, S-C-U-D-I-R-O, 34135."
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 21,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 23,
+        "text": " Bonita National Boulevard?"
+      },
+      {
+        "id": 6,
+        "start": 23,
+        "end": 25,
+        "text": " Yep."
+      },
+      {
+        "id": 7,
+        "start": 25,
+        "end": 27,
+        "text": " Do you want to do the 50 Cialis again?"
+      },
+      {
+        "id": 8,
+        "start": 27,
+        "end": 35,
+        "text": " Yes."
+      },
+      {
+        "id": 9,
+        "start": 35,
+        "end": 37,
+        "text": " Okay. So, $258.95 for that."
+      },
+      {
+        "id": 10,
+        "start": 37,
+        "end": 40,
+        "text": " Do you want me to use the Visa that ends in 6426?"
+      },
+      {
+        "id": 11,
+        "start": 40,
+        "end": 46,
+        "text": " Hold on. I've got to get this number."
+      },
+      {
+        "id": 12,
+        "start": 46,
+        "end": 48,
+        "text": " I don't have that card anymore."
+      },
+      {
+        "id": 13,
+        "start": 48,
+        "end": 52,
+        "text": " No problem. I can update it."
+      },
+      {
+        "id": 14,
+        "start": 52,
+        "end": 54,
+        "text": " Let's use this one. You ready?"
+      },
+      {
+        "id": 15,
+        "start": 54,
+        "end": 56,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 16,
+        "start": 56,
+        "end": 65,
+        "text": " 64266-8418-8822-1858."
+      },
+      {
+        "id": 17,
+        "start": 65,
+        "end": 67,
+        "text": " Thanks. Expiration?"
+      },
+      {
+        "id": 18,
+        "start": 67,
+        "end": 70,
+        "text": " August 30."
+      },
+      {
+        "id": 19,
+        "start": 70,
+        "end": 72,
+        "text": " And then the code?"
+      },
+      {
+        "id": 20,
+        "start": 72,
+        "end": 73,
+        "text": " 824."
+      },
+      {
+        "id": 21,
+        "start": 73,
+        "end": 82,
+        "text": " Thank you."
+      },
+      {
+        "id": 22,
+        "start": 82,
+        "end": 85,
+        "text": " So, I did get a decline on that."
+      },
+      {
+        "id": 23,
+        "start": 85,
+        "end": 87,
+        "text": " Why?"
+      },
+      {
+        "id": 24,
+        "start": 87,
+        "end": 89,
+        "text": " So, it could be just your bank."
+      },
+      {
+        "id": 25,
+        "start": 89,
+        "end": 91,
+        "text": " It could just be your bank's like, oh, it's suspicious,"
+      },
+      {
+        "id": 26,
+        "start": 91,
+        "end": 93,
+        "text": " and they're just blocking until you tell them it's you."
+      },
+      {
+        "id": 27,
+        "start": 93,
+        "end": 95,
+        "text": " That's usually what that is."
+      },
+      {
+        "id": 28,
+        "start": 95,
+        "end": 98,
+        "text": " Yeah, well, let me see. These are the attachments."
+      },
+      {
+        "id": 29,
+        "start": 98,
+        "end": 102,
+        "text": " Okay. Okay."
+      },
+      {
+        "id": 30,
+        "start": 102,
+        "end": 104,
+        "text": " I'll just give you a different card for it."
+      },
+      {
+        "id": 31,
+        "start": 104,
+        "end": 106,
+        "text": " Okay."
+      },
+      {
+        "id": 32,
+        "start": 106,
+        "end": 107,
+        "text": " Do you take Amex?"
+      },
+      {
+        "id": 33,
+        "start": 107,
+        "end": 109,
+        "text": " We do."
+      },
+      {
+        "id": 34,
+        "start": 109,
+        "end": 112,
+        "text": " Let's do that one."
+      },
+      {
+        "id": 35,
+        "start": 112,
+        "end": 125,
+        "text": " That number is 3715-7644-169-8008."
+      },
+      {
+        "id": 36,
+        "start": 125,
+        "end": 127,
+        "text": " Expiration on that?"
+      },
+      {
+        "id": 37,
+        "start": 127,
+        "end": 129,
+        "text": " 727."
+      },
+      {
+        "id": 38,
+        "start": 129,
+        "end": 132,
+        "text": " And then the security code?"
+      },
+      {
+        "id": 39,
+        "start": 132,
+        "end": 134,
+        "text": " That's a four-digit one."
+      },
+      {
+        "id": 40,
+        "start": 134,
+        "end": 137,
+        "text": " It is 7041."
+      },
+      {
+        "id": 41,
+        "start": 137,
+        "end": 139,
+        "text": " But this one's got a different zip code."
+      },
+      {
+        "id": 42,
+        "start": 139,
+        "end": 143,
+        "text": " This one goes to, I forget where it goes."
+      },
+      {
+        "id": 43,
+        "start": 143,
+        "end": 145,
+        "text": " Any zip code or no?"
+      },
+      {
+        "id": 44,
+        "start": 145,
+        "end": 147,
+        "text": " I'll see if it goes through."
+      },
+      {
+        "id": 45,
+        "start": 147,
+        "end": 150,
+        "text": " Yeah, it went through with the Pittsburgh zip code."
+      },
+      {
+        "id": 46,
+        "start": 150,
+        "end": 152,
+        "text": " Perfect. Okay."
+      },
+      {
+        "id": 47,
+        "start": 152,
+        "end": 153,
+        "text": " We're all set."
+      },
+      {
+        "id": 48,
+        "start": 153,
+        "end": 156,
+        "text": " I forget if I can change the numbers, and I live in Florida,"
+      },
+      {
+        "id": 49,
+        "start": 156,
+        "end": 158,
+        "text": " but I will make sure to go to Pittsburgh. Thanks."
+      },
+      {
+        "id": 50,
+        "start": 158,
+        "end": 160,
+        "text": " You're welcome. Have a good one."
+      },
+      {
+        "id": 51,
+        "start": 160,
+        "end": 161,
+        "text": " Thanks."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-81b8-88fc-e78a0611b898",
+    "url": "https://www.notion.so/300000001219999-300000001709899-2f511d0a101c81b888fce78a0611b898"
+  },
+  "processedAt": "2026-01-27T23:11:43.730Z"
+}

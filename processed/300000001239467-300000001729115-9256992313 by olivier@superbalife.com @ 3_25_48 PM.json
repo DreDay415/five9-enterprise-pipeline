@@ -1,0 +1,260 @@
+{
+  "recording": {
+    "name": "300000001239467-300000001729115-9256992313 by olivier@superbalife.com @ 3_25_48 PM.wav",
+    "size": 145986,
+    "modifyTime": 1770852460000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239467-300000001729115-9256992313 by olivier@superbalife.com @ 3_25_48 PM.wav",
+    "uploadDate": "2026-02-11T23:27:40.000Z",
+    "callId": "300000001239467-300000001729115",
+    "agent": "olivier",
+    "phoneNumber": "9256992313",
+    "callTimestamp": "2026-02-11T15:25:48.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Hello.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Yeah, I wanted to cancel.\n\nSpeaker 1: I had an order through you guys, and I wanted to cancel.\n\nSpeaker 2: I had initially asked if this was a subscription when I first started,\n\nSpeaker 1: and they said it wasn't, and now they're charging me again like it's a\n\nSpeaker 2: subscription to be refilled all the time.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yeah, Mr. Cabral, right?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Yeah, I think it came from the way the doctor wrote your prescription\n\nSpeaker 2: because you ordered tens.\n\nSpeaker 1: I guess he got that with refills, but what I can do,\n\nSpeaker 2: I can cancel the 30 days refills from the doctor and pause the prescription\n\nSpeaker 1: so that way you just order as needed because, really,\n\nSpeaker 2: you're not required to get it every 30 days.\n\nSpeaker 1: That's just initial writing.\n\nSpeaker 2: When you call to say, you know what, I'm not really active,\n\nSpeaker 1: we advise the pharmacy to pause the prescription\n\nSpeaker 2: and just stop the initial 30 days,\n\nSpeaker 1: so that way they'll allow you to keep the same price when you want to order,\n\nSpeaker 2: basically.\n\nSpeaker 1: No, really, I would like to cancel the whole thing\n\nSpeaker 2: because I wasn't happy with the whole situation.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right.\n\nSpeaker 1: So I canceled the prescription, canceled the account.\n\nSpeaker 2: That being said, if anything's changed,\n\nSpeaker 1: price will be up because they're going to have to reimburse you,\n\nSpeaker 2: but you all set?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: I won't.\n\nSpeaker 1: No.\n\nSpeaker 2: All right.\n\nSpeaker 1: You all set.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: All right.",
+    "duration": 5249,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 4,
+        "text": " Hello."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 5,
+        "text": " Yes."
+      },
+      {
+        "id": 3,
+        "start": 5,
+        "end": 7,
+        "text": " Yeah, I wanted to cancel."
+      },
+      {
+        "id": 4,
+        "start": 7,
+        "end": 11,
+        "text": " I had an order through you guys, and I wanted to cancel."
+      },
+      {
+        "id": 5,
+        "start": 11,
+        "end": 15,
+        "text": " I had initially asked if this was a subscription when I first started,"
+      },
+      {
+        "id": 6,
+        "start": 15,
+        "end": 20,
+        "text": " and they said it wasn't, and now they're charging me again like it's a"
+      },
+      {
+        "id": 7,
+        "start": 20,
+        "end": 23,
+        "text": " subscription to be refilled all the time."
+      },
+      {
+        "id": 8,
+        "start": 23,
+        "end": 25,
+        "text": " Okay."
+      },
+      {
+        "id": 9,
+        "start": 25,
+        "end": 27,
+        "text": " Yeah, Mr. Cabral, right?"
+      },
+      {
+        "id": 10,
+        "start": 27,
+        "end": 28,
+        "text": " Yes."
+      },
+      {
+        "id": 11,
+        "start": 28,
+        "end": 29,
+        "text": " Yes."
+      },
+      {
+        "id": 12,
+        "start": 29,
+        "end": 33,
+        "text": " Yeah, I think it came from the way the doctor wrote your prescription"
+      },
+      {
+        "id": 13,
+        "start": 33,
+        "end": 34,
+        "text": " because you ordered tens."
+      },
+      {
+        "id": 14,
+        "start": 34,
+        "end": 37,
+        "text": " I guess he got that with refills, but what I can do,"
+      },
+      {
+        "id": 15,
+        "start": 37,
+        "end": 43,
+        "text": " I can cancel the 30 days refills from the doctor and pause the prescription"
+      },
+      {
+        "id": 16,
+        "start": 43,
+        "end": 46,
+        "text": " so that way you just order as needed because, really,"
+      },
+      {
+        "id": 17,
+        "start": 46,
+        "end": 48,
+        "text": " you're not required to get it every 30 days."
+      },
+      {
+        "id": 18,
+        "start": 48,
+        "end": 50,
+        "text": " That's just initial writing."
+      },
+      {
+        "id": 19,
+        "start": 50,
+        "end": 53,
+        "text": " When you call to say, you know what, I'm not really active,"
+      },
+      {
+        "id": 20,
+        "start": 54,
+        "end": 56,
+        "text": " we advise the pharmacy to pause the prescription"
+      },
+      {
+        "id": 21,
+        "start": 56,
+        "end": 58,
+        "text": " and just stop the initial 30 days,"
+      },
+      {
+        "id": 22,
+        "start": 58,
+        "end": 62,
+        "text": " so that way they'll allow you to keep the same price when you want to order,"
+      },
+      {
+        "id": 23,
+        "start": 62,
+        "end": 63,
+        "text": " basically."
+      },
+      {
+        "id": 24,
+        "start": 63,
+        "end": 65,
+        "text": " No, really, I would like to cancel the whole thing"
+      },
+      {
+        "id": 25,
+        "start": 65,
+        "end": 69,
+        "text": " because I wasn't happy with the whole situation."
+      },
+      {
+        "id": 26,
+        "start": 69,
+        "end": 71,
+        "text": " Okay."
+      },
+      {
+        "id": 27,
+        "start": 71,
+        "end": 72,
+        "text": " All right."
+      },
+      {
+        "id": 28,
+        "start": 72,
+        "end": 76,
+        "text": " So I canceled the prescription, canceled the account."
+      },
+      {
+        "id": 29,
+        "start": 76,
+        "end": 78,
+        "text": " That being said, if anything's changed,"
+      },
+      {
+        "id": 30,
+        "start": 78,
+        "end": 81,
+        "text": " price will be up because they're going to have to reimburse you,"
+      },
+      {
+        "id": 31,
+        "start": 81,
+        "end": 82,
+        "text": " but you all set?"
+      },
+      {
+        "id": 32,
+        "start": 82,
+        "end": 83,
+        "text": " Yeah."
+      },
+      {
+        "id": 33,
+        "start": 83,
+        "end": 84,
+        "text": " I won't."
+      },
+      {
+        "id": 34,
+        "start": 84,
+        "end": 85,
+        "text": " No."
+      },
+      {
+        "id": 35,
+        "start": 85,
+        "end": 86,
+        "text": " All right."
+      },
+      {
+        "id": 36,
+        "start": 86,
+        "end": 87,
+        "text": " You all set."
+      },
+      {
+        "id": 37,
+        "start": 87,
+        "end": 88,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 38,
+        "start": 88,
+        "end": 89,
+        "text": " All right."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81d6-892e-cac07fd8b686",
+    "url": "https://www.notion.so/300000001239467-300000001729115-30511d0a101c81d6892ecac07fd8b686"
+  },
+  "processedAt": "2026-02-12T00:10:48.799Z"
+}

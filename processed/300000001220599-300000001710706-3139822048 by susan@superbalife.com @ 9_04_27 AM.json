@@ -1,0 +1,44 @@
+{
+  "recording": {
+    "name": "300000001220599-300000001710706-3139822048 by susan@superbalife.com @ 9_04_27 AM.wav",
+    "size": 20406,
+    "modifyTime": 1769619901000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220599-300000001710706-3139822048 by susan@superbalife.com @ 9_04_27 AM.wav",
+    "uploadDate": "2026-01-28T17:05:01.000Z",
+    "callId": "300000001220599-300000001710706",
+    "agent": "susan",
+    "phoneNumber": "3139822048",
+    "callTimestamp": "2026-01-28T09:04:27.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi SCOREblue, I'm transferring you over there right now to SCOREblue, just a second.\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello, I'm transferring you over to SCOREblue right now, sir, here you go.",
+    "duration": 819,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Hi SCOREblue, I'm transferring you over there right now to SCOREblue, just a second."
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 8,
+        "text": " Hello?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " Hello, I'm transferring you over to SCOREblue right now, sir, here you go."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8140-8ffd-ca4ece285805",
+    "url": "https://www.notion.so/300000001220599-300000001710706-2f611d0a101c81408ffdca4ece285805"
+  },
+  "processedAt": "2026-01-28T18:43:36.904Z"
+}

@@ -1,0 +1,62 @@
+{
+  "recording": {
+    "name": "300000001222927-300000001712530-3202171474 by josimar@superbalife.com @ 1_01_03 PM.wav",
+    "size": 53686,
+    "modifyTime": 1769720502000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222927-300000001712530-3202171474 by josimar@superbalife.com @ 1_01_03 PM.wav",
+    "uploadDate": "2026-01-29T21:01:42.000Z",
+    "callId": "300000001222927-300000001712530",
+    "agent": "josimar",
+    "phoneNumber": "3202171474",
+    "callTimestamp": "2026-01-29T13:01:03.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Okay sir, you're all set to go. For some reason our system billed you $28 for the express shipping, but I was able to avoid that, so you'll see a refund of $28 on your account in 24 hours. But aside from that, your order will ship out, and it'll arrive in 3-5 business days.\n\nSpeaker 2: Okay, very good. No shipping, right?\n\nSpeaker 1: Yeah, correct. I got rid of that. I charged you something additional you shouldn't have been charged, and I had to remove it really quick. So you're all set, sir.\n\nSpeaker 2: Okay, good. Thank you very much.\n\nSpeaker 1: Alright, you're all set. Have a great day.\n\nSpeaker 2: You too. Bye-bye.",
+    "duration": 2388,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 17,
+        "text": " Okay sir, you're all set to go. For some reason our system billed you $28 for the express shipping, but I was able to avoid that out, so you'll see a refund of $28 on your account in 24 hours. But aside from that, your order will ship out, and it'll arrive in 3-5 business days."
+      },
+      {
+        "id": 1,
+        "start": 17,
+        "end": 20,
+        "text": " Okay, very good. No shipping, right?"
+      },
+      {
+        "id": 2,
+        "start": 20,
+        "end": 26,
+        "text": " Yeah, correct. I got rid of that. I charged you something additional you shouldn't have been charged, and I had to remove it really quick. So you're all set, sir."
+      },
+      {
+        "id": 3,
+        "start": 26,
+        "end": 29,
+        "text": " Okay, good. Thank you very much."
+      },
+      {
+        "id": 4,
+        "start": 29,
+        "end": 31,
+        "text": " Alright, you're all set. Have a great day."
+      },
+      {
+        "id": 5,
+        "start": 31,
+        "end": 33,
+        "text": " You too. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81b5-93b5-c204439a4586",
+    "url": "https://www.notion.so/300000001222927-300000001712530-2f711d0a101c81b593b5c204439a4586"
+  },
+  "processedAt": "2026-01-29T21:20:45.953Z"
+}

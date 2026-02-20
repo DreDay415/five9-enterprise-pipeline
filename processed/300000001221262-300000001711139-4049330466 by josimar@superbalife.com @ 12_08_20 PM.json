@@ -1,0 +1,140 @@
+{
+  "recording": {
+    "name": "300000001221262-300000001711139-4049330466 by josimar@superbalife.com @ 12_08_20 PM.wav",
+    "size": 112576,
+    "modifyTime": 1769630990000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221262-300000001711139-4049330466 by josimar@superbalife.com @ 12_08_20 PM.wav",
+    "uploadDate": "2026-01-28T20:09:50.000Z",
+    "callId": "300000001221262-300000001711139",
+    "agent": "josimar",
+    "phoneNumber": "4049330466",
+    "callTimestamp": "2026-01-28T12:08:20.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you today?\n\nSpeaker 2: Yes, my name is Roger Cleveland and I was calling because I need to cancel my subscription.\n\nSpeaker 1: I didn't realize it was a subscription.\n\nSpeaker 2: Yeah, I can take a look into that for you. What's your zip code, sir?\n\nSpeaker 1: 30127.\n\nSpeaker 2: All right, I pulled up your account here, sir.\n\nSpeaker 1: So I do want to mention really quick that the moment I cancel all your orders here,\n\nSpeaker 2: unfortunately you wouldn't be able to access the Viagra AGV in the future\n\nSpeaker 1: because the doctor would delete the prescription side.\n\nSpeaker 2: However, I could always just freeze it out for you.\n\nSpeaker 1: That way you could retain access to it whenever you need it down the road.\n\nSpeaker 2: Well, I tried to take it and it doesn't agree with my system.\n\nSpeaker 1: That's why I need to cancel it.\n\nSpeaker 2: No, no worries, and I completely understand.\n\nSpeaker 1: I'll put a stop to all your orders and you're all set to go.\n\nSpeaker 2: With that, if you have any questions whatsoever, feel free to give us a call back.\n\nSpeaker 1: Okay, thank you very much.\n\nSpeaker 2: No problem, bye-bye.\n\nSpeaker 1: All right, bye-bye.",
+    "duration": 2808,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10,
+        "text": " Yes, my name is Roger Cleveland and I was calling because I need to cancel my subscription."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 13,
+        "text": " I didn't realize it was a subscription."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 16,
+        "text": " Yeah, I can take a look into that for you. What's your zip code, sir?"
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 29,
+        "text": " 30127."
+      },
+      {
+        "id": 5,
+        "start": 29,
+        "end": 30,
+        "text": " All right, I pulled up your account here, sir."
+      },
+      {
+        "id": 6,
+        "start": 30,
+        "end": 34,
+        "text": " So I do want to mention really quick that the moment I cancel all your orders here,"
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 37,
+        "text": " unfortunately you wouldn't be able to access the Viagra AGV in the future"
+      },
+      {
+        "id": 8,
+        "start": 37,
+        "end": 40,
+        "text": " because the doctor would delete the prescription side."
+      },
+      {
+        "id": 9,
+        "start": 40,
+        "end": 42,
+        "text": " However, I could always just freeze it out for you."
+      },
+      {
+        "id": 10,
+        "start": 42,
+        "end": 46,
+        "text": " That way you could retain access to it whenever you need it down the road."
+      },
+      {
+        "id": 11,
+        "start": 46,
+        "end": 51,
+        "text": " Well, I tried to take it and it doesn't agree with my system."
+      },
+      {
+        "id": 12,
+        "start": 51,
+        "end": 53,
+        "text": " That's why I need to cancel it."
+      },
+      {
+        "id": 13,
+        "start": 53,
+        "end": 55,
+        "text": " No, no worries, and I completely understand."
+      },
+      {
+        "id": 14,
+        "start": 55,
+        "end": 58,
+        "text": " I'll put a stop to all your orders and you're all set to go."
+      },
+      {
+        "id": 15,
+        "start": 58,
+        "end": 62,
+        "text": " With that, if you have any questions whatsoever, feel free to give us a call back."
+      },
+      {
+        "id": 16,
+        "start": 62,
+        "end": 64,
+        "text": " Okay, thank you very much."
+      },
+      {
+        "id": 17,
+        "start": 64,
+        "end": 65,
+        "text": " No problem, bye-bye."
+      },
+      {
+        "id": 18,
+        "start": 65,
+        "end": 67,
+        "text": " All right, bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8154-918c-c65cb810d7a0",
+    "url": "https://www.notion.so/300000001221262-300000001711139-2f611d0a101c8154918cc65cb810d7a0"
+  },
+  "processedAt": "2026-01-28T23:11:45.356Z"
+}

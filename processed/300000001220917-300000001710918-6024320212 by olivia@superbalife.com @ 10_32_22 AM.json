@@ -1,0 +1,392 @@
+{
+  "recording": {
+    "name": "300000001220917-300000001710918-6024320212 by olivia@superbalife.com @ 10_32_22 AM.wav",
+    "size": 264546,
+    "modifyTime": 1769625333000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220917-300000001710918-6024320212 by olivia@superbalife.com @ 10_32_22 AM.wav",
+    "uploadDate": "2026-01-28T18:35:33.000Z",
+    "callId": "300000001220917-300000001710918",
+    "agent": "olivia",
+    "phoneNumber": "6024320212",
+    "callTimestamp": "2026-01-28T10:32:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra.\n\nSpeaker 2: This is Olivia speaking.\n\nSpeaker 1: Who do I have the pleasure of speaking with today?\n\nSpeaker 2: Hi, Olivia.\n\nSpeaker 1: My name is Eduardo Baille, that's E-D-U-A-R-D-O,\n\nSpeaker 2: last name B like boy, A-L-L-I.\n\nSpeaker 1: Yeah, Eduardo, what is the phone number associated with your prescription if it's not this phone number that you called in on?\n\nSpeaker 2: Well, I got two other numbers, so let's try 480-888-0989.\n\nSpeaker 1: 0-9-8-9.\n\nSpeaker 2: There you are.\n\nSpeaker 1: And what's your date of birth?\n\nSpeaker 2: 6-22-58.\n\nSpeaker 1: Great.\n\nSpeaker 2: Yeah, interesting.\n\nSpeaker 1: Oh, I see.\n\nSpeaker 2: Okay, yeah.\n\nSpeaker 1: I can help you today.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: It looks like you recently would have gotten the AGV with us.\n\nSpeaker 2: Is that right?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Great.\n\nSpeaker 1: And you didn't send me the correct amount.\n\nSpeaker 2: He did leave a note to send 80 pills total.\n\nSpeaker 1: Did they not send you 80 pills?\n\nSpeaker 2: No.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So how many pills did they send you?\n\nSpeaker 1: Well, according to the bottle, it says 40.\n\nSpeaker 2: I didn't dump them out and count them.\n\nSpeaker 1: But the bottle, yeah, they should have sent 80.\n\nSpeaker 2: They did not.\n\nSpeaker 1: Right.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I will get these shipped out to you then.\n\nSpeaker 2: Yeah, sorry about that.\n\nSpeaker 1: He did leave the correct note, so they should have sent you the full 80.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right.\n\nSpeaker 1: And you're located at 1-8-5-6-2 East Ash Ridge Drive, Queen Creek, Arizona, 85142?\n\nSpeaker 2: Yes.\n\nSpeaker 1: I'm still there.\n\nSpeaker 2: Great.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So, yeah, the remaining will be out to you very soon.\n\nSpeaker 1: You are located in Arizona.\n\nSpeaker 2: Okay.\n\nSpeaker 1: So, yeah, probably by next Tuesday or Wednesday.\n\nSpeaker 2: I appreciate that.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Have a great day, Eduardo.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: You too.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Bye.",
+    "duration": 4657,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5,
+        "text": " This is Olivia speaking."
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 8,
+        "text": " Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 9,
+        "text": " Hi, Olivia."
+      },
+      {
+        "id": 4,
+        "start": 9,
+        "end": 14,
+        "text": " My name is Eduardo Baille, that's E-D-U-A-R-D-O,"
+      },
+      {
+        "id": 5,
+        "start": 14,
+        "end": 19,
+        "text": " last name B like boy, A-L-L-I."
+      },
+      {
+        "id": 6,
+        "start": 19,
+        "end": 24,
+        "text": " Yeah, Eduardo, what is the phone number associated with your prescription"
+      },
+      {
+        "id": 7,
+        "start": 24,
+        "end": 28,
+        "text": " if it's not this phone number that you called in on?"
+      },
+      {
+        "id": 8,
+        "start": 28,
+        "end": 37,
+        "text": " Well, I got two other numbers, so let's try 480-888-0989."
+      },
+      {
+        "id": 9,
+        "start": 37,
+        "end": 39,
+        "text": " 0-9-8-9."
+      },
+      {
+        "id": 10,
+        "start": 39,
+        "end": 40,
+        "text": " There you are."
+      },
+      {
+        "id": 11,
+        "start": 40,
+        "end": 42,
+        "text": " And what's your date of birth?"
+      },
+      {
+        "id": 12,
+        "start": 42,
+        "end": 45,
+        "text": " 6-22-58."
+      },
+      {
+        "id": 13,
+        "start": 45,
+        "end": 47,
+        "text": " Great."
+      },
+      {
+        "id": 14,
+        "start": 47,
+        "end": 52,
+        "text": " Yeah, interesting."
+      },
+      {
+        "id": 15,
+        "start": 52,
+        "end": 54,
+        "text": " Oh, I see."
+      },
+      {
+        "id": 16,
+        "start": 54,
+        "end": 57,
+        "text": " Okay, yeah."
+      },
+      {
+        "id": 17,
+        "start": 57,
+        "end": 59,
+        "text": " I can help you today."
+      },
+      {
+        "id": 18,
+        "start": 59,
+        "end": 60,
+        "text": " Yeah."
+      },
+      {
+        "id": 19,
+        "start": 60,
+        "end": 66,
+        "text": " It looks like you recently would have gotten the AGV with us."
+      },
+      {
+        "id": 20,
+        "start": 66,
+        "end": 68,
+        "text": " Is that right?"
+      },
+      {
+        "id": 21,
+        "start": 68,
+        "end": 69,
+        "text": " Yes."
+      },
+      {
+        "id": 22,
+        "start": 69,
+        "end": 70,
+        "text": " Great."
+      },
+      {
+        "id": 23,
+        "start": 70,
+        "end": 74,
+        "text": " And you didn't send me the correct amount."
+      },
+      {
+        "id": 24,
+        "start": 74,
+        "end": 79,
+        "text": " He did leave a note to send 80 pills total."
+      },
+      {
+        "id": 25,
+        "start": 79,
+        "end": 83,
+        "text": " Did they not send you 80 pills?"
+      },
+      {
+        "id": 26,
+        "start": 83,
+        "end": 84,
+        "text": " No."
+      },
+      {
+        "id": 27,
+        "start": 84,
+        "end": 86,
+        "text": " Okay."
+      },
+      {
+        "id": 28,
+        "start": 86,
+        "end": 89,
+        "text": " All right."
+      },
+      {
+        "id": 29,
+        "start": 89,
+        "end": 94,
+        "text": " So how many pills did they send you?"
+      },
+      {
+        "id": 30,
+        "start": 94,
+        "end": 98,
+        "text": " Well, according to the bottle, it says 40."
+      },
+      {
+        "id": 31,
+        "start": 98,
+        "end": 100,
+        "text": " I didn't dump them out and count them."
+      },
+      {
+        "id": 32,
+        "start": 100,
+        "end": 104,
+        "text": " But the bottle, yeah, they should have sent 80."
+      },
+      {
+        "id": 33,
+        "start": 104,
+        "end": 105,
+        "text": " They did not."
+      },
+      {
+        "id": 34,
+        "start": 105,
+        "end": 106,
+        "text": " Right."
+      },
+      {
+        "id": 35,
+        "start": 106,
+        "end": 109,
+        "text": " Okay."
+      },
+      {
+        "id": 36,
+        "start": 109,
+        "end": 115,
+        "text": " I will get these shipped out to you then."
+      },
+      {
+        "id": 37,
+        "start": 116,
+        "end": 117,
+        "text": " Yeah, sorry about that."
+      },
+      {
+        "id": 38,
+        "start": 117,
+        "end": 122,
+        "text": " He did leave the correct note, so they should have sent you the full 80."
+      },
+      {
+        "id": 39,
+        "start": 122,
+        "end": 123,
+        "text": " Yeah."
+      },
+      {
+        "id": 40,
+        "start": 123,
+        "end": 124,
+        "text": " Okay."
+      },
+      {
+        "id": 41,
+        "start": 124,
+        "end": 126,
+        "text": " All right."
+      },
+      {
+        "id": 42,
+        "start": 126,
+        "end": 137,
+        "text": " And you're located at 1-8-5-6-2 East Ash Ridge Drive, Queen Creek, Arizona, 85142?"
+      },
+      {
+        "id": 43,
+        "start": 137,
+        "end": 138,
+        "text": " Yes."
+      },
+      {
+        "id": 44,
+        "start": 138,
+        "end": 140,
+        "text": " I'm still there."
+      },
+      {
+        "id": 45,
+        "start": 140,
+        "end": 141,
+        "text": " Great."
+      },
+      {
+        "id": 46,
+        "start": 141,
+        "end": 142,
+        "text": " Okay."
+      },
+      {
+        "id": 47,
+        "start": 142,
+        "end": 146,
+        "text": " So, yeah, the remaining will be out to you very soon."
+      },
+      {
+        "id": 48,
+        "start": 146,
+        "end": 148,
+        "text": " You are located in Arizona."
+      },
+      {
+        "id": 49,
+        "start": 148,
+        "end": 149,
+        "text": " Okay."
+      },
+      {
+        "id": 50,
+        "start": 149,
+        "end": 152,
+        "text": " So, yeah, probably by next Tuesday or Wednesday."
+      },
+      {
+        "id": 51,
+        "start": 152,
+        "end": 154,
+        "text": " I appreciate that."
+      },
+      {
+        "id": 52,
+        "start": 154,
+        "end": 155,
+        "text": " Thank you."
+      },
+      {
+        "id": 53,
+        "start": 155,
+        "end": 156,
+        "text": " Yeah."
+      },
+      {
+        "id": 54,
+        "start": 156,
+        "end": 157,
+        "text": " Have a great day, Eduardo."
+      },
+      {
+        "id": 55,
+        "start": 157,
+        "end": 158,
+        "text": " Thank you."
+      },
+      {
+        "id": 56,
+        "start": 158,
+        "end": 159,
+        "text": " You too."
+      },
+      {
+        "id": 57,
+        "start": 159,
+        "end": 160,
+        "text": " Yeah."
+      },
+      {
+        "id": 58,
+        "start": 160,
+        "end": 161,
+        "text": " Okay."
+      },
+      {
+        "id": 59,
+        "start": 161,
+        "end": 162,
+        "text": " Bye."
+      },
+      {
+        "id": 60,
+        "start": 162,
+        "end": 162,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8157-8718-ca9ed502a0d7",
+    "url": "https://www.notion.so/300000001220917-300000001710918-2f711d0a101c81578718ca9ed502a0d7"
+  },
+  "processedAt": "2026-01-29T00:14:34.219Z"
+}

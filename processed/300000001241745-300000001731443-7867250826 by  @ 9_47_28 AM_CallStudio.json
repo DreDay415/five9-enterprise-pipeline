@@ -1,0 +1,58 @@
+{
+  "recording": {
+    "name": "300000001241745-300000001731443-7867250826 by  @ 9_47_28 AM_CallStudio.wav",
+    "size": 28336,
+    "modifyTime": 1771004887000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241745-300000001731443-7867250826 by  @ 9_47_28 AM_CallStudio.wav",
+    "uploadDate": "2026-02-13T17:48:07.000Z",
+    "callId": "300000001241745-300000001731443",
+    "phoneNumber": "7867250826",
+    "callTimestamp": "2026-02-13T17:48:07.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241745-300000001731443_7867250826.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241745-300000001731443_7867250826.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: Delivery address changed, missed delivery.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 816,
+    "audioDuration": 17.399999618530273,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.159999847412109,
+        "end": 6.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.159999847412109,
+        "end": 10.15999984741211,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.15999984741211,
+        "end": 16.1200008392334,
+        "text": " Delivery address changed, missed delivery."
+      },
+      {
+        "id": 4,
+        "start": 16.1200008392334,
+        "end": 17.079999923706055,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-817a-a7dc-e03d7fdcfeb7",
+    "url": "https://www.notion.so/300000001241745-300000001731443-30611d0a101c817aa7dce03d7fdcfeb7"
+  },
+  "processedAt": "2026-02-13T18:08:41.754Z"
+}

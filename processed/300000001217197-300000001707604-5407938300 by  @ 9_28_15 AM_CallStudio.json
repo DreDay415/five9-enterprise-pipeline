@@ -1,0 +1,37 @@
+{
+  "recording": {
+    "name": "300000001217197-300000001707604-5407938300 by  @ 9_28_15 AM_CallStudio.wav",
+    "size": 47966,
+    "modifyTime": 1769583734000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217197-300000001707604-5407938300 by  @ 9_28_15 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:02:14.000Z",
+    "callId": "300000001217197-300000001707604",
+    "phoneNumber": "5407938300",
+    "callTimestamp": "2026-01-28T07:02:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call. Speak loudly and clearly.\n\nSpeaker 2: We didn't receive a response or I couldn't hear you. Let's try again. Please state the reason for your call.",
+    "duration": 1026,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call. Speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 15,
+        "end": 22,
+        "text": " We didn't receive a response or I couldn't hear your. Let's try again. Please state the reason for your call."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-810c-b5e9-e36e21632f6c",
+    "url": "https://www.notion.so/300000001217197-300000001707604-2f611d0a101c810cb5e9e36e21632f6c"
+  },
+  "processedAt": "2026-01-28T16:08:05.663Z"
+}

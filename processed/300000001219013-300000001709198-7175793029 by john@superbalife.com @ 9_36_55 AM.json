@@ -1,0 +1,116 @@
+{
+  "recording": {
+    "name": "300000001219013-300000001709198-7175793029 by john@superbalife.com @ 9_36_55 AM.wav",
+    "size": 79490,
+    "modifyTime": 1769590341000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219013-300000001709198-7175793029 by john@superbalife.com @ 9_36_55 AM.wav",
+    "uploadDate": "2026-01-28T08:52:21.000Z",
+    "callId": "300000001219013-300000001709198",
+    "agent": "john",
+    "phoneNumber": "7175793029",
+    "callTimestamp": "2026-01-28T09:36:55.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling, this is John, how can I help you?\n\nSpeaker 2: Yes, I'm calling to make sure I am the one who automatically refills.\n\nSpeaker 1: Okay, can I get your name and zip code?\n\nSpeaker 2: Dennis Weaver, 17023.\n\nSpeaker 1: East Arch Street?\n\nSpeaker 2: Arch Street, yep.\n\nSpeaker 1: Yeah, you're set on monthly refills right now, sir.\n\nSpeaker 2: Oh, I don't want all monthly refills.\n\nSpeaker 1: Them things are going to work.\n\nSpeaker 2: They take way too long to work.\n\nSpeaker 1: Takes like 14 hours to work.\n\nSpeaker 2: That ain't fucking good.\n\nSpeaker 1: Well, that means there's something medically wrong with you if it's taken that long.\n\nSpeaker 2: But I've stopped your count, sir.\n\nSpeaker 1: Yep, thank you. Bye.",
+    "duration": 2311,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling, this is John, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10,
+        "text": " Yes, I'm calling to make sure I am the one who automatically refills."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 13,
+        "text": " Okay, can I get your name and zip code?"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 22,
+        "text": " Dennis Weaver, 17023."
+      },
+      {
+        "id": 4,
+        "start": 22,
+        "end": 24,
+        "text": " East Arch Street?"
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 28,
+        "text": " Arch Street, yep."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 31,
+        "text": " Yeah, you're set on monthly refills right now, sir."
+      },
+      {
+        "id": 7,
+        "start": 31,
+        "end": 33,
+        "text": " Oh, I don't want all monthly refills."
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 35,
+        "text": " Them things are going to work."
+      },
+      {
+        "id": 9,
+        "start": 35,
+        "end": 37,
+        "text": " They take way too long to work."
+      },
+      {
+        "id": 10,
+        "start": 37,
+        "end": 39,
+        "text": " Takes like 14 hours to work."
+      },
+      {
+        "id": 11,
+        "start": 39,
+        "end": 41,
+        "text": " That ain't fucking good."
+      },
+      {
+        "id": 12,
+        "start": 41,
+        "end": 44,
+        "text": " Well, that means there's something medically wrong with you if it's taken that long."
+      },
+      {
+        "id": 13,
+        "start": 44,
+        "end": 46,
+        "text": " But I've stopped your count, sir."
+      },
+      {
+        "id": 14,
+        "start": 46,
+        "end": 49,
+        "text": " Yep, thank you. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8141-9e02-d7c67e61e42c",
+    "url": "https://www.notion.so/300000001219013-300000001709198-2f611d0a101c81419e02d7c67e61e42c"
+  },
+  "processedAt": "2026-01-28T12:14:20.237Z"
+}

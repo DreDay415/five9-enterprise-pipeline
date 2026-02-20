@@ -1,0 +1,404 @@
+{
+  "recording": {
+    "name": "300000001240159-300000001730026-8887955826 by LeoF @ 10_03_25 AM.wav",
+    "size": 300100,
+    "modifyTime": 1770919610000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240159-300000001730026-8887955826 by LeoF @ 10_03_25 AM.wav",
+    "uploadDate": "2026-02-12T18:06:50.000Z",
+    "callId": "300000001240159-300000001730026",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-02-12T10:03:25.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, how can I help you?\n\nSpeaker 2: Yes, hi, my name is Peter Doering. I have a prescription with you, I guess. I got something in the mail, and I don't know how it happened. I want to make sure it's going to stop.\n\nSpeaker 1: Do you need an Rx number?\n\nSpeaker 2: Give me just a moment.\n\nSpeaker 1: And what was your last name, sir?\n\nSpeaker 2: My last name is Doering, spelled D-E-A-R-I-N-G.\n\nSpeaker 1: First name?\n\nSpeaker 2: Peter.\n\nSpeaker 1: Okay, Peter, and you said you wanted to get this thing stopped?\n\nSpeaker 2: Well, quite frankly, I don't know how it happened. I got some shipment in the other day.\n\nSpeaker 1: You got an order and it just kept coming?\n\nSpeaker 2: Excuse me?\n\nSpeaker 1: You got an order and a few more just showed up?\n\nSpeaker 2: Well, I don't really recall, to tell you the truth. So I got this without realizing it was coming. I don't really need any more.\n\nSpeaker 1: I don't know, have you been charging me for this?\n\nSpeaker 2: Yeah, you definitely were charged for it, $63.95.\n\nSpeaker 1: $63.95, that's ridiculous.\n\nSpeaker 2: I can get these through my – go ahead.\n\nSpeaker 1: I mean, if you don't want to keep it, you definitely can send it back.\n\nSpeaker 2: I can pause the account for you if you did want to place orders in the future.\n\nSpeaker 1: You should be getting our new Viagra AGB, which other doctors definitely aren't able to prescribe.\n\nSpeaker 2: We're the only FDA-approved vendor of that medicine, but that's neither here nor there.\n\nSpeaker 1: But if you want, like I said, I can pause it for you, Peter.\n\nSpeaker 2: If you did want to cancel, I can help you out with that as well.\n\nSpeaker 1: I just won't be able to fill these orders from you.\n\nSpeaker 2: I want to cancel.\n\nSpeaker 1: Okay, no problem.\n\nSpeaker 2: I can help you out with that.\n\nSpeaker 1: I just won't be able to fill these orders from you in the future.\n\nSpeaker 2: And like I said, we are the only FDA-approved company that gets these pills from Pfizer.\n\nSpeaker 1: Hold on, hold on, hold on.\n\nSpeaker 2: I'm sorry.\n\nSpeaker 1: Yeah, kind of hard to hear and I can't hear you well.\n\nSpeaker 2: You can or cannot cancel for me?\n\nSpeaker 1: I can, of course.\n\nSpeaker 2: But I was letting you know, we are the only FDA-approved company that sells this medicine.\n\nSpeaker 1: So if you get it from your doctor, it could be coming from China or India or something.\n\nSpeaker 2: So I just want to make you aware before I finalize the cancel for you.\n\nSpeaker 1: Yes, I'm aware of that.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay, no problem.\n\nSpeaker 2: So I'm taking care of that for you now.\n\nSpeaker 1: And you are all set.\n\nSpeaker 2: You're not going to get anything else.\n\nSpeaker 1: Okay, Peter?\n\nSpeaker 2: Is there any way to get a confirming email or something on that?\n\nSpeaker 1: Yeah, I can send you a confirmation email.\n\nSpeaker 2: That's no problem.\n\nSpeaker 1: Okay, great.\n\nSpeaker 2: Yeah, you'll see that come by in just the next minute or so.\n\nSpeaker 1: Okay?\n\nSpeaker 2: All righty, thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Enjoy the rest of your day.\n\nSpeaker 1: Bye-bye now.\n\nSpeaker 2: Okay, take care.\n\nSpeaker 1: Bye.",
+    "duration": 6709,
+    "audioDuration": 184.63999938964844,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thanks for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " Yes, hi, my name is Peter Doering."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " I have a prescription with you, I guess."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 14,
+        "text": " I got something in the mail, and I don't know how it happened."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 17,
+        "text": " I want to make sure it's going to stop."
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 21,
+        "text": " Do you need an Rx number?"
+      },
+      {
+        "id": 6,
+        "start": 21,
+        "end": 45,
+        "text": " Give me just a moment."
+      },
+      {
+        "id": 7,
+        "start": 45,
+        "end": 47,
+        "text": " And what was your last name, sir?"
+      },
+      {
+        "id": 8,
+        "start": 47,
+        "end": 54,
+        "text": " My last name is Doering, spelled D-E-A-R-I-N-G."
+      },
+      {
+        "id": 9,
+        "start": 54,
+        "end": 56,
+        "text": " First name?"
+      },
+      {
+        "id": 10,
+        "start": 56,
+        "end": 58,
+        "text": " Peter."
+      },
+      {
+        "id": 11,
+        "start": 58,
+        "end": 61,
+        "text": " Okay, Peter, and you said you wanted to get this thing stopped?"
+      },
+      {
+        "id": 12,
+        "start": 61,
+        "end": 66,
+        "text": " Well, quite frankly, I don't know how it happened."
+      },
+      {
+        "id": 13,
+        "start": 66,
+        "end": 71,
+        "text": " I got some shipment in the other day."
+      },
+      {
+        "id": 14,
+        "start": 71,
+        "end": 73,
+        "text": " You got an order and it just kept coming?"
+      },
+      {
+        "id": 15,
+        "start": 73,
+        "end": 75,
+        "text": " Excuse me?"
+      },
+      {
+        "id": 16,
+        "start": 75,
+        "end": 78,
+        "text": " You got an order and a few more just showed up?"
+      },
+      {
+        "id": 17,
+        "start": 78,
+        "end": 82,
+        "text": " Well, I don't really recall, to tell you the truth."
+      },
+      {
+        "id": 18,
+        "start": 82,
+        "end": 87,
+        "text": " So I got this without realizing it was coming."
+      },
+      {
+        "id": 19,
+        "start": 87,
+        "end": 89,
+        "text": " I don't really need any more."
+      },
+      {
+        "id": 20,
+        "start": 89,
+        "end": 91,
+        "text": " I don't know, have you been charging me for this?"
+      },
+      {
+        "id": 21,
+        "start": 91,
+        "end": 96,
+        "text": " Yeah, you definitely were charged for it, $63.95."
+      },
+      {
+        "id": 22,
+        "start": 96,
+        "end": 99,
+        "text": " $63.95, that's ridiculous."
+      },
+      {
+        "id": 23,
+        "start": 99,
+        "end": 102,
+        "text": " I can get these through my – go ahead."
+      },
+      {
+        "id": 24,
+        "start": 102,
+        "end": 105,
+        "text": " I mean, if you don't want to keep it, you definitely can send it back."
+      },
+      {
+        "id": 25,
+        "start": 105,
+        "end": 109,
+        "text": " I can pause the account for you if you did want to place orders in the future."
+      },
+      {
+        "id": 26,
+        "start": 109,
+        "end": 113,
+        "text": " You should be getting our new Viagra AGB, which other doctors definitely aren't able to prescribe."
+      },
+      {
+        "id": 27,
+        "start": 113,
+        "end": 117,
+        "text": " We're the only FDA-approved vendor of that medicine, but that's neither here nor there."
+      },
+      {
+        "id": 28,
+        "start": 117,
+        "end": 120,
+        "text": " But if you want, like I said, I can pause it for you, Peter."
+      },
+      {
+        "id": 29,
+        "start": 120,
+        "end": 124,
+        "text": " If you did want to cancel, I can help you out with that as well."
+      },
+      {
+        "id": 30,
+        "start": 124,
+        "end": 125,
+        "text": " I just won't be able to fill these orders from you."
+      },
+      {
+        "id": 31,
+        "start": 125,
+        "end": 126,
+        "text": " I want to cancel."
+      },
+      {
+        "id": 32,
+        "start": 126,
+        "end": 127,
+        "text": " Okay, no problem."
+      },
+      {
+        "id": 33,
+        "start": 127,
+        "end": 128,
+        "text": " I can help you out with that."
+      },
+      {
+        "id": 34,
+        "start": 128,
+        "end": 130,
+        "text": " I just won't be able to fill these orders from you in the future."
+      },
+      {
+        "id": 35,
+        "start": 130,
+        "end": 134,
+        "text": " And like I said, we are the only FDA-approved company that gets these pills from Pfizer."
+      },
+      {
+        "id": 36,
+        "start": 134,
+        "end": 135,
+        "text": " Hold on, hold on, hold on."
+      },
+      {
+        "id": 37,
+        "start": 135,
+        "end": 136,
+        "text": " I'm sorry."
+      },
+      {
+        "id": 38,
+        "start": 136,
+        "end": 139,
+        "text": " Yeah, kind of hard to hear and I can't hear you well."
+      },
+      {
+        "id": 39,
+        "start": 139,
+        "end": 141,
+        "text": " You can or cannot cancel for me?"
+      },
+      {
+        "id": 40,
+        "start": 141,
+        "end": 142,
+        "text": " I can, of course."
+      },
+      {
+        "id": 41,
+        "start": 142,
+        "end": 147,
+        "text": " But I was letting you know, we are the only FDA-approved company that sells this medicine."
+      },
+      {
+        "id": 42,
+        "start": 147,
+        "end": 150,
+        "text": " So if you get it from your doctor, it could be coming from China or India or something."
+      },
+      {
+        "id": 43,
+        "start": 150,
+        "end": 154,
+        "text": " So I just want to make you aware before I finalize the cancel for you."
+      },
+      {
+        "id": 44,
+        "start": 154,
+        "end": 156,
+        "text": " Yes, I'm aware of that."
+      },
+      {
+        "id": 45,
+        "start": 156,
+        "end": 157,
+        "text": " Thank you."
+      },
+      {
+        "id": 46,
+        "start": 157,
+        "end": 158,
+        "text": " Okay, no problem."
+      },
+      {
+        "id": 47,
+        "start": 158,
+        "end": 159,
+        "text": " So I'm taking care of that for you now."
+      },
+      {
+        "id": 48,
+        "start": 159,
+        "end": 161,
+        "text": " And you are all set."
+      },
+      {
+        "id": 49,
+        "start": 161,
+        "end": 163,
+        "text": " You're not going to get anything else."
+      },
+      {
+        "id": 50,
+        "start": 163,
+        "end": 164,
+        "text": " Okay, Peter?"
+      },
+      {
+        "id": 51,
+        "start": 164,
+        "end": 167,
+        "text": " Is there any way to get a confirming email or something on that?"
+      },
+      {
+        "id": 52,
+        "start": 167,
+        "end": 169,
+        "text": " Yeah, I can send you a confirmation email."
+      },
+      {
+        "id": 53,
+        "start": 169,
+        "end": 170,
+        "text": " That's no problem."
+      },
+      {
+        "id": 54,
+        "start": 170,
+        "end": 172,
+        "text": " Okay, great."
+      },
+      {
+        "id": 55,
+        "start": 172,
+        "end": 175,
+        "text": " Yeah, you'll see that come by in just the next minute or so."
+      },
+      {
+        "id": 56,
+        "start": 175,
+        "end": 176,
+        "text": " Okay?"
+      },
+      {
+        "id": 57,
+        "start": 176,
+        "end": 178,
+        "text": " All righty, thank you."
+      },
+      {
+        "id": 58,
+        "start": 178,
+        "end": 179,
+        "text": " Thank you."
+      },
+      {
+        "id": 59,
+        "start": 179,
+        "end": 180,
+        "text": " Enjoy the rest of your day."
+      },
+      {
+        "id": 60,
+        "start": 180,
+        "end": 181,
+        "text": " Bye-bye now."
+      },
+      {
+        "id": 61,
+        "start": 181,
+        "end": 182,
+        "text": " Okay, take care."
+      },
+      {
+        "id": 62,
+        "start": 182,
+        "end": 183,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81c4-8eda-d4ea02f2f761",
+    "url": "https://www.notion.so/300000001240159-300000001730026-30511d0a101c81c48edad4ea02f2f761"
+  },
+  "processedAt": "2026-02-12T18:33:12.178Z"
+}

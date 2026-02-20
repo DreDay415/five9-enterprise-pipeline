@@ -1,0 +1,338 @@
+{
+  "recording": {
+    "name": "300000001218084-300000001708160-7344741239 by summer@verifiednutrition.com @ 1_11_08 PM.wav",
+    "size": 253496,
+    "modifyTime": 1769584042000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218084-300000001708160-7344741239 by summer@verifiednutrition.com @ 1_11_08 PM.wav",
+    "uploadDate": "2026-01-28T07:07:22.000Z",
+    "callId": "300000001218084-300000001708160",
+    "agent": "summer",
+    "phoneNumber": "7344741239",
+    "callTimestamp": "2026-01-28T13:11:08.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service, I can help you.\n\nSpeaker 2: Yes, I ordered product, I think it was back in last November,\n\nSpeaker 1: and they shipped me regularly, and I didn't want that.\n\nSpeaker 2: I wanted the new material, and they did send me a replacement\n\nSpeaker 1: of the EGV, which was good.\n\nSpeaker 2: So I just want to find out what does it cost to reorder EGV?\n\nSpeaker 1: It'll be the same pricing.\n\nSpeaker 2: So the EGV is, for 10 pills, it's $49.\n\nSpeaker 1: For 25, it's $99.\n\nSpeaker 2: And for 40, it's $149.\n\nSpeaker 1: I'm sorry, could you say that again?\n\nSpeaker 2: I couldn't hear you.\n\nSpeaker 1: Sure.\n\nSpeaker 2: Can you hear me better?\n\nSpeaker 1: Yeah, that's better.\n\nSpeaker 2: OK, 10 for $49, 25 for $99, and 40 for $149.\n\nSpeaker 1: OK, could I order 25, please, for $99?\n\nSpeaker 2: Sure.\n\nSpeaker 1: Name and birthday?\n\nSpeaker 2: You have all my information.\n\nSpeaker 1: If I give you an RX number, would you be able to find it all?\n\nSpeaker 2: You're in front of me.\n\nSpeaker 1: I just need you to verify your account.\n\nSpeaker 2: Oh, so what do you need, my name?\n\nSpeaker 1: Name and birthday, please.\n\nSpeaker 2: Charles Salter, or Chuck Salter, S-A-L-T-E-R, birthday 6-22-57.\n\nSpeaker 1: Awesome, are you still on, I don't\n\nSpeaker 2: know how to pronounce this street, is it Pier Market Drive?\n\nSpeaker 1: Yes, Pier Market Drive in Grand Blanc, yep.\n\nSpeaker 2: OK, great.\n\nSpeaker 1: All righty, so we wanted a 25.\n\nSpeaker 2: We're going to do 100 milligrams, correct?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Did you want to use the card on file?\n\nSpeaker 1: Well, my card got frauded, so I'm not sure if you've got the,\n\nSpeaker 2: give me the last four digits, and I'll tell you if it's.\n\nSpeaker 1: $59.39?\n\nSpeaker 2: Yeah, no, that got frauded.\n\nSpeaker 1: I'll tell you the replacement card number.\n\nSpeaker 2: Go ahead.\n\nSpeaker 1: 4100-3907-3543-8265, December 28, 021, 021.\n\nSpeaker 2: All righty, I processed that for you.\n\nSpeaker 1: Was there anything else I could assist you with?\n\nSpeaker 2: How long does that take to come?\n\nSpeaker 1: Today is Monday, the day is kind of over,\n\nSpeaker 2: so Tuesday, Wednesday, Thursday, you should get it by Friday.\n\nSpeaker 1: OK, does that come in like an unmarked package?\n\nSpeaker 2: Yes, you probably won't know what it is until you open it.\n\nSpeaker 1: OK, sounds good.\n\nSpeaker 2: All right, thank you very much.\n\nSpeaker 1: You're welcome, bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 8094,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.680000066757202,
+        "text": " Thank you for calling customer service, I can help you."
+      },
+      {
+        "id": 1,
+        "start": 3.680000066757202,
+        "end": 9.199999809265137,
+        "text": " Yes, I ordered product, I think it was back in last November,"
+      },
+      {
+        "id": 2,
+        "start": 9.199999809265137,
+        "end": 12.119999885559082,
+        "text": " and they shipped me regularly, and I didn't want that."
+      },
+      {
+        "id": 3,
+        "start": 12.119999885559082,
+        "end": 16.31999969482422,
+        "text": " I wanted the new material, and they did send me a replacement"
+      },
+      {
+        "id": 4,
+        "start": 16.31999969482422,
+        "end": 18.559999465942383,
+        "text": " of the EGV, which was good."
+      },
+      {
+        "id": 5,
+        "start": 18.559999465942383,
+        "end": 23.280000686645508,
+        "text": " So I just want to find out what does it cost to reorder EGV?"
+      },
+      {
+        "id": 6,
+        "start": 23.280000686645508,
+        "end": 26.600000381469727,
+        "text": " It'll be the same pricing."
+      },
+      {
+        "id": 7,
+        "start": 26.600000381469727,
+        "end": 31.8799991607666,
+        "text": " So the EGV is, for 10 pills, it's $49."
+      },
+      {
+        "id": 8,
+        "start": 31.8799991607666,
+        "end": 33.47999954223633,
+        "text": " For 25, it's $99."
+      },
+      {
+        "id": 9,
+        "start": 33.47999954223633,
+        "end": 36.040000915527344,
+        "text": " And for 40, it's $149."
+      },
+      {
+        "id": 10,
+        "start": 36.040000915527344,
+        "end": 37.560001373291016,
+        "text": " I'm sorry, could you say that again?"
+      },
+      {
+        "id": 11,
+        "start": 37.560001373291016,
+        "end": 38.560001373291016,
+        "text": " I couldn't hear you."
+      },
+      {
+        "id": 12,
+        "start": 38.560001373291016,
+        "end": 39.7599983215332,
+        "text": " Sure."
+      },
+      {
+        "id": 13,
+        "start": 39.7599983215332,
+        "end": 41.15999984741211,
+        "text": " Can you hear me better?"
+      },
+      {
+        "id": 14,
+        "start": 41.15999984741211,
+        "end": 42.36000061035156,
+        "text": " Yeah, that's better."
+      },
+      {
+        "id": 15,
+        "start": 42.36000061035156,
+        "end": 49.91999816894531,
+        "text": " OK, 10 for $49, 25 for $99, and 40 for $149."
+      },
+      {
+        "id": 16,
+        "start": 49.91999816894531,
+        "end": 54.31999969482422,
+        "text": " OK, could I order 25, please, for $99?"
+      },
+      {
+        "id": 17,
+        "start": 54.31999969482422,
+        "end": 55.040000915527344,
+        "text": " Sure."
+      },
+      {
+        "id": 18,
+        "start": 55.040000915527344,
+        "end": 58.15999984741211,
+        "text": " Name and birthday?"
+      },
+      {
+        "id": 19,
+        "start": 58.15999984741211,
+        "end": 59.47999954223633,
+        "text": " You have all my information."
+      },
+      {
+        "id": 20,
+        "start": 59.47999954223633,
+        "end": 63.08000183105469,
+        "text": " If I give you an RX number, would you be able to find it all?"
+      },
+      {
+        "id": 21,
+        "start": 63.08000183105469,
+        "end": 64,
+        "text": " You're in front of me."
+      },
+      {
+        "id": 22,
+        "start": 64,
+        "end": 66.12000274658203,
+        "text": " I just need you to verify your account."
+      },
+      {
+        "id": 23,
+        "start": 66.12000274658203,
+        "end": 68.5999984741211,
+        "text": " Oh, so what do you need, my name?"
+      },
+      {
+        "id": 24,
+        "start": 68.5999984741211,
+        "end": 70.55999755859375,
+        "text": " Name and birthday, please."
+      },
+      {
+        "id": 25,
+        "start": 70.55999755859375,
+        "end": 77.5999984741211,
+        "text": " Charles Salter, or Chuck Salter, S-A-L-T-E-R, birthday 6-22-57."
+      },
+      {
+        "id": 26,
+        "start": 77.5999984741211,
+        "end": 80.63999938964844,
+        "text": " Awesome, are you still on, I don't"
+      },
+      {
+        "id": 27,
+        "start": 80.63999938964844,
+        "end": 84.4000015258789,
+        "text": " know how to pronounce this street, is it Pier Market Drive?"
+      },
+      {
+        "id": 28,
+        "start": 84.4000015258789,
+        "end": 86.95999908447266,
+        "text": " Yes, Pier Market Drive in Grand Blanc, yep."
+      },
+      {
+        "id": 29,
+        "start": 86.95999908447266,
+        "end": 87.83999633789062,
+        "text": " OK, great."
+      },
+      {
+        "id": 30,
+        "start": 87.83999633789062,
+        "end": 90.27999877929688,
+        "text": " All righty, so we wanted a 25."
+      },
+      {
+        "id": 31,
+        "start": 90.27999877929688,
+        "end": 92.68000030517578,
+        "text": " We're going to do 100 milligrams, correct?"
+      },
+      {
+        "id": 32,
+        "start": 92.68000030517578,
+        "end": 93.5199966430664,
+        "text": " Yes."
+      },
+      {
+        "id": 33,
+        "start": 93.5199966430664,
+        "end": 96.55999755859375,
+        "text": " Did you want to use the card on file?"
+      },
+      {
+        "id": 34,
+        "start": 96.55999755859375,
+        "end": 99.08000183105469,
+        "text": " Well, my card got frauded, so I'm not sure if you've got the,"
+      },
+      {
+        "id": 35,
+        "start": 99.08000183105469,
+        "end": 101.80000305175781,
+        "text": " give me the last four digits, and I'll tell you if it's."
+      },
+      {
+        "id": 36,
+        "start": 101.80000305175781,
+        "end": 103.63999938964844,
+        "text": " $59.39?"
+      },
+      {
+        "id": 37,
+        "start": 103.63999938964844,
+        "end": 105.36000061035156,
+        "text": " Yeah, no, that got frauded."
+      },
+      {
+        "id": 38,
+        "start": 105.36000061035156,
+        "end": 108.4000015258789,
+        "text": " I'll tell you the replacement card number."
+      },
+      {
+        "id": 39,
+        "start": 108.4000015258789,
+        "end": 109.63999938964844,
+        "text": " Go ahead."
+      },
+      {
+        "id": 40,
+        "start": 109.63999938964844,
+        "end": 132.47999572753906,
+        "text": " 4100-3907-3543-8265, December 28, 021, 021."
+      },
+      {
+        "id": 41,
+        "start": 132.47999572753906,
+        "end": 134.0399932861328,
+        "text": " All righty, I processed that for you."
+      },
+      {
+        "id": 42,
+        "start": 134.0399932861328,
+        "end": 136.44000244140625,
+        "text": " Was there anything else I could assist you with?"
+      },
+      {
+        "id": 43,
+        "start": 136.44000244140625,
+        "end": 138.8800048828125,
+        "text": " How long does that take to come?"
+      },
+      {
+        "id": 44,
+        "start": 138.9199981689453,
+        "end": 141.44000244140625,
+        "text": " Today is Monday, the day is kind of over,"
+      },
+      {
+        "id": 45,
+        "start": 141.44000244140625,
+        "end": 144.39999389648438,
+        "text": " so Tuesday, Wednesday, Thursday, you should get it by Friday."
+      },
+      {
+        "id": 46,
+        "start": 144.39999389648438,
+        "end": 147.83999633789062,
+        "text": " OK, does that come in like an unmarked package?"
+      },
+      {
+        "id": 47,
+        "start": 147.83999633789062,
+        "end": 151.16000366210938,
+        "text": " Yes, you probably won't know what it is until you open it."
+      },
+      {
+        "id": 48,
+        "start": 151.16000366210938,
+        "end": 152.1999969482422,
+        "text": " OK, sounds good."
+      },
+      {
+        "id": 49,
+        "start": 152.1999969482422,
+        "end": 153.52000427246094,
+        "text": " All right, thank you very much."
+      },
+      {
+        "id": 50,
+        "start": 153.52000427246094,
+        "end": 154.8000030517578,
+        "text": " You're welcome, bye-bye."
+      },
+      {
+        "id": 51,
+        "start": 154.8000030517578,
+        "end": 155.63999938964844,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8189-ae31-d28c1d983164",
+    "url": "https://www.notion.so/300000001218084-300000001708160-2f611d0a101c8189ae31d28c1d983164"
+  },
+  "processedAt": "2026-01-28T15:23:59.769Z"
+}

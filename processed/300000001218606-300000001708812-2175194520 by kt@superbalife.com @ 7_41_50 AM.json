@@ -1,0 +1,44 @@
+{
+  "recording": {
+    "name": "300000001218606-300000001708812-2175194520 by kt@superbalife.com @ 7_41_50 AM.wav",
+    "size": 89436,
+    "modifyTime": 1769592154000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218606-300000001708812-2175194520 by kt@superbalife.com @ 7_41_50 AM.wav",
+    "uploadDate": "2026-01-28T09:22:34.000Z",
+    "callId": "300000001218606-300000001708812",
+    "agent": "kt",
+    "phoneNumber": "2175194520",
+    "callTimestamp": "2026-01-28T07:41:50.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Chris. I can't answer my phone right now. If you need immediate service, please call 425-1958, leave me a message, and I'll call you back. Thanks. Bye.\n\nSpeaker 2: Hey, Chris, this is KP Goodrich from Pfizer Squared Blue. Please feel free to give me a call back at 1-800-675-9807. That's 800-675-9807, extension 0037, and that way you can just get me. I'll be here until 5 p.m.\n\nSpeaker 1: Just to stop back, I wanted to update you on a couple of things. I want to reconnect with you, some great news. Nevertheless, give me a call if you get a chance. Just your will.",
+    "duration": 3198,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 12,
+        "text": " Hi, this is Chris. I can't answer my phone right now. If you need an immediate service, please call 425-1958, leave me a message, and I'll call you back. Thanks. Bye."
+      },
+      {
+        "id": 1,
+        "start": 13,
+        "end": 36,
+        "text": " Hey, Chris, this is KP Goodrich from Pfizer Squared Blue. Please feel free to give me a call back at 1-800-675-9807. That's 800-675-9807, extension 0037, and that way you can just get me. I'll be here until 5 p.m."
+      },
+      {
+        "id": 2,
+        "start": 36,
+        "end": 49,
+        "text": " To stop back, I wanted to update you on a couple of things. I want to reconnect with you, some great news. Nevertheless, give me a call if you get a chance. Just your will."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81c6-9b0c-f0bfbf02ce07",
+    "url": "https://www.notion.so/300000001218606-300000001708812-2f611d0a101c81c69b0cf0bfbf02ce07"
+  },
+  "processedAt": "2026-01-28T10:41:28.424Z"
+}

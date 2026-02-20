@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001221315-300000001711179-2317362951 by  @ 12_25_38 PM_CallStudio.wav",
+    "size": 31000,
+    "modifyTime": 1769631980000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221315-300000001711179-2317362951 by  @ 12_25_38 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T20:26:20.000Z",
+    "callId": "300000001221315-300000001711179",
+    "phoneNumber": "2317362951",
+    "callTimestamp": "2026-01-28T20:26:20.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: You shipped it to the wrong address.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1472,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.239999771118164,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.239999771118164,
+        "end": 7.239999771118164,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.239999771118164,
+        "end": 13.880000114440918,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 13.880000114440918,
+        "end": 17.520000457763672,
+        "text": " You shipped it to the wrong address."
+      },
+      {
+        "id": 4,
+        "start": 17.520000457763672,
+        "end": 18.719999313354492,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81de-a060-d6cc128601d8",
+    "url": "https://www.notion.so/300000001221315-300000001711179-2f611d0a101c81dea060d6cc128601d8"
+  },
+  "processedAt": "2026-01-28T23:04:04.837Z"
+}

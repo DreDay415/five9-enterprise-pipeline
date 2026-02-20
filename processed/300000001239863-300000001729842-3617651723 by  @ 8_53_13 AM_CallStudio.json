@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001239863-300000001729842-3617651723 by  @ 8_53_13 AM_CallStudio.wav",
+    "size": 55896,
+    "modifyTime": 1770915249000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001239863-300000001729842-3617651723 by  @ 8_53_13 AM_CallStudio.wav",
+    "uploadDate": "2026-02-12T16:54:09.000Z",
+    "callId": "300000001239863-300000001729842",
+    "phoneNumber": "3617651723",
+    "callTimestamp": "2026-02-12T16:54:09.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call. Speak loudly and clearly.\n\nSpeaker 2: We didn't receive a response or I couldn't hear you. Let's try again. Please state the reason for your call.\n\nSpeaker 1: Cancellation.\n\nSpeaker 2: I heard you say cancellation. Say yes or press 1 if this is correct.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1491,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call. Speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 15,
+        "end": 22,
+        "text": " We didn't receive a response or I couldn't hear your. Let's try again. Please state the reason for your call."
+      },
+      {
+        "id": 2,
+        "start": 23,
+        "end": 24,
+        "text": " Cancellation."
+      },
+      {
+        "id": 3,
+        "start": 26,
+        "end": 31,
+        "text": " I heard you say cancellation. Say yes or press 1 if this is correct."
+      },
+      {
+        "id": 4,
+        "start": 32,
+        "end": 34,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-811d-8baf-f42efd69dbda",
+    "url": "https://www.notion.so/300000001239863-300000001729842-30511d0a101c811d8baff42efd69dbda"
+  },
+  "processedAt": "2026-02-12T17:03:53.509Z"
+}

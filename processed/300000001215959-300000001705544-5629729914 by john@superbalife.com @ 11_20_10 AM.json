@@ -1,0 +1,170 @@
+{
+  "recording": {
+    "name": "300000001215959-300000001705544-5629729914 by john@superbalife.com @ 11_20_10 AM.wav",
+    "size": 194020,
+    "modifyTime": 1769196139000,
+    "remotePath": "/five9sftp/recordings/Prostagenix CS/1_23_2026/300000001215959-300000001705544-5629729914 by john@superbalife.com @ 11_20_10 AM.wav",
+    "uploadDate": "2026-01-23T19:22:19.000Z",
+    "callId": "300000001215959-300000001705544",
+    "agent": "john",
+    "phoneNumber": "5629729914",
+    "callTimestamp": "2026-01-23T19:20:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Prosthogenics. This is John. How can I help you?\n\nSpeaker 2: Oh, yeah, someone could place an order.\n\nSpeaker 1: Okay, I can help you out with that. Give me one second. You've ordered with us before?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay.\n\nSpeaker 2: System's slow, so bear with me a moment while it pulls up your account.\n\nSpeaker 1: Actually, we don't have another phone number. What's your name, sir?\n\nSpeaker 2: Yeah, Robert Parra.\n\nSpeaker 1: Yeah, P-A-R-R-A, okay, one second.\n\nSpeaker 2: Are you in LA or Pennsylvania? We have two Robert Parras.\n\nSpeaker 1: Oh, LA, okay.\n\nSpeaker 2: The one on Southside Drive, right? That's you?\n\nSpeaker 1: Yes, okay.\n\nSpeaker 2: I see last time you did buy three, get three free. I can extend that to you today if you want to do that again.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Prosthogenics, okay, no vital PSA today.\n\nSpeaker 2: No, okay. So the six total Prosthogenics will be—\n\nSpeaker 1: 159.80. Would you like me to use the Visa that ends in 0495?\n\nSpeaker 2: Yeah, okay.\n\nSpeaker 1: All right, we're all set. Your order went through, Robert.\n\nSpeaker 2: This will probably ship out Monday just based on the timing of today, but we're also in LA, so it should not take long at all.\n\nSpeaker 1: Okay, so one fifty-nine eighty.\n\nSpeaker 2: Yeah, all righty.\n\nSpeaker 1: Okay, thanks.\n\nSpeaker 2: You're welcome. Have a good day.\n\nSpeaker 1: Okay, you too. Bye.",
+    "duration": 3300,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.4800000190734863,
+        "text": " Thanks for calling prosthogenics. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4.559999942779541,
+        "end": 7.099999904632568,
+        "text": " Oh, yeah, someone could place an order"
+      },
+      {
+        "id": 2,
+        "start": 8.399999618530273,
+        "end": 11.300000190734863,
+        "text": " Okay, I can help you out with that. Give me one second. You've ordered with this before"
+      },
+      {
+        "id": 3,
+        "start": 12.15999984741211,
+        "end": 13.760000228881836,
+        "text": " Yes"
+      },
+      {
+        "id": 4,
+        "start": 13.760000228881836,
+        "end": 15.760000228881836,
+        "text": " Okay"
+      },
+      {
+        "id": 5,
+        "start": 19.15999984741211,
+        "end": 21.920000076293945,
+        "text": " Systems slow so bear with me a moment while it pulls up your account"
+      },
+      {
+        "id": 6,
+        "start": 25.31999969482422,
+        "end": 27.479999542236328,
+        "text": " Actually, we don't have another this phone number what's your name sir?"
+      },
+      {
+        "id": 7,
+        "start": 28.239999771118164,
+        "end": 30.239999771118164,
+        "text": " Yeah, Robert Parra"
+      },
+      {
+        "id": 8,
+        "start": 31.079999923706055,
+        "end": 34.880001068115234,
+        "text": " Yeah, P a r r a okay one second"
+      },
+      {
+        "id": 9,
+        "start": 52.720001220703125,
+        "end": 55.63999938964844,
+        "text": " Are you in LA or Pennsylvania we have to Robert Parra's"
+      },
+      {
+        "id": 10,
+        "start": 56.040000915527344,
+        "end": 58.400001525878906,
+        "text": " Oh, LA, okay"
+      },
+      {
+        "id": 11,
+        "start": 59.880001068115234,
+        "end": 61.959999084472656,
+        "text": " The one on Southside Drive, right? That's you"
+      },
+      {
+        "id": 12,
+        "start": 62.599998474121094,
+        "end": 64.5999984741211,
+        "text": " Yes, okay"
+      },
+      {
+        "id": 13,
+        "start": 64.83999633789062,
+        "end": 70.72000122070312,
+        "text": " I see last time you did buy three get three free. I can extend that to you today if you want to do that again"
+      },
+      {
+        "id": 14,
+        "start": 71.95999908447266,
+        "end": 73.5199966430664,
+        "text": " Okay"
+      },
+      {
+        "id": 15,
+        "start": 73.5199966430664,
+        "end": 75.5199966430664,
+        "text": " Yeah"
+      },
+      {
+        "id": 16,
+        "start": 77.31999969482422,
+        "end": 80,
+        "text": " Prosthogenics, okay, no vital PSA today. I"
+      },
+      {
+        "id": 17,
+        "start": 80.72000122070312,
+        "end": 85.63999938964844,
+        "text": " Know okay. So the the six total prosthogenics will be"
+      },
+      {
+        "id": 18,
+        "start": 86.36000061035156,
+        "end": 90.19999694824219,
+        "text": " 15980 would you like me to use the visa that ends in zero four nine five?"
+      },
+      {
+        "id": 19,
+        "start": 90.87999725341797,
+        "end": 92.87999725341797,
+        "text": " Yeah, okay"
+      },
+      {
+        "id": 20,
+        "start": 97.44000244140625,
+        "end": 100.44000244140625,
+        "text": " All right, we're all set your order went through Robert"
+      },
+      {
+        "id": 21,
+        "start": 101.04000091552734,
+        "end": 106.23999786376953,
+        "text": " This will probably ship out Monday just based on the timing of today, but we're also in LA so it should not take long at all"
+      },
+      {
+        "id": 22,
+        "start": 107.19999694824219,
+        "end": 110.19999694824219,
+        "text": " Okay, so one one fifty nine eighty"
+      },
+      {
+        "id": 23,
+        "start": 113.4000015258789,
+        "end": 118.55999755859375,
+        "text": " Yeah, all righty, okay, thanks you're welcome. Have a good day. Okay, you too. Bye"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f411d0a-101c-8123-a05b-dc7a68da7114",
+    "url": "https://www.notion.so/300000001215959-300000001705544-2f411d0a101c8123a05bdc7a68da7114"
+  },
+  "processedAt": "2026-01-26T21:39:59.508Z"
+}

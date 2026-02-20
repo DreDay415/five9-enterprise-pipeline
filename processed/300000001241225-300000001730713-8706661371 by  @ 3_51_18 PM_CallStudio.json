@@ -1,0 +1,64 @@
+{
+  "recording": {
+    "name": "300000001241225-300000001730713-8706661371 by  @ 3_51_18 PM_CallStudio.wav",
+    "size": 33536,
+    "modifyTime": 1770940321000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241225-300000001730713-8706661371 by  @ 3_51_18 PM_CallStudio.wav",
+    "uploadDate": "2026-02-12T23:52:01.000Z",
+    "callId": "300000001241225-300000001730713",
+    "phoneNumber": "8706661371",
+    "callTimestamp": "2026-02-12T23:52:01.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_unknown_300000001241225-300000001730713_8706661371.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_unknown_300000001241225-300000001730713_8706661371.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Your shit is not worth a damn.\n\nSpeaker 1: Is that loud enough and clear?\n\nSpeaker 2: Thanks, transferring to agent.",
+    "duration": 1365,
+    "audioDuration": 20.600000381469727,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.039999961853027,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.039999961853027,
+        "end": 7.039999961853027,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.039999961853027,
+        "end": 11,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 15.239999771118164,
+        "text": " Your shit is not worth a damn."
+      },
+      {
+        "id": 4,
+        "start": 15.239999771118164,
+        "end": 19.1200008392334,
+        "text": " Is that loud enough and clear?"
+      },
+      {
+        "id": 5,
+        "start": 19.1200008392334,
+        "end": 20.31999969482422,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-813c-af8a-ed9b0b891d0e",
+    "url": "https://www.notion.so/300000001241225-300000001730713-30611d0a101c813caf8aed9b0b891d0e"
+  },
+  "processedAt": "2026-02-13T00:03:34.073Z"
+}

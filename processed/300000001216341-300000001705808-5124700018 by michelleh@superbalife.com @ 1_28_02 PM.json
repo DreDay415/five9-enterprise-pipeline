@@ -1,0 +1,194 @@
+{
+  "recording": {
+    "name": "300000001216341-300000001705808-5124700018 by michelleh@superbalife.com @ 1_28_02 PM.wav",
+    "size": 162690,
+    "modifyTime": 1769582831000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216341-300000001705808-5124700018 by michelleh@superbalife.com @ 1_28_02 PM.wav",
+    "uploadDate": "2026-01-28T06:47:11.000Z",
+    "callId": "300000001216341-300000001705808",
+    "agent": "michelleh",
+    "phoneNumber": "5124700018",
+    "callTimestamp": "2026-01-28T13:28:02.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Yes, good afternoon. This is Harvey Micklin checking Austin, Texas.\n\nSpeaker 1: I just placed an order for the Viagra ATV, I think,\n\nSpeaker 2: and I just wanted to verify that that was what I actually ordered.\n\nSpeaker 1: Sure. Hold on one second. I can help you out.\n\nSpeaker 2: Sure.\n\nSpeaker 1: Okay, Harvey, can you just confirm your date of birth?\n\nSpeaker 2: July 12, 1949.\n\nSpeaker 1: Thank you so much. Yes.\n\nSpeaker 2: Yes, I see you ordered a quantity of 25, 50 milligrams of the EGV.\n\nSpeaker 1: Yeah, that's what I was hoping that I ordered, yeah.\n\nSpeaker 2: And that's not on a reorder or anything because I want to try these first\n\nSpeaker 1: and then see if I want to get on the regular schedule or not.\n\nSpeaker 2: Okay, yes, so it does look like the doctor put you on refills every two months,\n\nSpeaker 1: which you do not have to have.\n\nSpeaker 2: What a lot of people like to do is just go ahead and pause that for six months.\n\nSpeaker 1: That way it keeps you locked in at your price point and just allows you\n\nSpeaker 2: and keeps your prescription active so you can just call in whenever you need a refill.\n\nSpeaker 1: If you want, I can pause that for you.\n\nSpeaker 2: Yeah, I'd rather just call in for a refill.\n\nSpeaker 1: That's not a problem. Yeah, that makes sense.\n\nSpeaker 2: I'll pause you until July 31, 2026.\n\nSpeaker 1: Okay, that sounds great.\n\nSpeaker 2: Perfect. You're all set, Harvey.\n\nSpeaker 1: Well, thank you very much. I appreciate it.\n\nSpeaker 2: No problem. Have a great day.\n\nSpeaker 1: You too. Bye-bye.\n\nSpeaker 2: Bye.",
+    "duration": 5432,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 7,
+        "text": " Yes, good afternoon. This is Harvey Micklin checking Austin, Texas."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 12,
+        "text": " I just placed an order for the Viagra ATV, I think,"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 17,
+        "text": " and I just wanted to verify that that was what I actually ordered."
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 20,
+        "text": " Sure. Hold on one second. I can help you out."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 21,
+        "text": " Sure."
+      },
+      {
+        "id": 6,
+        "start": 31,
+        "end": 35,
+        "text": " Okay, Harvey, can you just confirm your date of birth?"
+      },
+      {
+        "id": 7,
+        "start": 35,
+        "end": 38,
+        "text": " July 12, 1949."
+      },
+      {
+        "id": 8,
+        "start": 38,
+        "end": 42,
+        "text": " Thank you so much. Yes."
+      },
+      {
+        "id": 9,
+        "start": 42,
+        "end": 48,
+        "text": " Yes, I see you ordered a quantity of 25, 50 milligrams of the EGV."
+      },
+      {
+        "id": 10,
+        "start": 48,
+        "end": 51,
+        "text": " Yeah, that's what I was hoping that I ordered, yeah."
+      },
+      {
+        "id": 11,
+        "start": 51,
+        "end": 55,
+        "text": " And that's not on a reorder or anything because I want to try these first"
+      },
+      {
+        "id": 12,
+        "start": 55,
+        "end": 59,
+        "text": " and then see if I want to get on the regular schedule or not."
+      },
+      {
+        "id": 13,
+        "start": 59,
+        "end": 64,
+        "text": " Okay, yes, so it does look like the doctor put you on refills every two months,"
+      },
+      {
+        "id": 14,
+        "start": 64,
+        "end": 66,
+        "text": " which you do not have to have."
+      },
+      {
+        "id": 15,
+        "start": 66,
+        "end": 69,
+        "text": " What a lot of people like to do is just go ahead and pause that for six months."
+      },
+      {
+        "id": 16,
+        "start": 69,
+        "end": 73,
+        "text": " That way it keeps you locked in at your price point and just allows you"
+      },
+      {
+        "id": 17,
+        "start": 73,
+        "end": 77,
+        "text": " and keeps your prescription active so you can just call in whenever you need a refill."
+      },
+      {
+        "id": 18,
+        "start": 77,
+        "end": 79,
+        "text": " If you want, I can pause that for you."
+      },
+      {
+        "id": 19,
+        "start": 79,
+        "end": 82,
+        "text": " Yeah, I'd rather just call in for a refill."
+      },
+      {
+        "id": 20,
+        "start": 82,
+        "end": 84,
+        "text": " That's not a problem. Yeah, that makes sense."
+      },
+      {
+        "id": 21,
+        "start": 84,
+        "end": 88,
+        "text": " I'll pause you until July 31, 2026."
+      },
+      {
+        "id": 22,
+        "start": 88,
+        "end": 90,
+        "text": " Okay, that sounds great."
+      },
+      {
+        "id": 23,
+        "start": 90,
+        "end": 92,
+        "text": " Perfect. You're all set, Harvey."
+      },
+      {
+        "id": 24,
+        "start": 92,
+        "end": 94,
+        "text": " Well, thank you very much. I appreciate it."
+      },
+      {
+        "id": 25,
+        "start": 94,
+        "end": 96,
+        "text": " No problem. Have a great day."
+      },
+      {
+        "id": 26,
+        "start": 96,
+        "end": 97,
+        "text": " You too. Bye-bye."
+      },
+      {
+        "id": 27,
+        "start": 97,
+        "end": 100,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8155-ad26-fab7a5b73b07",
+    "url": "https://www.notion.so/300000001216341-300000001705808-2f611d0a101c8155ad26fab7a5b73b07"
+  },
+  "processedAt": "2026-01-28T17:03:20.845Z"
+}

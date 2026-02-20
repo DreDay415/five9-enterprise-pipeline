@@ -1,0 +1,58 @@
+{
+  "recording": {
+    "name": "300000001241529-300000001731302-5414200113 by  @ 8_54_07 AM_CallStudio.wav",
+    "size": 23916,
+    "modifyTime": 1771001683000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241529-300000001731302-5414200113 by  @ 8_54_07 AM_CallStudio.wav",
+    "uploadDate": "2026-02-13T16:54:43.000Z",
+    "callId": "300000001241529-300000001731302",
+    "phoneNumber": "5414200113",
+    "callTimestamp": "2026-02-13T16:54:43.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241529-300000001731302_5414200113.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241529-300000001731302_5414200113.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español marque numero nueve.\n\nSpeaker 2: Cancel.\n\nSpeaker 1: Thanks for transferring to agent.",
+    "duration": 876,
+    "audioDuration": 14.680000305175781,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.239999771118164,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.239999771118164,
+        "end": 7.239999771118164,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.239999771118164,
+        "end": 10.600000381469727,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.600000381469727,
+        "end": 13.039999961853027,
+        "text": " Cancel."
+      },
+      {
+        "id": 4,
+        "start": 13.039999961853027,
+        "end": 14.319999694824219,
+        "text": " Thanks for transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-815a-902f-fa418e716e2c",
+    "url": "https://www.notion.so/300000001241529-300000001731302-30611d0a101c815a902ffa418e716e2c"
+  },
+  "processedAt": "2026-02-13T17:05:37.503Z"
+}

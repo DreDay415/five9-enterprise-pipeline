@@ -1,0 +1,99 @@
+{
+  "recording": {
+    "name": "300000001240185-300000001730042-5743833033 by charles@superbalife.com @ 10_12_32 AM.wav",
+    "size": 112640,
+    "modifyTime": 1770920043000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240185-300000001730042-5743833033 by charles@superbalife.com @ 10_12_32 AM.wav",
+    "uploadDate": "2026-02-12T18:14:03.000Z",
+    "callId": "300000001240185-300000001730042",
+    "agent": "charles",
+    "phoneNumber": "5743833033",
+    "callTimestamp": "2026-02-12T10:12:32.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra. This is Charles.\n\nSpeaker 2: Yeah, I sent a text or an email to you guys wanting to cancel that prescription and I got an email saying to give this phone number a call to cancel.\n\nSpeaker 1: Correct. Yeah, we don't do any cancellations over email. Reason being is because a lot of dudes will try to pretend that they're them. Come to find out the guy never wants to cancel. So we just have everybody call in and confirm everything.\n\nSpeaker 2: So I got Chester Creech in Bonita Springs, Florida. That is correct.\n\nSpeaker 1: Okay, it does look like you just became a VIP member here. Was there an issue with the pills?\n\nSpeaker 2: Yeah, I tried a couple of them. It's just not for me.\n\nSpeaker 1: They're not for you?\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right. How about Cialis? Have you ever tried Cialis before? I can show you a sample of that if you haven't tried it before.\n\nSpeaker 2: No, no, I just want to opt out altogether.\n\nSpeaker 1: Okay. All right. Sorry, didn't work out, brother. Everything is canceled from here on out. I hope you have a great rest of your day.\n\nSpeaker 2: Okay, thank you. Bye.",
+    "duration": 2515,
+    "audioDuration": 69.27999877929688,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8.680000305175781,
+        "text": " Thanks for calling Viagra. This is Charles. Yeah, I sent a text or an email to you guys"
+      },
+      {
+        "id": 1,
+        "start": 8.680000305175781,
+        "end": 13.600000381469727,
+        "text": " wanting to cancel that prescription and I got an email saying to give this phone number"
+      },
+      {
+        "id": 2,
+        "start": 13.600000381469727,
+        "end": 19.799999237060547,
+        "text": " a call to cancel. Correct. Yeah, we don't do any cancellations over email. Reason being"
+      },
+      {
+        "id": 3,
+        "start": 19.799999237060547,
+        "end": 22.959999084472656,
+        "text": " is because a lot of dudes wise will try to pretend that they're them come to find out"
+      },
+      {
+        "id": 4,
+        "start": 22.959999084472656,
+        "end": 28.040000915527344,
+        "text": " the guy never wants to cancel. So we just have everybody call in and confirm everything."
+      },
+      {
+        "id": 5,
+        "start": 28.040000915527344,
+        "end": 36.84000015258789,
+        "text": " So I got Chester Creech in Bonita Springs, Florida. That is correct. Okay, it does look"
+      },
+      {
+        "id": 6,
+        "start": 36.84000015258789,
+        "end": 43.79999923706055,
+        "text": " like you just became a VIP member here. Was there an issue with the pills? Yeah, I tried"
+      },
+      {
+        "id": 7,
+        "start": 43.79999923706055,
+        "end": 51.040000915527344,
+        "text": " a couple of them. It's just not for me. They're not for you. Okay. All right. How about Cialis?"
+      },
+      {
+        "id": 8,
+        "start": 51.040000915527344,
+        "end": 55.08000183105469,
+        "text": " Have you ever tried Cialis before? I can show you a sample of that if you haven't tried"
+      },
+      {
+        "id": 9,
+        "start": 55.08000183105469,
+        "end": 61.7599983215332,
+        "text": " it before. No, no, I just want to opt out altogether. Okay. All right. Sorry, didn't"
+      },
+      {
+        "id": 10,
+        "start": 61.7599983215332,
+        "end": 64.91999816894531,
+        "text": " work out, brother. Everything is canceled from here on out. I hope you have a great"
+      },
+      {
+        "id": 11,
+        "start": 64.91999816894531,
+        "end": 68.16000366210938,
+        "text": " rest of your day. Okay, thank you. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8117-b549-e2c567090339",
+    "url": "https://www.notion.so/300000001240185-300000001730042-30511d0a101c8117b549e2c567090339"
+  },
+  "processedAt": "2026-02-12T18:29:02.328Z"
+}

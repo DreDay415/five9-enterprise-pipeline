@@ -1,0 +1,140 @@
+{
+  "recording": {
+    "name": "300000001216959-300000001707412-2488047047 by gabriela@superbalife.com @ 8_38_41 AM.wav",
+    "size": 143256,
+    "modifyTime": 1769587037000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216959-300000001707412-2488047047 by gabriela@superbalife.com @ 8_38_41 AM.wav",
+    "uploadDate": "2026-01-28T07:57:17.000Z",
+    "callId": "300000001216959-300000001707412",
+    "agent": "gabriela",
+    "phoneNumber": "2488047047",
+    "callTimestamp": "2026-01-28T08:38:41.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Yes, I placed an order and somehow it didn't go through.\n\nSpeaker 1: Oh, let's take a look. What's your name and date of birth?\n\nSpeaker 2: Robert Wilson, 8-1-51.\n\nSpeaker 1: Thank you, Robert. Okay, yeah, so I do see here that you did place an order three days ago.\n\nSpeaker 2: It looks like your prescription hasn't been approved because the doctor does have a question.\n\nSpeaker 1: He asked, well, he said, I noticed you have a recent prescription for temosulicin.\n\nSpeaker 2: Are you taking temosulicin?\n\nSpeaker 1: No.\n\nSpeaker 2: Okay, because it looks like you have a recent prescription for it, so you're no longer taking it?\n\nSpeaker 1: What is it? What's the name of it again?\n\nSpeaker 2: Temosulicin, T-A-M-S-U-L-O.\n\nSpeaker 1: No, no, I'm not taking that. I'm never taking that.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, great. So I notified the doctor and hopefully once he sees you, he can go ahead and approve your prescription, okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, so you're all set for right now, Robert.\n\nSpeaker 2: All right, thank you. Bye.\n\nSpeaker 1: Okay, you're welcome. Bye.",
+    "duration": 3132,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 9,
+        "text": " Yes, I placed an order and somehow it didn't go through."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 13,
+        "text": " Oh, let's take a look. What's your name and date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 19,
+        "text": " Robert Wilson, 8-1-51."
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 24,
+        "text": " Thank you, Robert. Okay, yeah, so I do see here that you did place an order three days ago."
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 30,
+        "text": " It looks like your prescription hasn't been approved because the doctor does have a question."
+      },
+      {
+        "id": 6,
+        "start": 30,
+        "end": 36,
+        "text": " He asked, well, he said, I noticed you have a recent prescription for temosulicin."
+      },
+      {
+        "id": 7,
+        "start": 36,
+        "end": 40,
+        "text": " Are you taking temosulicin?"
+      },
+      {
+        "id": 8,
+        "start": 40,
+        "end": 44,
+        "text": " No."
+      },
+      {
+        "id": 9,
+        "start": 44,
+        "end": 52,
+        "text": " Okay, because it looks like you have a recent prescription for it, so you're no longer taking it?"
+      },
+      {
+        "id": 10,
+        "start": 52,
+        "end": 55,
+        "text": " What is it? What's the name of it again?"
+      },
+      {
+        "id": 11,
+        "start": 55,
+        "end": 59,
+        "text": " Temosulicin, T-A-M-S-U-L-O."
+      },
+      {
+        "id": 12,
+        "start": 59,
+        "end": 63,
+        "text": " No, no, I'm not taking that. I'm never taking that."
+      },
+      {
+        "id": 13,
+        "start": 63,
+        "end": 71,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 71,
+        "end": 78,
+        "text": " Okay, great. So I notified the doctor and hopefully once he sees you, he can go ahead and approve your prescription, okay?"
+      },
+      {
+        "id": 15,
+        "start": 78,
+        "end": 81,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 81,
+        "end": 84,
+        "text": " Okay, so you're all set for right now, Robert."
+      },
+      {
+        "id": 17,
+        "start": 84,
+        "end": 86,
+        "text": " All right, thank you. Bye."
+      },
+      {
+        "id": 18,
+        "start": 86,
+        "end": 88,
+        "text": " Okay, you're welcome. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81bf-b0f9-cfdb3e474cb2",
+    "url": "https://www.notion.so/300000001216959-300000001707412-2f611d0a101c81bfb0f9cfdb3e474cb2"
+  },
+  "processedAt": "2026-01-28T13:29:27.748Z"
+}

@@ -1,0 +1,278 @@
+{
+  "recording": {
+    "name": "300000001222686-300000001712369-7142723921 by jimmy@superbalife.com @ 11_20_57 AM.wav",
+    "size": 240236,
+    "modifyTime": 1769714627000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222686-300000001712369-7142723921 by jimmy@superbalife.com @ 11_20_57 AM.wav",
+    "uploadDate": "2026-01-29T19:23:47.000Z",
+    "callId": "300000001222686-300000001712369",
+    "agent": "jimmy",
+    "phoneNumber": "7142723921",
+    "callTimestamp": "2026-01-29T11:20:57.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Jimmy. How can I help you today?\n\nSpeaker 2: Yeah, I want to see if I accidentally just placed an order, and I want to see if I can cancel that.\n\nSpeaker 1: And then I want to see if I can cancel my subscription.\n\nSpeaker 2: All right. Let me see what's going on, if I have the information up.\n\nSpeaker 1: So something happened? I let you place it, and you just want to cancel it? What's going on?\n\nSpeaker 2: Yeah, I did. I accidentally – I was trying to cancel, but it didn't automatically reorder.\n\nSpeaker 1: And I just wanted to cancel the automatic reorder.\n\nSpeaker 2: And then when I was trying to do that, I accidentally just placed another order.\n\nSpeaker 1: I got you. I see. So I do see the order that is at the pharmacy.\n\nSpeaker 2: You were getting the 50 milligrams of Viagra. You're getting 10 of them every month?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay. So the one – obviously, you don't want to try to get the one that's at the pharmacy today,\n\nSpeaker 1: so I'm going to go ahead and cancel that for you and issue a refund for that one.\n\nSpeaker 2: Perfect.\n\nSpeaker 1: Okay. And I do see that you did have the every-month prescription with us.\n\nSpeaker 2: Yes.\n\nSpeaker 1: How's it working for you? Have you tried them, or what's going on?\n\nSpeaker 2: Why do you want to cancel, if you don't mind?\n\nSpeaker 1: I just don't need them.\n\nSpeaker 2: Okay. You know, to keep your prescription, if you like, you don't have to get them every month.\n\nSpeaker 1: We can pause it or put a hold on it for five or six months, give you a chance to get caught up to use them.\n\nSpeaker 2: Therefore, they're not coming to you every month.\n\nSpeaker 1: So when you do want to order in the future, if you do, basically, you won't be – you keep your discount price,\n\nSpeaker 2: because our pills come from the labs in Pfizer, France.\n\nSpeaker 1: And basically, that's going to go up drastically once the tariff starts to come in.\n\nSpeaker 2: But if you already have a prescription on file, you won't get hit with the –\n\nSpeaker 1: it's going to be like two or three times more without a prescription on file to just order stand-alone orders.\n\nSpeaker 2: Can I just put it on hold, like just an indefinite hold?\n\nSpeaker 1: I can push it out for like five or six months.\n\nSpeaker 2: Actually, just cancel it for me, please.\n\nSpeaker 1: Okay. Like I said, if we cancel it, that means you wouldn't be on a prescription,\n\nSpeaker 2: and you did try to order on a first-come, first-served basis.\n\nSpeaker 1: And that means chances that you probably couldn't get it.\n\nSpeaker 2: And if you did, it's going to be like three times more than what you're paying now.\n\nSpeaker 1: Okay. I'm good with that.\n\nSpeaker 2: Okay. No, I'm good with that.\n\nSpeaker 1: All right. I just wanted to take care of that for you.\n\nSpeaker 2: Okay. Awesome.\n\nSpeaker 1: Okay. Have a great day.\n\nSpeaker 2: Thank you very much.\n\nSpeaker 1: Thank you. Bye-bye.\n\nSpeaker 2: Bye.",
+    "duration": 7050,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. This is Jimmy. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 9,
+        "text": " Yeah, I want to see if I accidentally just placed an order, and I want to see if I can cancel that."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 12,
+        "text": " And then I want to see if I can cancel my subscription."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 16,
+        "text": " All right. Let me see what's going on, if I have the information up."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 21,
+        "text": " So something happened? I let you place it, and you just want to cancel it? What's going on?"
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 26,
+        "text": " Yeah, I did. I accidentally – I was trying to cancel, but it didn't automatically reorder."
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 32,
+        "text": " And I just wanted to cancel the automatic reorder."
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 36,
+        "text": " And then when I was trying to do that, I accidentally just placed another order."
+      },
+      {
+        "id": 8,
+        "start": 36,
+        "end": 41,
+        "text": " I got you. I see. So I do see the order that is at the pharmacy."
+      },
+      {
+        "id": 9,
+        "start": 41,
+        "end": 48,
+        "text": " You were getting the 50 milligrams of Viagra. You're getting 10 of them every month?"
+      },
+      {
+        "id": 10,
+        "start": 48,
+        "end": 49,
+        "text": " Yes."
+      },
+      {
+        "id": 11,
+        "start": 49,
+        "end": 52,
+        "text": " Okay. So the one – obviously, you don't want to try to get the one that's at the pharmacy today,"
+      },
+      {
+        "id": 12,
+        "start": 53,
+        "end": 57,
+        "text": " so I'm going to go ahead and cancel that for you and issue a refund for that one."
+      },
+      {
+        "id": 13,
+        "start": 57,
+        "end": 58,
+        "text": " Perfect."
+      },
+      {
+        "id": 14,
+        "start": 58,
+        "end": 64,
+        "text": " Okay. And I do see that you did have the every-month prescription with us."
+      },
+      {
+        "id": 15,
+        "start": 64,
+        "end": 65,
+        "text": " Yes."
+      },
+      {
+        "id": 16,
+        "start": 65,
+        "end": 67,
+        "text": " How's it working for you? Have you tried them, or what's going on?"
+      },
+      {
+        "id": 17,
+        "start": 67,
+        "end": 70,
+        "text": " Why do you want to cancel, if you don't mind?"
+      },
+      {
+        "id": 18,
+        "start": 70,
+        "end": 72,
+        "text": " I just don't need them."
+      },
+      {
+        "id": 19,
+        "start": 72,
+        "end": 76,
+        "text": " Okay. You know, to keep your prescription, if you like, you don't have to get them every month."
+      },
+      {
+        "id": 20,
+        "start": 76,
+        "end": 81,
+        "text": " We can pause it or put a hold on it for five or six months, give you a chance to get caught up to use them."
+      },
+      {
+        "id": 21,
+        "start": 81,
+        "end": 83,
+        "text": " Therefore, they're not coming to you every month."
+      },
+      {
+        "id": 22,
+        "start": 83,
+        "end": 90,
+        "text": " So when you do want to order in the future, if you do, basically, you won't be – you keep your discount price,"
+      },
+      {
+        "id": 23,
+        "start": 90,
+        "end": 93,
+        "text": " because our pills come from the labs in Pfizer, France."
+      },
+      {
+        "id": 24,
+        "start": 93,
+        "end": 98,
+        "text": " And basically, that's going to go up drastically once the tariff starts to come in."
+      },
+      {
+        "id": 25,
+        "start": 98,
+        "end": 102,
+        "text": " But if you already have a prescription on file, you won't get hit with the –"
+      },
+      {
+        "id": 26,
+        "start": 102,
+        "end": 108,
+        "text": " it's going to be like two or three times more without a prescription on file to just order stand-alone orders."
+      },
+      {
+        "id": 27,
+        "start": 109,
+        "end": 113,
+        "text": " Can I just put it on hold, like just an indefinite hold?"
+      },
+      {
+        "id": 28,
+        "start": 113,
+        "end": 117,
+        "text": " I can push it out for like five or six months."
+      },
+      {
+        "id": 29,
+        "start": 117,
+        "end": 120,
+        "text": " Actually, just cancel it for me, please."
+      },
+      {
+        "id": 30,
+        "start": 120,
+        "end": 124,
+        "text": " Okay. Like I said, if we cancel it, that means you wouldn't be on a prescription,"
+      },
+      {
+        "id": 31,
+        "start": 124,
+        "end": 127,
+        "text": " and you did try to order on a first-come, first-served basis."
+      },
+      {
+        "id": 32,
+        "start": 127,
+        "end": 130,
+        "text": " And that means chances that you probably couldn't get it."
+      },
+      {
+        "id": 33,
+        "start": 130,
+        "end": 133,
+        "text": " And if you did, it's going to be like three times more than what you're paying now."
+      },
+      {
+        "id": 34,
+        "start": 133,
+        "end": 135,
+        "text": " Okay. I'm good with that."
+      },
+      {
+        "id": 35,
+        "start": 135,
+        "end": 137,
+        "text": " Okay. No, I'm good with that."
+      },
+      {
+        "id": 36,
+        "start": 137,
+        "end": 139,
+        "text": " All right. I just wanted to take care of that for you."
+      },
+      {
+        "id": 37,
+        "start": 139,
+        "end": 141,
+        "text": " Okay. Awesome."
+      },
+      {
+        "id": 38,
+        "start": 141,
+        "end": 143,
+        "text": " Okay. Have a great day."
+      },
+      {
+        "id": 39,
+        "start": 143,
+        "end": 145,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 40,
+        "start": 145,
+        "end": 146,
+        "text": " Thank you. Bye-bye."
+      },
+      {
+        "id": 41,
+        "start": 146,
+        "end": 147,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81f9-86c4-c182f0873b55",
+    "url": "https://www.notion.so/300000001222686-300000001712369-2f711d0a101c81f986c4c182f0873b55"
+  },
+  "processedAt": "2026-01-29T21:58:42.219Z"
+}

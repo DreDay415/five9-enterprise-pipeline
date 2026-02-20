@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001216328-300000001705805-8887955826 by  @ 1_25_07 PM_CallStudio.wav",
+    "size": 50826,
+    "modifyTime": 1769582231000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216328-300000001705805-8887955826 by  @ 1_25_07 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T06:37:11.000Z",
+    "callId": "300000001216328-300000001705805",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T06:37:11.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call. Speak loudly and clearly.\n\nSpeaker 2: Para Español Marque Número Nueve.\n\nSpeaker 1: A mistake on my order.\n\nSpeaker 2: This is a natural language AI. Just say what you would like to do.\n\nSpeaker 1: For example, track an order or send me to the billing department.\n\nSpeaker 2: Let's try again. Please state the reason for your call.\n\nSpeaker 1: Wrong medicine.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 1275,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call. Speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 10,
+        "text": " Para Español Marque Número Nueve."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 13,
+        "text": " A mistake on my order."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 17,
+        "text": " This is a natural language AI. Just say what you would like to do."
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 21,
+        "text": " For example, track an order or send me to the billing department."
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 26,
+        "text": " Let's try again. Please state the reason for your call."
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 29,
+        "text": " Wrong medicine."
+      },
+      {
+        "id": 7,
+        "start": 29,
+        "end": 32,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81c1-b428-ee8f502ee85e",
+    "url": "https://www.notion.so/300000001216328-300000001705805-2f611d0a101c81c1b428ee8f502ee85e"
+  },
+  "processedAt": "2026-01-28T17:33:29.738Z"
+}

@@ -1,0 +1,440 @@
+{
+  "recording": {
+    "name": "300000001222991-300000001712574-6164906317 by olivia@superbalife.com @ 1_15_19 PM.wav",
+    "size": 395520,
+    "modifyTime": 1769721584000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222991-300000001712574-6164906317 by olivia@superbalife.com @ 1_15_19 PM.wav",
+    "uploadDate": "2026-01-29T21:19:44.000Z",
+    "callId": "300000001222991-300000001712574",
+    "agent": "olivia",
+    "phoneNumber": "6164906317",
+    "callTimestamp": "2026-01-29T13:15:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Olivia speaking.\n\nSpeaker 2: Who do I have the pleasure of speaking with today?\n\nSpeaker 1: My name is Randall Schaefer. I had placed an order.\n\nSpeaker 2: Hi. You probably need an order number. I received my package today, my order today,\n\nSpeaker 1: but it's not what I thought I was getting.\n\nSpeaker 2: Yeah, I can definitely help you with this.\n\nSpeaker 1: Okay, what is your date of birth, Randall?\n\nSpeaker 2: 2-8-54.\n\nSpeaker 1: Perfect. And you're located at 601 Village Court, Travis City, Michigan?\n\nSpeaker 2: Yes. Correct.\n\nSpeaker 1: Okay, great. Yeah, so I do see your order here.\n\nSpeaker 2: Okay, yes, you said the order wasn't what you were anticipating.\n\nSpeaker 1: Well, it says it's the generic Viagra. I thought I was getting the AVG.\n\nSpeaker 2: Yeah. Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Is this the AVG? This is just regular Viagra, right?\n\nSpeaker 1: This is – so you should have received the AGV, and you're saying you didn't.\n\nSpeaker 2: I don't think I did. I mean, on the bottle, it says generic or Viagra.\n\nSpeaker 1: It's Psyllidine fill, 50 milligrams.\n\nSpeaker 2: It doesn't say anywhere on there that it's AVG.\n\nSpeaker 1: Yeah, so do you have the pills with you?\n\nSpeaker 2: Yes, I do.\n\nSpeaker 1: Yeah, can you take them out and tell me what the pills say on them?\n\nSpeaker 2: Sure. I didn't do that yet. I could do that.\n\nSpeaker 1: Yeah, maybe they are. I just – it doesn't say anywhere on the bottle or anything,\n\nSpeaker 2: so I'm a little bit confused, and so I thought I'd better call.\n\nSpeaker 1: Let's see. I've got to get my glasses, though.\n\nSpeaker 2: You just want to know what letters are on there?\n\nSpeaker 1: Yeah. Yeah, that would be great.\n\nSpeaker 2: Okay. It's got AC339.\n\nSpeaker 1: Yeah, so – okay.\n\nSpeaker 2: So, yeah, you did receive the generic.\n\nSpeaker 1: I will send you out as a replacement, obviously, on us, because you already paid for it.\n\nSpeaker 2: The AGV.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Sorry about that.\n\nSpeaker 1: No, it happens. I understand. I thought maybe I screwed up.\n\nSpeaker 2: Yeah. No, you're fine.\n\nSpeaker 1: Yeah. No, you're fine.\n\nSpeaker 2: Okay, so we'll do 50 milligrams. We'll do 10 pills.\n\nSpeaker 1: Can I ship this to 601 Village Court, Traverse City, Michigan?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Correct, yes.\n\nSpeaker 1: All righty.\n\nSpeaker 2: You can't take these back, can you? I mean, because I've touched them now, so you can't –\n\nSpeaker 1: No.\n\nSpeaker 2: Okay.\n\nSpeaker 1: No, so you can just throw them away, keep them, whatever you want to do.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yeah, and if you need anything in the future, we're always here at this phone number,\n\nSpeaker 2: Monday through Friday, 8 to 5 Pacific.\n\nSpeaker 1: And the way you will know that these are the AGV is on them, the pills will say 5-0 for 50.\n\nSpeaker 2: Right.\n\nSpeaker 1: And then – so the pills will say 5-0, and then the side of the bottle will say Greenstone,\n\nSpeaker 2: because that's the manufacturer.\n\nSpeaker 1: And as long as you take them on an empty stomach and you avoid alcohol the day you take them,\n\nSpeaker 2: you will definitely notice a significant improvement compared to regular Viagra.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, I appreciate your help. Your name was what, Olivia, you said?\n\nSpeaker 1: Olivia, that's right.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: I appreciate your help very much. Thank you.\n\nSpeaker 1: Of course. Thank you so much, Randall. I hope you have a great day.\n\nSpeaker 2: You bet.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thank you. You too. Bye-bye.\n\nSpeaker 1: Bye.",
+    "duration": 12911,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.5,
+        "text": " Thank you for calling Viagra. This is Olivia speaking."
+      },
+      {
+        "id": 1,
+        "start": 4.5,
+        "end": 7.099999904632568,
+        "text": " Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 2,
+        "start": 7.099999904632568,
+        "end": 12,
+        "text": " My name is Randall Schaefer. I had placed an order."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 18,
+        "text": " Hi. You probably need an order number. I received my package today, my order today,"
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 21,
+        "text": " but it's not what I thought I was getting."
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 24,
+        "text": " Yeah, I can definitely help you with this."
+      },
+      {
+        "id": 6,
+        "start": 24,
+        "end": 26.5,
+        "text": " Okay, what is your date of birth, Randall?"
+      },
+      {
+        "id": 7,
+        "start": 26.5,
+        "end": 29,
+        "text": " 2-8-54."
+      },
+      {
+        "id": 8,
+        "start": 30,
+        "end": 35.5,
+        "text": " Perfect. And you're located at 601 Village Court, Travis City, Michigan?"
+      },
+      {
+        "id": 9,
+        "start": 35.5,
+        "end": 37,
+        "text": " Yes. Correct."
+      },
+      {
+        "id": 10,
+        "start": 37,
+        "end": 41,
+        "text": " Okay, great. Yeah, so I do see your order here."
+      },
+      {
+        "id": 11,
+        "start": 41,
+        "end": 46,
+        "text": " Okay, yes, you said the order wasn't what you were anticipating."
+      },
+      {
+        "id": 12,
+        "start": 46,
+        "end": 51,
+        "text": " Well, it says it's the generic Viagra. I thought I was getting the AVG."
+      },
+      {
+        "id": 13,
+        "start": 53.5,
+        "end": 57,
+        "text": " Yeah. Yeah."
+      },
+      {
+        "id": 14,
+        "start": 59.5,
+        "end": 60.5,
+        "text": " Okay."
+      },
+      {
+        "id": 15,
+        "start": 60.5,
+        "end": 64.5,
+        "text": " Is this the AVG? This is just regular Viagra, right?"
+      },
+      {
+        "id": 16,
+        "start": 66.5,
+        "end": 75.5,
+        "text": " This is – so you should have received the AGV, and you're saying you didn't."
+      },
+      {
+        "id": 17,
+        "start": 75.5,
+        "end": 80,
+        "text": " I don't think I did. I mean, on the bottle, it says generic or Viagra."
+      },
+      {
+        "id": 18,
+        "start": 80,
+        "end": 84,
+        "text": " It's Psyllidine fill, 50 milligrams."
+      },
+      {
+        "id": 19,
+        "start": 84,
+        "end": 87.5,
+        "text": " It doesn't say anywhere on there that it's AVG."
+      },
+      {
+        "id": 20,
+        "start": 88.5,
+        "end": 96.5,
+        "text": " Yeah, so do you have the pills with you?"
+      },
+      {
+        "id": 21,
+        "start": 96.5,
+        "end": 98.5,
+        "text": " Yes, I do."
+      },
+      {
+        "id": 22,
+        "start": 98.5,
+        "end": 103,
+        "text": " Yeah, can you take them out and tell me what the pills say on them?"
+      },
+      {
+        "id": 23,
+        "start": 103,
+        "end": 107.5,
+        "text": " Sure. I didn't do that yet. I could do that."
+      },
+      {
+        "id": 24,
+        "start": 107.5,
+        "end": 111.5,
+        "text": " Yeah, maybe they are. I just – it doesn't say anywhere on the bottle or anything,"
+      },
+      {
+        "id": 25,
+        "start": 111.5,
+        "end": 115.5,
+        "text": " so I'm a little bit confused, and so I thought I'd better call."
+      },
+      {
+        "id": 26,
+        "start": 115.5,
+        "end": 118.5,
+        "text": " Let's see. I've got to get my glasses, though."
+      },
+      {
+        "id": 27,
+        "start": 118.5,
+        "end": 121.5,
+        "text": " You just want to know what letters are on there?"
+      },
+      {
+        "id": 28,
+        "start": 123.5,
+        "end": 126.5,
+        "text": " Yeah. Yeah, that would be great."
+      },
+      {
+        "id": 29,
+        "start": 128.5,
+        "end": 134.5,
+        "text": " Okay. It's got AC339."
+      },
+      {
+        "id": 30,
+        "start": 135.5,
+        "end": 140.5,
+        "text": " Yeah, so – okay."
+      },
+      {
+        "id": 31,
+        "start": 140.5,
+        "end": 144.5,
+        "text": " So, yeah, you did receive the generic."
+      },
+      {
+        "id": 32,
+        "start": 144.5,
+        "end": 149.5,
+        "text": " I will send you out as a replacement, obviously, on us, because you already paid for it."
+      },
+      {
+        "id": 33,
+        "start": 149.5,
+        "end": 151.5,
+        "text": " The AGV."
+      },
+      {
+        "id": 34,
+        "start": 151.5,
+        "end": 152.5,
+        "text": " Okay."
+      },
+      {
+        "id": 35,
+        "start": 152.5,
+        "end": 154.5,
+        "text": " Sorry about that."
+      },
+      {
+        "id": 36,
+        "start": 154.5,
+        "end": 157.5,
+        "text": " No, it happens. I understand. I thought maybe I screwed up."
+      },
+      {
+        "id": 37,
+        "start": 157.5,
+        "end": 159.5,
+        "text": " Yeah. No, you're fine."
+      },
+      {
+        "id": 38,
+        "start": 159.5,
+        "end": 161.5,
+        "text": " Yeah. No, you're fine."
+      },
+      {
+        "id": 39,
+        "start": 161.5,
+        "end": 165.5,
+        "text": " Okay, so we'll do 50 milligrams. We'll do 10 pills."
+      },
+      {
+        "id": 40,
+        "start": 165.5,
+        "end": 171.5,
+        "text": " Can I ship this to 601 Village Court, Traverse City, Michigan?"
+      },
+      {
+        "id": 41,
+        "start": 171.5,
+        "end": 172.5,
+        "text": " Yes."
+      },
+      {
+        "id": 42,
+        "start": 172.5,
+        "end": 173.5,
+        "text": " Okay."
+      },
+      {
+        "id": 43,
+        "start": 173.5,
+        "end": 174.5,
+        "text": " Correct, yes."
+      },
+      {
+        "id": 44,
+        "start": 174.5,
+        "end": 175.5,
+        "text": " All righty."
+      },
+      {
+        "id": 45,
+        "start": 175.5,
+        "end": 179.5,
+        "text": " You can't take these back, can you? I mean, because I've touched them now, so you can't –"
+      },
+      {
+        "id": 46,
+        "start": 179.5,
+        "end": 180.5,
+        "text": " No."
+      },
+      {
+        "id": 47,
+        "start": 180.5,
+        "end": 181.5,
+        "text": " Okay."
+      },
+      {
+        "id": 48,
+        "start": 181.5,
+        "end": 184.5,
+        "text": " No, so you can just throw them away, keep them, whatever you want to do."
+      },
+      {
+        "id": 49,
+        "start": 184.5,
+        "end": 185.5,
+        "text": " Okay."
+      },
+      {
+        "id": 50,
+        "start": 186.5,
+        "end": 190.5,
+        "text": " Yeah, and if you need anything in the future, we're always here at this phone number,"
+      },
+      {
+        "id": 51,
+        "start": 190.5,
+        "end": 192.5,
+        "text": " Monday through Friday, 8 to 5 Pacific."
+      },
+      {
+        "id": 52,
+        "start": 192.5,
+        "end": 202.5,
+        "text": " And the way you will know that these are the AGV is on them, the pills will say 5-0 for 50."
+      },
+      {
+        "id": 53,
+        "start": 202.5,
+        "end": 203.5,
+        "text": " Right."
+      },
+      {
+        "id": 54,
+        "start": 203.5,
+        "end": 212.5,
+        "text": " And then – so the pills will say 5-0, and then the side of the bottle will say Greenstone,"
+      },
+      {
+        "id": 55,
+        "start": 212.5,
+        "end": 214.5,
+        "text": " because that's the manufacturer."
+      },
+      {
+        "id": 56,
+        "start": 214.5,
+        "end": 220.5,
+        "text": " And as long as you take them on an empty stomach and you avoid alcohol the day you take them,"
+      },
+      {
+        "id": 57,
+        "start": 220.5,
+        "end": 226.5,
+        "text": " you will definitely notice a significant improvement compared to regular Viagra."
+      },
+      {
+        "id": 58,
+        "start": 226.5,
+        "end": 227.5,
+        "text": " Okay."
+      },
+      {
+        "id": 59,
+        "start": 227.5,
+        "end": 230.5,
+        "text": " All right, I appreciate your help. Your name was what, Olivia, you said?"
+      },
+      {
+        "id": 60,
+        "start": 230.5,
+        "end": 232.5,
+        "text": " Olivia, that's right."
+      },
+      {
+        "id": 61,
+        "start": 232.5,
+        "end": 233.5,
+        "text": " Yeah."
+      },
+      {
+        "id": 62,
+        "start": 233.5,
+        "end": 234.5,
+        "text": " Yeah."
+      },
+      {
+        "id": 63,
+        "start": 234.5,
+        "end": 235.5,
+        "text": " I appreciate your help very much. Thank you."
+      },
+      {
+        "id": 64,
+        "start": 235.5,
+        "end": 237.5,
+        "text": " Of course. Thank you so much, Randall. I hope you have a great day."
+      },
+      {
+        "id": 65,
+        "start": 237.5,
+        "end": 238.5,
+        "text": " You bet."
+      },
+      {
+        "id": 66,
+        "start": 238.5,
+        "end": 239.5,
+        "text": " Okay."
+      },
+      {
+        "id": 67,
+        "start": 239.5,
+        "end": 240.5,
+        "text": " Thank you. You too. Bye-bye."
+      },
+      {
+        "id": 68,
+        "start": 240.5,
+        "end": 241.5,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-811b-b563-e6a0db984e76",
+    "url": "https://www.notion.so/300000001222991-300000001712574-2f711d0a101c811bb563e6a0db984e76"
+  },
+  "processedAt": "2026-01-29T21:47:44.069Z"
+}

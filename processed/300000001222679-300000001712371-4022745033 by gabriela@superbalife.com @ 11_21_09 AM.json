@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "name": "300000001222679-300000001712371-4022745033 by gabriela@superbalife.com @ 11_21_09 AM.wav",
+    "size": 8640,
+    "modifyTime": 1769714496000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222679-300000001712371-4022745033 by gabriela@superbalife.com @ 11_21_09 AM.wav",
+    "uploadDate": "2026-01-29T19:21:36.000Z",
+    "callId": "300000001222679-300000001712371",
+    "agent": "gabriela",
+    "phoneNumber": "4022745033",
+    "callTimestamp": "2026-01-29T11:21:09.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra.",
+    "duration": 527,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.239999771118164,
+        "text": " Hi, thank you for calling Viagra."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8187-8c7b-d328aea7c4af",
+    "url": "https://www.notion.so/300000001222679-300000001712371-2f711d0a101c81878c7bd328aea7c4af"
+  },
+  "processedAt": "2026-01-29T21:59:29.509Z"
+}

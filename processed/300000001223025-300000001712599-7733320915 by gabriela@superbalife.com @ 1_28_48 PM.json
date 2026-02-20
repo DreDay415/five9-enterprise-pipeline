@@ -1,0 +1,314 @@
+{
+  "recording": {
+    "name": "300000001223025-300000001712599-7733320915 by gabriela@superbalife.com @ 1_28_48 PM.wav",
+    "size": 321550,
+    "modifyTime": 1769722347000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223025-300000001712599-7733320915 by gabriela@superbalife.com @ 1_28_48 PM.wav",
+    "uploadDate": "2026-01-29T21:32:27.000Z",
+    "callId": "300000001223025-300000001712599",
+    "agent": "gabriela",
+    "phoneNumber": "7733320915",
+    "callTimestamp": "2026-01-29T13:28:48.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra, how can I assist you?\n\nSpeaker 2: I wanted to look into placing another order.\n\nSpeaker 1: Okay, what is your name and date of birth?\n\nSpeaker 2: Samuel Jones, 8/26/7.\n\nSpeaker 1: Date of birth?\n\nSpeaker 2: Thank you. Okay, and how many pills of Viagra\n\nSpeaker 1: would you like to go ahead and purchase? If you want to go ahead and do\n\nSpeaker 2: the 10 for 49, 25 for 99, or the 40 for 149?\n\nSpeaker 1: Let's do the\n\nSpeaker 2: 25.\n\nSpeaker 1: 25?\n\nSpeaker 2: Okay.\n\nSpeaker 1: 100 milligrams?\n\nSpeaker 2: Yes. That's the most they come with, right? 100?\n\nSpeaker 1: Yes. 100 milligrams would be the highest dosage. And Samuel, is your shipping address\n\nSpeaker 2: still the same? 2229 Barrett Drive?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Illinois 60102?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, and can I touch the MasterCard ending in 0580?\n\nSpeaker 1: Yeah, but I wanted to do 10.\n\nSpeaker 2: I'm sorry, just do 10.\n\nSpeaker 1: 10?\n\nSpeaker 2: 10 for 49?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yep, place that order.\n\nSpeaker 1: Okay, great, Samuel, you're all set. I was able to successfully\n\nSpeaker 2: place that order for you, so you should be receiving it within the next three to five business days,\n\nSpeaker 1: okay?\n\nSpeaker 2: Okay, and this is not, I'm not going to be automatically\n\nSpeaker 1: billed after a certain time, right?\n\nSpeaker 2: It's a prescription, Samuel,\n\nSpeaker 1: so it does come with a monthly interval. It doesn't necessarily have to be every month.\n\nSpeaker 2: You can go ahead and modify that to your preference, but\n\nSpeaker 1: it just has to have an interval, whether that's every month, every two months,\n\nSpeaker 2: every three months, every four months.\n\nSpeaker 1: So what is it on now? A quantity of 10.\n\nSpeaker 2: That's usually enough supply for a month, but if you do not need it\n\nSpeaker 1: every month, you can adjust it to every two months, every three months, just how I mentioned.\n\nSpeaker 2: And I have to do that, right?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: How would I do that? I'm sorry.\n\nSpeaker 1: If you let me\n\nSpeaker 2: know what interval you want, I can go ahead and adjust it right now that we're on\n\nSpeaker 1: the phone.\n\nSpeaker 2: Well, I just didn't want any\n\nSpeaker 1: interval until I kind of tested out to see if it works.\n\nSpeaker 2: Does that make sense?\n\nSpeaker 1: Yeah, well, you do have to have a monthly interval because\n\nSpeaker 2: it's a prescription.\n\nSpeaker 1: Okay. So if you want, I can adjust\n\nSpeaker 2: it right now to every two months, and then you can test\n\nSpeaker 1: it out and have enough time to try it and see how you like it\n\nSpeaker 2: and see whether you want to continue every two months or adjust it to every three months\n\nSpeaker 1: or change it to every month, okay?\n\nSpeaker 2: Okay, give me one second.\n\nSpeaker 1: Just have it on\n\nSpeaker 2: every two months.\n\nSpeaker 1: Okay, great. So you're all set. I modified it\n\nSpeaker 2: to every two months for you, okay?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, well, you're all set. Have a good rest of your day.\n\nSpeaker 1: Bye.\n\nSpeaker 2: You too.\n\nSpeaker 1: Thank you. Bye.",
+    "duration": 8754,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Viagra, how can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " I wanted to look into placing another order."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " Okay, what is your name and date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 16,
+        "text": " Samuel Jones, 8267."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 20,
+        "text": " Date of birth."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 24,
+        "text": " Thank you. Okay, and how many pills of Viagra"
+      },
+      {
+        "id": 6,
+        "start": 24,
+        "end": 28,
+        "text": " AGV would you like to go ahead and purchase? If you want to go ahead and do"
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 32,
+        "text": " the 10 for 49, 25 for 99, or the 40 for 149?"
+      },
+      {
+        "id": 8,
+        "start": 32,
+        "end": 36,
+        "text": " Let's do the"
+      },
+      {
+        "id": 9,
+        "start": 36,
+        "end": 40,
+        "text": " 25. 25? Okay."
+      },
+      {
+        "id": 10,
+        "start": 40,
+        "end": 44,
+        "text": " 100 milligrams? Yes. That's the most"
+      },
+      {
+        "id": 11,
+        "start": 44,
+        "end": 48,
+        "text": " they come with, right? 100? Yes."
+      },
+      {
+        "id": 12,
+        "start": 48,
+        "end": 52,
+        "text": " 100 milligrams would be the highest dosage. And Samuel, is your shipping address"
+      },
+      {
+        "id": 13,
+        "start": 52,
+        "end": 56,
+        "text": " still the same? 2229 Barrett Drive? Yes."
+      },
+      {
+        "id": 14,
+        "start": 56,
+        "end": 60,
+        "text": " Illinois 60102? Yes."
+      },
+      {
+        "id": 15,
+        "start": 60,
+        "end": 64,
+        "text": " Okay, and can I touch the MasterCard ending in 0580?"
+      },
+      {
+        "id": 16,
+        "start": 64,
+        "end": 68,
+        "text": " Yeah, but I wanted to do 10."
+      },
+      {
+        "id": 17,
+        "start": 68,
+        "end": 72,
+        "text": " I'm sorry, just do 10. 10? 10 for 49? Okay."
+      },
+      {
+        "id": 18,
+        "start": 72,
+        "end": 76,
+        "text": " Yep, yep."
+      },
+      {
+        "id": 19,
+        "start": 76,
+        "end": 80,
+        "text": " Place that order."
+      },
+      {
+        "id": 20,
+        "start": 80,
+        "end": 84,
+        "text": " Okay, great, Samuel, you're all set. I was able to successfully"
+      },
+      {
+        "id": 21,
+        "start": 84,
+        "end": 88,
+        "text": " place in that order for you, so you should be receiving it within the next three to five business days,"
+      },
+      {
+        "id": 22,
+        "start": 88,
+        "end": 92,
+        "text": " okay? Okay, and this is not, I'm not going to be automatically"
+      },
+      {
+        "id": 23,
+        "start": 92,
+        "end": 96,
+        "text": " billed after a certain time, right? It's a prescription, Samuel,"
+      },
+      {
+        "id": 24,
+        "start": 96,
+        "end": 100,
+        "text": " so it does come with a monthly interval. It doesn't necessarily have to be every month."
+      },
+      {
+        "id": 25,
+        "start": 100,
+        "end": 104,
+        "text": " You can go ahead and modify that to your preference, but"
+      },
+      {
+        "id": 26,
+        "start": 104,
+        "end": 108,
+        "text": " it just has to have an interval, whether that's every month, every two months,"
+      },
+      {
+        "id": 27,
+        "start": 108,
+        "end": 112,
+        "text": " every three months, every four months."
+      },
+      {
+        "id": 28,
+        "start": 112,
+        "end": 116,
+        "text": " So what is it on now? A quantity of 10."
+      },
+      {
+        "id": 29,
+        "start": 116,
+        "end": 120,
+        "text": " That's usually enough supply for a month, but if you do not need it"
+      },
+      {
+        "id": 30,
+        "start": 120,
+        "end": 124,
+        "text": " every month, you can adjust it to every two months, every three months, just how I mentioned."
+      },
+      {
+        "id": 31,
+        "start": 124,
+        "end": 128,
+        "text": " And I have to do that, right? Yeah."
+      },
+      {
+        "id": 32,
+        "start": 128,
+        "end": 132,
+        "text": " How would I do that? I'm sorry. If you let me"
+      },
+      {
+        "id": 33,
+        "start": 132,
+        "end": 136,
+        "text": " know what interval you want, I can go ahead and adjust it right now that we're on"
+      },
+      {
+        "id": 34,
+        "start": 136,
+        "end": 140,
+        "text": " the phone. Well, I just didn't want any"
+      },
+      {
+        "id": 35,
+        "start": 140,
+        "end": 144,
+        "text": " interval until I kind of tested out to see if it works."
+      },
+      {
+        "id": 36,
+        "start": 144,
+        "end": 148,
+        "text": " Does that make sense? Yeah, well, you do have to have a monthly interval because"
+      },
+      {
+        "id": 37,
+        "start": 148,
+        "end": 152,
+        "text": " it's a prescription. Okay. So if you want, I can adjust"
+      },
+      {
+        "id": 38,
+        "start": 152,
+        "end": 156,
+        "text": " it right now to every two months, and then you can test"
+      },
+      {
+        "id": 39,
+        "start": 156,
+        "end": 160,
+        "text": " it out and have enough time to try it and see how you like it"
+      },
+      {
+        "id": 40,
+        "start": 160,
+        "end": 164,
+        "text": " and see whether you want to continue every two months or adjust it to every three months"
+      },
+      {
+        "id": 41,
+        "start": 164,
+        "end": 168,
+        "text": " or change it to every month, okay?"
+      },
+      {
+        "id": 42,
+        "start": 168,
+        "end": 172,
+        "text": " Okay, give me one second."
+      },
+      {
+        "id": 43,
+        "start": 180,
+        "end": 184,
+        "text": " Just have it on"
+      },
+      {
+        "id": 44,
+        "start": 184,
+        "end": 188,
+        "text": " every two months. Okay, great. So you're all set. I modified it"
+      },
+      {
+        "id": 45,
+        "start": 188,
+        "end": 192,
+        "text": " to every two months for you, okay? Okay."
+      },
+      {
+        "id": 46,
+        "start": 192,
+        "end": 196,
+        "text": " Okay, well, you're all set. Have a good rest of your day. Bye. You too."
+      },
+      {
+        "id": 47,
+        "start": 196,
+        "end": 200,
+        "text": " Thank you. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81f3-be79-e87d55d7842c",
+    "url": "https://www.notion.so/300000001223025-300000001712599-2f711d0a101c81f3be79e87d55d7842c"
+  },
+  "processedAt": "2026-01-29T21:44:33.424Z"
+}

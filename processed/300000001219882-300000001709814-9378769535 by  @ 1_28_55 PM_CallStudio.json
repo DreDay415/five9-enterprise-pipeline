@@ -1,0 +1,103 @@
+{
+  "recording": {
+    "name": "300000001219882-300000001709814-9378769535 by  @ 1_28_55 PM_CallStudio.wav",
+    "size": 71366,
+    "modifyTime": 1769549402000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219882-300000001709814-9378769535 by  @ 1_28_55 PM_CallStudio.wav",
+    "uploadDate": "2026-01-27T21:30:02.000Z",
+    "callId": "300000001219882-300000001709814",
+    "phoneNumber": "9378769535",
+    "callTimestamp": "2026-01-27T21:30:02.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para español marque numero nueve.\n\nSpeaker 2: E.D.\n\nSpeaker 1: This is a natural language A.I. Just say what you would like to do.\n\nSpeaker 1: For example, track an order or send me to the billing department.\n\nSpeaker 2: Let's try again.\n\nSpeaker 1: Please state the reason for your call.\n\nSpeaker 2: E.D.\n\nSpeaker 1: I heard you say, Ed.\n\nSpeaker 1: Say yes or press 1 if this is correct.\n\nSpeaker 1: Otherwise, say no or press 2.",
+    "duration": 1327,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 7,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 11,
+        "text": " Para español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 13.4399995803833,
+        "text": " E.D."
+      },
+      {
+        "id": 4,
+        "start": 13.4399995803833,
+        "end": 16.15999984741211,
+        "text": " This is a natural language A.I."
+      },
+      {
+        "id": 5,
+        "start": 16.15999984741211,
+        "end": 18.280000686645508,
+        "text": " Just say what you would like to do."
+      },
+      {
+        "id": 6,
+        "start": 18.280000686645508,
+        "end": 22.84000015258789,
+        "text": " For example, track an order or send me to the billing department."
+      },
+      {
+        "id": 7,
+        "start": 22.84000015258789,
+        "end": 24.399999618530273,
+        "text": " Let's try again."
+      },
+      {
+        "id": 8,
+        "start": 24.399999618530273,
+        "end": 27,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 9,
+        "start": 28,
+        "end": 30,
+        "text": " E.D."
+      },
+      {
+        "id": 10,
+        "start": 33,
+        "end": 35,
+        "text": " I heard you say, Ed."
+      },
+      {
+        "id": 11,
+        "start": 35,
+        "end": 38,
+        "text": " Say yes or press 1 if this is correct."
+      },
+      {
+        "id": 12,
+        "start": 38,
+        "end": 41,
+        "text": " Otherwise, say no or press 2."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8145-8dbc-e84798240ea8",
+    "url": "https://www.notion.so/300000001219882-300000001709814-2f511d0a101c81458dbce84798240ea8"
+  },
+  "processedAt": "2026-01-27T23:29:39.065Z"
+}

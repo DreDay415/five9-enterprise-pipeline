@@ -1,0 +1,215 @@
+{
+  "recording": {
+    "name": "300000001241755-300000001731437-5025503680 by olivier@superbalife.com @ 9_48_06 AM.wav",
+    "size": 187976,
+    "modifyTime": 1771005023000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241755-300000001731437-5025503680 by olivier@superbalife.com @ 9_48_06 AM.wav",
+    "uploadDate": "2026-02-13T17:50:23.000Z",
+    "callId": "300000001241755-300000001731437",
+    "agent": "olivier",
+    "phoneNumber": "5025503680",
+    "callTimestamp": "2026-02-13T09:48:06.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivier_300000001241755-300000001731437_5025503680.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivier_300000001241755-300000001731437_5025503680.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Hello.\n\nSpeaker 1: Hello, how are we doing?\n\nSpeaker 2: Hello.\n\nSpeaker 1: Yes, how are we doing, sir?\n\nSpeaker 2: I'm good, how are you?\n\nSpeaker 1: Good.\n\nSpeaker 2: May I have the phone number associated with your prescription?\n\nSpeaker 1: 502-550-3680.\n\nSpeaker 2: Yeah, I tried that number, I don't have any account coming.\n\nSpeaker 1: You may have used a different one, maybe?\n\nSpeaker 2: No, that's the only number I have.\n\nSpeaker 1: May I have your first and last name?\n\nSpeaker 2: Jesse, J-E-S-S-E, Roberts, R-O-B-E-R-T-S.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And what is your zip code, sir?\n\nSpeaker 1: 40258.\n\nSpeaker 2: All right, Mr. Roberts, yes, you have a prescription for 10 tablets, 50 milligrams, Viagra.\n\nSpeaker 1: I think every 30 days.\n\nSpeaker 2: How can I help you, sir?\n\nSpeaker 1: I'd like to cancel.\n\nSpeaker 2: Any health concern, or you want to cancel the initial doctor writing and just order as needed?\n\nSpeaker 1: Cancel all together.\n\nSpeaker 2: I don't need it.\n\nSpeaker 1: I've got a third and final doctor now.\n\nSpeaker 2: Okay, all right.\n\nSpeaker 1: All right, everything is canceled, okay?\n\nSpeaker 2: All right.\n\nSpeaker 1: You're all set.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Bye.",
+    "duration": 5842,
+    "audioDuration": 115.63999938964844,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 3,
+        "text": " Hello."
+      },
+      {
+        "id": 2,
+        "start": 3,
+        "end": 6,
+        "text": " Hello, how are we doing?"
+      },
+      {
+        "id": 3,
+        "start": 6,
+        "end": 7,
+        "text": " Hello."
+      },
+      {
+        "id": 4,
+        "start": 7,
+        "end": 10,
+        "text": " Yes, how are we doing, sir?"
+      },
+      {
+        "id": 5,
+        "start": 10,
+        "end": 12,
+        "text": " I'm good, how are you?"
+      },
+      {
+        "id": 6,
+        "start": 12,
+        "end": 13,
+        "text": " Good."
+      },
+      {
+        "id": 7,
+        "start": 13,
+        "end": 19,
+        "text": " May I have the phone number associated with your prescription?"
+      },
+      {
+        "id": 8,
+        "start": 19,
+        "end": 28,
+        "text": " 502-550-3680."
+      },
+      {
+        "id": 9,
+        "start": 28,
+        "end": 31,
+        "text": " Yeah, I tried that number, I don't have any account coming."
+      },
+      {
+        "id": 10,
+        "start": 31,
+        "end": 33,
+        "text": " You may have used a different one, maybe?"
+      },
+      {
+        "id": 11,
+        "start": 33,
+        "end": 36,
+        "text": " No, that's the only number I have."
+      },
+      {
+        "id": 12,
+        "start": 36,
+        "end": 38,
+        "text": " May I have your first and last name?"
+      },
+      {
+        "id": 13,
+        "start": 38,
+        "end": 47,
+        "text": " Jesse, J-E-S-S-E, Roberts, R-O-B-E-R-T-S."
+      },
+      {
+        "id": 14,
+        "start": 47,
+        "end": 49,
+        "text": " Okay."
+      },
+      {
+        "id": 15,
+        "start": 49,
+        "end": 51,
+        "text": " And what is your zip code, sir?"
+      },
+      {
+        "id": 16,
+        "start": 51,
+        "end": 56,
+        "text": " 40258."
+      },
+      {
+        "id": 17,
+        "start": 56,
+        "end": 62,
+        "text": " All right, Mr. Roberts, yes, you have a prescription for 10 tablets, 50 milligrams, Viagra."
+      },
+      {
+        "id": 18,
+        "start": 62,
+        "end": 63,
+        "text": " I think every 30 days."
+      },
+      {
+        "id": 19,
+        "start": 63,
+        "end": 65,
+        "text": " How can I help you, sir?"
+      },
+      {
+        "id": 20,
+        "start": 65,
+        "end": 67,
+        "text": " I'd like to cancel."
+      },
+      {
+        "id": 21,
+        "start": 67,
+        "end": 74,
+        "text": " Any health concern, or you want to cancel the initial doctor writing and just order as needed?"
+      },
+      {
+        "id": 22,
+        "start": 74,
+        "end": 76,
+        "text": " Cancel all together."
+      },
+      {
+        "id": 23,
+        "start": 76,
+        "end": 77,
+        "text": " I don't need it."
+      },
+      {
+        "id": 24,
+        "start": 77,
+        "end": 80,
+        "text": " I've got a third and final doctor now."
+      },
+      {
+        "id": 25,
+        "start": 80,
+        "end": 82,
+        "text": " Okay, all right."
+      },
+      {
+        "id": 26,
+        "start": 82,
+        "end": 109,
+        "text": " All right, everything is canceled, okay?"
+      },
+      {
+        "id": 27,
+        "start": 109,
+        "end": 111,
+        "text": " All right."
+      },
+      {
+        "id": 28,
+        "start": 111,
+        "end": 112,
+        "text": " You're all set."
+      },
+      {
+        "id": 29,
+        "start": 112,
+        "end": 113,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 30,
+        "start": 113,
+        "end": 114,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81b0-9192-c564a0f688f2",
+    "url": "https://www.notion.so/300000001241755-300000001731437-30611d0a101c81b09192c564a0f688f2"
+  },
+  "processedAt": "2026-02-13T18:08:05.926Z"
+}

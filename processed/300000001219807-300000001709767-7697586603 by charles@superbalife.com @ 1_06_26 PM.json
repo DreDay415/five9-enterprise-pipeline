@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "name": "300000001219807-300000001709767-7697586603 by charles@superbalife.com @ 1_06_26 PM.wav",
+    "size": 12670,
+    "modifyTime": 1769585831000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219807-300000001709767-7697586603 by charles@superbalife.com @ 1_06_26 PM.wav",
+    "uploadDate": "2026-01-28T07:37:11.000Z",
+    "callId": "300000001219807-300000001709767",
+    "agent": "charles",
+    "phoneNumber": "7697586603",
+    "callTimestamp": "2026-01-28T13:06:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra. This is Charles.\n\nSpeaker 2: Hi, Charles. My name is Brett. I'd like to",
+    "duration": 812,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Thanks for calling Viagra. This is Charles. Hi, Charles. My name is Brett. I'd like to"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81b2-ac3d-cc19a8056bff",
+    "url": "https://www.notion.so/300000001219807-300000001709767-2f611d0a101c81b2ac3dcc19a8056bff"
+  },
+  "processedAt": "2026-01-28T14:15:10.359Z"
+}

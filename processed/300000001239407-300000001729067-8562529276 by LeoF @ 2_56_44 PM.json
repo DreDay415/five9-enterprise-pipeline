@@ -1,0 +1,325 @@
+{
+  "recording": {
+    "name": "300000001239407-300000001729067-8562529276 by LeoF @ 2_56_44 PM.wav",
+    "size": 378296,
+    "modifyTime": 1770850859000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239407-300000001729067-8562529276 by LeoF @ 2_56_44 PM.wav",
+    "uploadDate": "2026-02-11T23:00:59.000Z",
+    "callId": "300000001239407-300000001729067",
+    "phoneNumber": "8562529276",
+    "callTimestamp": "2026-02-11T14:56:44.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, thanks for calling Viagra. How can I help you?\n\nSpeaker 2: Yeah, hi. My name is Thomas Rich. I'd call for a reflow.\n\nSpeaker 1: Okay, Mr. Rich. Give me just a moment. Let me try to pull up your information here.\n\nSpeaker 2: Looks like last time you placed an order was for 25 pills. Did you want to do that same thing again today?\n\nSpeaker 1: Yes.\n\nSpeaker 2: All right, no problem. I have you there at 330 East 2nd Avenue, North Wildwood 08260.\n\nSpeaker 1: Correct. I have a MasterCard here that ends in 0706. Is that okay to use today?\n\nSpeaker 2: Yep, that's it.\n\nSpeaker 1: And you know what? The transaction actually declined there, Mr. Rich.\n\nSpeaker 2: Which one? Why?\n\nSpeaker 1: I'm not sure. It could be just because you haven't used it with us in a while, that card.\n\nSpeaker 2: I can try it again if you want, but it didn't go through on that one.\n\nSpeaker 1: How much are you trying to use it for?\n\nSpeaker 2: $113.95. Same price as the last one?\n\nSpeaker 1: Yeah, it should go through. I don't understand why it wouldn't. Yeah, I can try it again if you'd like.\n\nSpeaker 2: Sure. I'll give you another card.\n\nSpeaker 1: Yeah, no, same thing, but I can take a different card number if you want.\n\nSpeaker 2: It might just be your bank's like kind of strict right now. Maybe they have a lot of fraud going on. It's hard to say.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, here's another one. It's a 5178058489357817.\n\nSpeaker 1: Expiration?\n\nSpeaker 2: Ballot 530. And the CBV code?\n\nSpeaker 1: The what?\n\nSpeaker 2: The security code?\n\nSpeaker 1: 302.\n\nSpeaker 2: Perfect. Give me just a sec.\n\nSpeaker 1: And you know what? That one didn't work either, Mr. Rich.\n\nSpeaker 2: Well, I don't know why they're not working because they're not holding my cards. I can call my balances.\n\nSpeaker 1: Not to say that there's anything wrong with the card. The bank's probably just like got a lot of fraud alert going on.\n\nSpeaker 2: Sometimes they send like text messages or if you log on to your banking app that like\n\nSpeaker 1: sometimes will let you like authorize a transaction as well.\n\nSpeaker 2: If you wanted to give them a shout and give us a call back, you're more than welcome. I'm not sure why.\n\nSpeaker 1: All right. Well,\n\nSpeaker 2: look, it's $113, right? That's right.\n\nSpeaker 1: I'll try one more card. It'd be my third card. Now if this card doesn't work,\n\nSpeaker 2: then I don't know what the hell's the matter with your system because all my cards should work. Are you ready for this one?\n\nSpeaker 1: Yep.\n\nSpeaker 2: 4 8 3 9\n\nSpeaker 1: 5 0 4 3\n\nSpeaker 2: 0 9 5 0\n\nSpeaker 1: 5 0 1 4\n\nSpeaker 2: Expiration\n\nSpeaker 1: 3 26\n\nSpeaker 2: 0 3 26 and in the CVV code? 9 3 4. 9 3 4. All right, I'm gonna try this one too. Give me a sec.\n\nSpeaker 1: Nope, that one worked.\n\nSpeaker 2: Unreal.\n\nSpeaker 1: Unreal. Yeah, I appreciate it. That's fine. Like I said, I'm gonna look into this right now and call them\n\nSpeaker 2: and see what the hell's going on with my other two cards. Yeah, I'm sure they work.\n\nSpeaker 1: It doesn't say like it just soft declined. Usually it's a fraud thing. They probably need you to authorize it.\n\nSpeaker 2: But yep, you're all set, Mr. Rich. Okay. Thank you very much. Thank you. Goodbye now.",
+    "duration": 8431,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hey, thanks for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 2.640000104904175,
+        "end": 5.71999979019165,
+        "text": " Yeah, hi. My name is Thomas Rich. I'd call for a reflow."
+      },
+      {
+        "id": 2,
+        "start": 6.360000133514404,
+        "end": 10.039999961853027,
+        "text": " Okay, Mr. Rich. Give me just a moment. Let me try to pull up your information here."
+      },
+      {
+        "id": 3,
+        "start": 11.680000305175781,
+        "end": 16.1200008392334,
+        "text": " Looks like last time you placed an order was for 25 pills. Did you want to do that same thing again today?"
+      },
+      {
+        "id": 4,
+        "start": 16.84000015258789,
+        "end": 17.799999237060547,
+        "text": " Yes."
+      },
+      {
+        "id": 5,
+        "start": 17.799999237060547,
+        "end": 25.559999465942383,
+        "text": " All right, no problem. I have you there at 330 East 2nd Avenue, North Wildwood 08260."
+      },
+      {
+        "id": 6,
+        "start": 26.280000686645508,
+        "end": 31.399999618530273,
+        "text": " Correct. I have a MasterCard here that ends in 0706. Is that okay to use today?"
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 36,
+        "text": " Yep, that's it."
+      },
+      {
+        "id": 8,
+        "start": 36,
+        "end": 56,
+        "text": " And you know what? The transaction actually declined there, Mr. Rich."
+      },
+      {
+        "id": 9,
+        "start": 57,
+        "end": 58.880001068115234,
+        "text": " Which one? Why?"
+      },
+      {
+        "id": 10,
+        "start": 58.880001068115234,
+        "end": 63.119998931884766,
+        "text": " I'm not sure. It could be just because you haven't used it with us in a while, that card."
+      },
+      {
+        "id": 11,
+        "start": 63.119998931884766,
+        "end": 66.27999877929688,
+        "text": " I can try it again if you want, but it didn't go through on that one."
+      },
+      {
+        "id": 12,
+        "start": 66.72000122070312,
+        "end": 68.72000122070312,
+        "text": " How much are you trying to use it for?"
+      },
+      {
+        "id": 13,
+        "start": 69.27999877929688,
+        "end": 71.27999877929688,
+        "text": " $113.95. Same price as the last one?"
+      },
+      {
+        "id": 14,
+        "start": 72.16000366210938,
+        "end": 77.18000030517578,
+        "text": " Yeah, it should go through. I don't understand why it wouldn't. Yeah, I can try it again if you'd like."
+      },
+      {
+        "id": 15,
+        "start": 77.76000213623047,
+        "end": 80.16000366210938,
+        "text": " Sure. I'll give you another card."
+      },
+      {
+        "id": 16,
+        "start": 83.68000030517578,
+        "end": 87.08000183105469,
+        "text": " Yeah, no, same thing, but I can take a different card number if you want."
+      },
+      {
+        "id": 17,
+        "start": 87.08000183105469,
+        "end": 91.31999969482422,
+        "text": " It might just be your bank's like kind of strict right now. Maybe they have a lot of fraud going on. It's hard to say."
+      },
+      {
+        "id": 18,
+        "start": 92.31999969482422,
+        "end": 94.31999969482422,
+        "text": " Okay."
+      },
+      {
+        "id": 19,
+        "start": 94.44000244140625,
+        "end": 106.83999633789062,
+        "text": " All right, here's another one. It's a 5178058489357817."
+      },
+      {
+        "id": 20,
+        "start": 109.76000213623047,
+        "end": 111.76000213623047,
+        "text": " Expiration?"
+      },
+      {
+        "id": 21,
+        "start": 114.31999969482422,
+        "end": 117.68000030517578,
+        "text": " Ballot 530. And the CBV code?"
+      },
+      {
+        "id": 22,
+        "start": 118.87999725341797,
+        "end": 120.4000015258789,
+        "text": " The what?"
+      },
+      {
+        "id": 23,
+        "start": 120.4000015258789,
+        "end": 122.4000015258789,
+        "text": " The security code?"
+      },
+      {
+        "id": 24,
+        "start": 122.44000244140625,
+        "end": 124.12000274658203,
+        "text": " 302."
+      },
+      {
+        "id": 25,
+        "start": 124.12000274658203,
+        "end": 126.12000274658203,
+        "text": " Perfect. Give me just a sec."
+      },
+      {
+        "id": 26,
+        "start": 129.24000549316406,
+        "end": 131.55999755859375,
+        "text": " And you know what? That one didn't work either, Mr. Rich."
+      },
+      {
+        "id": 27,
+        "start": 132.8000030517578,
+        "end": 138.0800018310547,
+        "text": " Well, I don't know why they're not working because they're not holding my cards. I can call my balances."
+      },
+      {
+        "id": 28,
+        "start": 139.24000549316406,
+        "end": 144.1999969482422,
+        "text": " Not to say that there's anything wrong with the card. The bank's probably just like got a lot of fraud alert going on."
+      },
+      {
+        "id": 29,
+        "start": 144.1999969482422,
+        "end": 147.9199981689453,
+        "text": " Sometimes they send like text messages or if you log on to your banking app that like"
+      },
+      {
+        "id": 30,
+        "start": 148.39999389648438,
+        "end": 152.72000122070312,
+        "text": " sometimes will let you like authorize a transaction as well."
+      },
+      {
+        "id": 31,
+        "start": 153.1199951171875,
+        "end": 157.72000122070312,
+        "text": " If you wanted to give them a shout and give us a call back, you're more than welcome. I'm not sure why."
+      },
+      {
+        "id": 32,
+        "start": 158.55999755859375,
+        "end": 160.55999755859375,
+        "text": " All right. Well,"
+      },
+      {
+        "id": 33,
+        "start": 162.44000244140625,
+        "end": 166.0399932861328,
+        "text": " look, it's $113, right? That's right."
+      },
+      {
+        "id": 34,
+        "start": 166.55999755859375,
+        "end": 172.16000366210938,
+        "text": " I'll try one more card. It'd be my third card. Now if this card doesn't work,"
+      },
+      {
+        "id": 35,
+        "start": 172.16000366210938,
+        "end": 176.9199981689453,
+        "text": " then I don't know what the hell's the matter with your system because all my cards should work. Are you ready for this one?"
+      },
+      {
+        "id": 36,
+        "start": 177.27999877929688,
+        "end": 178.44000244140625,
+        "text": " Yep."
+      },
+      {
+        "id": 37,
+        "start": 178.44000244140625,
+        "end": 180.44000244140625,
+        "text": " 4 8 3 9"
+      },
+      {
+        "id": 38,
+        "start": 182.0399932861328,
+        "end": 184.0399932861328,
+        "text": " 5 0 4 3"
+      },
+      {
+        "id": 39,
+        "start": 186.1999969482422,
+        "end": 188.1999969482422,
+        "text": " 0 9 5 0"
+      },
+      {
+        "id": 40,
+        "start": 188.63999938964844,
+        "end": 190.63999938964844,
+        "text": " 5 0 1 4"
+      },
+      {
+        "id": 41,
+        "start": 191.8800048828125,
+        "end": 193.1199951171875,
+        "text": " Expiration"
+      },
+      {
+        "id": 42,
+        "start": 193.1199951171875,
+        "end": 195.1199951171875,
+        "text": " 3 26"
+      },
+      {
+        "id": 43,
+        "start": 196.0399932861328,
+        "end": 203.24000549316406,
+        "text": " 0 3 26 and in the CVV code? 9 3 4. 9 3 4. All right, I'm gonna try this one too. Give me a sec."
+      },
+      {
+        "id": 44,
+        "start": 206.9199981689453,
+        "end": 208.9199981689453,
+        "text": " Nope, that one worked."
+      },
+      {
+        "id": 45,
+        "start": 211.55999755859375,
+        "end": 213.27999877929688,
+        "text": " Unreal."
+      },
+      {
+        "id": 46,
+        "start": 213.27999877929688,
+        "end": 219.36000061035156,
+        "text": " Unreal. Yeah, I appreciate it. That's fine. Like I said, I'm gonna look into this right now and call them"
+      },
+      {
+        "id": 47,
+        "start": 219.36000061035156,
+        "end": 223.1999969482422,
+        "text": " and see what the hell's going on with my other two cards. Yeah, I'm sure they work."
+      },
+      {
+        "id": 48,
+        "start": 223.1999969482422,
+        "end": 227.72000122070312,
+        "text": " It doesn't say like it just soft declined. Usually it's a fraud thing. They probably need you to authorize it."
+      },
+      {
+        "id": 49,
+        "start": 227.72000122070312,
+        "end": 232.27999877929688,
+        "text": " But yep, you're all set, Mr. Rich. Okay. Thank you very much. Thank you. Goodbye now."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-8134-a7d7-e3f9859218a1",
+    "url": "https://www.notion.so/300000001239407-300000001729067-30411d0a101c8134a7d7e3f9859218a1"
+  },
+  "processedAt": "2026-02-11T23:01:46.768Z"
+}

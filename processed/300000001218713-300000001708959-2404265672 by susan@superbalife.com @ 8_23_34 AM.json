@@ -1,0 +1,44 @@
+{
+  "recording": {
+    "name": "300000001218713-300000001708959-2404265672 by susan@superbalife.com @ 8_23_34 AM.wav",
+    "size": 32820,
+    "modifyTime": 1769593028000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218713-300000001708959-2404265672 by susan@superbalife.com @ 8_23_34 AM.wav",
+    "uploadDate": "2026-01-28T09:37:08.000Z",
+    "callId": "300000001218713-300000001708959",
+    "agent": "susan",
+    "phoneNumber": "2404265672",
+    "callTimestamp": "2026-01-28T08:23:34.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: High score blue. I'm transferring you right now to score blue, just a second or maybe less than a second.\n\nSpeaker 2: No, not less. Hold on right now. Message has been transcribed. One moment while I notify the caller.\n\nSpeaker 1: No, I have to transfer you now. Hello. I have to transfer you to score blue right now. I'm doing that here.",
+    "duration": 1633,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.639999866485596,
+        "text": " High score blue. I'm transferring you right now to score blue just a second or maybe less than a second"
+      },
+      {
+        "id": 1,
+        "start": 6.639999866485596,
+        "end": 12.199999809265137,
+        "text": " No, not less. Hold on right now message has been transcribed one moment while I notify the caller"
+      },
+      {
+        "id": 2,
+        "start": 12.800000190734863,
+        "end": 20.1200008392334,
+        "text": " No, I have to transfer you now. Hello. I have to transfer you to score blue right now. I'm doing that here"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81bd-8314-e6b687257fc5",
+    "url": "https://www.notion.so/300000001218713-300000001708959-2f611d0a101c81bd8314e6b687257fc5"
+  },
+  "processedAt": "2026-01-28T10:02:20.811Z"
+}

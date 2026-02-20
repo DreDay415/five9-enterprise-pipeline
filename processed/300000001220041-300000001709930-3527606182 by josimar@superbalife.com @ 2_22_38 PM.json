@@ -1,0 +1,308 @@
+{
+  "recording": {
+    "name": "300000001220041-300000001709930-3527606182 by josimar@superbalife.com @ 2_22_38 PM.wav",
+    "size": 193370,
+    "modifyTime": 1769552698000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220041-300000001709930-3527606182 by josimar@superbalife.com @ 2_22_38 PM.wav",
+    "uploadDate": "2026-01-27T22:24:58.000Z",
+    "callId": "300000001220041-300000001709930",
+    "agent": "josimar",
+    "phoneNumber": "3527606182",
+    "callTimestamp": "2026-01-27T14:22:38.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, how can I help you today?\n\nSpeaker 2: Hey, I just got a question about my prescription.\n\nSpeaker 1: I wanted the new Viagra AGV.\n\nSpeaker 2: That's not what my prescription says.\n\nSpeaker 1: It just says generic for Viagra.\n\nSpeaker 2: Yeah, well the AGV is an authorized generic Viagra,\n\nSpeaker 1: which is a different category,\n\nSpeaker 2: but I can take a look here to see\n\nSpeaker 1: what exactly was sent out.\n\nSpeaker 2: What's your last name and a zip code?\n\nSpeaker 1: Hendricks 33597.\n\nSpeaker 2: Okay, I pulled you up here.\n\nSpeaker 1: So you did get scripted the Viagra AGV.\n\nSpeaker 2: What does the engraving on the pill say?\n\nSpeaker 1: AC 340.\n\nSpeaker 2: Okay, so that can confirm with me\n\nSpeaker 1: that you did get the wrong prescription, sir.\n\nSpeaker 2: The only marking you should have seen\n\nSpeaker 1: is 100 for the dosage, and that's it.\n\nSpeaker 2: I'm gonna notify the pharmacy.\n\nSpeaker 1: They're gonna send you the correct one,\n\nSpeaker 2: and you'll receive it in three to four business days.\n\nSpeaker 1: Aside from that, the one that,\n\nSpeaker 2: yes, sir, I was gonna finish up.\n\nSpeaker 1: The one that you have.\n\nSpeaker 2: Do I just send it back?\n\nSpeaker 1: Yeah, yeah, that's what I was trying to finish\n\nSpeaker 2: right there, sir.\n\nSpeaker 1: And the one that you have, you can just keep,\n\nSpeaker 2: use, or dispose of, but we'll send you the correct ones.\n\nSpeaker 1: All right, so yeah, this is called Xylindifoft, yeah.\n\nSpeaker 2: I can tell it's not the AGV, because I saw the picture.\n\nSpeaker 1: Xylindifoft is the key ingredient,\n\nSpeaker 2: but Xylindifoft is an all-viagras.\n\nSpeaker 1: Just the AGV has a premium version of Xylindifoft.\n\nSpeaker 2: However, the AGV is gonna be a white diamond-shaped pill,\n\nSpeaker 1: and it'll say 100 engraved on there, instead of AC.\n\nSpeaker 2: All right, I appreciate it.\n\nSpeaker 1: So clearly, they just gave me the wrong stuff.\n\nSpeaker 2: That's not what I wanted.\n\nSpeaker 1: Yeah, it looks like they had some issues\n\nSpeaker 2: with their machine, but other than that,\n\nSpeaker 1: I'm just gonna notify them and send you the right one.\n\nSpeaker 2: All right, I appreciate your help.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Yeah, no problem.\n\nSpeaker 1: Have a good one, bye-bye.",
+    "duration": 6344,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.1600000858306885,
+        "text": " Viagra, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3.299999952316284,
+        "end": 5.599999904632568,
+        "text": " Hey, I just got a question about my prescription."
+      },
+      {
+        "id": 2,
+        "start": 5.599999904632568,
+        "end": 9.279999732971191,
+        "text": " I wanted the new Viagra AGV."
+      },
+      {
+        "id": 3,
+        "start": 9.279999732971191,
+        "end": 10.920000076293945,
+        "text": " That's not what my prescription says."
+      },
+      {
+        "id": 4,
+        "start": 10.920000076293945,
+        "end": 12.760000228881836,
+        "text": " It just says generic for Viagra."
+      },
+      {
+        "id": 5,
+        "start": 13.600000381469727,
+        "end": 16.31999969482422,
+        "text": " Yeah, well the AGV is an authorized generic Viagra,"
+      },
+      {
+        "id": 6,
+        "start": 16.31999969482422,
+        "end": 17.559999465942383,
+        "text": " which is a different category,"
+      },
+      {
+        "id": 7,
+        "start": 17.559999465942383,
+        "end": 19.200000762939453,
+        "text": " but I can take a look here to see"
+      },
+      {
+        "id": 8,
+        "start": 19.200000762939453,
+        "end": 20.920000076293945,
+        "text": " what exactly was sent out."
+      },
+      {
+        "id": 9,
+        "start": 20.920000076293945,
+        "end": 22.799999237060547,
+        "text": " What's your last name and a zip code?"
+      },
+      {
+        "id": 10,
+        "start": 23.920000076293945,
+        "end": 26.459999084472656,
+        "text": " Hendricks 33597."
+      },
+      {
+        "id": 11,
+        "start": 31,
+        "end": 32.63999938964844,
+        "text": " Okay, I pulled you up here."
+      },
+      {
+        "id": 12,
+        "start": 32.63999938964844,
+        "end": 36.439998626708984,
+        "text": " So you did get scripted the Viagra AGV."
+      },
+      {
+        "id": 13,
+        "start": 36.439998626708984,
+        "end": 38.619998931884766,
+        "text": " What does the engraving on the pill say?"
+      },
+      {
+        "id": 14,
+        "start": 48.47999954223633,
+        "end": 49.79999923706055,
+        "text": " AC 340."
+      },
+      {
+        "id": 15,
+        "start": 53.599998474121094,
+        "end": 56.02000045776367,
+        "text": " Okay, so that can confirm with me"
+      },
+      {
+        "id": 16,
+        "start": 56.02000045776367,
+        "end": 57.68000030517578,
+        "text": " that you did get the wrong prescription, sir."
+      },
+      {
+        "id": 17,
+        "start": 57.68000030517578,
+        "end": 59.91999816894531,
+        "text": " The only marking you should have seen"
+      },
+      {
+        "id": 18,
+        "start": 60.7599983215332,
+        "end": 63.15999984741211,
+        "text": " is 100 for the dosage, and that's it."
+      },
+      {
+        "id": 19,
+        "start": 63.15999984741211,
+        "end": 64.87999725341797,
+        "text": " I'm gonna notify the pharmacy."
+      },
+      {
+        "id": 20,
+        "start": 64.87999725341797,
+        "end": 66.27999877929688,
+        "text": " They're gonna send you the correct one,"
+      },
+      {
+        "id": 21,
+        "start": 66.27999877929688,
+        "end": 69,
+        "text": " and you'll receive it in three to four business days."
+      },
+      {
+        "id": 22,
+        "start": 69,
+        "end": 70.94000244140625,
+        "text": " Aside from that, the one that,"
+      },
+      {
+        "id": 23,
+        "start": 70.94000244140625,
+        "end": 72.12000274658203,
+        "text": " yes, sir, I was gonna finish up."
+      },
+      {
+        "id": 24,
+        "start": 72.12000274658203,
+        "end": 72.95999908447266,
+        "text": " The one that you have."
+      },
+      {
+        "id": 25,
+        "start": 72.95999908447266,
+        "end": 74.5999984741211,
+        "text": " Do I just send it back?"
+      },
+      {
+        "id": 26,
+        "start": 74.5999984741211,
+        "end": 75.68000030517578,
+        "text": " Yeah, yeah, that's what I was trying to finish"
+      },
+      {
+        "id": 27,
+        "start": 75.68000030517578,
+        "end": 76.68000030517578,
+        "text": " right there, sir."
+      },
+      {
+        "id": 28,
+        "start": 76.68000030517578,
+        "end": 78.4800033569336,
+        "text": " And the one that you have, you can just keep,"
+      },
+      {
+        "id": 29,
+        "start": 78.4800033569336,
+        "end": 81.80000305175781,
+        "text": " use, or dispose of, but we'll send you the correct ones."
+      },
+      {
+        "id": 30,
+        "start": 81.80000305175781,
+        "end": 86.4000015258789,
+        "text": " All right, so yeah, this is called Xylindifoft, yeah."
+      },
+      {
+        "id": 31,
+        "start": 86.4000015258789,
+        "end": 89.19999694824219,
+        "text": " I can tell it's not the AGV, because I saw the picture."
+      },
+      {
+        "id": 32,
+        "start": 90.08000183105469,
+        "end": 92.27999877929688,
+        "text": " Xylindifoft is the key ingredient,"
+      },
+      {
+        "id": 33,
+        "start": 92.27999877929688,
+        "end": 94.08000183105469,
+        "text": " but Xylindifoft is an all-viagras."
+      },
+      {
+        "id": 34,
+        "start": 94.08000183105469,
+        "end": 97.27999877929688,
+        "text": " Just the AGV has a premium version of Xylindifoft."
+      },
+      {
+        "id": 35,
+        "start": 97.27999877929688,
+        "end": 99.83999633789062,
+        "text": " However, the AGV is gonna be a white diamond-shaped pill,"
+      },
+      {
+        "id": 36,
+        "start": 99.83999633789062,
+        "end": 102.5999984741211,
+        "text": " and it'll say 100 engraved on there, instead of AC."
+      },
+      {
+        "id": 37,
+        "start": 103.5999984741211,
+        "end": 105.4000015258789,
+        "text": " All right, I appreciate it."
+      },
+      {
+        "id": 38,
+        "start": 105.4000015258789,
+        "end": 107.4000015258789,
+        "text": " So clearly, they just gave me the wrong stuff."
+      },
+      {
+        "id": 39,
+        "start": 107.4000015258789,
+        "end": 108.76000213623047,
+        "text": " That's not what I wanted."
+      },
+      {
+        "id": 40,
+        "start": 108.76000213623047,
+        "end": 110,
+        "text": " Yeah, it looks like they had some issues"
+      },
+      {
+        "id": 41,
+        "start": 110,
+        "end": 111.91999816894531,
+        "text": " with their machine, but other than that,"
+      },
+      {
+        "id": 42,
+        "start": 111.91999816894531,
+        "end": 114.5999984741211,
+        "text": " I'm just gonna notify them and send you the right one."
+      },
+      {
+        "id": 43,
+        "start": 114.5999984741211,
+        "end": 115.76000213623047,
+        "text": " All right, I appreciate your help."
+      },
+      {
+        "id": 44,
+        "start": 115.76000213623047,
+        "end": 116.5999984741211,
+        "text": " Thank you."
+      },
+      {
+        "id": 45,
+        "start": 116.5999984741211,
+        "end": 117.41999816894531,
+        "text": " Yeah, no problem."
+      },
+      {
+        "id": 46,
+        "start": 117.41999816894531,
+        "end": 118.26000213623047,
+        "text": " Have a good one, bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-812f-ab15-c1c03970a3f8",
+    "url": "https://www.notion.so/300000001220041-300000001709930-2f511d0a101c812fab15c1c03970a3f8"
+  },
+  "processedAt": "2026-01-27T23:02:14.832Z"
+}

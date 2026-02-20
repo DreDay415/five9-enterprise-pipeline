@@ -1,0 +1,242 @@
+{
+  "recording": {
+    "name": "300000001220022-300000001709919-5307647011 by lucif@superbalife.com @ 2_14_11 PM.wav",
+    "size": 183816,
+    "modifyTime": 1769552185000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220022-300000001709919-5307647011 by lucif@superbalife.com @ 2_14_11 PM.wav",
+    "uploadDate": "2026-01-27T22:16:25.000Z",
+    "callId": "300000001220022-300000001709919",
+    "agent": "lucif",
+    "phoneNumber": "5307647011",
+    "callTimestamp": "2026-01-27T14:14:11.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, Clint speaking, how can I help you?\n\nSpeaker 2: Oh yeah, my name is Charles Stolz, I was calling to cancel my prescription.\n\nSpeaker 1: Alright, one moment, let me just pull up your account.\n\nSpeaker 2: Alright, so I do see you are a VIP with us, Mr. Charles.\n\nSpeaker 1: Do you mind telling me why it is that you are canceling?\n\nSpeaker 2: Oh, I ain't got a girlfriend no more, so I don't need it.\n\nSpeaker 1: Oh, I hear you on that one.\n\nSpeaker 2: Well, we can always kind of just postpone this for you, sir, in case you might need it down the line,\n\nSpeaker 1: give you like five or six months where you're not being sent any or billed.\n\nSpeaker 2: Okay, if you don't do that, that's fine.\n\nSpeaker 1: Yeah, we can do that for you, sir.\n\nSpeaker 2: Anything else that you might need, I can...\n\nSpeaker 1: I see you have some on the way though, don't I?\n\nSpeaker 2: Sorry?\n\nSpeaker 1: Don't I have a prescription on the way?\n\nSpeaker 2: Oh, let me check one thing.\n\nSpeaker 1: So you guys...\n\nSpeaker 2: I'm off my card on the 23rd?\n\nSpeaker 1: Yes, you did have one that was shipped on the 23rd, correct.\n\nSpeaker 2: Okay, so it's on its way?\n\nSpeaker 1: Correct, yes, but you won't get any others, you know, for a while there.\n\nSpeaker 2: We're going to stop everything, like I said, for about half a year.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Alrighty, and you can call at any moment if you need to change anything,\n\nSpeaker 1: give you my extension if you like, sir.\n\nSpeaker 2: Okay.\n\nSpeaker 1: What's the extension?\n\nSpeaker 2: Extension is 0035.\n\nSpeaker 1: Alrighty.\n\nSpeaker 2: And the name is Quinn.\n\nSpeaker 1: Quinn?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Alrighty.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: You're welcome. Have a good day.",
+    "duration": 4969,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thanks for calling Viagra, Clint speaking, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 7,
+        "text": " Oh yeah, my name is Charles Stolz, I was calling to cancel my prescription."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 13,
+        "text": " Alright, one moment, let me just fill up your account."
+      },
+      {
+        "id": 3,
+        "start": 25,
+        "end": 29,
+        "text": " Alright, so I do see you are a VIP with us, Mr. Charles."
+      },
+      {
+        "id": 4,
+        "start": 30,
+        "end": 33,
+        "text": " Do you mind telling me why it is that you are canceling?"
+      },
+      {
+        "id": 5,
+        "start": 34,
+        "end": 36,
+        "text": " Oh, I ain't got a girlfriend no more, so I don't need it."
+      },
+      {
+        "id": 6,
+        "start": 37,
+        "end": 38,
+        "text": " Oh, I hear you on that one."
+      },
+      {
+        "id": 7,
+        "start": 39,
+        "end": 43,
+        "text": " Well, we can always kind of just postpone this for you, sir, in case you might need it down the line,"
+      },
+      {
+        "id": 8,
+        "start": 43,
+        "end": 46,
+        "text": " give you like five or six months where you're not being sent any or billed."
+      },
+      {
+        "id": 9,
+        "start": 47,
+        "end": 48,
+        "text": " Okay, if you don't do that, that's fine."
+      },
+      {
+        "id": 10,
+        "start": 49,
+        "end": 50,
+        "text": " Yeah, we can do that for you, sir."
+      },
+      {
+        "id": 11,
+        "start": 51,
+        "end": 52,
+        "text": " Anything else that you might need, I can..."
+      },
+      {
+        "id": 12,
+        "start": 53,
+        "end": 55,
+        "text": " I see you have some on the way though, don't I?"
+      },
+      {
+        "id": 13,
+        "start": 56,
+        "end": 57,
+        "text": " Sorry?"
+      },
+      {
+        "id": 14,
+        "start": 57,
+        "end": 58,
+        "text": " Don't I have a prescription on the way?"
+      },
+      {
+        "id": 15,
+        "start": 59,
+        "end": 60,
+        "text": " Oh, let me check one thing."
+      },
+      {
+        "id": 16,
+        "start": 61,
+        "end": 62,
+        "text": " So you guys..."
+      },
+      {
+        "id": 17,
+        "start": 63,
+        "end": 66,
+        "text": " I'm off my card on the 23rd?"
+      },
+      {
+        "id": 18,
+        "start": 68,
+        "end": 71,
+        "text": " Yes, you did have one that was shipped on the 23rd, correct."
+      },
+      {
+        "id": 19,
+        "start": 72,
+        "end": 73,
+        "text": " Okay, so it's on its way?"
+      },
+      {
+        "id": 20,
+        "start": 74,
+        "end": 77,
+        "text": " Correct, yes, but you won't get any others, you know, for a while there."
+      },
+      {
+        "id": 21,
+        "start": 77,
+        "end": 79,
+        "text": " We're going to stop everything, like I said, for about half a year."
+      },
+      {
+        "id": 22,
+        "start": 80,
+        "end": 81,
+        "text": " Okay."
+      },
+      {
+        "id": 23,
+        "start": 83,
+        "end": 85,
+        "text": " Alrighty, and you can call at any moment if you need to change anything,"
+      },
+      {
+        "id": 24,
+        "start": 85,
+        "end": 87,
+        "text": " give you my extension if you like, sir."
+      },
+      {
+        "id": 25,
+        "start": 87,
+        "end": 88,
+        "text": " Okay."
+      },
+      {
+        "id": 26,
+        "start": 91,
+        "end": 92,
+        "text": " What's the extension?"
+      },
+      {
+        "id": 27,
+        "start": 93,
+        "end": 97,
+        "text": " Extension is 0035."
+      },
+      {
+        "id": 28,
+        "start": 98,
+        "end": 99,
+        "text": " Alrighty."
+      },
+      {
+        "id": 29,
+        "start": 100,
+        "end": 101,
+        "text": " And the name is Quinn."
+      },
+      {
+        "id": 30,
+        "start": 102,
+        "end": 103,
+        "text": " Quinn?"
+      },
+      {
+        "id": 31,
+        "start": 103,
+        "end": 104,
+        "text": " Correct."
+      },
+      {
+        "id": 32,
+        "start": 105,
+        "end": 106,
+        "text": " Okay."
+      },
+      {
+        "id": 33,
+        "start": 107,
+        "end": 108,
+        "text": " Alrighty."
+      },
+      {
+        "id": 34,
+        "start": 109,
+        "end": 110,
+        "text": " Thank you."
+      },
+      {
+        "id": 35,
+        "start": 110,
+        "end": 111,
+        "text": " You're welcome. Have a good day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8198-8932-dc1cc9ec735f",
+    "url": "https://www.notion.so/300000001220022-300000001709919-2f511d0a101c81988932dc1cc9ec735f"
+  },
+  "processedAt": "2026-01-27T23:05:48.320Z"
+}

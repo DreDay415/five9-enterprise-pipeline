@@ -1,0 +1,266 @@
+{
+  "recording": {
+    "name": "300000001217488-300000001707788-4193540336 by shantay@superbalife.com @ 10_31_10 AM.wav",
+    "size": 229056,
+    "modifyTime": 1769592443000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217488-300000001707788-4193540336 by shantay@superbalife.com @ 10_31_10 AM.wav",
+    "uploadDate": "2026-01-28T09:27:23.000Z",
+    "callId": "300000001217488-300000001707788",
+    "agent": "shantay",
+    "phoneNumber": "4193540336",
+    "callTimestamp": "2026-01-28T10:31:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: I would like to get a refill.\n\nSpeaker 1: Can I have your name as well as your date of birth?\n\nSpeaker 2: James Turner, that's T-U-R-N-O-W, and the birthday is 11-30-1950.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: You want to do the 30 pills of the generic Viagra 50 milligrams?\n\nSpeaker 1: How much is that?\n\nSpeaker 2: It's $88.95.\n\nSpeaker 1: Is there any specials going on now?\n\nSpeaker 2: Actually, that is a special.\n\nSpeaker 1: This price actually doesn't exist anymore.\n\nSpeaker 2: Any new customers that's getting 30 pills, they're paying $199.\n\nSpeaker 1: Oh, okay.\n\nSpeaker 2: I guess that's special.\n\nSpeaker 1: Yeah, so you're locked in at a really good price.\n\nSpeaker 2: I actually thought I was on like an automatic retail thing, you know,\n\nSpeaker 1: where it would come in, you know, every month or every month and a half or\n\nSpeaker 2: something like that.\n\nSpeaker 1: It looks like your refills were set to, I think, every five months.\n\nSpeaker 2: Oh, okay.\n\nSpeaker 1: And that was with the 30 of the?\n\nSpeaker 2: The 30 pills of the generic Viagra.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Well, I guess we just have to order.\n\nSpeaker 1: Okay, great.\n\nSpeaker 2: And then should I use the card we have on file, the MasterCard that ends in\n\nSpeaker 1: 9222?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, and you're still at the same address, 13020 Cross Creek Road?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, great.\n\nSpeaker 2: Okay, so that went through successfully, James,\n\nSpeaker 1: and delivery will be about three to five days.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: You're welcome.\n\nSpeaker 2: Have a good day.\n\nSpeaker 1: You too.\n\nSpeaker 2: Goodbye.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.",
+    "duration": 6345,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " I would like to get a refill."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 11,
+        "text": " Can I have your name as well as your date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 18,
+        "text": " James Turner, that's T-U-R-N-O-W, and the birthday is 11-30-1950."
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 28,
+        "text": " Thank you."
+      },
+      {
+        "id": 5,
+        "start": 28,
+        "end": 36,
+        "text": " You want to do the 30 pills of the generic Viagra 50 milligrams?"
+      },
+      {
+        "id": 6,
+        "start": 36,
+        "end": 38,
+        "text": " How much is that?"
+      },
+      {
+        "id": 7,
+        "start": 38,
+        "end": 42,
+        "text": " It's $88.95."
+      },
+      {
+        "id": 8,
+        "start": 42,
+        "end": 45,
+        "text": " Is there any specials going on now?"
+      },
+      {
+        "id": 9,
+        "start": 45,
+        "end": 47,
+        "text": " Actually, that is a special."
+      },
+      {
+        "id": 10,
+        "start": 47,
+        "end": 49,
+        "text": " This price actually doesn't exist anymore."
+      },
+      {
+        "id": 11,
+        "start": 49,
+        "end": 54,
+        "text": " Any new customers that's getting 30 pills, they're paying $199."
+      },
+      {
+        "id": 12,
+        "start": 54,
+        "end": 56,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 13,
+        "start": 56,
+        "end": 59,
+        "text": " I guess that's special."
+      },
+      {
+        "id": 14,
+        "start": 59,
+        "end": 63,
+        "text": " Yeah, so you're locked in at a really good price."
+      },
+      {
+        "id": 15,
+        "start": 63,
+        "end": 68,
+        "text": " I actually thought I was on like an automatic retail thing, you know,"
+      },
+      {
+        "id": 16,
+        "start": 68,
+        "end": 73,
+        "text": " where it would come in, you know, every month or every month and a half or"
+      },
+      {
+        "id": 17,
+        "start": 73,
+        "end": 75,
+        "text": " something like that."
+      },
+      {
+        "id": 18,
+        "start": 75,
+        "end": 81,
+        "text": " It looks like your refills were set to, I think, every five months."
+      },
+      {
+        "id": 19,
+        "start": 81,
+        "end": 83,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 20,
+        "start": 83,
+        "end": 88,
+        "text": " And that was with the 30 of the?"
+      },
+      {
+        "id": 21,
+        "start": 88,
+        "end": 93,
+        "text": " The 30 pills of the generic Viagra."
+      },
+      {
+        "id": 22,
+        "start": 93,
+        "end": 96,
+        "text": " Okay."
+      },
+      {
+        "id": 23,
+        "start": 96,
+        "end": 99,
+        "text": " Well, I guess we just have to order."
+      },
+      {
+        "id": 24,
+        "start": 99,
+        "end": 102,
+        "text": " Okay, great."
+      },
+      {
+        "id": 25,
+        "start": 102,
+        "end": 108,
+        "text": " And then should I use the card we have on file, the MasterCard that ends in"
+      },
+      {
+        "id": 26,
+        "start": 108,
+        "end": 110,
+        "text": " 9222?"
+      },
+      {
+        "id": 27,
+        "start": 110,
+        "end": 112,
+        "text": " Yes."
+      },
+      {
+        "id": 28,
+        "start": 112,
+        "end": 117,
+        "text": " Okay, and you're still at the same address, 13020 Cross Creek Road?"
+      },
+      {
+        "id": 29,
+        "start": 117,
+        "end": 119,
+        "text": " Yes."
+      },
+      {
+        "id": 30,
+        "start": 119,
+        "end": 127,
+        "text": " Okay, great."
+      },
+      {
+        "id": 31,
+        "start": 127,
+        "end": 130,
+        "text": " Okay, so that went through successfully, James,"
+      },
+      {
+        "id": 32,
+        "start": 130,
+        "end": 132,
+        "text": " and delivery will be about three to five days."
+      },
+      {
+        "id": 33,
+        "start": 132,
+        "end": 134,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 34,
+        "start": 134,
+        "end": 135,
+        "text": " You're welcome."
+      },
+      {
+        "id": 35,
+        "start": 135,
+        "end": 136,
+        "text": " Have a good day."
+      },
+      {
+        "id": 36,
+        "start": 136,
+        "end": 137,
+        "text": " You too."
+      },
+      {
+        "id": 37,
+        "start": 137,
+        "end": 138,
+        "text": " Goodbye."
+      },
+      {
+        "id": 38,
+        "start": 138,
+        "end": 139,
+        "text": " Thank you."
+      },
+      {
+        "id": 39,
+        "start": 139,
+        "end": 140,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e1-8beb-c07b6bb1db1a",
+    "url": "https://www.notion.so/300000001217488-300000001707788-2f611d0a101c81e18bebc07b6bb1db1a"
+  },
+  "processedAt": "2026-01-28T10:28:45.373Z"
+}

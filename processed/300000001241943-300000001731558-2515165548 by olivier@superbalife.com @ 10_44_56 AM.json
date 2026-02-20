@@ -1,0 +1,209 @@
+{
+  "recording": {
+    "name": "300000001241943-300000001731558-2515165548 by olivier@superbalife.com @ 10_44_56 AM.wav",
+    "size": 274100,
+    "modifyTime": 1771008488000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241943-300000001731558-2515165548 by olivier@superbalife.com @ 10_44_56 AM.wav",
+    "uploadDate": "2026-02-13T18:48:08.000Z",
+    "callId": "300000001241943-300000001731558",
+    "agent": "olivier",
+    "phoneNumber": "2515165548",
+    "callTimestamp": "2026-02-13T10:44:56.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivier_300000001241943-300000001731558_2515165548.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivier_300000001241943-300000001731558_2515165548.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra. Hey, how you doing today? Good. I'm calling, I want to see about cancelling my order, not order, my subscription.\n\nSpeaker 2: May I have the phone number you use?\n\nSpeaker 1: I use the one you're calling me from, but I don't see no account. Maybe use a different number?\n\nSpeaker 2: The other one was turned off, 251-545-0375.\n\nSpeaker 1: Mr. William Yeo?\n\nSpeaker 2: Yep, that's me.\n\nSpeaker 1: Yeah, so I see you have a prescription, I think, for 100mg, 10 tablets, Viagra. Any health concerns, or you just want to order as needed? You don't want to be on a monthly?\n\nSpeaker 2: Yeah, order as needed. Actually, I'm not getting what they say I was getting anyway.\n\nSpeaker 1: What you were trying to get, sir?\n\nSpeaker 2: It's supposed to be the Viagra AGV.\n\nSpeaker 1: Oh, okay.\n\nSpeaker 2: It's not the AGV.\n\nSpeaker 1: It's not the AGV? Do you have a pill in front of you, by any chance?\n\nSpeaker 2: No, sir, I don't. It's at home.\n\nSpeaker 1: But yeah, take me off of that each month, where I can order as needed.\n\nSpeaker 2: Yeah, as needed. I'm going to pause the prescription to lock your price, because I see you have a pretty good price right now, but that way you're not going to be on a monthly.\n\nSpeaker 1: You can order as needed. If you take two refills a year, if you get two refills a year, that's the little caveat right there.\n\nSpeaker 2: They're always going to keep you at the same price, but I'm going to pause you for half a year, so you're not on a monthly. You can go to reorder, okay?\n\nSpeaker 1: Okay, yeah, I'll call to do that.\n\nSpeaker 2: Do you know if my order that just came out on the 9th has shipped?\n\nSpeaker 1: Yes, it's already delivered, but I'm going to tell you the date in a second. Give me one moment. I'm going to tell you the date in a second.\n\nSpeaker 2: You have a tracking number already. Let me tell you. They delivered yesterday.\n\nSpeaker 1: Oh, okay. My wife, she probably already picked them up.\n\nSpeaker 2: Yeah, she delivered yesterday.\n\nSpeaker 1: And then I'll pause you for half a year, so you're not on a monthly, and that way I can keep you at this deal that you have.\n\nSpeaker 2: Okay.\n\nSpeaker 1: You can get it, if you want, once every six months or sooner than that if you like, but you're not on a monthly anymore, okay?\n\nSpeaker 2: Okay, sounds good.\n\nSpeaker 1: All right, so you're all set.\n\nSpeaker 2: Okay, man. Sure appreciate you.\n\nSpeaker 1: Of course. Bye-bye. You have a great weekend.\n\nSpeaker 2: All right, same to you. Thank you.",
+    "duration": 8401,
+    "audioDuration": 168.63999938964844,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 15,
+        "text": " Hi this is Viagra. Hey how you doing today? Good. I'm calling, I want to see about cancelling my order, not order, my subscription."
+      },
+      {
+        "id": 1,
+        "start": 15,
+        "end": 21,
+        "text": " May I have the phone number you use? I use the one you're calling me from, but I don't see no account. Maybe use a different number?"
+      },
+      {
+        "id": 2,
+        "start": 21,
+        "end": 32,
+        "text": " The other one was turned off, 251-545-0375."
+      },
+      {
+        "id": 3,
+        "start": 32,
+        "end": 36,
+        "text": " Mr. William Yeo? Yep, that's me."
+      },
+      {
+        "id": 4,
+        "start": 36,
+        "end": 48,
+        "text": " Yeah, so I see you have a prescription, I think, for 100mg, 10 tablets, Viagra. Any health concerns, or you just want to order as needed? You don't want to be on a monthly?"
+      },
+      {
+        "id": 5,
+        "start": 48,
+        "end": 56,
+        "text": " Yeah, order as needed. Actually, I'm not getting what they say I was getting anyway."
+      },
+      {
+        "id": 6,
+        "start": 56,
+        "end": 59,
+        "text": " What you were trying to get, sir?"
+      },
+      {
+        "id": 7,
+        "start": 59,
+        "end": 64,
+        "text": " It's supposed to be the Viagra AGV."
+      },
+      {
+        "id": 8,
+        "start": 64,
+        "end": 66,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 9,
+        "start": 66,
+        "end": 69,
+        "text": " It's not the AGV."
+      },
+      {
+        "id": 10,
+        "start": 69,
+        "end": 73,
+        "text": " It's not the AGV? Do you have a pill in front of you, by any chance?"
+      },
+      {
+        "id": 11,
+        "start": 73,
+        "end": 76,
+        "text": " No, sir, I don't. It's at home."
+      },
+      {
+        "id": 12,
+        "start": 76,
+        "end": 83,
+        "text": " But yeah, take me off of that each month, where I can order as needed."
+      },
+      {
+        "id": 13,
+        "start": 83,
+        "end": 92,
+        "text": " Yeah, as needed. I'm going to pause the prescription to lock your price, because I see you have a pretty good price right now, but that way you're not going to be on a monthly."
+      },
+      {
+        "id": 14,
+        "start": 92,
+        "end": 99,
+        "text": " You can order as needed. If you take two refills a year, if you get two refills a year, that's the little caveat right there."
+      },
+      {
+        "id": 15,
+        "start": 100,
+        "end": 107,
+        "text": " They're always going to keep you at the same price, but I'm going to pause you for half a year, so you're not on a monthly. You can go to reorder, okay?"
+      },
+      {
+        "id": 16,
+        "start": 107,
+        "end": 110,
+        "text": " Okay, yeah, I'll call to do that."
+      },
+      {
+        "id": 17,
+        "start": 110,
+        "end": 116,
+        "text": " Do you know if my order that just came out on the 9th has shipped?"
+      },
+      {
+        "id": 18,
+        "start": 116,
+        "end": 124,
+        "text": " Yes, it's already delivered, but I'm going to tell you the date in a second. Give me one moment. I'm going to tell you the date in a second."
+      },
+      {
+        "id": 19,
+        "start": 125,
+        "end": 131,
+        "text": " You have a tracking number already. Let me tell you. They delivered yesterday."
+      },
+      {
+        "id": 20,
+        "start": 131,
+        "end": 136,
+        "text": " Oh, okay. My wife, she probably already picked them up."
+      },
+      {
+        "id": 21,
+        "start": 136,
+        "end": 139,
+        "text": " Yeah, she delivered yesterday."
+      },
+      {
+        "id": 22,
+        "start": 139,
+        "end": 145,
+        "text": " And then I'll pause you for half a year, so you're not on a monthly, and that way I can keep you at this deal that you have."
+      },
+      {
+        "id": 23,
+        "start": 146,
+        "end": 147,
+        "text": " Okay."
+      },
+      {
+        "id": 24,
+        "start": 147,
+        "end": 155,
+        "text": " You can get it, if you want, once every six months or sooner than that if you like, but you're not on a monthly anymore, okay?"
+      },
+      {
+        "id": 25,
+        "start": 155,
+        "end": 157,
+        "text": " Okay, sounds good."
+      },
+      {
+        "id": 26,
+        "start": 157,
+        "end": 159,
+        "text": " All right, so you're all set."
+      },
+      {
+        "id": 27,
+        "start": 159,
+        "end": 161,
+        "text": " Okay, man. Sure appreciate you."
+      },
+      {
+        "id": 28,
+        "start": 161,
+        "end": 163,
+        "text": " Of course. Bye-bye. You have a great weekend."
+      },
+      {
+        "id": 29,
+        "start": 163,
+        "end": 165,
+        "text": " All right, same to you. Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8185-bc3e-e5af88de1a59",
+    "url": "https://www.notion.so/300000001241943-300000001731558-30611d0a101c8185bc3ee5af88de1a59"
+  },
+  "processedAt": "2026-02-13T19:03:47.484Z"
+}

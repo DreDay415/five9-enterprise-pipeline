@@ -1,0 +1,230 @@
+{
+  "recording": {
+    "name": "300000001240082-300000001729985-7046610735 by olivier@superbalife.com @ 9_42_51 AM.wav",
+    "size": 231396,
+    "modifyTime": 1770918336000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240082-300000001729985-7046610735 by olivier@superbalife.com @ 9_42_51 AM.wav",
+    "uploadDate": "2026-02-12T17:45:36.000Z",
+    "callId": "300000001240082-300000001729985",
+    "agent": "olivier",
+    "phoneNumber": "7046610735",
+    "callTimestamp": "2026-02-12T09:42:51.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Yes, I was calling to see how I can cancel my subscription. I didn't find that on the website.\n\nSpeaker 1: Mr. Arnicott?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Yeah, I see you have a prescription for Viagra, 50 milligram, 10 tablets every 30 days. Any health concern, or you just try to order as needed instead?\n\nSpeaker 2: Just I'm done with using it and I just want to cancel my subscription.\n\nSpeaker 1: Yeah, you don't have an actual subscription. You just have a refill coming with the prescription, but you can pause that if you don't need it and just order as needed. You just cancel the initial writing from the doctor and the prescription is paused.\n\nSpeaker 2: So that way you just call to reorder because you're not required to get it every 30 days anyway.\n\nSpeaker 1: That's just initial writing from the physician when they started it.\n\nSpeaker 2: And how do I do that on the website?\n\nSpeaker 1: I can do that for you, and if you're not able to see that, I can have the IT department kind of launching some update on your profile so you can have all the autonomy.\n\nSpeaker 2: Because there are so many accounts, some of them need to be updated, rebooted, the software and all that.\n\nSpeaker 1: I can pause the prescription for you here and just stop the monthly, so that way you can just reorder as needed, which locks your price in basically. You don't need to pay a higher price. Prescription is preserved.\n\nSpeaker 2: I think they'll pause you up to half a year to reorder, but it's just not going to be every single month anymore.\n\nSpeaker 1: Okay, that's fine for now, but if I can just go ahead and cancel it completely, that would be more ideal.\n\nSpeaker 2: Just stop it altogether.\n\nSpeaker 1: Okay, yeah. Just be advised if you see the order not going through because they don't want to refinance the consultation they initially got you, or if they do, of course, it's going to impact your price. If you see some price difference, that's fine.\n\nSpeaker 2: So I'll cancel everything for you, okay? You all set?\n\nSpeaker 1: All right, that's it. Everything's cancelled?\n\nSpeaker 2: Yes, everything's cancelled.\n\nSpeaker 1: All right. Thank you, sir. Bye-bye.",
+    "duration": 6307,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3.180000066757202,
+        "end": 9.140000343322754,
+        "text": " Yes, I was calling to see how I can cancel my subscription. I didn't find that on the"
+      },
+      {
+        "id": 2,
+        "start": 10.619999885559082,
+        "end": 12.020000457763672,
+        "text": " website."
+      },
+      {
+        "id": 3,
+        "start": 12.020000457763672,
+        "end": 15.0600004196167,
+        "text": " Yes, I'm pulling the prescription here. Give me one moment."
+      },
+      {
+        "id": 4,
+        "start": 16.81999969482422,
+        "end": 18.65999984741211,
+        "text": " Mr. Arnicott?"
+      },
+      {
+        "id": 5,
+        "start": 18.65999984741211,
+        "end": 19.979999542236328,
+        "text": " Yes."
+      },
+      {
+        "id": 6,
+        "start": 19.979999542236328,
+        "end": 24.899999618530273,
+        "text": " Yeah, I see you have a prescription for Viagra, 50 milligram, 10 tablet"
+      },
+      {
+        "id": 7,
+        "start": 25.8799991607666,
+        "end": 31.219999313354492,
+        "text": " every 30 days. Any health concern, or you just try to order as needed instead?"
+      },
+      {
+        "id": 8,
+        "start": 33.31999969482422,
+        "end": 35.79999923706055,
+        "text": " Just I'm done with using it and"
+      },
+      {
+        "id": 9,
+        "start": 37.439998626708984,
+        "end": 39.439998626708984,
+        "text": " I just want to cancel my subscription."
+      },
+      {
+        "id": 10,
+        "start": 40.36000061035156,
+        "end": 42.560001373291016,
+        "text": " Yeah, you don't have an actual subscription."
+      },
+      {
+        "id": 11,
+        "start": 42.560001373291016,
+        "end": 44.81999969482422,
+        "text": " You just have a refill coming with the prescription,"
+      },
+      {
+        "id": 12,
+        "start": 44.81999969482422,
+        "end": 51.119998931884766,
+        "text": " but you can pause that if you don't need it and just order as needed. You just cancel the initial"
+      },
+      {
+        "id": 13,
+        "start": 51.84000015258789,
+        "end": 55.08000183105469,
+        "text": " writing from the doctor and the prescription is paused."
+      },
+      {
+        "id": 14,
+        "start": 55.099998474121094,
+        "end": 59.619998931884766,
+        "text": " So that way you just call to reorder because you're not required to get it every 30 days anyway."
+      },
+      {
+        "id": 15,
+        "start": 59.619998931884766,
+        "end": 64.0999984741211,
+        "text": " That's just initial writing from the physician when they started it."
+      },
+      {
+        "id": 16,
+        "start": 65.26000213623047,
+        "end": 67.73999786376953,
+        "text": " And how do I do that on the website?"
+      },
+      {
+        "id": 17,
+        "start": 68.45999908447266,
+        "end": 74.86000061035156,
+        "text": " I can do that for you, and if you're not able to see that, I can have the IT department kind of"
+      },
+      {
+        "id": 18,
+        "start": 75.63999938964844,
+        "end": 79.80000305175781,
+        "text": " launching some update on your profile so you can have all the autonomy."
+      },
+      {
+        "id": 19,
+        "start": 80.55999755859375,
+        "end": 83.44000244140625,
+        "text": " Because there are so many accounts, some of them need to be updated,"
+      },
+      {
+        "id": 20,
+        "start": 84.76000213623047,
+        "end": 86.76000213623047,
+        "text": " rebooted, the software and all that."
+      },
+      {
+        "id": 21,
+        "start": 87.16000366210938,
+        "end": 93.4800033569336,
+        "text": " I can pause the prescription for you here and just stop the monthly, so that way you can just reorder as needed, which"
+      },
+      {
+        "id": 22,
+        "start": 94,
+        "end": 98.91999816894531,
+        "text": " locks your price in basically. You don't need to pay a higher price. Prescription is preserved."
+      },
+      {
+        "id": 23,
+        "start": 98.91999816894531,
+        "end": 100.91999816894531,
+        "text": " I think they'll pause you up to half a year"
+      },
+      {
+        "id": 24,
+        "start": 101.45999908447266,
+        "end": 105.33999633789062,
+        "text": " to reorder, but it's just not going to be every single month anymore."
+      },
+      {
+        "id": 25,
+        "start": 106.77999877929688,
+        "end": 112.5,
+        "text": " Okay, that's fine for now, but if I can just go ahead and cancel it completely, that would be more ideal."
+      },
+      {
+        "id": 26,
+        "start": 112.5,
+        "end": 114.5,
+        "text": " Just stop it altogether."
+      },
+      {
+        "id": 27,
+        "start": 115.05999755859375,
+        "end": 121.5,
+        "text": " Okay, yeah. Just be advised if you see the order not going through because they don't want to refinance the consultation"
+      },
+      {
+        "id": 28,
+        "start": 121.5,
+        "end": 128.4199981689453,
+        "text": " they initially got you, or if they do, of course, it's going to impact your price. If you see some price difference,"
+      },
+      {
+        "id": 29,
+        "start": 128.52000427246094,
+        "end": 130.52000427246094,
+        "text": " that's fine."
+      },
+      {
+        "id": 30,
+        "start": 130.52000427246094,
+        "end": 133.44000244140625,
+        "text": " So I'll cancel everything for you, okay? You all set?"
+      },
+      {
+        "id": 31,
+        "start": 134.39999389648438,
+        "end": 136.39999389648438,
+        "text": " All right, that's it. Everything's cancelled?"
+      },
+      {
+        "id": 32,
+        "start": 136.83999633789062,
+        "end": 138.83999633789062,
+        "text": " Yes, everything's cancelled."
+      },
+      {
+        "id": 33,
+        "start": 138.8800048828125,
+        "end": 141.32000732421875,
+        "text": " All right. Thank you, sir. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-819f-ad20-eb59df1ed993",
+    "url": "https://www.notion.so/300000001240082-300000001729985-30511d0a101c819fad20eb59df1ed993"
+  },
+  "processedAt": "2026-02-12T18:07:53.022Z"
+}

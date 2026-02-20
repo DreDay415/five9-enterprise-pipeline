@@ -1,0 +1,80 @@
+{
+  "recording": {
+    "name": "300000001218318-300000001708321-4082427436 by lucif@superbalife.com @ 2_16_28 PM.wav",
+    "size": 64866,
+    "modifyTime": 1769585530000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218318-300000001708321-4082427436 by lucif@superbalife.com @ 2_16_28 PM.wav",
+    "uploadDate": "2026-01-28T07:32:10.000Z",
+    "callId": "300000001218318-300000001708321",
+    "agent": "lucif",
+    "phoneNumber": "4082427436",
+    "callTimestamp": "2026-01-28T14:16:28.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, it's Paul Agarquin speaking. How can I help you?\n\nSpeaker 2: Hey, I've seen little John on 0026, and I haven't been on hold for over 10 minutes.\n\nSpeaker 1: I'm sorry?\n\nSpeaker 2: Yeah, is he available, or is that a normal wait time?\n\nSpeaker 1: You said for John?\n\nSpeaker 2: Yeah, John, when I talked to him a few days ago, he said his extension was 0026.\n\nSpeaker 1: No, that is it. He must be on another call. Hold on. One second.\n\nSpeaker 2: Oh, no. Let me see. He never stepped out of the office. Give me one moment. I'll check. Give me one second.\n\nSpeaker 1: Okay.",
+    "duration": 1934,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hey, it's Paul Agarquin speaking. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 9,
+        "text": " Hey, I've seen little John on 0026, and I haven't been on hold for over 10 minutes."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 12,
+        "text": " I'm sorry?"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 16,
+        "text": " Yeah, is he available, or that's a normal wait time?"
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 18,
+        "text": " You said for John?"
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 23,
+        "text": " Yeah, John, when I talked to him a few days ago, he said his attention was 0026."
+      },
+      {
+        "id": 6,
+        "start": 23,
+        "end": 29,
+        "text": " No, that is it. He must be on another call. Hold on. One second."
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 37,
+        "text": " Oh, no. Let me see. He never stepped out of the office. Give me one moment. I'll check. Give me one second."
+      },
+      {
+        "id": 8,
+        "start": 37,
+        "end": 39,
+        "text": " Okay."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-811e-b70b-fde5655fb2b1",
+    "url": "https://www.notion.so/300000001218318-300000001708321-2f611d0a101c811eb70bfde5655fb2b1"
+  },
+  "processedAt": "2026-01-28T14:18:21.112Z"
+}

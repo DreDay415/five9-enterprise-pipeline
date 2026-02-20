@@ -1,0 +1,98 @@
+{
+  "recording": {
+    "name": "300000001217069-300000001707492-9105510515 by john@superbalife.com @ 9_02_54 AM.wav",
+    "size": 72536,
+    "modifyTime": 1769590640000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217069-300000001707492-9105510515 by john@superbalife.com @ 9_02_54 AM.wav",
+    "uploadDate": "2026-01-28T08:57:20.000Z",
+    "callId": "300000001217069-300000001707492",
+    "agent": "john",
+    "phoneNumber": "9105510515",
+    "callTimestamp": "2026-01-28T09:02:54.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Yes, sir. My name is James Clean. I checked my thing and I count for order from in a one-time only.\n\nSpeaker 1: And I would see that you guys—\n\nSpeaker 2: Recent.\n\nSpeaker 1: Send me another shipment and charge it to my cat. We shouldn't have—\n\nSpeaker 2: Okay, I need your zip code.\n\nSpeaker 1: Two three one one.\n\nSpeaker 2: Okay, you're in Fayetteville, sir?\n\nSpeaker 1: Yes, I am.\n\nSpeaker 2: So yes, I see you reached out today about it, but it already shipped. So this package when it arrives—\n\nSpeaker 1: Sir, if you're not going to let me talk, I'm just going to hang up.\n\nSpeaker 2: You don't want all the—",
+    "duration": 2103,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 2.640000104904175,
+        "end": 9.199999809265137,
+        "text": " Yes, sir. My name is James clean. I checked my thing and I count for order from in a one-time only"
+      },
+      {
+        "id": 2,
+        "start": 9.920000076293945,
+        "end": 11.920000076293945,
+        "text": " And I would see that you guys"
+      },
+      {
+        "id": 3,
+        "start": 12.15999984741211,
+        "end": 14.079999923706055,
+        "text": " recent"
+      },
+      {
+        "id": 4,
+        "start": 14.079999923706055,
+        "end": 17.31999969482422,
+        "text": " Send me another shipment and charge it to my cat. We shouldn't have"
+      },
+      {
+        "id": 5,
+        "start": 18.799999237060547,
+        "end": 20.799999237060547,
+        "text": " Okay, I need your zip code"
+      },
+      {
+        "id": 6,
+        "start": 21.440000534057617,
+        "end": 23.440000534057617,
+        "text": " to a 3-1-1"
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 32,
+        "text": " Okay, you're in Fayetteville, sir"
+      },
+      {
+        "id": 8,
+        "start": 32.15999984741211,
+        "end": 33.439998626708984,
+        "text": " Yes, I am"
+      },
+      {
+        "id": 9,
+        "start": 33.439998626708984,
+        "end": 38.15999984741211,
+        "text": " So yes, I see you reached out today about it, but it already shipped. So this package when it arrives"
+      },
+      {
+        "id": 10,
+        "start": 39.7599983215332,
+        "end": 42.08000183105469,
+        "text": " Sir if you're not going to let me talk i'm just going to hang up"
+      },
+      {
+        "id": 11,
+        "start": 43.599998474121094,
+        "end": 45.599998474121094,
+        "text": " You don't want all the"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ad-9df4-f9a11e8d43ea",
+    "url": "https://www.notion.so/300000001217069-300000001707492-2f611d0a101c81ad9df4f9a11e8d43ea"
+  },
+  "processedAt": "2026-01-28T12:04:10.019Z"
+}

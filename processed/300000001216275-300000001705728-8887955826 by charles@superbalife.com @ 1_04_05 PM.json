@@ -1,0 +1,548 @@
+{
+  "recording": {
+    "name": "300000001216275-300000001705728-8887955826 by charles@superbalife.com @ 1_04_05 PM.wav",
+    "size": 281186,
+    "modifyTime": 1769592441000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216275-300000001705728-8887955826 by charles@superbalife.com @ 1_04_05 PM.wav",
+    "uploadDate": "2026-01-28T09:27:21.000Z",
+    "callId": "300000001216275-300000001705728",
+    "agent": "charles",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T13:04:05.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra's, this is Charles.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Hello.\n\nSpeaker 2: How are you doing?\n\nSpeaker 1: Yes.\n\nSpeaker 2: I just got switched to you on an order question.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Can I have your phone number?\n\nSpeaker 1: Yes.\n\nSpeaker 2: My phone number is 772-672-0397.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Phillip Cochran.\n\nSpeaker 1: Yes.\n\nSpeaker 2: All right.\n\nSpeaker 1: How can I help you?\n\nSpeaker 2: Well, I originally ordered.\n\nSpeaker 1: It's been two or three months at least now.\n\nSpeaker 2: I tried to order at Viagra AGV, and I got Sidenafil.\n\nSpeaker 1: Sidenafil is an active ingredient in all Viagra.\n\nSpeaker 2: So on the pills, what does the actual pill say?\n\nSpeaker 1: It should have the number 50.\n\nSpeaker 2: It's Sidenafil Citrate 50 milligram tablets.\n\nSpeaker 1: No, not on the pill bottle, on the actual pill.\n\nSpeaker 2: What does the actual pill say?\n\nSpeaker 1: Oh, wait a minute.\n\nSpeaker 2: Let me look and see.\n\nSpeaker 1: Hang on a second.\n\nSpeaker 2: Wait a second.\n\nSpeaker 1: I need to get a better look at it.\n\nSpeaker 2: Just a second.\n\nSpeaker 1: Okay.\n\nSpeaker 2: It says AC33S.\n\nSpeaker 1: Got it.\n\nSpeaker 2: Okay.\n\nSpeaker 1: So that's the American-made AGV.\n\nSpeaker 2: And what does it say?\n\nSpeaker 1: It says AC33S.\n\nSpeaker 2: Okay.\n\nSpeaker 1: So that's the American-made AGV.\n\nSpeaker 2: And what does the actual pill say?\n\nSpeaker 1: It says AC33S.\n\nSpeaker 2: Okay.\n\nSpeaker 1: And what does the actual pill say?\n\nSpeaker 2: It says AC33S.\n\nSpeaker 1: Got it.\n\nSpeaker 2: Okay.\n\nSpeaker 1: So that's the American-made AGV.\n\nSpeaker 2: How are you liking that one?\n\nSpeaker 1: I'm sorry.\n\nSpeaker 2: Say again?\n\nSpeaker 1: That's the American-made AGV that Pfizer has.\n\nSpeaker 2: So is that one doing its job for you?\n\nSpeaker 1: It should be.\n\nSpeaker 2: Not really, no.\n\nSpeaker 1: No?\n\nSpeaker 2: Okay.\n\nSpeaker 1: Let me do this then.\n\nSpeaker 2: We do have the version that's made in France.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I'm going to send you that.\n\nSpeaker 1: Okay.\n\nSpeaker 2: For you to try.\n\nSpeaker 1: I'm going to pause everything for the time being.\n\nSpeaker 2: That way you have time to try this and then call us back and let us know.\n\nSpeaker 1: And then we'll discuss a schedule for your refills.\n\nSpeaker 2: That way they're not coming every month anymore.\n\nSpeaker 1: Okay.\n\nSpeaker 2: That would be perfect.\n\nSpeaker 1: Solid.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I'll send that out today.\n\nSpeaker 2: I'd expect them by maybe Thursday or Friday of next week.\n\nSpeaker 1: Okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: I appreciate it.\n\nSpeaker 1: You've been very helpful.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: I hope you have a great weekend.\n\nSpeaker 2: Okay?\n\nSpeaker 1: Okay.\n\nSpeaker 2: You too.\n\nSpeaker 1: And thanks a lot.\n\nSpeaker 2: Appreciate it.\n\nSpeaker 1: Take care.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Okay.",
+    "duration": 9519,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thanks for calling Viagra's, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 6,
+        "text": " Yes."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 7,
+        "text": " Hello."
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 9,
+        "text": " How are you doing?"
+      },
+      {
+        "id": 4,
+        "start": 9,
+        "end": 10,
+        "text": " Yes."
+      },
+      {
+        "id": 5,
+        "start": 10,
+        "end": 15,
+        "text": " I just got switched to you on an order question."
+      },
+      {
+        "id": 6,
+        "start": 15,
+        "end": 16,
+        "text": " Okay."
+      },
+      {
+        "id": 7,
+        "start": 16,
+        "end": 18,
+        "text": " Can I have your phone number?"
+      },
+      {
+        "id": 8,
+        "start": 18,
+        "end": 19,
+        "text": " Yes."
+      },
+      {
+        "id": 9,
+        "start": 19,
+        "end": 26,
+        "text": " My phone number is 772-672-0397."
+      },
+      {
+        "id": 10,
+        "start": 26,
+        "end": 27,
+        "text": " Okay."
+      },
+      {
+        "id": 11,
+        "start": 27,
+        "end": 30,
+        "text": " Phillip Cochran."
+      },
+      {
+        "id": 12,
+        "start": 30,
+        "end": 31,
+        "text": " Yes."
+      },
+      {
+        "id": 13,
+        "start": 31,
+        "end": 32,
+        "text": " All right."
+      },
+      {
+        "id": 14,
+        "start": 32,
+        "end": 33,
+        "text": " How can I help you?"
+      },
+      {
+        "id": 15,
+        "start": 33,
+        "end": 35,
+        "text": " Well, I originally ordered."
+      },
+      {
+        "id": 16,
+        "start": 35,
+        "end": 38,
+        "text": " It's been two or three months at least now."
+      },
+      {
+        "id": 17,
+        "start": 38,
+        "end": 46,
+        "text": " I tried to order at Viagra AGV, and I got Sidenafil."
+      },
+      {
+        "id": 18,
+        "start": 46,
+        "end": 50,
+        "text": " Sidenafil is an active ingredient in all Viagra."
+      },
+      {
+        "id": 19,
+        "start": 51,
+        "end": 57,
+        "text": " So on the pills, what does the actual pill say?"
+      },
+      {
+        "id": 20,
+        "start": 57,
+        "end": 60,
+        "text": " It should have the number 50."
+      },
+      {
+        "id": 21,
+        "start": 60,
+        "end": 65,
+        "text": " It's Sidenafil Citrate 50 milligram tablets."
+      },
+      {
+        "id": 22,
+        "start": 65,
+        "end": 68,
+        "text": " No, not on the pill bottle, on the actual pill."
+      },
+      {
+        "id": 23,
+        "start": 68,
+        "end": 70,
+        "text": " What does the actual pill say?"
+      },
+      {
+        "id": 24,
+        "start": 70,
+        "end": 71,
+        "text": " Oh, wait a minute."
+      },
+      {
+        "id": 25,
+        "start": 71,
+        "end": 72,
+        "text": " Let me look and see."
+      },
+      {
+        "id": 26,
+        "start": 72,
+        "end": 73,
+        "text": " Hang on a second."
+      },
+      {
+        "id": 27,
+        "start": 74,
+        "end": 75,
+        "text": " Wait a second."
+      },
+      {
+        "id": 28,
+        "start": 75,
+        "end": 77,
+        "text": " I need to get a better look at it."
+      },
+      {
+        "id": 29,
+        "start": 77,
+        "end": 78,
+        "text": " Just a second."
+      },
+      {
+        "id": 30,
+        "start": 78,
+        "end": 79,
+        "text": " Okay."
+      },
+      {
+        "id": 31,
+        "start": 80,
+        "end": 83,
+        "text": " It says AC33S."
+      },
+      {
+        "id": 32,
+        "start": 83,
+        "end": 84,
+        "text": " Got it."
+      },
+      {
+        "id": 33,
+        "start": 84,
+        "end": 85,
+        "text": " Okay."
+      },
+      {
+        "id": 34,
+        "start": 85,
+        "end": 87,
+        "text": " So that's the American-made AGV."
+      },
+      {
+        "id": 35,
+        "start": 87,
+        "end": 88,
+        "text": " And what does it say?"
+      },
+      {
+        "id": 36,
+        "start": 88,
+        "end": 91,
+        "text": " It says AC33S."
+      },
+      {
+        "id": 37,
+        "start": 91,
+        "end": 92,
+        "text": " Okay."
+      },
+      {
+        "id": 38,
+        "start": 92,
+        "end": 94,
+        "text": " So that's the American-made AGV."
+      },
+      {
+        "id": 39,
+        "start": 94,
+        "end": 96,
+        "text": " And what does the actual pill say?"
+      },
+      {
+        "id": 40,
+        "start": 96,
+        "end": 98,
+        "text": " It says AC33S."
+      },
+      {
+        "id": 41,
+        "start": 98,
+        "end": 99,
+        "text": " Okay."
+      },
+      {
+        "id": 42,
+        "start": 99,
+        "end": 101,
+        "text": " And what does the actual pill say?"
+      },
+      {
+        "id": 43,
+        "start": 101,
+        "end": 103,
+        "text": " It says AC33S."
+      },
+      {
+        "id": 44,
+        "start": 104,
+        "end": 105,
+        "text": " Got it."
+      },
+      {
+        "id": 45,
+        "start": 105,
+        "end": 106,
+        "text": " Okay."
+      },
+      {
+        "id": 46,
+        "start": 106,
+        "end": 108,
+        "text": " So that's the American-made AGV."
+      },
+      {
+        "id": 47,
+        "start": 108,
+        "end": 111,
+        "text": " How are you liking that one?"
+      },
+      {
+        "id": 48,
+        "start": 111,
+        "end": 113,
+        "text": " I'm sorry."
+      },
+      {
+        "id": 49,
+        "start": 113,
+        "end": 114,
+        "text": " Say again?"
+      },
+      {
+        "id": 50,
+        "start": 114,
+        "end": 117,
+        "text": " That's the American-made AGV that Pfizer has."
+      },
+      {
+        "id": 51,
+        "start": 117,
+        "end": 122,
+        "text": " So is that one doing its job for you?"
+      },
+      {
+        "id": 52,
+        "start": 122,
+        "end": 123,
+        "text": " It should be."
+      },
+      {
+        "id": 53,
+        "start": 123,
+        "end": 125,
+        "text": " Not really, no."
+      },
+      {
+        "id": 54,
+        "start": 125,
+        "end": 126,
+        "text": " No?"
+      },
+      {
+        "id": 55,
+        "start": 126,
+        "end": 127,
+        "text": " Okay."
+      },
+      {
+        "id": 56,
+        "start": 127,
+        "end": 128,
+        "text": " Let me do this then."
+      },
+      {
+        "id": 57,
+        "start": 128,
+        "end": 130,
+        "text": " We do have the version that's made in France."
+      },
+      {
+        "id": 58,
+        "start": 130,
+        "end": 131,
+        "text": " Okay."
+      },
+      {
+        "id": 59,
+        "start": 132,
+        "end": 133,
+        "text": " I'm going to send you that."
+      },
+      {
+        "id": 60,
+        "start": 133,
+        "end": 134,
+        "text": " Okay."
+      },
+      {
+        "id": 61,
+        "start": 134,
+        "end": 135,
+        "text": " For you to try."
+      },
+      {
+        "id": 62,
+        "start": 135,
+        "end": 137,
+        "text": " I'm going to pause everything for the time being."
+      },
+      {
+        "id": 63,
+        "start": 137,
+        "end": 140,
+        "text": " That way you have time to try this and then call us back and let us know."
+      },
+      {
+        "id": 64,
+        "start": 140,
+        "end": 143,
+        "text": " And then we'll discuss a schedule for your refills."
+      },
+      {
+        "id": 65,
+        "start": 143,
+        "end": 146,
+        "text": " That way they're not coming every month anymore."
+      },
+      {
+        "id": 66,
+        "start": 146,
+        "end": 147,
+        "text": " Okay."
+      },
+      {
+        "id": 67,
+        "start": 147,
+        "end": 149,
+        "text": " That would be perfect."
+      },
+      {
+        "id": 68,
+        "start": 149,
+        "end": 150,
+        "text": " Solid."
+      },
+      {
+        "id": 69,
+        "start": 150,
+        "end": 151,
+        "text": " Okay."
+      },
+      {
+        "id": 70,
+        "start": 151,
+        "end": 152,
+        "text": " I'll send that out today."
+      },
+      {
+        "id": 71,
+        "start": 152,
+        "end": 154,
+        "text": " I'd expect them by maybe Thursday or Friday of next week."
+      },
+      {
+        "id": 72,
+        "start": 154,
+        "end": 155,
+        "text": " Okay?"
+      },
+      {
+        "id": 73,
+        "start": 155,
+        "end": 156,
+        "text": " Okay."
+      },
+      {
+        "id": 74,
+        "start": 156,
+        "end": 157,
+        "text": " All right."
+      },
+      {
+        "id": 75,
+        "start": 157,
+        "end": 158,
+        "text": " I appreciate it."
+      },
+      {
+        "id": 76,
+        "start": 158,
+        "end": 159,
+        "text": " You've been very helpful."
+      },
+      {
+        "id": 77,
+        "start": 159,
+        "end": 160,
+        "text": " Thank you."
+      },
+      {
+        "id": 78,
+        "start": 160,
+        "end": 161,
+        "text": " I hope you have a great weekend."
+      },
+      {
+        "id": 79,
+        "start": 161,
+        "end": 162,
+        "text": " Okay?"
+      },
+      {
+        "id": 80,
+        "start": 162,
+        "end": 163,
+        "text": " Okay."
+      },
+      {
+        "id": 81,
+        "start": 163,
+        "end": 164,
+        "text": " You too."
+      },
+      {
+        "id": 82,
+        "start": 164,
+        "end": 165,
+        "text": " And thanks a lot."
+      },
+      {
+        "id": 83,
+        "start": 165,
+        "end": 166,
+        "text": " Appreciate it."
+      },
+      {
+        "id": 84,
+        "start": 166,
+        "end": 167,
+        "text": " Take care."
+      },
+      {
+        "id": 85,
+        "start": 167,
+        "end": 168,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 86,
+        "start": 168,
+        "end": 169,
+        "text": " Okay."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8160-92cd-f6b96ffd48b3",
+    "url": "https://www.notion.so/300000001216275-300000001705728-2f611d0a101c816092cdf6b96ffd48b3"
+  },
+  "processedAt": "2026-01-28T10:34:45.379Z"
+}

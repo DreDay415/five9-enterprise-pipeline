@@ -1,0 +1,374 @@
+{
+  "recording": {
+    "name": "300000001221078-300000001711019-2183485401 by charles@superbalife.com @ 11_15_42 AM.wav",
+    "size": 305690,
+    "modifyTime": 1769627952000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221078-300000001711019-2183485401 by charles@superbalife.com @ 11_15_42 AM.wav",
+    "uploadDate": "2026-01-28T19:19:12.000Z",
+    "callId": "300000001221078-300000001711019",
+    "agent": "charles",
+    "phoneNumber": "2183485401",
+    "callTimestamp": "2026-01-28T11:15:42.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, this is Charles.\n\nSpeaker 2: Hello.\n\nSpeaker 1: Hey, how you doing?\n\nSpeaker 2: Yeah, oh, I've got a question for you.\n\nSpeaker 1: Okay.\n\nSpeaker 2: How do you get that new Viagra that you're selling?\n\nSpeaker 1: The AGV?\n\nSpeaker 2: Pardon me?\n\nSpeaker 1: The AGV?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: That's what you ordered.\n\nSpeaker 2: Franklin Addison?\n\nSpeaker 1: Yeah, I got it.\n\nSpeaker 2: Just a minute.\n\nSpeaker 1: Is that the new Viagra that's good for after 11 minutes or something like that?\n\nSpeaker 2: Yeah, yeah.\n\nSpeaker 1: Yeah, it looks like you ordered 10 pills back on the 30th of December.\n\nSpeaker 2: Hang on just a minute.\n\nSpeaker 1: What the hell?\n\nSpeaker 2: Oh, there you are.\n\nSpeaker 1: Crap.\n\nSpeaker 2: Can't do anything today.\n\nSpeaker 1: In other words, this is the same as the one that you're saying it lasts, you know,\n\nSpeaker 2: after 11 or whatever, 11 minutes, I can't even talk today for some reason or another.\n\nSpeaker 1: It's okay.\n\nSpeaker 2: Yeah, so that pill that you have should have the number 100 pressed onto it like a stamp.\n\nSpeaker 1: And yes, that is the one that is supposed to activate within about 11 to 30 minutes.\n\nSpeaker 2: I tell everybody 30 minutes, Franklin, not going to lie.\n\nSpeaker 1: Everybody's body is built differently, so it should kick in within 11 to 30 minutes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: What else did I ask?\n\nSpeaker 2: How do you take it?\n\nSpeaker 1: Just swallow it or let it dissolve under?\n\nSpeaker 2: No, swallow it with some water and then make sure you don't drink any alcohol and no heavy meals before it.\n\nSpeaker 1: I don't drink anyway, so I don't have to worry about that.\n\nSpeaker 2: Right.\n\nSpeaker 1: Okay, that's what I wanted to know because it didn't say.\n\nSpeaker 2: And I thought, well, I'm not going to take it until I find out.\n\nSpeaker 1: And I couldn't find anything to say or to call to find out.\n\nSpeaker 2: And then I happened to see this number said support, so I figured you'd know.\n\nSpeaker 1: Right, right.\n\nSpeaker 2: Very good.\n\nSpeaker 1: Yeah, if you ever need more, give us a call, okay?\n\nSpeaker 2: Do you need more actually?\n\nSpeaker 1: Not right now.\n\nSpeaker 2: I'm just waiting for whatever.\n\nSpeaker 1: It's going to happen in a couple of days.\n\nSpeaker 2: Gotcha.\n\nSpeaker 1: Okay, I'll make sure that we pause any refills from now until May.\n\nSpeaker 2: That way you've got some time to try them out and let us know when you need more, okay?\n\nSpeaker 1: I sure will.\n\nSpeaker 2: Thank you much.\n\nSpeaker 1: I appreciate it.\n\nSpeaker 2: Sounds good.\n\nSpeaker 1: Absolutely.\n\nSpeaker 2: Have a great day.\n\nSpeaker 1: All right, bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 8170,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thanks for calling Viagra, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 6,
+        "text": " Hello."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 9,
+        "text": " Hey, how you doing?"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 12,
+        "text": " Yeah, oh, I've got a question for you."
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 14,
+        "text": " Okay."
+      },
+      {
+        "id": 5,
+        "start": 14,
+        "end": 21,
+        "text": " How do you get that new Viagra that you're selling?"
+      },
+      {
+        "id": 6,
+        "start": 21,
+        "end": 23,
+        "text": " The AGV?"
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 25,
+        "text": " Pardon me?"
+      },
+      {
+        "id": 8,
+        "start": 25,
+        "end": 27,
+        "text": " The AGV?"
+      },
+      {
+        "id": 9,
+        "start": 27,
+        "end": 28,
+        "text": " Yeah."
+      },
+      {
+        "id": 10,
+        "start": 28,
+        "end": 33,
+        "text": " That's what you ordered."
+      },
+      {
+        "id": 11,
+        "start": 33,
+        "end": 35,
+        "text": " Franklin Addison?"
+      },
+      {
+        "id": 12,
+        "start": 35,
+        "end": 37,
+        "text": " Yeah, I got it."
+      },
+      {
+        "id": 13,
+        "start": 37,
+        "end": 39,
+        "text": " Just a minute."
+      },
+      {
+        "id": 14,
+        "start": 39,
+        "end": 45,
+        "text": " Is that the new Viagra that's good for after 11 minutes or something like that?"
+      },
+      {
+        "id": 15,
+        "start": 45,
+        "end": 47,
+        "text": " Yeah, yeah."
+      },
+      {
+        "id": 16,
+        "start": 47,
+        "end": 53,
+        "text": " Yeah, it looks like you ordered 10 pills back on the 30th of December."
+      },
+      {
+        "id": 17,
+        "start": 53,
+        "end": 55,
+        "text": " Hang on just a minute."
+      },
+      {
+        "id": 18,
+        "start": 56,
+        "end": 58,
+        "text": " What the hell?"
+      },
+      {
+        "id": 19,
+        "start": 58,
+        "end": 62,
+        "text": " Oh, there you are."
+      },
+      {
+        "id": 20,
+        "start": 62,
+        "end": 65,
+        "text": " Crap."
+      },
+      {
+        "id": 21,
+        "start": 65,
+        "end": 74,
+        "text": " Can't do anything today."
+      },
+      {
+        "id": 22,
+        "start": 74,
+        "end": 82,
+        "text": " In other words, this is the same as the one that you're saying it lasts, you know,"
+      },
+      {
+        "id": 23,
+        "start": 82,
+        "end": 87,
+        "text": " after 11 or whatever, 11 minutes, I can't even talk today for some reason or another."
+      },
+      {
+        "id": 24,
+        "start": 87,
+        "end": 89,
+        "text": " It's okay."
+      },
+      {
+        "id": 25,
+        "start": 89,
+        "end": 96,
+        "text": " Yeah, so that pill that you have should have the number 100 pressed onto it like a stamp."
+      },
+      {
+        "id": 26,
+        "start": 96,
+        "end": 100,
+        "text": " And yes, that is the one that is supposed to activate within about 11 to 30 minutes."
+      },
+      {
+        "id": 27,
+        "start": 100,
+        "end": 103,
+        "text": " I tell everybody 30 minutes, Franklin, not going to lie."
+      },
+      {
+        "id": 28,
+        "start": 103,
+        "end": 111,
+        "text": " Everybody's body is built differently, so it should kick in within 11 to 30 minutes."
+      },
+      {
+        "id": 29,
+        "start": 111,
+        "end": 113,
+        "text": " Okay."
+      },
+      {
+        "id": 30,
+        "start": 113,
+        "end": 115,
+        "text": " What else did I ask?"
+      },
+      {
+        "id": 31,
+        "start": 115,
+        "end": 117,
+        "text": " How do you take it?"
+      },
+      {
+        "id": 32,
+        "start": 117,
+        "end": 119,
+        "text": " Just swallow it or let it dissolve under?"
+      },
+      {
+        "id": 33,
+        "start": 119,
+        "end": 129,
+        "text": " No, swallow it with some water and then make sure you don't drink any alcohol and no heavy meals before it."
+      },
+      {
+        "id": 34,
+        "start": 129,
+        "end": 133,
+        "text": " I don't drink anyway, so I don't have to worry about that."
+      },
+      {
+        "id": 35,
+        "start": 133,
+        "end": 135,
+        "text": " Right."
+      },
+      {
+        "id": 36,
+        "start": 135,
+        "end": 138,
+        "text": " Okay, that's what I wanted to know because it didn't say."
+      },
+      {
+        "id": 37,
+        "start": 138,
+        "end": 142,
+        "text": " And I thought, well, I'm not going to take it until I find out."
+      },
+      {
+        "id": 38,
+        "start": 142,
+        "end": 148,
+        "text": " And I couldn't find anything to say or to call to find out."
+      },
+      {
+        "id": 39,
+        "start": 148,
+        "end": 153,
+        "text": " And then I happened to see this number said support, so I figured you'd know."
+      },
+      {
+        "id": 40,
+        "start": 153,
+        "end": 154,
+        "text": " Right, right."
+      },
+      {
+        "id": 41,
+        "start": 154,
+        "end": 155,
+        "text": " Very good."
+      },
+      {
+        "id": 42,
+        "start": 155,
+        "end": 158,
+        "text": " Yeah, if you ever need more, give us a call, okay?"
+      },
+      {
+        "id": 43,
+        "start": 158,
+        "end": 160,
+        "text": " Do you need more actually?"
+      },
+      {
+        "id": 44,
+        "start": 160,
+        "end": 162,
+        "text": " Not right now."
+      },
+      {
+        "id": 45,
+        "start": 163,
+        "end": 167,
+        "text": " I'm just waiting for whatever."
+      },
+      {
+        "id": 46,
+        "start": 167,
+        "end": 170,
+        "text": " It's going to happen in a couple of days."
+      },
+      {
+        "id": 47,
+        "start": 170,
+        "end": 171,
+        "text": " Gotcha."
+      },
+      {
+        "id": 48,
+        "start": 171,
+        "end": 175,
+        "text": " Okay, I'll make sure that we pause any refills from now until May."
+      },
+      {
+        "id": 49,
+        "start": 175,
+        "end": 179,
+        "text": " That way you've got some time to try them out and let us know when you need more, okay?"
+      },
+      {
+        "id": 50,
+        "start": 179,
+        "end": 180,
+        "text": " I sure will."
+      },
+      {
+        "id": 51,
+        "start": 180,
+        "end": 181,
+        "text": " Thank you much."
+      },
+      {
+        "id": 52,
+        "start": 181,
+        "end": 182,
+        "text": " I appreciate it."
+      },
+      {
+        "id": 53,
+        "start": 182,
+        "end": 183,
+        "text": " Sounds good."
+      },
+      {
+        "id": 54,
+        "start": 183,
+        "end": 184,
+        "text": " Absolutely."
+      },
+      {
+        "id": 55,
+        "start": 184,
+        "end": 185,
+        "text": " Have a great day."
+      },
+      {
+        "id": 56,
+        "start": 185,
+        "end": 186,
+        "text": " All right, bye."
+      },
+      {
+        "id": 57,
+        "start": 186,
+        "end": 187,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8163-91ea-e5778e3f032b",
+    "url": "https://www.notion.so/300000001221078-300000001711019-2f611d0a101c816391eae5778e3f032b"
+  },
+  "processedAt": "2026-01-28T23:54:51.004Z"
+}

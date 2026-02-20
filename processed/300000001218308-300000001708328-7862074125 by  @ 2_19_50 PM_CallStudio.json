@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001218308-300000001708328-7862074125 by  @ 2_19_50 PM_CallStudio.wav",
+    "size": 28076,
+    "modifyTime": 1769585529000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218308-300000001708328-7862074125 by  @ 2_19_50 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:32:09.000Z",
+    "callId": "300000001218308-300000001708328",
+    "phoneNumber": "7862074125",
+    "callTimestamp": "2026-01-28T07:32:09.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español marque número nueve.\n\nSpeaker 2: I want to cancel my subscription, so kindly connect me to a live agent please.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 999,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.119999885559082,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.119999885559082,
+        "end": 6.119999885559082,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.119999885559082,
+        "end": 8.84000015258789,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.84000015258789,
+        "end": 15.760000228881836,
+        "text": " I want to cancel my subscription, so kindly connect me to a live agent please."
+      },
+      {
+        "id": 4,
+        "start": 15.760000228881836,
+        "end": 16.959999084472656,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81bb-8f61-eade7d40d32c",
+    "url": "https://www.notion.so/300000001218308-300000001708328-2f611d0a101c81bb8f61eade7d40d32c"
+  },
+  "processedAt": "2026-01-28T14:19:43.057Z"
+}

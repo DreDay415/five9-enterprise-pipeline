@@ -1,0 +1,500 @@
+{
+  "recording": {
+    "name": "300000001220441-300000001710497-5305156246 by jessie@superbalife.com @ 8_22_01 AM.wav",
+    "size": 280796,
+    "modifyTime": 1769617512000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220441-300000001710497-5305156246 by jessie@superbalife.com @ 8_22_01 AM.wav",
+    "uploadDate": "2026-01-28T16:25:12.000Z",
+    "callId": "300000001220441-300000001710497",
+    "agent": "jessie",
+    "phoneNumber": "5305156246",
+    "callTimestamp": "2026-01-28T08:22:01.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra.\n\nSpeaker 2: My name is Jessie.\n\nSpeaker 1: Can I get your first and last name?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello.\n\nSpeaker 2: Thank you so much for calling Viagra.\n\nSpeaker 1: What's that?\n\nSpeaker 2: What's that?\n\nSpeaker 1: I need to refill a prescription, please.\n\nSpeaker 2: All right.\n\nSpeaker 1: Just a moment.\n\nSpeaker 2: May I get your first and last name?\n\nSpeaker 1: Pete, P-E-T-E K-U-R-Z.\n\nSpeaker 2: And who am I speaking to?\n\nSpeaker 1: Terry, his wife.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Just a moment.\n\nSpeaker 2: And can you please verify the zip code on the account?\n\nSpeaker 1: 96007.\n\nSpeaker 2: And what is his date of birth?\n\nSpeaker 1: 1-7.\n\nSpeaker 2: No, that's me.\n\nSpeaker 1: 1-12-60.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Sorry.\n\nSpeaker 2: I know.\n\nSpeaker 1: It doesn't always roll off the tongue.\n\nSpeaker 2: You're fine.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Let's take a look here.\n\nSpeaker 1: Did you want to do another 10 pills of the 100 milligrams?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Is that all?\n\nSpeaker 2: I mean, you can get more if you like.\n\nSpeaker 1: Would that be 25?\n\nSpeaker 2: 10 per month?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Yeah, I mean, I wasn't sure how this particular prescription works.\n\nSpeaker 1: It's once a month.\n\nSpeaker 2: Do you just call back in, or can I do more?\n\nSpeaker 1: I don't know how it works.\n\nSpeaker 2: Oh, okay.\n\nSpeaker 1: Well, right now, you can set it up for monthly if that's what you want to do,\n\nSpeaker 2: and then if you want to change it down the line, you can.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Actually, if you could, we would prefer to get that confirmation from Mr.\n\nSpeaker 1: Kurz if he wants it monthly.\n\nSpeaker 2: Okay.\n\nSpeaker 1: He's only 10 feet away.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Hello.\n\nSpeaker 2: Hi, Mr. Kurz.\n\nSpeaker 1: Yeah, that's fine.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, so 10 pills once a month?\n\nSpeaker 2: Yeah, that's fine.\n\nSpeaker 1: That's fine.\n\nSpeaker 2: Okay.\n\nSpeaker 1: As long as we got your okay.\n\nSpeaker 2: All right, and are we shipping this to 6246 Burning Lane in Anderson,\n\nSpeaker 1: California, 96007?\n\nSpeaker 2: Yes, we are.\n\nSpeaker 1: All right, and then the MasterCard on file is 0437.\n\nSpeaker 2: Should we use that card?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Okay, so this will be monthly.\n\nSpeaker 1: It will be charged on the 28th of every month, okay?\n\nSpeaker 2: All right.\n\nSpeaker 1: And that's 10 pills.\n\nSpeaker 2: Anything else I can help you with?\n\nSpeaker 1: No, that was timeless.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Have a great day.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: You, too.\n\nSpeaker 1: Bye-bye.",
+    "duration": 6218,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, thank you so much for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 3,
+        "text": " My name is Jessie."
+      },
+      {
+        "id": 2,
+        "start": 3,
+        "end": 6,
+        "text": " Can I get your first and last name?"
+      },
+      {
+        "id": 3,
+        "start": 6,
+        "end": 8,
+        "text": " Hello?"
+      },
+      {
+        "id": 4,
+        "start": 8,
+        "end": 9,
+        "text": " Hello."
+      },
+      {
+        "id": 5,
+        "start": 9,
+        "end": 12,
+        "text": " Thank you so much for calling Viagra."
+      },
+      {
+        "id": 6,
+        "start": 12,
+        "end": 15,
+        "text": " What's that?"
+      },
+      {
+        "id": 7,
+        "start": 15,
+        "end": 17,
+        "text": " What's that?"
+      },
+      {
+        "id": 8,
+        "start": 17,
+        "end": 21,
+        "text": " I need to refill a prescription, please."
+      },
+      {
+        "id": 9,
+        "start": 21,
+        "end": 22,
+        "text": " All right."
+      },
+      {
+        "id": 10,
+        "start": 22,
+        "end": 23,
+        "text": " Just a moment."
+      },
+      {
+        "id": 11,
+        "start": 23,
+        "end": 26,
+        "text": " May I get your first and last name?"
+      },
+      {
+        "id": 12,
+        "start": 26,
+        "end": 30,
+        "text": " Pete, P-E-T-E-K-U-R-Z."
+      },
+      {
+        "id": 13,
+        "start": 30,
+        "end": 32,
+        "text": " And who am I speaking to?"
+      },
+      {
+        "id": 14,
+        "start": 32,
+        "end": 34,
+        "text": " Terry, his wife."
+      },
+      {
+        "id": 15,
+        "start": 34,
+        "end": 40,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 40,
+        "end": 43,
+        "text": " Just a moment."
+      },
+      {
+        "id": 17,
+        "start": 43,
+        "end": 49,
+        "text": " And can you please verify other zip code on the account?"
+      },
+      {
+        "id": 18,
+        "start": 49,
+        "end": 52,
+        "text": " 96007."
+      },
+      {
+        "id": 19,
+        "start": 52,
+        "end": 55,
+        "text": " And what is his date of birth?"
+      },
+      {
+        "id": 20,
+        "start": 55,
+        "end": 57,
+        "text": " 1-7."
+      },
+      {
+        "id": 21,
+        "start": 57,
+        "end": 58,
+        "text": " No, that's me."
+      },
+      {
+        "id": 22,
+        "start": 58,
+        "end": 59,
+        "text": " 1-12-60."
+      },
+      {
+        "id": 23,
+        "start": 59,
+        "end": 60,
+        "text": " Okay."
+      },
+      {
+        "id": 24,
+        "start": 60,
+        "end": 61,
+        "text": " Sorry."
+      },
+      {
+        "id": 25,
+        "start": 61,
+        "end": 62,
+        "text": " I know."
+      },
+      {
+        "id": 26,
+        "start": 62,
+        "end": 65,
+        "text": " It doesn't always roll off the tongue."
+      },
+      {
+        "id": 27,
+        "start": 65,
+        "end": 66,
+        "text": " You're fine."
+      },
+      {
+        "id": 28,
+        "start": 66,
+        "end": 67,
+        "text": " Okay."
+      },
+      {
+        "id": 29,
+        "start": 67,
+        "end": 69,
+        "text": " Let's take a look here."
+      },
+      {
+        "id": 30,
+        "start": 69,
+        "end": 72,
+        "text": " Did you want to do another 10 pills of the 100 milligrams?"
+      },
+      {
+        "id": 31,
+        "start": 72,
+        "end": 73,
+        "text": " Yeah."
+      },
+      {
+        "id": 32,
+        "start": 73,
+        "end": 75,
+        "text": " Is that all?"
+      },
+      {
+        "id": 33,
+        "start": 75,
+        "end": 77,
+        "text": " I mean, you can get more if you like."
+      },
+      {
+        "id": 34,
+        "start": 77,
+        "end": 78,
+        "text": " Would that be 25?"
+      },
+      {
+        "id": 35,
+        "start": 78,
+        "end": 79,
+        "text": " 10 per month?"
+      },
+      {
+        "id": 36,
+        "start": 79,
+        "end": 80,
+        "text": " Yeah."
+      },
+      {
+        "id": 37,
+        "start": 81,
+        "end": 87,
+        "text": " Yeah, I mean, I wasn't sure how this particular prescription works."
+      },
+      {
+        "id": 38,
+        "start": 87,
+        "end": 89,
+        "text": " It's once a month."
+      },
+      {
+        "id": 39,
+        "start": 89,
+        "end": 93,
+        "text": " Do you just call back in, or is it I can do more?"
+      },
+      {
+        "id": 40,
+        "start": 93,
+        "end": 95,
+        "text": " I don't know how it works."
+      },
+      {
+        "id": 41,
+        "start": 95,
+        "end": 96,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 42,
+        "start": 96,
+        "end": 100,
+        "text": " Well, right now, you can set it up for monthly if that's what you want to do,"
+      },
+      {
+        "id": 43,
+        "start": 100,
+        "end": 103,
+        "text": " and then if you want to change it down the line, you can."
+      },
+      {
+        "id": 44,
+        "start": 103,
+        "end": 104,
+        "text": " Yeah."
+      },
+      {
+        "id": 45,
+        "start": 105,
+        "end": 110,
+        "text": " Actually, if you could, we would prefer to get that confirmation from Mr."
+      },
+      {
+        "id": 46,
+        "start": 110,
+        "end": 112,
+        "text": " Kurz if he wants it monthly."
+      },
+      {
+        "id": 47,
+        "start": 112,
+        "end": 113,
+        "text": " Okay."
+      },
+      {
+        "id": 48,
+        "start": 113,
+        "end": 115,
+        "text": " He's only 10 feet away."
+      },
+      {
+        "id": 49,
+        "start": 115,
+        "end": 116,
+        "text": " Okay."
+      },
+      {
+        "id": 50,
+        "start": 116,
+        "end": 118,
+        "text": " Hello."
+      },
+      {
+        "id": 51,
+        "start": 118,
+        "end": 120,
+        "text": " Hi, Mr. Kurz."
+      },
+      {
+        "id": 52,
+        "start": 120,
+        "end": 122,
+        "text": " Yeah, that's fine."
+      },
+      {
+        "id": 53,
+        "start": 122,
+        "end": 123,
+        "text": " Okay."
+      },
+      {
+        "id": 54,
+        "start": 123,
+        "end": 125,
+        "text": " All right, so 10 pills once a month?"
+      },
+      {
+        "id": 55,
+        "start": 125,
+        "end": 126,
+        "text": " Yeah, that's fine."
+      },
+      {
+        "id": 56,
+        "start": 126,
+        "end": 127,
+        "text": " That's fine."
+      },
+      {
+        "id": 57,
+        "start": 127,
+        "end": 128,
+        "text": " Okay."
+      },
+      {
+        "id": 58,
+        "start": 129,
+        "end": 131,
+        "text": " As long as we got your A okay."
+      },
+      {
+        "id": 59,
+        "start": 131,
+        "end": 137,
+        "text": " All right, and are we shipping this to 6246 Burning Lane in Anderson,"
+      },
+      {
+        "id": 60,
+        "start": 137,
+        "end": 139,
+        "text": " California, 96007?"
+      },
+      {
+        "id": 61,
+        "start": 139,
+        "end": 141,
+        "text": " Yes, we are."
+      },
+      {
+        "id": 62,
+        "start": 141,
+        "end": 144,
+        "text": " All right, and then the master card on file is 0437."
+      },
+      {
+        "id": 63,
+        "start": 144,
+        "end": 146,
+        "text": " Should we use that card?"
+      },
+      {
+        "id": 64,
+        "start": 146,
+        "end": 147,
+        "text": " Yes."
+      },
+      {
+        "id": 65,
+        "start": 147,
+        "end": 148,
+        "text": " Okay."
+      },
+      {
+        "id": 66,
+        "start": 148,
+        "end": 151,
+        "text": " All right."
+      },
+      {
+        "id": 67,
+        "start": 152,
+        "end": 154,
+        "text": " Okay, so this will be monthly."
+      },
+      {
+        "id": 68,
+        "start": 154,
+        "end": 157,
+        "text": " It will be charged on the 28th of every month, okay?"
+      },
+      {
+        "id": 69,
+        "start": 157,
+        "end": 158,
+        "text": " All right."
+      },
+      {
+        "id": 70,
+        "start": 158,
+        "end": 159,
+        "text": " And that's 10 pills."
+      },
+      {
+        "id": 71,
+        "start": 159,
+        "end": 161,
+        "text": " Anything else I can help you with?"
+      },
+      {
+        "id": 72,
+        "start": 161,
+        "end": 163,
+        "text": " No, that was timeless."
+      },
+      {
+        "id": 73,
+        "start": 163,
+        "end": 164,
+        "text": " Thank you."
+      },
+      {
+        "id": 74,
+        "start": 164,
+        "end": 165,
+        "text": " Thank you."
+      },
+      {
+        "id": 75,
+        "start": 165,
+        "end": 166,
+        "text": " Have a great day."
+      },
+      {
+        "id": 76,
+        "start": 166,
+        "end": 167,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 77,
+        "start": 167,
+        "end": 168,
+        "text": " You, too."
+      },
+      {
+        "id": 78,
+        "start": 168,
+        "end": 169,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-815e-9804-c18255ebc6a9",
+    "url": "https://www.notion.so/300000001220441-300000001710497-2f611d0a101c815e9804c18255ebc6a9"
+  },
+  "processedAt": "2026-01-28T19:03:34.754Z"
+}

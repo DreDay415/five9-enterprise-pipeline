@@ -1,0 +1,404 @@
+{
+  "recording": {
+    "name": "300000001218972-300000001709161-7657212995 by josimar@superbalife.com @ 9_22_40 AM.wav",
+    "size": 234060,
+    "modifyTime": 1769590030000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218972-300000001709161-7657212995 by josimar@superbalife.com @ 9_22_40 AM.wav",
+    "uploadDate": "2026-01-28T08:47:10.000Z",
+    "callId": "300000001218972-300000001709161",
+    "agent": "josimar",
+    "phoneNumber": "7657212995",
+    "callTimestamp": "2026-01-28T09:22:40.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yes, this is Matt Winslow.\n\nSpeaker 2: I just called in there and one of the representatives was not very nice to me and hung up on me.\n\nSpeaker 1: And that's not very good business.\n\nSpeaker 2: All right, sir, I can't really see any details regarding any previous calls, but did you—\n\nSpeaker 1: Need assistance or a personal—\n\nSpeaker 2: I just got off the phone thing.\n\nSpeaker 1: Okay, I know.\n\nSpeaker 2: Let me explain it to you, sir.\n\nSpeaker 1: I can't see those details.\n\nSpeaker 2: I was just asking if there's anything I can help you with today.\n\nSpeaker 1: Yeah, I want to represent it because I want him to understand that I am a person who's—\n\nSpeaker 2: Buying this product and you don't talk to me that way.\n\nSpeaker 1: I don't appreciate it.\n\nSpeaker 2: I can't pull up the details on previous agents.\n\nSpeaker 1: I can only pull up my own details.\n\nSpeaker 2: So what I'm trying to explain to you now is if there's anything I can help you with, I—\n\nSpeaker 1: Can do that now or if you'd like, you can just...\n\nSpeaker 2: Yes.\n\nSpeaker 1: You can try to help me.\n\nSpeaker 2: Okay, they have sent me emails to fill up my prescription and I've filled it out, what—\n\nSpeaker 1: Medication I've taken.\n\nSpeaker 2: They've texted me, I've sent it to him.\n\nSpeaker 1: The doctor messaged me and I sent it to him and I still do not have my pills.\n\nSpeaker 2: Yeah, it looks like they have been reaching out for very specific medications you're taking.\n\nSpeaker 1: So it looks like the last information they needed was sent today, so it'll be shipping—\n\nSpeaker 2: Out today.\n\nSpeaker 1: Should get it in about 24,000 days though.\n\nSpeaker 2: Okay, but I'm going to tell you what, that guy needs an adjustment.\n\nSpeaker 1: I've been...\n\nSpeaker 2: I deal with customers every day for 33 years, dude, and I never talk to any of my customers—\n\nSpeaker 1: The way he talked to me.\n\nSpeaker 2: Got it.\n\nSpeaker 1: No, yeah.\n\nSpeaker 2: I completely understand that part.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Unfortunately, I can't...\n\nSpeaker 1: And then he hung up on me.\n\nSpeaker 2: Got it.\n\nSpeaker 1: I know you can't.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: And I get that, but I'm just telling you, that was bullshit.\n\nSpeaker 2: Got it.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: And I don't...\n\nSpeaker 1: And I want to talk to your supervisor, whoever it is, I need to talk to the supervisor.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: We don't have one available at the moment.\n\nSpeaker 2: I can always have them reach out, but for the most part...\n\nSpeaker 1: Have them reach out to me.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: That would be great.\n\nSpeaker 2: They'll reach out to you when they're back in the office.\n\nSpeaker 1: Other than that, just wait for a call either later today or tomorrow.\n\nSpeaker 2: I'm not too sure when they'll be back exactly, but they should be back soon.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Because I've never treated one of my customers and hung up on someone like you just did me.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: No problem.\n\nSpeaker 1: Completely understand.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: No problem.",
+    "duration": 5994,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.599999904632568,
+        "text": " Yes, this is Matt Winslow."
+      },
+      {
+        "id": 1,
+        "start": 5.599999904632568,
+        "end": 11,
+        "text": " I just called in there and one of the representatives was not very nice to me and hung up on me"
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 12.5600004196167,
+        "text": " and that's not very good business."
+      },
+      {
+        "id": 3,
+        "start": 12.5600004196167,
+        "end": 19.15999984741211,
+        "text": " All right, sir, I can't really see any details regarding any previous calls, but did you"
+      },
+      {
+        "id": 4,
+        "start": 19.15999984741211,
+        "end": 20.15999984741211,
+        "text": " need assistance or a personal?"
+      },
+      {
+        "id": 5,
+        "start": 20.15999984741211,
+        "end": 21.15999984741211,
+        "text": " I just got off the phone thing."
+      },
+      {
+        "id": 6,
+        "start": 21.15999984741211,
+        "end": 22.15999984741211,
+        "text": " Okay, I know."
+      },
+      {
+        "id": 7,
+        "start": 22.15999984741211,
+        "end": 23.15999984741211,
+        "text": " Let me explain it to you, sir."
+      },
+      {
+        "id": 8,
+        "start": 23.15999984741211,
+        "end": 24.15999984741211,
+        "text": " I can't see those details."
+      },
+      {
+        "id": 9,
+        "start": 24.15999984741211,
+        "end": 27.559999465942383,
+        "text": " I was just asking if there's anything I can help you with today."
+      },
+      {
+        "id": 10,
+        "start": 27.559999465942383,
+        "end": 34.119998931884766,
+        "text": " Yeah, I want to represent it because I want him to understand that I am a person who's"
+      },
+      {
+        "id": 11,
+        "start": 34.119998931884766,
+        "end": 38.20000076293945,
+        "text": " buying this product and you don't talk to me that way."
+      },
+      {
+        "id": 12,
+        "start": 38.20000076293945,
+        "end": 39.20000076293945,
+        "text": " I don't appreciate it."
+      },
+      {
+        "id": 13,
+        "start": 39.20000076293945,
+        "end": 42.20000076293945,
+        "text": " I can't pull up the details on previous agents."
+      },
+      {
+        "id": 14,
+        "start": 42.20000076293945,
+        "end": 44.439998626708984,
+        "text": " I can only pull up my own details."
+      },
+      {
+        "id": 15,
+        "start": 44.439998626708984,
+        "end": 47.7599983215332,
+        "text": " So what I'm trying to explain to you now is if there's anything I can help you with, I"
+      },
+      {
+        "id": 16,
+        "start": 47.7599983215332,
+        "end": 50.959999084472656,
+        "text": " can do that now or if you'd like, you can just..."
+      },
+      {
+        "id": 17,
+        "start": 50.959999084472656,
+        "end": 51.959999084472656,
+        "text": " Yes."
+      },
+      {
+        "id": 18,
+        "start": 51.959999084472656,
+        "end": 52.959999084472656,
+        "text": " You can try to help me."
+      },
+      {
+        "id": 19,
+        "start": 52.959999084472656,
+        "end": 60,
+        "text": " Okay, they have sent me emails to fill up my prescription and I've filled it out, what"
+      },
+      {
+        "id": 20,
+        "start": 60,
+        "end": 61.560001373291016,
+        "text": " medication I've taken."
+      },
+      {
+        "id": 21,
+        "start": 61.560001373291016,
+        "end": 64.08000183105469,
+        "text": " They've texted me, I've sent it to him."
+      },
+      {
+        "id": 22,
+        "start": 64.08000183105469,
+        "end": 67.95999908447266,
+        "text": " The doctor messaged me and I sent it to him and I still do not have my pills."
+      },
+      {
+        "id": 23,
+        "start": 67.95999908447266,
+        "end": 73.68000030517578,
+        "text": " Yeah, it looks like they have been reaching out for very specific medications you're taking."
+      },
+      {
+        "id": 24,
+        "start": 73.68000030517578,
+        "end": 77.83999633789062,
+        "text": " So it looks like the last information they needed was sent today, so it'll be shipping"
+      },
+      {
+        "id": 25,
+        "start": 77.83999633789062,
+        "end": 78.83999633789062,
+        "text": " out today."
+      },
+      {
+        "id": 26,
+        "start": 78.83999633789062,
+        "end": 81.83999633789062,
+        "text": " Should get it in about 24,000 days though."
+      },
+      {
+        "id": 27,
+        "start": 81.95999908447266,
+        "end": 85.27999877929688,
+        "text": " Okay, but I'm going to tell you what, that guy needs an adjustment."
+      },
+      {
+        "id": 28,
+        "start": 85.27999877929688,
+        "end": 86.27999877929688,
+        "text": " I've been..."
+      },
+      {
+        "id": 29,
+        "start": 86.27999877929688,
+        "end": 91.95999908447266,
+        "text": " I deal with customers every day for 33 years, dude, and I never talk to any of my customers"
+      },
+      {
+        "id": 30,
+        "start": 91.95999908447266,
+        "end": 92.95999908447266,
+        "text": " the way he talked to me."
+      },
+      {
+        "id": 31,
+        "start": 92.95999908447266,
+        "end": 93.95999908447266,
+        "text": " Got it."
+      },
+      {
+        "id": 32,
+        "start": 93.95999908447266,
+        "end": 94.95999908447266,
+        "text": " No, yeah."
+      },
+      {
+        "id": 33,
+        "start": 94.95999908447266,
+        "end": 95.95999908447266,
+        "text": " I completely understand that part."
+      },
+      {
+        "id": 34,
+        "start": 95.95999908447266,
+        "end": 96.95999908447266,
+        "text": " Yeah."
+      },
+      {
+        "id": 35,
+        "start": 96.95999908447266,
+        "end": 97.95999908447266,
+        "text": " Unfortunately, I can't..."
+      },
+      {
+        "id": 36,
+        "start": 97.95999908447266,
+        "end": 98.95999908447266,
+        "text": " And then he hung up on me."
+      },
+      {
+        "id": 37,
+        "start": 98.95999908447266,
+        "end": 99.95999908447266,
+        "text": " Got it."
+      },
+      {
+        "id": 38,
+        "start": 99.95999908447266,
+        "end": 100.95999908447266,
+        "text": " I know you can't."
+      },
+      {
+        "id": 39,
+        "start": 100.95999908447266,
+        "end": 101.95999908447266,
+        "text": " Yeah."
+      },
+      {
+        "id": 40,
+        "start": 101.95999908447266,
+        "end": 105.95999908447266,
+        "text": " And I get that, but I'm just telling you, that was bullshit."
+      },
+      {
+        "id": 41,
+        "start": 105.95999908447266,
+        "end": 106.95999908447266,
+        "text": " Got it."
+      },
+      {
+        "id": 42,
+        "start": 106.95999908447266,
+        "end": 107.95999908447266,
+        "text": " Yeah."
+      },
+      {
+        "id": 43,
+        "start": 107.95999908447266,
+        "end": 108.95999908447266,
+        "text": " And I don't..."
+      },
+      {
+        "id": 44,
+        "start": 109.08000183105469,
+        "end": 114.08000183105469,
+        "text": " And I want to talk to your supervisor, whoever it is, I need to talk to the supervisor."
+      },
+      {
+        "id": 45,
+        "start": 114.08000183105469,
+        "end": 115.08000183105469,
+        "text": " Yeah."
+      },
+      {
+        "id": 46,
+        "start": 115.08000183105469,
+        "end": 116.08000183105469,
+        "text": " We don't have one available at the moment."
+      },
+      {
+        "id": 47,
+        "start": 116.08000183105469,
+        "end": 119.08000183105469,
+        "text": " I can always have them reach out, but for the most part..."
+      },
+      {
+        "id": 48,
+        "start": 119.08000183105469,
+        "end": 120.08000183105469,
+        "text": " Have them reach out to me."
+      },
+      {
+        "id": 49,
+        "start": 120.08000183105469,
+        "end": 121.08000183105469,
+        "text": " Yeah."
+      },
+      {
+        "id": 50,
+        "start": 121.08000183105469,
+        "end": 122.08000183105469,
+        "text": " That would be great."
+      },
+      {
+        "id": 51,
+        "start": 122.08000183105469,
+        "end": 123.08000183105469,
+        "text": " They'll reach out to you when they're back in the office."
+      },
+      {
+        "id": 52,
+        "start": 123.08000183105469,
+        "end": 127.08000183105469,
+        "text": " Other than that, just wait for a call either later today or tomorrow."
+      },
+      {
+        "id": 53,
+        "start": 127.08000183105469,
+        "end": 132.0800018310547,
+        "text": " I'm not too sure when they'll be back exactly, but they should be back soon."
+      },
+      {
+        "id": 54,
+        "start": 132.0800018310547,
+        "end": 133.0800018310547,
+        "text": " Okay."
+      },
+      {
+        "id": 55,
+        "start": 133.0800018310547,
+        "end": 137.0800018310547,
+        "text": " Because I've never treated one of my customers and hung up on someone like you just did me."
+      },
+      {
+        "id": 56,
+        "start": 137.1999969482422,
+        "end": 138.1999969482422,
+        "text": " Yeah."
+      },
+      {
+        "id": 57,
+        "start": 138.1999969482422,
+        "end": 139.1999969482422,
+        "text": " No problem."
+      },
+      {
+        "id": 58,
+        "start": 139.1999969482422,
+        "end": 140.1999969482422,
+        "text": " Completely understand."
+      },
+      {
+        "id": 59,
+        "start": 140.1999969482422,
+        "end": 141.1999969482422,
+        "text": " All right."
+      },
+      {
+        "id": 60,
+        "start": 141.1999969482422,
+        "end": 142.1999969482422,
+        "text": " Thank you."
+      },
+      {
+        "id": 61,
+        "start": 142.1999969482422,
+        "end": 143.1999969482422,
+        "text": " No problem."
+      },
+      {
+        "id": 62,
+        "start": 143.1999969482422,
+        "end": 143.1999969482422,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813d-b6bc-c332d427b2e1",
+    "url": "https://www.notion.so/300000001218972-300000001709161-2f611d0a101c813db6bcc332d427b2e1"
+  },
+  "processedAt": "2026-01-28T12:30:21.997Z"
+}

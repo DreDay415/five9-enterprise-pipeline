@@ -1,0 +1,176 @@
+{
+  "recording": {
+    "name": "300000001219357-300000001709458-7168686203 by josimar@superbalife.com @ 11_00_08 AM.wav",
+    "size": 118620,
+    "modifyTime": 1769589135000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219357-300000001709458-7168686203 by josimar@superbalife.com @ 11_00_08 AM.wav",
+    "uploadDate": "2026-01-28T08:32:15.000Z",
+    "callId": "300000001219357-300000001709458",
+    "agent": "josimar",
+    "phoneNumber": "7168686203",
+    "callTimestamp": "2026-01-28T11:00:08.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yeah, I'd like to renew my prescription.\n\nSpeaker 2: I'm going to take a look into your account, one moment.\n\nSpeaker 1: What's your last name and zip code?\n\nSpeaker 2: Last name is, I'll spell it for you, C-H-I-M-E-R-A, and the zip code is, um, that was my zip—\n\nSpeaker 1: code.\n\nSpeaker 2: What's your zip code?\n\nSpeaker 1: I forgot.\n\nSpeaker 2: Let me see.\n\nSpeaker 1: Um, 1-4-0-3-1.\n\nSpeaker 2: Okay, I pulled up your profile here.\n\nSpeaker 1: Last time you got 40 pills and 163.\n\nSpeaker 2: Were you looking to get that again?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, one moment.\n\nSpeaker 1: And are we going to be using a Visa that ends in 6-5-3-1 for the order?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, one moment.\n\nSpeaker 2: All right, you're all set.\n\nSpeaker 1: The order is in place.\n\nSpeaker 2: You'll receive it in about 3-5 business days.\n\nSpeaker 1: If you have any questions at all, let us know.\n\nSpeaker 2: Hope you have a good one.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Of course.",
+    "duration": 2547,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8.279999732971191,
+        "text": " Yeah, I'd like to renew my prescription."
+      },
+      {
+        "id": 1,
+        "start": 8.279999732971191,
+        "end": 15.279999732971191,
+        "text": " I'm going to take a look into your account one moment."
+      },
+      {
+        "id": 2,
+        "start": 15.279999732971191,
+        "end": 18.8799991607666,
+        "text": " What's your last name and a zip code?"
+      },
+      {
+        "id": 3,
+        "start": 18.8799991607666,
+        "end": 28.200000762939453,
+        "text": " Last name is, I'll spell it for you, C-H-I-M-E-R-A, and the zip code is, um, that was my zip"
+      },
+      {
+        "id": 4,
+        "start": 28.200000762939453,
+        "end": 29.200000762939453,
+        "text": " code."
+      },
+      {
+        "id": 5,
+        "start": 29.200000762939453,
+        "end": 31.8799991607666,
+        "text": " What's your zip code?"
+      },
+      {
+        "id": 6,
+        "start": 31.8799991607666,
+        "end": 32.880001068115234,
+        "text": " I forgot."
+      },
+      {
+        "id": 7,
+        "start": 32.880001068115234,
+        "end": 33.880001068115234,
+        "text": " Let me see."
+      },
+      {
+        "id": 8,
+        "start": 33.880001068115234,
+        "end": 34.880001068115234,
+        "text": " Um, 1-4-0-3-1."
+      },
+      {
+        "id": 9,
+        "start": 34.880001068115234,
+        "end": 35.880001068115234,
+        "text": " Okay, I pulled up your profile here."
+      },
+      {
+        "id": 10,
+        "start": 35.880001068115234,
+        "end": 36.880001068115234,
+        "text": " Last time you got 40 pills and 163."
+      },
+      {
+        "id": 11,
+        "start": 36.880001068115234,
+        "end": 37.880001068115234,
+        "text": " Were you looking to get that again?"
+      },
+      {
+        "id": 12,
+        "start": 37.880001068115234,
+        "end": 38.880001068115234,
+        "text": " Yes."
+      },
+      {
+        "id": 13,
+        "start": 38.880001068115234,
+        "end": 39.880001068115234,
+        "text": " Okay, one moment."
+      },
+      {
+        "id": 14,
+        "start": 39.880001068115234,
+        "end": 52.880001068115234,
+        "text": " And are we going to be using a visa that ends in 6-5-3-1 for the order?"
+      },
+      {
+        "id": 15,
+        "start": 52.880001068115234,
+        "end": 53.880001068115234,
+        "text": " Yes."
+      },
+      {
+        "id": 16,
+        "start": 53.880001068115234,
+        "end": 54.880001068115234,
+        "text": " Okay, one moment."
+      },
+      {
+        "id": 17,
+        "start": 54.880001068115234,
+        "end": 62.91999816894531,
+        "text": " All right, you're all set."
+      },
+      {
+        "id": 18,
+        "start": 62.91999816894531,
+        "end": 63.91999816894531,
+        "text": " The order is in place."
+      },
+      {
+        "id": 19,
+        "start": 63.91999816894531,
+        "end": 65.4800033569336,
+        "text": " You'll receive it in about 3-5 business days."
+      },
+      {
+        "id": 20,
+        "start": 65.4800033569336,
+        "end": 67.12000274658203,
+        "text": " If you have any questions at all, let us know."
+      },
+      {
+        "id": 21,
+        "start": 67.12000274658203,
+        "end": 68.12000274658203,
+        "text": " Hope you have a good one."
+      },
+      {
+        "id": 22,
+        "start": 68.12000274658203,
+        "end": 69.12000274658203,
+        "text": " Thank you."
+      },
+      {
+        "id": 23,
+        "start": 69.12000274658203,
+        "end": 70.12000274658203,
+        "text": " Of course."
+      },
+      {
+        "id": 24,
+        "start": 70.12000274658203,
+        "end": 70.12000274658203,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8186-b228-c334b441f321",
+    "url": "https://www.notion.so/300000001219357-300000001709458-2f611d0a101c8186b228c334b441f321"
+  },
+  "processedAt": "2026-01-28T12:56:14.819Z"
+}

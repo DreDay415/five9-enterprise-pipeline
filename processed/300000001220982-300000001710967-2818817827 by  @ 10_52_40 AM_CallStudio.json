@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001220982-300000001710967-2818817827 by  @ 10_52_40 AM_CallStudio.wav",
+    "size": 31260,
+    "modifyTime": 1769626402000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220982-300000001710967-2818817827 by  @ 10_52_40 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T18:53:22.000Z",
+    "callId": "300000001220982-300000001710967",
+    "phoneNumber": "2818817827",
+    "callTimestamp": "2026-01-28T18:53:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para español, marque número nueve.\n\nSpeaker 2: I'm disappointed in what I received as an order for Viagra AGV.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1575,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.420000076293945,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.420000076293945,
+        "end": 6.420000076293945,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.420000076293945,
+        "end": 10.15999984741211,
+        "text": " Para espanol, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.15999984741211,
+        "end": 17.68000030517578,
+        "text": " I'm disappointed in what I received as an order for Viagra AGV."
+      },
+      {
+        "id": 4,
+        "start": 17.68000030517578,
+        "end": 18.8799991607666,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8159-80ac-e74edd5ddf08",
+    "url": "https://www.notion.so/300000001220982-300000001710967-2f711d0a101c815980ace74edd5ddf08"
+  },
+  "processedAt": "2026-01-29T00:05:08.783Z"
+}

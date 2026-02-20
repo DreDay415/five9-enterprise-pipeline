@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001239582-300000001729233-6622169137 by  @ 4_50_35 PM_CallStudio.wav",
+    "size": 28986,
+    "modifyTime": 1770857475000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239582-300000001729233-6622169137 by  @ 4_50_35 PM_CallStudio.wav",
+    "uploadDate": "2026-02-12T00:51:15.000Z",
+    "callId": "300000001239582-300000001729233",
+    "phoneNumber": "6622169137",
+    "callTimestamp": "2026-02-12T00:51:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Returning a call that they called means to speak to someone about the medication.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 770,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 9,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 16,
+        "text": " Returning a call that they called means to speak to someone about the medication."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 18,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-810e-8077-f17c80005249",
+    "url": "https://www.notion.so/300000001239582-300000001729233-30511d0a101c810e8077f17c80005249"
+  },
+  "processedAt": "2026-02-12T01:05:00.746Z"
+}

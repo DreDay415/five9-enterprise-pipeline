@@ -1,0 +1,152 @@
+{
+  "recording": {
+    "name": "300000001216373-300000001705817-9542968283 by jessie@superbalife.com @ 1_37_39 PM.wav",
+    "size": 98860,
+    "modifyTime": 1769584032000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216373-300000001705817-9542968283 by jessie@superbalife.com @ 1_37_39 PM.wav",
+    "uploadDate": "2026-01-28T07:07:12.000Z",
+    "callId": "300000001216373-300000001705817",
+    "agent": "jessie",
+    "phoneNumber": "9542968283",
+    "callTimestamp": "2026-01-28T13:37:39.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, Mr. Maloney or Malone, whichever you choose.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Yeah, because you have a previous account where you filed a dispute.\n\nSpeaker 2: And then it looks like you created another account to, you know, to get the pills.\n\nSpeaker 1: We're going to go ahead and refund you in full and deactivate both accounts, okay?\n\nSpeaker 2: We can't do that, all right?\n\nSpeaker 1: You can't send me the correct stuff because I think you're trying to kill me.\n\nSpeaker 2: No, actually, you know what?\n\nSpeaker 1: No, I want the right stuff.\n\nSpeaker 2: That's all.\n\nSpeaker 1: That's all I'm asking for.\n\nSpeaker 2: You're not asking for that, okay?\n\nSpeaker 1: Yes, I am.\n\nSpeaker 2: You filed a dispute on a previous account and then you decided to create another account.\n\nSpeaker 1: I knew there was something wrong in the first place.\n\nSpeaker 2: I had a gut feeling and I got it in my hands right now.\n\nSpeaker 1: You know what, sir?\n\nSpeaker 2: You created a false account.\n\nSpeaker 1: That's what you did.\n\nSpeaker 2: It doesn't matter what I did.\n\nSpeaker 1: It doesn't matter.",
+    "duration": 2588,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi, Mr. Maloney or Malone, whichever you choose."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 7,
+        "text": " Yes."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 12,
+        "text": " Yeah, because you have a previous account where you filed a dispute"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 18,
+        "text": " and then it looks like you created another account to, you know, to get the pills."
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 22,
+        "text": " We're going to go ahead and refund you in full and deactivate both accounts, okay?"
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 24,
+        "text": " We can't do that, all right?"
+      },
+      {
+        "id": 6,
+        "start": 24,
+        "end": 29,
+        "text": " You can't send me the correct stuff because I think you're trying to kill me."
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 32,
+        "text": " No, actually, you know what?"
+      },
+      {
+        "id": 8,
+        "start": 32,
+        "end": 34,
+        "text": " No, I want the right stuff."
+      },
+      {
+        "id": 9,
+        "start": 34,
+        "end": 35,
+        "text": " That's all."
+      },
+      {
+        "id": 10,
+        "start": 35,
+        "end": 37,
+        "text": " That's all I'm asking for."
+      },
+      {
+        "id": 11,
+        "start": 37,
+        "end": 39,
+        "text": " You're not asking for that, okay?"
+      },
+      {
+        "id": 12,
+        "start": 39,
+        "end": 41,
+        "text": " Yes, I am."
+      },
+      {
+        "id": 13,
+        "start": 41,
+        "end": 46,
+        "text": " You filed a dispute on a previous account and then you decided to create another account."
+      },
+      {
+        "id": 14,
+        "start": 46,
+        "end": 50,
+        "text": " I knew there was something wrong in the first place."
+      },
+      {
+        "id": 15,
+        "start": 50,
+        "end": 54,
+        "text": " I had a gut feeling and I got it in my hands right now."
+      },
+      {
+        "id": 16,
+        "start": 54,
+        "end": 55,
+        "text": " You know what, sir?"
+      },
+      {
+        "id": 17,
+        "start": 55,
+        "end": 57,
+        "text": " You created a false account."
+      },
+      {
+        "id": 18,
+        "start": 57,
+        "end": 58,
+        "text": " That's what you did."
+      },
+      {
+        "id": 19,
+        "start": 58,
+        "end": 60,
+        "text": " It doesn't matter what I did."
+      },
+      {
+        "id": 20,
+        "start": 60,
+        "end": 61,
+        "text": " It doesn't matter."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8151-b41c-e1fb177e0d22",
+    "url": "https://www.notion.so/300000001216373-300000001705817-2f611d0a101c8151b41ce1fb177e0d22"
+  },
+  "processedAt": "2026-01-28T15:44:46.355Z"
+}

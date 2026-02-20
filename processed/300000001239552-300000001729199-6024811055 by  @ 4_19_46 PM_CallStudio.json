@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001239552-300000001729199-6024811055 by  @ 4_19_46 PM_CallStudio.wav",
+    "size": 21706,
+    "modifyTime": 1770855622000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239552-300000001729199-6024811055 by  @ 4_19_46 PM_CallStudio.wav",
+    "uploadDate": "2026-02-12T00:20:22.000Z",
+    "callId": "300000001239552-300000001729199",
+    "phoneNumber": "6024811055",
+    "callTimestamp": "2026-02-12T00:20:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I want to cancel my account.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 881,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 11,
+        "text": " I want to cancel my account."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 13,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81aa-ad38-ebc51c3897b2",
+    "url": "https://www.notion.so/300000001239552-300000001729199-30511d0a101c81aaad38ebc51c3897b2"
+  },
+  "processedAt": "2026-02-12T01:08:33.784Z"
+}

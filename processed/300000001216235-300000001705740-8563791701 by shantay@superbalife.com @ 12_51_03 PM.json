@@ -1,0 +1,200 @@
+{
+  "recording": {
+    "name": "300000001216235-300000001705740-8563791701 by shantay@superbalife.com @ 12_51_03 PM.wav",
+    "size": 120896,
+    "modifyTime": 1769590943000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216235-300000001705740-8563791701 by shantay@superbalife.com @ 12_51_03 PM.wav",
+    "uploadDate": "2026-01-28T09:02:23.000Z",
+    "callId": "300000001216235-300000001705740",
+    "agent": "shantay",
+    "phoneNumber": "8563791701",
+    "callTimestamp": "2026-01-28T12:51:03.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I assist you?\n\nSpeaker 2: Is this Michelle?\n\nSpeaker 1: No, it is not. Would you like to speak with her?\n\nSpeaker 2: Why am I not... I don't understand, I hit her extension, I got...\n\nSpeaker 1: You got me on music, now someone else picks up.\n\nSpeaker 2: First another lady picked up, now you're picking up.\n\nSpeaker 1: I had her... I hit her extension, I should get right to her.\n\nSpeaker 2: What's wrong with your phone system?\n\nSpeaker 1: It's probably because maybe she's on the phone, I don't know.\n\nSpeaker 2: What do you need help with? Maybe I can help.\n\nSpeaker 1: I'm trying to speak to you.\n\nSpeaker 2: I don't see... I don't see my money back in my account.\n\nSpeaker 1: Somebody else sent me money back on TikTok and it went back pretty much right away.\n\nSpeaker 2: Why isn't it showing if they put it on two days ago?\n\nSpeaker 1: What's your name and your date of birth?\n\nSpeaker 2: Francis Brand, 9-11-59.\n\nSpeaker 1: Give me a minute.\n\nSpeaker 2: I'm supposed to go back to my card, my original data.\n\nSpeaker 1: My credit card.\n\nSpeaker 2: It doesn't make sense, man.\n\nSpeaker 1: Okay, you were refunded on the 21st.\n\nSpeaker 2: On Wednesday.\n\nSpeaker 1: There has only been two business days.\n\nSpeaker 2: A refund can take anywhere up to three to five business days.\n\nSpeaker 1: Okay, alright.\n\nSpeaker 2: You should have your refund next in a few days, next week.\n\nSpeaker 1: Alright, thank you, man.\n\nSpeaker 2: Have a good day.\n\nSpeaker 1: Have a good day.",
+    "duration": 4628,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling Viagra, how can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 2.799999952316284,
+        "end": 3.5999999046325684,
+        "text": " Is this Michelle?"
+      },
+      {
+        "id": 2,
+        "start": 4.699999809265137,
+        "end": 6.900000095367432,
+        "text": " No, it is not. Would you like to speak with her?"
+      },
+      {
+        "id": 3,
+        "start": 7.300000190734863,
+        "end": 10.199999809265137,
+        "text": " Why am I not... I don't understand, I hit her extension, I got..."
+      },
+      {
+        "id": 4,
+        "start": 10.399999618530273,
+        "end": 12.399999618530273,
+        "text": " You got me on music, now someone else picks up."
+      },
+      {
+        "id": 5,
+        "start": 12.600000381469727,
+        "end": 14.600000381469727,
+        "text": " First another lady picked up, now you're picking up."
+      },
+      {
+        "id": 6,
+        "start": 15,
+        "end": 17.799999237060547,
+        "text": " I had her... I hit her extension, I should get right to her."
+      },
+      {
+        "id": 7,
+        "start": 18.399999618530273,
+        "end": 19.799999237060547,
+        "text": " What's wrong with your phone system?"
+      },
+      {
+        "id": 8,
+        "start": 20.200000762939453,
+        "end": 23.299999237060547,
+        "text": " It's probably because maybe she's on the phone, I don't know."
+      },
+      {
+        "id": 9,
+        "start": 23.799999237060547,
+        "end": 25.600000381469727,
+        "text": " What do you need help with? Maybe I can help."
+      },
+      {
+        "id": 10,
+        "start": 25.600000381469727,
+        "end": 27,
+        "text": " I'm trying to speak to you."
+      },
+      {
+        "id": 11,
+        "start": 27.5,
+        "end": 29.899999618530273,
+        "text": " I don't see... I don't see my money back in my account."
+      },
+      {
+        "id": 12,
+        "start": 30.200000762939453,
+        "end": 33.599998474121094,
+        "text": " Somebody else sent me money back on TikTok and it went back pretty much right away."
+      },
+      {
+        "id": 13,
+        "start": 33.599998474121094,
+        "end": 36.099998474121094,
+        "text": " Why isn't it showing if they put it on two days ago?"
+      },
+      {
+        "id": 14,
+        "start": 36.900001525878906,
+        "end": 38.70000076293945,
+        "text": " What's your name and your date of birth?"
+      },
+      {
+        "id": 15,
+        "start": 39,
+        "end": 41.20000076293945,
+        "text": " Francis Brand, 9-11-59."
+      },
+      {
+        "id": 16,
+        "start": 44.5,
+        "end": 45.5,
+        "text": " Give me a minute."
+      },
+      {
+        "id": 17,
+        "start": 46,
+        "end": 48.400001525878906,
+        "text": " I'm supposed to go back to my card, my original data."
+      },
+      {
+        "id": 18,
+        "start": 48.79999923706055,
+        "end": 49.70000076293945,
+        "text": " My credit card."
+      },
+      {
+        "id": 19,
+        "start": 54.900001525878906,
+        "end": 56.29999923706055,
+        "text": " It doesn't make sense, man."
+      },
+      {
+        "id": 20,
+        "start": 57.099998474121094,
+        "end": 59.900001525878906,
+        "text": " Okay, you were refunded on the 21st."
+      },
+      {
+        "id": 21,
+        "start": 60.5,
+        "end": 61.400001525878906,
+        "text": " On Wednesday."
+      },
+      {
+        "id": 22,
+        "start": 61.70000076293945,
+        "end": 63.599998474121094,
+        "text": " There has only been two business days."
+      },
+      {
+        "id": 23,
+        "start": 63.599998474121094,
+        "end": 66.4000015258789,
+        "text": " A refund can take anywhere up to three to five business days."
+      },
+      {
+        "id": 24,
+        "start": 66.9000015258789,
+        "end": 67.5999984741211,
+        "text": " Okay, alright."
+      },
+      {
+        "id": 25,
+        "start": 67.5999984741211,
+        "end": 70.69999694824219,
+        "text": " You should have your refund next in a few days, next week."
+      },
+      {
+        "id": 26,
+        "start": 71.69999694824219,
+        "end": 72.5999984741211,
+        "text": " Alright, thank you, man."
+      },
+      {
+        "id": 27,
+        "start": 72.5999984741211,
+        "end": 73.19999694824219,
+        "text": " Have a good day."
+      },
+      {
+        "id": 28,
+        "start": 73.19999694824219,
+        "end": 73.9000015258789,
+        "text": " Have a good day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81c4-8a4a-df6717a23615",
+    "url": "https://www.notion.so/300000001216235-300000001705740-2f611d0a101c81c48a4adf6717a23615"
+  },
+  "processedAt": "2026-01-28T11:48:50.529Z"
+}

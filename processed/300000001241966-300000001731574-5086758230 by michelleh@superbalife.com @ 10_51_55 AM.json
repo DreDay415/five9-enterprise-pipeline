@@ -1,0 +1,209 @@
+{
+  "recording": {
+    "name": "300000001241966-300000001731574-5086758230 by michelleh@superbalife.com @ 10_51_55 AM.wav",
+    "size": 129670,
+    "modifyTime": 1771008800000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241966-300000001731574-5086758230 by michelleh@superbalife.com @ 10_51_55 AM.wav",
+    "uploadDate": "2026-02-13T18:53:20.000Z",
+    "callId": "300000001241966-300000001731574",
+    "agent": "michelleh",
+    "phoneNumber": "5086758230",
+    "callTimestamp": "2026-02-13T10:51:55.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_michelleh_300000001241966-300000001731574_5086758230.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_michelleh_300000001241966-300000001731574_5086758230.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you?\n\nSpeaker 2: Hi, I need to cancel my order.\n\nSpeaker 1: Okay, I can help you out with that.\n\nSpeaker 2: Give me one second, pull up your profile.\n\nSpeaker 1: Okay, can I have your phone number you signed up with?\n\nSpeaker 2: 401-486-3214.\n\nSpeaker 1: Thank you, Jeffrey.\n\nSpeaker 2: Can you just confirm your date of birth?\n\nSpeaker 1: 8669.\n\nSpeaker 2: Thank you so much.\n\nSpeaker 1: I see your order here.\n\nSpeaker 2: Let's see what's going on.\n\nSpeaker 1: Okay, it looks like all you have to do,\n\nSpeaker 2: you live in one of those states,\n\nSpeaker 1: there's like a handful of five states in the US,\n\nSpeaker 2: where your state regulations for the telehealth medicine\n\nSpeaker 1: is that the doctor has to verify your identity.\n\nSpeaker 2: So they sent you a link, you just have to click the link\n\nSpeaker 1: and upload a short video of yourself\n\nSpeaker 2: just saying your name and date of birth.\n\nSpeaker 1: Or I could have the doctor give you a call to verify.\n\nSpeaker 2: Yeah, I don't want the product though,\n\nSpeaker 1: so I just want to cancel my order.\n\nSpeaker 2: Okay, no problem, give me one second.\n\nSpeaker 1: All right, perfect.\n\nSpeaker 2: You'll be seeing 163.95 back on your credit card\n\nSpeaker 1: in about five business days or less.\n\nSpeaker 2: All right, great.\n\nSpeaker 1: Thanks very much.\n\nSpeaker 2: No problem, have a good day.",
+    "duration": 3210,
+    "audioDuration": 79.76000213623047,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.640000104904175,
+        "text": " Thank you for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 2.640000104904175,
+        "end": 6.28000020980835,
+        "text": " Hi, I need to cancel my order."
+      },
+      {
+        "id": 2,
+        "start": 6.28000020980835,
+        "end": 7.960000038146973,
+        "text": " Okay, I can help you out with that."
+      },
+      {
+        "id": 3,
+        "start": 7.960000038146973,
+        "end": 10.279999732971191,
+        "text": " Give me one second, pull up your profile."
+      },
+      {
+        "id": 4,
+        "start": 10.279999732971191,
+        "end": 12.720000267028809,
+        "text": " Okay, can I have your phone number you signed up with?"
+      },
+      {
+        "id": 5,
+        "start": 12.720000267028809,
+        "end": 16.079999923706055,
+        "text": " 401-486-3214."
+      },
+      {
+        "id": 6,
+        "start": 19.799999237060547,
+        "end": 20.639999389648438,
+        "text": " Thank you, Jeffrey."
+      },
+      {
+        "id": 7,
+        "start": 20.639999389648438,
+        "end": 22.559999465942383,
+        "text": " Can you just confirm your date of birth?"
+      },
+      {
+        "id": 8,
+        "start": 22.559999465942383,
+        "end": 24.799999237060547,
+        "text": " 8669."
+      },
+      {
+        "id": 9,
+        "start": 24.799999237060547,
+        "end": 25.719999313354492,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 10,
+        "start": 25.719999313354492,
+        "end": 28.15999984741211,
+        "text": " I see your order here."
+      },
+      {
+        "id": 11,
+        "start": 28.15999984741211,
+        "end": 29.459999084472656,
+        "text": " Let's see what's going on."
+      },
+      {
+        "id": 12,
+        "start": 30,
+        "end": 35,
+        "text": " Okay, it looks like all you have to do,"
+      },
+      {
+        "id": 13,
+        "start": 35.79999923706055,
+        "end": 37,
+        "text": " you live in one of those states,"
+      },
+      {
+        "id": 14,
+        "start": 37,
+        "end": 39.68000030517578,
+        "text": " there's like a handful of five states in the US,"
+      },
+      {
+        "id": 15,
+        "start": 39.68000030517578,
+        "end": 42.63999938964844,
+        "text": " where your state regulations for the telehealth medicine"
+      },
+      {
+        "id": 16,
+        "start": 42.63999938964844,
+        "end": 45.400001525878906,
+        "text": " is that the doctor has to verify your identity."
+      },
+      {
+        "id": 17,
+        "start": 45.400001525878906,
+        "end": 48.79999923706055,
+        "text": " So they sent you a link, you just have to click the link"
+      },
+      {
+        "id": 18,
+        "start": 48.79999923706055,
+        "end": 50.400001525878906,
+        "text": " and upload a short video of yourself"
+      },
+      {
+        "id": 19,
+        "start": 50.400001525878906,
+        "end": 53.15999984741211,
+        "text": " just saying your name and date of birth."
+      },
+      {
+        "id": 20,
+        "start": 53.15999984741211,
+        "end": 56.880001068115234,
+        "text": " Or I could have the doctor give you a call to verify."
+      },
+      {
+        "id": 21,
+        "start": 57.08000183105469,
+        "end": 60,
+        "text": " Yeah, I don't want the product though,"
+      },
+      {
+        "id": 22,
+        "start": 60,
+        "end": 62.2400016784668,
+        "text": " so I just want to cancel my order."
+      },
+      {
+        "id": 23,
+        "start": 62.2400016784668,
+        "end": 64.12000274658203,
+        "text": " Okay, no problem, give me one second."
+      },
+      {
+        "id": 24,
+        "start": 68.87999725341797,
+        "end": 69.80000305175781,
+        "text": " All right, perfect."
+      },
+      {
+        "id": 25,
+        "start": 69.80000305175781,
+        "end": 74.23999786376953,
+        "text": " You'll be seeing 163.95 back on your credit card"
+      },
+      {
+        "id": 26,
+        "start": 74.23999786376953,
+        "end": 76.5199966430664,
+        "text": " in about five business days or less."
+      },
+      {
+        "id": 27,
+        "start": 76.5199966430664,
+        "end": 77.44000244140625,
+        "text": " All right, great."
+      },
+      {
+        "id": 28,
+        "start": 77.44000244140625,
+        "end": 78.27999877929688,
+        "text": " Thanks very much."
+      },
+      {
+        "id": 29,
+        "start": 78.27999877929688,
+        "end": 79.55999755859375,
+        "text": " No problem, have a good day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8105-ad40-c238f591a1b3",
+    "url": "https://www.notion.so/300000001241966-300000001731574-30611d0a101c8105ad40c238f591a1b3"
+  },
+  "processedAt": "2026-02-13T19:01:25.595Z"
+}

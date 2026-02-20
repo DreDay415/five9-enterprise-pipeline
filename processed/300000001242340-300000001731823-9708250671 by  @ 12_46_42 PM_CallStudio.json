@@ -1,0 +1,52 @@
+{
+  "recording": {
+    "name": "300000001242340-300000001731823-9708250671 by  @ 12_46_42 PM_CallStudio.wav",
+    "size": 24760,
+    "modifyTime": 1771015640000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242340-300000001731823-9708250671 by  @ 12_46_42 PM_CallStudio.wav",
+    "uploadDate": "2026-02-13T20:47:20.000Z",
+    "callId": "300000001242340-300000001731823",
+    "phoneNumber": "9708250671",
+    "callTimestamp": "2026-02-13T20:47:20.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242340-300000001731823_9708250671.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242340-300000001731823_9708250671.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Para Español, marque número nueve.\n\nSpeaker 1: Cancel subscription.\n\nSpeaker 2: Thanks, transferring to agent.",
+    "duration": 1468,
+    "audioDuration": 15.199999809265137,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 8,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 12,
+        "text": " Cancel subscription."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 15,
+        "text": " Thanks, transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-815c-b0ca-cea6521714e1",
+    "url": "https://www.notion.so/300000001242340-300000001731823-30611d0a101c815cb0cacea6521714e1"
+  },
+  "processedAt": "2026-02-13T20:59:11.354Z"
+}

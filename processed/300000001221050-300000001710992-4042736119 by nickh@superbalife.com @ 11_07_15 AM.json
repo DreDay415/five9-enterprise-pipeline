@@ -1,0 +1,440 @@
+{
+  "recording": {
+    "name": "300000001221050-300000001710992-4042736119 by nickh@superbalife.com @ 11_07_15 AM.wav",
+    "size": 385316,
+    "modifyTime": 1769627494000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221050-300000001710992-4042736119 by nickh@superbalife.com @ 11_07_15 AM.wav",
+    "uploadDate": "2026-01-28T19:11:34.000Z",
+    "callId": "300000001221050-300000001710992",
+    "agent": "nickh",
+    "phoneNumber": "4042736119",
+    "callTimestamp": "2026-01-28T11:07:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra at SCORE Blue.\n\nSpeaker 2: How can I help you today?\n\nSpeaker 1: Yes, I had ordered one of your products and I never signed up for recurring orders,\n\nSpeaker 2: but evidently there's one on the way and my credit card was charged.\n\nSpeaker 1: I don't want this. I want to cancel.\n\nSpeaker 2: Okay, so yeah, let me pull up your account and see how the doctor wrote your prescription.\n\nSpeaker 1: To begin, can I just get your full name and date of birth, please?\n\nSpeaker 2: Okay, Emmett K. Steele, S-T-E-E-L-E, 8-12-48.\n\nSpeaker 1: All right, Mr. Steele, I see here the order was placed online\n\nSpeaker 2: and this was for a prescription of the 50 milligram Viagra AGV\n\nSpeaker 1: and this was written on December 23rd.\n\nSpeaker 2: Does that sound accurate?\n\nSpeaker 1: Well, it was written December 23rd.\n\nSpeaker 2: Yeah, that does sound accurate, yeah.\n\nSpeaker 1: Okay, okay.\n\nSpeaker 2: Looking at the notes from the doctor who wrote it,\n\nSpeaker 1: it appears they wrote it with refills, so that's why that went through.\n\nSpeaker 2: You know, Emmett, so the reason why this is the case is because\n\nSpeaker 1: they assume with the lower milligram dosages, patients are going to be taking two each sitting.\n\nSpeaker 2: They typically do this for patient convenience.\n\nSpeaker 1: I'm not the largest fan because sometimes patients are surprised by it.\n\nSpeaker 2: This is by no means a subscription.\n\nSpeaker 1: You are not required or obligated to get this monthly.\n\nSpeaker 2: It is perfectly adjustable.\n\nSpeaker 1: You currently have about 10 more refills under this script,\n\nSpeaker 2: so if you wanted, you could simply pause the account\n\nSpeaker 1: and that would allow you to call in and place orders as needed.\n\nSpeaker 2: Yeah, I want to cancel, and what about the order for delivery\n\nSpeaker 1: that I got charged for that I didn't approve?\n\nSpeaker 2: Okay, so canceling it closes it out altogether,\n\nSpeaker 1: so you will not have access to this medication any longer, okay,\n\nSpeaker 2: where pausing it allows you to have access to it.\n\nSpeaker 1: This most recent prescription shows that it's set to arrive today\n\nSpeaker 2: between 12.30 p.m. and 4.30 p.m., okay?\n\nSpeaker 1: You can keep that if you would like, or if you want, you can return it for a refund.\n\nSpeaker 2: Return it and get refunded?\n\nSpeaker 1: If you would like, yeah, and that would close out the prescription, though.\n\nSpeaker 2: Yeah, I want the prescription closed out.\n\nSpeaker 1: Okay, yeah, it's not a problem.\n\nSpeaker 2: So if you just wanted to do that, you can simply return that for a refund\n\nSpeaker 1: and we can close out your prescription.\n\nSpeaker 2: All right, but if I don't return it, it's still closed out, correct?\n\nSpeaker 1: Well, if you don't return it, you have two options.\n\nSpeaker 2: You can close it out altogether, all right,\n\nSpeaker 1: so that would close out the remaining 10 refills.\n\nSpeaker 2: I want that option. I want that option.\n\nSpeaker 1: I want to close that altogether.\n\nSpeaker 2: Okay, now what I'm saying is, Mr. Steele, you could pause this\n\nSpeaker 1: where you will not receive these monthly,\n\nSpeaker 2: and you can call in and place orders as needed.\n\nSpeaker 1: So should you want a refill, say, 6 months from now,\n\nSpeaker 2: you can call in and you have access to this medication.\n\nSpeaker 1: Yeah, I don't want that. I want it closed out.\n\nSpeaker 2: Okay, so what I'll do is I will go ahead and close this prescription.\n\nSpeaker 1: Upon cancellation, this prescription is officially closed.\n\nSpeaker 2: Any future prescriptions will require a new health survey,\n\nSpeaker 1: consultation, and approval by doctor.\n\nSpeaker 2: Do you accept these terms?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, this account has officially been closed out.\n\nSpeaker 1: You'll no longer be able to order under this account, okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: Do I need any kind of reference number?\n\nSpeaker 2: Are you going to send me an email or what?\n\nSpeaker 1: You will get a confirmation email.\n\nSpeaker 2: Okay, all right. Thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Goodbye.\n\nSpeaker 1: Goodbye.",
+    "duration": 8060,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, thank you for calling Viagra at SCORE Blue."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 4,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 15,
+        "text": " Yes, I had ordered one of your products and I never signed up for recurring orders,"
+      },
+      {
+        "id": 3,
+        "start": 15,
+        "end": 21,
+        "text": " but evidently there's one on the way and my credit card was charged."
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 24,
+        "text": " I don't want this. I want to cancel."
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 29,
+        "text": " Okay, so yeah, let me pull up your account and see how the doctor wrote your prescription."
+      },
+      {
+        "id": 6,
+        "start": 29,
+        "end": 33,
+        "text": " To begin, can I just get your full name and date of birth, please?"
+      },
+      {
+        "id": 7,
+        "start": 33,
+        "end": 46,
+        "text": " Okay, Emmett K. Steele, S-T-E-E-L-E, 8-12-48."
+      },
+      {
+        "id": 8,
+        "start": 46,
+        "end": 49,
+        "text": " All right, Mr. Steele, I see here the order was placed online"
+      },
+      {
+        "id": 9,
+        "start": 49,
+        "end": 53,
+        "text": " and this was for a prescription of the 50 milligram Viagra AGV"
+      },
+      {
+        "id": 10,
+        "start": 53,
+        "end": 56,
+        "text": " and this was written on December 23rd."
+      },
+      {
+        "id": 11,
+        "start": 56,
+        "end": 60,
+        "text": " Does that sound accurate?"
+      },
+      {
+        "id": 12,
+        "start": 60,
+        "end": 64,
+        "text": " Well, it was written December 23rd."
+      },
+      {
+        "id": 13,
+        "start": 64,
+        "end": 67,
+        "text": " Yeah, that does sound accurate, yeah."
+      },
+      {
+        "id": 14,
+        "start": 67,
+        "end": 70,
+        "text": " Okay, okay."
+      },
+      {
+        "id": 15,
+        "start": 70,
+        "end": 73,
+        "text": " Looking at the notes from the doctor who wrote it,"
+      },
+      {
+        "id": 16,
+        "start": 73,
+        "end": 76,
+        "text": " it appears they wrote it with refills, so that's why that went through."
+      },
+      {
+        "id": 17,
+        "start": 76,
+        "end": 79,
+        "text": " You know, Emmett, so the reason why this is the case is because"
+      },
+      {
+        "id": 18,
+        "start": 79,
+        "end": 84,
+        "text": " they assume with the lower milligram dosages, patients are going to be taking two each sitting."
+      },
+      {
+        "id": 19,
+        "start": 84,
+        "end": 87,
+        "text": " They typically do this for patient convenience."
+      },
+      {
+        "id": 20,
+        "start": 87,
+        "end": 91,
+        "text": " I'm not the largest fan because sometimes patients are surprised by it."
+      },
+      {
+        "id": 21,
+        "start": 91,
+        "end": 93,
+        "text": " This is by no means a subscription."
+      },
+      {
+        "id": 22,
+        "start": 93,
+        "end": 97,
+        "text": " You are not required or obligated to get this monthly."
+      },
+      {
+        "id": 23,
+        "start": 97,
+        "end": 99,
+        "text": " It is perfectly adjustable."
+      },
+      {
+        "id": 24,
+        "start": 99,
+        "end": 102,
+        "text": " You currently have about 10 more refills under this script,"
+      },
+      {
+        "id": 25,
+        "start": 102,
+        "end": 104,
+        "text": " so if you wanted, you could simply pause the account"
+      },
+      {
+        "id": 26,
+        "start": 104,
+        "end": 107,
+        "text": " and that would allow you to call in and place orders as needed."
+      },
+      {
+        "id": 27,
+        "start": 108,
+        "end": 113,
+        "text": " Yeah, I want to cancel, and what about the order for delivery"
+      },
+      {
+        "id": 28,
+        "start": 113,
+        "end": 117,
+        "text": " that I got charged for that I didn't approve?"
+      },
+      {
+        "id": 29,
+        "start": 117,
+        "end": 120,
+        "text": " Okay, so canceling it closes it out altogether,"
+      },
+      {
+        "id": 30,
+        "start": 120,
+        "end": 124,
+        "text": " so you will not have access to this medication any longer, okay,"
+      },
+      {
+        "id": 31,
+        "start": 124,
+        "end": 127,
+        "text": " where pausing it allows you to have access to it."
+      },
+      {
+        "id": 32,
+        "start": 127,
+        "end": 131,
+        "text": " This most recent prescription shows that it's set to arrive today"
+      },
+      {
+        "id": 33,
+        "start": 131,
+        "end": 135,
+        "text": " between 12.30 p.m. and 4.30 p.m., okay?"
+      },
+      {
+        "id": 34,
+        "start": 136,
+        "end": 141,
+        "text": " You can keep that if you would like, or if you want, you can return it for a refund."
+      },
+      {
+        "id": 35,
+        "start": 141,
+        "end": 145,
+        "text": " Return it and get refunded?"
+      },
+      {
+        "id": 36,
+        "start": 145,
+        "end": 149,
+        "text": " If you would like, yeah, and that would close out the prescription, though."
+      },
+      {
+        "id": 37,
+        "start": 149,
+        "end": 153,
+        "text": " Yeah, I want the prescription closed out."
+      },
+      {
+        "id": 38,
+        "start": 153,
+        "end": 155,
+        "text": " Okay, yeah, it's not a problem."
+      },
+      {
+        "id": 39,
+        "start": 155,
+        "end": 158,
+        "text": " So if you just wanted to do that, you can simply return that for a refund"
+      },
+      {
+        "id": 40,
+        "start": 158,
+        "end": 160,
+        "text": " and we can close out your prescription."
+      },
+      {
+        "id": 41,
+        "start": 160,
+        "end": 164,
+        "text": " All right, but if I don't return it, it's still closed out, correct?"
+      },
+      {
+        "id": 42,
+        "start": 165,
+        "end": 168,
+        "text": " Well, if you don't return it, you have two options."
+      },
+      {
+        "id": 43,
+        "start": 168,
+        "end": 171,
+        "text": " You can close it out altogether, all right,"
+      },
+      {
+        "id": 44,
+        "start": 171,
+        "end": 173,
+        "text": " so that would close out the remaining 10 refills."
+      },
+      {
+        "id": 45,
+        "start": 173,
+        "end": 176,
+        "text": " I want that option. I want that option."
+      },
+      {
+        "id": 46,
+        "start": 176,
+        "end": 178,
+        "text": " I want to close that altogether."
+      },
+      {
+        "id": 47,
+        "start": 178,
+        "end": 181,
+        "text": " Okay, now what I'm saying is, Mr. Steele, you could pause this"
+      },
+      {
+        "id": 48,
+        "start": 181,
+        "end": 184,
+        "text": " where you will not receive these monthly,"
+      },
+      {
+        "id": 49,
+        "start": 184,
+        "end": 187,
+        "text": " and you can call in and place orders as needed."
+      },
+      {
+        "id": 50,
+        "start": 187,
+        "end": 190,
+        "text": " So should you want a refill, say, 6 months from now,"
+      },
+      {
+        "id": 51,
+        "start": 190,
+        "end": 193,
+        "text": " you can call in and you have access to this medication."
+      },
+      {
+        "id": 52,
+        "start": 194,
+        "end": 196,
+        "text": " Yeah, I don't want that. I want it closed out."
+      },
+      {
+        "id": 53,
+        "start": 196,
+        "end": 200,
+        "text": " Okay, so what I'll do is I will go ahead and close this prescription."
+      },
+      {
+        "id": 54,
+        "start": 200,
+        "end": 204,
+        "text": " Upon cancellation, this prescription is officially closed."
+      },
+      {
+        "id": 55,
+        "start": 204,
+        "end": 207,
+        "text": " Any future prescriptions will require a new health survey,"
+      },
+      {
+        "id": 56,
+        "start": 207,
+        "end": 210,
+        "text": " consultation, and approval by doctor."
+      },
+      {
+        "id": 57,
+        "start": 210,
+        "end": 212,
+        "text": " Do you accept these terms?"
+      },
+      {
+        "id": 58,
+        "start": 212,
+        "end": 213,
+        "text": " Yes."
+      },
+      {
+        "id": 59,
+        "start": 213,
+        "end": 216,
+        "text": " Okay, this account has officially been closed out."
+      },
+      {
+        "id": 60,
+        "start": 216,
+        "end": 219,
+        "text": " You'll no longer be able to order under this account, okay?"
+      },
+      {
+        "id": 61,
+        "start": 219,
+        "end": 221,
+        "text": " Okay."
+      },
+      {
+        "id": 62,
+        "start": 222,
+        "end": 224,
+        "text": " Do I need any kind of reference number?"
+      },
+      {
+        "id": 63,
+        "start": 224,
+        "end": 226,
+        "text": " Are you going to send me an email or what?"
+      },
+      {
+        "id": 64,
+        "start": 226,
+        "end": 229,
+        "text": " You will get a confirmation email."
+      },
+      {
+        "id": 65,
+        "start": 229,
+        "end": 231,
+        "text": " Okay, all right. Thank you."
+      },
+      {
+        "id": 66,
+        "start": 231,
+        "end": 233,
+        "text": " Thank you."
+      },
+      {
+        "id": 67,
+        "start": 233,
+        "end": 234,
+        "text": " Goodbye."
+      },
+      {
+        "id": 68,
+        "start": 234,
+        "end": 235,
+        "text": " Goodbye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-819b-a103-f9e6f4d3cbb1",
+    "url": "https://www.notion.so/300000001221050-300000001710992-2f611d0a101c819ba103f9e6f4d3cbb1"
+  },
+  "processedAt": "2026-01-28T23:58:25.219Z"
+}

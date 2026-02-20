@@ -1,0 +1,80 @@
+{
+  "recording": {
+    "name": "300000001219331-300000001709433-4326346225 by jessie@superbalife.com @ 10_53_00 AM.wav",
+    "size": 63890,
+    "modifyTime": 1769584045000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219331-300000001709433-4326346225 by jessie@superbalife.com @ 10_53_00 AM.wav",
+    "uploadDate": "2026-01-28T07:07:25.000Z",
+    "callId": "300000001219331-300000001709433",
+    "agent": "jessie",
+    "phoneNumber": "4326346225",
+    "callTimestamp": "2026-01-28T10:53:00.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra. My name is Jessie. Can I get your first and last name?\n\nSpeaker 2: Isaac Lujan.\n\nSpeaker 1: Okay. Mr. Lujan, how can I help you?\n\nSpeaker 2: Okay. Is Joanna not available?\n\nSpeaker 1: I can transfer you over to her. Just a moment.\n\nSpeaker 2: Well, I've been trying to get a hold of her for, I don't know, over a week, and she's not available.\n\nSpeaker 1: I received my order, but they forgot to put the activator in there.\n\nSpeaker 2: Okay. One moment, please. Let me put you through to her line. One moment.\n\nSpeaker 1: Okay.",
+    "duration": 2769,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi, thank you so much for calling Viagra. My name is Jessie. Can I get your first and last name?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 9,
+        "text": " Isaac Lujan."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 12,
+        "text": " Okay. Mr. Lujan, how can I help you?"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 15,
+        "text": " Okay. Is Joanna not available?"
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 18,
+        "text": " I can transfer you over to her. Just a moment."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 25,
+        "text": " Well, I've been trying to get a hold of her for, I don't know, over a week, and she's not available."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 32,
+        "text": " I received my order, but they forgot to put the activator in there."
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 36,
+        "text": " Okay. One moment, please. Let me put you through to her line. One moment."
+      },
+      {
+        "id": 8,
+        "start": 36,
+        "end": 39,
+        "text": " Okay."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a0-8a90-ed84391cd7ae",
+    "url": "https://www.notion.so/300000001219331-300000001709433-2f611d0a101c81a08a90ed84391cd7ae"
+  },
+  "processedAt": "2026-01-28T15:19:00.740Z"
+}

@@ -1,0 +1,266 @@
+{
+  "recording": {
+    "name": "300000001218974-300000001709133-5168157211 by jimmy@superbalife.com @ 9_22_39 AM.wav",
+    "size": 298150,
+    "modifyTime": 1769590031000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218974-300000001709133-5168157211 by jimmy@superbalife.com @ 9_22_39 AM.wav",
+    "uploadDate": "2026-01-28T08:47:11.000Z",
+    "callId": "300000001218974-300000001709133",
+    "agent": "jimmy",
+    "phoneNumber": "5168157211",
+    "callTimestamp": "2026-01-28T09:22:39.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Jimmy. How can I help you today?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Yeah, you reached Viagra. This is Jimmy. How can I help you?\n\nSpeaker 1: This is William Hines. Could you cancel my subscription, please?\n\nSpeaker 2: Okay, Mr. Hines. I'm trying to pull up your information with the phone number you're calling from and nothing's coming up.\n\nSpeaker 1: Is there another number that you might have used when you ordered?\n\nSpeaker 2: No. 516-815-7211.\n\nSpeaker 1: Okay, nothing's coming up. Why don't you give me a zip code? Let me try to find it that way. What's the zip code?\n\nSpeaker 2: 11724-William-H-E-I-N-S.\n\nSpeaker 1: I'm sorry. 71724? Is that what you said?\n\nSpeaker 2: 11724.\n\nSpeaker 1: 11724. Okay.\n\nSpeaker 2: Okay, Mr. Hines. I believe I was able to pull you up.\n\nSpeaker 1: All right.\n\nSpeaker 2: All right.\n\nSpeaker 1: I had a different number. I had an 815-7200.\n\nSpeaker 2: What you're saying is 7211?\n\nSpeaker 1: 7211, yes. 7211.\n\nSpeaker 2: All right. No problem. Let me see what I fixed for you.\n\nSpeaker 1: Okay. So I do have your account up. I do see that you're currently getting the Viagra.\n\nSpeaker 2: It looks like you're getting 100 milligrams, and it looks like your prescription, you're getting them every month.\n\nSpeaker 1: Let me go in there and go ahead and take care of your request for you real quick.\n\nSpeaker 2: All right. What I was able to do for you, I was able to stop those monthly shipments.\n\nSpeaker 1: I also stopped the monthly refills that were included in your prescription, and I stopped the monthly charges as well.\n\nSpeaker 2: And looking at your account, I did notice that you are a VIP.\n\nSpeaker 1: And what I did, since I paused the prescription, I also elevated the lease status to allow you to order whatever you want, so you're not getting them every month.\n\nSpeaker 2: Was it something that was happening with the pills or why you wanted to actually cancel outright, or what's going on?\n\nSpeaker 1: Yeah. The doctor told me they're no good for me. I'm too old for them.\n\nSpeaker 2: The doctor said they're no good for you?\n\nSpeaker 1: Yeah. He said they're no good for my heart. I have a bad heart.\n\nSpeaker 2: Okay. Okay. I'm sorry to hear that.\n\nSpeaker 1: All right. So I went ahead and took care of that.\n\nSpeaker 2: I just got to tell you, I know you're not going to be doing this in the future since the doctor is telling you they're not good for you, but since you are canceling your prescription totally outright, we're on a first-come, first-served basis.\n\nSpeaker 1: And we typically usually sold out, so we do our refills based off of the new order that you placed or your existing prescription.\n\nSpeaker 2: And by you canceling that altogether, you wouldn't be able to order in the future.\n\nSpeaker 1: But I'm sorry to hear that it's your heart, because I wanted to try to offer you an opportunity to try this new and improved Viagra that we were having out for free for this year.\n\nSpeaker 2: I'm all good. I'm all good. Thank you very much. We're all set.\n\nSpeaker 1: All right. Not a problem. Thank you, sir. It's been done.\n\nSpeaker 2: All right.",
+    "duration": 6417,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. This is Jimmy. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 8,
+        "text": " Hello?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 9,
+        "text": " Hello?"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 12,
+        "text": " Yeah, you reached Viagra. This is Jimmy. How can I help you?"
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 16,
+        "text": " This is William Hines. Could you cancel my subscription, please?"
+      },
+      {
+        "id": 5,
+        "start": 16,
+        "end": 21,
+        "text": " Okay, Mr. Hines. I'm trying to pull up your information with the phone number you're calling from and nothing's coming up."
+      },
+      {
+        "id": 6,
+        "start": 21,
+        "end": 25,
+        "text": " Is there another number that you might have used when you ordered?"
+      },
+      {
+        "id": 7,
+        "start": 26,
+        "end": 29,
+        "text": " No. 516-815-7211."
+      },
+      {
+        "id": 8,
+        "start": 30,
+        "end": 34,
+        "text": " Okay, nothing's coming up. Why don't you give me a zip code? Let me try to find it that way. What's the zip code?"
+      },
+      {
+        "id": 9,
+        "start": 34,
+        "end": 38,
+        "text": " 11724-William-H-E-I-N-S."
+      },
+      {
+        "id": 10,
+        "start": 39,
+        "end": 42,
+        "text": " I'm sorry. 71724? Is that what you said?"
+      },
+      {
+        "id": 11,
+        "start": 42,
+        "end": 45,
+        "text": " 11724."
+      },
+      {
+        "id": 12,
+        "start": 46,
+        "end": 48,
+        "text": " 11724. Okay."
+      },
+      {
+        "id": 13,
+        "start": 50,
+        "end": 53,
+        "text": " Okay, Mr. Hines. I believe I was able to pull you up."
+      },
+      {
+        "id": 14,
+        "start": 54,
+        "end": 55,
+        "text": " All right."
+      },
+      {
+        "id": 15,
+        "start": 55,
+        "end": 56,
+        "text": " All right."
+      },
+      {
+        "id": 16,
+        "start": 58,
+        "end": 62,
+        "text": " I had a different number. I had an 815-7200."
+      },
+      {
+        "id": 17,
+        "start": 62,
+        "end": 64,
+        "text": " What you're saying is 7211?"
+      },
+      {
+        "id": 18,
+        "start": 64,
+        "end": 67,
+        "text": " 7211, yes. 7211."
+      },
+      {
+        "id": 19,
+        "start": 67,
+        "end": 71,
+        "text": " All right. No problem. Let me see what I fixed for you."
+      },
+      {
+        "id": 20,
+        "start": 78,
+        "end": 82,
+        "text": " Okay. So I do have your account up. I do see that you're currently getting the Viagra."
+      },
+      {
+        "id": 21,
+        "start": 83,
+        "end": 87,
+        "text": " It looks like you're getting 100 milligrams, and it looks like your prescription, you're getting them every month."
+      },
+      {
+        "id": 22,
+        "start": 88,
+        "end": 91,
+        "text": " Let me go in there and go ahead and take care of your request for you real quick."
+      },
+      {
+        "id": 23,
+        "start": 97,
+        "end": 100,
+        "text": " All right. What I was able to do for you, I was able to stop those monthly shipments."
+      },
+      {
+        "id": 24,
+        "start": 101,
+        "end": 106,
+        "text": " I also stopped the monthly refills that were included in your prescription, and I stopped the monthly charges as well."
+      },
+      {
+        "id": 25,
+        "start": 107,
+        "end": 110,
+        "text": " And looking at your account, I did notice that you are a VIP."
+      },
+      {
+        "id": 26,
+        "start": 110,
+        "end": 119,
+        "text": " And what I did, since I paused the prescription, I also elevated the lease status to allow you to order whatever you want, so you're not getting them every month."
+      },
+      {
+        "id": 27,
+        "start": 120,
+        "end": 125,
+        "text": " Was it something that was happening with the pills or why you wanted to actually cancel outright, or what's going on?"
+      },
+      {
+        "id": 28,
+        "start": 125,
+        "end": 129,
+        "text": " Yeah. The doctor told me they're no good for me. I'm too old for them."
+      },
+      {
+        "id": 29,
+        "start": 130,
+        "end": 133,
+        "text": " The doctor said they're no good for you?"
+      },
+      {
+        "id": 30,
+        "start": 133,
+        "end": 137,
+        "text": " Yeah. He said they're no good for my heart. I have a bad heart."
+      },
+      {
+        "id": 31,
+        "start": 138,
+        "end": 140,
+        "text": " Okay. Okay. I'm sorry to hear that."
+      },
+      {
+        "id": 32,
+        "start": 142,
+        "end": 144,
+        "text": " All right. So I went ahead and took care of that."
+      },
+      {
+        "id": 33,
+        "start": 145,
+        "end": 156,
+        "text": " I just got to tell you, I know you're not going to be doing this in the future since the doctor is telling you they're not good for you, but since you are canceling your prescription totally outright, we're on a first-come, first-served basis."
+      },
+      {
+        "id": 34,
+        "start": 157,
+        "end": 163,
+        "text": " And we typically usually sold out, so we do our refills based off of the new order that you placed or your existing prescription."
+      },
+      {
+        "id": 35,
+        "start": 163,
+        "end": 167,
+        "text": " And by you canceling that altogether, you wouldn't be able to order in the future."
+      },
+      {
+        "id": 36,
+        "start": 168,
+        "end": 175,
+        "text": " But I'm sorry to hear that it's your heart, because I wanted to try to offer you an opportunity to try this new and improved Viagra that we were having out for free for this year."
+      },
+      {
+        "id": 37,
+        "start": 176,
+        "end": 180,
+        "text": " I'm all good. I'm all good. Thank you very much. We're all set."
+      },
+      {
+        "id": 38,
+        "start": 180,
+        "end": 182,
+        "text": " All right. Not a problem. Thank you, sir. It's been done."
+      },
+      {
+        "id": 39,
+        "start": 182,
+        "end": 183,
+        "text": " All right."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81f2-9e4b-c80a4c533947",
+    "url": "https://www.notion.so/300000001218974-300000001709133-2f611d0a101c81f29e4bc80a4c533947"
+  },
+  "processedAt": "2026-01-28T12:24:19.697Z"
+}

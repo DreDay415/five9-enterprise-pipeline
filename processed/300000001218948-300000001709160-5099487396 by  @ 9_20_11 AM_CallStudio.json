@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001218948-300000001709160-5099487396 by  @ 9_20_11 AM_CallStudio.wav",
+    "size": 50046,
+    "modifyTime": 1769593927000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218948-300000001709160-5099487396 by  @ 9_20_11 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:52:07.000Z",
+    "callId": "300000001218948-300000001709160",
+    "phoneNumber": "5099487396",
+    "callTimestamp": "2026-01-28T09:52:07.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para español, marque número nueve.\n\nSpeaker 2: We didn't receive a response, or I couldn't hear you.\n\nSpeaker 1: Let's try again.\n\nSpeaker 2: Please state the reason for your call.\n\nSpeaker 1: My call is about, uh, it's about my last question, Sid.\n\nSpeaker 2: I appreciate it, uh, for your time.",
+    "duration": 2964,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.340000152587891,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.519999980926514,
+        "end": 6.980000019073486,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.300000190734863,
+        "end": 8.779999732971191,
+        "text": " Para español, marque número nueve."
+      },
+      {
+        "id": 3,
+        "start": 16.639999389648438,
+        "end": 19.1200008392334,
+        "text": " We didn't receive a response, or I couldn't hear your."
+      },
+      {
+        "id": 4,
+        "start": 19.780000686645508,
+        "end": 20.700000762939453,
+        "text": " Let's try again."
+      },
+      {
+        "id": 5,
+        "start": 21.31999969482422,
+        "end": 22.940000534057617,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 6,
+        "start": 23.940000534057617,
+        "end": 27.15999984741211,
+        "text": " My call about, uh, it's about my last question, Sid."
+      },
+      {
+        "id": 7,
+        "start": 28.299999237060547,
+        "end": 30.540000915527344,
+        "text": " I appreciate it, uh, for your time."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8126-8e47-d95bda6768e9",
+    "url": "https://www.notion.so/300000001218948-300000001709160-2f611d0a101c81268e47d95bda6768e9"
+  },
+  "processedAt": "2026-01-28T10:00:28.327Z"
+}

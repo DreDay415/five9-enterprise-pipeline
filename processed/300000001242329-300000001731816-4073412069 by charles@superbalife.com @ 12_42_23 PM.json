@@ -1,0 +1,35 @@
+{
+  "recording": {
+    "name": "300000001242329-300000001731816-4073412069 by charles@superbalife.com @ 12_42_23 PM.wav",
+    "size": 7666,
+    "modifyTime": 1771015370000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242329-300000001731816-4073412069 by charles@superbalife.com @ 12_42_23 PM.wav",
+    "uploadDate": "2026-02-13T20:42:50.000Z",
+    "callId": "300000001242329-300000001731816",
+    "agent": "charles",
+    "phoneNumber": "4073412069",
+    "callTimestamp": "2026-02-13T12:42:23.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_charles_300000001242329-300000001731816_4073412069.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_charles_300000001242329-300000001731816_4073412069.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Bye-bye.",
+    "duration": 433,
+    "audioDuration": 4.679999828338623,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 0.8399999737739563,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81ad-b52c-ec9c0f5d1972",
+    "url": "https://www.notion.so/300000001242329-300000001731816-30611d0a101c81adb52cec9c0f5d1972"
+  },
+  "processedAt": "2026-02-13T21:00:28.806Z"
+}

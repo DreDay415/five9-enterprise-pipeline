@@ -1,0 +1,44 @@
+{
+  "recording": {
+    "name": "300000001218599-300000001708782-3237934254 by jimmy@superbalife.com @ 7_33_33 AM.wav",
+    "size": 39126,
+    "modifyTime": 1769583133000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218599-300000001708782-3237934254 by jimmy@superbalife.com @ 7_33_33 AM.wav",
+    "uploadDate": "2026-01-28T06:52:13.000Z",
+    "callId": "300000001218599-300000001708782",
+    "agent": "jimmy",
+    "phoneNumber": "3237934254",
+    "callTimestamp": "2026-01-28T07:33:33.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Telephone number 3-2-3-7-9-3-4-2-5-4, can't take your call now.\n\nSpeaker 2: At the tone, please record your message.\n\nSpeaker 1: When you've finished recording, simply hang up or press pound for further options.",
+    "duration": 1579,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 9,
+        "text": " Telephone number, 3-2-3-7-9-3-4-2-5-4, can't take your call now."
+      },
+      {
+        "id": 1,
+        "start": 10,
+        "end": 13,
+        "text": " At the tone, please record your message."
+      },
+      {
+        "id": 2,
+        "start": 13,
+        "end": 18,
+        "text": " When you've finished recording, simply hang up or press pound for further options."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8134-aa9d-fc6be5dc60e7",
+    "url": "https://www.notion.so/300000001218599-300000001708782-2f611d0a101c8134aa9dfc6be5dc60e7"
+  },
+  "processedAt": "2026-01-28T16:34:16.685Z"
+}

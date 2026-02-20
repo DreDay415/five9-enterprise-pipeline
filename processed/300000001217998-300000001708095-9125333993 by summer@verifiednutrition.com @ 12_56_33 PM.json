@@ -1,0 +1,128 @@
+{
+  "recording": {
+    "name": "300000001217998-300000001708095-9125333993 by summer@verifiednutrition.com @ 12_56_33 PM.wav",
+    "size": 133700,
+    "modifyTime": 1769584635000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217998-300000001708095-9125333993 by summer@verifiednutrition.com @ 12_56_33 PM.wav",
+    "uploadDate": "2026-01-28T07:17:15.000Z",
+    "callId": "300000001217998-300000001708095",
+    "agent": "summer",
+    "phoneNumber": "9125333993",
+    "callTimestamp": "2026-01-28T12:56:33.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service, how can I help you?\n\nSpeaker 2: Yes ma'am, I got an order and my name is Timothy O. Morris.\n\nSpeaker 1: I don't see the order number on, it came from, yeah there it is.\n\nSpeaker 2: And I just got it and I thought,\n\nSpeaker 1: the advertiser I saw on Facebook, I thought, read three bottles for $140.\n\nSpeaker 2: Have I misread that ma'am?\n\nSpeaker 1: Three bottles of what?\n\nSpeaker 2: The, uh, uh, store blue, three bottles of Viagra.\n\nSpeaker 1: We don't carry them by the bottle, we carry them by the pill, but you did order 40 pills.\n\nSpeaker 2: Yes ma'am.\n\nSpeaker 1: So it was $140 for 40 pills?\n\nSpeaker 2: Yes sir.\n\nSpeaker 1: Woo, they better work.\n\nSpeaker 2: Well, thank you so much darling.\n\nSpeaker 1: Y'all have a good one, okay?\n\nSpeaker 2: You too, bye bye.\n\nSpeaker 1: Bye bye.",
+    "duration": 2744,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling customer service, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 11,
+        "text": " Yes ma'am, I got an order and my name is Timothy O. Morris."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 22,
+        "text": " I don't see the order number on, it came from, yeah there it is."
+      },
+      {
+        "id": 3,
+        "start": 22,
+        "end": 27,
+        "text": " And I just got it and I thought,"
+      },
+      {
+        "id": 4,
+        "start": 27,
+        "end": 34,
+        "text": " the advertiser I saw on Facebook, I thought, read three bottles for $140."
+      },
+      {
+        "id": 5,
+        "start": 34,
+        "end": 37,
+        "text": " Have I misread that ma'am?"
+      },
+      {
+        "id": 6,
+        "start": 37,
+        "end": 41,
+        "text": " Three bottles of what?"
+      },
+      {
+        "id": 7,
+        "start": 41,
+        "end": 54,
+        "text": " The, uh, uh, store blue, three bottles of Viagra."
+      },
+      {
+        "id": 8,
+        "start": 54,
+        "end": 60,
+        "text": " We don't carry them by the bottle, we carry them by the pill, but you did order 40 pills."
+      },
+      {
+        "id": 9,
+        "start": 60,
+        "end": 65,
+        "text": " Yes ma'am."
+      },
+      {
+        "id": 10,
+        "start": 65,
+        "end": 68,
+        "text": " So it was $140 for 40 pills?"
+      },
+      {
+        "id": 11,
+        "start": 68,
+        "end": 70,
+        "text": " Yes sir."
+      },
+      {
+        "id": 12,
+        "start": 70,
+        "end": 75,
+        "text": " Woo, they better work."
+      },
+      {
+        "id": 13,
+        "start": 75,
+        "end": 77,
+        "text": " Well, thank you so much darling."
+      },
+      {
+        "id": 14,
+        "start": 77,
+        "end": 79,
+        "text": " Y'all have a good one, okay?"
+      },
+      {
+        "id": 15,
+        "start": 79,
+        "end": 80,
+        "text": " You too, bye bye."
+      },
+      {
+        "id": 16,
+        "start": 80,
+        "end": 82,
+        "text": " Bye bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ca-8f24-fa9d0825af53",
+    "url": "https://www.notion.so/300000001217998-300000001708095-2f611d0a101c81ca8f24fa9d0825af53"
+  },
+  "processedAt": "2026-01-28T14:56:30.888Z"
+}

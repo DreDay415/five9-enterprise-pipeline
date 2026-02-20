@@ -1,0 +1,236 @@
+{
+  "recording": {
+    "name": "300000001216625-300000001705988-6468720331 by john@superbalife.com @ 3_08_38 PM.wav",
+    "size": 203056,
+    "modifyTime": 1769601727000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216625-300000001705988-6468720331 by john@superbalife.com @ 3_08_38 PM.wav",
+    "uploadDate": "2026-01-28T12:02:07.000Z",
+    "callId": "300000001216625-300000001705988",
+    "agent": "john",
+    "phoneNumber": "6468720331",
+    "callTimestamp": "2026-01-28T15:08:38.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Yes, I'm calling in reference to the new pill, ADV.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I'm in the system. I just updated the card and everything.\n\nSpeaker 1: Now, what was the promotion I got for the Gender Promotion thing I have for the pills?\n\nSpeaker 2: I need your name and zip code real quick, sir.\n\nSpeaker 1: Okay. Name is Kelvin, K-E-L-V-I-N.\n\nSpeaker 2: And last name Wilkes, W-I-L-K-E-S.\n\nSpeaker 1: Okay. And the zip?\n\nSpeaker 2: 11422.\n\nSpeaker 1: Thank you. One second. I'm pulling up your account.\n\nSpeaker 2: Okay. 133rd Ave. in Rosedale?\n\nSpeaker 1: That's correct.\n\nSpeaker 2: Okay. So the last time you ordered, you got five pills at $63.95.\n\nSpeaker 1: We've actually changed the plan, so you can get ten for that same price.\n\nSpeaker 2: We do have more than ten if you want to get that, but if you're looking to pay something similar, we can get you ten.\n\nSpeaker 1: Ten is good.\n\nSpeaker 2: Ten is good? Okay.\n\nSpeaker 1: You updated the card, so...\n\nSpeaker 2: The Discover card is the one you want me to use, right?\n\nSpeaker 1: That's right. 0373.\n\nSpeaker 2: It did update properly, so I'll go ahead and charge that card for you.\n\nSpeaker 1: That's what I needed.\n\nSpeaker 2: All right. You're getting ten of the AGV, sir.\n\nSpeaker 1: These should ship out on Monday for you.\n\nSpeaker 2: Appreciate you. Thank you.\n\nSpeaker 1: Good luck with the storm that's coming through.\n\nSpeaker 2: Me, I just finished having a throat cut, but I won't be doing none of that.\n\nSpeaker 1: I'm in the house for six months.\n\nSpeaker 2: Oh, well...\n\nSpeaker 1: I got you.\n\nSpeaker 2: Even if it was going to snow you in any way, it doesn't matter.\n\nSpeaker 1: Well, I hope you recover well, sir, and you'll get these in about a week or so.\n\nSpeaker 2: Yes. Appreciate you. Thank you.\n\nSpeaker 1: Of course. Bye-bye.",
+    "duration": 5481,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 2.640000104904175,
+        "end": 8,
+        "text": " Yes, I'm calling in reference to the new pill, ADV."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 10,
+        "text": " Okay."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 16,
+        "text": " I'm in the system. I just updated the card and everything."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 26,
+        "text": " Now, what was the promotion I got for the Gender Promotion thing I have for the pills?"
+      },
+      {
+        "id": 5,
+        "start": 26,
+        "end": 28,
+        "text": " I need your name and zip code real quick, sir."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 32,
+        "text": " Okay. Name is Kelvin, K-E-L-V-I-N."
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 38,
+        "text": " And last name Wilkes, W-I-L-K-E-S."
+      },
+      {
+        "id": 8,
+        "start": 38,
+        "end": 40,
+        "text": " Okay. And the zip?"
+      },
+      {
+        "id": 9,
+        "start": 40,
+        "end": 44,
+        "text": " 11422."
+      },
+      {
+        "id": 10,
+        "start": 44,
+        "end": 48,
+        "text": " Thank you. One second. I'm pulling up your account."
+      },
+      {
+        "id": 11,
+        "start": 48,
+        "end": 52,
+        "text": " Okay. 133rd Ave. in Rosedale?"
+      },
+      {
+        "id": 12,
+        "start": 52,
+        "end": 54,
+        "text": " That's correct."
+      },
+      {
+        "id": 13,
+        "start": 54,
+        "end": 60,
+        "text": " Okay. So the last time you ordered, you got five pills at $63.95."
+      },
+      {
+        "id": 14,
+        "start": 60,
+        "end": 64,
+        "text": " We've actually changed the plan, so you can get ten for that same price."
+      },
+      {
+        "id": 15,
+        "start": 64,
+        "end": 68,
+        "text": " We do have more than ten if you want to get that, but if you're looking to pay something similar, we can get you ten."
+      },
+      {
+        "id": 16,
+        "start": 68,
+        "end": 70,
+        "text": " Ten is good."
+      },
+      {
+        "id": 17,
+        "start": 70,
+        "end": 72,
+        "text": " Ten is good? Okay."
+      },
+      {
+        "id": 18,
+        "start": 72,
+        "end": 76,
+        "text": " You updated the card, so..."
+      },
+      {
+        "id": 19,
+        "start": 76,
+        "end": 78,
+        "text": " The Discover card is the one you want me to use, right?"
+      },
+      {
+        "id": 20,
+        "start": 78,
+        "end": 82,
+        "text": " That's right. 0373."
+      },
+      {
+        "id": 21,
+        "start": 82,
+        "end": 86,
+        "text": " It did update properly, so I'll go ahead and charge that card for you."
+      },
+      {
+        "id": 22,
+        "start": 86,
+        "end": 90,
+        "text": " That's what I needed."
+      },
+      {
+        "id": 23,
+        "start": 90,
+        "end": 92,
+        "text": " All right. You're getting ten of the AGV, sir."
+      },
+      {
+        "id": 24,
+        "start": 92,
+        "end": 94,
+        "text": " These should ship out on Monday for you."
+      },
+      {
+        "id": 25,
+        "start": 94,
+        "end": 96,
+        "text": " Appreciate you. Thank you."
+      },
+      {
+        "id": 26,
+        "start": 96,
+        "end": 100,
+        "text": " Good luck with the storm that's coming through."
+      },
+      {
+        "id": 27,
+        "start": 100,
+        "end": 106,
+        "text": " Me, I just finished having a throat cut, but I won't be doing none of that."
+      },
+      {
+        "id": 28,
+        "start": 106,
+        "end": 108,
+        "text": " I'm in the house for six months."
+      },
+      {
+        "id": 29,
+        "start": 108,
+        "end": 110,
+        "text": " Oh, well..."
+      },
+      {
+        "id": 30,
+        "start": 110,
+        "end": 112,
+        "text": " I got you."
+      },
+      {
+        "id": 31,
+        "start": 112,
+        "end": 114,
+        "text": " Even if it was going to snow you in any way, it doesn't matter."
+      },
+      {
+        "id": 32,
+        "start": 114,
+        "end": 118,
+        "text": " Well, I hope you recover well, sir, and you'll get these in about a week or so."
+      },
+      {
+        "id": 33,
+        "start": 118,
+        "end": 120,
+        "text": " Yes. Appreciate you. Thank you."
+      },
+      {
+        "id": 34,
+        "start": 120,
+        "end": 122,
+        "text": " Of course. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8145-ae6c-e5b7837d62e4",
+    "url": "https://www.notion.so/300000001216625-300000001705988-2f611d0a101c8145ae6ce5b7837d62e4"
+  },
+  "processedAt": "2026-01-28T19:10:42.439Z"
+}

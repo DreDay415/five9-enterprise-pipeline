@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001219852-300000001709798-9166166404 by  @ 1_18_43 PM_CallStudio.wav",
+    "size": 24826,
+    "modifyTime": 1769548759000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219852-300000001709798-9166166404 by  @ 1_18_43 PM_CallStudio.wav",
+    "uploadDate": "2026-01-27T21:19:19.000Z",
+    "callId": "300000001219852-300000001709798",
+    "phoneNumber": "9166166404",
+    "callTimestamp": "2026-01-27T21:19:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Having problems with my bill.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1392,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.199999809265137,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.199999809265137,
+        "end": 8.699999809265137,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 8.699999809265137,
+        "end": 11.84000015258789,
+        "text": " Having problems with my bill."
+      },
+      {
+        "id": 3,
+        "start": 11.84000015258789,
+        "end": 14.920000076293945,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8127-a7f2-d7ee2361bf10",
+    "url": "https://www.notion.so/300000001219852-300000001709798-2f511d0a101c8127a7f2d7ee2361bf10"
+  },
+  "processedAt": "2026-01-27T23:33:55.268Z"
+}

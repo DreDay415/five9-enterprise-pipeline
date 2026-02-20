@@ -1,0 +1,314 @@
+{
+  "recording": {
+    "name": "300000001216072-300000001705614-9283770590 by gabriela@superbalife.com @ 11_52_22 AM.wav",
+    "size": 268706,
+    "modifyTime": 1769587630000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216072-300000001705614-9283770590 by gabriela@superbalife.com @ 11_52_22 AM.wav",
+    "uploadDate": "2026-01-28T08:07:10.000Z",
+    "callId": "300000001216072-300000001705614",
+    "agent": "gabriela",
+    "phoneNumber": "9283770590",
+    "callTimestamp": "2026-01-28T11:52:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Yes, I've been trying to get a response back from somebody.\n\nSpeaker 1: I was looking for, do you have a text line that I've tried a few times,\n\nSpeaker 2: or I should say an email, sorry about that.\n\nSpeaker 1: And I get no response back about the order I received.\n\nSpeaker 2: What's your name and date of birth?\n\nSpeaker 1: My name is Tim Odom, O-D-O-M. Date of birth is 9-17-1957.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay, and what's your question, Tim, in regards to your order?\n\nSpeaker 2: Yeah, like I said in the email, the product did not work for me,\n\nSpeaker 1: so I was looking for a refund and send the rest back.\n\nSpeaker 2: That is strange, because I do see here that you are getting Viagra AGB,\n\nSpeaker 1: and that's the best that there is.\n\nSpeaker 2: Can you do me a favor?\n\nSpeaker 1: I just want to make sure that they didn't accidentally send you classic Viagra\n\nSpeaker 2: instead of the AGB.\n\nSpeaker 1: Do you have the pills with you?\n\nSpeaker 2: Well, it's not in my hand, but I'm going that way right now.\n\nSpeaker 1: Okay, what did you want to know?\n\nSpeaker 2: Okay, so take a look at the pills.\n\nSpeaker 1: The pills, do they have a number 50 engraved on them,\n\nSpeaker 2: or do they say something else?\n\nSpeaker 1: The pills?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: The pills have a number 50?\n\nSpeaker 2: Yes.\n\nSpeaker 1: They don't say AC-340?\n\nSpeaker 2: No.\n\nSpeaker 1: Okay, well that is strange.\n\nSpeaker 2: Maybe you just need a higher strength.\n\nSpeaker 1: It does show here that you are taking 50 milligrams,\n\nSpeaker 2: so that could be the reason why it's not working for you.\n\nSpeaker 1: So what I can go ahead and do for you, Tim,\n\nSpeaker 2: is that I can send you 10 free pills of 100 milligrams for you to try\n\nSpeaker 1: and see if you notice a difference.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay, so I'll send you 10 free.\n\nSpeaker 2: Okay.\n\nSpeaker 1: And I'll be receiving it within the next three to five business days,\n\nSpeaker 2: okay?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Have a good rest of your day.\n\nSpeaker 2: Bye, Tim.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Bye.",
+    "duration": 7303,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 11,
+        "text": " Yes, I've been trying to get a response back from somebody."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 18,
+        "text": " I was looking for, do you have a text line that I've tried a few times,"
+      },
+      {
+        "id": 3,
+        "start": 18,
+        "end": 21,
+        "text": " or I should say an email, sorry about that."
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 26,
+        "text": " And I get no response back about the order I received."
+      },
+      {
+        "id": 5,
+        "start": 26,
+        "end": 29,
+        "text": " What's your name and date of birth?"
+      },
+      {
+        "id": 6,
+        "start": 29,
+        "end": 40,
+        "text": " My name is Tim Odom, O-D-O-M. Date of birth is 9-17-1957."
+      },
+      {
+        "id": 7,
+        "start": 40,
+        "end": 42,
+        "text": " Thank you."
+      },
+      {
+        "id": 8,
+        "start": 42,
+        "end": 50,
+        "text": " Okay, and what's your question, Tim, in regards to your order?"
+      },
+      {
+        "id": 9,
+        "start": 50,
+        "end": 54,
+        "text": " Yeah, like I said in the email, the product did not work for me,"
+      },
+      {
+        "id": 10,
+        "start": 54,
+        "end": 58,
+        "text": " so I was looking for a refund and send the rest back."
+      },
+      {
+        "id": 11,
+        "start": 58,
+        "end": 63,
+        "text": " That is strange, because I do see here that you are getting Viagra AGB,"
+      },
+      {
+        "id": 12,
+        "start": 63,
+        "end": 65,
+        "text": " and that's the best that there is."
+      },
+      {
+        "id": 13,
+        "start": 65,
+        "end": 66,
+        "text": " Can you do me a favor?"
+      },
+      {
+        "id": 14,
+        "start": 66,
+        "end": 69,
+        "text": " I just want to make sure that they didn't accidentally send you classic Viagra"
+      },
+      {
+        "id": 15,
+        "start": 69,
+        "end": 71,
+        "text": " instead of the AGB."
+      },
+      {
+        "id": 16,
+        "start": 71,
+        "end": 74,
+        "text": " Do you have the pills with you?"
+      },
+      {
+        "id": 17,
+        "start": 75,
+        "end": 96,
+        "text": " Well, it's not in my hand, but I'm going that way right now."
+      },
+      {
+        "id": 18,
+        "start": 96,
+        "end": 98,
+        "text": " Okay, what did you want to know?"
+      },
+      {
+        "id": 19,
+        "start": 98,
+        "end": 101,
+        "text": " Okay, so take a look at the pills."
+      },
+      {
+        "id": 20,
+        "start": 101,
+        "end": 103,
+        "text": " The pills, do they have a number 50 engraved on them,"
+      },
+      {
+        "id": 21,
+        "start": 103,
+        "end": 117,
+        "text": " or do they say something else?"
+      },
+      {
+        "id": 22,
+        "start": 117,
+        "end": 119,
+        "text": " The pills?"
+      },
+      {
+        "id": 23,
+        "start": 119,
+        "end": 121,
+        "text": " Yeah."
+      },
+      {
+        "id": 24,
+        "start": 121,
+        "end": 123,
+        "text": " The pills have a number 50?"
+      },
+      {
+        "id": 25,
+        "start": 123,
+        "end": 124,
+        "text": " Yes."
+      },
+      {
+        "id": 26,
+        "start": 124,
+        "end": 127,
+        "text": " They don't say AC-340?"
+      },
+      {
+        "id": 27,
+        "start": 127,
+        "end": 129,
+        "text": " No."
+      },
+      {
+        "id": 28,
+        "start": 129,
+        "end": 131,
+        "text": " Okay, well that is strange."
+      },
+      {
+        "id": 29,
+        "start": 131,
+        "end": 134,
+        "text": " Maybe you just need a higher strength."
+      },
+      {
+        "id": 30,
+        "start": 134,
+        "end": 136,
+        "text": " It does show here that you are taking 50 milligrams,"
+      },
+      {
+        "id": 31,
+        "start": 136,
+        "end": 139,
+        "text": " so that could be the reason why it's not working for you."
+      },
+      {
+        "id": 32,
+        "start": 139,
+        "end": 141,
+        "text": " So what I can go ahead and do for you, Tim,"
+      },
+      {
+        "id": 33,
+        "start": 141,
+        "end": 145,
+        "text": " is that I can send you 10 free pills of 100 milligrams for you to try"
+      },
+      {
+        "id": 34,
+        "start": 145,
+        "end": 149,
+        "text": " and see if you notice a difference."
+      },
+      {
+        "id": 35,
+        "start": 149,
+        "end": 151,
+        "text": " Okay."
+      },
+      {
+        "id": 36,
+        "start": 151,
+        "end": 152,
+        "text": " Yeah."
+      },
+      {
+        "id": 37,
+        "start": 152,
+        "end": 154,
+        "text": " Yeah."
+      },
+      {
+        "id": 38,
+        "start": 154,
+        "end": 156,
+        "text": " Okay, so I'll send you 10 free."
+      },
+      {
+        "id": 39,
+        "start": 156,
+        "end": 157,
+        "text": " Okay."
+      },
+      {
+        "id": 40,
+        "start": 157,
+        "end": 159,
+        "text": " And I'll be receiving it within the next three to five business days,"
+      },
+      {
+        "id": 41,
+        "start": 159,
+        "end": 160,
+        "text": " okay?"
+      },
+      {
+        "id": 42,
+        "start": 160,
+        "end": 161,
+        "text": " Okay."
+      },
+      {
+        "id": 43,
+        "start": 161,
+        "end": 162,
+        "text": " Okay."
+      },
+      {
+        "id": 44,
+        "start": 162,
+        "end": 163,
+        "text": " Have a good rest of your day."
+      },
+      {
+        "id": 45,
+        "start": 163,
+        "end": 164,
+        "text": " Bye, Tim."
+      },
+      {
+        "id": 46,
+        "start": 164,
+        "end": 165,
+        "text": " Bye."
+      },
+      {
+        "id": 47,
+        "start": 165,
+        "end": 166,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816b-9fc6-c55d1e877f54",
+    "url": "https://www.notion.so/300000001216072-300000001705614-2f611d0a101c816b9fc6c55d1e877f54"
+  },
+  "processedAt": "2026-01-28T13:16:11.602Z"
+}

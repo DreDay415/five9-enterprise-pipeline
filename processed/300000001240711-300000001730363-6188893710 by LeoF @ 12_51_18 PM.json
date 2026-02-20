@@ -1,0 +1,338 @@
+{
+  "recording": {
+    "name": "300000001240711-300000001730363-6188893710 by LeoF @ 12_51_18 PM.wav",
+    "size": 365556,
+    "modifyTime": 1770929724000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240711-300000001730363-6188893710 by LeoF @ 12_51_18 PM.wav",
+    "uploadDate": "2026-02-12T20:55:24.000Z",
+    "callId": "300000001240711-300000001730363",
+    "phoneNumber": "6188893710",
+    "callTimestamp": "2026-02-12T12:51:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yeah, thanks for calling Viagra. How can I help you?\n\nSpeaker 2: Yes, I have a question about the product.\n\nSpeaker 1: Yeah, what's going on?\n\nSpeaker 2: I ordered some and it came today.\n\nSpeaker 1: But when I read it, it appears to me that it's generic Viagra.\n\nSpeaker 2: I thought I was getting the new Viagra.\n\nSpeaker 1: What's your last name, sir?\n\nSpeaker 2: Rotman, R-O-T-T-M-A-N.\n\nSpeaker 1: What's your first name?\n\nSpeaker 2: John.\n\nSpeaker 1: Alrighty, John. Let's see what's going on.\n\nSpeaker 2: And do you have those pills there in front of you, Mr. Rotman?\n\nSpeaker 1: No, I don't. They're upstairs.\n\nSpeaker 2: Okay, if you could grab them for me, I can double check and make sure you got the correct thing.\n\nSpeaker 1: If you didn't, I'll send you out a replacement order, of course. No problem.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I'll have to go upstairs.\n\nSpeaker 2: Yeah, please let me know what the markings on the pills say when you get them.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Give me about one minute, okay? Take your time.\n\nSpeaker 1: Okay, what are you looking for?\n\nSpeaker 2: Let me know what the markings on the actual physical pills say, Mr. Rotman.\n\nSpeaker 1: Well, it's kind of a four-sided pill.\n\nSpeaker 2: Take your time.\n\nSpeaker 1: It is so hard for me to see, sir.\n\nSpeaker 2: Let me get a magnifying glass.\n\nSpeaker 1: Take your time.\n\nSpeaker 2: No.\n\nSpeaker 1: No, I got it.\n\nSpeaker 2: AC339.\n\nSpeaker 1: Yeah, so those definitely are incorrect, Mr. Rotman.\n\nSpeaker 2: Those are very similar to the pills that we give guys at the VA and things like that, but that's not the AGB.\n\nSpeaker 1: Most likely a machine error.\n\nSpeaker 2: What I will have to do for you, of course, I'll have to replace this order.\n\nSpeaker 1: I'm going to send you out a new one.\n\nSpeaker 2: It'll be there in the next few days.\n\nSpeaker 1: I'm really sorry about that, Mr. Rotman.\n\nSpeaker 2: You'll see when this order comes out.\n\nSpeaker 1: The markings on the pills will be different, and the label will have a different indication as well.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: What do I do with these?\n\nSpeaker 2: You can throw them away if you want.\n\nSpeaker 1: You can flush them.\n\nSpeaker 2: You can save them for a rainy day.\n\nSpeaker 1: They're yours.\n\nSpeaker 2: You don't have to send them back or anything.\n\nSpeaker 1: All right.\n\nSpeaker 2: Well, I appreciate it.\n\nSpeaker 1: Have a good day.\n\nSpeaker 2: Yeah, no problem.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Bye-bye now.",
+    "duration": 8717,
+    "audioDuration": 224.9199981689453,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Yeah, thanks for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 7,
+        "text": " Yes, I have a question about the product."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " Yeah, what's going on?"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 12,
+        "text": " I ordered some and it came today."
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 17,
+        "text": " But when I read it, it appears to me that it's generic Viagra."
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 21,
+        "text": " I thought I was getting the new Viagra."
+      },
+      {
+        "id": 6,
+        "start": 21,
+        "end": 23,
+        "text": " What's your last name, sir?"
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 27,
+        "text": " Rotman, R-O-T-T-M-A-N."
+      },
+      {
+        "id": 8,
+        "start": 27,
+        "end": 29,
+        "text": " What's your first name?"
+      },
+      {
+        "id": 9,
+        "start": 29,
+        "end": 30,
+        "text": " John."
+      },
+      {
+        "id": 10,
+        "start": 30,
+        "end": 35,
+        "text": " Alrighty, John. Let's see what's going on."
+      },
+      {
+        "id": 11,
+        "start": 35,
+        "end": 40,
+        "text": " And do you have those pills there in front of you, Mr. Rotman?"
+      },
+      {
+        "id": 12,
+        "start": 40,
+        "end": 43,
+        "text": " No, I don't. They're upstairs."
+      },
+      {
+        "id": 13,
+        "start": 43,
+        "end": 47,
+        "text": " Okay, if you could grab them for me, I can double check and make sure you got the correct thing."
+      },
+      {
+        "id": 14,
+        "start": 47,
+        "end": 50,
+        "text": " If you didn't, I'll send you out a replacement order, of course. No problem."
+      },
+      {
+        "id": 15,
+        "start": 50,
+        "end": 52,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 52,
+        "end": 54,
+        "text": " I'll have to go upstairs."
+      },
+      {
+        "id": 17,
+        "start": 54,
+        "end": 58,
+        "text": " Yeah, please let me know what the markings on the pills say when you get them."
+      },
+      {
+        "id": 18,
+        "start": 58,
+        "end": 60,
+        "text": " Okay."
+      },
+      {
+        "id": 19,
+        "start": 60,
+        "end": 64,
+        "text": " Give me about one minute, okay? Take your time."
+      },
+      {
+        "id": 20,
+        "start": 88,
+        "end": 99,
+        "text": " Okay, what are you looking for?"
+      },
+      {
+        "id": 21,
+        "start": 99,
+        "end": 111,
+        "text": " Let me know what the markings on the actual physical pills say, Mr. Rotman."
+      },
+      {
+        "id": 22,
+        "start": 111,
+        "end": 115,
+        "text": " Well, it's kind of a four-sided pill."
+      },
+      {
+        "id": 23,
+        "start": 115,
+        "end": 124,
+        "text": " Take your time."
+      },
+      {
+        "id": 24,
+        "start": 124,
+        "end": 128,
+        "text": " It is so hard for me to see, sir."
+      },
+      {
+        "id": 25,
+        "start": 128,
+        "end": 130,
+        "text": " Let me get a magnifying glass."
+      },
+      {
+        "id": 26,
+        "start": 130,
+        "end": 145,
+        "text": " Take your time."
+      },
+      {
+        "id": 27,
+        "start": 145,
+        "end": 166,
+        "text": " No."
+      },
+      {
+        "id": 28,
+        "start": 167,
+        "end": 181,
+        "text": " No, I got it."
+      },
+      {
+        "id": 29,
+        "start": 181,
+        "end": 184,
+        "text": " AC339."
+      },
+      {
+        "id": 30,
+        "start": 184,
+        "end": 187,
+        "text": " Yeah, so those definitely are incorrect, Mr. Rotman."
+      },
+      {
+        "id": 31,
+        "start": 187,
+        "end": 192,
+        "text": " Those are very similar to the pills that we give guys at the VA and things like that, but that's not the AGB."
+      },
+      {
+        "id": 32,
+        "start": 192,
+        "end": 194,
+        "text": " Most likely a machine error."
+      },
+      {
+        "id": 33,
+        "start": 194,
+        "end": 197,
+        "text": " What I will have to do for you, of course, I'll have to replace this order."
+      },
+      {
+        "id": 34,
+        "start": 197,
+        "end": 199,
+        "text": " I'm going to send you out a new one."
+      },
+      {
+        "id": 35,
+        "start": 199,
+        "end": 201,
+        "text": " It'll be there in the next few days."
+      },
+      {
+        "id": 36,
+        "start": 201,
+        "end": 202,
+        "text": " I'm really sorry about that, Mr. Rotman."
+      },
+      {
+        "id": 37,
+        "start": 202,
+        "end": 204,
+        "text": " You'll see when this order comes out."
+      },
+      {
+        "id": 38,
+        "start": 204,
+        "end": 211,
+        "text": " The markings on the pills will be different, and the label will have a different indication as well."
+      },
+      {
+        "id": 39,
+        "start": 211,
+        "end": 212,
+        "text": " Thank you."
+      },
+      {
+        "id": 40,
+        "start": 212,
+        "end": 214,
+        "text": " What do I do with these?"
+      },
+      {
+        "id": 41,
+        "start": 214,
+        "end": 215,
+        "text": " You can throw them away if you want."
+      },
+      {
+        "id": 42,
+        "start": 215,
+        "end": 216,
+        "text": " You can flush them."
+      },
+      {
+        "id": 43,
+        "start": 216,
+        "end": 217,
+        "text": " You can save them for a rainy day."
+      },
+      {
+        "id": 44,
+        "start": 217,
+        "end": 218,
+        "text": " They're yours."
+      },
+      {
+        "id": 45,
+        "start": 218,
+        "end": 219,
+        "text": " You don't have to send them back or anything."
+      },
+      {
+        "id": 46,
+        "start": 219,
+        "end": 220,
+        "text": " All right."
+      },
+      {
+        "id": 47,
+        "start": 220,
+        "end": 221,
+        "text": " Well, I appreciate it."
+      },
+      {
+        "id": 48,
+        "start": 221,
+        "end": 222,
+        "text": " Have a good day."
+      },
+      {
+        "id": 49,
+        "start": 222,
+        "end": 223,
+        "text": " Yeah, no problem."
+      },
+      {
+        "id": 50,
+        "start": 223,
+        "end": 224,
+        "text": " Thank you."
+      },
+      {
+        "id": 51,
+        "start": 224,
+        "end": 225,
+        "text": " Bye-bye now."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8167-90f7-f3b869bd3978",
+    "url": "https://www.notion.so/300000001240711-300000001730363-30511d0a101c816790f7f3b869bd3978"
+  },
+  "processedAt": "2026-02-12T21:04:48.858Z"
+}

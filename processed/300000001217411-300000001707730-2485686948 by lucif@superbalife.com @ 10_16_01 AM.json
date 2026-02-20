@@ -1,0 +1,158 @@
+{
+  "recording": {
+    "name": "300000001217411-300000001707730-2485686948 by lucif@superbalife.com @ 10_16_01 AM.wav",
+    "size": 156320,
+    "modifyTime": 1769582836000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217411-300000001707730-2485686948 by lucif@superbalife.com @ 10_16_01 AM.wav",
+    "uploadDate": "2026-01-28T06:47:16.000Z",
+    "callId": "300000001217411-300000001707730",
+    "agent": "lucif",
+    "phoneNumber": "2485686948",
+    "callTimestamp": "2026-01-28T10:16:01.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, my name is Don Haskin. I want to cancel my subscription.\n\nSpeaker 2: Let me pull up your account, sir, one moment.\n\nSpeaker 1: All right.\n\nSpeaker 2: Now, I do see you are a VIP with us here, sir, getting the Viagra.\n\nSpeaker 1: Do you mind if I ask why you're cancelling?\n\nSpeaker 2: Yeah, I get some stuff from my doctor now, so I don't want this stuff.\n\nSpeaker 1: I tried the...\n\nSpeaker 2: It wouldn't be the same thing. The AGV, we're the only ones that do carry that.\n\nSpeaker 1: Yeah, like I said, this one, I've tried this one, this AGV thing.\n\nSpeaker 2: It gives me a headache, so I don't want it.\n\nSpeaker 1: Oh, that's weird. The AGV's actually been formulated to get rid of most of those side effects.\n\nSpeaker 2: You really shouldn't be having headaches from that particular pill.\n\nSpeaker 1: It's been made over the last 10 years to get rid of those side effects.\n\nSpeaker 2: Are you sure you're taking the newest one that you got from us?\n\nSpeaker 1: Yeah, yeah, yeah. Like I said, I just want to cancel it.\n\nSpeaker 2: Okay, and it's not because you want to order it as needed or anything like that?\n\nSpeaker 1: Because you do not have to get this monthly. You do know that, right?\n\nSpeaker 2: Yeah, but I just want to cancel everything.\n\nSpeaker 1: Okay, we'll take care of it, sir.\n\nSpeaker 2: All right.\n\nSpeaker 1: All right, you have a good day.\n\nSpeaker 2: You too.",
+    "duration": 4293,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 9,
+        "text": " Hi, my name is Don Haskin. I want to cancel my subscription."
+      },
+      {
+        "id": 1,
+        "start": 9,
+        "end": 14,
+        "text": " Let me pull up your account, sir, one moment."
+      },
+      {
+        "id": 2,
+        "start": 14,
+        "end": 17,
+        "text": " All right."
+      },
+      {
+        "id": 3,
+        "start": 17,
+        "end": 21,
+        "text": " Now, I do see you are a VIP with us here, sir, getting the Viagra."
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 24,
+        "text": " Do you mind if I ask why you're cancelling?"
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 31,
+        "text": " Yeah, I get some stuff from my doctor now, so I don't want this stuff."
+      },
+      {
+        "id": 6,
+        "start": 31,
+        "end": 34,
+        "text": " I tried the..."
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 39,
+        "text": " It wouldn't be the same thing. The AGV, we're the only ones that do carry that."
+      },
+      {
+        "id": 8,
+        "start": 39,
+        "end": 46,
+        "text": " Yeah, like I said, this one, I've tried this one, this AGV thing."
+      },
+      {
+        "id": 9,
+        "start": 46,
+        "end": 49,
+        "text": " It gives me a headache, so I don't want it."
+      },
+      {
+        "id": 10,
+        "start": 49,
+        "end": 54,
+        "text": " Oh, that's weird. The AGV's actually been formulated to get rid of most of those side effects."
+      },
+      {
+        "id": 11,
+        "start": 54,
+        "end": 57,
+        "text": " You really shouldn't be having headaches from that particular pill."
+      },
+      {
+        "id": 12,
+        "start": 57,
+        "end": 62,
+        "text": " It's been made over the last 10 years to get rid of those side effects."
+      },
+      {
+        "id": 13,
+        "start": 62,
+        "end": 65,
+        "text": " Are you sure you're taking the newest one that you got from us?"
+      },
+      {
+        "id": 14,
+        "start": 65,
+        "end": 71,
+        "text": " Yeah, yeah, yeah. Like I said, I just want to cancel it."
+      },
+      {
+        "id": 15,
+        "start": 71,
+        "end": 75,
+        "text": " Okay, and it's not because you want to order it as needed or anything like that?"
+      },
+      {
+        "id": 16,
+        "start": 75,
+        "end": 79,
+        "text": " Because you do not have to get this monthly. You do know that, right?"
+      },
+      {
+        "id": 17,
+        "start": 79,
+        "end": 85,
+        "text": " Yeah, but I just want to cancel everything."
+      },
+      {
+        "id": 18,
+        "start": 85,
+        "end": 90,
+        "text": " Okay, we'll take care of it, sir."
+      },
+      {
+        "id": 19,
+        "start": 90,
+        "end": 92,
+        "text": " All right."
+      },
+      {
+        "id": 20,
+        "start": 92,
+        "end": 94,
+        "text": " All right, you have a good day."
+      },
+      {
+        "id": 21,
+        "start": 94,
+        "end": 96,
+        "text": " You too."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81db-af82-ded0bbfad0cd",
+    "url": "https://www.notion.so/300000001217411-300000001707730-2f611d0a101c81dbaf82ded0bbfad0cd"
+  },
+  "processedAt": "2026-01-28T16:52:15.789Z"
+}

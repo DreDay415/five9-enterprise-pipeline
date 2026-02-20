@@ -1,0 +1,176 @@
+{
+  "recording": {
+    "name": "300000001216240-300000001705749-6072696722 by john@superbalife.com @ 12_53_30 PM.wav",
+    "size": 163340,
+    "modifyTime": 1769592145000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216240-300000001705749-6072696722 by john@superbalife.com @ 12_53_30 PM.wav",
+    "uploadDate": "2026-01-28T09:22:25.000Z",
+    "callId": "300000001216240-300000001705749",
+    "agent": "john",
+    "phoneNumber": "6072696722",
+    "callTimestamp": "2026-01-28T12:53:30.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: So I've been on hold now for like 20 minutes.\n\nSpeaker 1: I sent an email on December 23rd\n\nSpeaker 2: cancelling my order because the product didn't work for me and\n\nSpeaker 1: they went ahead and took\n\nSpeaker 2: payment out of my account today, which caused an overdraft on my account, and I'm not very happy about it.\n\nSpeaker 1: Okay. I still have the email from 12/23\n\nSpeaker 2: requesting\n\nSpeaker 1: that my order be cancelled.\n\nSpeaker 2: Okay. I need your name and zip code.\n\nSpeaker 1: Hank Bennett.\n\nSpeaker 2: Zip code is\n\nSpeaker 1: 14867.\n\nSpeaker 2: Okay. For Chapman Road?\n\nSpeaker 1: Okay, yes. Sorry about that. Zip code would be 14838.\n\nSpeaker 2: Okay, so I got you pulled up here, sir. I will cancel your account. I'm sorry about what happened.\n\nSpeaker 1: I looked at your email. I do see you emailed us.\n\nSpeaker 2: We did reply telling you to call us to finalize, so that's why it didn't happen, but I stopped it now.\n\nSpeaker 1: The order that was billed on the 22nd,\n\nSpeaker 2: it was put in the mail. When it arrives to you, just write return to sender on the package.\n\nSpeaker 1: It'll come to us and you'll get a full refund for it.\n\nSpeaker 2: Okay. And then your account is closed. Otherwise, you will not be billed again. Nothing else will come out.\n\nSpeaker 1: Nothing will be shipped or anything like that.\n\nSpeaker 2: Okay. Thank you. Yeah, I'm sorry about that, but I hope you have a good weekend.\n\nSpeaker 1: You too. Bye. Bye.",
+    "duration": 4678,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3.0399999618530273,
+        "end": 5.840000152587891,
+        "text": " So I've been on hold now for like 20 minutes."
+      },
+      {
+        "id": 2,
+        "start": 6.760000228881836,
+        "end": 9.640000343322754,
+        "text": " I sent an email on December 23rd"
+      },
+      {
+        "id": 3,
+        "start": 10.479999542236328,
+        "end": 13.520000457763672,
+        "text": " cancelling my order because the product didn't work for me and"
+      },
+      {
+        "id": 4,
+        "start": 14.15999984741211,
+        "end": 16.15999984741211,
+        "text": " they went ahead and took"
+      },
+      {
+        "id": 5,
+        "start": 16.479999542236328,
+        "end": 22.079999923706055,
+        "text": " payment out of my account today, which caused an overdraft on my account, and I'm not very happy about it."
+      },
+      {
+        "id": 6,
+        "start": 23.200000762939453,
+        "end": 26.8799991607666,
+        "text": " Okay. I still have the email from 1223"
+      },
+      {
+        "id": 7,
+        "start": 27.68000030517578,
+        "end": 28.84000015258789,
+        "text": " requesting"
+      },
+      {
+        "id": 8,
+        "start": 28.84000015258789,
+        "end": 30.84000015258789,
+        "text": " that my order be cancelled."
+      },
+      {
+        "id": 9,
+        "start": 31.479999542236328,
+        "end": 33.47999954223633,
+        "text": " Okay. I need your name and zip code."
+      },
+      {
+        "id": 10,
+        "start": 34.400001525878906,
+        "end": 36.31999969482422,
+        "text": " Hank Bennett."
+      },
+      {
+        "id": 11,
+        "start": 36.31999969482422,
+        "end": 38.31999969482422,
+        "text": " Zip code is"
+      },
+      {
+        "id": 12,
+        "start": 38.91999816894531,
+        "end": 40.91999816894531,
+        "text": " 14867."
+      },
+      {
+        "id": 13,
+        "start": 48.84000015258789,
+        "end": 51.2400016784668,
+        "text": " Okay. For Chapman Road?"
+      },
+      {
+        "id": 14,
+        "start": 51.2400016784668,
+        "end": 58.68000030517578,
+        "text": " Okay, yes. Sorry about that. Zip code would be 14838."
+      },
+      {
+        "id": 15,
+        "start": 59.36000061035156,
+        "end": 64.27999877929688,
+        "text": " Okay, so I got you pulled up here, sir. I will cancel your account. I'm sorry about what happened."
+      },
+      {
+        "id": 16,
+        "start": 64.27999877929688,
+        "end": 67.31999969482422,
+        "text": " I looked at your email. I do see you emailed us."
+      },
+      {
+        "id": 17,
+        "start": 67.31999969482422,
+        "end": 71.76000213623047,
+        "text": " We did reply telling you to call us so to finalize, so that's why it didn't happen, but I stopped it now."
+      },
+      {
+        "id": 18,
+        "start": 73.27999877929688,
+        "end": 76.4800033569336,
+        "text": " The order that was billed on the 22nd,"
+      },
+      {
+        "id": 19,
+        "start": 77.4800033569336,
+        "end": 82.4800033569336,
+        "text": " it was put in the mail. When it arrives to you, just write return to sender on the package."
+      },
+      {
+        "id": 20,
+        "start": 82.4800033569336,
+        "end": 84.68000030517578,
+        "text": " It'll come to us and you'll get a full refund for it."
+      },
+      {
+        "id": 21,
+        "start": 85.63999938964844,
+        "end": 90.5199966430664,
+        "text": " Okay. And then your account is closed. Otherwise, you will not be billed again. Nothing else will come out."
+      },
+      {
+        "id": 22,
+        "start": 90.5199966430664,
+        "end": 92.5199966430664,
+        "text": " Nothing will be shipped or anything like that."
+      },
+      {
+        "id": 23,
+        "start": 93.4000015258789,
+        "end": 96.87999725341797,
+        "text": " Okay. Thank you. Yeah, I'm sorry about that, but I hope you have a good weekend."
+      },
+      {
+        "id": 24,
+        "start": 97.4000015258789,
+        "end": 99.4000015258789,
+        "text": " You too. Bye. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-810f-9462-ccd3f2859ef3",
+    "url": "https://www.notion.so/300000001216240-300000001705749-2f611d0a101c810f9462ccd3f2859ef3"
+  },
+  "processedAt": "2026-01-28T10:56:17.321Z"
+}

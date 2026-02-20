@@ -1,0 +1,313 @@
+{
+  "recording": {
+    "name": "300000001219286-300000001709383-8104349183 by LeoF @ 10_43_07 AM.wav",
+    "size": 220996,
+    "modifyTime": 1769584333000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219286-300000001709383-8104349183 by LeoF @ 10_43_07 AM.wav",
+    "uploadDate": "2026-01-28T07:12:13.000Z",
+    "callId": "300000001219286-300000001709383",
+    "phoneNumber": "8104349183",
+    "callTimestamp": "2026-01-28T10:43:07.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, thanks for calling Viagra. How can I help you?\n\nSpeaker 2: Yeah, my name is John Muzik, spelled M-U-Z-I-K.\n\nSpeaker 1: I ordered some Viagra a month ago, and somebody called me on this number.\n\nSpeaker 2: It's a different number.\n\nSpeaker 1: Hi, John. I'm Mr. Muzik. The order never got sent out.\n\nSpeaker 2: It looks like the doctor had a question for you.\n\nSpeaker 1: They sent you a message, but it was never answered.\n\nSpeaker 2: I can read you that message, and we can get an answer back now.\n\nSpeaker 1: Go ahead.\n\nSpeaker 2: The doctor says, Hi, John. I noticed you have a prescription for isorsubride mononitrate.\n\nSpeaker 1: Do you take this medication? It's not a good mix with the Viagra.\n\nSpeaker 2: He wants to know if you take that.\n\nSpeaker 1: I take Viagra. I've been taking Viagra all along.\n\nSpeaker 2: He wants to know if you're taking the isorsubride mononitrate, though.\n\nSpeaker 1: What am I taking?\n\nSpeaker 2: He's asking if you are taking isorsubride mononitrate.\n\nSpeaker 1: It's a prescription that you would be taking.\n\nSpeaker 2: You would know if you were taking it.\n\nSpeaker 1: No, I don't take that anymore.\n\nSpeaker 2: Okay, perfect.\n\nSpeaker 1: I haven't taken that for a long time.\n\nSpeaker 2: There's no worries there.\n\nSpeaker 1: I sent out to you.\n\nSpeaker 2: You'll see it come by like the end of the week, Monday, at the latest, Mr. Music.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I just wanted to, because I got a phone number that was different, you know,\n\nSpeaker 1: and I didn't know what it was about.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yeah, no problem.\n\nSpeaker 2: My regular doctor prescribes it for me, but they have that generic Viagra.\n\nSpeaker 1: It doesn't work as good, you know.\n\nSpeaker 2: No, I get you.\n\nSpeaker 1: It works pretty good, but not as good as the regular Viagra does.\n\nSpeaker 2: So I've taken it for a long time.\n\nSpeaker 1: All right, thanks a lot.\n\nSpeaker 2: No problem.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Within a week?\n\nSpeaker 1: Yeah, you'll get it within a week for sure.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, thank you.\n\nSpeaker 2: Have a good day.\n\nSpeaker 1: Have a good day.\n\nSpeaker 2: You too.\n\nSpeaker 1: Bye-bye now.\n\nSpeaker 2: Bye-bye now.\n\nSpeaker 1: Bye-bye now.",
+    "duration": 6618,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hey, thanks for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 10,
+        "text": " Yeah, my name is John Muzik, spelled M-U-Z-I-K."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 17,
+        "text": " I ordered some Viagra a month ago, and somebody called me on this number."
+      },
+      {
+        "id": 3,
+        "start": 17,
+        "end": 19,
+        "text": " It's a different number."
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 22,
+        "text": " Hi, John. I'm Mr. Muzik. The order never got sent out."
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 24,
+        "text": " It looks like the doctor had a question for you."
+      },
+      {
+        "id": 6,
+        "start": 24,
+        "end": 27,
+        "text": " They sent you a message, but it was never answered."
+      },
+      {
+        "id": 7,
+        "start": 27,
+        "end": 32,
+        "text": " I can read you that message, and we can get an answer back now."
+      },
+      {
+        "id": 8,
+        "start": 32,
+        "end": 33,
+        "text": " Go ahead."
+      },
+      {
+        "id": 9,
+        "start": 33,
+        "end": 38,
+        "text": " The doctor says, Hi, John. I noticed you have a prescription for isorsubride mononitrate."
+      },
+      {
+        "id": 10,
+        "start": 38,
+        "end": 42,
+        "text": " Do you take this medication? It's not a good mix with the Viagra."
+      },
+      {
+        "id": 11,
+        "start": 42,
+        "end": 46,
+        "text": " He wants to know if you take that."
+      },
+      {
+        "id": 12,
+        "start": 46,
+        "end": 52,
+        "text": " I take Viagra. I've been taking Viagra all along."
+      },
+      {
+        "id": 13,
+        "start": 52,
+        "end": 58,
+        "text": " He wants to know if you're taking the isorsubride mononitrate, though."
+      },
+      {
+        "id": 14,
+        "start": 58,
+        "end": 59,
+        "text": " What am I taking?"
+      },
+      {
+        "id": 15,
+        "start": 59,
+        "end": 64,
+        "text": " He's asking if you are taking isorsubride mononitrate."
+      },
+      {
+        "id": 16,
+        "start": 64,
+        "end": 66,
+        "text": " It's a prescription that you would be taking."
+      },
+      {
+        "id": 17,
+        "start": 66,
+        "end": 68,
+        "text": " You would know if you were taking it."
+      },
+      {
+        "id": 18,
+        "start": 68,
+        "end": 71,
+        "text": " No, I don't take that anymore."
+      },
+      {
+        "id": 19,
+        "start": 71,
+        "end": 75,
+        "text": " Okay, perfect."
+      },
+      {
+        "id": 20,
+        "start": 75,
+        "end": 77,
+        "text": " I haven't taken that for a long time."
+      },
+      {
+        "id": 21,
+        "start": 77,
+        "end": 79,
+        "text": " There's no worries there."
+      },
+      {
+        "id": 22,
+        "start": 79,
+        "end": 80,
+        "text": " I sent out to you."
+      },
+      {
+        "id": 23,
+        "start": 80,
+        "end": 84,
+        "text": " You'll see it come by like the end of the week, Monday, at the latest, Mr. Music."
+      },
+      {
+        "id": 24,
+        "start": 84,
+        "end": 85,
+        "text": " Okay."
+      },
+      {
+        "id": 25,
+        "start": 85,
+        "end": 91,
+        "text": " I just wanted to, because I got a phone number that was different, you know,"
+      },
+      {
+        "id": 26,
+        "start": 91,
+        "end": 94,
+        "text": " and I didn't know what it was about."
+      },
+      {
+        "id": 27,
+        "start": 94,
+        "end": 95,
+        "text": " Okay."
+      },
+      {
+        "id": 28,
+        "start": 95,
+        "end": 96,
+        "text": " Yeah, no problem."
+      },
+      {
+        "id": 29,
+        "start": 96,
+        "end": 106,
+        "text": " My regular doctor prescribes it for me, but they have that generic Viagra."
+      },
+      {
+        "id": 30,
+        "start": 106,
+        "end": 109,
+        "text": " It doesn't work as good, you know."
+      },
+      {
+        "id": 31,
+        "start": 109,
+        "end": 111,
+        "text": " No, I get you."
+      },
+      {
+        "id": 32,
+        "start": 111,
+        "end": 117,
+        "text": " It works pretty good, but not as good as the regular Viagra does."
+      },
+      {
+        "id": 33,
+        "start": 117,
+        "end": 120,
+        "text": " So I've taken it for a long time."
+      },
+      {
+        "id": 34,
+        "start": 120,
+        "end": 122,
+        "text": " All right, thanks a lot."
+      },
+      {
+        "id": 35,
+        "start": 122,
+        "end": 123,
+        "text": " No problem."
+      },
+      {
+        "id": 36,
+        "start": 123,
+        "end": 124,
+        "text": " Thank you."
+      },
+      {
+        "id": 37,
+        "start": 124,
+        "end": 126,
+        "text": " Within a week?"
+      },
+      {
+        "id": 38,
+        "start": 126,
+        "end": 128,
+        "text": " Yeah, you'll get it within a week for sure."
+      },
+      {
+        "id": 39,
+        "start": 128,
+        "end": 130,
+        "text": " Okay."
+      },
+      {
+        "id": 40,
+        "start": 130,
+        "end": 131,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 41,
+        "start": 131,
+        "end": 132,
+        "text": " Have a good day."
+      },
+      {
+        "id": 42,
+        "start": 132,
+        "end": 133,
+        "text": " Have a good day."
+      },
+      {
+        "id": 43,
+        "start": 133,
+        "end": 134,
+        "text": " You too."
+      },
+      {
+        "id": 44,
+        "start": 134,
+        "end": 135,
+        "text": " Bye-bye now."
+      },
+      {
+        "id": 45,
+        "start": 135,
+        "end": 136,
+        "text": " Bye-bye now."
+      },
+      {
+        "id": 46,
+        "start": 136,
+        "end": 137,
+        "text": " Bye-bye now."
+      },
+      {
+        "id": 47,
+        "start": 137,
+        "end": 137,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8194-96d2-d9d02185bda9",
+    "url": "https://www.notion.so/300000001219286-300000001709383-2f611d0a101c819496d2d9d02185bda9"
+  },
+  "processedAt": "2026-01-28T15:11:19.595Z"
+}

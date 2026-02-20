@@ -1,0 +1,137 @@
+{
+  "recording": {
+    "name": "300000001242342-300000001731823-9708250671 by lucif@superbalife.com @ 12_46_59 PM.wav",
+    "size": 112576,
+    "modifyTime": 1771015710000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242342-300000001731823-9708250671 by lucif@superbalife.com @ 12_46_59 PM.wav",
+    "uploadDate": "2026-02-13T20:48:30.000Z",
+    "callId": "300000001242342-300000001731823",
+    "agent": "lucif",
+    "phoneNumber": "9708250671",
+    "callTimestamp": "2026-02-13T12:46:59.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_lucif_300000001242342-300000001731823_9708250671.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_lucif_300000001242342-300000001731823_9708250671.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: I was calling to cancel my subscription, my account.\n\nSpeaker 2: Okay.\n\nSpeaker 1: What's your zip code?\n\nSpeaker 2: Zip code is 92276.\n\nSpeaker 1: Zip code is 92276.\n\nSpeaker 2: And what's your first and last name?\n\nSpeaker 1: Jesse Romo.\n\nSpeaker 2: Alrighty, and it looks like you're already canceled, sir.\n\nSpeaker 1: Okay, so it is. Okay.\n\nSpeaker 2: The phone was, like, acting up big time, so it wasn't...\n\nSpeaker 1: Okay, so it's all canceled as of today?\n\nSpeaker 2: Yes.\n\nSpeaker 1: When I called or...\n\nSpeaker 2: Yes.\n\nSpeaker 1: Perfect. Thanks, Clint.\n\nSpeaker 2: All right, that's all I need.\n\nSpeaker 1: Have a good one.\n\nSpeaker 2: All right, you too.",
+    "duration": 1769,
+    "audioDuration": 69.23999786376953,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " I was calling to cancel my subscription, my account."
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 8,
+        "text": " Okay."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " What's your zip code?"
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 15,
+        "text": " Zip code is 92276."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 19,
+        "text": " Zip code is 92276."
+      },
+      {
+        "id": 5,
+        "start": 39,
+        "end": 41,
+        "text": " And what's your first and last name?"
+      },
+      {
+        "id": 6,
+        "start": 41,
+        "end": 43,
+        "text": " Jesse Romo."
+      },
+      {
+        "id": 7,
+        "start": 46,
+        "end": 50,
+        "text": " Alrighty, and it looks like you're already canceled, sir."
+      },
+      {
+        "id": 8,
+        "start": 50,
+        "end": 52,
+        "text": " Okay, so it is. Okay."
+      },
+      {
+        "id": 9,
+        "start": 52,
+        "end": 56,
+        "text": " The phone was, like, acting up big time, so it wasn't..."
+      },
+      {
+        "id": 10,
+        "start": 56,
+        "end": 59,
+        "text": " Okay, so it's all canceled as of today?"
+      },
+      {
+        "id": 11,
+        "start": 59,
+        "end": 60,
+        "text": " Yes."
+      },
+      {
+        "id": 12,
+        "start": 60,
+        "end": 61,
+        "text": " When I called or..."
+      },
+      {
+        "id": 13,
+        "start": 61,
+        "end": 62,
+        "text": " Yes."
+      },
+      {
+        "id": 14,
+        "start": 62,
+        "end": 64,
+        "text": " Perfect. Thanks, Clint."
+      },
+      {
+        "id": 15,
+        "start": 64,
+        "end": 66,
+        "text": " All right, that's all I need."
+      },
+      {
+        "id": 16,
+        "start": 66,
+        "end": 67,
+        "text": " Have a good one."
+      },
+      {
+        "id": 17,
+        "start": 67,
+        "end": 69,
+        "text": " All right, you too."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81d0-ad2f-d6223ab507d5",
+    "url": "https://www.notion.so/300000001242342-300000001731823-30611d0a101c81d0ad2fd6223ab507d5"
+  },
+  "processedAt": "2026-02-13T20:59:05.327Z"
+}

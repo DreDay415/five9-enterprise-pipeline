@@ -1,0 +1,161 @@
+{
+  "recording": {
+    "name": "300000001241081-300000001730616-8053738777 by charles@superbalife.com @ 2_43_03 PM.wav",
+    "size": 227560,
+    "modifyTime": 1770936326000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241081-300000001730616-8053738777 by charles@superbalife.com @ 2_43_03 PM.wav",
+    "uploadDate": "2026-02-12T22:45:26.000Z",
+    "callId": "300000001241081-300000001730616",
+    "agent": "charles",
+    "phoneNumber": "8053738777",
+    "callTimestamp": "2026-02-12T14:43:03.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_charles_300000001241081-300000001730616_8053738777.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_charles_300000001241081-300000001730616_8053738777.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, this is Charles.\n\nSpeaker 2: Hi Charles, my name is William Froelich and I just signed up and I'm wondering if maybe\n\nSpeaker 1: I have, I am getting information for two accounts that were sent up, set up simultaneously because\n\nSpeaker 2: it looks like some information concerning my order doesn't seem to be correct. I wonder\n\nSpeaker 1: if you could help me out with this.\n\nSpeaker 2: Okay, one second, I'm checking to see if you do have another account right now, but I do\n\nSpeaker 1: have you popped up already. So one second. Nope, we got one account. Okay, so I have\n\nSpeaker 2: you ordered the 100 mg AGV, you ordered 25 pills total and then there was a buy one get,\n\nSpeaker 1: what is that, like 12 extra pills for an additional $29.70, so you have 37 pills total.\n\nSpeaker 2: Okay, that's what I thought the account was. Okay, good.\n\nSpeaker 1: Okay, because when I checked in with one of the, on the computer and I click on receipts,\n\nSpeaker 2: the receipt just, let me click on it again here, it's not, yeah, the receipt just listed,\n\nSpeaker 1: okay, it was just saying Viagra, but not Viagra AGV, but you show that it's AGV, the new pill.\n\nSpeaker 2: Yes sir, yes sir.\n\nSpeaker 1: Okay, okay, great. Well, it sounds like everything is set up properly, so thank you very much\n\nSpeaker 2: for checking and for letting me know, I appreciate it.\n\nSpeaker 1: Yeah, absolutely, they should get sent out tomorrow morning, so I would expect them by\n\nSpeaker 2: maybe Monday, Tuesday, Wednesday, or Thursday, depending on weather delays and whatnot.\n\nSpeaker 1: Okay, alright, sounds great. Thank you very much, I appreciate it.\n\nSpeaker 2: Absolutely, have a great one.\n\nSpeaker 1: Okay, now you too, bye bye.\n\nSpeaker 2: Thank you, bye bye.",
+    "duration": 3994,
+    "audioDuration": 140,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 11,
+        "text": " Thanks for calling Viagra, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 11,
+        "end": 19.5,
+        "text": " Hi Charles, my name is William Froelich and I just signed up and I'm wondering if maybe"
+      },
+      {
+        "id": 2,
+        "start": 19.5,
+        "end": 28.5,
+        "text": " I have, I am getting information for two accounts that were sent up, set up simultaneously because"
+      },
+      {
+        "id": 3,
+        "start": 29.5,
+        "end": 35,
+        "text": " it looks like some information concerning my order doesn't seem to be correct. I wonder"
+      },
+      {
+        "id": 4,
+        "start": 35,
+        "end": 37,
+        "text": " if you could help me out with this."
+      },
+      {
+        "id": 5,
+        "start": 37,
+        "end": 41,
+        "text": " Okay, one second, I'm checking to see if you do have another account right now, but I do"
+      },
+      {
+        "id": 6,
+        "start": 41,
+        "end": 52,
+        "text": " have you popped up already. So one second. Nope, we got one account. Okay, so I have"
+      },
+      {
+        "id": 7,
+        "start": 52,
+        "end": 60.5,
+        "text": " you ordered the 100 mg AGV, you ordered 25 pills total and then there was a buy one get,"
+      },
+      {
+        "id": 8,
+        "start": 60.5,
+        "end": 70.5,
+        "text": " what is that, like 12 extra pills for an additional $29.70, so you have 37 pills total."
+      },
+      {
+        "id": 9,
+        "start": 71.5,
+        "end": 77,
+        "text": " Okay, that's what I thought the account was. Okay, good."
+      },
+      {
+        "id": 10,
+        "start": 79,
+        "end": 91,
+        "text": " Okay, because when I checked in with one of the, on the computer and I click on receipts,"
+      },
+      {
+        "id": 11,
+        "start": 91.5,
+        "end": 99.5,
+        "text": " the receipt just, let me click on it again here, it's not, yeah, the receipt just listed,"
+      },
+      {
+        "id": 12,
+        "start": 101.5,
+        "end": 107.5,
+        "text": " okay, it was just saying Viagra, but not Viagra AGV, but you show that it's AGV, the new pill."
+      },
+      {
+        "id": 13,
+        "start": 107.5,
+        "end": 109.5,
+        "text": " Yes sir, yes sir."
+      },
+      {
+        "id": 14,
+        "start": 109.5,
+        "end": 115,
+        "text": " Okay, okay, great. Well, it sounds like everything is set up properly, so thank you very much"
+      },
+      {
+        "id": 15,
+        "start": 115,
+        "end": 118,
+        "text": " for checking and for letting me know, I appreciate it."
+      },
+      {
+        "id": 16,
+        "start": 118.5,
+        "end": 123.5,
+        "text": " Yeah, absolutely, they should get sent out tomorrow morning, so I would expect them by"
+      },
+      {
+        "id": 17,
+        "start": 123.5,
+        "end": 130.5,
+        "text": " maybe Monday, Tuesday, Wednesday, or Thursday, depending on weather delays and whatnot."
+      },
+      {
+        "id": 18,
+        "start": 131.5,
+        "end": 135.5,
+        "text": " Okay, alright, sounds great. Thank you very much, I appreciate it."
+      },
+      {
+        "id": 19,
+        "start": 135.5,
+        "end": 136.5,
+        "text": " Absolutely, have a great one."
+      },
+      {
+        "id": 20,
+        "start": 136.5,
+        "end": 138.5,
+        "text": " Okay, now you too, bye bye."
+      },
+      {
+        "id": 21,
+        "start": 138.5,
+        "end": 139.5,
+        "text": " Thank you, bye bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8144-a762-f593002397cf",
+    "url": "https://www.notion.so/300000001241081-300000001730616-30511d0a101c8144a762f593002397cf"
+  },
+  "processedAt": "2026-02-12T23:07:10.972Z"
+}

@@ -1,0 +1,266 @@
+{
+  "recording": {
+    "name": "300000001219083-300000001709245-8108362144 by michelleh@superbalife.com @ 9_56_26 AM.wav",
+    "size": 154436,
+    "modifyTime": 1769582239000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219083-300000001709245-8108362144 by michelleh@superbalife.com @ 9_56_26 AM.wav",
+    "uploadDate": "2026-01-28T06:37:19.000Z",
+    "callId": "300000001219083-300000001709245",
+    "agent": "michelleh",
+    "phoneNumber": "8108362144",
+    "callTimestamp": "2026-01-28T09:56:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you?\n\nSpeaker 2: Hi, I'm a current customer, and on the 26th, I ordered a refill, and they hit my credit card already, but I never got any email acknowledgment. I just want to make sure my order's placed.\n\nSpeaker 1: Sure, no problem. Doc, can you just confirm your date of birth?\n\nSpeaker 2: 10-27-59.\n\nSpeaker 1: Thank you so much. I see your VIP status. Just give me one second, I'm pulling up the tracking number.\n\nSpeaker 2: Yes.\n\nSpeaker 1: OK, they're actually shipping it out to you today.\n\nSpeaker 2: Oh, OK.\n\nSpeaker 1: OK.\n\nSpeaker 2: All right, I just want to make sure. I never got a, on the first time around, I got an email.\n\nSpeaker 1: Yeah, I'm on the USPS website. Do you want me to sign your email up for notifications?\n\nSpeaker 2: Sure, and it's going to 4077 Ripley K-1.\n\nSpeaker 1: Yep, yep, sure.\n\nSpeaker 2: All right, perfect.\n\nSpeaker 1: I thank you very much.\n\nSpeaker 2: Yeah, of course.\n\nSpeaker 1: Last time I had an option to get an extra five tablets.\n\nSpeaker 2: Is there anything like that, or is that only an intro option?\n\nSpeaker 1: Oh, yeah, that's the first time customer, one-time option to upgrade.\n\nSpeaker 2: I see.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: OK.\n\nSpeaker 1: All right, well, I thank you, and I look forward to my receipt.\n\nSpeaker 2: No problem.\n\nSpeaker 1: All right, have a great day.\n\nSpeaker 2: Have a great day.\n\nSpeaker 1: You too.\n\nSpeaker 2: You too.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 5003,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.2799999713897705,
+        "text": " Thank you for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3.2799999713897705,
+        "end": 7.78000020980835,
+        "text": " Hi, I'm a current customer, and on the 26th,"
+      },
+      {
+        "id": 2,
+        "start": 7.78000020980835,
+        "end": 12.619999885559082,
+        "text": " I ordered a refill, and they hit my credit card already,"
+      },
+      {
+        "id": 3,
+        "start": 12.619999885559082,
+        "end": 15.260000228881836,
+        "text": " but I never got any email acknowledgment."
+      },
+      {
+        "id": 4,
+        "start": 15.260000228881836,
+        "end": 17.520000457763672,
+        "text": " I just want to make sure my order's placed."
+      },
+      {
+        "id": 5,
+        "start": 17.520000457763672,
+        "end": 19.260000228881836,
+        "text": " Sure, no problem."
+      },
+      {
+        "id": 6,
+        "start": 19.260000228881836,
+        "end": 22.360000610351562,
+        "text": " Doc, can you just confirm your date of birth?"
+      },
+      {
+        "id": 7,
+        "start": 22.360000610351562,
+        "end": 25.100000381469727,
+        "text": " 10-27-59."
+      },
+      {
+        "id": 8,
+        "start": 25.100000381469727,
+        "end": 26.399999618530273,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 9,
+        "start": 26.399999618530273,
+        "end": 27.600000381469727,
+        "text": " I see your VIP status."
+      },
+      {
+        "id": 10,
+        "start": 27.600000381469727,
+        "end": 30.600000381469727,
+        "text": " Just give me one second, I'm pulling up the tracking number."
+      },
+      {
+        "id": 11,
+        "start": 30.600000381469727,
+        "end": 33.2400016784668,
+        "text": " Yes."
+      },
+      {
+        "id": 12,
+        "start": 33.2400016784668,
+        "end": 37.040000915527344,
+        "text": " OK, they're actually shipping it out to you today."
+      },
+      {
+        "id": 13,
+        "start": 37.040000915527344,
+        "end": 38.68000030517578,
+        "text": " Oh, OK."
+      },
+      {
+        "id": 14,
+        "start": 38.68000030517578,
+        "end": 39.18000030517578,
+        "text": " OK."
+      },
+      {
+        "id": 15,
+        "start": 39.18000030517578,
+        "end": 40.720001220703125,
+        "text": " All right, I just want to make sure."
+      },
+      {
+        "id": 16,
+        "start": 40.720001220703125,
+        "end": 44.58000183105469,
+        "text": " I never got a, on the first time around, I got an email."
+      },
+      {
+        "id": 17,
+        "start": 44.58000183105469,
+        "end": 46.36000061035156,
+        "text": " Yeah, I'm on the USPS website."
+      },
+      {
+        "id": 18,
+        "start": 46.36000061035156,
+        "end": 50.18000030517578,
+        "text": " Do you want me to sign your email up for notifications?"
+      },
+      {
+        "id": 19,
+        "start": 50.18000030517578,
+        "end": 56.41999816894531,
+        "text": " Sure, and it's going to 4077 Ripley K-1."
+      },
+      {
+        "id": 20,
+        "start": 57.220001220703125,
+        "end": 59.47999954223633,
+        "text": " Yep, yep, sure."
+      },
+      {
+        "id": 21,
+        "start": 59.47999954223633,
+        "end": 60.36000061035156,
+        "text": " All right, perfect."
+      },
+      {
+        "id": 22,
+        "start": 60.36000061035156,
+        "end": 62.36000061035156,
+        "text": " I thank you very much."
+      },
+      {
+        "id": 23,
+        "start": 62.36000061035156,
+        "end": 63.959999084472656,
+        "text": " Yeah, of course."
+      },
+      {
+        "id": 24,
+        "start": 63.959999084472656,
+        "end": 67.66000366210938,
+        "text": " Last time I had an option to get an extra five tablets."
+      },
+      {
+        "id": 25,
+        "start": 67.66000366210938,
+        "end": 71.30000305175781,
+        "text": " Is there anything like that, or is that only an intro option?"
+      },
+      {
+        "id": 26,
+        "start": 71.30000305175781,
+        "end": 74.9000015258789,
+        "text": " Oh, yeah, that's the first time customer,"
+      },
+      {
+        "id": 27,
+        "start": 74.9000015258789,
+        "end": 77.63999938964844,
+        "text": " one-time option to upgrade."
+      },
+      {
+        "id": 28,
+        "start": 77.63999938964844,
+        "end": 78.73999786376953,
+        "text": " I see."
+      },
+      {
+        "id": 29,
+        "start": 78.73999786376953,
+        "end": 79.23999786376953,
+        "text": " Yeah."
+      },
+      {
+        "id": 30,
+        "start": 79.23999786376953,
+        "end": 80.77999877929688,
+        "text": " OK."
+      },
+      {
+        "id": 31,
+        "start": 80.77999877929688,
+        "end": 83.68000030517578,
+        "text": " All right, well, I thank you, and I look forward"
+      },
+      {
+        "id": 32,
+        "start": 83.68000030517578,
+        "end": 85.12000274658203,
+        "text": " to my receipt."
+      },
+      {
+        "id": 33,
+        "start": 85.13999938964844,
+        "end": 86.81999969482422,
+        "text": " No problem."
+      },
+      {
+        "id": 34,
+        "start": 86.81999969482422,
+        "end": 88.0199966430664,
+        "text": " All right, have a great day."
+      },
+      {
+        "id": 35,
+        "start": 88.0199966430664,
+        "end": 88.81999969482422,
+        "text": " Have a great day."
+      },
+      {
+        "id": 36,
+        "start": 88.81999969482422,
+        "end": 89.31999969482422,
+        "text": " You too."
+      },
+      {
+        "id": 37,
+        "start": 89.31999969482422,
+        "end": 89.81999969482422,
+        "text": " You too."
+      },
+      {
+        "id": 38,
+        "start": 89.81999969482422,
+        "end": 90.31999969482422,
+        "text": " Bye."
+      },
+      {
+        "id": 39,
+        "start": 90.31999969482422,
+        "end": 91.86000061035156,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816a-bc2e-ef6f4ed264c0",
+    "url": "https://www.notion.so/300000001219083-300000001709245-2f611d0a101c816abc2eef6f4ed264c0"
+  },
+  "processedAt": "2026-01-28T17:17:06.390Z"
+}

@@ -1,0 +1,284 @@
+{
+  "recording": {
+    "name": "300000001219948-300000001709858-3478918288 by olivia@superbalife.com @ 1_49_34 PM.wav",
+    "size": 232890,
+    "modifyTime": 1769550743000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219948-300000001709858-3478918288 by olivia@superbalife.com @ 1_49_34 PM.wav",
+    "uploadDate": "2026-01-27T21:52:23.000Z",
+    "callId": "300000001219948-300000001709858",
+    "agent": "olivia",
+    "phoneNumber": "3478918288",
+    "callTimestamp": "2026-01-27T13:49:34.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viacra, this is Olivia speaking.\n\nSpeaker 2: Who do I have the pleasure of speaking with today?\n\nSpeaker 1: Yes, Tommy Moon.\n\nSpeaker 2: Hi, Tommy, how are you?\n\nSpeaker 1: I'm doing good, how are you yourselves?\n\nSpeaker 2: Good, thank you so much for asking.\n\nSpeaker 1: How can I help you today, Tommy?\n\nSpeaker 2: When I ordered the prescription online, I didn't know there was like a subscription thing.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Yeah, they didn't say anything about subscription, but apparently they sent me the second prescription I don't need.\n\nSpeaker 1: Okay, yeah, I can look into this.\n\nSpeaker 2: Yeah, can you just cancel the subscription?\n\nSpeaker 1: Okay, what is your date of birth?\n\nSpeaker 2: September 17, 64.\n\nSpeaker 1: Great, and you're located at 135 32nd Street, Brooklyn, New York, 11232.\n\nSpeaker 2: Okay, great.\n\nSpeaker 1: Yeah, so if you don't want to receive regular refills with your prescription, you certainly don't have to.\n\nSpeaker 2: You always have the option with your prescription to place it on hold for up to six months at a time,\n\nSpeaker 1: just because six months is when the prescription would expire.\n\nSpeaker 2: If we didn't refill it, and the way that would work is you could still order before the end of July, six months from now.\n\nSpeaker 1: You just have to give us a call to place the order yourself whenever you are ready to order.\n\nSpeaker 2: So what I got to do now, because I'm trying to log back in,\n\nSpeaker 1: and I couldn't log in.\n\nSpeaker 2: Oh, weird.\n\nSpeaker 1: Yeah, yeah, it's weird.\n\nSpeaker 2: I can see if they can send you another login,\n\nSpeaker 1: but I can just place your prescription on hold,\n\nSpeaker 2: and then whenever you are ready to order,\n\nSpeaker 1: if it is before the end of July or July 27th,\n\nSpeaker 2: just give us a call to place it yourself,\n\nSpeaker 1: and I'll see if they can send you a login.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: Thanks, Connie.\n\nSpeaker 1: Yeah, have a good day.\n\nSpeaker 2: Okay, bye.\n\nSpeaker 1: Bye.",
+    "duration": 5671,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viacra, this is Olivia speaking."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " Yes, Tommy Moon."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 12,
+        "text": " Hi, Tommy, how are you?"
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 15,
+        "text": " I'm doing good, how are you yourselves?"
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 17,
+        "text": " Good, thank you so much for asking."
+      },
+      {
+        "id": 6,
+        "start": 17,
+        "end": 20,
+        "text": " How can I help you today, Tommy?"
+      },
+      {
+        "id": 7,
+        "start": 20,
+        "end": 23,
+        "text": " When I ordered the prescription online,"
+      },
+      {
+        "id": 8,
+        "start": 23,
+        "end": 29,
+        "text": " I didn't know there was like a subscription thing."
+      },
+      {
+        "id": 9,
+        "start": 29,
+        "end": 30,
+        "text": " Yeah."
+      },
+      {
+        "id": 10,
+        "start": 30,
+        "end": 33,
+        "text": " Yeah, they didn't say anything about subscription,"
+      },
+      {
+        "id": 11,
+        "start": 33,
+        "end": 40,
+        "text": " but apparently they sent me the second prescription I don't need."
+      },
+      {
+        "id": 12,
+        "start": 40,
+        "end": 44,
+        "text": " Okay, yeah, I can look into this."
+      },
+      {
+        "id": 13,
+        "start": 44,
+        "end": 50,
+        "text": " Yeah, can you just cancel the subscription?"
+      },
+      {
+        "id": 14,
+        "start": 50,
+        "end": 53,
+        "text": " Okay, what is your date of birth?"
+      },
+      {
+        "id": 15,
+        "start": 53,
+        "end": 56,
+        "text": " September 17, 64."
+      },
+      {
+        "id": 16,
+        "start": 56,
+        "end": 63,
+        "text": " Great, and you're located at 135 32nd Street, Brooklyn, New York, 11232."
+      },
+      {
+        "id": 17,
+        "start": 63,
+        "end": 64,
+        "text": " Okay, great."
+      },
+      {
+        "id": 18,
+        "start": 64,
+        "end": 69,
+        "text": " Yeah, so if you don't want to receive regular refills with your prescription,"
+      },
+      {
+        "id": 19,
+        "start": 69,
+        "end": 71,
+        "text": " you certainly don't have to."
+      },
+      {
+        "id": 20,
+        "start": 71,
+        "end": 76,
+        "text": " You always have the option with your prescription to place it on hold"
+      },
+      {
+        "id": 21,
+        "start": 76,
+        "end": 78,
+        "text": " for up to six months at a time,"
+      },
+      {
+        "id": 22,
+        "start": 78,
+        "end": 82,
+        "text": " just because six months is when the prescription would expire."
+      },
+      {
+        "id": 23,
+        "start": 82,
+        "end": 90,
+        "text": " If we didn't refill it, and the way that would work is you could still order"
+      },
+      {
+        "id": 24,
+        "start": 90,
+        "end": 93,
+        "text": " before the end of July, six months from now."
+      },
+      {
+        "id": 25,
+        "start": 93,
+        "end": 98,
+        "text": " You just have to give us a call to place the order yourself"
+      },
+      {
+        "id": 26,
+        "start": 98,
+        "end": 100,
+        "text": " whenever you are ready to order."
+      },
+      {
+        "id": 27,
+        "start": 100,
+        "end": 106,
+        "text": " So what I got to do now, because I'm trying to log back in,"
+      },
+      {
+        "id": 28,
+        "start": 106,
+        "end": 110,
+        "text": " and I couldn't log in."
+      },
+      {
+        "id": 29,
+        "start": 110,
+        "end": 111,
+        "text": " Oh, weird."
+      },
+      {
+        "id": 30,
+        "start": 111,
+        "end": 112,
+        "text": " Yeah, yeah, it's weird."
+      },
+      {
+        "id": 31,
+        "start": 112,
+        "end": 117,
+        "text": " I can see if they can send you another login,"
+      },
+      {
+        "id": 32,
+        "start": 117,
+        "end": 121,
+        "text": " but I can just place your prescription on hold,"
+      },
+      {
+        "id": 33,
+        "start": 121,
+        "end": 124,
+        "text": " and then whenever you are ready to order,"
+      },
+      {
+        "id": 34,
+        "start": 124,
+        "end": 129,
+        "text": " if it is before the end of July or July 27th,"
+      },
+      {
+        "id": 35,
+        "start": 129,
+        "end": 133,
+        "text": " just give us a call to place it yourself,"
+      },
+      {
+        "id": 36,
+        "start": 133,
+        "end": 135,
+        "text": " and I'll see if they can send you a login."
+      },
+      {
+        "id": 37,
+        "start": 135,
+        "end": 136,
+        "text": " Okay."
+      },
+      {
+        "id": 38,
+        "start": 136,
+        "end": 137,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 39,
+        "start": 137,
+        "end": 138,
+        "text": " Thanks, Connie."
+      },
+      {
+        "id": 40,
+        "start": 138,
+        "end": 140,
+        "text": " Yeah, have a good day."
+      },
+      {
+        "id": 41,
+        "start": 140,
+        "end": 141,
+        "text": " Okay, bye."
+      },
+      {
+        "id": 42,
+        "start": 141,
+        "end": 142,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-81a5-9d56-c73d64fc1c61",
+    "url": "https://www.notion.so/300000001219948-300000001709858-2f511d0a101c81a59d56c73d64fc1c61"
+  },
+  "processedAt": "2026-01-27T23:22:43.385Z"
+}

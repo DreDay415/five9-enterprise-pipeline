@@ -1,0 +1,287 @@
+{
+  "recording": {
+    "name": "300000001241263-300000001730741-8567961348 by olivia@superbalife.com @ 4_32_56 PM.wav",
+    "size": 370366,
+    "modifyTime": 1770943026000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241263-300000001730741-8567961348 by olivia@superbalife.com @ 4_32_56 PM.wav",
+    "uploadDate": "2026-02-13T00:37:06.000Z",
+    "callId": "300000001241263-300000001730741",
+    "agent": "olivia",
+    "phoneNumber": "8567961348",
+    "callTimestamp": "2026-02-13T16:32:56.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivia_300000001241263-300000001730741_8567961348.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivia_300000001241263-300000001730741_8567961348.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Oh.\n\nSpeaker 2: You.\n\nSpeaker 1: You.\n\nSpeaker 2: Oh.\n\nSpeaker 1: Thank you for calling Diatribe, this is Olivia speaking. Who do I have the pleasure of speaking with today?\n\nSpeaker 2: Hey, my name is Ariel Carlotto.\n\nSpeaker 1: Uh, so yeah, I get them. I get the ABGs.\n\nSpeaker 2: Periodically, like once a month, but I wanted to cancel. They try to hit my card to get more, to give me more.\n\nSpeaker 1: And right now, I'm not going to be using them because I'm actually going for surgery.\n\nSpeaker 2: So I'm going to be out. I'm going to be out.\n\nSpeaker 1: You know.\n\nSpeaker 2: You know.\n\nSpeaker 1: Okay, yeah, definitely help you with that. Okay, um, so Ariel, what is your date of birth?\n\nSpeaker 2: 5/3/76.\n\nSpeaker 1: Okay, and you're located at 120 Salvia Street, Browns Mill, New Jersey 0801?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Yeah, so I see you here. Yeah, so, um, you always have the option—\n\nSpeaker 2: To place your prescription on hold.\n\nSpeaker 1: For up to six months at a time, just because six months is when the prescription would expire.\n\nSpeaker 2: If we didn't refill it.\n\nSpeaker 1: And the way that would work is—\n\nSpeaker 2: It sounds like you'll be out of commission for a few months.\n\nSpeaker 1: But if you did want to order before then, you could. You just have to give us a call.\n\nSpeaker 2: Yeah, because actually, so the reason why I get up is because I ended up—I don't know if you know about this—\n\nSpeaker 1: I have, I have a curvature on my—\n\nSpeaker 2: Penis, whatever.\n\nSpeaker 1: It's called the Peyronie's.\n\nSpeaker 2: Okay, and, uh—\n\nSpeaker 1: I'm actually going for surgery for that.\n\nSpeaker 2: So I'm gonna be out for three months and then—\n\nSpeaker 1: I guess I'll know in six months if I'm gonna need them again. If I need them again—\n\nSpeaker 2: I would call you up, you know, order again.\n\nSpeaker 1: Right now, I probably have 12 of them still because they came in and I wasn't using them—\n\nSpeaker 2: As often as I thought I would.\n\nSpeaker 1: Yeah, that would work.\n\nSpeaker 2: I'm glad to hear that. Yeah.\n\nSpeaker 1: Okay, I can't hear you.\n\nSpeaker 2: Oh, can you hear me now?\n\nSpeaker 1: Hello, hello. Yes. Okay, I hear you now. Sorry. Yes, I can hear you. No, totally fine. Okay.\n\nSpeaker 2: So, um, I'll place your prescription on hold for you then until the middle of August. If you need anything before then—\n\nSpeaker 1: Um, just give us a call. We're always here Monday through Friday, eight to five specifically.\n\nSpeaker 2: Appreciate it very much. Thank you so much.\n\nSpeaker 1: Thank you, Ariel. I hope you have a great day.\n\nSpeaker 2: You as well.",
+    "duration": 9396,
+    "audioDuration": 227.8800048828125,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Oh"
+      },
+      {
+        "id": 1,
+        "start": 30.1200008392334,
+        "end": 32.119998931884766,
+        "text": " You"
+      },
+      {
+        "id": 2,
+        "start": 32.119998931884766,
+        "end": 34.119998931884766,
+        "text": " You"
+      },
+      {
+        "id": 3,
+        "start": 56.68000030517578,
+        "end": 58.68000030517578,
+        "text": " Oh"
+      },
+      {
+        "id": 4,
+        "start": 59,
+        "end": 65.08000183105469,
+        "text": " Thank you for calling diatribe, this is olivia speaking who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 5,
+        "start": 66.5199966430664,
+        "end": 68.5199966430664,
+        "text": " Hey, my name is ariel carlotto"
+      },
+      {
+        "id": 6,
+        "start": 68.5199966430664,
+        "end": 72.45999908447266,
+        "text": " Uh, so yeah, I I get them. I get the the abgs"
+      },
+      {
+        "id": 7,
+        "start": 73.23999786376953,
+        "end": 79.23999786376953,
+        "text": " Periodically like once a month, but I wanted to cancel they try to they try to hit my card to get more to give me more"
+      },
+      {
+        "id": 8,
+        "start": 79.72000122070312,
+        "end": 83.23999786376953,
+        "text": " And right now i'm not going to be using them because i'm actually going for surgery"
+      },
+      {
+        "id": 9,
+        "start": 83.87999725341797,
+        "end": 85.87999725341797,
+        "text": " So i'm going to be out i'm going to be out"
+      },
+      {
+        "id": 10,
+        "start": 86.27999877929688,
+        "end": 87.80000305175781,
+        "text": " you know"
+      },
+      {
+        "id": 11,
+        "start": 87.80000305175781,
+        "end": 89.80000305175781,
+        "text": " you know"
+      },
+      {
+        "id": 12,
+        "start": 93.08000183105469,
+        "end": 100.12000274658203,
+        "text": " Okay, yeah definitely help you with that, okay, um, so ariel what is your date of birth"
+      },
+      {
+        "id": 13,
+        "start": 101.72000122070312,
+        "end": 103.72000122070312,
+        "text": " 5 3 76"
+      },
+      {
+        "id": 14,
+        "start": 105.16000366210938,
+        "end": 112.86000061035156,
+        "text": " Okay, and you're located at 1 2 0 salvia street browns mill new jersey 0801"
+      },
+      {
+        "id": 15,
+        "start": 114.68000030517578,
+        "end": 116.27999877929688,
+        "text": " Correct"
+      },
+      {
+        "id": 16,
+        "start": 116.27999877929688,
+        "end": 121.87999725341797,
+        "text": " Yeah, so I see you here. Yeah, so, um, you always have the option"
+      },
+      {
+        "id": 17,
+        "start": 122.5999984741211,
+        "end": 125.16000366210938,
+        "text": " to place your prescription on hold"
+      },
+      {
+        "id": 18,
+        "start": 125.80000305175781,
+        "end": 131.25999450683594,
+        "text": " For up to six months at a time just because six months is when the prescription would expire"
+      },
+      {
+        "id": 19,
+        "start": 132.1199951171875,
+        "end": 134.1199951171875,
+        "text": " If we didn't refill it"
+      },
+      {
+        "id": 20,
+        "start": 134.52000427246094,
+        "end": 136.52000427246094,
+        "text": " and the way that would work is"
+      },
+      {
+        "id": 21,
+        "start": 137.24000549316406,
+        "end": 139.8000030517578,
+        "text": " It sounds like you'll be out of commission for a few months"
+      },
+      {
+        "id": 22,
+        "start": 140.1999969482422,
+        "end": 145.47999572753906,
+        "text": " But if you did want to order before then you could you just have to give us a call"
+      },
+      {
+        "id": 23,
+        "start": 145.47999572753906,
+        "end": 151.0800018310547,
+        "text": " Yeah, because actually so the reason why I get up is because I ended up I don't know if you know about this"
+      },
+      {
+        "id": 24,
+        "start": 151.24000549316406,
+        "end": 153.24000549316406,
+        "text": " I have I have a curvature on my"
+      },
+      {
+        "id": 25,
+        "start": 153.8000030517578,
+        "end": 155.63999938964844,
+        "text": " Penis, whatever"
+      },
+      {
+        "id": 26,
+        "start": 155.63999938964844,
+        "end": 157.63999938964844,
+        "text": " It's called the pyroly"
+      },
+      {
+        "id": 27,
+        "start": 158.36000061035156,
+        "end": 160.1199951171875,
+        "text": " Okay, and uh"
+      },
+      {
+        "id": 28,
+        "start": 160.1199951171875,
+        "end": 162.1199951171875,
+        "text": " I'm actually going for surgery for that"
+      },
+      {
+        "id": 29,
+        "start": 162.67999267578125,
+        "end": 164.67999267578125,
+        "text": " So i'm gonna be out for three months and then"
+      },
+      {
+        "id": 30,
+        "start": 165,
+        "end": 168.27999877929688,
+        "text": " I guess i'll know in six months if i'm gonna need them again if I need them again"
+      },
+      {
+        "id": 31,
+        "start": 168.67999267578125,
+        "end": 171.0800018310547,
+        "text": " I would call you up, you know order again"
+      },
+      {
+        "id": 32,
+        "start": 172.0399932861328,
+        "end": 177.24000549316406,
+        "text": " Right now I have I probably have 12 of them still because they came in and I wasn't using them"
+      },
+      {
+        "id": 33,
+        "start": 178.60000610351562,
+        "end": 180.60000610351562,
+        "text": " As often as I thought I would"
+      },
+      {
+        "id": 34,
+        "start": 182.44000244140625,
+        "end": 184.44000244140625,
+        "text": " Yeah, that would be work"
+      },
+      {
+        "id": 35,
+        "start": 185.39999389648438,
+        "end": 187.39999389648438,
+        "text": " I'm glad to hear that. Yeah"
+      },
+      {
+        "id": 36,
+        "start": 188.1199951171875,
+        "end": 190.1199951171875,
+        "text": " Okay, I can't hear you"
+      },
+      {
+        "id": 37,
+        "start": 190.60000610351562,
+        "end": 192.60000610351562,
+        "text": " Oh, can you hear me now?"
+      },
+      {
+        "id": 38,
+        "start": 193.32000732421875,
+        "end": 199.63999938964844,
+        "text": " Hello, hello. Yes. Okay. I hear you now. Sorry. Yes, I can hear you. No, totally fine. Okay"
+      },
+      {
+        "id": 39,
+        "start": 201.47999572753906,
+        "end": 210.60000610351562,
+        "text": " So, um, i'll place your prescription on hold for you then until the middle of august if you need anything before then"
+      },
+      {
+        "id": 40,
+        "start": 211.47999572753906,
+        "end": 217.0800018310547,
+        "text": " Um, just give us a call. We're always here monday through friday eight to five specific"
+      },
+      {
+        "id": 41,
+        "start": 218.5800018310547,
+        "end": 223.32000732421875,
+        "text": " Appreciate it very much. Thank you so much. Thank you. Ariel. I hope you have a great day"
+      },
+      {
+        "id": 42,
+        "start": 224.52000427246094,
+        "end": 226.52000427246094,
+        "text": " You as well"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-811e-9cda-faeb0b754060",
+    "url": "https://www.notion.so/300000001241263-300000001730741-30611d0a101c811e9cdafaeb0b754060"
+  },
+  "processedAt": "2026-02-13T01:04:51.731Z"
+}

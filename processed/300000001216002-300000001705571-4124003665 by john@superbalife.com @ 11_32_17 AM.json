@@ -1,0 +1,194 @@
+{
+  "recording": {
+    "name": "300000001216002-300000001705571-4124003665 by john@superbalife.com @ 11_32_17 AM.wav",
+    "size": 151836,
+    "modifyTime": 1769196853000,
+    "remotePath": "/five9sftp/recordings/SB CS/1_23_2026/300000001216002-300000001705571-4124003665 by john@superbalife.com @ 11_32_17 AM.wav",
+    "uploadDate": "2026-01-23T19:34:13.000Z",
+    "callId": "300000001216002-300000001705571",
+    "agent": "john",
+    "phoneNumber": "4124003665",
+    "callTimestamp": "2026-01-23T19:32:17.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Hi, John. I was expecting a delivery of my prescription.\n\nSpeaker 1: I'm not sure if it's on its way or if something got dropped off.\n\nSpeaker 2: If I can get your name and zip code, I can check.\n\nSpeaker 1: Sure. Richard Barbarita, B-A-R-B-A-R-I-T-A.\n\nSpeaker 2: Zip code is 15234.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Willow Street in Pittsburgh?\n\nSpeaker 1: Yes.\n\nSpeaker 2: So it goes to the mailboxer.\n\nSpeaker 1: It actually says it was delivered to your mailbox this morning.\n\nSpeaker 2: This morning?\n\nSpeaker 1: Yeah, it says it was delivered at the mailbox at 10:46 a.m. local time to you.\n\nSpeaker 2: Okay. I just checked my mailbox.\n\nSpeaker 1: Do you have an apartment address?\n\nSpeaker 2: I have 4020 Willow Street, Apartment 636.\n\nSpeaker 1: Okay. 15234.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay. Well, I'll check again. I was just there like an hour ago and I didn't see it.\n\nSpeaker 2: Okay. I'm going to send you the tracking link, too, so you can see what I'm looking at.\n\nSpeaker 1: I have your email here and your first name, last name at Gmail, right?\n\nSpeaker 2: Right. With a dot in between.\n\nSpeaker 1: Okay. Gotcha. Yeah, I'll make sure that's in there.\n\nSpeaker 2: I missed reading it too quick, but, yes, I see it.\n\nSpeaker 1: So I'll go ahead and send that to you just so you have an idea of what I was looking at, too.\n\nSpeaker 2: All right. Great. I appreciate it. Thank you.\n\nSpeaker 1: No problem, sir. Bye-bye.\n\nSpeaker 2: Bye.",
+    "duration": 4839,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 8,
+        "text": " Hi, John. I was expecting a delivery of my prescription."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 14,
+        "text": " I'm not sure if it's on its way or if something got dropped off."
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 16,
+        "text": " If I can get your name and zip code, I can check."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 23,
+        "text": " Sure. Richard Barbarita, B-A-R-B-A-R-I-T-A."
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 27,
+        "text": " Zip code is 15234."
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 33,
+        "text": " Thank you."
+      },
+      {
+        "id": 7,
+        "start": 33,
+        "end": 34,
+        "text": " Willow Street in Pittsburgh?"
+      },
+      {
+        "id": 8,
+        "start": 34,
+        "end": 37,
+        "text": " Yes."
+      },
+      {
+        "id": 9,
+        "start": 37,
+        "end": 40,
+        "text": " So it goes to the mailboxer."
+      },
+      {
+        "id": 10,
+        "start": 40,
+        "end": 42,
+        "text": " It actually says it was delivered to your mailbox this morning."
+      },
+      {
+        "id": 11,
+        "start": 42,
+        "end": 44,
+        "text": " This morning?"
+      },
+      {
+        "id": 12,
+        "start": 44,
+        "end": 49,
+        "text": " Yeah, it says it was delivered at the mailbox at 1046 a.m. local time to you."
+      },
+      {
+        "id": 13,
+        "start": 49,
+        "end": 52,
+        "text": " Okay. I just checked my mailbox."
+      },
+      {
+        "id": 14,
+        "start": 52,
+        "end": 56,
+        "text": " Do you have an apartment address?"
+      },
+      {
+        "id": 15,
+        "start": 56,
+        "end": 60,
+        "text": " I have 4020 Willow Street, Apartment 636."
+      },
+      {
+        "id": 16,
+        "start": 60,
+        "end": 62,
+        "text": " Okay. 15234."
+      },
+      {
+        "id": 17,
+        "start": 62,
+        "end": 64,
+        "text": " Yes."
+      },
+      {
+        "id": 18,
+        "start": 64,
+        "end": 70,
+        "text": " Okay. Well, I'll check again. I was just there like an hour ago and I didn't see it."
+      },
+      {
+        "id": 19,
+        "start": 70,
+        "end": 74,
+        "text": " Okay. I'm going to send you the tracking link, too, so you can see what I'm looking at."
+      },
+      {
+        "id": 20,
+        "start": 74,
+        "end": 77,
+        "text": " I have your email here and your first name, last name at Gmail, right?"
+      },
+      {
+        "id": 21,
+        "start": 77,
+        "end": 79,
+        "text": " Right. With a dot in between."
+      },
+      {
+        "id": 22,
+        "start": 79,
+        "end": 81,
+        "text": " Okay. Gotcha. Yeah, I'll make sure that's in there."
+      },
+      {
+        "id": 23,
+        "start": 82,
+        "end": 84,
+        "text": " I missed reading it too quick, but, yes, I see it."
+      },
+      {
+        "id": 24,
+        "start": 84,
+        "end": 89,
+        "text": " So I'll go ahead and send that to you just so you have an idea of what I was looking at, too."
+      },
+      {
+        "id": 25,
+        "start": 89,
+        "end": 91,
+        "text": " All right. Great. I appreciate it. Thank you."
+      },
+      {
+        "id": 26,
+        "start": 91,
+        "end": 92,
+        "text": " No problem, sir. Bye-bye."
+      },
+      {
+        "id": 27,
+        "start": 92,
+        "end": 93,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f411d0a-101c-811f-a6cc-cb38aef3b538",
+    "url": "https://www.notion.so/300000001216002-300000001705571-2f411d0a101c811fa6cccb38aef3b538"
+  },
+  "processedAt": "2026-01-26T21:31:57.188Z"
+}

@@ -1,0 +1,64 @@
+{
+  "recording": {
+    "name": "300000001242354-300000001731838-4239236634 by  @ 12_54_01 PM_CallStudio.wav",
+    "size": 23916,
+    "modifyTime": 1771016078000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242354-300000001731838-4239236634 by  @ 12_54_01 PM_CallStudio.wav",
+    "uploadDate": "2026-02-13T20:54:38.000Z",
+    "callId": "300000001242354-300000001731838",
+    "phoneNumber": "4239236634",
+    "callTimestamp": "2026-02-13T20:54:38.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242354-300000001731838_4239236634.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242354-300000001731838_4239236634.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Didn't get my position.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Transferring to agent.",
+    "duration": 1959,
+    "audioDuration": 14.680000305175781,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.559999942779541,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.559999942779541,
+        "end": 6.559999942779541,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.559999942779541,
+        "end": 8.84000015258789,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.84000015258789,
+        "end": 12.359999656677246,
+        "text": " Didn't get my position."
+      },
+      {
+        "id": 4,
+        "start": 12.359999656677246,
+        "end": 13.720000267028809,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 13.720000267028809,
+        "end": 14.640000343322754,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81ef-bb80-c59bc91ec805",
+    "url": "https://www.notion.so/300000001242354-300000001731838-30611d0a101c81efbb80c59bc91ec805"
+  },
+  "processedAt": "2026-02-13T20:58:00.595Z"
+}

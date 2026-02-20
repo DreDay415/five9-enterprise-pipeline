@@ -1,0 +1,176 @@
+{
+  "recording": {
+    "name": "300000001219638-300000001709657-6302029398 by michelleh@superbalife.com @ 12_09_41 PM.wav",
+    "size": 122326,
+    "modifyTime": 1769590033000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219638-300000001709657-6302029398 by michelleh@superbalife.com @ 12_09_41 PM.wav",
+    "uploadDate": "2026-01-28T08:47:13.000Z",
+    "callId": "300000001219638-300000001709657",
+    "agent": "michelleh",
+    "phoneNumber": "6302029398",
+    "callTimestamp": "2026-01-28T12:09:41.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Yeah, I'm just trying to see if they had shipped my order yet.\n\nSpeaker 1: Sure, no problem. Can I just have your name and date of birth?\n\nSpeaker 2: Yeah, my name is Westing, M-A-S-U-D, first is S-H-E-R-Y-A-R.\n\nSpeaker 1: Thank you, Westing.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay. All right, it looks like they shipped it out to you today.\n\nSpeaker 2: Hold on, where did your profile go?\n\nSpeaker 1: All right, they're shipping it out to you today.\n\nSpeaker 2: Why was it hold? Oh, okay, I see.\n\nSpeaker 1: It was too early for a refill, so the prescription was on hold until yesterday, the 26th.\n\nSpeaker 2: So that's why they're shipping it out to you today.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay?\n\nSpeaker 1: All right, I should get back in.\n\nSpeaker 2: Do you want me to sign up your e-mail for notifications?\n\nSpeaker 1: Because I'm on the USGS website.\n\nSpeaker 2: What would the notification do?\n\nSpeaker 1: Well, it's just the USGS is tracking updates.\n\nSpeaker 2: Okay, yeah, that's fine.\n\nSpeaker 1: Okay. All right, no problem. I'll add it. You're all set.\n\nSpeaker 2: All right, thank you.\n\nSpeaker 1: Sure, have a great day.\n\nSpeaker 2: You too, bye-bye.\n\nSpeaker 1: All right, bye.",
+    "duration": 4516,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 6,
+        "text": " Yeah, I'm just trying to see if they had shipped my order yet."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 10,
+        "text": " Sure, no problem. Can I just have your name and date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 16,
+        "text": " Yeah, my name is Westing, M-A-S-U-D, first is S-H-E-R-Y-A-R."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 19,
+        "text": " Thank you, Westing."
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 20,
+        "text": " Yeah."
+      },
+      {
+        "id": 6,
+        "start": 20,
+        "end": 25,
+        "text": " Okay. All right, it looks like they shipped it out to you today."
+      },
+      {
+        "id": 7,
+        "start": 25,
+        "end": 28,
+        "text": " Hold on, where did your profile go?"
+      },
+      {
+        "id": 8,
+        "start": 28,
+        "end": 32,
+        "text": " All right, they're shipping it out to you today."
+      },
+      {
+        "id": 9,
+        "start": 32,
+        "end": 35,
+        "text": " Why was it hold? Oh, okay, I see."
+      },
+      {
+        "id": 10,
+        "start": 35,
+        "end": 43,
+        "text": " It was too early for a refill, so the prescription was on hold until yesterday, the 26th."
+      },
+      {
+        "id": 11,
+        "start": 43,
+        "end": 46,
+        "text": " So that's why they're shipping it out to you today."
+      },
+      {
+        "id": 12,
+        "start": 46,
+        "end": 47,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 47,
+        "end": 48,
+        "text": " Okay?"
+      },
+      {
+        "id": 14,
+        "start": 48,
+        "end": 49,
+        "text": " All right, I should get back in."
+      },
+      {
+        "id": 15,
+        "start": 49,
+        "end": 54,
+        "text": " Do you want me to sign up your e-mail for notifications?"
+      },
+      {
+        "id": 16,
+        "start": 54,
+        "end": 57,
+        "text": " Because I'm on the USGS website."
+      },
+      {
+        "id": 17,
+        "start": 57,
+        "end": 59,
+        "text": " What would the notification do?"
+      },
+      {
+        "id": 18,
+        "start": 59,
+        "end": 63,
+        "text": " Well, it's just the USGS is tracking updates."
+      },
+      {
+        "id": 19,
+        "start": 63,
+        "end": 65,
+        "text": " Okay, yeah, that's fine."
+      },
+      {
+        "id": 20,
+        "start": 65,
+        "end": 69,
+        "text": " Okay. All right, no problem. I'll add it. You're all set."
+      },
+      {
+        "id": 21,
+        "start": 69,
+        "end": 70,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 22,
+        "start": 70,
+        "end": 72,
+        "text": " Sure, have a great day."
+      },
+      {
+        "id": 23,
+        "start": 72,
+        "end": 73,
+        "text": " You too, bye-bye."
+      },
+      {
+        "id": 24,
+        "start": 73,
+        "end": 75,
+        "text": " All right, bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81fc-96fd-d61c74744c8e",
+    "url": "https://www.notion.so/300000001219638-300000001709657-2f611d0a101c81fc96fdd61c74744c8e"
+  },
+  "processedAt": "2026-01-28T12:21:06.819Z"
+}

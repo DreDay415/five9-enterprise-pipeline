@@ -1,0 +1,71 @@
+{
+  "recording": {
+    "name": "300000001241938-300000001731562-7122610019 by summer@verifiednutrition.com @ 10_46_25 AM.wav",
+    "size": 83780,
+    "modifyTime": 1771008459000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241938-300000001731562-7122610019 by summer@verifiednutrition.com @ 10_46_25 AM.wav",
+    "uploadDate": "2026-02-13T18:47:39.000Z",
+    "callId": "300000001241938-300000001731562",
+    "agent": "summer",
+    "phoneNumber": "7122610019",
+    "callTimestamp": "2026-02-13T10:46:25.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_summer_300000001241938-300000001731562_7122610019.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_summer_300000001241938-300000001731562_7122610019.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service. I can help you. Hey, my name is Doug Jensen. I—\n\nSpeaker 2: Just placed an order and then there were all kinds of pop-ups about getting more—\n\nSpeaker 1: Of the Viagra, and I pushed the wrong button. I just want the minimum 10—\n\nSpeaker 2: Viagra pills to start with, see if they work for me. Okay, what's your name and—\n\nSpeaker 1: Birthday? Doug Jensen, J-E-N-S-O-N. My birthday is 10-29-1956.\n\nSpeaker 2: All righty, I refunded you the difference and switched it back to 10. Okay.\n\nSpeaker 1: Appreciate it, thank you very much.\n\nSpeaker 2: You're welcome. Bye bye.\n\nSpeaker 1: Bye.",
+    "duration": 2018,
+    "audioDuration": 51.52000045776367,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.800000190734863,
+        "text": " Thank you for calling customer service I can help you. Hey my name is Doug Jensen I"
+      },
+      {
+        "id": 1,
+        "start": 4.800000190734863,
+        "end": 10.600000381469727,
+        "text": " just placed an order and then there were all kinds of pop-ups about getting more"
+      },
+      {
+        "id": 2,
+        "start": 10.600000381469727,
+        "end": 19.600000381469727,
+        "text": " of the Viagra and I pushed the wrong button I just want the the minimum 10"
+      },
+      {
+        "id": 3,
+        "start": 19.600000381469727,
+        "end": 25.559999465942383,
+        "text": " AVG pills to start with see if they work for me. Okay what's your name and"
+      },
+      {
+        "id": 4,
+        "start": 25.559999465942383,
+        "end": 37.560001373291016,
+        "text": " birthday? Doug Jensen J-E-N-S-O-N my birthday is 10-29-1956."
+      },
+      {
+        "id": 5,
+        "start": 42.560001373291016,
+        "end": 47.959999084472656,
+        "text": " All righty I refunded you the difference and switched it back to 10. Okay"
+      },
+      {
+        "id": 6,
+        "start": 47.959999084472656,
+        "end": 53.20000076293945,
+        "text": " appreciate it thank you very much. You're welcome bye bye. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-816c-a596-f1b96e807934",
+    "url": "https://www.notion.so/300000001241938-300000001731562-30611d0a101c816ca596f1b96e807934"
+  },
+  "processedAt": "2026-02-13T19:04:15.007Z"
+}

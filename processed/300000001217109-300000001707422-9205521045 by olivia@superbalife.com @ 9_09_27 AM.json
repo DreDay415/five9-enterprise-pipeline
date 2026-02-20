@@ -1,0 +1,266 @@
+{
+  "recording": {
+    "name": "300000001217109-300000001707422-9205521045 by olivia@superbalife.com @ 9_09_27 AM.wav",
+    "size": 195970,
+    "modifyTime": 1769584036000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217109-300000001707422-9205521045 by olivia@superbalife.com @ 9_09_27 AM.wav",
+    "uploadDate": "2026-01-28T07:07:16.000Z",
+    "callId": "300000001217109-300000001707422",
+    "agent": "olivia",
+    "phoneNumber": "9205521045",
+    "callTimestamp": "2026-01-28T09:09:27.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Olivia speaking.\n\nSpeaker 2: Who do I have the pleasure of speaking with today?\n\nSpeaker 1: My name is Mark Lloyd.\n\nSpeaker 2: Hi, Mark. How are you?\n\nSpeaker 1: Hey, not too bad.\n\nSpeaker 2: Hey, listen, you guys had me on an auto order thing or something because I got another package in the mail from you, and I want to be removed from that list.\n\nSpeaker 1: Yeah, I can help you with this.\n\nSpeaker 2: Okay, Mark. What is your date of birth?\n\nSpeaker 1: Fall 28, 1965.\n\nSpeaker 2: Perfect. And you're located in Sheboygan, Wisconsin?\n\nSpeaker 1: Yes, ma'am.\n\nSpeaker 2: Okay, great.\n\nSpeaker 1: Yeah, so I do see your prescription here.\n\nSpeaker 2: Just so you know, Mark, I do see that you have a ton of pills.\n\nSpeaker 1: You do always have the option, just so you know, if you don't want to receive regular orders with your prescription, you don't have to.\n\nSpeaker 2: You always have the option to place your prescription on hold for up to six months at a time, just because six months is when the prescription would expire if we didn't refill it.\n\nSpeaker 1: And the way that would work is you could still order during that duration of time.\n\nSpeaker 2: You just have to give us a call to place the order yourself.\n\nSpeaker 1: That would be fine.\n\nSpeaker 2: Okay, great.\n\nSpeaker 1: So, yeah, if you need anything before July 26, six months from now, just give us a call at this number Monday through Friday, 8-5 Pacific.\n\nSpeaker 2: We're always here.\n\nSpeaker 1: Okay, and so I won't get any next month, right?\n\nSpeaker 2: Correct. Definitely not, no.\n\nSpeaker 1: Okay, sounds good.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Thank you, Mark.\n\nSpeaker 2: I hope you have a great day.\n\nSpeaker 1: You too, Barb.\n\nSpeaker 2: Bye.",
+    "duration": 5104,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra. This is Olivia speaking."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " My name is Mark Lloyd."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 13,
+        "text": " Hi, Mark. How are you?"
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 15,
+        "text": " Hey, not too bad."
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 20,
+        "text": " Hey, listen, you guys had me on an auto order thing or something"
+      },
+      {
+        "id": 6,
+        "start": 20,
+        "end": 23,
+        "text": " because I got another package in the mail from you,"
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 28,
+        "text": " and I want to be removed from that list."
+      },
+      {
+        "id": 8,
+        "start": 28,
+        "end": 31,
+        "text": " Yeah, I can help you with this."
+      },
+      {
+        "id": 9,
+        "start": 31,
+        "end": 35,
+        "text": " Okay, Mark. What is your date of birth?"
+      },
+      {
+        "id": 10,
+        "start": 35,
+        "end": 40,
+        "text": " Fall 28, 1965."
+      },
+      {
+        "id": 11,
+        "start": 40,
+        "end": 46,
+        "text": " Perfect. And you're located in Sheboygan, Wisconsin?"
+      },
+      {
+        "id": 12,
+        "start": 46,
+        "end": 47,
+        "text": " Yes, ma'am."
+      },
+      {
+        "id": 13,
+        "start": 47,
+        "end": 49,
+        "text": " Okay, great."
+      },
+      {
+        "id": 14,
+        "start": 49,
+        "end": 53,
+        "text": " Yeah, so I do see your prescription here."
+      },
+      {
+        "id": 15,
+        "start": 53,
+        "end": 58,
+        "text": " Just so you know, Mark, I do see that you have a ton of pills."
+      },
+      {
+        "id": 16,
+        "start": 58,
+        "end": 63,
+        "text": " You do always have the option, just so you know,"
+      },
+      {
+        "id": 17,
+        "start": 63,
+        "end": 67,
+        "text": " if you don't want to receive regular orders with your prescription,"
+      },
+      {
+        "id": 18,
+        "start": 67,
+        "end": 68,
+        "text": " you don't have to."
+      },
+      {
+        "id": 19,
+        "start": 68,
+        "end": 71,
+        "text": " You always have the option to place your prescription on hold"
+      },
+      {
+        "id": 20,
+        "start": 71,
+        "end": 73,
+        "text": " for up to six months at a time,"
+      },
+      {
+        "id": 21,
+        "start": 73,
+        "end": 76,
+        "text": " just because six months is when the prescription would expire"
+      },
+      {
+        "id": 22,
+        "start": 76,
+        "end": 78,
+        "text": " if we didn't refill it."
+      },
+      {
+        "id": 23,
+        "start": 78,
+        "end": 82,
+        "text": " And the way that would work is you could still order"
+      },
+      {
+        "id": 24,
+        "start": 82,
+        "end": 83,
+        "text": " during that duration of time."
+      },
+      {
+        "id": 25,
+        "start": 83,
+        "end": 87,
+        "text": " You just have to give us a call to place the order yourself."
+      },
+      {
+        "id": 26,
+        "start": 87,
+        "end": 89,
+        "text": " That would be fine."
+      },
+      {
+        "id": 27,
+        "start": 89,
+        "end": 91,
+        "text": " Okay, great."
+      },
+      {
+        "id": 28,
+        "start": 91,
+        "end": 96,
+        "text": " So, yeah, if you need anything before July 26, six months from now,"
+      },
+      {
+        "id": 29,
+        "start": 96,
+        "end": 99,
+        "text": " just give us a call at this number Monday through Friday,"
+      },
+      {
+        "id": 30,
+        "start": 99,
+        "end": 100,
+        "text": " 8-5 Pacific."
+      },
+      {
+        "id": 31,
+        "start": 100,
+        "end": 102,
+        "text": " We're always here."
+      },
+      {
+        "id": 32,
+        "start": 102,
+        "end": 106,
+        "text": " Okay, and so I won't get any next month, right?"
+      },
+      {
+        "id": 33,
+        "start": 106,
+        "end": 109,
+        "text": " Correct. Definitely not, no."
+      },
+      {
+        "id": 34,
+        "start": 109,
+        "end": 111,
+        "text": " Okay, sounds good."
+      },
+      {
+        "id": 35,
+        "start": 111,
+        "end": 112,
+        "text": " Okay."
+      },
+      {
+        "id": 36,
+        "start": 112,
+        "end": 113,
+        "text": " Thank you, Mark."
+      },
+      {
+        "id": 37,
+        "start": 113,
+        "end": 114,
+        "text": " I hope you have a great day."
+      },
+      {
+        "id": 38,
+        "start": 114,
+        "end": 116,
+        "text": " You too, Barb."
+      },
+      {
+        "id": 39,
+        "start": 116,
+        "end": 117,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ec-b400-d8ca688392a5",
+    "url": "https://www.notion.so/300000001217109-300000001707422-2f611d0a101c81ecb400d8ca688392a5"
+  },
+  "processedAt": "2026-01-28T15:38:54.249Z"
+}

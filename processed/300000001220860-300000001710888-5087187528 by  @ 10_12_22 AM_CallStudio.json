@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001220860-300000001710888-5087187528 by  @ 10_12_22 AM_CallStudio.wav",
+    "size": 29896,
+    "modifyTime": 1769623983000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220860-300000001710888-5087187528 by  @ 10_12_22 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T18:13:03.000Z",
+    "callId": "300000001220860-300000001710888",
+    "phoneNumber": "5087187528",
+    "callTimestamp": "2026-01-28T18:13:03.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: Yes, I placed an order and didn't get the medication I ordered.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 826,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.199999809265137,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.199999809265137,
+        "end": 7.199999809265137,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.199999809265137,
+        "end": 9.199999809265137,
+        "text": " Para espanol, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.199999809265137,
+        "end": 16.760000228881836,
+        "text": " Yes, I placed an order and didn't get the medication I ordered."
+      },
+      {
+        "id": 4,
+        "start": 16.760000228881836,
+        "end": 17.959999084472656,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-817d-a767-c6981af3c588",
+    "url": "https://www.notion.so/300000001220860-300000001710888-2f711d0a101c817da767c6981af3c588"
+  },
+  "processedAt": "2026-01-29T00:22:55.881Z"
+}

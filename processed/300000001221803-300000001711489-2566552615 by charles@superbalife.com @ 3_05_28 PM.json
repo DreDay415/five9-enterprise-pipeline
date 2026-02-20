@@ -1,0 +1,374 @@
+{
+  "recording": {
+    "name": "300000001221803-300000001711489-2566552615 by charles@superbalife.com @ 3_05_28 PM.wav",
+    "size": 293796,
+    "modifyTime": 1769641711000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221803-300000001711489-2566552615 by charles@superbalife.com @ 3_05_28 PM.wav",
+    "uploadDate": "2026-01-28T23:08:31.000Z",
+    "callId": "300000001221803-300000001711489",
+    "agent": "charles",
+    "phoneNumber": "2566552615",
+    "callTimestamp": "2026-01-28T15:05:28.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, yes, my husband wants to cancel his subscription.\n\nSpeaker 2: Okay, is he around?\n\nSpeaker 1: Hold on a second.\n\nSpeaker 2: He has a speech impediment.\n\nSpeaker 1: Hold on a second.\n\nSpeaker 2: Connie?\n\nSpeaker 1: Connie, they want to talk to you.\n\nSpeaker 2: Hi, I just need to make sure that you have consent.\n\nSpeaker 1: You have consent to, or you give consent to your wife to speak on your behalf, correct?\n\nSpeaker 2: Yes, I am.\n\nSpeaker 1: Okay, sounds good.\n\nSpeaker 2: Thank you so much.\n\nSpeaker 1: All right, ma'am, what's the zip code?\n\nSpeaker 2: 30093.\n\nSpeaker 1: And the date of birth?\n\nSpeaker 2: August 5th, 1964.\n\nSpeaker 1: And Antonio Giddens in Norcross, Georgia.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Gotcha.\n\nSpeaker 2: And you said you guys needed to cancel everything?\n\nSpeaker 1: Mm-hmm.\n\nSpeaker 2: Gotcha.\n\nSpeaker 1: Any particular reason we're canceling?\n\nSpeaker 2: Yeah, because it's not really working.\n\nSpeaker 1: It wasn't?\n\nSpeaker 2: Okay.\n\nSpeaker 1: It wasn't working at all for him?\n\nSpeaker 2: Not even a little bit?\n\nSpeaker 1: No.\n\nSpeaker 2: Gotcha.\n\nSpeaker 1: Okay, sounds good.\n\nSpeaker 2: Out of your knowledge, ma'am, has he ever tried Cialis before?\n\nSpeaker 1: Not to my knowledge, mm-mm.\n\nSpeaker 2: Not to your knowledge.\n\nSpeaker 1: We do carry Cialis as well.\n\nSpeaker 2: I always say that some guys are Cialis guys, some guys are Viagra guys.\n\nSpeaker 1: If you're interested and he's interested, I can send you four free Cialis pills to try.\n\nSpeaker 2: And if it gives him the kick that you guys are looking for, we can switch everything over to the Cialis rather than the Viagra.\n\nSpeaker 1: Okay, hold on.\n\nSpeaker 2: I need all of that upstairs because I don't live from upstairs.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, yeah.\n\nSpeaker 1: Completely for free too.\n\nSpeaker 2: I'll send four free pills if you guys are interested.\n\nSpeaker 1: Tony, he wants to know if you want to try Cialis, four free pills.\n\nSpeaker 2: He should know.\n\nSpeaker 1: He don't want to try nothing.\n\nSpeaker 2: Nothing?\n\nSpeaker 1: Okay, that's fine.\n\nSpeaker 2: I just wanted to throw that out there.\n\nSpeaker 1: Thank you so much.\n\nSpeaker 2: Everything else is canceled, okay?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Appreciate you.\n\nSpeaker 2: Take care.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 6720,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Hi, yes, my husband wants to cancel his subscription."
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 10,
+        "text": " Okay, is he around?"
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 13,
+        "text": " Hold on a second."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 15,
+        "text": " He has a speech impediment."
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 16,
+        "text": " Hold on a second."
+      },
+      {
+        "id": 5,
+        "start": 16,
+        "end": 17,
+        "text": " Connie?"
+      },
+      {
+        "id": 6,
+        "start": 17,
+        "end": 20,
+        "text": " Connie, they want to talk to you."
+      },
+      {
+        "id": 7,
+        "start": 20,
+        "end": 49,
+        "text": " Hi, I just need to make sure that you have consensus."
+      },
+      {
+        "id": 8,
+        "start": 49,
+        "end": 54,
+        "text": " You have consent to, or you give consent to your wife to speak on your behalf, correct?"
+      },
+      {
+        "id": 9,
+        "start": 54,
+        "end": 56,
+        "text": " Yes, I am."
+      },
+      {
+        "id": 10,
+        "start": 56,
+        "end": 57,
+        "text": " Okay, sounds good."
+      },
+      {
+        "id": 11,
+        "start": 57,
+        "end": 59,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 12,
+        "start": 59,
+        "end": 62,
+        "text": " All right, ma'am, what's the zip code?"
+      },
+      {
+        "id": 13,
+        "start": 62,
+        "end": 65,
+        "text": " 30093."
+      },
+      {
+        "id": 14,
+        "start": 65,
+        "end": 68,
+        "text": " And the date of birth?"
+      },
+      {
+        "id": 15,
+        "start": 68,
+        "end": 72,
+        "text": " August 5th, 1964."
+      },
+      {
+        "id": 16,
+        "start": 72,
+        "end": 78,
+        "text": " And Antonio Giddens in Norcross, Georgia."
+      },
+      {
+        "id": 17,
+        "start": 78,
+        "end": 79,
+        "text": " Yes."
+      },
+      {
+        "id": 18,
+        "start": 79,
+        "end": 80,
+        "text": " Gotcha."
+      },
+      {
+        "id": 19,
+        "start": 80,
+        "end": 83,
+        "text": " And you said you guys needed to cancel everything?"
+      },
+      {
+        "id": 20,
+        "start": 83,
+        "end": 84,
+        "text": " Mm-hmm."
+      },
+      {
+        "id": 21,
+        "start": 84,
+        "end": 85,
+        "text": " Gotcha."
+      },
+      {
+        "id": 22,
+        "start": 85,
+        "end": 89,
+        "text": " Any particular reason we're canceling?"
+      },
+      {
+        "id": 23,
+        "start": 89,
+        "end": 92,
+        "text": " Yeah, because it's not really working."
+      },
+      {
+        "id": 24,
+        "start": 92,
+        "end": 93,
+        "text": " It wasn't?"
+      },
+      {
+        "id": 25,
+        "start": 93,
+        "end": 94,
+        "text": " Okay."
+      },
+      {
+        "id": 26,
+        "start": 94,
+        "end": 95,
+        "text": " It wasn't working at all for him?"
+      },
+      {
+        "id": 27,
+        "start": 95,
+        "end": 96,
+        "text": " Not even a little bit?"
+      },
+      {
+        "id": 28,
+        "start": 96,
+        "end": 97,
+        "text": " No."
+      },
+      {
+        "id": 29,
+        "start": 97,
+        "end": 98,
+        "text": " Gotcha."
+      },
+      {
+        "id": 30,
+        "start": 98,
+        "end": 100,
+        "text": " Okay, sounds good."
+      },
+      {
+        "id": 31,
+        "start": 100,
+        "end": 106,
+        "text": " Out of your knowledge, ma'am, has he ever tried Cialis before?"
+      },
+      {
+        "id": 32,
+        "start": 107,
+        "end": 109,
+        "text": " Not to my knowledge, mm-mm."
+      },
+      {
+        "id": 33,
+        "start": 109,
+        "end": 110,
+        "text": " Not to your knowledge."
+      },
+      {
+        "id": 34,
+        "start": 110,
+        "end": 111,
+        "text": " We do carry Cialis as well."
+      },
+      {
+        "id": 35,
+        "start": 111,
+        "end": 115,
+        "text": " I always say that some guys are Cialis guys, some guys are Viagra guys."
+      },
+      {
+        "id": 36,
+        "start": 115,
+        "end": 123,
+        "text": " If you're interested and he's interested, I can send you four free Cialis pills to try."
+      },
+      {
+        "id": 37,
+        "start": 123,
+        "end": 133,
+        "text": " And if it gives him the kick that you guys are looking for, we can switch everything over to the Cialis rather than the Viagra."
+      },
+      {
+        "id": 38,
+        "start": 133,
+        "end": 135,
+        "text": " Okay, hold on."
+      },
+      {
+        "id": 39,
+        "start": 135,
+        "end": 138,
+        "text": " I need all of that upstairs because I don't live from upstairs."
+      },
+      {
+        "id": 40,
+        "start": 138,
+        "end": 139,
+        "text": " Okay."
+      },
+      {
+        "id": 41,
+        "start": 139,
+        "end": 140,
+        "text": " Okay, yeah."
+      },
+      {
+        "id": 42,
+        "start": 140,
+        "end": 141,
+        "text": " Completely for free too."
+      },
+      {
+        "id": 43,
+        "start": 141,
+        "end": 145,
+        "text": " I'll send four free pills if you guys are interested."
+      },
+      {
+        "id": 44,
+        "start": 145,
+        "end": 155,
+        "text": " Tony, he wants to know if you want to try Cialis, four free pills."
+      },
+      {
+        "id": 45,
+        "start": 155,
+        "end": 156,
+        "text": " He should know."
+      },
+      {
+        "id": 46,
+        "start": 156,
+        "end": 157,
+        "text": " He don't want to try nothing."
+      },
+      {
+        "id": 47,
+        "start": 157,
+        "end": 158,
+        "text": " Nothing?"
+      },
+      {
+        "id": 48,
+        "start": 158,
+        "end": 159,
+        "text": " Okay, that's fine."
+      },
+      {
+        "id": 49,
+        "start": 159,
+        "end": 160,
+        "text": " I just wanted to throw that out there."
+      },
+      {
+        "id": 50,
+        "start": 160,
+        "end": 161,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 51,
+        "start": 161,
+        "end": 163,
+        "text": " Everything else is canceled, okay?"
+      },
+      {
+        "id": 52,
+        "start": 163,
+        "end": 164,
+        "text": " Okay."
+      },
+      {
+        "id": 53,
+        "start": 164,
+        "end": 165,
+        "text": " Thank you."
+      },
+      {
+        "id": 54,
+        "start": 165,
+        "end": 166,
+        "text": " Appreciate you."
+      },
+      {
+        "id": 55,
+        "start": 166,
+        "end": 167,
+        "text": " Take care."
+      },
+      {
+        "id": 56,
+        "start": 167,
+        "end": 168,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 57,
+        "start": 168,
+        "end": 169,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81bf-852d-fede48d798f3",
+    "url": "https://www.notion.so/300000001221803-300000001711489-2f611d0a101c81bf852dfede48d798f3"
+  },
+  "processedAt": "2026-01-28T23:22:48.766Z"
+}

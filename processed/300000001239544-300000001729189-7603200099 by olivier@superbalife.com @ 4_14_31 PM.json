@@ -1,0 +1,74 @@
+{
+  "recording": {
+    "name": "300000001239544-300000001729189-7603200099 by olivier@superbalife.com @ 4_14_31 PM.wav",
+    "size": 52646,
+    "modifyTime": 1770855325000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239544-300000001729189-7603200099 by olivier@superbalife.com @ 4_14_31 PM.wav",
+    "uploadDate": "2026-02-12T00:15:25.000Z",
+    "callId": "300000001239544-300000001729189",
+    "agent": "olivier",
+    "phoneNumber": "7603200099",
+    "callTimestamp": "2026-02-12T16:14:31.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Hi, yeah, I'm calling with just one question here. If I want to cancel this—\n\nSpeaker 1: What do I do?\n\nSpeaker 2: Not now, but down the road.\n\nSpeaker 1: Okay, you can just call and adjust the frequency. You can get it every 60 or every 90 days. You can pause it.\n\nSpeaker 2: You just give a call and let us know so we can make adjustments to your liking.\n\nSpeaker 1: Okay, great. That's all I need to know. Thank you.\n\nSpeaker 2: You're welcome. Okay. Bye.\n\nSpeaker 1: Bye.",
+    "duration": 2153,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Viagra"
+      },
+      {
+        "id": 1,
+        "start": 2.880000114440918,
+        "end": 7.119999885559082,
+        "text": " Hi, yeah, I'm calling just one question here if I want to cancel this"
+      },
+      {
+        "id": 2,
+        "start": 8.039999961853027,
+        "end": 9.760000228881836,
+        "text": " What do I do?"
+      },
+      {
+        "id": 3,
+        "start": 9.760000228881836,
+        "end": 11.760000228881836,
+        "text": " Not now, but it was down the road"
+      },
+      {
+        "id": 4,
+        "start": 12.399999618530273,
+        "end": 19.719999313354492,
+        "text": " Okay, you can just call and adjust frequency. You can get every 60 every 90 days you can pause it"
+      },
+      {
+        "id": 5,
+        "start": 20.399999618530273,
+        "end": 24.239999771118164,
+        "text": " You just give a call and you let us know so we make adjustment at your liking"
+      },
+      {
+        "id": 6,
+        "start": 24.719999313354492,
+        "end": 29.280000686645508,
+        "text": " Okay, great. That's all I need to know. Thank you. You're welcome. Okay. Bye. Bye"
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 32,
+        "text": " You"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8170-8488-e16f908e1720",
+    "url": "https://www.notion.so/300000001239544-300000001729189-30511d0a101c81708488e16f908e1720"
+  },
+  "processedAt": "2026-02-12T01:09:26.311Z"
+}

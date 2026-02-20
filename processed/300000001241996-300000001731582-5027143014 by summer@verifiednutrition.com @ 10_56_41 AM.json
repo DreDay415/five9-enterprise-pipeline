@@ -1,0 +1,107 @@
+{
+  "recording": {
+    "name": "300000001241996-300000001731582-5027143014 by summer@verifiednutrition.com @ 10_56_41 AM.wav",
+    "size": 67986,
+    "modifyTime": 1771009064000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241996-300000001731582-5027143014 by summer@verifiednutrition.com @ 10_56_41 AM.wav",
+    "uploadDate": "2026-02-13T18:57:44.000Z",
+    "callId": "300000001241996-300000001731582",
+    "agent": "summer",
+    "phoneNumber": "5027143014",
+    "callTimestamp": "2026-02-13T10:56:41.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_summer_300000001241996-300000001731582_5027143014.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_summer_300000001241996-300000001731582_5027143014.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: The medication that you're taking, is this given to you to help treat fluid and swelling?\n\nSpeaker 2: That is caused by congestive heart failure or liver disease or kidney disease, is that it?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Okay.\n\nSpeaker 1: He spelt it wrong.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I'll let the pharmacy know they'll ship it out today.\n\nSpeaker 2: You'll get an email with your tracking in a couple of hours.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Alrighty.\n\nSpeaker 1: Have a good day, everybody.",
+    "duration": 2196,
+    "audioDuration": 41.79999923706055,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7.920000076293945,
+        "text": " The medication that you're taking, is this given to you to help treat fluid and swelling"
+      },
+      {
+        "id": 1,
+        "start": 7.920000076293945,
+        "end": 13,
+        "text": " that is caused by congestive heart failure or liver disease or kidney disease, is that"
+      },
+      {
+        "id": 2,
+        "start": 13,
+        "end": 14,
+        "text": " it?"
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 15,
+        "text": " Yeah."
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 16,
+        "text": " Okay."
+      },
+      {
+        "id": 5,
+        "start": 16,
+        "end": 17,
+        "text": " All right."
+      },
+      {
+        "id": 6,
+        "start": 17,
+        "end": 18,
+        "text": " He spelt it wrong."
+      },
+      {
+        "id": 7,
+        "start": 18,
+        "end": 19,
+        "text": " Okay."
+      },
+      {
+        "id": 8,
+        "start": 19,
+        "end": 34.720001220703125,
+        "text": " I'll let the pharmacy know they'll ship it out today."
+      },
+      {
+        "id": 9,
+        "start": 34.720001220703125,
+        "end": 38.2400016784668,
+        "text": " You'll get an email with your tracking in a couple of hours."
+      },
+      {
+        "id": 10,
+        "start": 38.2400016784668,
+        "end": 39.2400016784668,
+        "text": " Okay."
+      },
+      {
+        "id": 11,
+        "start": 39.2400016784668,
+        "end": 40.2400016784668,
+        "text": " Alrighty."
+      },
+      {
+        "id": 12,
+        "start": 40.2400016784668,
+        "end": 41.68000030517578,
+        "text": " Have a good day, everybody."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-819a-90c1-e0496c8e68a0",
+    "url": "https://www.notion.so/300000001241996-300000001731582-30611d0a101c819a90c1e0496c8e68a0"
+  },
+  "processedAt": "2026-02-13T18:58:25.891Z"
+}

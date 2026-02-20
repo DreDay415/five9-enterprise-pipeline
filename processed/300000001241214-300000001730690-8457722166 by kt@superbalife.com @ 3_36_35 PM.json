@@ -1,0 +1,155 @@
+{
+  "recording": {
+    "name": "300000001241214-300000001730690-8457722166 by kt@superbalife.com @ 3_36_35 PM.wav",
+    "size": 94570,
+    "modifyTime": 1770939882000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241214-300000001730690-8457722166 by kt@superbalife.com @ 3_36_35 PM.wav",
+    "uploadDate": "2026-02-12T23:44:42.000Z",
+    "callId": "300000001241214-300000001730690",
+    "agent": "kt",
+    "phoneNumber": "8457722166",
+    "callTimestamp": "2026-02-12T15:36:35.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_kt_300000001241214-300000001730690_8457722166.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_kt_300000001241214-300000001730690_8457722166.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey Larry, this is K.T. Goodrich with Pfizer-Score Blue.\n\nSpeaker 2: I'm gonna use your 845 number to pull up your account.\n\nSpeaker 1: Just bear with me so I can help you verify some things.\n\nSpeaker 2: And we'll put a stop to this, right bud?\n\nSpeaker 1: Yep.\n\nSpeaker 2: When I pull this up, and just correct me if I'm wrong,\n\nSpeaker 1: you're working with Dr. Daniel Funch,\n\nSpeaker 2: he's one of our Pfizer doctors,\n\nSpeaker 1: and it looks like he set you up with a prescription\n\nSpeaker 2: for 15 milligrams of the Viagra, the Pfizer Viagra,\n\nSpeaker 1: FDA approved one, it's the white diamond pill.\n\nSpeaker 2: That we make in our Pfizer-Levis brands.\n\nSpeaker 1: And I do see that Dr. Funch has ordered the pharmacy\n\nSpeaker 2: to send you refills on a month.\n\nSpeaker 1: Did he call you and let you know or just check in with you\n\nSpeaker 2: to see how things are going?\n\nSpeaker 1: No, no one's ever called me.\n\nSpeaker 2: I'm so sorry, but let me put you on hold\n\nSpeaker 1: and I'll put a stop to this, bud, all right?\n\nSpeaker 2: Standby.\n\nSpeaker 1: Sorry, one moment.",
+    "duration": 2768,
+    "audioDuration": 58.15999984741211,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.880000114440918,
+        "text": " Hey Larry, this is K.T. Goodrich with Pfizer-Score Blue."
+      },
+      {
+        "id": 1,
+        "start": 3.880000114440918,
+        "end": 8.279999732971191,
+        "text": " I'm gonna use your 845 number to pull up your account."
+      },
+      {
+        "id": 2,
+        "start": 8.279999732971191,
+        "end": 11.600000381469727,
+        "text": " Just bear with me so I can help you verify some things"
+      },
+      {
+        "id": 3,
+        "start": 11.600000381469727,
+        "end": 13.600000381469727,
+        "text": " and we'll put a stop to this, right bud?"
+      },
+      {
+        "id": 4,
+        "start": 15.199999809265137,
+        "end": 16.040000915527344,
+        "text": " Yep."
+      },
+      {
+        "id": 5,
+        "start": 17.079999923706055,
+        "end": 20.440000534057617,
+        "text": " When I pull this up, and just correct me if I'm wrong,"
+      },
+      {
+        "id": 6,
+        "start": 20.440000534057617,
+        "end": 23.479999542236328,
+        "text": " you're working with Dr. Daniel Funch,"
+      },
+      {
+        "id": 7,
+        "start": 23.479999542236328,
+        "end": 25.559999465942383,
+        "text": " he's one of our Pfizer doctors,"
+      },
+      {
+        "id": 8,
+        "start": 25.559999465942383,
+        "end": 28.799999237060547,
+        "text": " and it looks like he set you up with a prescription"
+      },
+      {
+        "id": 9,
+        "start": 28.799999237060547,
+        "end": 32.599998474121094,
+        "text": " for 15 milligrams of the Viagra, the Pfizer Viagra,"
+      },
+      {
+        "id": 10,
+        "start": 32.599998474121094,
+        "end": 35.119998931884766,
+        "text": " FDA approved one, it's the white diamond pill"
+      },
+      {
+        "id": 11,
+        "start": 35.119998931884766,
+        "end": 37.439998626708984,
+        "text": " that we make in our Pfizer-Levis brands."
+      },
+      {
+        "id": 12,
+        "start": 37.439998626708984,
+        "end": 41.599998474121094,
+        "text": " And I do see that Dr. Funch has ordered the pharmacy"
+      },
+      {
+        "id": 13,
+        "start": 41.599998474121094,
+        "end": 43,
+        "text": " to send you refills on a month."
+      },
+      {
+        "id": 14,
+        "start": 43,
+        "end": 45.91999816894531,
+        "text": " Did he call you and let you know or just check in with you"
+      },
+      {
+        "id": 15,
+        "start": 45.91999816894531,
+        "end": 47.31999969482422,
+        "text": " to see how things are going?"
+      },
+      {
+        "id": 16,
+        "start": 48.47999954223633,
+        "end": 50.68000030517578,
+        "text": " No, no one's ever called me."
+      },
+      {
+        "id": 17,
+        "start": 50.68000030517578,
+        "end": 53.279998779296875,
+        "text": " I'm so sorry, but let me put you on hold"
+      },
+      {
+        "id": 18,
+        "start": 53.279998779296875,
+        "end": 55.20000076293945,
+        "text": " and I'll put a stop to this, bud, all right?"
+      },
+      {
+        "id": 19,
+        "start": 55.20000076293945,
+        "end": 56.599998474121094,
+        "text": " Standby."
+      },
+      {
+        "id": 20,
+        "start": 56.599998474121094,
+        "end": 57.68000030517578,
+        "text": " Sorry, one moment."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8126-9fc6-eee7ed6f33f9",
+    "url": "https://www.notion.so/300000001241214-300000001730690-30611d0a101c81269fc6eee7ed6f33f9"
+  },
+  "processedAt": "2026-02-13T00:04:49.364Z"
+}

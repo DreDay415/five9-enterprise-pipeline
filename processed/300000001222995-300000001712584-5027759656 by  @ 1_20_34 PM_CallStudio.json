@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001222995-300000001712584-5027759656 by  @ 1_20_34 PM_CallStudio.wav",
+    "size": 26060,
+    "modifyTime": 1769721673000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222995-300000001712584-5027759656 by  @ 1_20_34 PM_CallStudio.wav",
+    "uploadDate": "2026-01-29T21:21:13.000Z",
+    "callId": "300000001222995-300000001712584",
+    "phoneNumber": "5027759656",
+    "callTimestamp": "2026-01-29T21:21:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Verify my account, my order.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Transferring to agent.",
+    "duration": 876,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.159999847412109,
+        "end": 6.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.159999847412109,
+        "end": 10.15999984741211,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.15999984741211,
+        "end": 14.479999542236328,
+        "text": " Verify my account, my order."
+      },
+      {
+        "id": 4,
+        "start": 14.479999542236328,
+        "end": 15.479999542236328,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 15.479999542236328,
+        "end": 15.680000305175781,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8128-98ed-e69ea708d3dc",
+    "url": "https://www.notion.so/300000001222995-300000001712584-2f711d0a101c812898ede69ea708d3dc"
+  },
+  "processedAt": "2026-01-29T21:47:03.601Z"
+}

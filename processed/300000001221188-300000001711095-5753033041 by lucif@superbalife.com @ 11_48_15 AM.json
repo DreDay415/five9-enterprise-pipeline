@@ -1,0 +1,122 @@
+{
+  "recording": {
+    "name": "300000001221188-300000001711095-5753033041 by lucif@superbalife.com @ 11_48_15 AM.wav",
+    "size": 131946,
+    "modifyTime": 1769629798000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221188-300000001711095-5753033041 by lucif@superbalife.com @ 11_48_15 AM.wav",
+    "uploadDate": "2026-01-28T19:49:58.000Z",
+    "callId": "300000001221188-300000001711095",
+    "agent": "lucif",
+    "phoneNumber": "5753033041",
+    "callTimestamp": "2026-01-28T11:48:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yeah, I want to cancel my subscription, I can't take the pills anymore, my blood pressure—\n\nSpeaker 2: is gone and the doctor said to quit taking it.\n\nSpeaker 1: Okay, one moment.\n\nSpeaker 2: Is your name Marion?\n\nSpeaker 1: Yes, it is.\n\nSpeaker 2: Alrighty, so you said that it's a health thing here, right, it's not because you want to\n\nSpeaker 1: order as needed or anything like that?\n\nSpeaker 2: No, I don't want no more, I can't take it anymore.\n\nSpeaker 1: Okay, and obviously that's not something you'd be cleared for down the line because we can\n\nSpeaker 2: always just stop the billing for you.\n\nSpeaker 1: Alright, just don't send it no more because I can't take it.\n\nSpeaker 2: Okay, sir.\n\nSpeaker 1: We won't stop it.\n\nSpeaker 2: Thanks.\n\nSpeaker 1: You're welcome.\n\nSpeaker 2: Thanks.",
+    "duration": 3367,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 18.68000030517578,
+        "text": " Yeah, I want to cancel my subscription, I can't take the pills anymore, my blood pressure"
+      },
+      {
+        "id": 1,
+        "start": 18.68000030517578,
+        "end": 25.68000030517578,
+        "text": " is gone and the doctor said to quit taking it."
+      },
+      {
+        "id": 2,
+        "start": 25.68000030517578,
+        "end": 29.68000030517578,
+        "text": " Okay, one moment."
+      },
+      {
+        "id": 3,
+        "start": 29.68000030517578,
+        "end": 34.68000030517578,
+        "text": " Is your name Marion?"
+      },
+      {
+        "id": 4,
+        "start": 34.68000030517578,
+        "end": 37.68000030517578,
+        "text": " Yes, it is."
+      },
+      {
+        "id": 5,
+        "start": 37.68000030517578,
+        "end": 50.68000030517578,
+        "text": " Alrighty, so you said that it's a health thing here, right, it's not because you want to"
+      },
+      {
+        "id": 6,
+        "start": 50.68000030517578,
+        "end": 53.68000030517578,
+        "text": " order as needed or anything like that?"
+      },
+      {
+        "id": 7,
+        "start": 53.68000030517578,
+        "end": 56.68000030517578,
+        "text": " No, I don't want no more, I can't take it anymore."
+      },
+      {
+        "id": 8,
+        "start": 56.68000030517578,
+        "end": 62.68000030517578,
+        "text": " Okay, and obviously that's not something you'd be cleared for down the line because we can"
+      },
+      {
+        "id": 9,
+        "start": 62.68000030517578,
+        "end": 64.68000030517578,
+        "text": " always just stop the billing for you."
+      },
+      {
+        "id": 10,
+        "start": 65.68000030517578,
+        "end": 71.68000030517578,
+        "text": " Alright, just don't send it no more because I can't take it."
+      },
+      {
+        "id": 11,
+        "start": 71.68000030517578,
+        "end": 74.68000030517578,
+        "text": " Okay, sir."
+      },
+      {
+        "id": 12,
+        "start": 74.68000030517578,
+        "end": 75.68000030517578,
+        "text": " We won't stop it."
+      },
+      {
+        "id": 13,
+        "start": 75.68000030517578,
+        "end": 76.68000030517578,
+        "text": " Thanks."
+      },
+      {
+        "id": 14,
+        "start": 76.68000030517578,
+        "end": 77.68000030517578,
+        "text": " You're welcome."
+      },
+      {
+        "id": 15,
+        "start": 77.68000030517578,
+        "end": 78.68000030517578,
+        "text": " Thanks."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816d-b724-c9f368485552",
+    "url": "https://www.notion.so/300000001221188-300000001711095-2f611d0a101c816db724c9f368485552"
+  },
+  "processedAt": "2026-01-28T23:42:20.457Z"
+}

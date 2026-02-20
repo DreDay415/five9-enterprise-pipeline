@@ -1,0 +1,43 @@
+{
+  "recording": {
+    "name": "300000001215994-300000001705570-7274150507 by  @ 11_30_26 AM_CallStudio.wav",
+    "size": 26646,
+    "modifyTime": 1769196666000,
+    "remotePath": "/five9sftp/recordings/SB CS/1_23_2026/300000001215994-300000001705570-7274150507 by  @ 11_30_26 AM_CallStudio.wav",
+    "uploadDate": "2026-01-23T19:31:06.000Z",
+    "callId": "300000001215994-300000001705570",
+    "phoneNumber": "7274150507",
+    "callTimestamp": "2026-01-23T19:31:06.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Change my email address.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 756,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 14,
+        "text": " Change my email address."
+      },
+      {
+        "id": 2,
+        "start": 14,
+        "end": 16,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f411d0a-101c-817d-8c70-f62b6022ecb0",
+    "url": "https://www.notion.so/300000001215994-300000001705570-2f411d0a101c817d8c70f62b6022ecb0"
+  },
+  "processedAt": "2026-01-26T21:33:00.617Z"
+}

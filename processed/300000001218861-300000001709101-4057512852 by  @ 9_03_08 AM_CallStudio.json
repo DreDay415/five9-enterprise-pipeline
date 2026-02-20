@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001218861-300000001709101-4057512852 by  @ 9_03_08 AM_CallStudio.wav",
+    "size": 25800,
+    "modifyTime": 1769591237000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218861-300000001709101-4057512852 by  @ 9_03_08 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:07:17.000Z",
+    "callId": "300000001218861-300000001709101",
+    "phoneNumber": "4057512852",
+    "callTimestamp": "2026-01-28T09:07:17.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: Fake pills.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1510,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.639999866485596,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.639999866485596,
+        "end": 7.639999866485596,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.639999866485596,
+        "end": 11.720000267028809,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 11.720000267028809,
+        "end": 14.359999656677246,
+        "text": " Fake pills."
+      },
+      {
+        "id": 4,
+        "start": 14.359999656677246,
+        "end": 15.5600004196167,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8142-b3ac-d93d55831385",
+    "url": "https://www.notion.so/300000001218861-300000001709101-2f611d0a101c8142b3acd93d55831385"
+  },
+  "processedAt": "2026-01-28T11:43:34.160Z"
+}

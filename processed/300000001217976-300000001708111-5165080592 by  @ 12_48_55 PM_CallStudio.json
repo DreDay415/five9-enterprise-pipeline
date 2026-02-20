@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001217976-300000001708111-5165080592 by  @ 12_48_55 PM_CallStudio.wav",
+    "size": 33080,
+    "modifyTime": 1769583433000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217976-300000001708111-5165080592 by  @ 12_48_55 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T06:57:13.000Z",
+    "callId": "300000001217976-300000001708111",
+    "phoneNumber": "5165080592",
+    "callTimestamp": "2026-01-28T06:57:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I was sent Reggio Viagra when I paid for Viagra EGD.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1768,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.199999809265137,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.360000133514404,
+        "end": 6.840000152587891,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.840000152587891,
+        "end": 8.640000343322754,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.640000343322754,
+        "end": 16.979999542236328,
+        "text": " I was sent Reggio Viagra when I paid for Viagra EGD."
+      },
+      {
+        "id": 4,
+        "start": 18.760000228881836,
+        "end": 20,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a6-8cfa-fe4709d65fb7",
+    "url": "https://www.notion.so/300000001217976-300000001708111-2f611d0a101c81a68cfafe4709d65fb7"
+  },
+  "processedAt": "2026-01-28T16:24:10.720Z"
+}

@@ -1,0 +1,128 @@
+{
+  "recording": {
+    "name": "300000001217637-300000001707886-5038309676 by johanna@superbalife.com @ 11_06_18 AM.wav",
+    "size": 143450,
+    "modifyTime": 1769584332000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217637-300000001707886-5038309676 by johanna@superbalife.com @ 11_06_18 AM.wav",
+    "uploadDate": "2026-01-28T07:12:12.000Z",
+    "callId": "300000001217637-300000001707886",
+    "agent": "johanna",
+    "phoneNumber": "5038309676",
+    "callTimestamp": "2026-01-28T11:06:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. Joanna speaking. How can I help you?\n\nSpeaker 2: Yes, I just ordered the 10 pill plan for the AGV, Viagra.\n\nSpeaker 1: It was supposed to be $49.95 and I received it at $63.95. What happened?\n\nSpeaker 2: Yeah, so our cost is $49.95, sorry, $49. And we don't charge the doctor fee or shipping fee.\n\nSpeaker 1: The increase in cost you're seeing there is from the pharmacy. The pharmacy charges a $14.95 service fee.\n\nSpeaker 2: So that brought it to $63.95.\n\nSpeaker 1: Can you look and see if I am getting the AGV?\n\nSpeaker 2: Yes, sir, I can check on that.\n\nSpeaker 1: I don't get this.\n\nSpeaker 2: Yes, you are. You are getting the AGV.\n\nSpeaker 1: Okay, and how long does it take for delivery?\n\nSpeaker 2: Well, it looks like the doctor already approved it and wrote the prescription and it's currently at our pharmacy.\n\nSpeaker 1: So the pharmacy will either ship it out today or tomorrow.\n\nSpeaker 2: Once they do, they will send you an email with the tracking number.\n\nSpeaker 1: It usually takes about two to five days and then they'll ship it out to Kentucky.\n\nSpeaker 2: All right, thank you.\n\nSpeaker 1: My pleasure. Thank you, sir. Have a good one.",
+    "duration": 3923,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. Joanna speaking. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 9,
+        "text": " Yes, I just ordered the 10 pill plan for the AGV, Viagra."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 16,
+        "text": " It was supposed to be $49.95 and I received it at $63.95. What happened?"
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 25,
+        "text": " Yeah, so our cost is $49.95, sorry, $49. And we don't charge the doctor fee or shipping fee."
+      },
+      {
+        "id": 4,
+        "start": 25,
+        "end": 34,
+        "text": " The increase in cost you're seeing there is from the pharmacy. The pharmacy charges a $14.95 service fee."
+      },
+      {
+        "id": 5,
+        "start": 34,
+        "end": 36,
+        "text": " So that brought it to $63.95."
+      },
+      {
+        "id": 6,
+        "start": 36,
+        "end": 40,
+        "text": " Can you look and see if I am getting the AGV?"
+      },
+      {
+        "id": 7,
+        "start": 40,
+        "end": 43,
+        "text": " Yes, sir, I can check on that."
+      },
+      {
+        "id": 8,
+        "start": 56,
+        "end": 58,
+        "text": " I don't get this."
+      },
+      {
+        "id": 9,
+        "start": 58,
+        "end": 63,
+        "text": " Yes, you are. You are getting the AGV."
+      },
+      {
+        "id": 10,
+        "start": 63,
+        "end": 66,
+        "text": " Okay, and how long does it take for delivery?"
+      },
+      {
+        "id": 11,
+        "start": 66,
+        "end": 72,
+        "text": " Well, it looks like the doctor already approved it and wrote the prescription and it's currently at our pharmacy."
+      },
+      {
+        "id": 12,
+        "start": 72,
+        "end": 75,
+        "text": " So the pharmacy will either ship it out today or tomorrow."
+      },
+      {
+        "id": 13,
+        "start": 75,
+        "end": 79,
+        "text": " Once they do, they will send you an email with the tracking number."
+      },
+      {
+        "id": 14,
+        "start": 79,
+        "end": 83,
+        "text": " It usually takes about two to five days and then they'll ship it out to Kentucky."
+      },
+      {
+        "id": 15,
+        "start": 83,
+        "end": 85,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 16,
+        "start": 85,
+        "end": 87,
+        "text": " My pleasure. Thank you, sir. Have a good one."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8190-b974-c99c34c0197b",
+    "url": "https://www.notion.so/300000001217637-300000001707886-2f611d0a101c8190b974c99c34c0197b"
+  },
+  "processedAt": "2026-01-28T15:14:17.608Z"
+}

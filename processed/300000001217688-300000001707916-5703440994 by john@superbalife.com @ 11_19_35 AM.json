@@ -1,0 +1,194 @@
+{
+  "recording": {
+    "name": "300000001217688-300000001707916-5703440994 by john@superbalife.com @ 11_19_35 AM.wav",
+    "size": 135066,
+    "modifyTime": 1769591837000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217688-300000001707916-5703440994 by john@superbalife.com @ 11_19_35 AM.wav",
+    "uploadDate": "2026-01-28T09:17:17.000Z",
+    "callId": "300000001217688-300000001707916",
+    "agent": "john",
+    "phoneNumber": "5703440994",
+    "callTimestamp": "2026-01-28T11:19:35.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Hey, John. It's Bill Valentine again. I'm sorry about that. I had to answer a phone call.\n\nSpeaker 1: Last night, I was online, and I thought I was making a purchase, and I don't know.\n\nSpeaker 2: It said that my credit card or something was not white or whatever.\n\nSpeaker 1: What's your zip code? I can check.\n\nSpeaker 2: Thank you. 1-A-5-0-4.\n\nSpeaker 1: Watson Street in Scranton?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Okay. Do you happen to be a junior or a senior by chance?\n\nSpeaker 2: No.\n\nSpeaker 1: Okay. Did you recently move to that address?\n\nSpeaker 2: No.\n\nSpeaker 1: And your date of birth is February 22nd, 1960?\n\nSpeaker 2: Yep.\n\nSpeaker 1: For some reason, it didn't recognize you in the system.\n\nSpeaker 2: I'm going to put it through. You're fine, but that's all that was.\n\nSpeaker 1: So your order did go through. It was just a weird thing. It didn't think you were you, but it seems like it.\n\nSpeaker 2: Right. Yeah, I'm like, no, I've lived here for 25 years.\n\nSpeaker 1: The most common things are those three things I mentioned.\n\nSpeaker 2: If somebody's a junior or a senior, it'll trip it up if they recently moved or the date of birth,\n\nSpeaker 1: but it could just be something else because your name's common.\n\nSpeaker 2: I don't know, but it's all good. It'll get approved and shipped out this week.\n\nSpeaker 1: Okay. And what is the total of that for, please?\n\nSpeaker 2: You got 40 of the 50 milligrams, and that's $163.95 is what you paid.\n\nSpeaker 1: Right. Okay. All right. I just want to make sure, and I appreciate your help.\n\nSpeaker 2: Of course. Have a good day.\n\nSpeaker 1: Thank you, John. Bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 3983,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 6,
+        "text": " Hey, John. It's Bill Valentine again. I'm sorry about that. I had to answer a phone call."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 11,
+        "text": " Last night, I was online, and I thought I was making a purchase, and I don't know."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 16,
+        "text": " It said that my credit card or something was not white or whatever."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 18,
+        "text": " What's your zip code? I can check."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 26,
+        "text": " Thank you. 1-A-5-0-4."
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 28,
+        "text": " Watson Street in Scranton?"
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 30,
+        "text": " Correct."
+      },
+      {
+        "id": 8,
+        "start": 30,
+        "end": 34,
+        "text": " Okay. Do you happen to be a junior or a senior by chance?"
+      },
+      {
+        "id": 9,
+        "start": 34,
+        "end": 35,
+        "text": " No."
+      },
+      {
+        "id": 10,
+        "start": 35,
+        "end": 38,
+        "text": " Okay. Did you recently move to that address?"
+      },
+      {
+        "id": 11,
+        "start": 38,
+        "end": 39,
+        "text": " No."
+      },
+      {
+        "id": 12,
+        "start": 39,
+        "end": 42,
+        "text": " And your date of birth is February 22nd, 1960?"
+      },
+      {
+        "id": 13,
+        "start": 42,
+        "end": 44,
+        "text": " Yep."
+      },
+      {
+        "id": 14,
+        "start": 44,
+        "end": 46,
+        "text": " For some reason, it didn't recognize you in the system."
+      },
+      {
+        "id": 15,
+        "start": 46,
+        "end": 48,
+        "text": " I'm going to put it through. You're fine, but that's all that was."
+      },
+      {
+        "id": 16,
+        "start": 48,
+        "end": 53,
+        "text": " So your order did go through. It was just a weird thing. It didn't think you were you, but it seems like it."
+      },
+      {
+        "id": 17,
+        "start": 53,
+        "end": 57,
+        "text": " Right. Yeah, I'm like, no, I've lived here for 25 years."
+      },
+      {
+        "id": 18,
+        "start": 57,
+        "end": 59,
+        "text": " The most common things are those three things I mentioned."
+      },
+      {
+        "id": 19,
+        "start": 59,
+        "end": 63,
+        "text": " If somebody's a junior or a senior, it'll trip it up if they recently moved or the date of birth,"
+      },
+      {
+        "id": 20,
+        "start": 63,
+        "end": 65,
+        "text": " but it could just be something else because your name's common."
+      },
+      {
+        "id": 21,
+        "start": 65,
+        "end": 68,
+        "text": " I don't know, but it's all good. It'll get approved and shipped out this week."
+      },
+      {
+        "id": 22,
+        "start": 68,
+        "end": 72,
+        "text": " Okay. And what is the total of that for, please?"
+      },
+      {
+        "id": 23,
+        "start": 72,
+        "end": 76,
+        "text": " You got 40 of the 50 milligrams, and that's $163.95 is what you paid."
+      },
+      {
+        "id": 24,
+        "start": 76,
+        "end": 80,
+        "text": " Right. Okay. All right. I just want to make sure, and I appreciate your help."
+      },
+      {
+        "id": 25,
+        "start": 80,
+        "end": 81,
+        "text": " Of course. Have a good day."
+      },
+      {
+        "id": 26,
+        "start": 81,
+        "end": 82,
+        "text": " Thank you, John. Bye-bye."
+      },
+      {
+        "id": 27,
+        "start": 82,
+        "end": 83,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-815c-b416-d4421aab13b6",
+    "url": "https://www.notion.so/300000001217688-300000001707916-2f611d0a101c815cb416d4421aab13b6"
+  },
+  "processedAt": "2026-01-28T11:24:41.455Z"
+}

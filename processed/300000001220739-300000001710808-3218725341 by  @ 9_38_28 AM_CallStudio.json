@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001220739-300000001710808-3218725341 by  @ 9_38_28 AM_CallStudio.wav",
+    "size": 24436,
+    "modifyTime": 1769621945000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220739-300000001710808-3218725341 by  @ 9_38_28 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T17:39:05.000Z",
+    "callId": "300000001220739-300000001710808",
+    "phoneNumber": "3218725341",
+    "callTimestamp": "2026-01-28T17:39:05.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para español, marque número nueve.\n\nSpeaker 2: Transfer of subscription.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Transferring to agent.",
+    "duration": 949,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.239999771118164,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.239999771118164,
+        "end": 7.239999771118164,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.239999771118164,
+        "end": 9.239999771118164,
+        "text": " Para espanol, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.239999771118164,
+        "end": 11.680000305175781,
+        "text": " Transfer of subscription."
+      },
+      {
+        "id": 4,
+        "start": 11.680000305175781,
+        "end": 12.680000305175781,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 12.680000305175781,
+        "end": 14.680000305175781,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-810c-a8c1-cc6ace3d7ce6",
+    "url": "https://www.notion.so/300000001220739-300000001710808-2f611d0a101c810ca8c1cc6ace3d7ce6"
+  },
+  "processedAt": "2026-01-28T18:21:51.196Z"
+}

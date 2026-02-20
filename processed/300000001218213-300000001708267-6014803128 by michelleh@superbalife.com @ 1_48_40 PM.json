@@ -1,0 +1,230 @@
+{
+  "recording": {
+    "name": "300000001218213-300000001708267-6014803128 by michelleh@superbalife.com @ 1_48_40 PM.wav",
+    "size": 97756,
+    "modifyTime": 1769592444000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218213-300000001708267-6014803128 by michelleh@superbalife.com @ 1_48_40 PM.wav",
+    "uploadDate": "2026-01-28T09:27:24.000Z",
+    "callId": "300000001218213-300000001708267",
+    "agent": "michelleh",
+    "phoneNumber": "6014803128",
+    "callTimestamp": "2026-01-28T13:48:40.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra.\n\nSpeaker 2: How can I help you?\n\nSpeaker 1: Yes, ma'am.\n\nSpeaker 2: I would like to cancel my script with Score Blue.\n\nSpeaker 1: No problem, Gene.\n\nSpeaker 2: I can help you out.\n\nSpeaker 1: Can you just confirm your date of birth, please?\n\nSpeaker 2: Sure.\n\nSpeaker 1: It's 8-5-19-54.\n\nSpeaker 2: Thank you so much.\n\nSpeaker 1: It's your VIP status customer.\n\nSpeaker 2: How is the medication working out for you?\n\nSpeaker 1: I don't know.\n\nSpeaker 2: I haven't used it.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Not a problem.\n\nSpeaker 1: Yes.\n\nSpeaker 2: So with your VIP status, you don't have to have your refills on a monthly basis.\n\nSpeaker 1: What a lot of people like to do is go ahead and pause that for six months.\n\nSpeaker 2: That way, it keeps your prescription active and just allows you to call in whenever you—\n\nSpeaker 1: Need a refill.\n\nSpeaker 2: I could pause that for you until July 31st of 2026.\n\nSpeaker 1: No.\n\nSpeaker 2: Just go ahead and cancel the whole thing.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Not a problem.\n\nSpeaker 1: You're all canceled out.\n\nSpeaker 2: You're all set.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: No problem.\n\nSpeaker 2: Have a good day.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Bye.",
+    "duration": 3491,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Thank you for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2,
+        "text": " How can I help you?"
+      },
+      {
+        "id": 2,
+        "start": 2,
+        "end": 3,
+        "text": " Yes, ma'am."
+      },
+      {
+        "id": 3,
+        "start": 3,
+        "end": 8,
+        "text": " I would like to cancel my script with score blue."
+      },
+      {
+        "id": 4,
+        "start": 8,
+        "end": 9,
+        "text": " No problem, Gene."
+      },
+      {
+        "id": 5,
+        "start": 9,
+        "end": 10,
+        "text": " I can help you out."
+      },
+      {
+        "id": 6,
+        "start": 10,
+        "end": 13,
+        "text": " Can you just confirm your date of birth, please?"
+      },
+      {
+        "id": 7,
+        "start": 13,
+        "end": 14,
+        "text": " Sure."
+      },
+      {
+        "id": 8,
+        "start": 14,
+        "end": 15,
+        "text": " It's 8-5-19-54."
+      },
+      {
+        "id": 9,
+        "start": 15,
+        "end": 16,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 10,
+        "start": 16,
+        "end": 17,
+        "text": " It's your VIP status customer."
+      },
+      {
+        "id": 11,
+        "start": 17,
+        "end": 18,
+        "text": " How is the medication working out for you?"
+      },
+      {
+        "id": 12,
+        "start": 18,
+        "end": 19,
+        "text": " I don't know."
+      },
+      {
+        "id": 13,
+        "start": 19,
+        "end": 20,
+        "text": " I haven't used it."
+      },
+      {
+        "id": 14,
+        "start": 20,
+        "end": 21,
+        "text": " Okay."
+      },
+      {
+        "id": 15,
+        "start": 21,
+        "end": 22,
+        "text": " Not a problem."
+      },
+      {
+        "id": 16,
+        "start": 22,
+        "end": 23,
+        "text": " Yes."
+      },
+      {
+        "id": 17,
+        "start": 24,
+        "end": 33,
+        "text": " So with your VIP status, you don't have to have your refills on a monthly basis."
+      },
+      {
+        "id": 18,
+        "start": 33,
+        "end": 37,
+        "text": " What a lot of people like to do is go ahead and pause that for six months."
+      },
+      {
+        "id": 19,
+        "start": 37,
+        "end": 41,
+        "text": " That way, it keeps your prescription active and just allows you to call in whenever you"
+      },
+      {
+        "id": 20,
+        "start": 41,
+        "end": 42,
+        "text": " need a refill."
+      },
+      {
+        "id": 21,
+        "start": 42,
+        "end": 46,
+        "text": " I could pause that for you until July 31st of 2026."
+      },
+      {
+        "id": 22,
+        "start": 46,
+        "end": 47,
+        "text": " No."
+      },
+      {
+        "id": 23,
+        "start": 47,
+        "end": 50,
+        "text": " Just go ahead and cancel the whole thing."
+      },
+      {
+        "id": 24,
+        "start": 50,
+        "end": 51,
+        "text": " Okay."
+      },
+      {
+        "id": 25,
+        "start": 51,
+        "end": 52,
+        "text": " Not a problem."
+      },
+      {
+        "id": 26,
+        "start": 52,
+        "end": 53,
+        "text": " You're all canceled out."
+      },
+      {
+        "id": 27,
+        "start": 53,
+        "end": 54,
+        "text": " You're all set."
+      },
+      {
+        "id": 28,
+        "start": 54,
+        "end": 55,
+        "text": " Okay."
+      },
+      {
+        "id": 29,
+        "start": 55,
+        "end": 56,
+        "text": " Thank you."
+      },
+      {
+        "id": 30,
+        "start": 56,
+        "end": 57,
+        "text": " No problem."
+      },
+      {
+        "id": 31,
+        "start": 57,
+        "end": 58,
+        "text": " Have a good day."
+      },
+      {
+        "id": 32,
+        "start": 58,
+        "end": 59,
+        "text": " Bye."
+      },
+      {
+        "id": 33,
+        "start": 59,
+        "end": 60,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a2-982f-e66a64490a53",
+    "url": "https://www.notion.so/300000001218213-300000001708267-2f611d0a101c81a2982fe66a64490a53"
+  },
+  "processedAt": "2026-01-28T10:23:54.921Z"
+}

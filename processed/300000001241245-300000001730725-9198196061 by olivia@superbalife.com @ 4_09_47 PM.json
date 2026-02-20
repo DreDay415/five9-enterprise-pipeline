@@ -1,0 +1,143 @@
+{
+  "recording": {
+    "name": "300000001241245-300000001730725-9198196061 by olivia@superbalife.com @ 4_09_47 PM.wav",
+    "size": 161390,
+    "modifyTime": 1770941509000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241245-300000001730725-9198196061 by olivia@superbalife.com @ 4_09_47 PM.wav",
+    "uploadDate": "2026-02-13T00:11:49.000Z",
+    "callId": "300000001241245-300000001730725",
+    "agent": "olivia",
+    "phoneNumber": "9198196061",
+    "callTimestamp": "2026-02-13T16:09:47.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivia_300000001241245-300000001730725_9198196061.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivia_300000001241245-300000001730725_9198196061.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viacra. This is Olivia speaking. Who do I have the pleasure of speaking with today?\n\nSpeaker 2: Samuel Myers.\n\nSpeaker 1: Hi Samuel. How can I help you today?\n\nSpeaker 2: I just want to cancel the prescription right now.\n\nSpeaker 1: Yeah, I can help you with that. Okay Samuel, what's your date of birth?\n\nSpeaker 2: 7-20-67.\n\nSpeaker 1: Perfect. And you're located at 68 Prillman Drive, Collinsville, Virginia, 24078?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Great. Yeah, so I see you here.\n\nSpeaker 2: Yeah, if you don't want to receive those monthly ongoing refills, you certainly don't have to with the prescription.\n\nSpeaker 1: You always have the option to place the prescription on hold for up to six months at a time just because six months is when the prescription would expire if we didn't refill it.\n\nSpeaker 2: And the way that works is when you are ready to order, if it is before then, you can.\n\nSpeaker 1: You just have to give us a call to place the order yourself.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, great. So yeah, if you need anything before August, just let us know and otherwise your prescription is placed on hold.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: Alrighty Sam, I hope you have a great day.\n\nSpeaker 2: You too.\n\nSpeaker 1: Bye.",
+    "duration": 3356,
+    "audioDuration": 99.27999877929688,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8,
+        "text": " Thank you for calling Viacra. This is Olivia speaking. Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 1,
+        "start": 8,
+        "end": 10,
+        "text": " Samuel Myers."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 14,
+        "text": " Hi Samuel. How can I help you today?"
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 22,
+        "text": " I just want to cancel the prescription right now."
+      },
+      {
+        "id": 4,
+        "start": 22,
+        "end": 27,
+        "text": " Yeah, I can help you with that. Okay Samuel, what's your date of birth?"
+      },
+      {
+        "id": 5,
+        "start": 27,
+        "end": 30,
+        "text": " 7-20-67."
+      },
+      {
+        "id": 6,
+        "start": 30,
+        "end": 39,
+        "text": " Perfect. And you're located at 68 Prillman Drive, Collinsville, Virginia, 24078?"
+      },
+      {
+        "id": 7,
+        "start": 39,
+        "end": 40,
+        "text": " Yeah."
+      },
+      {
+        "id": 8,
+        "start": 40,
+        "end": 43,
+        "text": " Great. Yeah, so I see you here."
+      },
+      {
+        "id": 9,
+        "start": 43,
+        "end": 52,
+        "text": " Yeah, if you don't want to receive those monthly ongoing refills, you certainly don't have to with the prescription."
+      },
+      {
+        "id": 10,
+        "start": 52,
+        "end": 65,
+        "text": " You always have the option to place the prescription on hold for up to six months at a time just because six months is when the prescription would expire if we didn't refill it."
+      },
+      {
+        "id": 11,
+        "start": 65,
+        "end": 73,
+        "text": " And the way that works is when you are ready to order, if it is before then, you can."
+      },
+      {
+        "id": 12,
+        "start": 73,
+        "end": 77,
+        "text": " You just have to give us a call to place the order yourself."
+      },
+      {
+        "id": 13,
+        "start": 77,
+        "end": 79,
+        "text": " Yes."
+      },
+      {
+        "id": 14,
+        "start": 80,
+        "end": 92,
+        "text": " Okay, great. So yeah, if you need anything before August, just let us know and otherwise your prescription is placed on hold."
+      },
+      {
+        "id": 15,
+        "start": 92,
+        "end": 94,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 16,
+        "start": 94,
+        "end": 97,
+        "text": " Alrighty Sam, I hope you have a great day."
+      },
+      {
+        "id": 17,
+        "start": 97,
+        "end": 98,
+        "text": " You too."
+      },
+      {
+        "id": 18,
+        "start": 98,
+        "end": 99,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81b4-a8d1-e86df2d545ec",
+    "url": "https://www.notion.so/300000001241245-300000001730725-30611d0a101c81b4a8d1e86df2d545ec"
+  },
+  "processedAt": "2026-02-13T01:09:49.066Z"
+}

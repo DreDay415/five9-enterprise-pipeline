@@ -1,0 +1,110 @@
+{
+  "recording": {
+    "name": "300000001216501-300000001705915-8887955826 by shantay@superbalife.com @ 2_22_27 PM.wav",
+    "size": 121610,
+    "modifyTime": 1769587036000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216501-300000001705915-8887955826 by shantay@superbalife.com @ 2_22_27 PM.wav",
+    "uploadDate": "2026-01-28T07:57:16.000Z",
+    "callId": "300000001216501-300000001705915",
+    "agent": "shantay",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T14:22:27.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Yes, my name is Scott Lauer and I'm calling to make sure that my prescription was canceled but I just got another batch of meds in the mail and I talked to the gentleman at the beginning of this week or the end of last week who was supposed to cancel this. I'm just making sure.\n\nSpeaker 1: He was going to send me a sample. I want to make sure this is a sample. I'm not being charged for these.\n\nSpeaker 2: Okay, sure, I can take a look into this for you. Can I have your zip code?\n\nSpeaker 1: Yes, 17315 and I also have the RX number here if you'd like to have that.\n\nSpeaker 2: Um, no, I actually was able to pull up your account with your name and zip code so...\n\nSpeaker 1: Yes, I see that one of my colleagues did send you a sample of the Viagra AGV.\n\nSpeaker 2: So what you did receive, that's the AGV and you weren't charged for it. It's a free sample.\n\nSpeaker 1: Okay, and then if these do work for me I can call back and then I can start getting these in replacement, correct?\n\nSpeaker 2: Okay, very good.\n\nSpeaker 1: Okay, very good. That's all I need to make sure.\n\nSpeaker 2: Okay, great. Well, you're all set and you enjoy the rest of your day.\n\nSpeaker 1: Thank you, you too.\n\nSpeaker 2: Thank you, bye-bye.",
+    "duration": 4226,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.380000114440918,
+        "text": " Thank you for calling Viagra. How can I assist you? Yes, my name is Scott Lauer and I'm"
+      },
+      {
+        "id": 1,
+        "start": 6.380000114440918,
+        "end": 10.739999771118164,
+        "text": " calling to make sure that my prescription was canceled but I just got"
+      },
+      {
+        "id": 2,
+        "start": 10.739999771118164,
+        "end": 17.520000457763672,
+        "text": " another batch of meds in the mail and I talked to the gentleman at the beginning of this week"
+      },
+      {
+        "id": 3,
+        "start": 17.520000457763672,
+        "end": 22.440000534057617,
+        "text": " or the end of last week was supposed to cancel this. I'm just making sure he was"
+      },
+      {
+        "id": 4,
+        "start": 22.440000534057617,
+        "end": 25.920000076293945,
+        "text": " going to send me a sample. I want to make sure this is a sample. I'm not being"
+      },
+      {
+        "id": 5,
+        "start": 25.920000076293945,
+        "end": 31.079999923706055,
+        "text": " charged for these. Okay, sure, I can take a look into this for you. Can I have your zip code?"
+      },
+      {
+        "id": 6,
+        "start": 31.079999923706055,
+        "end": 38.279998779296875,
+        "text": " Yes, 17315 and I also have the RX number here if you'd like to have that."
+      },
+      {
+        "id": 7,
+        "start": 38.279998779296875,
+        "end": 43.84000015258789,
+        "text": " Um, no, I actually was able to pull up your account with your name and zip code so"
+      },
+      {
+        "id": 8,
+        "start": 43.84000015258789,
+        "end": 50.560001373291016,
+        "text": " yes, I see that one of my colleagues did send you a sample of the Viagra AGV so"
+      },
+      {
+        "id": 9,
+        "start": 50.560001373291016,
+        "end": 54.040000915527344,
+        "text": " what you did receive that's the AGV and you weren't charged for it. It's a free"
+      },
+      {
+        "id": 10,
+        "start": 54.040000915527344,
+        "end": 59.2400016784668,
+        "text": " sample. Okay, and then if these do work for me I can call back and then I can"
+      },
+      {
+        "id": 11,
+        "start": 59.2400016784668,
+        "end": 64.5999984741211,
+        "text": " start getting these in replacement, correct? Okay, very good. Okay, very good."
+      },
+      {
+        "id": 12,
+        "start": 64.5999984741211,
+        "end": 70.08000183105469,
+        "text": " That's all I need to make sure. Okay, great. Well, you're all set and you enjoy the rest of your day."
+      },
+      {
+        "id": 13,
+        "start": 70.08000183105469,
+        "end": 74.83999633789062,
+        "text": " Thank you, you too. Thank you, bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813f-b325-f1bc171f8b34",
+    "url": "https://www.notion.so/300000001216501-300000001705915-2f611d0a101c813fb325f1bc171f8b34"
+  },
+  "processedAt": "2026-01-28T13:30:36.932Z"
+}

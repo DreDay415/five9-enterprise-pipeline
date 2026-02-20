@@ -1,0 +1,140 @@
+{
+  "recording": {
+    "name": "300000001223077-300000001712638-5756316616 by nickh@superbalife.com @ 1_49_07 PM.wav",
+    "size": 192850,
+    "modifyTime": 1769723487000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223077-300000001712638-5756316616 by nickh@superbalife.com @ 1_49_07 PM.wav",
+    "uploadDate": "2026-01-29T21:51:27.000Z",
+    "callId": "300000001223077-300000001712638",
+    "agent": "nickh",
+    "phoneNumber": "5756316616",
+    "callTimestamp": "2026-01-29T13:49:07.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra at Score Blue. How can I help you today?\n\nSpeaker 2: Yes, you all keep trying to send me some more while you keep trying to tap my credit card, and I need to cancel that.\n\nSpeaker 1: That was supposed to be a one-time deal to try it out, and I never signed up for no prescription or nothing.\n\nSpeaker 2: Okay, well, let me look at your prescription, and we'll see how it was organized. Can I get your full name and date of birth, please?\n\nSpeaker 1: It's Bradley Weber. Date of birth is February 9, 1962.\n\nSpeaker 2: Okay, so, Bradley, what I'm seeing here is the doctor wrote your prescription back in September, and this is for a quantity of 50 of the 50-milligram Viagra. Is that accurate?\n\nSpeaker 1: That's correct.\n\nSpeaker 2: Okay, it looks like the doctor wrote it with refills, so what happened right here, based on the doctor's schedule recommendations, it attempted to go through.\n\nSpeaker 1: Now, you are not charged anything. Nothing has been shipped out, okay?\n\nSpeaker 2: No, I've had it blocked on this end, but I keep trying. I mean, I've said it time and time again, and there's another attempt on it.\n\nSpeaker 1: Okay, well, it's just, you know, this is perfectly adjustable. This is not a subscription. You're not required to get this monthly or bimonthly, or in this case, every three months.\n\nSpeaker 2: If you wanted, you could pause this, all right, so this would not be automatically deducted from your account, and you could just simply call in and place orders as needed.\n\nSpeaker 1: Okay, yeah, I can live with that, but I don't want anything sent regularly.\n\nSpeaker 2: Sure, exactly, so the next time you want a refill, just feel free to give us a call.\n\nSpeaker 1: Okay, that's what I will do, but y'all will stop tapping my card, please?\n\nSpeaker 2: Correct, yes, sir, that's not going to happen.\n\nSpeaker 1: Okay, all right, thank you.\n\nSpeaker 2: Yep, thank you.\n\nSpeaker 1: Bye.",
+    "duration": 4368,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Viagra at Score Blue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 13,
+        "text": " Yes, you all keep trying to send me some more while you keep trying to tap my credit card, and I need to cancel that."
+      },
+      {
+        "id": 2,
+        "start": 13,
+        "end": 22,
+        "text": " That was supposed to be a one-time deal to try it out, and I never signed up for no prescription or nothing."
+      },
+      {
+        "id": 3,
+        "start": 22,
+        "end": 30,
+        "text": " Okay, well, let me look at your prescription, and we'll see how it was organized. Can I get your full name and date of birth, please?"
+      },
+      {
+        "id": 4,
+        "start": 30,
+        "end": 43,
+        "text": " It's Bradley Weber. Date of birth is February 9, 1962."
+      },
+      {
+        "id": 5,
+        "start": 43,
+        "end": 55,
+        "text": " Okay, so, Bradley, what I'm seeing here is the doctor wrote your prescription back in September, and this is for a quantity of 50 of the 50-milligram Viagra. Is that accurate?"
+      },
+      {
+        "id": 6,
+        "start": 55,
+        "end": 57,
+        "text": " That's correct."
+      },
+      {
+        "id": 7,
+        "start": 57,
+        "end": 66,
+        "text": " Okay, it looks like the doctor wrote it with refills, so what happened right here, based on the doctor's schedule recommendations, it attempted to go through."
+      },
+      {
+        "id": 8,
+        "start": 66,
+        "end": 71,
+        "text": " Now, you are not charged anything. Nothing has been shipped out, okay?"
+      },
+      {
+        "id": 9,
+        "start": 71,
+        "end": 77,
+        "text": " No, I've had it blocked on this end, but I keep trying. I mean, I've said it time and time again, and there's another attempt on it."
+      },
+      {
+        "id": 10,
+        "start": 77,
+        "end": 85,
+        "text": " Okay, well, it's just, you know, this is perfectly adjustable. This is not a subscription. You're not required to get this monthly or bimonthly, or in this case, every three months."
+      },
+      {
+        "id": 11,
+        "start": 85,
+        "end": 94,
+        "text": " If you wanted, you could pause this, all right, so this would not be automatically deducted from your account, and you could just simply call in and place orders as needed."
+      },
+      {
+        "id": 12,
+        "start": 94,
+        "end": 100,
+        "text": " Okay, yeah, I can live with that, but I don't want anything sent regularly."
+      },
+      {
+        "id": 13,
+        "start": 100,
+        "end": 104,
+        "text": " Sure, exactly, so the next time you want a refill, just feel free to give us a call."
+      },
+      {
+        "id": 14,
+        "start": 104,
+        "end": 110,
+        "text": " Okay, that's what I will do, but y'all will stop tapping my card, please?"
+      },
+      {
+        "id": 15,
+        "start": 110,
+        "end": 112,
+        "text": " Correct, yes, sir, that's not going to happen."
+      },
+      {
+        "id": 16,
+        "start": 112,
+        "end": 114,
+        "text": " Okay, all right, thank you."
+      },
+      {
+        "id": 17,
+        "start": 114,
+        "end": 116,
+        "text": " Yep, thank you."
+      },
+      {
+        "id": 18,
+        "start": 116,
+        "end": 118,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8125-b3ef-cf5ec4868bf6",
+    "url": "https://www.notion.so/300000001223077-300000001712638-2f711d0a101c8125b3efcf5ec4868bf6"
+  },
+  "processedAt": "2026-01-29T22:09:12.782Z"
+}

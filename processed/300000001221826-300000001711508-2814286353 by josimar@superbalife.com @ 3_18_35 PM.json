@@ -1,0 +1,68 @@
+{
+  "recording": {
+    "name": "300000001221826-300000001711508-2814286353 by josimar@superbalife.com @ 3_18_35 PM.wav",
+    "size": 106920,
+    "modifyTime": 1769642406000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221826-300000001711508-2814286353 by josimar@superbalife.com @ 3_18_35 PM.wav",
+    "uploadDate": "2026-01-28T23:20:06.000Z",
+    "callId": "300000001221826-300000001711508",
+    "agent": "josimar",
+    "phoneNumber": "2814286353",
+    "callTimestamp": "2026-01-28T15:18:35.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yeah, this is Morris Thomas. Y'all put the field the wrong address on my shippin' my\n\nSpeaker 2: stuff. Sorry, let me take a look at this here. What's your last name and the zip code?\n\nSpeaker 1: Last name is Thomas, T-H-O-M-A-S. Zip code is 77514.\n\nSpeaker 2: Okay, so I see this was shipped out to P.O. Box 67 in Texas.\n\nSpeaker 1: Yeah, but you got apartment 49 on there. This is going to the post office.\n\nSpeaker 2: No, no, this order is going to P.O. Box 67 at Anahoak, Texas, 77514.\n\nSpeaker 1: Okay, but the email I got, it says P.O. Box 67, apartment 49.\n\nSpeaker 2: No, no, it'll be going to the P.O. Box. That's where it's been shipped, yeah.\n\nSpeaker 1: Okay. No problem. Have a good day, sir.\n\nSpeaker 2: Thank you.",
+    "duration": 2208,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 11.600000381469727,
+        "text": " Yeah, this is Morris Thomas. Y'all put the field the wrong address on my shippin' my"
+      },
+      {
+        "id": 1,
+        "start": 11.600000381469727,
+        "end": 22.799999237060547,
+        "text": " stuff. Sorry, let me take a look at this here. What's your last name in the zip code? Last"
+      },
+      {
+        "id": 2,
+        "start": 22.799999237060547,
+        "end": 32.79999923706055,
+        "text": " name is Thomas, T-H-O-M-A-S. Zip code is B-7-7-5-1-4. Okay, so I see this was shipped out to P.O."
+      },
+      {
+        "id": 3,
+        "start": 32.79999923706055,
+        "end": 40.79999923706055,
+        "text": " Box 67 in Texas. Yeah, but you got apartment 49 on there. This is going to the post office."
+      },
+      {
+        "id": 4,
+        "start": 40.79999923706055,
+        "end": 50.79999923706055,
+        "text": " No, no, this order is going to P.O. Box 67 at Anahoak, Texas, 77514. Okay, but the email"
+      },
+      {
+        "id": 5,
+        "start": 50.79999923706055,
+        "end": 57.79999923706055,
+        "text": " I got, it says P.O. Box 67, apartment 49. No, no, it'll be going to the P.O. Box. That's"
+      },
+      {
+        "id": 6,
+        "start": 57.79999923706055,
+        "end": 65.80000305175781,
+        "text": " where it's been shipped, yeah. Okay. No problem. Have a good day, sir. Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816c-8e87-c3baec093ed5",
+    "url": "https://www.notion.so/300000001221826-300000001711508-2f611d0a101c816c8e87c3baec093ed5"
+  },
+  "processedAt": "2026-01-28T23:21:44.860Z"
+}

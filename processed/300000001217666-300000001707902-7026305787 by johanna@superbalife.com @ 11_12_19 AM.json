@@ -1,0 +1,356 @@
+{
+  "recording": {
+    "name": "300000001217666-300000001707902-7026305787 by johanna@superbalife.com @ 11_12_19 AM.wav",
+    "size": 361526,
+    "modifyTime": 1769584931000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217666-300000001707902-7026305787 by johanna@superbalife.com @ 11_12_19 AM.wav",
+    "uploadDate": "2026-01-28T07:22:11.000Z",
+    "callId": "300000001217666-300000001707902",
+    "agent": "johanna",
+    "phoneNumber": "7026305787",
+    "callTimestamp": "2026-01-28T11:12:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, Joanna speaking, how can I help you?\n\nSpeaker 2: Yes ma'am, my name is Danilo Paoli.\n\nSpeaker 1: I would like to just clarify that my previous order was only a one-time transaction,\n\nSpeaker 2: Why are they charging my PayPal?\n\nSpeaker 1: Okay, let me pull up your account, can I get your name and date of birth?\n\nSpeaker 2: I did not ask for a refill, but along the line there's a charge in my PayPal.\n\nSpeaker 1: Okay sir, can I get your name and date of birth?\n\nSpeaker 2: $413.\n\nSpeaker 1: Can I get your name and date of birth?\n\nSpeaker 2: My name is Danilo, my name is Danilo Paoli, October 19, 1954.\n\nSpeaker 1: Okay, thank you, I have your account here, I do see that you are a VIP status customer,\n\nSpeaker 2: And how did it work out with the Viagra 100 milligram which you received?\n\nSpeaker 1: Were you happy with the results?\n\nSpeaker 2: The previous time we had a problem, I ordered the AGB, they just gave me a regular Viagra,\n\nSpeaker 1: That's why I told them to replace it.\n\nSpeaker 2: Then along the line I told them this is a one-time transaction.\n\nSpeaker 1: Okay, did you have an opportunity to try the AGB that we sent you?\n\nSpeaker 2: No, I didn't take it because it never worked, that's why I didn't order anymore.\n\nSpeaker 1: Now I was surprised, there's another charge on my card, on my PayPal account.\n\nSpeaker 2: Okay, but you haven't tried the AGB that we sent you?\n\nSpeaker 1: Yeah, it never worked.\n\nSpeaker 2: So, because I know we sent you the generic first, and so you're saying that the AGB that we sent you didn't work for you either?\n\nSpeaker 1: No, it's the same thing, the same thing that they sent to me.\n\nSpeaker 2: I guess what?\n\nSpeaker 1: I know they look the same, but they are actually different.\n\nSpeaker 2: No, let me clarify, I want you guys to stop charging my PayPal.\n\nSpeaker 1: Okay, that's not a problem, sir.\n\nSpeaker 2: I didn't ask for a reason.\n\nSpeaker 1: As a VIP status customer, you have the option to set up your account however you want.\n\nSpeaker 2: You're not locked into any monthly fees or a monthly subscription.\n\nSpeaker 1: We're not a subscription.\n\nSpeaker 2: We are a telehealth, so you actually can set up your account however you want.\n\nSpeaker 1: You can modify the frequency and quantity of your orders.\n\nSpeaker 2: You can also put a pause on your account for up to six months at any time.\n\nSpeaker 1: That way, if you wish to place a future refill order with us, you'll have access to it.\n\nSpeaker 2: No, no, I want you guys to stop charging my PayPal.\n\nSpeaker 1: This is a one-time transaction only, before I mention it again.\n\nSpeaker 2: Why do I have to charge again?\n\nSpeaker 1: I want you guys to refund that money to my PayPal.\n\nSpeaker 2: Okay, I'll go ahead and do that, sir, and you will be canceled.\n\nSpeaker 1: You will not be able to order with us again.\n\nSpeaker 2: Yeah, I want you guys to refund my money to my account.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I didn't ask for a refill.\n\nSpeaker 1: Okay, I understood.\n\nSpeaker 2: I've gone ahead and issued a refund for that and canceled your account,\n\nSpeaker 1: and you will not be able to order any Viagra with us again in the future.\n\nSpeaker 2: Yeah, I stopped that on my PayPal also.\n\nSpeaker 1: Are you guys going to return that money to my account?\n\nSpeaker 2: Yes, it can take up to five business days.\n\nSpeaker 1: Okay, what's your name again, ma'am?\n\nSpeaker 2: Juliana.\n\nSpeaker 1: Juliana. Thank you very much, Juliana.\n\nSpeaker 2: Okay, thank you, sir. Have a good day.\n\nSpeaker 1: You too. Bye-bye.",
+    "duration": 9323,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra, Joanna speaking, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Yes ma'am, my name is Danilo Paoli."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 16,
+        "text": " I would like to just clarify that my previous order was only a one-time transaction,"
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 19,
+        "text": " why are they charging my PayPal?"
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 23,
+        "text": " Okay, let me pull up your account, can I get your name and date of birth?"
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 28,
+        "text": " I did not ask for a refill, but along the line there's a charge in my PayPal."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 30,
+        "text": " Okay sir, can I get your name and date of birth?"
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 31,
+        "text": " $413."
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 33,
+        "text": " Can I get your name and date of birth?"
+      },
+      {
+        "id": 9,
+        "start": 33,
+        "end": 39,
+        "text": " My name is Danilo, my name is Danilo Paoli, October 19, 1954."
+      },
+      {
+        "id": 10,
+        "start": 39,
+        "end": 45,
+        "text": " Okay, thank you, I have your account here, I do see that you are a VIP status customer,"
+      },
+      {
+        "id": 11,
+        "start": 45,
+        "end": 50,
+        "text": " and how did it work out with the Viagra 100 milligram which you received?"
+      },
+      {
+        "id": 12,
+        "start": 50,
+        "end": 52,
+        "text": " Were you happy with the results?"
+      },
+      {
+        "id": 13,
+        "start": 53,
+        "end": 59,
+        "text": " The previous time we had a problem, I ordered the AGB, they just gave me a regular Viagra,"
+      },
+      {
+        "id": 14,
+        "start": 59,
+        "end": 62,
+        "text": " that's why I told them to replace it."
+      },
+      {
+        "id": 15,
+        "start": 62,
+        "end": 68,
+        "text": " Then along the line I told them this is a one-time transaction."
+      },
+      {
+        "id": 16,
+        "start": 68,
+        "end": 73,
+        "text": " Okay, did you have an opportunity to try the AGB that we sent you?"
+      },
+      {
+        "id": 17,
+        "start": 73,
+        "end": 78,
+        "text": " No, I didn't take it because it never worked, that's why I didn't order anymore."
+      },
+      {
+        "id": 18,
+        "start": 78,
+        "end": 85,
+        "text": " Now I was surprised, there's another charge on my card, on my PayPal account."
+      },
+      {
+        "id": 19,
+        "start": 85,
+        "end": 88,
+        "text": " Okay, but you haven't tried the AGB that we sent you?"
+      },
+      {
+        "id": 20,
+        "start": 88,
+        "end": 90,
+        "text": " Yeah, it never worked."
+      },
+      {
+        "id": 21,
+        "start": 93,
+        "end": 101,
+        "text": " So, because I know we sent you the generic first, and so you're saying that the AGB that we sent you didn't work for you either?"
+      },
+      {
+        "id": 22,
+        "start": 101,
+        "end": 105,
+        "text": " No, it's the same thing, the same thing that the one they sent it to me."
+      },
+      {
+        "id": 23,
+        "start": 106,
+        "end": 108,
+        "text": " I guess what?"
+      },
+      {
+        "id": 24,
+        "start": 108,
+        "end": 112,
+        "text": " I know they look the same, but they are actually different."
+      },
+      {
+        "id": 25,
+        "start": 116,
+        "end": 122,
+        "text": " No, let me clarify, I want you guys to stop charging my PayPal."
+      },
+      {
+        "id": 26,
+        "start": 122,
+        "end": 125,
+        "text": " Okay, that's not a problem, sir."
+      },
+      {
+        "id": 27,
+        "start": 125,
+        "end": 127,
+        "text": " I didn't ask for a reason."
+      },
+      {
+        "id": 28,
+        "start": 127,
+        "end": 131,
+        "text": " As a VIP status customer, you have the option to set up your account however you want."
+      },
+      {
+        "id": 29,
+        "start": 131,
+        "end": 135,
+        "text": " You're not locked into any monthly fees or a monthly subscription."
+      },
+      {
+        "id": 30,
+        "start": 135,
+        "end": 137,
+        "text": " We're not a subscription."
+      },
+      {
+        "id": 31,
+        "start": 137,
+        "end": 142,
+        "text": " We are a telehealth, so you actually can set up your account however you want."
+      },
+      {
+        "id": 32,
+        "start": 142,
+        "end": 145,
+        "text": " You can modify the frequency and quantity of your orders."
+      },
+      {
+        "id": 33,
+        "start": 145,
+        "end": 149,
+        "text": " You can also put a pause on your account for up to six months at any time."
+      },
+      {
+        "id": 34,
+        "start": 149,
+        "end": 154,
+        "text": " That way, if you wish to place a future refill order with us, you'll have access to it."
+      },
+      {
+        "id": 35,
+        "start": 154,
+        "end": 157,
+        "text": " No, no, I want you guys to stop charging my PayPal."
+      },
+      {
+        "id": 36,
+        "start": 158,
+        "end": 163,
+        "text": " This is a one-time transaction only, before I mention it again."
+      },
+      {
+        "id": 37,
+        "start": 163,
+        "end": 166,
+        "text": " Why do I have to charge again?"
+      },
+      {
+        "id": 38,
+        "start": 166,
+        "end": 169,
+        "text": " I want you guys to refund that money to my PayPal."
+      },
+      {
+        "id": 39,
+        "start": 169,
+        "end": 174,
+        "text": " Okay, I'll go ahead and do that, sir, and you will be canceled."
+      },
+      {
+        "id": 40,
+        "start": 174,
+        "end": 177,
+        "text": " You will not be able to order with us again."
+      },
+      {
+        "id": 41,
+        "start": 177,
+        "end": 181,
+        "text": " Yeah, I want you guys to refund my money to my account."
+      },
+      {
+        "id": 42,
+        "start": 181,
+        "end": 182,
+        "text": " Okay."
+      },
+      {
+        "id": 43,
+        "start": 182,
+        "end": 184,
+        "text": " I didn't ask for a refill."
+      },
+      {
+        "id": 44,
+        "start": 185,
+        "end": 187,
+        "text": " Okay, I understood."
+      },
+      {
+        "id": 45,
+        "start": 187,
+        "end": 190,
+        "text": " I've gone ahead and issued a refund for that and canceled your account,"
+      },
+      {
+        "id": 46,
+        "start": 190,
+        "end": 196,
+        "text": " and you will not be able to order any Viagra with us again in the future."
+      },
+      {
+        "id": 47,
+        "start": 196,
+        "end": 200,
+        "text": " Yeah, I stopped that on my PayPal also."
+      },
+      {
+        "id": 48,
+        "start": 200,
+        "end": 204,
+        "text": " Are you guys going to return that money to my account?"
+      },
+      {
+        "id": 49,
+        "start": 204,
+        "end": 208,
+        "text": " Yes, it can take up to five business days."
+      },
+      {
+        "id": 50,
+        "start": 208,
+        "end": 211,
+        "text": " Okay, what's your name again, ma'am?"
+      },
+      {
+        "id": 51,
+        "start": 211,
+        "end": 213,
+        "text": " Juliana."
+      },
+      {
+        "id": 52,
+        "start": 213,
+        "end": 215,
+        "text": " Juliana. Thank you very much, Juliana."
+      },
+      {
+        "id": 53,
+        "start": 215,
+        "end": 218,
+        "text": " Okay, thank you, sir. Have a good day."
+      },
+      {
+        "id": 54,
+        "start": 218,
+        "end": 220,
+        "text": " You too. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81f7-955d-ddc0bb7a09e9",
+    "url": "https://www.notion.so/300000001217666-300000001707902-2f611d0a101c81f7955dddc0bb7a09e9"
+  },
+  "processedAt": "2026-01-28T14:48:46.702Z"
+}

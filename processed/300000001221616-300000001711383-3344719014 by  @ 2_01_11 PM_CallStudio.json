@@ -1,0 +1,67 @@
+{
+  "recording": {
+    "name": "300000001221616-300000001711383-3344719014 by  @ 2_01_11 PM_CallStudio.wav",
+    "size": 46730,
+    "modifyTime": 1769637722000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221616-300000001711383-3344719014 by  @ 2_01_11 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T22:02:02.000Z",
+    "callId": "300000001221616-300000001711383",
+    "phoneNumber": "3344719014",
+    "callTimestamp": "2026-01-28T22:02:02.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: We didn't receive a response, or I couldn't hear you.\n\nSpeaker 2: Let's try again.\n\nSpeaker 1: Please state the reason for your call.\n\nSpeaker 2: Representative.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1164,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 17,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 17,
+        "end": 20.239999771118164,
+        "text": " We didn't receive a response, or I couldn't hear your."
+      },
+      {
+        "id": 3,
+        "start": 20.239999771118164,
+        "end": 21.760000228881836,
+        "text": " Let's try again."
+      },
+      {
+        "id": 4,
+        "start": 21.760000228881836,
+        "end": 24.479999542236328,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 5,
+        "start": 24.479999542236328,
+        "end": 27.239999771118164,
+        "text": " Representative."
+      },
+      {
+        "id": 6,
+        "start": 27.239999771118164,
+        "end": 28.479999542236328,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8146-9fed-cf03a9e5a57e",
+    "url": "https://www.notion.so/300000001221616-300000001711383-2f611d0a101c81469fedcf03a9e5a57e"
+  },
+  "processedAt": "2026-01-28T22:20:56.768Z"
+}

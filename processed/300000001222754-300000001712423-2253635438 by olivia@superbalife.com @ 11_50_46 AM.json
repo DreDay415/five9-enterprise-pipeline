@@ -1,0 +1,38 @@
+{
+  "recording": {
+    "name": "300000001222754-300000001712423-2253635438 by olivia@superbalife.com @ 11_50_46 AM.wav",
+    "size": 13126,
+    "modifyTime": 1769716261000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222754-300000001712423-2253635438 by olivia@superbalife.com @ 11_50_46 AM.wav",
+    "uploadDate": "2026-01-29T19:51:01.000Z",
+    "callId": "300000001222754-300000001712423",
+    "agent": "olivia",
+    "phoneNumber": "2253635438",
+    "callTimestamp": "2026-01-29T11:50:46.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I'm sorry, but the person you called has a voice mailbox that has not been set up yet.\n\nSpeaker 2: Goodbye.",
+    "duration": 748,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " I'm sorry, but the person you called has a voice mailbox that has not been set up yet."
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 8,
+        "text": " Goodbye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81d0-8d31-cb73f425ef51",
+    "url": "https://www.notion.so/300000001222754-300000001712423-2f711d0a101c81d08d31cb73f425ef51"
+  },
+  "processedAt": "2026-01-29T21:49:15.756Z"
+}

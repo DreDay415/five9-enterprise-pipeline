@@ -1,0 +1,83 @@
+{
+  "recording": {
+    "name": "300000001241177-300000001730678-2408582888 by olivia@superbalife.com @ 3_27_34 PM.wav",
+    "size": 36850,
+    "modifyTime": 1770938900000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241177-300000001730678-2408582888 by olivia@superbalife.com @ 3_27_34 PM.wav",
+    "uploadDate": "2026-02-12T23:28:20.000Z",
+    "callId": "300000001241177-300000001730678",
+    "agent": "olivia",
+    "phoneNumber": "2408582888",
+    "callTimestamp": "2026-02-12T15:27:34.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_olivia_300000001241177-300000001730678_2408582888.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_olivia_300000001241177-300000001730678_2408582888.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, this is Olivia speaking.\n\nSpeaker 2: Who do I have the pleasure of speaking with?\n\nSpeaker 1: Oh, my name is Johnny Miranda.\n\nSpeaker 2: Do you have somebody who speaks Spanish or English as well?\n\nSpeaker 1: Yeah, yeah.\n\nSpeaker 2: Give me just one moment.\n\nSpeaker 1: I'll transfer you.\n\nSpeaker 2: Okay, thanks.\n\nSpeaker 1: Okay, thank you.",
+    "duration": 935,
+    "audioDuration": 22.639999389648438,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you for calling Viagra, this is Olivia speaking."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 9,
+        "text": " Who do I have the pleasure of speaking with?"
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 10,
+        "text": " Oh, my name is Johnny Miranda."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 14,
+        "text": " Do you have somebody who speaks Spanish or English as well?"
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 16,
+        "text": " Yeah, yeah."
+      },
+      {
+        "id": 5,
+        "start": 16,
+        "end": 18,
+        "text": " Give me just one moment."
+      },
+      {
+        "id": 6,
+        "start": 18,
+        "end": 20,
+        "text": " I'll transfer you."
+      },
+      {
+        "id": 7,
+        "start": 20,
+        "end": 21,
+        "text": " Okay, thanks."
+      },
+      {
+        "id": 8,
+        "start": 21,
+        "end": 23,
+        "text": " Okay, thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8164-a13d-de7636ea781e",
+    "url": "https://www.notion.so/300000001241177-300000001730678-30611d0a101c8164a13dde7636ea781e"
+  },
+  "processedAt": "2026-02-13T00:08:04.793Z"
+}

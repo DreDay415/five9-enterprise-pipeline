@@ -1,0 +1,188 @@
+{
+  "recording": {
+    "name": "300000001218255-300000001708289-5044851600 by nickh@superbalife.com @ 1_59_27 PM.wav",
+    "size": 88006,
+    "modifyTime": 1769586136000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218255-300000001708289-5044851600 by nickh@superbalife.com @ 1_59_27 PM.wav",
+    "uploadDate": "2026-01-28T07:42:16.000Z",
+    "callId": "300000001218255-300000001708289",
+    "agent": "nickh",
+    "phoneNumber": "5044851600",
+    "callTimestamp": "2026-01-28T13:59:27.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra at Score Blue.\n\nSpeaker 2: How can I help you today?\n\nSpeaker 1: Hi, man, my name's George Plazon.\n\nSpeaker 2: I was going to get my medicine refilled,\n\nSpeaker 1: but I actually have quite a bit of it now,\n\nSpeaker 2: more than I thought I did, so I wanted to delay my order.\n\nSpeaker 1: Okay.\n\nSpeaker 2: George, yeah, could you just confirm\n\nSpeaker 1: your date of birth for me?\n\nSpeaker 2: Sure, 1-30-72.\n\nSpeaker 1: All right, so George, right now\n\nSpeaker 2: it's currently paused until May.\n\nSpeaker 1: You want me to push that back to August?\n\nSpeaker 2: That would be great, man.\n\nSpeaker 1: That would be awesome.\n\nSpeaker 2: Okay, let me get that one second.\n\nSpeaker 1: All right.\n\nSpeaker 2: Yeah, I definitely don't want to cancel.\n\nSpeaker 1: I just need to push it back a little bit.\n\nSpeaker 2: Yeah, anytime you call, we can do that for you.\n\nSpeaker 1: So I went ahead and adjusted it.\n\nSpeaker 2: Okay, great, man.\n\nSpeaker 1: Thanks a bunch.\n\nSpeaker 2: Yeah, happy to help.\n\nSpeaker 1: Have a good day, buddy.\n\nSpeaker 2: You too, bye-bye.\n\nSpeaker 1: Thank you.",
+    "duration": 2437,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.5799999237060547,
+        "text": " Hi, thank you so much for calling Viagra at Score Blue."
+      },
+      {
+        "id": 1,
+        "start": 2.5799999237060547,
+        "end": 4.5,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 2,
+        "start": 4.5,
+        "end": 6.78000020980835,
+        "text": " Hi, man, my name's George Plazon."
+      },
+      {
+        "id": 3,
+        "start": 6.78000020980835,
+        "end": 10.579999923706055,
+        "text": " I was going to get my medicine refilled,"
+      },
+      {
+        "id": 4,
+        "start": 10.579999923706055,
+        "end": 13.0600004196167,
+        "text": " but I actually have quite a bit of it now,"
+      },
+      {
+        "id": 5,
+        "start": 13.0600004196167,
+        "end": 17.700000762939453,
+        "text": " more than I thought I did, so I wanted to delay my order."
+      },
+      {
+        "id": 6,
+        "start": 18.579999923706055,
+        "end": 19.420000076293945,
+        "text": " Okay."
+      },
+      {
+        "id": 7,
+        "start": 20.459999084472656,
+        "end": 21.579999923706055,
+        "text": " George, yeah, could you just confirm"
+      },
+      {
+        "id": 8,
+        "start": 21.579999923706055,
+        "end": 23.540000915527344,
+        "text": " your date of birth for me?"
+      },
+      {
+        "id": 9,
+        "start": 23.540000915527344,
+        "end": 25.540000915527344,
+        "text": " Sure, 1-30-1-72."
+      },
+      {
+        "id": 10,
+        "start": 26.420000076293945,
+        "end": 28.020000457763672,
+        "text": " All right, so George, right now"
+      },
+      {
+        "id": 11,
+        "start": 28.020000457763672,
+        "end": 29.420000076293945,
+        "text": " it's currently paused until May."
+      },
+      {
+        "id": 12,
+        "start": 29.420000076293945,
+        "end": 31.979999542236328,
+        "text": " You want me to push that back to August?"
+      },
+      {
+        "id": 13,
+        "start": 31.979999542236328,
+        "end": 33.29999923706055,
+        "text": " That would be great, man."
+      },
+      {
+        "id": 14,
+        "start": 33.29999923706055,
+        "end": 34.97999954223633,
+        "text": " That would be awesome."
+      },
+      {
+        "id": 15,
+        "start": 34.97999954223633,
+        "end": 37.29999923706055,
+        "text": " Okay, let me get that one second."
+      },
+      {
+        "id": 16,
+        "start": 37.29999923706055,
+        "end": 38.220001220703125,
+        "text": " All right."
+      },
+      {
+        "id": 17,
+        "start": 38.220001220703125,
+        "end": 39.58000183105469,
+        "text": " Yeah, I definitely don't want to cancel."
+      },
+      {
+        "id": 18,
+        "start": 39.58000183105469,
+        "end": 41.540000915527344,
+        "text": " I just need to push it back a little bit."
+      },
+      {
+        "id": 19,
+        "start": 41.540000915527344,
+        "end": 43.939998626708984,
+        "text": " Yeah, anytime you call, we can do that for you."
+      },
+      {
+        "id": 20,
+        "start": 43.939998626708984,
+        "end": 45.540000915527344,
+        "text": " So I went ahead and adjusted it."
+      },
+      {
+        "id": 21,
+        "start": 46.5,
+        "end": 47.65999984741211,
+        "text": " Okay, great, man."
+      },
+      {
+        "id": 22,
+        "start": 47.65999984741211,
+        "end": 48.939998626708984,
+        "text": " Thanks a bunch."
+      },
+      {
+        "id": 23,
+        "start": 48.939998626708984,
+        "end": 50.779998779296875,
+        "text": " Yeah, happy to help."
+      },
+      {
+        "id": 24,
+        "start": 50.779998779296875,
+        "end": 52.29999923706055,
+        "text": " Have a good day, buddy."
+      },
+      {
+        "id": 25,
+        "start": 52.29999923706055,
+        "end": 53.7400016784668,
+        "text": " You too, bye-bye."
+      },
+      {
+        "id": 26,
+        "start": 53.7400016784668,
+        "end": 54.58000183105469,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8189-9cfb-e3fd9fb734c2",
+    "url": "https://www.notion.so/300000001218255-300000001708289-2f611d0a101c81899cfbe3fd9fb734c2"
+  },
+  "processedAt": "2026-01-28T14:00:54.295Z"
+}

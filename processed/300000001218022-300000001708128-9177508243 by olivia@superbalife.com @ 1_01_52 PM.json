@@ -1,0 +1,224 @@
+{
+  "recording": {
+    "name": "300000001218022-300000001708128-9177508243 by olivia@superbalife.com @ 1_01_52 PM.wav",
+    "size": 154890,
+    "modifyTime": 1769592141000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218022-300000001708128-9177508243 by olivia@superbalife.com @ 1_01_52 PM.wav",
+    "uploadDate": "2026-01-28T09:22:21.000Z",
+    "callId": "300000001218022-300000001708128",
+    "agent": "olivia",
+    "phoneNumber": "9177508243",
+    "callTimestamp": "2026-01-28T13:01:52.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, this is Livia speaking.\n\nSpeaker 2: Who do I have the pleasure of speaking with today?\n\nSpeaker 1: I just want to put a stop, I'll pause on my payments,\n\nSpeaker 2: because I still have plenty of the other ones that I've got for my prescription.\n\nSpeaker 1: Yeah, I can definitely help you with this.\n\nSpeaker 2: Okay, what is your date of birth?\n\nSpeaker 1: 9-29-81.\n\nSpeaker 2: Perfect.\n\nSpeaker 1: And you're located at 3002 93rd Street, East Elmhurst, New York?\n\nSpeaker 2: Yep.\n\nSpeaker 1: Okay, yeah.\n\nSpeaker 2: So you can place your prescription on hold for up to six months at a time.\n\nSpeaker 1: You could do shorter if you want.\n\nSpeaker 2: You could do like three months, four months, five months, two months,\n\nSpeaker 1: whatever you want to do.\n\nSpeaker 2: How do you think you want to do?\n\nSpeaker 1: For now.\n\nSpeaker 2: But if anything, I could always update or order if I run out, correct?\n\nSpeaker 1: Yeah, you could place it on hold for like five months,\n\nSpeaker 2: and then if you want to order before then you can,\n\nSpeaker 1: you just have to give us a call to place the order yourself.\n\nSpeaker 2: Okay, sounds good.\n\nSpeaker 1: All right, so I'll leave it on hold for two months.\n\nSpeaker 2: Okay, great.\n\nSpeaker 1: So, yeah, if you need anything before March 36th, then just give us a call.\n\nSpeaker 2: We're always here.\n\nSpeaker 1: Sounds good.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay, thank you, Jose.\n\nSpeaker 2: I hope you have a great day.\n\nSpeaker 1: You too.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Okay, bye.",
+    "duration": 3372,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you for calling Viagra, this is Livia speaking."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 8,
+        "text": " Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " I just want to put a stop, I'll pause on my payments,"
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 16,
+        "text": " because I still have plenty of the other ones that I've got for my prescription."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 19,
+        "text": " Yeah, I can definitely help you with this."
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 23,
+        "text": " Okay, what is your date of birth?"
+      },
+      {
+        "id": 6,
+        "start": 23,
+        "end": 26,
+        "text": " 9-29-81."
+      },
+      {
+        "id": 7,
+        "start": 26,
+        "end": 28,
+        "text": " Perfect."
+      },
+      {
+        "id": 8,
+        "start": 28,
+        "end": 35,
+        "text": " And you're located at 3002 93rd Street, East Elmhurst, New York?"
+      },
+      {
+        "id": 9,
+        "start": 35,
+        "end": 36,
+        "text": " Yep."
+      },
+      {
+        "id": 10,
+        "start": 36,
+        "end": 38,
+        "text": " Okay, yeah."
+      },
+      {
+        "id": 11,
+        "start": 38,
+        "end": 44,
+        "text": " So you can place your prescription on hold for up to six months at a time."
+      },
+      {
+        "id": 12,
+        "start": 44,
+        "end": 46,
+        "text": " You could do shorter if you want."
+      },
+      {
+        "id": 13,
+        "start": 46,
+        "end": 50,
+        "text": " You could do like three months, four months, five months, two months,"
+      },
+      {
+        "id": 14,
+        "start": 50,
+        "end": 52,
+        "text": " whatever you want to do."
+      },
+      {
+        "id": 15,
+        "start": 52,
+        "end": 57,
+        "text": " How do you think you want to do?"
+      },
+      {
+        "id": 16,
+        "start": 57,
+        "end": 58,
+        "text": " For now."
+      },
+      {
+        "id": 17,
+        "start": 58,
+        "end": 63,
+        "text": " But if anything, I could always update or order if I run out, correct?"
+      },
+      {
+        "id": 18,
+        "start": 63,
+        "end": 65,
+        "text": " Yeah, you could place it on hold for like five months,"
+      },
+      {
+        "id": 19,
+        "start": 65,
+        "end": 68,
+        "text": " and then if you want to order before then you can,"
+      },
+      {
+        "id": 20,
+        "start": 68,
+        "end": 72,
+        "text": " you just have to give us a call to place the order yourself."
+      },
+      {
+        "id": 21,
+        "start": 72,
+        "end": 73,
+        "text": " Okay, sounds good."
+      },
+      {
+        "id": 22,
+        "start": 73,
+        "end": 77,
+        "text": " All right, so I'll leave it on hold for two months."
+      },
+      {
+        "id": 23,
+        "start": 77,
+        "end": 79,
+        "text": " Okay, great."
+      },
+      {
+        "id": 24,
+        "start": 79,
+        "end": 85,
+        "text": " So, yeah, if you need anything before March 36th, then just give us a call."
+      },
+      {
+        "id": 25,
+        "start": 85,
+        "end": 87,
+        "text": " We're always here."
+      },
+      {
+        "id": 26,
+        "start": 87,
+        "end": 88,
+        "text": " Sounds good."
+      },
+      {
+        "id": 27,
+        "start": 88,
+        "end": 89,
+        "text": " Thank you."
+      },
+      {
+        "id": 28,
+        "start": 89,
+        "end": 90,
+        "text": " Okay, thank you, Jose."
+      },
+      {
+        "id": 29,
+        "start": 90,
+        "end": 92,
+        "text": " I hope you have a great day."
+      },
+      {
+        "id": 30,
+        "start": 92,
+        "end": 93,
+        "text": " You too."
+      },
+      {
+        "id": 31,
+        "start": 93,
+        "end": 94,
+        "text": " Bye."
+      },
+      {
+        "id": 32,
+        "start": 94,
+        "end": 95,
+        "text": " Okay, bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-815c-b096-ff7942c724e3",
+    "url": "https://www.notion.so/300000001218022-300000001708128-2f611d0a101c815cb096ff7942c724e3"
+  },
+  "processedAt": "2026-01-28T11:02:56.686Z"
+}

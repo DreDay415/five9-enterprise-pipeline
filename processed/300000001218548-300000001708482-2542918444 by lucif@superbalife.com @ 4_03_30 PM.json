@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "name": "300000001218548-300000001708482-2542918444 by lucif@superbalife.com @ 4_03_30 PM.wav",
+    "size": 1750,
+    "modifyTime": 1769586737000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218548-300000001708482-2542918444 by lucif@superbalife.com @ 4_03_30 PM.wav",
+    "uploadDate": "2026-01-28T07:52:17.000Z",
+    "callId": "300000001218548-300000001708482",
+    "agent": "lucif",
+    "phoneNumber": "2542918444",
+    "callTimestamp": "2026-01-28T16:03:30.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you.",
+    "duration": 443,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 0.8399999737739563,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81cf-9b96-c88b7b41bbf6",
+    "url": "https://www.notion.so/300000001218548-300000001708482-2f611d0a101c81cf9b96c88b7b41bbf6"
+  },
+  "processedAt": "2026-01-28T13:37:22.158Z"
+}

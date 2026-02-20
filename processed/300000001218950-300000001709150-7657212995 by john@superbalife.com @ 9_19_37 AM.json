@@ -1,0 +1,152 @@
+{
+  "recording": {
+    "name": "300000001218950-300000001709150-7657212995 by john@superbalife.com @ 9_19_37 AM.wav",
+    "size": 143580,
+    "modifyTime": 1769592741000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218950-300000001709150-7657212995 by john@superbalife.com @ 9_19_37 AM.wav",
+    "uploadDate": "2026-01-28T09:32:21.000Z",
+    "callId": "300000001218950-300000001709150",
+    "agent": "john",
+    "phoneNumber": "7657212995",
+    "callTimestamp": "2026-01-28T09:19:37.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Yeah, this is Matt Winslow, and I ordered some pills several weeks ago.\n\nSpeaker 1: And then they wanted to know what kind of medication I was on. They emailed me. I filled it out.\n\nSpeaker 2: Twice. I sent them a photo of my prescription bottle, and they still tell me I'm not filling out the stuff.\n\nSpeaker 1: I'm like, I don't know what more—\n\nSpeaker 2: I need your zip code.\n\nSpeaker 1: 46135.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, I got you, so I—\n\nSpeaker 2: See, where you answered, if you didn't answer in the email, which is where we were asking for, but I got it here.\n\nSpeaker 1: I'll take care of it for you, the pharmacy.\n\nSpeaker 2: Sir, yeah.\n\nSpeaker 1: I even thinking, but let me finish speaking. Where you sent it to is directly to the doctor. The pharmacy also needs to know this—\n\nSpeaker 2: Information. They don't see where you sent it to, so when they emailed you, it's so we could tell the pharmacy.\n\nSpeaker 1: So I'm telling the pharmacy right now.\n\nSpeaker 2: Yes, and I—they call—I called them and talked to them. I've sent them—\n\nSpeaker 1: I sent them some stuff too, and I—the doctor—\n\nSpeaker 2: Messaged me. I—I understand. I just explained it, where you sent your response. Hey, you don't have to get angry with me.\n\nSpeaker 1: I'm the one spending the money.\n\nSpeaker 2: Don't raise your voice at me ever.\n\nSpeaker 1: Explained it. You don't understand it. Have a good day.",
+    "duration": 3360,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 2.640000104904175,
+        "end": 8.039999961853027,
+        "text": " Yeah, this is Matt Winslow, and I ordered some pills several weeks ago"
+      },
+      {
+        "id": 2,
+        "start": 8.039999961853027,
+        "end": 13.079999923706055,
+        "text": " And then they wanted to know what kind of medication I was on. They emailed me. I filled it out"
+      },
+      {
+        "id": 3,
+        "start": 14.680000305175781,
+        "end": 20.520000457763672,
+        "text": " Twice. I sent them a photo of my prescription bottle, and they still tell me I'm not filling out the stuff"
+      },
+      {
+        "id": 4,
+        "start": 20.520000457763672,
+        "end": 22.520000457763672,
+        "text": " I'm like, I don't know what more"
+      },
+      {
+        "id": 5,
+        "start": 22.520000457763672,
+        "end": 24.520000457763672,
+        "text": " I need your zip code"
+      },
+      {
+        "id": 6,
+        "start": 24.719999313354492,
+        "end": 26.719999313354492,
+        "text": " 46135"
+      },
+      {
+        "id": 7,
+        "start": 31,
+        "end": 33,
+        "text": " Okay"
+      },
+      {
+        "id": 8,
+        "start": 43.720001220703125,
+        "end": 45.720001220703125,
+        "text": " Okay, I got you so I"
+      },
+      {
+        "id": 9,
+        "start": 45.720001220703125,
+        "end": 50.040000915527344,
+        "text": " See where you answered if you didn't answer in the email, which is where we were asking for but I got it here"
+      },
+      {
+        "id": 10,
+        "start": 50.040000915527344,
+        "end": 52.040000915527344,
+        "text": " I'll take care of it for you the pharmacy"
+      },
+      {
+        "id": 11,
+        "start": 52.15999984741211,
+        "end": 52.959999084472656,
+        "text": " Sir, yeah"
+      },
+      {
+        "id": 12,
+        "start": 52.959999084472656,
+        "end": 58.47999954223633,
+        "text": " I even thinking but let me finish speaking where you sent it to is directly to the doctor the pharmacy also needs to know this"
+      },
+      {
+        "id": 13,
+        "start": 58.47999954223633,
+        "end": 63.15999984741211,
+        "text": " Information they don't see where you sent it to so when they emailed you is so we could tell the pharmacy"
+      },
+      {
+        "id": 14,
+        "start": 63.15999984741211,
+        "end": 65.16000366210938,
+        "text": " So I'm telling the pharmacy right now"
+      },
+      {
+        "id": 15,
+        "start": 65.72000122070312,
+        "end": 70.19999694824219,
+        "text": " Yes, and I they call I called them and talked to them. I've sent them"
+      },
+      {
+        "id": 16,
+        "start": 70.19999694824219,
+        "end": 72.80000305175781,
+        "text": " I sent them some stuff to and I the doctor"
+      },
+      {
+        "id": 17,
+        "start": 73.31999969482422,
+        "end": 79.44000244140625,
+        "text": " Messaged me. I I understand. I just explained it where you sent your response. Hey, you don't have to get any with me"
+      },
+      {
+        "id": 18,
+        "start": 79.44000244140625,
+        "end": 81.44000244140625,
+        "text": " I'm the one spending the money"
+      },
+      {
+        "id": 19,
+        "start": 82.19999694824219,
+        "end": 84.36000061035156,
+        "text": " Don't raise your voice at me ever I"
+      },
+      {
+        "id": 20,
+        "start": 84.36000061035156,
+        "end": 88.12000274658203,
+        "text": " Explained it. You don't understand it. Have a good day"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-817f-aefb-c25446ae561d",
+    "url": "https://www.notion.so/300000001218950-300000001709150-2f611d0a101c817faefbc25446ae561d"
+  },
+  "processedAt": "2026-01-28T10:08:23.697Z"
+}

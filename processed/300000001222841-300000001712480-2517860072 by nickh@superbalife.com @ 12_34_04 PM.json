@@ -1,0 +1,170 @@
+{
+  "recording": {
+    "name": "300000001222841-300000001712480-2517860072 by nickh@superbalife.com @ 12_34_04 PM.wav",
+    "size": 132270,
+    "modifyTime": 1769718947000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222841-300000001712480-2517860072 by nickh@superbalife.com @ 12_34_04 PM.wav",
+    "uploadDate": "2026-01-29T20:35:47.000Z",
+    "callId": "300000001222841-300000001712480",
+    "agent": "nickh",
+    "phoneNumber": "2517860072",
+    "callTimestamp": "2026-01-29T12:34:04.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra, I score blue, how can I help you today?\n\nSpeaker 2: Yes, this is Charles Henderson, and I want to go ahead and reorder my prescription.\n\nSpeaker 1: Okay, Charles, can I get your date of birth, please?\n\nSpeaker 2: November 6, 1959.\n\nSpeaker 1: Okay, Charles, your prescription was for the quantity of 25 100-milligram Viagra AGV?\n\nSpeaker 2: Yes, sir.\n\nSpeaker 1: Do you want me to put a refill in for the same order?\n\nSpeaker 2: Oh, yes, sir.\n\nSpeaker 1: Okay, and you're still at 6500 Plantation Court, Mobile, Alabama?\n\nSpeaker 2: Yes, sir.\n\nSpeaker 1: All right, I'll put that through right now.\n\nSpeaker 2: Can I get that shipped express?\n\nSpeaker 1: You can, yes.\n\nSpeaker 2: Okay, so on your card, it would be $23 or $33, excuse me, $28 or $38, so today or next day air?\n\nSpeaker 1: Why don't we just do two-day?\n\nSpeaker 2: All right, two-day, okay.\n\nSpeaker 1: So on your card, you will see two charges.\n\nSpeaker 2: One will be for the prescription itself, the other will be $28 for the two-day, okay?\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, I went ahead and put that through for you, and you're all set.\n\nSpeaker 1: Okay, thanks, I appreciate you.\n\nSpeaker 2: You got it. Happy to help. Thank you.\n\nSpeaker 1: Okay, you too, man. Thank you. Bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 3996,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi, thank you so much for calling Viagra, I score blue, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 11,
+        "text": " Yes, this is Charles Henderson, and I want to go ahead and reorder my prescription."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 15,
+        "text": " Okay, Charles, can I get your date of birth, please?"
+      },
+      {
+        "id": 3,
+        "start": 15,
+        "end": 20,
+        "text": " November 6, 1959."
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 25,
+        "text": " Okay, Charles, your prescription was for the quantity of 25 100-milligram Viagra AGV?"
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 27,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 30,
+        "text": " Do you want me to put a refill in for the same order?"
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 32,
+        "text": " Oh, yes, sir."
+      },
+      {
+        "id": 8,
+        "start": 32,
+        "end": 36,
+        "text": " Okay, and you're still at 6500 Plantation Court, Mobile, Alabama?"
+      },
+      {
+        "id": 9,
+        "start": 36,
+        "end": 38,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 10,
+        "start": 38,
+        "end": 41,
+        "text": " All right, I'll put that through right now."
+      },
+      {
+        "id": 11,
+        "start": 41,
+        "end": 45,
+        "text": " Can I get that shipped express?"
+      },
+      {
+        "id": 12,
+        "start": 45,
+        "end": 47,
+        "text": " You can, yes."
+      },
+      {
+        "id": 13,
+        "start": 47,
+        "end": 57,
+        "text": " Okay, so on your card, it would be $23 or $33, excuse me, $28 or $38, so today or next day air?"
+      },
+      {
+        "id": 14,
+        "start": 57,
+        "end": 60,
+        "text": " Why don't we just do two-day?"
+      },
+      {
+        "id": 15,
+        "start": 60,
+        "end": 62,
+        "text": " All right, two-day, okay."
+      },
+      {
+        "id": 16,
+        "start": 62,
+        "end": 64,
+        "text": " So on your card, you will see two charges."
+      },
+      {
+        "id": 17,
+        "start": 64,
+        "end": 69,
+        "text": " One will be for the prescription itself, the other will be $28 for the two-day, okay?"
+      },
+      {
+        "id": 18,
+        "start": 69,
+        "end": 71,
+        "text": " Okay."
+      },
+      {
+        "id": 19,
+        "start": 71,
+        "end": 74,
+        "text": " All right, I went ahead and put that through for you, and you're all set."
+      },
+      {
+        "id": 20,
+        "start": 74,
+        "end": 76,
+        "text": " Okay, thanks, I appreciate you."
+      },
+      {
+        "id": 21,
+        "start": 76,
+        "end": 78,
+        "text": " You got it. Happy to help. Thank you."
+      },
+      {
+        "id": 22,
+        "start": 78,
+        "end": 80,
+        "text": " Okay, you too, man. Thank you. Bye-bye."
+      },
+      {
+        "id": 23,
+        "start": 80,
+        "end": 82,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8103-be3a-d23f69d10bc9",
+    "url": "https://www.notion.so/300000001222841-300000001712480-2f711d0a101c8103be3ad23f69d10bc9"
+  },
+  "processedAt": "2026-01-29T21:31:12.775Z"
+}

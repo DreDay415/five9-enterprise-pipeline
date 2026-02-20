@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001222959-300000001712560-9088216553 by  @ 1_08_59 PM_CallStudio.wav",
+    "size": 25020,
+    "modifyTime": 1769720977000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222959-300000001712560-9088216553 by  @ 1_08_59 PM_CallStudio.wav",
+    "uploadDate": "2026-01-29T21:09:37.000Z",
+    "callId": "300000001222959-300000001712560",
+    "phoneNumber": "9088216553",
+    "callTimestamp": "2026-01-29T21:09:37.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: I want to cancel my automatic renewal.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1300,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.400000095367432,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.400000095367432,
+        "end": 7.400000095367432,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.400000095367432,
+        "end": 13.880000114440918,
+        "text": " I want to cancel my automatic renewal."
+      },
+      {
+        "id": 3,
+        "start": 13.880000114440918,
+        "end": 15.079999923706055,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8165-809d-ea09f1b251f3",
+    "url": "https://www.notion.so/300000001222959-300000001712560-2f711d0a101c8165809dea09f1b251f3"
+  },
+  "processedAt": "2026-01-29T21:17:24.679Z"
+}

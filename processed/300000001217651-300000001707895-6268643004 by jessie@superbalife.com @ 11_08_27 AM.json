@@ -1,0 +1,242 @@
+{
+  "recording": {
+    "name": "300000001217651-300000001707895-6268643004 by jessie@superbalife.com @ 11_08_27 AM.wav",
+    "size": 264286,
+    "modifyTime": 1769584931000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217651-300000001707895-6268643004 by jessie@superbalife.com @ 11_08_27 AM.wav",
+    "uploadDate": "2026-01-28T07:22:11.000Z",
+    "callId": "300000001217651-300000001707895",
+    "agent": "jessie",
+    "phoneNumber": "6268643004",
+    "callTimestamp": "2026-01-28T11:08:27.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra. My name is Jessie. Can I get your first and last name?\n\nSpeaker 2: First is Eric, E-R-I-C, and last is Navarette, N-A-V-A-R-R-E-T-E.\n\nSpeaker 1: Okay, perfect. Mr. Navarette, can I get your zip code?\n\nSpeaker 2: 89074.\n\nSpeaker 1: And you're at 339 Humboldt South Drive in Henderson, Nevada, correct?\n\nSpeaker 2: That's correct.\n\nSpeaker 1: Okay, super. All right, so you recently placed an order yesterday, the doctor approved it, and this should be shipping out shortly.\n\nSpeaker 1: Is there anything else I can help you with in the meantime?\n\nSpeaker 2: Yeah, I noticed that there's an automatic refill, and I don't want to have that automatic refill.\n\nSpeaker 1: Oh, yeah, no, no, no, absolutely. Let me just take a look there. This here should just be – let me set it up so it's – what is this?\n\nSpeaker 1: As needed, so you can order whenever you want.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Bear with me a moment, but I also want to make sure you still have access to your refills and that your prescription remains active.\n\nSpeaker 2: All right, so what I've done here is this. I've basically frozen everything for six months.\n\nSpeaker 1: All that means is you can order whenever you like. You're not going to get some rando stuff in the mail, and that's it.\n\nSpeaker 2: To keep your prescription active, in the event you do not place an order in six months' time,\n\nSpeaker 1: you get one refill at the end of six months to keep your prescription active, and that's it. Okay?\n\nSpeaker 2: So if I even call – are you going to notify me? Because I might forget.\n\nSpeaker 1: Oh, yeah, no, no, absolutely. You should get a notification.\n\nSpeaker 2: Will you let me know ahead of time, hey, your refill's coming up, or are you going to notify me my refill's on the way?\n\nSpeaker 1: No, you should get something like – notification should be ahead of time. It should be about five days ahead.\n\nSpeaker 2: Before it's sent out?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Okay. All right.\n\nSpeaker 1: All right.\n\nSpeaker 2: There's no way to just remove the six – so what you're saying is that once you remove that six-month thing\n\nSpeaker 1: or whatever the case may be, that cancels the whole prescription. Is that what you're saying?\n\nSpeaker 2: That's correct.\n\nSpeaker 1: So if I didn't care for it, I don't like it, I can call before that and say, hey, you know what, just cancel the whole thing?\n\nSpeaker 2: Yeah, absolutely, absolutely.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, anything else?\n\nSpeaker 1: All right, sounds good.\n\nSpeaker 2: Okay, thank you so much. Okay, bye-bye.\n\nSpeaker 1: Bye, everybody.\n\nSpeaker 2: Bye.",
+    "duration": 5885,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi, thank you so much for calling Viagra. My name is Jessie. Can I get your first and last name?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 14,
+        "text": " First is Eric, E-R-I-C, and last is Navarette, N-A-V-A-R-R-E-T-E."
+      },
+      {
+        "id": 2,
+        "start": 14,
+        "end": 19,
+        "text": " Okay, perfect. Mr. Navarette, can I get your zip code?"
+      },
+      {
+        "id": 3,
+        "start": 19,
+        "end": 29,
+        "text": " 89074."
+      },
+      {
+        "id": 4,
+        "start": 29,
+        "end": 34,
+        "text": " And you're at 339 Humboldt South Drive in Henderson, Nevada, correct?"
+      },
+      {
+        "id": 5,
+        "start": 34,
+        "end": 36,
+        "text": " That's correct."
+      },
+      {
+        "id": 6,
+        "start": 36,
+        "end": 43,
+        "text": " Okay, super. All right, so you recently placed an order yesterday, the doctor approved it, and this should be shipping out shortly."
+      },
+      {
+        "id": 7,
+        "start": 43,
+        "end": 46,
+        "text": " Is there anything else I can help you with in the meantime?"
+      },
+      {
+        "id": 8,
+        "start": 46,
+        "end": 53,
+        "text": " Yeah, I noticed that there's an automatic refill, and I don't want to have that automatic refill."
+      },
+      {
+        "id": 9,
+        "start": 53,
+        "end": 62,
+        "text": " Oh, yeah, no, no, no, absolutely. Let me just take a look there. This here should just be – let me set it up so it's – what is this?"
+      },
+      {
+        "id": 10,
+        "start": 62,
+        "end": 66,
+        "text": " As needed, so you can order whenever you want."
+      },
+      {
+        "id": 11,
+        "start": 66,
+        "end": 68,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 68,
+        "end": 76,
+        "text": " Bear with me a moment, but I also want to make sure you still have access to your refills and that your prescription remains active."
+      },
+      {
+        "id": 13,
+        "start": 77,
+        "end": 81,
+        "text": " All right, so what I've done here is this. I've basically frozen everything for six months."
+      },
+      {
+        "id": 14,
+        "start": 81,
+        "end": 89,
+        "text": " All that means is you can order whenever you like. You're not going to get some rando stuff in the mail, and that's it."
+      },
+      {
+        "id": 15,
+        "start": 89,
+        "end": 94,
+        "text": " To keep your prescription active, in the event you do not place an order in six months' time,"
+      },
+      {
+        "id": 16,
+        "start": 94,
+        "end": 100,
+        "text": " you get one refill at the end of six months to keep your prescription active, and that's it. Okay?"
+      },
+      {
+        "id": 17,
+        "start": 100,
+        "end": 104,
+        "text": " So if I even call – are you going to notify me? Because I might forget."
+      },
+      {
+        "id": 18,
+        "start": 104,
+        "end": 106,
+        "text": " Oh, yeah, no, no, absolutely. You should get a notification."
+      },
+      {
+        "id": 19,
+        "start": 106,
+        "end": 112,
+        "text": " Will you let me know ahead of time, hey, your refill's coming up, or are you going to notify me my refill's on the way?"
+      },
+      {
+        "id": 20,
+        "start": 112,
+        "end": 119,
+        "text": " No, you should get something like – notification should be ahead of time. It should be about five days ahead."
+      },
+      {
+        "id": 21,
+        "start": 119,
+        "end": 121,
+        "text": " Before it's sent out?"
+      },
+      {
+        "id": 22,
+        "start": 121,
+        "end": 123,
+        "text": " Yeah."
+      },
+      {
+        "id": 23,
+        "start": 123,
+        "end": 125,
+        "text": " Okay. All right."
+      },
+      {
+        "id": 24,
+        "start": 125,
+        "end": 127,
+        "text": " All right."
+      },
+      {
+        "id": 25,
+        "start": 127,
+        "end": 132,
+        "text": " There's no way to just remove the six – so what you're saying is that once you remove that six-month thing"
+      },
+      {
+        "id": 26,
+        "start": 132,
+        "end": 137,
+        "text": " or whatever the case may be, that cancels the whole prescription. Is that what you're saying?"
+      },
+      {
+        "id": 27,
+        "start": 137,
+        "end": 139,
+        "text": " That's correct."
+      },
+      {
+        "id": 28,
+        "start": 139,
+        "end": 146,
+        "text": " So if I didn't care for it, I don't like it, I can call before that and say, hey, you know what, just cancel the whole thing?"
+      },
+      {
+        "id": 29,
+        "start": 146,
+        "end": 149,
+        "text": " Yeah, absolutely, absolutely."
+      },
+      {
+        "id": 30,
+        "start": 149,
+        "end": 151,
+        "text": " Okay."
+      },
+      {
+        "id": 31,
+        "start": 151,
+        "end": 152,
+        "text": " All right, anything else?"
+      },
+      {
+        "id": 32,
+        "start": 152,
+        "end": 154,
+        "text": " All right, sounds good."
+      },
+      {
+        "id": 33,
+        "start": 154,
+        "end": 156,
+        "text": " Okay, thank you so much. Okay, bye-bye."
+      },
+      {
+        "id": 34,
+        "start": 156,
+        "end": 157,
+        "text": " Bye, everybody."
+      },
+      {
+        "id": 35,
+        "start": 157,
+        "end": 159,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-815a-85bb-edf179f8f284",
+    "url": "https://www.notion.so/300000001217651-300000001707895-2f611d0a101c815a85bbedf179f8f284"
+  },
+  "processedAt": "2026-01-28T14:49:43.761Z"
+}

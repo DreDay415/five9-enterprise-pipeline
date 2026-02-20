@@ -1,0 +1,464 @@
+{
+  "recording": {
+    "name": "300000001218208-300000001708254-2629939932 by gabriela@superbalife.com @ 1_45_05 PM.wav",
+    "size": 323760,
+    "modifyTime": 1769586139000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218208-300000001708254-2629939932 by gabriela@superbalife.com @ 1_45_05 PM.wav",
+    "uploadDate": "2026-01-28T07:42:19.000Z",
+    "callId": "300000001218208-300000001708254",
+    "agent": "gabriela",
+    "phoneNumber": "2629939932",
+    "callTimestamp": "2026-01-28T13:45:05.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra.\n\nSpeaker 2: How can I assist you?\n\nSpeaker 1: Hi, I'm calling to cancel my subscription.\n\nSpeaker 2: OK, what's your name and date of birth?\n\nSpeaker 1: Name is Thomas Dowd, D-O-W-D, 3-20-1956.\n\nSpeaker 2: OK, thank you for confirming that information, Thomas.\n\nSpeaker 1: And what's going on?\n\nSpeaker 2: Is it that you have no supply?\n\nSpeaker 1: I couldn't understand anything.\n\nSpeaker 2: Slow down, and what was that?\n\nSpeaker 1: I said, what's going on?\n\nSpeaker 2: Is it that you have enough supply at this time?\n\nSpeaker 1: Well, I don't believe I'm getting the correct thing,\n\nSpeaker 2: for one, and I don't need it that often.\n\nSpeaker 1: OK, well, let's go ahead.\n\nSpeaker 2: And do you have the pills with you\n\nSpeaker 1: to make sure that you are getting the correct ones?\n\nSpeaker 2: Showing what?\n\nSpeaker 1: Do you have the pills with you?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: OK, can you take a look at the pills\n\nSpeaker 2: and let me know if they have a number 100 engraved on them?\n\nSpeaker 1: Because the AGB should have a number engraved on the pill.\n\nSpeaker 2: One second here.\n\nSpeaker 1: Sure.\n\nSpeaker 2: It should have what?\n\nSpeaker 1: A number 100 engraved on the pill.\n\nSpeaker 2: It says 100 milligrams.\n\nSpeaker 1: I don't know what you're.\n\nSpeaker 2: No, the pills.\n\nSpeaker 1: Take a look at the pills.\n\nSpeaker 2: Do they have the number 100 engraved on them?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Nope.\n\nSpeaker 1: What do they say?\n\nSpeaker 2: AC 340.\n\nSpeaker 1: OK.\n\nSpeaker 2: So it looks like they've been sending you\n\nSpeaker 1: the classic Viagra, not the AGB.\n\nSpeaker 2: So what I can go ahead and do for you\n\nSpeaker 1: is that I can have the pharmacy reship your order\n\nSpeaker 2: with the correct Viagra, AGB, and no additional cost.\n\nSpeaker 1: And then we can also adjust the frequency for you.\n\nSpeaker 2: If you feel like every month is too soon,\n\nSpeaker 1: we can always adjust it to every three months.\n\nSpeaker 2: OK?\n\nSpeaker 1: Well, yeah, I would like to try the right stuff.\n\nSpeaker 2: OK.\n\nSpeaker 1: Yeah, so I'll have the pharmacy reship your order.\n\nSpeaker 2: You should be receiving it within the next three\n\nSpeaker 1: to five business days, OK?\n\nSpeaker 2: Well, my first delivery was also wrong.\n\nSpeaker 1: OK, so let me go ahead and notify the pharmacy\n\nSpeaker 2: so that they reship a quantity of 20 pills, OK?\n\nSpeaker 1: That would make up for the last order and this order\n\nSpeaker 2: that you recently received.\n\nSpeaker 1: No, it don't.\n\nSpeaker 2: The first order that you placed was a quantity of 10.\n\nSpeaker 1: And then you recently received 10 pills, so that's 20 pills.\n\nSpeaker 2: So I need 20, yeah.\n\nSpeaker 1: Yeah, and that's what I said.\n\nSpeaker 2: I will have the pharmacy reship a quantity of 20 pills.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: OK.\n\nSpeaker 1: Well, and you're going to change it to every three months?\n\nSpeaker 2: Yes, I'm going to adjust it for you for every three months.\n\nSpeaker 1: I'll try that for now.\n\nSpeaker 2: OK, well, you're all set, Thomas.\n\nSpeaker 1: OK, have a good rest of your day.\n\nSpeaker 2: All right, thank you.\n\nSpeaker 1: Bye.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Bye.",
+    "duration": 6489,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.240000009536743,
+        "text": " Hi, thank you for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 2.240000009536743,
+        "end": 4.880000114440918,
+        "text": " How can I assist you?"
+      },
+      {
+        "id": 2,
+        "start": 4.880000114440918,
+        "end": 9.600000381469727,
+        "text": " Hi, I'm calling to cancel my subscription."
+      },
+      {
+        "id": 3,
+        "start": 9.600000381469727,
+        "end": 13.079999923706055,
+        "text": " OK, what's your name and date of birth?"
+      },
+      {
+        "id": 4,
+        "start": 13.079999923706055,
+        "end": 21.520000457763672,
+        "text": " Name is Thomas Dowd, D-O-W-D, 3-20-1956."
+      },
+      {
+        "id": 5,
+        "start": 21.520000457763672,
+        "end": 24.440000534057617,
+        "text": " OK, thank you for confirming that information, Thomas."
+      },
+      {
+        "id": 6,
+        "start": 24.440000534057617,
+        "end": 25.239999771118164,
+        "text": " And what's going on?"
+      },
+      {
+        "id": 7,
+        "start": 25.239999771118164,
+        "end": 28.920000076293945,
+        "text": " Is it that you have no supply?"
+      },
+      {
+        "id": 8,
+        "start": 28.959999084472656,
+        "end": 30.280000686645508,
+        "text": " I couldn't understand anything."
+      },
+      {
+        "id": 9,
+        "start": 30.280000686645508,
+        "end": 33.2400016784668,
+        "text": " Slow down, and what was that?"
+      },
+      {
+        "id": 10,
+        "start": 33.2400016784668,
+        "end": 34.63999938964844,
+        "text": " I said, what's going on?"
+      },
+      {
+        "id": 11,
+        "start": 34.63999938964844,
+        "end": 37.119998931884766,
+        "text": " Is it that you have enough supply at this time?"
+      },
+      {
+        "id": 12,
+        "start": 37.119998931884766,
+        "end": 39.36000061035156,
+        "text": " Well, I don't believe I'm getting the correct thing,"
+      },
+      {
+        "id": 13,
+        "start": 39.36000061035156,
+        "end": 42.880001068115234,
+        "text": " for one, and I don't need it that often."
+      },
+      {
+        "id": 14,
+        "start": 42.880001068115234,
+        "end": 45,
+        "text": " OK, well, let's go ahead."
+      },
+      {
+        "id": 15,
+        "start": 45,
+        "end": 47.119998931884766,
+        "text": " And do you have the pills with you"
+      },
+      {
+        "id": 16,
+        "start": 47.119998931884766,
+        "end": 51.560001373291016,
+        "text": " to make sure that you are getting the correct ones?"
+      },
+      {
+        "id": 17,
+        "start": 51.560001373291016,
+        "end": 53.599998474121094,
+        "text": " Showing what?"
+      },
+      {
+        "id": 18,
+        "start": 53.599998474121094,
+        "end": 56.560001373291016,
+        "text": " Do you have the pills with you?"
+      },
+      {
+        "id": 19,
+        "start": 56.560001373291016,
+        "end": 57.79999923706055,
+        "text": " Yeah."
+      },
+      {
+        "id": 20,
+        "start": 57.79999923706055,
+        "end": 59.959999084472656,
+        "text": " OK, can you take a look at the pills"
+      },
+      {
+        "id": 21,
+        "start": 59.959999084472656,
+        "end": 63,
+        "text": " and let me know if they have a number 100 engraved on them?"
+      },
+      {
+        "id": 22,
+        "start": 63,
+        "end": 65.63999938964844,
+        "text": " Because the AGB should have a number engraved on the pill."
+      },
+      {
+        "id": 23,
+        "start": 71.19999694824219,
+        "end": 73.12000274658203,
+        "text": " One second here."
+      },
+      {
+        "id": 24,
+        "start": 73.12000274658203,
+        "end": 73.62000274658203,
+        "text": " Sure."
+      },
+      {
+        "id": 25,
+        "start": 76.95999908447266,
+        "end": 78.5199966430664,
+        "text": " It should have what?"
+      },
+      {
+        "id": 26,
+        "start": 78.5199966430664,
+        "end": 80.4000015258789,
+        "text": " A number 100 engraved on the pill."
+      },
+      {
+        "id": 27,
+        "start": 85.04000091552734,
+        "end": 86.4800033569336,
+        "text": " It says 100 milligrams."
+      },
+      {
+        "id": 28,
+        "start": 86.4800033569336,
+        "end": 87.5199966430664,
+        "text": " I don't know what you're."
+      },
+      {
+        "id": 29,
+        "start": 87.5199966430664,
+        "end": 88.76000213623047,
+        "text": " No, the pills."
+      },
+      {
+        "id": 30,
+        "start": 88.76000213623047,
+        "end": 89.87999725341797,
+        "text": " Take a look at the pills."
+      },
+      {
+        "id": 31,
+        "start": 89.87999725341797,
+        "end": 93.08000183105469,
+        "text": " Do they have the number 100 engraved on them?"
+      },
+      {
+        "id": 32,
+        "start": 93.08000183105469,
+        "end": 93.58000183105469,
+        "text": " Yeah."
+      },
+      {
+        "id": 33,
+        "start": 102.12000274658203,
+        "end": 104.19999694824219,
+        "text": " Nope."
+      },
+      {
+        "id": 34,
+        "start": 104.19999694824219,
+        "end": 106.63999938964844,
+        "text": " What do they say?"
+      },
+      {
+        "id": 35,
+        "start": 106.63999938964844,
+        "end": 109.19999694824219,
+        "text": " AC 340."
+      },
+      {
+        "id": 36,
+        "start": 109.19999694824219,
+        "end": 110.63999938964844,
+        "text": " OK."
+      },
+      {
+        "id": 37,
+        "start": 110.63999938964844,
+        "end": 112.31999969482422,
+        "text": " So it looks like they've been sending you"
+      },
+      {
+        "id": 38,
+        "start": 112.31999969482422,
+        "end": 115.5999984741211,
+        "text": " the classic Viagra, not the AGB."
+      },
+      {
+        "id": 39,
+        "start": 115.5999984741211,
+        "end": 118.31999969482422,
+        "text": " So what I can go ahead and do for you"
+      },
+      {
+        "id": 40,
+        "start": 118.31999969482422,
+        "end": 120.55999755859375,
+        "text": " is that I can have the pharmacy reship your order"
+      },
+      {
+        "id": 41,
+        "start": 120.55999755859375,
+        "end": 124.16000366210938,
+        "text": " with the correct Viagra, AGB, and no additional cost."
+      },
+      {
+        "id": 42,
+        "start": 124.16000366210938,
+        "end": 127.4000015258789,
+        "text": " And then we can also adjust the frequency for you."
+      },
+      {
+        "id": 43,
+        "start": 127.4000015258789,
+        "end": 129.52000427246094,
+        "text": " If you feel like every month is too soon,"
+      },
+      {
+        "id": 44,
+        "start": 129.52000427246094,
+        "end": 133.8000030517578,
+        "text": " we can always adjust it to every three months."
+      },
+      {
+        "id": 45,
+        "start": 133.8000030517578,
+        "end": 136.36000061035156,
+        "text": " OK?"
+      },
+      {
+        "id": 46,
+        "start": 136.36000061035156,
+        "end": 139.36000061035156,
+        "text": " Well, yeah, I would like to try the right stuff."
+      },
+      {
+        "id": 47,
+        "start": 139.36000061035156,
+        "end": 140.27999877929688,
+        "text": " OK."
+      },
+      {
+        "id": 48,
+        "start": 140.27999877929688,
+        "end": 143.0399932861328,
+        "text": " Yeah, so I'll have the pharmacy reship your order."
+      },
+      {
+        "id": 49,
+        "start": 143.0399932861328,
+        "end": 144.9600067138672,
+        "text": " You should be receiving it within the next three"
+      },
+      {
+        "id": 50,
+        "start": 144.9600067138672,
+        "end": 146.47999572753906,
+        "text": " to five business days, OK?"
+      },
+      {
+        "id": 51,
+        "start": 146.47999572753906,
+        "end": 150,
+        "text": " Well, my first delivery was also wrong."
+      },
+      {
+        "id": 52,
+        "start": 150,
+        "end": 152.47999572753906,
+        "text": " OK, so let me go ahead and notify the pharmacy"
+      },
+      {
+        "id": 53,
+        "start": 152.47999572753906,
+        "end": 155.0399932861328,
+        "text": " so that they reship a quantity of 20 pills, OK?"
+      },
+      {
+        "id": 54,
+        "start": 159.55999755859375,
+        "end": 162.0399932861328,
+        "text": " That would make up for the last order and this order"
+      },
+      {
+        "id": 55,
+        "start": 162.0399932861328,
+        "end": 163.16000366210938,
+        "text": " that you recently received."
+      },
+      {
+        "id": 56,
+        "start": 163.16000366210938,
+        "end": 163.75999450683594,
+        "text": " No, it don't."
+      },
+      {
+        "id": 57,
+        "start": 166.47999572753906,
+        "end": 170.52000427246094,
+        "text": " The first order that you placed was a quantity of 10."
+      },
+      {
+        "id": 58,
+        "start": 170.52000427246094,
+        "end": 173.9600067138672,
+        "text": " And then you recently received 10 pills, so that's 20 pills."
+      },
+      {
+        "id": 59,
+        "start": 174,
+        "end": 175.47999572753906,
+        "text": " So I need 20, yeah."
+      },
+      {
+        "id": 60,
+        "start": 175.47999572753906,
+        "end": 177.32000732421875,
+        "text": " Yeah, and that's what I said."
+      },
+      {
+        "id": 61,
+        "start": 177.32000732421875,
+        "end": 181.27999877929688,
+        "text": " I will have the pharmacy reship a quantity of 20 pills."
+      },
+      {
+        "id": 62,
+        "start": 181.27999877929688,
+        "end": 181.8000030517578,
+        "text": " Yeah."
+      },
+      {
+        "id": 63,
+        "start": 181.8000030517578,
+        "end": 182.9600067138672,
+        "text": " OK."
+      },
+      {
+        "id": 64,
+        "start": 182.9600067138672,
+        "end": 185.75999450683594,
+        "text": " Well, and you're going to change it to every three months?"
+      },
+      {
+        "id": 65,
+        "start": 185.75999450683594,
+        "end": 190.27999877929688,
+        "text": " Yes, I'm going to adjust it for you for every three months."
+      },
+      {
+        "id": 66,
+        "start": 190.27999877929688,
+        "end": 191.9600067138672,
+        "text": " I'll try that for now."
+      },
+      {
+        "id": 67,
+        "start": 191.9600067138672,
+        "end": 193.67999267578125,
+        "text": " OK, well, you're all set, Thomas."
+      },
+      {
+        "id": 68,
+        "start": 193.67999267578125,
+        "end": 195.83999633789062,
+        "text": " OK, have a good rest of your day."
+      },
+      {
+        "id": 69,
+        "start": 195.83999633789062,
+        "end": 196.75999450683594,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 70,
+        "start": 196.75999450683594,
+        "end": 197.24000549316406,
+        "text": " Bye."
+      },
+      {
+        "id": 71,
+        "start": 197.24000549316406,
+        "end": 197.83999633789062,
+        "text": " You're welcome."
+      },
+      {
+        "id": 72,
+        "start": 197.83999633789062,
+        "end": 199.39999389648438,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ef-8aa5-d1dfefb1d156",
+    "url": "https://www.notion.so/300000001218208-300000001708254-2f611d0a101c81ef8aa5d1dfefb1d156"
+  },
+  "processedAt": "2026-01-28T13:56:34.782Z"
+}

@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001216268-300000001705772-6037627146 by  @ 1_03_45 PM_CallStudio.wav",
+    "size": 27296,
+    "modifyTime": 1769592438000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216268-300000001705772-6037627146 by  @ 1_03_45 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:27:18.000Z",
+    "callId": "300000001216268-300000001705772",
+    "phoneNumber": "6037627146",
+    "callTimestamp": "2026-01-28T09:27:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: I keep getting these pills and I don't want them anymore.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1710,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.119999885559082,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.119999885559082,
+        "end": 6.119999885559082,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.119999885559082,
+        "end": 10.800000190734863,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.800000190734863,
+        "end": 15.239999771118164,
+        "text": " I keep getting these pills and I don't want them anymore."
+      },
+      {
+        "id": 4,
+        "start": 15.239999771118164,
+        "end": 16.440000534057617,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8176-8e54-ebf30bf0a871",
+    "url": "https://www.notion.so/300000001216268-300000001705772-2f611d0a101c81768e54ebf30bf0a871"
+  },
+  "processedAt": "2026-01-28T10:35:24.598Z"
+}

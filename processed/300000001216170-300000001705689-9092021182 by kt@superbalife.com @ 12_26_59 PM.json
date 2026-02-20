@@ -1,0 +1,182 @@
+{
+  "recording": {
+    "name": "300000001216170-300000001705689-9092021182 by kt@superbalife.com @ 12_26_59 PM.wav",
+    "size": 91646,
+    "modifyTime": 1769590031000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216170-300000001705689-9092021182 by kt@superbalife.com @ 12_26_59 PM.wav",
+    "uploadDate": "2026-01-28T08:47:11.000Z",
+    "callId": "300000001216170-300000001705689",
+    "agent": "kt",
+    "phoneNumber": "9092021182",
+    "callTimestamp": "2026-01-28T12:26:59.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Okay, James, this is K.T. Dittrich of Pfizer-Scorpio.\n\nSpeaker 2: I'm gonna use this 909 number to pull up your account and read what's on your chart.\n\nSpeaker 1: And just correct me if I'm wrong, bud, so I can verify some things and I'll help you with bringing a stop to this, right, bud?\n\nSpeaker 2: Okay.\n\nSpeaker 1: So when I pull this up, I do see that you're working with Dr. Allison Seal, one of our Pfizer doctors.\n\nSpeaker 2: It looks like Dr. Allison has set you up with the 100 milligrams of the AGG, the white diamond pill.\n\nSpeaker 1: It's the one we make in France.\n\nSpeaker 2: It's the one we trademark, the white diamond pill the FDA approved.\n\nSpeaker 1: I do see you started with us last month, 100 milligrams.\n\nSpeaker 2: And I do see that Dr. Allison has ordered the pharmacy to send you refills on a monthly basis.\n\nSpeaker 1: You want me to put a stop to that, bud, that way you don't get a month anymore?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay. Hold your line and I'll override the system, bud.\n\nSpeaker 2: One moment.\n\nSpeaker 1: All right, thank you.\n\nSpeaker 2: You bet.",
+    "duration": 2935,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.759999990463257,
+        "text": " Okay, James, this is K.T. Dittrich of Pfizer-Scorpio."
+      },
+      {
+        "id": 1,
+        "start": 2.759999990463257,
+        "end": 5.739999771118164,
+        "text": " I'm gonna use this 909 number to pull up your account"
+      },
+      {
+        "id": 2,
+        "start": 5.739999771118164,
+        "end": 7.480000019073486,
+        "text": " and read what's on your chart."
+      },
+      {
+        "id": 3,
+        "start": 7.480000019073486,
+        "end": 9.479999542236328,
+        "text": " And just correct me if I'm wrong, bud,"
+      },
+      {
+        "id": 4,
+        "start": 9.479999542236328,
+        "end": 11.239999771118164,
+        "text": " so I can verify some things"
+      },
+      {
+        "id": 5,
+        "start": 11.239999771118164,
+        "end": 15.039999961853027,
+        "text": " and I'll help you with bringing a stop to this, right, bud?"
+      },
+      {
+        "id": 6,
+        "start": 15.039999961853027,
+        "end": 16.639999389648438,
+        "text": " Okay."
+      },
+      {
+        "id": 7,
+        "start": 16.639999389648438,
+        "end": 17.8799991607666,
+        "text": " So when I pull this up,"
+      },
+      {
+        "id": 8,
+        "start": 17.8799991607666,
+        "end": 22.760000228881836,
+        "text": " I do see that you're working with Dr. Allison Seal,"
+      },
+      {
+        "id": 9,
+        "start": 22.760000228881836,
+        "end": 23.920000076293945,
+        "text": " one of our Pfizer doctors."
+      },
+      {
+        "id": 10,
+        "start": 23.920000076293945,
+        "end": 27,
+        "text": " It looks like Dr. Allison has set you up"
+      },
+      {
+        "id": 11,
+        "start": 27,
+        "end": 30.360000610351562,
+        "text": " with the 100 milligrams of the AGG, the white diamond pill."
+      },
+      {
+        "id": 12,
+        "start": 30.360000610351562,
+        "end": 33.119998931884766,
+        "text": " It's the one we make in France."
+      },
+      {
+        "id": 13,
+        "start": 33.119998931884766,
+        "end": 34.31999969482422,
+        "text": " It's the one we trademark,"
+      },
+      {
+        "id": 14,
+        "start": 34.31999969482422,
+        "end": 36.47999954223633,
+        "text": " the white diamond pill the FDA approved."
+      },
+      {
+        "id": 15,
+        "start": 36.47999954223633,
+        "end": 40.880001068115234,
+        "text": " I do see you started with us last month, 100 milligrams."
+      },
+      {
+        "id": 16,
+        "start": 40.880001068115234,
+        "end": 43.720001220703125,
+        "text": " And I do see that Dr. Allison has ordered the pharmacy"
+      },
+      {
+        "id": 17,
+        "start": 43.720001220703125,
+        "end": 46.36000061035156,
+        "text": " to send you refills on a monthly basis."
+      },
+      {
+        "id": 18,
+        "start": 46.36000061035156,
+        "end": 47.7599983215332,
+        "text": " You want me to put a stop to that, bud,"
+      },
+      {
+        "id": 19,
+        "start": 47.7599983215332,
+        "end": 50,
+        "text": " that way you don't get a month anymore?"
+      },
+      {
+        "id": 20,
+        "start": 50,
+        "end": 50.84000015258789,
+        "text": " Yes."
+      },
+      {
+        "id": 21,
+        "start": 50.84000015258789,
+        "end": 51.68000030517578,
+        "text": " Okay."
+      },
+      {
+        "id": 22,
+        "start": 51.68000030517578,
+        "end": 53.63999938964844,
+        "text": " Hold your line and I'll override the system, bud."
+      },
+      {
+        "id": 23,
+        "start": 53.63999938964844,
+        "end": 54.68000030517578,
+        "text": " One moment."
+      },
+      {
+        "id": 24,
+        "start": 54.68000030517578,
+        "end": 55.880001068115234,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 25,
+        "start": 55.880001068115234,
+        "end": 56.880001068115234,
+        "text": " You bet."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813d-9ef1-f0ab8ad9df74",
+    "url": "https://www.notion.so/300000001216170-300000001705689-2f611d0a101c813d9ef1f0ab8ad9df74"
+  },
+  "processedAt": "2026-01-28T12:27:18.999Z"
+}

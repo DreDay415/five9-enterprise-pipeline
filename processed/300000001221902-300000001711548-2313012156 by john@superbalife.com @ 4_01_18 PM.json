@@ -1,0 +1,260 @@
+{
+  "recording": {
+    "name": "300000001221902-300000001711548-2313012156 by john@superbalife.com @ 4_01_18 PM.wav",
+    "size": 169126,
+    "modifyTime": 1769645004000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221902-300000001711548-2313012156 by john@superbalife.com @ 4_01_18 PM.wav",
+    "uploadDate": "2026-01-29T00:03:24.000Z",
+    "callId": "300000001221902-300000001711548",
+    "agent": "john",
+    "phoneNumber": "2313012156",
+    "callTimestamp": "2026-01-29T16:01:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Can you recall, Mr. John, how can I help you?\n\nSpeaker 2: Yes, um, I got, uh, I ordered, uh, this car blue, and it said it had a warranty on it,\n\nSpeaker 1: guaranteed, and I called back because it didn't work, and the guy said that, uh, pharmacy\n\nSpeaker 2: messed up, didn't send the right script, and so he sent me some more, and they still don't\n\nSpeaker 1: work.\n\nSpeaker 2: I can't tell the difference between them.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Did you take it on an empty stomach, sir?\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: Okay.\n\nSpeaker 1: And, um, do you have 50 or 100 milligrams?\n\nSpeaker 2: Fifty.\n\nSpeaker 1: But I took two.\n\nSpeaker 2: The first day I took one, and the second day I took two, yep.\n\nSpeaker 1: Okay.\n\nSpeaker 2: If it's just not working out for you, and you want to return it, feel free to do so.\n\nSpeaker 1: You would get a refund for it.\n\nSpeaker 2: Um, you paying the postage for me to return it?\n\nSpeaker 1: We don't pay for the postage.\n\nSpeaker 2: We refund you for the whole order.\n\nSpeaker 1: And when am I going to get refunded?\n\nSpeaker 2: When it comes back to the pharmacy, they let us know, and then we go ahead and refund you.\n\nSpeaker 1: So, if you give me your name and zip code, I can send you an email with all the information\n\nSpeaker 2: you need.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So, what do you need, my, uh, just my email or my...\n\nSpeaker 1: I need your name and your zip code.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Wesley Payne, 49459.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: You got my email then?\n\nSpeaker 2: Yeah, uh, wes67goose at gmail.\n\nSpeaker 1: Yep, gmail.com, yep.\n\nSpeaker 2: Yep, I will get you an email.\n\nSpeaker 1: It'll have everything you need to know and explain how the process works, and we will\n\nSpeaker 2: get your money back.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thanks, sir.",
+    "duration": 6224,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Can you recall, Mr. John, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 12,
+        "text": " Yes, um, I got, uh, I ordered, uh, this car blue, and it said it had a warranty on it,"
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 16.760000228881836,
+        "text": " guaranteed, and I called back because it didn't work, and the guy said that, uh, pharmacy"
+      },
+      {
+        "id": 3,
+        "start": 16.760000228881836,
+        "end": 21.84000015258789,
+        "text": " messed up, didn't send the right script, and so he sent me some more, and they still don't"
+      },
+      {
+        "id": 4,
+        "start": 21.84000015258789,
+        "end": 22.84000015258789,
+        "text": " work."
+      },
+      {
+        "id": 5,
+        "start": 22.84000015258789,
+        "end": 24.84000015258789,
+        "text": " I can't tell the difference between them."
+      },
+      {
+        "id": 6,
+        "start": 24.84000015258789,
+        "end": 25.959999084472656,
+        "text": " Okay."
+      },
+      {
+        "id": 7,
+        "start": 25.959999084472656,
+        "end": 28.200000762939453,
+        "text": " Did you take it on an empty stomach, sir?"
+      },
+      {
+        "id": 8,
+        "start": 28.200000762939453,
+        "end": 29.200000762939453,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 9,
+        "start": 29.200000762939453,
+        "end": 30.200000762939453,
+        "text": " Okay."
+      },
+      {
+        "id": 10,
+        "start": 30.200000762939453,
+        "end": 34.20000076293945,
+        "text": " And, um, do you have 50 or 100 milligrams?"
+      },
+      {
+        "id": 11,
+        "start": 34.20000076293945,
+        "end": 35.20000076293945,
+        "text": " Fifty."
+      },
+      {
+        "id": 12,
+        "start": 35.20000076293945,
+        "end": 36.20000076293945,
+        "text": " But I took two."
+      },
+      {
+        "id": 13,
+        "start": 36.20000076293945,
+        "end": 40.20000076293945,
+        "text": " The first day I took one, and the second day I took two, yep."
+      },
+      {
+        "id": 14,
+        "start": 40.20000076293945,
+        "end": 41.20000076293945,
+        "text": " Okay."
+      },
+      {
+        "id": 15,
+        "start": 41.20000076293945,
+        "end": 44.20000076293945,
+        "text": " If it's just not working out for you, and you want to return it, feel free to do so."
+      },
+      {
+        "id": 16,
+        "start": 44.20000076293945,
+        "end": 48.20000076293945,
+        "text": " You would get a refund for it."
+      },
+      {
+        "id": 17,
+        "start": 48.20000076293945,
+        "end": 51.20000076293945,
+        "text": " Um, you paying the postage for me to return it?"
+      },
+      {
+        "id": 18,
+        "start": 51.20000076293945,
+        "end": 53.20000076293945,
+        "text": " We don't pay for the postage."
+      },
+      {
+        "id": 19,
+        "start": 53.20000076293945,
+        "end": 57.20000076293945,
+        "text": " We refund you for the whole order."
+      },
+      {
+        "id": 20,
+        "start": 57.20000076293945,
+        "end": 59.20000076293945,
+        "text": " And when am I going to get refunded?"
+      },
+      {
+        "id": 21,
+        "start": 59.20000076293945,
+        "end": 63.20000076293945,
+        "text": " When it comes back to the pharmacy, they let us know, and then we go ahead and refund you."
+      },
+      {
+        "id": 22,
+        "start": 63.20000076293945,
+        "end": 66.19999694824219,
+        "text": " So, if you give me your name and zip code, I can send you an email with all the information"
+      },
+      {
+        "id": 23,
+        "start": 66.19999694824219,
+        "end": 67.19999694824219,
+        "text": " you need."
+      },
+      {
+        "id": 24,
+        "start": 67.19999694824219,
+        "end": 68.19999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 25,
+        "start": 68.19999694824219,
+        "end": 72.19999694824219,
+        "text": " So, what do you need, my, uh, just my email or my..."
+      },
+      {
+        "id": 26,
+        "start": 72.19999694824219,
+        "end": 75.19999694824219,
+        "text": " I need your name and your zip code."
+      },
+      {
+        "id": 27,
+        "start": 75.19999694824219,
+        "end": 76.19999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 28,
+        "start": 76.19999694824219,
+        "end": 80.19999694824219,
+        "text": " Wesley Payne, 49459."
+      },
+      {
+        "id": 29,
+        "start": 80.19999694824219,
+        "end": 84.19999694824219,
+        "text": " Thank you."
+      },
+      {
+        "id": 30,
+        "start": 84.19999694824219,
+        "end": 87.19999694824219,
+        "text": " You got my email then?"
+      },
+      {
+        "id": 31,
+        "start": 87.19999694824219,
+        "end": 91.19999694824219,
+        "text": " Yeah, uh, wes67goose at gmail."
+      },
+      {
+        "id": 32,
+        "start": 91.19999694824219,
+        "end": 93.19999694824219,
+        "text": " Yep, gmail.com, yep."
+      },
+      {
+        "id": 33,
+        "start": 93.19999694824219,
+        "end": 95.19999694824219,
+        "text": " Yep, I will get you an email."
+      },
+      {
+        "id": 34,
+        "start": 95.19999694824219,
+        "end": 98.19999694824219,
+        "text": " It'll have everything you need to know and explain how the process works, and we will"
+      },
+      {
+        "id": 35,
+        "start": 98.19999694824219,
+        "end": 99.19999694824219,
+        "text": " get your money back."
+      },
+      {
+        "id": 36,
+        "start": 99.19999694824219,
+        "end": 100.19999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 37,
+        "start": 100.19999694824219,
+        "end": 101.19999694824219,
+        "text": " Thank you."
+      },
+      {
+        "id": 38,
+        "start": 101.19999694824219,
+        "end": 102.19999694824219,
+        "text": " Thanks, sir."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-813b-bb4b-ffacaa8c0aa0",
+    "url": "https://www.notion.so/300000001221902-300000001711548-2f711d0a101c813bbb4bffacaa8c0aa0"
+  },
+  "processedAt": "2026-01-29T10:15:07.995Z"
+}

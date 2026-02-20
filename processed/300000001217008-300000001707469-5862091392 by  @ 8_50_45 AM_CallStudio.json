@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001217008-300000001707469-5862091392 by  @ 8_50_45 AM_CallStudio.wav",
+    "size": 28336,
+    "modifyTime": 1769585528000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217008-300000001707469-5862091392 by  @ 8_50_45 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:32:08.000Z",
+    "callId": "300000001217008-300000001707469",
+    "phoneNumber": "5862091392",
+    "callTimestamp": "2026-01-28T07:32:08.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: It's Benny Riddle calling to cancel prescription.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 957,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.320000171661377,
+        "end": 6.800000190734863,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.119999885559082,
+        "end": 8.5600004196167,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.640000343322754,
+        "end": 13.960000038146973,
+        "text": " It's Benny Riddle calling to cancel prescription."
+      },
+      {
+        "id": 4,
+        "start": 15.84000015258789,
+        "end": 17.059999465942383,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81d5-b6d2-f6180d79ee25",
+    "url": "https://www.notion.so/300000001217008-300000001707469-2f611d0a101c81d5b6d2f6180d79ee25"
+  },
+  "processedAt": "2026-01-28T14:23:59.988Z"
+}

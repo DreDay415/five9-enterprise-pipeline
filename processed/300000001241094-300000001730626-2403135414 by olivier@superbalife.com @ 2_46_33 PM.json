@@ -1,0 +1,227 @@
+{
+  "recording": {
+    "name": "300000001241094-300000001730626-2403135414 by olivier@superbalife.com @ 2_46_33 PM.wav",
+    "size": 272476,
+    "modifyTime": 1770936582000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241094-300000001730626-2403135414 by olivier@superbalife.com @ 2_46_33 PM.wav",
+    "uploadDate": "2026-02-12T22:49:42.000Z",
+    "callId": "300000001241094-300000001730626",
+    "agent": "olivier",
+    "phoneNumber": "2403135414",
+    "callTimestamp": "2026-02-12T14:46:33.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_olivier_300000001241094-300000001730626_2403135414.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_olivier_300000001241094-300000001730626_2403135414.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Vagra.\n\nSpeaker 2: Hello, hello, we do insert good good. Thank you for asking. Let me pull your prescription real quick.\n\nSpeaker 1: Oh.\n\nSpeaker 2: Mr. Moses?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Yes, you have a prescription for the—\n\nSpeaker 1: 100-milligram, I think 10 tablets, and I think Dr. Anthony that roadie. We've—\n\nSpeaker 2: Refilled every 30 days. How can I help you, sir?\n\nSpeaker 1: Yeah, I try to cancel that and—\n\nSpeaker 2: It took it out of my account anyway.\n\nSpeaker 1: Any health concern or you just try to order as needed? You don't like the initial writing from the doctor?\n\nSpeaker 2: You just want to call and reorder as needed because you're not required to get it every month. That's just all the doctor wrote initially.\n\nSpeaker 1: Assuming that you're active because you've got 10 pills, but if you don't need that, I can advise the pharmacy to pause the prescription.\n\nSpeaker 2: I think they pause. You have to offer you which lock your price in and you call to reorder as needed.\n\nSpeaker 1: But you're not on the 30 days, the 30-day supply anymore.\n\nSpeaker 2: Yeah, but it took it out of my account. I didn't want—I want to need it.\n\nSpeaker 1: Yes, we can—I can reverse that for you here, okay, and he's gonna be as needed, okay?\n\nSpeaker 2: Yes, sir. All right.\n\nSpeaker 1: 639 if I should be a refund because we'll just process today because the doctor, like I said, wrote it with refill assuming that you're—\n\nSpeaker 2: Active because that's what 95% of the patients are here and you just order 10.\n\nSpeaker 1: But what I did is I refunded you six sixty-three ninety-five. You wasn't ready and paused the prescription.\n\nSpeaker 2: They pause it up to after a year and then you're not on a monthly anymore.\n\nSpeaker 1: You can call to reorder and the caveat is that if you get just a minimum of two refills a year—\n\nSpeaker 2: You're always able to claim the current market price that you have even though new people, new patients, gonna pay more.\n\nSpeaker 1: You can claim that if you maintain a minimum of two refills a year.\n\nSpeaker 2: All right. Okay, so but everything is paused right now, okay? You're not on—\n\nSpeaker 1: Every 30 days anymore, okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Refund my money.\n\nSpeaker 2: I did already, just wait.\n\nSpeaker 1: We say five to ten business days to be safe, but based on your bank—\n\nSpeaker 2: It could be sooner because it was just processed today. So you probably gonna get it sooner than that.\n\nSpeaker 1: It is not to consolidate in charge. I don't think so.\n\nSpeaker 2: Okay, sir. Thank you. So you all said bye-bye.",
+    "duration": 7386,
+    "audioDuration": 167.63999938964844,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Vagra"
+      },
+      {
+        "id": 1,
+        "start": 3.359999895095825,
+        "end": 9.460000038146973,
+        "text": " Hello, hello, we do insert good good. Thank you for asking let me pull your prescription real quick"
+      },
+      {
+        "id": 2,
+        "start": 9.460000038146973,
+        "end": 11.460000038146973,
+        "text": " Oh"
+      },
+      {
+        "id": 3,
+        "start": 28.260000228881836,
+        "end": 30.219999313354492,
+        "text": " Mr. Moses"
+      },
+      {
+        "id": 4,
+        "start": 30.219999313354492,
+        "end": 32.220001220703125,
+        "text": " Yes"
+      },
+      {
+        "id": 5,
+        "start": 32.2599983215332,
+        "end": 34.5,
+        "text": " Yes, you have a prescription for the"
+      },
+      {
+        "id": 6,
+        "start": 35.5,
+        "end": 39.720001220703125,
+        "text": " 100-milligram, I think 10 tablet and I think dr. Anthony that roadie. We've"
+      },
+      {
+        "id": 7,
+        "start": 40.380001068115234,
+        "end": 42.5,
+        "text": " Refilled every 30 days. How can I help you, sir?"
+      },
+      {
+        "id": 8,
+        "start": 43.97999954223633,
+        "end": 46.58000183105469,
+        "text": " Yeah, I try to cancel that and"
+      },
+      {
+        "id": 9,
+        "start": 47.7400016784668,
+        "end": 49.7400016784668,
+        "text": " It took it out my account anyway"
+      },
+      {
+        "id": 10,
+        "start": 50.939998626708984,
+        "end": 57.2599983215332,
+        "text": " Any health concern or you just try to order as needed you don't like the initial writing from the doctor"
+      },
+      {
+        "id": 11,
+        "start": 57.2599983215332,
+        "end": 63.380001068115234,
+        "text": " You just want to call and reorder as needed because you're not required to get every month. That's just all the doctor wrote initially"
+      },
+      {
+        "id": 12,
+        "start": 63.81999969482422,
+        "end": 70.45999908447266,
+        "text": " Assuming that you're active because you've got 10 pills, but if you don't need that I can advise the pharmacy to pause the prescription"
+      },
+      {
+        "id": 13,
+        "start": 70.45999908447266,
+        "end": 75.41999816894531,
+        "text": " I think they pause you have to offer you which lock your price in and you call to reorder as needed"
+      },
+      {
+        "id": 14,
+        "start": 75.41999816894531,
+        "end": 78.33999633789062,
+        "text": " But you're not on the 30 days the 30-day supply anymore"
+      },
+      {
+        "id": 15,
+        "start": 80.0199966430664,
+        "end": 84.77999877929688,
+        "text": " Yeah, but it took it out my account I didn't want I want to need it"
+      },
+      {
+        "id": 16,
+        "start": 85.0999984741211,
+        "end": 89.5199966430664,
+        "text": " Yes, we can I can reverse that for you here. Okay, and he's gonna be as needed. Okay"
+      },
+      {
+        "id": 17,
+        "start": 90.58000183105469,
+        "end": 92.58000183105469,
+        "text": " Yes, sir. All right"
+      },
+      {
+        "id": 18,
+        "start": 93.9000015258789,
+        "end": 100.77999877929688,
+        "text": " 639 if I should be a refund because we'll just process today because the doctor like I said wrote it with refill assuming that you're"
+      },
+      {
+        "id": 19,
+        "start": 100.77999877929688,
+        "end": 105.5,
+        "text": " Active because that's what 95% of the patient are here and you just order 10"
+      },
+      {
+        "id": 20,
+        "start": 105.5,
+        "end": 111.45999908447266,
+        "text": " But what I did is I refunded you six sixty three ninety five you wasn't ready and pause the prescription"
+      },
+      {
+        "id": 21,
+        "start": 111.45999908447266,
+        "end": 114.77999877929688,
+        "text": " They pause it up to after year and then you're not on a monthly anymore"
+      },
+      {
+        "id": 22,
+        "start": 114.77999877929688,
+        "end": 120.58000183105469,
+        "text": " You can call to reorder and the caveat is that if you get just a minimum of two refill a year"
+      },
+      {
+        "id": 23,
+        "start": 120.58000183105469,
+        "end": 126.05999755859375,
+        "text": " You're always able to claim the current market price that you have even though new people new patient gonna pay more"
+      },
+      {
+        "id": 24,
+        "start": 126.0999984741211,
+        "end": 129.74000549316406,
+        "text": " You can claim that if you maintain it minimum of two refill a year"
+      },
+      {
+        "id": 25,
+        "start": 130.6999969482422,
+        "end": 134.74000549316406,
+        "text": " All right. Okay, so but everything is paused right now. Okay, you're not on"
+      },
+      {
+        "id": 26,
+        "start": 135.6199951171875,
+        "end": 137.6199951171875,
+        "text": " Every 30 days anymore, okay"
+      },
+      {
+        "id": 27,
+        "start": 138.86000061035156,
+        "end": 140.17999267578125,
+        "text": " Okay"
+      },
+      {
+        "id": 28,
+        "start": 140.17999267578125,
+        "end": 143.17999267578125,
+        "text": " Refund my money. I did already just wait"
+      },
+      {
+        "id": 29,
+        "start": 143.17999267578125,
+        "end": 146.6199951171875,
+        "text": " We say five to ten business day to be safe, but based on your bank"
+      },
+      {
+        "id": 30,
+        "start": 146.6199951171875,
+        "end": 151.33999633789062,
+        "text": " It could be sooner because it was just processed today. So you probably gonna get it sooner than that"
+      },
+      {
+        "id": 31,
+        "start": 151.5800018310547,
+        "end": 154.13999938964844,
+        "text": " It is not to consolidate in charge. I don't think so"
+      },
+      {
+        "id": 32,
+        "start": 155.5399932861328,
+        "end": 158.25999450683594,
+        "text": " Okay, sir. Thank you. So you all said bye-bye"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8154-8611-dc6872528814",
+    "url": "https://www.notion.so/300000001241094-300000001730626-30511d0a101c81548611dc6872528814"
+  },
+  "processedAt": "2026-02-12T23:05:56.645Z"
+}

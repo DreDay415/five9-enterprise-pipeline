@@ -1,0 +1,236 @@
+{
+  "recording": {
+    "name": "300000001221018-300000001710983-5169873099 by john@superbalife.com @ 11_02_20 AM.wav",
+    "size": 206566,
+    "modifyTime": 1769627088000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221018-300000001710983-5169873099 by john@superbalife.com @ 11_02_20 AM.wav",
+    "uploadDate": "2026-01-28T19:04:48.000Z",
+    "callId": "300000001221018-300000001710983",
+    "agent": "john",
+    "phoneNumber": "5169873099",
+    "callTimestamp": "2026-01-28T11:02:20.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Yeah. Hi, John. My name is Steve.\n\nSpeaker 1: I ordered the Viagra AGV.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I received generic Sidelofil 100mg, which is not at all what I ordered.\n\nSpeaker 2: Okay.\n\nSpeaker 1: And it's not what you've advertised.\n\nSpeaker 2: I understand, sir. If I can get your last name and zip code.\n\nSpeaker 1: Yep. My last name is Spurgeon.\n\nSpeaker 2: S-P-U-R-G-E-O-N.\n\nSpeaker 1: My zip code is 11772.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay. I got you here. I see what you ordered.\n\nSpeaker 2: Do you mind humoring me and just tell me what's written on one of the pills?\n\nSpeaker 1: Yeah. No problem. Let me get one out.\n\nSpeaker 2: I can see it clearly.\n\nSpeaker 1: Even if you can't see it, if you can tell there's letters, that's wrong.\n\nSpeaker 2: If it's just numbers, then that's a different story.\n\nSpeaker 1: No. It says AC340.\n\nSpeaker 2: Okay. Yeah. So you're right, sir. That's the regular generic.\n\nSpeaker 1: Yours would have said just 100 on the pill.\n\nSpeaker 2: I do want to let you know it is going to also be a white pill,\n\nSpeaker 1: and it may say Sidenafil, but it should say AGV on the label as well.\n\nSpeaker 2: It is a different composition in terms of how they're made.\n\nSpeaker 1: The Sidenafil is just the only constant because that's in every Viagra.\n\nSpeaker 2: Well, I understand, but these are not what you've advertised saying that it works in 11 minutes.\n\nSpeaker 1: I understand, sir. I understand. I literally just went over all that with you. I understand.\n\nSpeaker 2: So I'm sending you the right ones. You don't have to worry about returning those ones you have.\n\nSpeaker 1: I'm going to get you the right ones.\n\nSpeaker 2: Okay. Thank you very much. I appreciate you accommodating me without any hassle.\n\nSpeaker 1: Oh, yeah. It's not going to cost you anything. It was a mistake on our end, so it should ship out tomorrow.\n\nSpeaker 2: Okay. That's fine. Yeah. That's great. Thank you very much. I appreciate your help with this.\n\nSpeaker 1: Of course. Have a good day.\n\nSpeaker 2: Thank you very much. Bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 7315,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 2.799999952316284,
+        "end": 4.800000190734863,
+        "text": " Yeah. Hi, John. My name is Steve."
+      },
+      {
+        "id": 2,
+        "start": 5.400000095367432,
+        "end": 9.800000190734863,
+        "text": " I ordered the Viagra AGV."
+      },
+      {
+        "id": 3,
+        "start": 10.300000190734863,
+        "end": 11.300000190734863,
+        "text": " Okay."
+      },
+      {
+        "id": 4,
+        "start": 11.699999809265137,
+        "end": 19.100000381469727,
+        "text": " I received generic Sidelofil 100mg, which is not at all what I ordered."
+      },
+      {
+        "id": 5,
+        "start": 19.600000381469727,
+        "end": 19.899999618530273,
+        "text": " Okay."
+      },
+      {
+        "id": 6,
+        "start": 19.899999618530273,
+        "end": 21.299999237060547,
+        "text": " And it's not what you've advertised."
+      },
+      {
+        "id": 7,
+        "start": 21.299999237060547,
+        "end": 23.799999237060547,
+        "text": " I understand, sir. If I can get your last name and zip code."
+      },
+      {
+        "id": 8,
+        "start": 24.600000381469727,
+        "end": 27.399999618530273,
+        "text": " Yep. My last name is Spurgeon."
+      },
+      {
+        "id": 9,
+        "start": 27.399999618530273,
+        "end": 32.29999923706055,
+        "text": " S-P-U-R-G-E-O-N."
+      },
+      {
+        "id": 10,
+        "start": 32.29999923706055,
+        "end": 36.29999923706055,
+        "text": " My zip code is 11772."
+      },
+      {
+        "id": 11,
+        "start": 36.900001525878906,
+        "end": 37.599998474121094,
+        "text": " Thank you."
+      },
+      {
+        "id": 12,
+        "start": 44.599998474121094,
+        "end": 47.400001525878906,
+        "text": " Okay. I got you here. I see what you ordered."
+      },
+      {
+        "id": 13,
+        "start": 47.400001525878906,
+        "end": 50.599998474121094,
+        "text": " Do you mind humoring me and just tell me what's written on one of the pills?"
+      },
+      {
+        "id": 14,
+        "start": 51.400001525878906,
+        "end": 54.400001525878906,
+        "text": " Yeah. No problem. Let me get one out."
+      },
+      {
+        "id": 15,
+        "start": 59.400001525878906,
+        "end": 61.400001525878906,
+        "text": " I can see it clearly."
+      },
+      {
+        "id": 16,
+        "start": 63.400001525878906,
+        "end": 66.4000015258789,
+        "text": " Even if you can't see it, if you can tell there's letters, that's wrong."
+      },
+      {
+        "id": 17,
+        "start": 66.4000015258789,
+        "end": 68.4000015258789,
+        "text": " If it's just numbers, then that's a different story."
+      },
+      {
+        "id": 18,
+        "start": 68.9000015258789,
+        "end": 72.4000015258789,
+        "text": " No. It says AC340."
+      },
+      {
+        "id": 19,
+        "start": 72.4000015258789,
+        "end": 75.4000015258789,
+        "text": " Okay. Yeah. So you're right, sir. That's the regular generic."
+      },
+      {
+        "id": 20,
+        "start": 75.4000015258789,
+        "end": 77.4000015258789,
+        "text": " Yours would have said just 100 on the pill."
+      },
+      {
+        "id": 21,
+        "start": 78.19999694824219,
+        "end": 80.19999694824219,
+        "text": " I do want to let you know it is going to also be a white pill,"
+      },
+      {
+        "id": 22,
+        "start": 80.19999694824219,
+        "end": 83.19999694824219,
+        "text": " and it may say Sidenafil, but it should say AGV on the label as well."
+      },
+      {
+        "id": 23,
+        "start": 83.19999694824219,
+        "end": 86.4000015258789,
+        "text": " It is a different composition in terms of how they're made."
+      },
+      {
+        "id": 24,
+        "start": 86.4000015258789,
+        "end": 89.69999694824219,
+        "text": " The Sidenafil is just the only constant because that's in every Viagra."
+      },
+      {
+        "id": 25,
+        "start": 90.69999694824219,
+        "end": 96.19999694824219,
+        "text": " Well, I understand, but these are not what you've advertised saying that it works in 11 minutes."
+      },
+      {
+        "id": 26,
+        "start": 96.19999694824219,
+        "end": 100.19999694824219,
+        "text": " I understand, sir. I understand. I literally just went over all that with you. I understand."
+      },
+      {
+        "id": 27,
+        "start": 100.19999694824219,
+        "end": 104.69999694824219,
+        "text": " So I'm sending you the right ones. You don't have to worry about returning those ones you have."
+      },
+      {
+        "id": 28,
+        "start": 104.69999694824219,
+        "end": 105.69999694824219,
+        "text": " I'm going to get you the right ones."
+      },
+      {
+        "id": 29,
+        "start": 106,
+        "end": 111,
+        "text": " Okay. Thank you very much. I appreciate you accommodating me without any hassle."
+      },
+      {
+        "id": 30,
+        "start": 111,
+        "end": 115,
+        "text": " Oh, yeah. It's not going to cost you anything. It was a mistake on our end, so it should ship out tomorrow."
+      },
+      {
+        "id": 31,
+        "start": 116,
+        "end": 122,
+        "text": " Okay. That's fine. Yeah. That's great. Thank you very much. I appreciate your help with this."
+      },
+      {
+        "id": 32,
+        "start": 122,
+        "end": 123,
+        "text": " Of course. Have a good day."
+      },
+      {
+        "id": 33,
+        "start": 124,
+        "end": 125,
+        "text": " Thank you very much. Bye."
+      },
+      {
+        "id": 34,
+        "start": 125,
+        "end": 126,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81bd-aa26-f853483889f8",
+    "url": "https://www.notion.so/300000001221018-300000001710983-2f711d0a101c81bdaa26f853483889f8"
+  },
+  "processedAt": "2026-01-29T00:02:00.224Z"
+}

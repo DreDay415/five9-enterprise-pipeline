@@ -1,0 +1,56 @@
+{
+  "recording": {
+    "name": "300000001239841-300000001729812-2397475523 by nickh@superbalife.com @ 8_48_38 AM.wav",
+    "size": 101850,
+    "modifyTime": 1770914983000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001239841-300000001729812-2397475523 by nickh@superbalife.com @ 8_48_38 AM.wav",
+    "uploadDate": "2026-02-12T16:49:43.000Z",
+    "callId": "300000001239841-300000001729812",
+    "agent": "nickh",
+    "phoneNumber": "2397475523",
+    "callTimestamp": "2026-02-12T08:48:38.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra score blue. How can I help you today?\n\nSpeaker 2: Hello, this message has been transcribed. One moment while I notify the caller.\n\nSpeaker 1: Thank you for calling Viagra score blue. How can I help you today?\n\nSpeaker 2: Hello, this message has been transcribed. One moment while I notify the caller.\n\nSpeaker 1: Hello, this message has been transcribed. One moment while I...",
+    "duration": 1657,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.2799999713897705,
+        "text": " Hi, thank you for calling Viagra score blue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 11.399999618530273,
+        "end": 17.760000228881836,
+        "text": " Hello this message has been transcribed one moment while I notify the caller I"
+      },
+      {
+        "id": 2,
+        "start": 20.959999084472656,
+        "end": 23.68000030517578,
+        "text": " Thank you for calling Viagra score blue. How can I help you today?"
+      },
+      {
+        "id": 3,
+        "start": 23.68000030517578,
+        "end": 33.52000045776367,
+        "text": " Hello this message has been transcribed one moment while I notify the caller"
+      },
+      {
+        "id": 4,
+        "start": 53.68000030517578,
+        "end": 62.400001525878906,
+        "text": " Hello this message has been transcribed one moment while I"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8124-ac7b-dfcf786e003b",
+    "url": "https://www.notion.so/300000001239841-300000001729812-30511d0a101c8124ac7bdfcf786e003b"
+  },
+  "processedAt": "2026-02-12T17:06:48.038Z"
+}

@@ -1,0 +1,152 @@
+{
+  "recording": {
+    "name": "300000001217355-300000001707701-7178369585 by lucif@superbalife.com @ 10_02_45 AM.wav",
+    "size": 130906,
+    "modifyTime": 1769583735000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217355-300000001707701-7178369585 by lucif@superbalife.com @ 10_02_45 AM.wav",
+    "uploadDate": "2026-01-28T07:02:15.000Z",
+    "callId": "300000001217355-300000001707701",
+    "agent": "lucif",
+    "phoneNumber": "7178369585",
+    "callTimestamp": "2026-01-28T10:02:45.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for speaking. How can I help you?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Yes, how can I help you, sir?\n\nSpeaker 2: I need to cancel a subscription that apparently I was on and I didn't know I was on.\n\nSpeaker 1: Oh, yeah, no, we don't have any subscriptions, sir.\n\nSpeaker 2: We can see what's going on, though. One moment.\n\nSpeaker 1: Is your name Kevin?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, yeah, I do see one of your refills went out there, sir.\n\nSpeaker 2: But, you know, as a VIP getting this Viagra that you're getting,\n\nSpeaker 1: you can order this as needed if you want.\n\nSpeaker 2: You don't have to get it automatically when you're not ready for it.\n\nSpeaker 1: Yeah, I need it canceled and I need that $63 refunded back to my card.\n\nSpeaker 2: I mean, yeah, you can ship that back to us and we can always give you a refund for it, sir.\n\nSpeaker 1: Let it go out, looks like on Saturday, I think.\n\nSpeaker 2: Okay, yeah, cancel my subscription, please.\n\nSpeaker 1: Okay, we'll do that for you.\n\nSpeaker 2: Thanks.\n\nSpeaker 1: Yep.",
+    "duration": 2769,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thanks for speaking. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 6,
+        "text": " Hello?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 9,
+        "text": " Hello?"
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 17,
+        "text": " Hello?"
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 20,
+        "text": " Yes, how can I help you, sir?"
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 25,
+        "text": " I need to cancel a subscription that apparently I was on and I didn't know I was on."
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 28,
+        "text": " Oh, yeah, no, we don't have any subscriptions, sir."
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 30,
+        "text": " We can see what's going on, though. One moment."
+      },
+      {
+        "id": 8,
+        "start": 34,
+        "end": 35,
+        "text": " Is your name Kevin?"
+      },
+      {
+        "id": 9,
+        "start": 35,
+        "end": 36,
+        "text": " Yes."
+      },
+      {
+        "id": 10,
+        "start": 43,
+        "end": 47,
+        "text": " Okay, yeah, I do see one of your refills went out there, sir."
+      },
+      {
+        "id": 11,
+        "start": 47,
+        "end": 50,
+        "text": " But, you know, as a VIP getting this Viagra that you're getting,"
+      },
+      {
+        "id": 12,
+        "start": 50,
+        "end": 52,
+        "text": " you can order this as needed if you want."
+      },
+      {
+        "id": 13,
+        "start": 52,
+        "end": 55,
+        "text": " You don't have to get it automatically when you're not ready for it."
+      },
+      {
+        "id": 14,
+        "start": 55,
+        "end": 61,
+        "text": " Yeah, I need it canceled and I need that $63 refunded back to my card."
+      },
+      {
+        "id": 15,
+        "start": 62,
+        "end": 67,
+        "text": " I mean, yeah, you can ship that back to us and we can always give you a refund for it, sir."
+      },
+      {
+        "id": 16,
+        "start": 67,
+        "end": 70,
+        "text": " Let it go out, looks like on Saturday, I think."
+      },
+      {
+        "id": 17,
+        "start": 72,
+        "end": 75,
+        "text": " Okay, yeah, cancel my subscription, please."
+      },
+      {
+        "id": 18,
+        "start": 75,
+        "end": 77,
+        "text": " Okay, we'll do that for you."
+      },
+      {
+        "id": 19,
+        "start": 77,
+        "end": 78,
+        "text": " Thanks."
+      },
+      {
+        "id": 20,
+        "start": 78,
+        "end": 79,
+        "text": " Yep."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-815f-96a8-e58c1cb608f2",
+    "url": "https://www.notion.so/300000001217355-300000001707701-2f611d0a101c815f96a8e58c1cb608f2"
+  },
+  "processedAt": "2026-01-28T16:03:53.429Z"
+}

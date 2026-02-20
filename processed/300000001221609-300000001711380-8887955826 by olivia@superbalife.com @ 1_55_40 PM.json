@@ -1,0 +1,302 @@
+{
+  "recording": {
+    "name": "300000001221609-300000001711380-8887955826 by olivia@superbalife.com @ 1_55_40 PM.wav",
+    "size": 247516,
+    "modifyTime": 1769637515000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221609-300000001711380-8887955826 by olivia@superbalife.com @ 1_55_40 PM.wav",
+    "uploadDate": "2026-01-28T21:58:35.000Z",
+    "callId": "300000001221609-300000001711380",
+    "agent": "olivia",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T13:55:40.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, this is Olivia speaking.\n\nSpeaker 2: Who do I have the pleasure of speaking with today?\n\nSpeaker 1: This is Martin Carney.\n\nSpeaker 2: Hi Martin, how are you?\n\nSpeaker 1: I'm good, how are you?\n\nSpeaker 2: Good, I'm good, thank you so much for asking.\n\nSpeaker 1: How can I help you today?\n\nSpeaker 2: Yes, I'd like to cancel my order.\n\nSpeaker 1: Yeah, yeah, I can help you with that.\n\nSpeaker 2: OK, what is the phone number associated\n\nSpeaker 1: with your prescription?\n\nSpeaker 2: It's 727-515-2572.\n\nSpeaker 1: Perfect.\n\nSpeaker 2: There you are, Martin.\n\nSpeaker 1: And what's your date of birth?\n\nSpeaker 2: 1-13-55.\n\nSpeaker 1: OK, give me one moment.\n\nSpeaker 2: There we go.\n\nSpeaker 1: OK, yeah.\n\nSpeaker 2: And what's your date of birth, Martin?\n\nSpeaker 1: It's 1-13-55.\n\nSpeaker 2: OK, great.\n\nSpeaker 1: Yeah, so I see your prescription here.\n\nSpeaker 2: All right, Martin, so yeah, if you\n\nSpeaker 1: don't want to receive those regular monthly refills\n\nSpeaker 2: with your prescription, you certainly don't have to.\n\nSpeaker 1: You always have the option with your prescription\n\nSpeaker 2: to place it on hold for up to six months at a time,\n\nSpeaker 1: just because six months is when the prescription would expire.\n\nSpeaker 2: If we didn't refill it, and the way that would work\n\nSpeaker 1: is if you did still want to order within the next six\n\nSpeaker 2: months, you could.\n\nSpeaker 1: You just have to give us a call to place the order yourself.\n\nSpeaker 2: OK, that would be fine.\n\nSpeaker 1: OK, great.\n\nSpeaker 2: So yeah, if you need anything before six months from now,\n\nSpeaker 1: it's July 28, just give us a call\n\nSpeaker 2: to place the order yourself.\n\nSpeaker 1: And we're always here Monday through Friday, 8 to 5 Pacific.\n\nSpeaker 2: Great, well, thank you very much.\n\nSpeaker 1: I appreciate it.\n\nSpeaker 2: Yeah, thank you, Martin.\n\nSpeaker 1: I hope you have a great day.\n\nSpeaker 2: You too, take care.\n\nSpeaker 1: OK, thanks.\n\nSpeaker 2: Bye.",
+    "duration": 4840,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.400000095367432,
+        "text": " Thank you for calling Viagra, this is Olivia speaking."
+      },
+      {
+        "id": 1,
+        "start": 4.400000095367432,
+        "end": 7.5,
+        "text": " Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 2,
+        "start": 7.5,
+        "end": 10.600000381469727,
+        "text": " This is Martin Carney."
+      },
+      {
+        "id": 3,
+        "start": 10.600000381469727,
+        "end": 13.239999771118164,
+        "text": " Hi Martin, how are you?"
+      },
+      {
+        "id": 4,
+        "start": 13.239999771118164,
+        "end": 16.200000762939453,
+        "text": " I'm good, how are you?"
+      },
+      {
+        "id": 5,
+        "start": 16.200000762939453,
+        "end": 25.68000030517578,
+        "text": " Good, I'm good, thank you so much for asking."
+      },
+      {
+        "id": 6,
+        "start": 25.68000030517578,
+        "end": 28.040000915527344,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 7,
+        "start": 28.079999923706055,
+        "end": 31.079999923706055,
+        "text": " Yes, I'd like to cancel my order."
+      },
+      {
+        "id": 8,
+        "start": 31.079999923706055,
+        "end": 33.119998931884766,
+        "text": " Yeah, yeah, I can help you with that."
+      },
+      {
+        "id": 9,
+        "start": 33.119998931884766,
+        "end": 36.279998779296875,
+        "text": " OK, what is the phone number associated"
+      },
+      {
+        "id": 10,
+        "start": 36.279998779296875,
+        "end": 38.79999923706055,
+        "text": " with your prescription?"
+      },
+      {
+        "id": 11,
+        "start": 38.79999923706055,
+        "end": 46.68000030517578,
+        "text": " It's 727-515-2572."
+      },
+      {
+        "id": 12,
+        "start": 46.68000030517578,
+        "end": 48.79999923706055,
+        "text": " Perfect."
+      },
+      {
+        "id": 13,
+        "start": 48.79999923706055,
+        "end": 49.959999084472656,
+        "text": " There you are, Martin."
+      },
+      {
+        "id": 14,
+        "start": 49.959999084472656,
+        "end": 53.47999954223633,
+        "text": " And what's your date of birth?"
+      },
+      {
+        "id": 15,
+        "start": 53.47999954223633,
+        "end": 56.79999923706055,
+        "text": " 1-13-55."
+      },
+      {
+        "id": 16,
+        "start": 56.79999923706055,
+        "end": 59.63999938964844,
+        "text": " OK, give me one moment."
+      },
+      {
+        "id": 17,
+        "start": 75.91999816894531,
+        "end": 76.95999908447266,
+        "text": " There we go."
+      },
+      {
+        "id": 18,
+        "start": 76.95999908447266,
+        "end": 77.87999725341797,
+        "text": " OK, yeah."
+      },
+      {
+        "id": 19,
+        "start": 77.87999725341797,
+        "end": 80.95999908447266,
+        "text": " And what's your date of birth, Martin?"
+      },
+      {
+        "id": 20,
+        "start": 80.95999908447266,
+        "end": 84.27999877929688,
+        "text": " It's 1-13-55."
+      },
+      {
+        "id": 21,
+        "start": 84.27999877929688,
+        "end": 85.5199966430664,
+        "text": " OK, great."
+      },
+      {
+        "id": 22,
+        "start": 85.5199966430664,
+        "end": 88.5999984741211,
+        "text": " Yeah, so I see your prescription here."
+      },
+      {
+        "id": 23,
+        "start": 88.5999984741211,
+        "end": 91.4000015258789,
+        "text": " All right, Martin, so yeah, if you"
+      },
+      {
+        "id": 24,
+        "start": 91.4000015258789,
+        "end": 95.19999694824219,
+        "text": " don't want to receive those regular monthly refills"
+      },
+      {
+        "id": 25,
+        "start": 95.19999694824219,
+        "end": 98.83999633789062,
+        "text": " with your prescription, you certainly don't have to."
+      },
+      {
+        "id": 26,
+        "start": 98.83999633789062,
+        "end": 102.55999755859375,
+        "text": " You always have the option with your prescription"
+      },
+      {
+        "id": 27,
+        "start": 102.55999755859375,
+        "end": 105.63999938964844,
+        "text": " to place it on hold for up to six months at a time,"
+      },
+      {
+        "id": 28,
+        "start": 105.63999938964844,
+        "end": 109.19999694824219,
+        "text": " just because six months is when the prescription would expire."
+      },
+      {
+        "id": 29,
+        "start": 109.19999694824219,
+        "end": 114.08000183105469,
+        "text": " If we didn't refill it, and the way that would work"
+      },
+      {
+        "id": 30,
+        "start": 114.08000183105469,
+        "end": 117.95999908447266,
+        "text": " is if you did still want to order within the next six"
+      },
+      {
+        "id": 31,
+        "start": 117.95999908447266,
+        "end": 119.91999816894531,
+        "text": " months, you could."
+      },
+      {
+        "id": 32,
+        "start": 119.91999816894531,
+        "end": 124.87999725341797,
+        "text": " You just have to give us a call to place the order yourself."
+      },
+      {
+        "id": 33,
+        "start": 124.87999725341797,
+        "end": 127.36000061035156,
+        "text": " OK, that would be fine."
+      },
+      {
+        "id": 34,
+        "start": 127.36000061035156,
+        "end": 128.9199981689453,
+        "text": " OK, great."
+      },
+      {
+        "id": 35,
+        "start": 128.9199981689453,
+        "end": 133.32000732421875,
+        "text": " So yeah, if you need anything before six months from now,"
+      },
+      {
+        "id": 36,
+        "start": 133.32000732421875,
+        "end": 135.72000122070312,
+        "text": " it's July 28, just give us a call"
+      },
+      {
+        "id": 37,
+        "start": 135.72000122070312,
+        "end": 138.0800018310547,
+        "text": " to place the order yourself."
+      },
+      {
+        "id": 38,
+        "start": 138.0800018310547,
+        "end": 143.0800018310547,
+        "text": " And we're always here Monday through Friday, 8 to 5 Pacific."
+      },
+      {
+        "id": 39,
+        "start": 143.0800018310547,
+        "end": 144.55999755859375,
+        "text": " Great, well, thank you very much."
+      },
+      {
+        "id": 40,
+        "start": 144.55999755859375,
+        "end": 145.44000244140625,
+        "text": " I appreciate it."
+      },
+      {
+        "id": 41,
+        "start": 145.44000244140625,
+        "end": 146.75999450683594,
+        "text": " Yeah, thank you, Martin."
+      },
+      {
+        "id": 42,
+        "start": 146.75999450683594,
+        "end": 148.8000030517578,
+        "text": " I hope you have a great day."
+      },
+      {
+        "id": 43,
+        "start": 148.8000030517578,
+        "end": 150.1999969482422,
+        "text": " You too, take care."
+      },
+      {
+        "id": 44,
+        "start": 150.1999969482422,
+        "end": 151.55999755859375,
+        "text": " OK, thanks."
+      },
+      {
+        "id": 45,
+        "start": 151.55999755859375,
+        "end": 153.1199951171875,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-817f-a004-fc32fc6bcbfb",
+    "url": "https://www.notion.so/300000001221609-300000001711380-2f611d0a101c817fa004fc32fc6bcbfb"
+  },
+  "processedAt": "2026-01-28T22:23:26.550Z"
+}

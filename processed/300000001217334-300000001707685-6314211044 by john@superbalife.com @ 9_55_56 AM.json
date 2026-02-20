@@ -1,0 +1,158 @@
+{
+  "recording": {
+    "name": "300000001217334-300000001707685-6314211044 by john@superbalife.com @ 9_55_56 AM.wav",
+    "size": 168540,
+    "modifyTime": 1769586437000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217334-300000001707685-6314211044 by john@superbalife.com @ 9_55_56 AM.wav",
+    "uploadDate": "2026-01-28T07:47:17.000Z",
+    "callId": "300000001217334-300000001707685",
+    "agent": "john",
+    "phoneNumber": "6314211044",
+    "callTimestamp": "2026-01-28T09:55:56.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling. This is John. How can I help you today?\n\nSpeaker 2: Hey John, this is Joe. I just have a question about my order that came.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Do you need my phone number or what?\n\nSpeaker 1: Your last name and zip code?\n\nSpeaker 2: Abolese. A-V-O-L-E-S-E-1-1-7-4-7.\n\nSpeaker 1: I got you pulled up here, Joe. What can I help you with?\n\nSpeaker 2: Okay. So, um, I just wanted to make sure the reason I switched to your company is that you have the new pills that, you know, what do they call them?\n\nSpeaker 1: The A-G-V.\n\nSpeaker 2: Right. Right. And that's what you sent me.\n\nSpeaker 1: That's what I see on my side here that you got 25 to 100 milligram A-G-V pills. Do the pills themselves have 100 stamped on the pill?\n\nSpeaker 2: Yes, they do.\n\nSpeaker 1: Okay. And that is the A-G-V pill. I know some of our marketing shows different, like a slightly different looking pill, but it should be a white diamond that says 100. So, that's, you got the right one, sir.\n\nSpeaker 2: Okay. No, the reason I was confused is because the advertiser in that, it starts to be effective in 11 minutes, but I don't know what this one says, take one hour.\n\nSpeaker 1: Oh, oh, yes. Yeah, I can answer that question too. So, the reason it says that is because we cannot promise every single person is going to react the same way.\n\nSpeaker 1: So, to avoid anybody being in an embarrassing situation the first couple of times they take it, we suggest do the hour. But once you've tried it a time or two, you'll get a better sense of how quickly it works for you.\n\nSpeaker 2: Okay. So, it's definitely faster acting than the old Viagra?\n\nSpeaker 1: Yes, sir. Most commonly I hear people tell me about 15 to 20 minutes is when it starts to kick in.\n\nSpeaker 2: Okay, great. All right. Well, I appreciate your help.\n\nSpeaker 1: You're welcome, Joe. I hope you have a good one.\n\nSpeaker 2: Thanks for your help. Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 4601,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thanks for calling. This is John. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 6,
+        "text": " Hey John, this is Joe. I just have a question about my order that came."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 7,
+        "text": " Okay."
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 9,
+        "text": " Do you need my phone number or what?"
+      },
+      {
+        "id": 4,
+        "start": 9,
+        "end": 11,
+        "text": " Your last name and zip code?"
+      },
+      {
+        "id": 5,
+        "start": 11,
+        "end": 17,
+        "text": " Abolese. A-V-O-L-E-S-E-1-1-7-4-7."
+      },
+      {
+        "id": 6,
+        "start": 21,
+        "end": 23,
+        "text": " I got you pulled up here, Joe. What can I help you with?"
+      },
+      {
+        "id": 7,
+        "start": 24,
+        "end": 34,
+        "text": " Okay. So, um, I just wanted to make sure the reason I switched to your company is that you have the new pills that, you know, what do they call them?"
+      },
+      {
+        "id": 8,
+        "start": 34,
+        "end": 36,
+        "text": " The A-G-V."
+      },
+      {
+        "id": 9,
+        "start": 36,
+        "end": 39,
+        "text": " Right. Right. And that's what you sent me."
+      },
+      {
+        "id": 10,
+        "start": 39,
+        "end": 48,
+        "text": " That's what I see on my side here that you got 25 to 100 milligram A-G-V pills. Do the pills themselves have 100 stamped on the pill?"
+      },
+      {
+        "id": 11,
+        "start": 48,
+        "end": 50,
+        "text": " Yes, they do."
+      },
+      {
+        "id": 12,
+        "start": 50,
+        "end": 59,
+        "text": " Okay. And that is the A-G-V pill. I know some of our marketing shows different, like a slightly different looking pill, but it should be a white diamond that says 100. So, that's, you got the right one, sir."
+      },
+      {
+        "id": 13,
+        "start": 59,
+        "end": 69,
+        "text": " Okay. No, the reason I was confused is because the advertiser in that, it starts to be effective in 11 minutes, but I don't know what this one says, take one hour."
+      },
+      {
+        "id": 14,
+        "start": 69,
+        "end": 76,
+        "text": " Oh, oh, yes. Yeah, I can answer that question too. So, the reason it says that is because we cannot promise every single person is going to react the same way."
+      },
+      {
+        "id": 15,
+        "start": 77,
+        "end": 86,
+        "text": " So, to avoid anybody being in an embarrassing situation the first couple of times they take it, we suggest do the hour. But once you've tried it a time or two, you'll get a better sense of how quickly it works for you."
+      },
+      {
+        "id": 16,
+        "start": 86,
+        "end": 90,
+        "text": " Okay. So, it's definitely faster acting than the old Viagra?"
+      },
+      {
+        "id": 17,
+        "start": 90,
+        "end": 97,
+        "text": " Yes, sir. Most commonly I hear people tell me about 15 to 20 minutes is when it starts to kick in."
+      },
+      {
+        "id": 18,
+        "start": 97,
+        "end": 100,
+        "text": " Okay, great. All right. Well, I appreciate your help."
+      },
+      {
+        "id": 19,
+        "start": 100,
+        "end": 102,
+        "text": " You're welcome, Joe. I hope you have a good one."
+      },
+      {
+        "id": 20,
+        "start": 102,
+        "end": 103,
+        "text": " Thanks for your help. Bye-bye."
+      },
+      {
+        "id": 21,
+        "start": 103,
+        "end": 104,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8114-9ef8-de620a482680",
+    "url": "https://www.notion.so/300000001217334-300000001707685-2f611d0a101c81149ef8de620a482680"
+  },
+  "processedAt": "2026-01-28T13:45:51.911Z"
+}

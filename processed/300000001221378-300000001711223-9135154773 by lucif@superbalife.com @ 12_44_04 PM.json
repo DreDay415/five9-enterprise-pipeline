@@ -1,0 +1,80 @@
+{
+  "recording": {
+    "name": "300000001221378-300000001711223-9135154773 by lucif@superbalife.com @ 12_44_04 PM.wav",
+    "size": 66880,
+    "modifyTime": 1769633107000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221378-300000001711223-9135154773 by lucif@superbalife.com @ 12_44_04 PM.wav",
+    "uploadDate": "2026-01-28T20:45:07.000Z",
+    "callId": "300000001221378-300000001711223",
+    "agent": "lucif",
+    "phoneNumber": "9135154773",
+    "callTimestamp": "2026-01-28T12:44:04.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 2: Hello, how are you doing, Mr. Wells? This is Quinn calling you from Viagra.\n\nSpeaker 2: I do understand that you did send us in or called with some questions\n\nSpeaker 2: Just wanted to call you and help you out and get you what you were looking for.\n\nSpeaker 1: I'm just giving you a ring here.\n\nSpeaker 1: about the things not working out too well for you.\n\nSpeaker 1: So you can give me a call back at 1-800-675-9807.\n\nSpeaker 2: And my extension is going to be 0035.\n\nSpeaker 1: Thank you very much and have a great day.",
+    "duration": 1753,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 10,
+        "text": " Please leave your message for 9-1-3-5-1-5-4-7-7-3."
+      },
+      {
+        "id": 1,
+        "start": 10,
+        "end": 15,
+        "text": " Hello, how are you doing, Mr. Wells? This is Quinn calling you from Viagra."
+      },
+      {
+        "id": 2,
+        "start": 15,
+        "end": 17,
+        "text": " I'm just giving you a ring here."
+      },
+      {
+        "id": 3,
+        "start": 17,
+        "end": 21,
+        "text": " I do understand that you did send us in or called with some questions"
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 24,
+        "text": " about the things not working out too well for you."
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 29,
+        "text": " Just wanted to call you and help you out and get you what you were looking for."
+      },
+      {
+        "id": 6,
+        "start": 29,
+        "end": 35,
+        "text": " So you can give me a call back at 1-800-675-9807."
+      },
+      {
+        "id": 7,
+        "start": 35,
+        "end": 38,
+        "text": " And my extension is going to be 0035."
+      },
+      {
+        "id": 8,
+        "start": 38,
+        "end": 41,
+        "text": " Thank you very much and have a great day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ee-88e3-eb11284bc942",
+    "url": "https://www.notion.so/300000001221378-300000001711223-2f611d0a101c81ee88e3eb11284bc942"
+  },
+  "processedAt": "2026-01-28T22:52:49.246Z"
+}

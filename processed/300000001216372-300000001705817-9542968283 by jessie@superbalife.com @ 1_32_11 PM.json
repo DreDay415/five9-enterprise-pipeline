@@ -1,0 +1,392 @@
+{
+  "recording": {
+    "name": "300000001216372-300000001705817-9542968283 by jessie@superbalife.com @ 1_32_11 PM.wav",
+    "size": 285736,
+    "modifyTime": 1769584631000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216372-300000001705817-9542968283 by jessie@superbalife.com @ 1_32_11 PM.wav",
+    "uploadDate": "2026-01-28T07:17:11.000Z",
+    "callId": "300000001216372-300000001705817",
+    "agent": "jessie",
+    "phoneNumber": "9542968283",
+    "callTimestamp": "2026-01-28T13:32:11.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, Mr. Maloney?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Hi.\n\nSpeaker 2: John is currently not available.\n\nSpeaker 1: He's assisting another caller.\n\nSpeaker 2: However, it does look like, and I just want to double check something.\n\nSpeaker 1: You're at 8357 Waterford Avenue, right?\n\nSpeaker 2: Camera Act?\n\nSpeaker 1: That is correct, yes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: It shows here that on the 29th of December, we received a dispute from your bank,\n\nSpeaker 1: and we refunded you in full.\n\nSpeaker 2: So there's really not much else we can do at this point, Mr. Maloney.\n\nSpeaker 1: My name is Al Malone.\n\nSpeaker 2: This is the phone number that it's pulling up.\n\nSpeaker 1: Well, I just got through talking.\n\nSpeaker 2: I ordered 20, and it's not what it's supposed to be.\n\nSpeaker 1: Do you want my RX number?\n\nSpeaker 2: No, I don't need the RX number.\n\nSpeaker 1: I was able to verify you with your address, so I know I'm looking at the right person.\n\nSpeaker 2: You did not order 20 pills from us.\n\nSpeaker 1: You ordered 10.\n\nSpeaker 2: Well, I have 20 in my possession, and it's the wrong stuff, because you totally gave\n\nSpeaker 1: it the numbers on the pills.\n\nSpeaker 2: There must be a confusion somewhere, because the stuff didn't work, and it's not blue,\n\nSpeaker 1: either.\n\nSpeaker 2: Well, I'll tell you this much.\n\nSpeaker 1: You filed a dispute, and we gave you your money back, so there's really nothing else\n\nSpeaker 2: here, sir.\n\nSpeaker 1: We refunded you all the way back in December.\n\nSpeaker 2: Well, I think I really need to speak to John.\n\nSpeaker 1: I think so.\n\nSpeaker 2: John never spoke to you, sir.\n\nSpeaker 1: I asked him, and we looked through the records, and there was no call between you and John.\n\nSpeaker 2: Are you sure?\n\nSpeaker 1: It's computerized, sir.\n\nSpeaker 2: We don't need to remember.\n\nSpeaker 1: The computer does it for us.\n\nSpeaker 2: Huh.\n\nSpeaker 1: Yep.\n\nSpeaker 2: Well, I have 20 in my hands right now, and it's the wrong stuff that was sent to me.\n\nSpeaker 1: Well, whatever service that is, I can tell you this much.\n\nSpeaker 2: On our end...\n\nSpeaker 1: And your service is ScoreBlue?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: And you said your last name is Malone, right?\n\nSpeaker 2: M-A-L-O-N.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Let's see here.\n\nSpeaker 1: Unless you've got duplicate accounts here.\n\nSpeaker 2: That might be my brother.\n\nSpeaker 1: You don't have a brother with a different last name.\n\nSpeaker 2: All right, sir.\n\nSpeaker 1: We're going to...\n\nSpeaker 2: So you changed your name.\n\nSpeaker 1: Bear with me just a moment, Mr. Malone.\n\nSpeaker 2: Alvin Malone.\n\nSpeaker 1: Maloney.\n\nSpeaker 2: Okay?\n\nSpeaker 1: So it's not your brother, but bear with me a moment.",
+    "duration": 6994,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, Mr. Maloney?"
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 3,
+        "text": " Yes."
+      },
+      {
+        "id": 2,
+        "start": 3,
+        "end": 4,
+        "text": " Hi."
+      },
+      {
+        "id": 3,
+        "start": 4,
+        "end": 7,
+        "text": " John is currently not available."
+      },
+      {
+        "id": 4,
+        "start": 7,
+        "end": 9,
+        "text": " He's assisting another caller."
+      },
+      {
+        "id": 5,
+        "start": 9,
+        "end": 13,
+        "text": " However, it does look like, and I just want to double check something."
+      },
+      {
+        "id": 6,
+        "start": 13,
+        "end": 16,
+        "text": " You're at 8357 Waterford Avenue, right?"
+      },
+      {
+        "id": 7,
+        "start": 16,
+        "end": 17,
+        "text": " Camera Act?"
+      },
+      {
+        "id": 8,
+        "start": 17,
+        "end": 18,
+        "text": " That is correct, yes."
+      },
+      {
+        "id": 9,
+        "start": 18,
+        "end": 19,
+        "text": " Okay."
+      },
+      {
+        "id": 10,
+        "start": 19,
+        "end": 20,
+        "text": " Okay."
+      },
+      {
+        "id": 11,
+        "start": 20,
+        "end": 27,
+        "text": " It shows here that on the 29th of December, we received a dispute from your bank,"
+      },
+      {
+        "id": 12,
+        "start": 27,
+        "end": 29,
+        "text": " and we refunded you in full."
+      },
+      {
+        "id": 13,
+        "start": 29,
+        "end": 33,
+        "text": " So there's really not much else we can do at this point, Mr. Maloney."
+      },
+      {
+        "id": 14,
+        "start": 33,
+        "end": 38,
+        "text": " My name is Al Malone."
+      },
+      {
+        "id": 15,
+        "start": 38,
+        "end": 44,
+        "text": " This is the phone number that it's pulling up."
+      },
+      {
+        "id": 16,
+        "start": 44,
+        "end": 46,
+        "text": " Well, I just got through talking."
+      },
+      {
+        "id": 17,
+        "start": 46,
+        "end": 56,
+        "text": " I ordered 20, and it's not what it's supposed to be."
+      },
+      {
+        "id": 18,
+        "start": 56,
+        "end": 58,
+        "text": " Do you want my RX number?"
+      },
+      {
+        "id": 19,
+        "start": 58,
+        "end": 60,
+        "text": " No, I don't need the RX number."
+      },
+      {
+        "id": 20,
+        "start": 60,
+        "end": 67,
+        "text": " I was able to verify you with your address, so I know I'm looking at the right person."
+      },
+      {
+        "id": 21,
+        "start": 67,
+        "end": 69,
+        "text": " You did not order 20 pills from us."
+      },
+      {
+        "id": 22,
+        "start": 69,
+        "end": 72,
+        "text": " You ordered 10."
+      },
+      {
+        "id": 23,
+        "start": 72,
+        "end": 78,
+        "text": " Well, I have 20 in my possession, and it's the wrong stuff, because you totally gave"
+      },
+      {
+        "id": 24,
+        "start": 78,
+        "end": 82,
+        "text": " it the numbers on the pills."
+      },
+      {
+        "id": 25,
+        "start": 82,
+        "end": 87,
+        "text": " There must be a confusion somewhere, because the stuff didn't work, and it's not blue,"
+      },
+      {
+        "id": 26,
+        "start": 87,
+        "end": 88,
+        "text": " either."
+      },
+      {
+        "id": 27,
+        "start": 88,
+        "end": 89,
+        "text": " Well, I'll tell you this much."
+      },
+      {
+        "id": 28,
+        "start": 89,
+        "end": 94,
+        "text": " You filed a dispute, and we gave you your money back, so there's really nothing else"
+      },
+      {
+        "id": 29,
+        "start": 94,
+        "end": 95,
+        "text": " here, sir."
+      },
+      {
+        "id": 30,
+        "start": 95,
+        "end": 98,
+        "text": " We refunded you all the way back in December."
+      },
+      {
+        "id": 31,
+        "start": 98,
+        "end": 101,
+        "text": " Well, I think I really need to speak to John."
+      },
+      {
+        "id": 32,
+        "start": 101,
+        "end": 103,
+        "text": " I think so."
+      },
+      {
+        "id": 33,
+        "start": 103,
+        "end": 104,
+        "text": " John never spoke to you, sir."
+      },
+      {
+        "id": 34,
+        "start": 104,
+        "end": 111,
+        "text": " I asked him, and we looked through the records, and there was no call between you and John."
+      },
+      {
+        "id": 35,
+        "start": 111,
+        "end": 112,
+        "text": " Are you sure?"
+      },
+      {
+        "id": 36,
+        "start": 112,
+        "end": 114,
+        "text": " It's computerized, sir."
+      },
+      {
+        "id": 37,
+        "start": 114,
+        "end": 116,
+        "text": " We don't need to remember."
+      },
+      {
+        "id": 38,
+        "start": 116,
+        "end": 120,
+        "text": " The computer does it for us."
+      },
+      {
+        "id": 39,
+        "start": 120,
+        "end": 121,
+        "text": " Huh."
+      },
+      {
+        "id": 40,
+        "start": 121,
+        "end": 122,
+        "text": " Yep."
+      },
+      {
+        "id": 41,
+        "start": 122,
+        "end": 128,
+        "text": " Well, I have 20 in my hands right now, and it's the wrong stuff that was sent to me."
+      },
+      {
+        "id": 42,
+        "start": 128,
+        "end": 132,
+        "text": " Well, whatever service that is, I can tell you this much."
+      },
+      {
+        "id": 43,
+        "start": 132,
+        "end": 135,
+        "text": " On our end..."
+      },
+      {
+        "id": 44,
+        "start": 135,
+        "end": 138,
+        "text": " And your service is ScoreBlue?"
+      },
+      {
+        "id": 45,
+        "start": 138,
+        "end": 139,
+        "text": " Yeah."
+      },
+      {
+        "id": 46,
+        "start": 139,
+        "end": 141,
+        "text": " And you said your last name is Malone, right?"
+      },
+      {
+        "id": 47,
+        "start": 141,
+        "end": 144,
+        "text": " M-A-L-O-N."
+      },
+      {
+        "id": 48,
+        "start": 144,
+        "end": 145,
+        "text": " Okay."
+      },
+      {
+        "id": 49,
+        "start": 145,
+        "end": 146,
+        "text": " Let's see here."
+      },
+      {
+        "id": 50,
+        "start": 146,
+        "end": 148,
+        "text": " Unless you've got duplicate accounts here."
+      },
+      {
+        "id": 51,
+        "start": 148,
+        "end": 151,
+        "text": " That might be my brother."
+      },
+      {
+        "id": 52,
+        "start": 151,
+        "end": 155,
+        "text": " You don't have a brother with a different last name."
+      },
+      {
+        "id": 53,
+        "start": 155,
+        "end": 158,
+        "text": " All right, sir."
+      },
+      {
+        "id": 54,
+        "start": 158,
+        "end": 159,
+        "text": " We're going to..."
+      },
+      {
+        "id": 55,
+        "start": 159,
+        "end": 161,
+        "text": " So you changed your name."
+      },
+      {
+        "id": 56,
+        "start": 161,
+        "end": 167,
+        "text": " Bear with me just a moment, Mr. Malone."
+      },
+      {
+        "id": 57,
+        "start": 168,
+        "end": 169,
+        "text": " Alvin Malone."
+      },
+      {
+        "id": 58,
+        "start": 169,
+        "end": 170,
+        "text": " Maloney."
+      },
+      {
+        "id": 59,
+        "start": 170,
+        "end": 171,
+        "text": " Okay?"
+      },
+      {
+        "id": 60,
+        "start": 171,
+        "end": 175,
+        "text": " So it's not your brother, but bear with me a moment."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8170-90ab-ef0f6e2f8131",
+    "url": "https://www.notion.so/300000001216372-300000001705817-2f611d0a101c817090abef0f6e2f8131"
+  },
+  "processedAt": "2026-01-28T15:05:28.963Z"
+}

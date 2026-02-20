@@ -1,0 +1,52 @@
+{
+  "recording": {
+    "name": "300000001241731-300000001731436-8887955826 by  @ 9_44_36 AM_CallStudio.wav",
+    "size": 28920,
+    "modifyTime": 1771004716000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241731-300000001731436-8887955826 by  @ 9_44_36 AM_CallStudio.wav",
+    "uploadDate": "2026-02-13T17:45:16.000Z",
+    "callId": "300000001241731-300000001731436",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-02-13T17:45:16.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241731-300000001731436_8887955826.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241731-300000001731436_8887955826.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque número nueve.\n\nSpeaker 2: Thanks, transferring to agent.",
+    "duration": 750,
+    "audioDuration": 17.760000228881836,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.260000228881836,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.420000076293945,
+        "end": 5.900000095367432,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.21999979019165,
+        "end": 7.699999809265137,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 13.9399995803833,
+        "end": 17.479999542236328,
+        "text": " Thanks, transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8160-ad4e-e13a1b49bc4d",
+    "url": "https://www.notion.so/300000001241731-300000001731436-30611d0a101c8160ad4ee13a1b49bc4d"
+  },
+  "processedAt": "2026-02-13T18:11:08.587Z"
+}

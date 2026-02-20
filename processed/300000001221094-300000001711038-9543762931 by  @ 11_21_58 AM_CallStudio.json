@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001221094-300000001711038-9543762931 by  @ 11_21_58 AM_CallStudio.wav",
+    "size": 24370,
+    "modifyTime": 1769628155000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221094-300000001711038-9543762931 by  @ 11_21_58 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T19:22:35.000Z",
+    "callId": "300000001221094-300000001711038",
+    "phoneNumber": "9543762931",
+    "callTimestamp": "2026-01-28T19:22:35.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: I have not received the package yet.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1520,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.159999847412109,
+        "end": 6.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.159999847412109,
+        "end": 8.15999984741211,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.15999984741211,
+        "end": 13.4399995803833,
+        "text": " I have not received the package yet."
+      },
+      {
+        "id": 4,
+        "start": 13.4399995803833,
+        "end": 14.640000343322754,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8161-8974-ef2a8fe72cc0",
+    "url": "https://www.notion.so/300000001221094-300000001711038-2f611d0a101c81618974ef2a8fe72cc0"
+  },
+  "processedAt": "2026-01-28T23:52:55.703Z"
+}

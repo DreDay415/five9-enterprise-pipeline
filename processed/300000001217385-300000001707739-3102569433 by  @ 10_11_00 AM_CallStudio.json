@@ -1,0 +1,91 @@
+{
+  "recording": {
+    "name": "300000001217385-300000001707739-3102569433 by  @ 10_11_00 AM_CallStudio.wav",
+    "size": 72990,
+    "modifyTime": 1769586140000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217385-300000001707739-3102569433 by  @ 10_11_00 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:42:20.000Z",
+    "callId": "300000001217385-300000001707739",
+    "phoneNumber": "3102569433",
+    "callTimestamp": "2026-01-28T07:42:20.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: We didn't receive a response or I couldn't hear you.\n\nSpeaker 2: Let's try again. Please state the reason for your call.\n\nSpeaker 1: This is a natural language AI.\n\nSpeaker 2: Just say what you would like to do.\n\nSpeaker 1: Crack an order or send me to the billing department.\n\nSpeaker 2: Let's try again.\n\nSpeaker 1: Please state the reason for your call.\n\nSpeaker 2: Talk to an agent.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 2396,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.360000133514404,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.360000133514404,
+        "end": 7.840000152587891,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.840000152587891,
+        "end": 14.84000015258789,
+        "text": " We didn't receive a response or I couldn't hear you."
+      },
+      {
+        "id": 3,
+        "start": 18.239999771118164,
+        "end": 22.079999923706055,
+        "text": " Let's try again. Please state the reason for your call."
+      },
+      {
+        "id": 4,
+        "start": 22.079999923706055,
+        "end": 28.559999465942383,
+        "text": " This is a natural language AI."
+      },
+      {
+        "id": 5,
+        "start": 29.280000686645508,
+        "end": 32.7599983215332,
+        "text": " Just say what you would like to do."
+      },
+      {
+        "id": 6,
+        "start": 32.7599983215332,
+        "end": 36.2400016784668,
+        "text": " Crack an order or send me to the billing department."
+      },
+      {
+        "id": 7,
+        "start": 36.2400016784668,
+        "end": 37.79999923706055,
+        "text": " Let's try again."
+      },
+      {
+        "id": 8,
+        "start": 37.79999923706055,
+        "end": 40.47999954223633,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 9,
+        "start": 40.47999954223633,
+        "end": 43.52000045776367,
+        "text": " Talk to an agent."
+      },
+      {
+        "id": 10,
+        "start": 43.52000045776367,
+        "end": 44.63999938964844,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8143-958e-e66580493bf5",
+    "url": "https://www.notion.so/300000001217385-300000001707739-2f611d0a101c8143958ee66580493bf5"
+  },
+  "processedAt": "2026-01-28T13:55:56.937Z"
+}

@@ -1,0 +1,278 @@
+{
+  "recording": {
+    "name": "300000001218220-300000001708265-3863331478 by josimar@superbalife.com @ 1_49_03 PM.wav",
+    "size": 135650,
+    "modifyTime": 1769584630000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218220-300000001708265-3863331478 by josimar@superbalife.com @ 1_49_03 PM.wav",
+    "uploadDate": "2026-01-28T07:17:10.000Z",
+    "callId": "300000001218220-300000001708265",
+    "agent": "josimar",
+    "phoneNumber": "3863331478",
+    "callTimestamp": "2026-01-28T13:49:03.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, I can help you there.\n\nSpeaker 2: Yeah, listen.\n\nSpeaker 1: I'm calling because I want to cancel my subscription.\n\nSpeaker 2: Understood?\n\nSpeaker 1: Yeah, I can help you with that.\n\nSpeaker 2: What's your last name and ZIP code?\n\nSpeaker 1: My last name?\n\nSpeaker 2: Yeah, and a ZIP code.\n\nSpeaker 1: Okay, my last name is Diaz.\n\nSpeaker 2: D-I-A-Z.\n\nSpeaker 1: And my ZIP code is 32738.\n\nSpeaker 2: And first name?\n\nSpeaker 1: Rafael.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I located your profile here.\n\nSpeaker 2: So, real quick, I do want to mention before I cancel this out.\n\nSpeaker 1: The moment the prescription does get canceled, sir,\n\nSpeaker 2: you wouldn't be able to access it because the doctor would delete it from the system.\n\nSpeaker 1: Are you sure you didn't want to freeze it instead?\n\nSpeaker 2: We offer a freeze plan of every six months,\n\nSpeaker 1: so that way you can just call us when you need it or call us to delete it.\n\nSpeaker 2: No, no, no.\n\nSpeaker 1: Listen, the medication is making me sick.\n\nSpeaker 2: It's not working with me.\n\nSpeaker 1: Not a problem, sir.\n\nSpeaker 2: I'll go ahead and I'll just stop it for you entirely.\n\nSpeaker 1: Please, thank you.\n\nSpeaker 2: I might cancel it out and you're good to go.\n\nSpeaker 1: I hope you have a great day.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Is there a verification number I get or it just canceled already?\n\nSpeaker 2: No, it just canceled because the prescription gets deleted as well.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Please, please cancel it, okay?\n\nSpeaker 1: This is my second call.\n\nSpeaker 2: No, you're all set.\n\nSpeaker 1: I'll cancel it out for you.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: No worries.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 4991,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Viagra, I can help you there."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5,
+        "text": " Yeah, listen."
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 8,
+        "text": " I'm calling because I want to cancel my subscription."
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 9,
+        "text": " Understood?"
+      },
+      {
+        "id": 4,
+        "start": 9,
+        "end": 11,
+        "text": " Yeah, I can help you with that."
+      },
+      {
+        "id": 5,
+        "start": 11,
+        "end": 14,
+        "text": " What's your last name and ZIP code?"
+      },
+      {
+        "id": 6,
+        "start": 14,
+        "end": 16,
+        "text": " My last name?"
+      },
+      {
+        "id": 7,
+        "start": 16,
+        "end": 18,
+        "text": " Yeah, and a ZIP code."
+      },
+      {
+        "id": 8,
+        "start": 18,
+        "end": 20,
+        "text": " Okay, my last name is Diaz."
+      },
+      {
+        "id": 9,
+        "start": 20,
+        "end": 22,
+        "text": " D-I-A-Z."
+      },
+      {
+        "id": 10,
+        "start": 22,
+        "end": 29,
+        "text": " And my ZIP code is 32738."
+      },
+      {
+        "id": 11,
+        "start": 29,
+        "end": 32,
+        "text": " And first name?"
+      },
+      {
+        "id": 12,
+        "start": 32,
+        "end": 34,
+        "text": " Rafael."
+      },
+      {
+        "id": 13,
+        "start": 34,
+        "end": 35,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 35,
+        "end": 36,
+        "text": " I located your profile here."
+      },
+      {
+        "id": 15,
+        "start": 36,
+        "end": 39,
+        "text": " So, real quick, I do want to mention before I cancel this out."
+      },
+      {
+        "id": 16,
+        "start": 39,
+        "end": 41,
+        "text": " The moment the prescription does get canceled, sir,"
+      },
+      {
+        "id": 17,
+        "start": 41,
+        "end": 44,
+        "text": " you wouldn't be able to access it because the doctor would delete it from the system."
+      },
+      {
+        "id": 18,
+        "start": 44,
+        "end": 46,
+        "text": " Are you sure you didn't want to freeze it instead?"
+      },
+      {
+        "id": 19,
+        "start": 46,
+        "end": 48,
+        "text": " We offer a freeze plan of every six months,"
+      },
+      {
+        "id": 20,
+        "start": 48,
+        "end": 51,
+        "text": " so that way you can just call us when you need it or call us to delete it."
+      },
+      {
+        "id": 21,
+        "start": 51,
+        "end": 52,
+        "text": " No, no, no."
+      },
+      {
+        "id": 22,
+        "start": 52,
+        "end": 55,
+        "text": " Listen, the medication is making me sick."
+      },
+      {
+        "id": 23,
+        "start": 55,
+        "end": 57,
+        "text": " It's not working with me."
+      },
+      {
+        "id": 24,
+        "start": 57,
+        "end": 58,
+        "text": " Not a problem, sir."
+      },
+      {
+        "id": 25,
+        "start": 58,
+        "end": 60,
+        "text": " I'll go ahead and I'll just stop it for you entirely."
+      },
+      {
+        "id": 26,
+        "start": 60,
+        "end": 61,
+        "text": " Please, thank you."
+      },
+      {
+        "id": 27,
+        "start": 61,
+        "end": 63,
+        "text": " I might cancel it out and you're good to go."
+      },
+      {
+        "id": 28,
+        "start": 63,
+        "end": 65,
+        "text": " I hope you have a great day."
+      },
+      {
+        "id": 29,
+        "start": 65,
+        "end": 66,
+        "text": " Okay."
+      },
+      {
+        "id": 30,
+        "start": 66,
+        "end": 70,
+        "text": " Is there a verification number I get or it just canceled already?"
+      },
+      {
+        "id": 31,
+        "start": 70,
+        "end": 73,
+        "text": " No, it just canceled because the prescription gets deleted as well."
+      },
+      {
+        "id": 32,
+        "start": 73,
+        "end": 74,
+        "text": " Okay."
+      },
+      {
+        "id": 33,
+        "start": 74,
+        "end": 76,
+        "text": " Please, please cancel it, okay?"
+      },
+      {
+        "id": 34,
+        "start": 76,
+        "end": 77,
+        "text": " This is my second call."
+      },
+      {
+        "id": 35,
+        "start": 77,
+        "end": 78,
+        "text": " No, you're all set."
+      },
+      {
+        "id": 36,
+        "start": 78,
+        "end": 79,
+        "text": " I'll cancel it out for you."
+      },
+      {
+        "id": 37,
+        "start": 79,
+        "end": 80,
+        "text": " Okay."
+      },
+      {
+        "id": 38,
+        "start": 80,
+        "end": 81,
+        "text": " Thank you."
+      },
+      {
+        "id": 39,
+        "start": 81,
+        "end": 82,
+        "text": " No worries."
+      },
+      {
+        "id": 40,
+        "start": 82,
+        "end": 83,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 41,
+        "start": 83,
+        "end": 84,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a1-8aae-deea0411f2be",
+    "url": "https://www.notion.so/300000001218220-300000001708265-2f611d0a101c81a18aaedeea0411f2be"
+  },
+  "processedAt": "2026-01-28T15:07:34.716Z"
+}

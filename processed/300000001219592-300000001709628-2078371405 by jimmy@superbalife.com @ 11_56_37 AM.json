@@ -1,0 +1,170 @@
+{
+  "recording": {
+    "name": "300000001219592-300000001709628-2078371405 by jimmy@superbalife.com @ 11_56_37 AM.wav",
+    "size": 88850,
+    "modifyTime": 1769589135000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219592-300000001709628-2078371405 by jimmy@superbalife.com @ 11_56_37 AM.wav",
+    "uploadDate": "2026-01-28T08:32:15.000Z",
+    "callId": "300000001219592-300000001709628",
+    "agent": "jimmy",
+    "phoneNumber": "2078371405",
+    "callTimestamp": "2026-01-28T11:56:37.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, this is Jimmy.\n\nSpeaker 2: How can I help you today?\n\nSpeaker 1: Yes, this is score blue?\n\nSpeaker 2: Yes, it is.\n\nSpeaker 1: All right, I was supposed to call about a medical chat.\n\nSpeaker 2: OK, let me take a look and see what I'm—\n\nSpeaker 1: Is this Albert I'm speaking to?\n\nSpeaker 2: Yes.\n\nSpeaker 1: All right, it says to complete your medical visit—\n\nSpeaker 2: We require that you send us a, they—\n\nSpeaker 1: Want you to send a 15, I'm excuse me, a five second video—\n\nSpeaker 2: To introduce yourself to the doctor.\n\nSpeaker 1: And I believe they sent you a link to do that.\n\nSpeaker 2: So you just need to click on that—\n\nSpeaker 1: Make a quick five second video, just introduce yourself—\n\nSpeaker 2: And attach it to that link that's—\n\nSpeaker 1: On your email or your text message.\n\nSpeaker 2: That's what I'm reading.\n\nSpeaker 1: All right.\n\nSpeaker 2: Oh, I thought I had the right thing here.\n\nSpeaker 1: OK.\n\nSpeaker 2: All right, I'll see what I can do.\n\nSpeaker 1: Yep, thank you.\n\nSpeaker 2: All right, not a problem, take care.",
+    "duration": 2389,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling Viagra, this is Jimmy."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 4.28000020980835,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 2,
+        "start": 4.28000020980835,
+        "end": 6.840000152587891,
+        "text": " Yes, this score blue?"
+      },
+      {
+        "id": 3,
+        "start": 6.840000152587891,
+        "end": 8.319999694824219,
+        "text": " Yes, it is."
+      },
+      {
+        "id": 4,
+        "start": 8.319999694824219,
+        "end": 13,
+        "text": " All right, I was supposed to call about a medical chat."
+      },
+      {
+        "id": 5,
+        "start": 13,
+        "end": 15.079999923706055,
+        "text": " OK, let me take a look and see what I'm,"
+      },
+      {
+        "id": 6,
+        "start": 15.079999923706055,
+        "end": 17.1200008392334,
+        "text": " is this Albert I'm speaking to?"
+      },
+      {
+        "id": 7,
+        "start": 17.1200008392334,
+        "end": 18.959999084472656,
+        "text": " Yes."
+      },
+      {
+        "id": 8,
+        "start": 18.959999084472656,
+        "end": 22.440000534057617,
+        "text": " All right, it says to complete your medical visit,"
+      },
+      {
+        "id": 9,
+        "start": 22.440000534057617,
+        "end": 23.959999084472656,
+        "text": " we require that you send us a, they"
+      },
+      {
+        "id": 10,
+        "start": 23.959999084472656,
+        "end": 27.399999618530273,
+        "text": " want you to send a 15, I'm excuse me, a five second video"
+      },
+      {
+        "id": 11,
+        "start": 27.399999618530273,
+        "end": 29.479999542236328,
+        "text": " to introduce yourself to the doctor."
+      },
+      {
+        "id": 12,
+        "start": 29.479999542236328,
+        "end": 32.560001373291016,
+        "text": " And I believe they send you a link to do that."
+      },
+      {
+        "id": 13,
+        "start": 32.560001373291016,
+        "end": 34.279998779296875,
+        "text": " So you just need to click on that,"
+      },
+      {
+        "id": 14,
+        "start": 34.279998779296875,
+        "end": 37.31999969482422,
+        "text": " make a quick five second video, just introduce yourself,"
+      },
+      {
+        "id": 15,
+        "start": 37.31999969482422,
+        "end": 40,
+        "text": " and attach it to that link that's"
+      },
+      {
+        "id": 16,
+        "start": 40,
+        "end": 43.63999938964844,
+        "text": " on your email or your text message."
+      },
+      {
+        "id": 17,
+        "start": 43.63999938964844,
+        "end": 44.63999938964844,
+        "text": " That's what I'm reading."
+      },
+      {
+        "id": 18,
+        "start": 44.63999938964844,
+        "end": 46.15999984741211,
+        "text": " All right."
+      },
+      {
+        "id": 19,
+        "start": 46.15999984741211,
+        "end": 48.439998626708984,
+        "text": " Oh, I thought I had the right thing here."
+      },
+      {
+        "id": 20,
+        "start": 48.439998626708984,
+        "end": 49.880001068115234,
+        "text": " OK."
+      },
+      {
+        "id": 21,
+        "start": 49.880001068115234,
+        "end": 51.31999969482422,
+        "text": " All right, I'll see what I can do."
+      },
+      {
+        "id": 22,
+        "start": 51.31999969482422,
+        "end": 52.040000915527344,
+        "text": " Yep, thank you."
+      },
+      {
+        "id": 23,
+        "start": 52.040000915527344,
+        "end": 54.68000030517578,
+        "text": " All right, not a problem, take care."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81bc-8421-f5bc522af0e9",
+    "url": "https://www.notion.so/300000001219592-300000001709628-2f611d0a101c81bc8421f5bc522af0e9"
+  },
+  "processedAt": "2026-01-28T12:55:10.884Z"
+}

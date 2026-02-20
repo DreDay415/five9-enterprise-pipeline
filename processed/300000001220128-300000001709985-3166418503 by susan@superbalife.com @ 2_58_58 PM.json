@@ -1,0 +1,68 @@
+{
+  "recording": {
+    "name": "300000001220128-300000001709985-3166418503 by susan@superbalife.com @ 2_58_58 PM.wav",
+    "size": 18196,
+    "modifyTime": 1769554770000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220128-300000001709985-3166418503 by susan@superbalife.com @ 2_58_58 PM.wav",
+    "uploadDate": "2026-01-27T22:59:30.000Z",
+    "callId": "300000001220128-300000001709985",
+    "agent": "susan",
+    "phoneNumber": "3166418503",
+    "callTimestamp": "2026-01-27T14:58:58.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi Squad Blue, I'm going to get you over there to that department right now.\n\nSpeaker 2: Okay, here you go.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Here you go.\n\nSpeaker 1: Have a good day.",
+    "duration": 2225,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " Hi Squad Blue, I'm going to get you over there to that department right now."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 8,
+        "text": " Okay, here you go."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 9,
+        "text": " Okay."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 10,
+        "text": " Thank you."
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 11,
+        "text": " Thank you."
+      },
+      {
+        "id": 5,
+        "start": 11,
+        "end": 12,
+        "text": " Here you go."
+      },
+      {
+        "id": 6,
+        "start": 12,
+        "end": 13,
+        "text": " Have a good day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81da-a729-dcbbb5f9b8ae",
+    "url": "https://www.notion.so/300000001220128-300000001709985-2f611d0a101c81daa729dcbbb5f9b8ae"
+  },
+  "processedAt": "2026-01-28T18:05:22.936Z"
+}

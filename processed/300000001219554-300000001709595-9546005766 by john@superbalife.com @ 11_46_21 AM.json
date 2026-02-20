@@ -1,0 +1,122 @@
+{
+  "recording": {
+    "name": "300000001219554-300000001709595-9546005766 by john@superbalife.com @ 11_46_21 AM.wav",
+    "size": 109260,
+    "modifyTime": 1769582239000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219554-300000001709595-9546005766 by john@superbalife.com @ 11_46_21 AM.wav",
+    "uploadDate": "2026-01-28T06:37:19.000Z",
+    "callId": "300000001219554-300000001709595",
+    "agent": "john",
+    "phoneNumber": "9546005766",
+    "callTimestamp": "2026-01-28T11:46:21.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling, this is John, how can I help you?\n\nSpeaker 2: I didn't receive my order, do you want to give the number?\n\nSpeaker 1: Your name and zip code.\n\nSpeaker 2: My name is Richard, family name Demers, D-E-M-E-R-S, 33442 in Serega.\n\nSpeaker 1: Cambridge? 3074 Cambridge?\n\nSpeaker 2: Yes.\n\nSpeaker 1: It's being delivered today sir, it's going to be in the mailbox today.\n\nSpeaker 2: Okay, it's not UPS?\n\nSpeaker 1: No, postal service.\n\nSpeaker 2: Oh, because me, someone from UPS text me something and I respond because he had the number of my...\n\nSpeaker 1: Oh, you know, we never ship UPS, it's always postal service.\n\nSpeaker 2: Okay, so I'm going to get it today.\n\nSpeaker 1: That's what it says, it says it's out for delivery right now.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: Thank you, bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 3550,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling, this is John, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 8,
+        "text": " I didn't receive my order, do you want to give the number?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 10,
+        "text": " Your name and zip code."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 26,
+        "text": " My name is Richard, family name Demers, D-E-M-E-R-S, 33442 in Serega."
+      },
+      {
+        "id": 4,
+        "start": 26,
+        "end": 28,
+        "text": " Cambridge? 3074 Cambridge?"
+      },
+      {
+        "id": 5,
+        "start": 28,
+        "end": 30,
+        "text": " Yes."
+      },
+      {
+        "id": 6,
+        "start": 30,
+        "end": 34,
+        "text": " It's being delivered today sir, it's going to be in the mailbox today."
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 37,
+        "text": " Okay, it's not UPS?"
+      },
+      {
+        "id": 8,
+        "start": 37,
+        "end": 39,
+        "text": " No, postal service."
+      },
+      {
+        "id": 9,
+        "start": 39,
+        "end": 52,
+        "text": " Oh, because me, someone from UPS text me something and I respond because he had the number of my..."
+      },
+      {
+        "id": 10,
+        "start": 52,
+        "end": 57,
+        "text": " Oh, you know, we never ship UPS, it's always postal service."
+      },
+      {
+        "id": 11,
+        "start": 57,
+        "end": 60,
+        "text": " Okay, so I'm going to get it today."
+      },
+      {
+        "id": 12,
+        "start": 60,
+        "end": 63,
+        "text": " That's what it says, it says it's out for delivery right now."
+      },
+      {
+        "id": 13,
+        "start": 63,
+        "end": 65,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 14,
+        "start": 65,
+        "end": 66,
+        "text": " Thank you, bye-bye."
+      },
+      {
+        "id": 15,
+        "start": 66,
+        "end": 67,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8129-b967-c7bab3859406",
+    "url": "https://www.notion.so/300000001219554-300000001709595-2f611d0a101c8129b967c7bab3859406"
+  },
+  "processedAt": "2026-01-28T17:17:27.895Z"
+}

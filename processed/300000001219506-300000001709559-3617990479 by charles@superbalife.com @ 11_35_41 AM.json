@@ -1,0 +1,98 @@
+{
+  "recording": {
+    "name": "300000001219506-300000001709559-3617990479 by charles@superbalife.com @ 11_35_41 AM.wav",
+    "size": 16766,
+    "modifyTime": 1769586140000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219506-300000001709559-3617990479 by charles@superbalife.com @ 11_35_41 AM.wav",
+    "uploadDate": "2026-01-28T07:42:20.000Z",
+    "callId": "300000001219506-300000001709559",
+    "agent": "charles",
+    "phoneNumber": "3617990479",
+    "callTimestamp": "2026-01-28T11:35:41.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi.\n\nSpeaker 2: Hi.\n\nSpeaker 1: Can you take a Spanish?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: What does he mean?\n\nSpeaker 2: All right.\n\nSpeaker 1: Great weather?\n\nSpeaker 2: I don't know.\n\nSpeaker 1: I'm not too sure.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.",
+    "duration": 1403,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Hi."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2,
+        "text": " Hi."
+      },
+      {
+        "id": 2,
+        "start": 2,
+        "end": 3,
+        "text": " Can you take a Spanish?"
+      },
+      {
+        "id": 3,
+        "start": 3,
+        "end": 4,
+        "text": " Yeah."
+      },
+      {
+        "id": 4,
+        "start": 4,
+        "end": 5,
+        "text": " What does he mean?"
+      },
+      {
+        "id": 5,
+        "start": 5,
+        "end": 6,
+        "text": " All right."
+      },
+      {
+        "id": 6,
+        "start": 6,
+        "end": 7,
+        "text": " Great weather?"
+      },
+      {
+        "id": 7,
+        "start": 7,
+        "end": 8,
+        "text": " I don't know."
+      },
+      {
+        "id": 8,
+        "start": 8,
+        "end": 9,
+        "text": " I'm not too sure."
+      },
+      {
+        "id": 9,
+        "start": 9,
+        "end": 10,
+        "text": " Okay."
+      },
+      {
+        "id": 10,
+        "start": 10,
+        "end": 11,
+        "text": " All right."
+      },
+      {
+        "id": 11,
+        "start": 11,
+        "end": 11,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ba-a8dc-ed028cc2e8bf",
+    "url": "https://www.notion.so/300000001219506-300000001709559-2f611d0a101c81baa8dced028cc2e8bf"
+  },
+  "processedAt": "2026-01-28T13:55:44.012Z"
+}

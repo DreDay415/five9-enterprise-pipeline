@@ -1,0 +1,164 @@
+{
+  "recording": {
+    "name": "300000001240063-300000001729974-8597391728 by shantay@superbalife.com @ 9_39_35 AM.wav",
+    "size": 168150,
+    "modifyTime": 1770918100000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240063-300000001729974-8597391728 by shantay@superbalife.com @ 9_39_35 AM.wav",
+    "uploadDate": "2026-02-12T17:41:40.000Z",
+    "callId": "300000001240063-300000001729974",
+    "agent": "shantay",
+    "phoneNumber": "8597391728",
+    "callTimestamp": "2026-02-12T09:39:35.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Yes, this is John Riley. I want to cancel my stuff.\n\nSpeaker 1: Okay, I can help you with this, Mr. Riley. May I have your date of birth, please?\n\nSpeaker 2: 9-28-64.\n\nSpeaker 1: Thank you. And while I'm pulling up your account, may I ask the reason for wanting to cancel?\n\nSpeaker 2: It's getting too expensive.\n\nSpeaker 1: Okay, let's see here. Well, I do see, Mr. Riley, that you have been one of our VIPs for some months now.\n\nSpeaker 2: You're not required to get it every month.\n\nSpeaker 1: If you want to keep access to the Viagra, you can change it to every four months, five months, even up to every six months.\n\nSpeaker 2: By doing that, we can also discount it by $10, so it will be $53.95.\n\nSpeaker 1: How many pills are in that nine?\n\nSpeaker 2: Ten.\n\nSpeaker 1: Ten?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: I'll just go ahead and cancel.\n\nSpeaker 2: Are you sure? You don't want to take the offer for $53.95, saving $10, and then all that will be?\n\nSpeaker 1: You don't have to get it as often as every month.\n\nSpeaker 2: I'm going to pass.\n\nSpeaker 1: Okay, no worries, Mr. Riley. I've gone ahead and canceled it for you.\n\nSpeaker 2: Take care of that. Your prescription is canceled.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Bye-bye.",
+    "duration": 3434,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 11,
+        "text": " Yes, this is John Riley. I want to cancel my stuff."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 16,
+        "text": " Okay, I can help you with this, Mr. Riley. May I have your date of birth, please?"
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 18,
+        "text": " 9-28-64."
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 23,
+        "text": " Thank you. And while I'm pulling up your account, may I ask the reason for wanting to cancel?"
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 26,
+        "text": " It's getting too expensive."
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 34,
+        "text": " Okay, let's see here. Well, I do see, Mr. Riley, that you have been one of our VIPs for some months now."
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 37,
+        "text": " You're not required to get it every month."
+      },
+      {
+        "id": 8,
+        "start": 37,
+        "end": 50,
+        "text": " If you want to keep access to the Viagra, you can change it to every four months, five months, even up to every six months."
+      },
+      {
+        "id": 9,
+        "start": 50,
+        "end": 55,
+        "text": " By doing that, we can also discount it by $10, so it will be $53.95."
+      },
+      {
+        "id": 10,
+        "start": 63,
+        "end": 65,
+        "text": " How many pills are in that nine?"
+      },
+      {
+        "id": 11,
+        "start": 65,
+        "end": 67,
+        "text": " Ten."
+      },
+      {
+        "id": 12,
+        "start": 67,
+        "end": 68,
+        "text": " Ten?"
+      },
+      {
+        "id": 13,
+        "start": 68,
+        "end": 69,
+        "text": " Yeah."
+      },
+      {
+        "id": 14,
+        "start": 71,
+        "end": 73,
+        "text": " I'll just go ahead and cancel."
+      },
+      {
+        "id": 15,
+        "start": 74,
+        "end": 82,
+        "text": " Are you sure? You don't want to take the offer for $53.95, saving $10, and then all that will be?"
+      },
+      {
+        "id": 16,
+        "start": 82,
+        "end": 85,
+        "text": " You don't have to get it as often as every month."
+      },
+      {
+        "id": 17,
+        "start": 87,
+        "end": 89,
+        "text": " I'm going to pass."
+      },
+      {
+        "id": 18,
+        "start": 89,
+        "end": 92,
+        "text": " Okay, no worries, Mr. Riley. I've gone ahead and canceled it for you."
+      },
+      {
+        "id": 19,
+        "start": 97,
+        "end": 99,
+        "text": " Take care of that. Your prescription is canceled."
+      },
+      {
+        "id": 20,
+        "start": 99,
+        "end": 101,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 21,
+        "start": 101,
+        "end": 102,
+        "text": " You're welcome."
+      },
+      {
+        "id": 22,
+        "start": 103,
+        "end": 104,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8161-b318-cf834368a2f0",
+    "url": "https://www.notion.so/300000001240063-300000001729974-30511d0a101c8161b318cf834368a2f0"
+  },
+  "processedAt": "2026-02-12T18:10:03.149Z"
+}

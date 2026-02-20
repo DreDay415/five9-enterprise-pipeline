@@ -1,0 +1,233 @@
+{
+  "recording": {
+    "name": "300000001241515-300000001731284-5743950283 by gabriela@superbalife.com @ 8_49_37 AM.wav",
+    "size": 83976,
+    "modifyTime": 1771001451000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241515-300000001731284-5743950283 by gabriela@superbalife.com @ 8_49_37 AM.wav",
+    "uploadDate": "2026-02-13T16:50:51.000Z",
+    "callId": "300000001241515-300000001731284",
+    "agent": "gabriela",
+    "phoneNumber": "5743950283",
+    "callTimestamp": "2026-02-13T08:49:37.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_gabriela_300000001241515-300000001731284_5743950283.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_gabriela_300000001241515-300000001731284_5743950283.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Okay, looks like you have two accounts, and your email address is 809 North Bradley, Indianapolis,\n\nSpeaker 2: Indiana, 46201.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, yeah.\n\nSpeaker 1: So, yes, I do see here you actually did place this order today in the morning and purchased\n\nSpeaker 2: a quantity of 10 pills.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yeah, yeah.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: And it looks like your prescription got approved already as well, so you should definitely\n\nSpeaker 1: be receiving your order within the next three to five business days, okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: I'm just responding to some emails, and they already went through.\n\nSpeaker 2: Okay.\n\nSpeaker 1: So, can you tell me exactly how much the order was?\n\nSpeaker 2: Yes.\n\nSpeaker 1: So, you purchased 10 pills for $49.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: That's all I had.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Yep.\n\nSpeaker 2: Enjoy your day.\n\nSpeaker 1: Yep.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: You too.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Yep.",
+    "duration": 2559,
+    "audioDuration": 51.63999938964844,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Okay, looks like you have two accounts, and your email address is 809 North Bradley, Indianapolis,"
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 8,
+        "text": " Indiana, 46201."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 9,
+        "text": " Yes."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 10,
+        "text": " Okay, yeah."
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 15.720000267028809,
+        "text": " So, yes, I do see here you actually did place this order today in the morning and purchased"
+      },
+      {
+        "id": 5,
+        "start": 15.720000267028809,
+        "end": 16.719999313354492,
+        "text": " a quantity of 10 pills."
+      },
+      {
+        "id": 6,
+        "start": 16.719999313354492,
+        "end": 17.719999313354492,
+        "text": " Okay."
+      },
+      {
+        "id": 7,
+        "start": 17.719999313354492,
+        "end": 18.719999313354492,
+        "text": " Yeah, yeah."
+      },
+      {
+        "id": 8,
+        "start": 18.719999313354492,
+        "end": 19.719999313354492,
+        "text": " Yeah."
+      },
+      {
+        "id": 9,
+        "start": 19.719999313354492,
+        "end": 23.719999313354492,
+        "text": " And it looks like your prescription got approved already as well, so you should definitely"
+      },
+      {
+        "id": 10,
+        "start": 23.719999313354492,
+        "end": 27.399999618530273,
+        "text": " be receiving your order within the next three to five business days, okay?"
+      },
+      {
+        "id": 11,
+        "start": 27.399999618530273,
+        "end": 28.399999618530273,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 28.399999618530273,
+        "end": 31.399999618530273,
+        "text": " I'm just responding to some emails, and they already went through."
+      },
+      {
+        "id": 13,
+        "start": 31.399999618530273,
+        "end": 32.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 32.400001525878906,
+        "end": 35.400001525878906,
+        "text": " So, can you tell me exactly how much the order was?"
+      },
+      {
+        "id": 15,
+        "start": 35.400001525878906,
+        "end": 36.400001525878906,
+        "text": " Yes."
+      },
+      {
+        "id": 16,
+        "start": 36.400001525878906,
+        "end": 39.400001525878906,
+        "text": " So, you purchased 10 pills for $49."
+      },
+      {
+        "id": 17,
+        "start": 39.400001525878906,
+        "end": 40.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 18,
+        "start": 40.400001525878906,
+        "end": 41.400001525878906,
+        "text": " All right."
+      },
+      {
+        "id": 19,
+        "start": 41.400001525878906,
+        "end": 42.400001525878906,
+        "text": " Yeah."
+      },
+      {
+        "id": 20,
+        "start": 42.400001525878906,
+        "end": 43.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 43.400001525878906,
+        "end": 44.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 22,
+        "start": 44.400001525878906,
+        "end": 45.400001525878906,
+        "text": " All right."
+      },
+      {
+        "id": 23,
+        "start": 45.400001525878906,
+        "end": 46.400001525878906,
+        "text": " Thank you."
+      },
+      {
+        "id": 24,
+        "start": 46.400001525878906,
+        "end": 47.400001525878906,
+        "text": " That's all I had."
+      },
+      {
+        "id": 25,
+        "start": 47.400001525878906,
+        "end": 48.400001525878906,
+        "text": " You're welcome."
+      },
+      {
+        "id": 26,
+        "start": 48.400001525878906,
+        "end": 49.400001525878906,
+        "text": " Yep."
+      },
+      {
+        "id": 27,
+        "start": 49.400001525878906,
+        "end": 50.400001525878906,
+        "text": " Enjoy your day."
+      },
+      {
+        "id": 28,
+        "start": 50.400001525878906,
+        "end": 51.400001525878906,
+        "text": " Yep."
+      },
+      {
+        "id": 29,
+        "start": 51.400001525878906,
+        "end": 52.400001525878906,
+        "text": " Thank you."
+      },
+      {
+        "id": 30,
+        "start": 52.400001525878906,
+        "end": 53.400001525878906,
+        "text": " You too."
+      },
+      {
+        "id": 31,
+        "start": 53.400001525878906,
+        "end": 54.400001525878906,
+        "text": " Bye."
+      },
+      {
+        "id": 32,
+        "start": 54.400001525878906,
+        "end": 55.400001525878906,
+        "text": " Yep."
+      },
+      {
+        "id": 33,
+        "start": 55.400001525878906,
+        "end": 55.400001525878906,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-816c-82c7-e532d2f09ecc",
+    "url": "https://www.notion.so/300000001241515-300000001731284-30611d0a101c816c82c7e532d2f09ecc"
+  },
+  "processedAt": "2026-02-13T17:07:25.108Z"
+}

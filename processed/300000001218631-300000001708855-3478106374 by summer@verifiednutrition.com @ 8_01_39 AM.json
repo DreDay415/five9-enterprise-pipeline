@@ -1,0 +1,290 @@
+{
+  "recording": {
+    "name": "300000001218631-300000001708855-3478106374 by summer@verifiednutrition.com @ 8_01_39 AM.wav",
+    "size": 333640,
+    "modifyTime": 1769584635000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218631-300000001708855-3478106374 by summer@verifiednutrition.com @ 8_01_39 AM.wav",
+    "uploadDate": "2026-01-28T07:17:15.000Z",
+    "callId": "300000001218631-300000001708855",
+    "agent": "summer",
+    "phoneNumber": "3478106374",
+    "callTimestamp": "2026-01-28T08:01:39.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service. I can help you.\n\nSpeaker 2: Yes, hi. I have a problem and I sent some emails and I've been trying to get through and this is the first time I actually was able to get through. I actually ordered the product Score Blue and it gave me kind of hot flashes and stuff, my nose up pretty bad.\n\nSpeaker 1: So you wrote them about it and they said to try a little lower dose?\n\nSpeaker 2: Yes, but I did and it didn't help me. So I canceled the order. Then all of a sudden, a couple of days ago on Friday, I seen the charge.\n\nSpeaker 1: So you tried to call but obviously you didn't get through, and then the weekend and yesterday you couldn't get through?\n\nSpeaker 2: Right. But actually, the email I wrote them, I said I canceled and the girl in the email told me to call this number and you could cancel over the phone, but I was already charged.\n\nSpeaker 1: Okay, what's your zip code?\n\nSpeaker 2: 10465.\n\nSpeaker 1: And your name's Lewis Bartolotti?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, I have your account up here. What did you want to do?\n\nSpeaker 2: Well, I did cancel the item weeks ago and all of a sudden I noticed that I got a charge. So when I sent the email about the charge, they told me that I had to call this number and you guys will take care of it.\n\nSpeaker 1: Okay, and what are we taking?\n\nSpeaker 2: What? I'm sorry, so you want us to—\n\nSpeaker 1: You want to return the package that's on the way to you?\n\nSpeaker 2: I never got the package. I only got charged.\n\nSpeaker 1: Wow. Now what do I do? I can't—I can't even—I have the rest of the pills left from the lesson.\n\nSpeaker 2: I can't take them and I actually called.\n\nSpeaker 1: Really? Okay, I'll keep them in the same package. How do I send them back?\n\nSpeaker 2: You just don't open it and give it back to the mail person.\n\nSpeaker 1: Well, that's gonna be hard for me to do unless I see him.\n\nSpeaker 2: Drop it off at the mail, at the USPS.\n\nSpeaker 1: If I—without a return—\n\nSpeaker 2: Or anything.\n\nSpeaker 1: Yes, you'll use the same—\n\nSpeaker 2: The same.\n\nSpeaker 1: The same postage, don't open it and drop it back off. Okay, and then when you get it back, you'll credit me?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay. Thank you very much.\n\nSpeaker 2: Please.\n\nSpeaker 1: Yeah, thank you.\n\nSpeaker 2: Have a nice day.",
+    "duration": 6872,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.319999933242798,
+        "text": " Thank you for calling customer service. I can help you"
+      },
+      {
+        "id": 1,
+        "start": 3.559999942779541,
+        "end": 5.559999942779541,
+        "text": " Yes, hi. I am"
+      },
+      {
+        "id": 2,
+        "start": 6.320000171661377,
+        "end": 12.039999961853027,
+        "text": " have a problem and I sent some emails and I've been trying to get through and"
+      },
+      {
+        "id": 3,
+        "start": 12.880000114440918,
+        "end": 17.360000610351562,
+        "text": " This is the first time I actually was able to get through. I actually"
+      },
+      {
+        "id": 4,
+        "start": 18.479999542236328,
+        "end": 20.920000076293945,
+        "text": " ordered the product score blue and"
+      },
+      {
+        "id": 5,
+        "start": 21.760000228881836,
+        "end": 23.639999389648438,
+        "text": " It gave me"
+      },
+      {
+        "id": 6,
+        "start": 23.639999389648438,
+        "end": 27.219999313354492,
+        "text": " Kind of hot flashes and stuff my nose up pretty bad"
+      },
+      {
+        "id": 7,
+        "start": 27.65999984741211,
+        "end": 33.65999984741211,
+        "text": " So I wrote that I wrote them about it and they said that try a little lower dose"
+      },
+      {
+        "id": 8,
+        "start": 33.65999984741211,
+        "end": 36.70000076293945,
+        "text": " But I did and it didn't help me. So I"
+      },
+      {
+        "id": 9,
+        "start": 37.380001068115234,
+        "end": 41.779998779296875,
+        "text": " You know, I canceled the order then all of a sudden a couple of days ago"
+      },
+      {
+        "id": 10,
+        "start": 42.70000076293945,
+        "end": 44.7400016784668,
+        "text": " On Friday, I seen the charge"
+      },
+      {
+        "id": 11,
+        "start": 45.380001068115234,
+        "end": 52.560001373291016,
+        "text": " So I tried to call but obviously I didn't get through and then the weekend and yesterday I couldn't get through"
+      },
+      {
+        "id": 12,
+        "start": 52.86000061035156,
+        "end": 55.099998474121094,
+        "text": " But actually the email I wrote them"
+      },
+      {
+        "id": 13,
+        "start": 55.619998931884766,
+        "end": 61.86000061035156,
+        "text": " I said I canceled and the girl and the email told me that to call this number and"
+      },
+      {
+        "id": 14,
+        "start": 62.939998626708984,
+        "end": 66.22000122070312,
+        "text": " You could cancel over the phone, but I was already charged"
+      },
+      {
+        "id": 15,
+        "start": 68.0999984741211,
+        "end": 70.0999984741211,
+        "text": " Okay, what's your zip code?"
+      },
+      {
+        "id": 16,
+        "start": 71.0199966430664,
+        "end": 73.0199966430664,
+        "text": " 10465"
+      },
+      {
+        "id": 17,
+        "start": 75.66000366210938,
+        "end": 78.66000366210938,
+        "text": " And your name's Lewis Bartolotti"
+      },
+      {
+        "id": 18,
+        "start": 85.9800033569336,
+        "end": 92.9000015258789,
+        "text": " Okay, and okay I have your account up here and what did you want to do well I want I did cancel the"
+      },
+      {
+        "id": 19,
+        "start": 92.9000015258789,
+        "end": 95.86000061035156,
+        "text": " Uh, I canceled the item weeks ago"
+      },
+      {
+        "id": 20,
+        "start": 96.9000015258789,
+        "end": 99.22000122070312,
+        "text": " and all of a sudden I"
+      },
+      {
+        "id": 21,
+        "start": 100.18000030517578,
+        "end": 106.9800033569336,
+        "text": " Noticed that I got a charge. So when I when I sent the email about the charge"
+      },
+      {
+        "id": 22,
+        "start": 108.41999816894531,
+        "end": 113.26000213623047,
+        "text": " They told me that I had to call this number and you guys will take care of it"
+      },
+      {
+        "id": 23,
+        "start": 116.0999984741211,
+        "end": 119.62000274658203,
+        "text": " Okay, and what are we taking"
+      },
+      {
+        "id": 24,
+        "start": 123.77999877929688,
+        "end": 125.77999877929688,
+        "text": " What what are we um"
+      },
+      {
+        "id": 25,
+        "start": 126.77999877929688,
+        "end": 130.5800018310547,
+        "text": " What I'm sorry, so you you want us to"
+      },
+      {
+        "id": 26,
+        "start": 132.17999267578125,
+        "end": 136.13999938964844,
+        "text": " You want to return the package that's on the way to you I never got the package I"
+      },
+      {
+        "id": 27,
+        "start": 136.6999969482422,
+        "end": 139.17999267578125,
+        "text": " Received that again. I only got charged and"
+      },
+      {
+        "id": 28,
+        "start": 140.82000732421875,
+        "end": 142.82000732421875,
+        "text": " Wow"
+      },
+      {
+        "id": 29,
+        "start": 145.10000610351562,
+        "end": 147.10000610351562,
+        "text": " Please"
+      },
+      {
+        "id": 30,
+        "start": 148.25999450683594,
+        "end": 152.97999572753906,
+        "text": " Now what do I do I can't I can't even I have the rest of the pills left from lesson"
+      },
+      {
+        "id": 31,
+        "start": 152.97999572753906,
+        "end": 156.25999450683594,
+        "text": " I can't take them and I actually I call"
+      },
+      {
+        "id": 32,
+        "start": 158.5,
+        "end": 163.3800048828125,
+        "text": " Really okay, I'll keep them in the same package and how do I send them back?"
+      },
+      {
+        "id": 33,
+        "start": 165.02000427246094,
+        "end": 168.25999450683594,
+        "text": " You just don't open it and give it back to the mail person"
+      },
+      {
+        "id": 34,
+        "start": 168.94000244140625,
+        "end": 171.82000732421875,
+        "text": " Well, that's gonna be hard for me to do unless I see him"
+      },
+      {
+        "id": 35,
+        "start": 172.66000366210938,
+        "end": 175.33999633789062,
+        "text": " Drop it off at the mail at the USPS"
+      },
+      {
+        "id": 36,
+        "start": 176.5800018310547,
+        "end": 178.5800018310547,
+        "text": " If I without a return"
+      },
+      {
+        "id": 37,
+        "start": 179.33999633789062,
+        "end": 181.17999267578125,
+        "text": " or anything"
+      },
+      {
+        "id": 38,
+        "start": 181.17999267578125,
+        "end": 183.17999267578125,
+        "text": " Yes, you'll use it with the same"
+      },
+      {
+        "id": 39,
+        "start": 183.97999572753906,
+        "end": 185.97999572753906,
+        "text": " with the same"
+      },
+      {
+        "id": 40,
+        "start": 186.82000732421875,
+        "end": 192.89999389648438,
+        "text": " The same postage don't open it and drop it back off. Okay, and then you'll when you get it back you'll credit me"
+      },
+      {
+        "id": 41,
+        "start": 193.3000030517578,
+        "end": 195.5800018310547,
+        "text": " Yes, and then okay. Thank you very much"
+      },
+      {
+        "id": 42,
+        "start": 197.6999969482422,
+        "end": 199.6999969482422,
+        "text": " Please yeah, thank you. Okay"
+      },
+      {
+        "id": 43,
+        "start": 199.6999969482422,
+        "end": 202.5,
+        "text": " Have a nice day"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8141-aa38-f1a957ac3daa",
+    "url": "https://www.notion.so/300000001218631-300000001708855-2f611d0a101c8141aa38f1a957ac3daa"
+  },
+  "processedAt": "2026-01-28T14:54:31.103Z"
+}

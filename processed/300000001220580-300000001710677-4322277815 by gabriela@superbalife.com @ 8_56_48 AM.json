@@ -1,0 +1,188 @@
+{
+  "recording": {
+    "name": "300000001220580-300000001710677-4322277815 by gabriela@superbalife.com @ 8_56_48 AM.wav",
+    "size": 193696,
+    "modifyTime": 1769619549000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220580-300000001710677-4322277815 by gabriela@superbalife.com @ 8_56_48 AM.wav",
+    "uploadDate": "2026-01-28T16:59:09.000Z",
+    "callId": "300000001220580-300000001710677",
+    "agent": "gabriela",
+    "phoneNumber": "4322277815",
+    "callTimestamp": "2026-01-28T08:56:48.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Yes, my name is Ricardo Burciaga, and I received a pipette from you, and I want to order some more today.\n\nSpeaker 1: Yeah, of course. What's your date of birth, Ricardo?\n\nSpeaker 2: It's 9-28-1960.\n\nSpeaker 1: Okay, thank you for confirming that information.\n\nSpeaker 1: Okay, Ricardo, so it looks like, yes, you are ordering Viagra A-G-Z, a quantity of 25 pills, 100 milligrams.\n\nSpeaker 1: Just to confirm, that's the same refill you want today, correct?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, great.\n\nSpeaker 2: Okay, and then just to confirm, your shipping address is still 212 Alabama Street, Ozasas, Texas, 79764?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, and can I charge the Visa ending in 9565, or would you be using a different card?\n\nSpeaker 1: Well, I think it's different. Let me give you the card number.\n\nSpeaker 2: Okay, go ahead.\n\nSpeaker 1: It's a 4-3-0-7-5-4-0-0-0-5-9-9-5-2-8-4.\n\nSpeaker 2: Expiration date?\n\nSpeaker 1: 9-29-27, and the back of the numbers is 9-0-3.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay, great, Ricardo, you're all set.\n\nSpeaker 1: I was able to successfully place in that order for you,\n\nSpeaker 1: so you should be receiving it within the next three to five business days, okay?\n\nSpeaker 2: All righty, thank you.\n\nSpeaker 1: You're welcome.\n\nSpeaker 2: Have a good rest of your day.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Okay, you too.\n\nSpeaker 1: Bye-bye.",
+    "duration": 4510,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 17,
+        "text": " Yes, my name is Ricardo Burciaga, and I received a pipette from you, and I want to order some more today."
+      },
+      {
+        "id": 2,
+        "start": 17,
+        "end": 21,
+        "text": " Yeah, of course. What's your date of birth, Ricardo?"
+      },
+      {
+        "id": 3,
+        "start": 21,
+        "end": 24,
+        "text": " It's 9-28-1960."
+      },
+      {
+        "id": 4,
+        "start": 24,
+        "end": 27,
+        "text": " Okay, thank you for confirming that information."
+      },
+      {
+        "id": 5,
+        "start": 27,
+        "end": 36,
+        "text": " Okay, Ricardo, so it looks like, yes, you are ordering Viagra A-G-Z, a quantity of 25 pills, 100 milligrams."
+      },
+      {
+        "id": 6,
+        "start": 36,
+        "end": 39,
+        "text": " Just to confirm, that's the same refill you want today, correct?"
+      },
+      {
+        "id": 7,
+        "start": 39,
+        "end": 41,
+        "text": " Yes."
+      },
+      {
+        "id": 8,
+        "start": 41,
+        "end": 47,
+        "text": " Okay, great."
+      },
+      {
+        "id": 9,
+        "start": 47,
+        "end": 55,
+        "text": " Okay, and then just to confirm, your shipping address is still 212 Alabama Street, Ozasas, Texas, 79764?"
+      },
+      {
+        "id": 10,
+        "start": 55,
+        "end": 56,
+        "text": " Yes."
+      },
+      {
+        "id": 11,
+        "start": 56,
+        "end": 63,
+        "text": " Okay, and can I charge the Visa ending in 9565, or would you be using a different card?"
+      },
+      {
+        "id": 12,
+        "start": 63,
+        "end": 70,
+        "text": " Well, I think it's different. Let me give you the card number."
+      },
+      {
+        "id": 13,
+        "start": 70,
+        "end": 72,
+        "text": " Okay, go ahead."
+      },
+      {
+        "id": 14,
+        "start": 72,
+        "end": 87,
+        "text": " It's a 4-3-0-7-5-4-0-0-0-5-9-9-5-2-8-4."
+      },
+      {
+        "id": 15,
+        "start": 87,
+        "end": 89,
+        "text": " Expiration date?"
+      },
+      {
+        "id": 16,
+        "start": 89,
+        "end": 99,
+        "text": " 9-29-27, and the back of the numbers is 9-0-3."
+      },
+      {
+        "id": 17,
+        "start": 99,
+        "end": 104,
+        "text": " Thank you."
+      },
+      {
+        "id": 18,
+        "start": 104,
+        "end": 106,
+        "text": " Okay, great, Ricardo, you're all set."
+      },
+      {
+        "id": 19,
+        "start": 106,
+        "end": 109,
+        "text": " I was able to successfully place in that order for you,"
+      },
+      {
+        "id": 20,
+        "start": 109,
+        "end": 113,
+        "text": " so you should be receiving it within the next three to five business days, okay?"
+      },
+      {
+        "id": 21,
+        "start": 113,
+        "end": 115,
+        "text": " All righty, thank you."
+      },
+      {
+        "id": 22,
+        "start": 115,
+        "end": 116,
+        "text": " You're welcome."
+      },
+      {
+        "id": 23,
+        "start": 116,
+        "end": 117,
+        "text": " Have a good rest of your day."
+      },
+      {
+        "id": 24,
+        "start": 117,
+        "end": 118,
+        "text": " Bye."
+      },
+      {
+        "id": 25,
+        "start": 118,
+        "end": 119,
+        "text": " Okay, you too."
+      },
+      {
+        "id": 26,
+        "start": 119,
+        "end": 120,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8189-a069-f17fec4dacaf",
+    "url": "https://www.notion.so/300000001220580-300000001710677-2f611d0a101c8189a069f17fec4dacaf"
+  },
+  "processedAt": "2026-01-28T18:45:44.918Z"
+}

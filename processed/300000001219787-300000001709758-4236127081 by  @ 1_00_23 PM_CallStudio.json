@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001219787-300000001709758-4236127081 by  @ 1_00_23 PM_CallStudio.wav",
+    "size": 27166,
+    "modifyTime": 1769592158000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219787-300000001709758-4236127081 by  @ 1_00_23 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:22:38.000Z",
+    "callId": "300000001219787-300000001709758",
+    "phoneNumber": "4236127081",
+    "callTimestamp": "2026-01-28T09:22:38.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: A question about the new Viagra.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1462,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.320000171661377,
+        "end": 5.800000190734863,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.119999885559082,
+        "end": 7.599999904632568,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 11.15999984741211,
+        "end": 13.199999809265137,
+        "text": " A question about the new viagra."
+      },
+      {
+        "id": 4,
+        "start": 15.0600004196167,
+        "end": 16.280000686645508,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-814a-a39e-e075c63980a0",
+    "url": "https://www.notion.so/300000001219787-300000001709758-2f611d0a101c814aa39ee075c63980a0"
+  },
+  "processedAt": "2026-01-28T10:36:57.640Z"
+}

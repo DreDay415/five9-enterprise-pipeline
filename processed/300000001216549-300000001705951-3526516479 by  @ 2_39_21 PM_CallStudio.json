@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001216549-300000001705951-3526516479 by  @ 2_39_21 PM_CallStudio.wav",
+    "size": 28986,
+    "modifyTime": 1769590031000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216549-300000001705951-3526516479 by  @ 2_39_21 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T08:47:11.000Z",
+    "callId": "300000001216549-300000001705951",
+    "phoneNumber": "3526516479",
+    "callTimestamp": "2026-01-28T08:47:11.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Return symphonol generic for Viagra.\n\nSpeaker 1: Thanks for transferring to agent.",
+    "duration": 1184,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.119999885559082,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.119999885559082,
+        "end": 6.119999885559082,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.119999885559082,
+        "end": 11.119999885559082,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 11.119999885559082,
+        "end": 16.559999465942383,
+        "text": " Return symphonol generic for Viagra."
+      },
+      {
+        "id": 4,
+        "start": 16.559999465942383,
+        "end": 17.799999237060547,
+        "text": " Thanks for transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8187-8ac3-e63497e67b29",
+    "url": "https://www.notion.so/300000001216549-300000001705951-2f611d0a101c81878ac3e63497e67b29"
+  },
+  "processedAt": "2026-01-28T12:27:39.512Z"
+}

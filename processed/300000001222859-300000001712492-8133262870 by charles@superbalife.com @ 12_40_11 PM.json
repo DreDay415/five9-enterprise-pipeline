@@ -1,0 +1,194 @@
+{
+  "recording": {
+    "name": "300000001222859-300000001712492-8133262870 by charles@superbalife.com @ 12_40_11 PM.wav",
+    "size": 119076,
+    "modifyTime": 1769719307000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222859-300000001712492-8133262870 by charles@superbalife.com @ 12_40_11 PM.wav",
+    "uploadDate": "2026-01-29T20:41:47.000Z",
+    "callId": "300000001222859-300000001712492",
+    "agent": "charles",
+    "phoneNumber": "8133262870",
+    "callTimestamp": "2026-01-29T12:40:11.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi Charles, I wanted to make sure my subscription or whatever you call it was put on hold until—\n\nSpeaker 2: February, and I want to make sure that it's cancelled please.\n\nSpeaker 1: John Morrissey?\n\nSpeaker 2: Yes.\n\nSpeaker 1: That's it.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Are you just still not ready for any product right now?\n\nSpeaker 2: No, it doesn't work for me, so I don't need any more of them.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Even the activator pill, you tried it with the activator pill and nothing happened?\n\nSpeaker 1: Yes, I did.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Just out of curiosity, have you ever tried Cialis before?\n\nSpeaker 2: Yes, I have.\n\nSpeaker 1: How did you like that?\n\nSpeaker 2: Initially it worked for a little while, but it does not work either for me now.\n\nSpeaker 1: Got it.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Then we do have Cialis as well.\n\nSpeaker 2: If you ever want to try that, just give us a call, okay?\n\nSpeaker 1: Okay, great.\n\nSpeaker 2: I just want to make sure that I don't receive any more of the Scorblue.\n\nSpeaker 1: Yes, you are good to go.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Thank you very much.\n\nSpeaker 2: Bye.\n\nSpeaker 1: All right.",
+    "duration": 4066,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 13,
+        "text": " Hi Charles, I wanted to make sure my subscription or whatever you call it was put on hold until"
+      },
+      {
+        "id": 1,
+        "start": 13,
+        "end": 18,
+        "text": " February and I want to make sure that it's cancelled please."
+      },
+      {
+        "id": 2,
+        "start": 18,
+        "end": 19,
+        "text": " John Morrissey?"
+      },
+      {
+        "id": 3,
+        "start": 19,
+        "end": 20,
+        "text": " Yes."
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 21,
+        "text": " That's it."
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 22,
+        "text": " Okay."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 28,
+        "text": " Are you just still not ready for any product right now?"
+      },
+      {
+        "id": 7,
+        "start": 29,
+        "end": 34,
+        "text": " No, it doesn't work for me, so I don't need any more of them."
+      },
+      {
+        "id": 8,
+        "start": 34,
+        "end": 35,
+        "text": " Okay."
+      },
+      {
+        "id": 9,
+        "start": 35,
+        "end": 38,
+        "text": " Even the activator pill, you tried it with the activator pill and nothing happened?"
+      },
+      {
+        "id": 10,
+        "start": 38,
+        "end": 40,
+        "text": " Yes, I did."
+      },
+      {
+        "id": 11,
+        "start": 40,
+        "end": 41,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 41,
+        "end": 46,
+        "text": " Just out of curiosity, have you ever tried Cialis before?"
+      },
+      {
+        "id": 13,
+        "start": 46,
+        "end": 47,
+        "text": " Yes, I have."
+      },
+      {
+        "id": 14,
+        "start": 47,
+        "end": 50,
+        "text": " How did you like that?"
+      },
+      {
+        "id": 15,
+        "start": 50,
+        "end": 55,
+        "text": " Initially it worked for a little while, but it does not work either for me now."
+      },
+      {
+        "id": 16,
+        "start": 55,
+        "end": 56,
+        "text": " Got it."
+      },
+      {
+        "id": 17,
+        "start": 56,
+        "end": 57,
+        "text": " Okay."
+      },
+      {
+        "id": 18,
+        "start": 57,
+        "end": 58,
+        "text": " Then we do have Cialis as well."
+      },
+      {
+        "id": 19,
+        "start": 58,
+        "end": 61,
+        "text": " If you ever want to try that, just give us a call, okay?"
+      },
+      {
+        "id": 20,
+        "start": 61,
+        "end": 62,
+        "text": " Okay, great."
+      },
+      {
+        "id": 21,
+        "start": 62,
+        "end": 67,
+        "text": " I just want to make sure that I don't receive any more of the Scorblue."
+      },
+      {
+        "id": 22,
+        "start": 67,
+        "end": 69,
+        "text": " Yes, you are good to go."
+      },
+      {
+        "id": 23,
+        "start": 69,
+        "end": 70,
+        "text": " Okay."
+      },
+      {
+        "id": 24,
+        "start": 70,
+        "end": 71,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 25,
+        "start": 71,
+        "end": 72,
+        "text": " Bye."
+      },
+      {
+        "id": 26,
+        "start": 72,
+        "end": 73,
+        "text": " All right."
+      },
+      {
+        "id": 27,
+        "start": 73,
+        "end": 73,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81a7-b48c-e56b53b54c37",
+    "url": "https://www.notion.so/300000001222859-300000001712492-2f711d0a101c81a7b48ce56b53b54c37"
+  },
+  "processedAt": "2026-01-29T21:29:49.415Z"
+}

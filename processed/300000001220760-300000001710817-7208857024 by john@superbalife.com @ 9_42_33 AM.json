@@ -1,0 +1,116 @@
+{
+  "recording": {
+    "name": "300000001220760-300000001710817-7208857024 by john@superbalife.com @ 9_42_33 AM.wav",
+    "size": 114330,
+    "modifyTime": 1769622245000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220760-300000001710817-7208857024 by john@superbalife.com @ 9_42_33 AM.wav",
+    "uploadDate": "2026-01-28T17:44:05.000Z",
+    "callId": "300000001220760-300000001710817",
+    "agent": "john",
+    "phoneNumber": "7208857024",
+    "callTimestamp": "2026-01-28T09:42:33.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: All right, John. I'm just calling about my order. I just ordered about maybe 45 minutes ago. Just want to see if that went through.\n\nSpeaker 1: Yeah, I need your name and zip code.\n\nSpeaker 2: Carlos Lopez, zip code 80123. Thank you.\n\nSpeaker 1: South Otis Way. Yes, sir. Yeah, your order went through. You actually just got approved by the doctor not that long ago.\n\nSpeaker 2: So this will ship out within a day or so?\n\nSpeaker 1: Okay, so that's my next question on when I receive it. You send about a date?\n\nSpeaker 2: It'll ship in about a day. You'll get it in about a week from today.\n\nSpeaker 1: It may be a little faster, but you'll get an email sent to you with the tracking when it ships.\n\nSpeaker 2: Today it may be a little faster, but you'll get an email sent to you with the tracking when it ships.\n\nSpeaker 1: Okay. All right.\n\nSpeaker 2: So I need it and I don't need—\n\nSpeaker 1: Any repeat unless I—because it's the first time I'm trying. I want to try to work for me then.\n\nSpeaker 2: Let us know how it goes.\n\nSpeaker 1: Okay. All right. Thank you.",
+    "duration": 3292,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.920000076293945,
+        "text": " Thank you for calling. This is John. How can I help you? All right, John. I'm just calling about my order. I just order"
+      },
+      {
+        "id": 1,
+        "start": 7.480000019073486,
+        "end": 11.600000381469727,
+        "text": " About maybe 45 minutes ago. Just want to see if that went through"
+      },
+      {
+        "id": 2,
+        "start": 12.819999694824219,
+        "end": 14.819999694824219,
+        "text": " Yeah, I need your name and zip code"
+      },
+      {
+        "id": 3,
+        "start": 15.680000305175781,
+        "end": 22.020000457763672,
+        "text": " Carlos Lopez zip code 8 0 1 2 3. Thank you"
+      },
+      {
+        "id": 4,
+        "start": 22.020000457763672,
+        "end": 28.34000015258789,
+        "text": " South Otis way. Yes, sir. Yeah, your order went through you actually just got approved by the doctor. Not that long ago"
+      },
+      {
+        "id": 5,
+        "start": 28.34000015258789,
+        "end": 30.34000015258789,
+        "text": " So this will ship out within a day or so"
+      },
+      {
+        "id": 6,
+        "start": 31.260000228881836,
+        "end": 36.619998931884766,
+        "text": " Okay, so that's my next question on what I receive you send about a date"
+      },
+      {
+        "id": 7,
+        "start": 37.619998931884766,
+        "end": 41.459999084472656,
+        "text": " It'll ship in about a day. You'll get it in about a week from today"
+      },
+      {
+        "id": 8,
+        "start": 41.459999084472656,
+        "end": 45.70000076293945,
+        "text": " It may be a little faster, but you'll get an email sent to you with the tracking when it ships"
+      },
+      {
+        "id": 9,
+        "start": 46.02000045776367,
+        "end": 50.779998779296875,
+        "text": " Today it may be a little faster, but you'll get an email sent to you with the tracking when it ships"
+      },
+      {
+        "id": 10,
+        "start": 52.02000045776367,
+        "end": 54.02000045776367,
+        "text": " Okay. All right"
+      },
+      {
+        "id": 11,
+        "start": 54.41999816894531,
+        "end": 57.099998474121094,
+        "text": " So I need it and I don't need"
+      },
+      {
+        "id": 12,
+        "start": 57.779998779296875,
+        "end": 62.779998779296875,
+        "text": " Any repeat unless I because it's the first time I'm trying. I want to try to work for me then"
+      },
+      {
+        "id": 13,
+        "start": 64.69999694824219,
+        "end": 66.69999694824219,
+        "text": " Let us know how it goes"
+      },
+      {
+        "id": 14,
+        "start": 66.81999969482422,
+        "end": 69.22000122070312,
+        "text": " Okay. All right. Thank you"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8138-b300-f767feb2872b",
+    "url": "https://www.notion.so/300000001220760-300000001710817-2f611d0a101c8138b300f767feb2872b"
+  },
+  "processedAt": "2026-01-28T18:19:49.813Z"
+}

@@ -1,0 +1,230 @@
+{
+  "recording": {
+    "name": "300000001219201-300000001709317-3042828287 by olivier@superbalife.com @ 10_22_38 AM.wav",
+    "size": 238480,
+    "modifyTime": 1769582836000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219201-300000001709317-3042828287 by olivier@superbalife.com @ 10_22_38 AM.wav",
+    "uploadDate": "2026-01-28T06:47:16.000Z",
+    "callId": "300000001219201-300000001709317",
+    "agent": "olivier",
+    "phoneNumber": "3042828287",
+    "callTimestamp": "2026-01-28T10:22:38.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Yes, sir. My name is Ronald Goode.\n\nSpeaker 1: Yes.\n\nSpeaker 2: I need to cancel my prescription.\n\nSpeaker 1: Oh, okay. Let me, let me pull your prescription, okay?\n\nSpeaker 2: Mr. Ronald Goode in Mason Town?\n\nSpeaker 1: That is correct.\n\nSpeaker 2: Okay, give me one moment.\n\nSpeaker 1: Mr. Goode, I see that Dr. Fries wrote you a prescription for Viagra 50 mg, 10 tablets every 30 days.\n\nSpeaker 2: If you don't need your refill, Mr. Goode, I can advise the pharmacy to stop the initial prescription of every 30 days\n\nSpeaker 1: and you can just order as needed instead by calling or logging into your account\n\nSpeaker 2: because you're not required to get every 30 days.\n\nSpeaker 1: That's just the initial written prescription because you get 10 tablets and it's 30 days during the month, right?\n\nSpeaker 2: So I can tell the pharmacy to stop the initial written prescription for 30 days and you're just going to order as needed.\n\nSpeaker 1: They put the prescription up to half a year so you don't have monthly, basically, but you lock your price in, basically.\n\nSpeaker 2: Okay, so, so I, I can still get, I can't take it for six months, that's the problem.\n\nSpeaker 1: The doctor told me not to take it for six months.\n\nSpeaker 2: Yes, yes. Yeah, I can post that like that. You can get your refill later on.\n\nSpeaker 1: You don't have to get it as often though. You know what I mean?\n\nSpeaker 2: They won't, they won't, they won't bill me no more, correct?\n\nSpeaker 1: No, no, no, no, no. They post you up to half a year. You can reorder yourself.\n\nSpeaker 2: Maybe you can get it once or twice a year just to keep your price up, you know?\n\nSpeaker 1: Okay.\n\nSpeaker 2: But not every 30 days if you don't need it.\n\nSpeaker 1: And then if it happens that you need it every 30 days, just let us know, you know?\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yeah, because COBLU gives you a VIP status where you can manage your prescription at your liking.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Let me do that for you, okay?\n\nSpeaker 2: Alright, everything is paused for half a year. Give us a call to reorder, okay?\n\nSpeaker 1: Okay, thanks.\n\nSpeaker 2: Thank you. You have a good one.\n\nSpeaker 1: You too. Bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 7752,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 6,
+        "text": " Yes, sir. My name is Ronald Goode."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 8,
+        "text": " Yes."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 11,
+        "text": " I need to cancel my prescription."
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 16,
+        "text": " Oh, okay. Let me, let me pull your prescription, okay?"
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 20,
+        "text": " Mr. Ronald Goode in Mason Town?"
+      },
+      {
+        "id": 6,
+        "start": 21,
+        "end": 22,
+        "text": " That is correct."
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 24,
+        "text": " Okay, give me one moment."
+      },
+      {
+        "id": 8,
+        "start": 30,
+        "end": 45,
+        "text": " Mr. Goode, I see that Dr. Fries wrote you a prescription for Viagra 50 mg, 10 tablets every 30 days."
+      },
+      {
+        "id": 9,
+        "start": 46,
+        "end": 52,
+        "text": " If you don't need your refill, Mr. Goode, I can advise the pharmacy to stop the initial prescription of every 30 days"
+      },
+      {
+        "id": 10,
+        "start": 53,
+        "end": 57,
+        "text": " and you can just order as needed instead by calling or logging into your account"
+      },
+      {
+        "id": 11,
+        "start": 57,
+        "end": 59,
+        "text": " because you're not required to get every 30 days."
+      },
+      {
+        "id": 12,
+        "start": 60,
+        "end": 65,
+        "text": " That's just the initial written prescription because you get 10 tablets and it's 30 days during the month, right?"
+      },
+      {
+        "id": 13,
+        "start": 66,
+        "end": 72,
+        "text": " So I can tell the pharmacy to stop the initial written prescription for 30 days and you're just going to order as needed."
+      },
+      {
+        "id": 14,
+        "start": 73,
+        "end": 79,
+        "text": " They put the prescription up to half a year so you don't have monthly, basically, but you lock your price in, basically."
+      },
+      {
+        "id": 15,
+        "start": 80,
+        "end": 86,
+        "text": " Okay, so, so I, I can still get, I can't take it for six months, that's the problem."
+      },
+      {
+        "id": 16,
+        "start": 87,
+        "end": 88,
+        "text": " The doctor told me not to take it for six months."
+      },
+      {
+        "id": 17,
+        "start": 89,
+        "end": 95,
+        "text": " Yes, yes. Yeah, I can post that like that. You can get your refill later on."
+      },
+      {
+        "id": 18,
+        "start": 96,
+        "end": 97,
+        "text": " You don't have to get it as often though. You know what I mean?"
+      },
+      {
+        "id": 19,
+        "start": 98,
+        "end": 101,
+        "text": " They won't, they won't, they won't bill me no more, correct?"
+      },
+      {
+        "id": 20,
+        "start": 102,
+        "end": 105,
+        "text": " No, no, no, no, no. They post you up to half a year. You can reorder yourself."
+      },
+      {
+        "id": 21,
+        "start": 106,
+        "end": 108,
+        "text": " Maybe you can get it once or twice a year just to keep your price up, you know?"
+      },
+      {
+        "id": 22,
+        "start": 109,
+        "end": 110,
+        "text": " Okay."
+      },
+      {
+        "id": 23,
+        "start": 111,
+        "end": 112,
+        "text": " But not every 30 days if you don't need it."
+      },
+      {
+        "id": 24,
+        "start": 113,
+        "end": 116,
+        "text": " And then if it happens that you need it every 30 days, just let us know, you know?"
+      },
+      {
+        "id": 25,
+        "start": 117,
+        "end": 118,
+        "text": " Okay."
+      },
+      {
+        "id": 26,
+        "start": 119,
+        "end": 123,
+        "text": " Yeah, because COBLU gives you a VIP status where you can manage your prescription at your liking."
+      },
+      {
+        "id": 27,
+        "start": 124,
+        "end": 125,
+        "text": " Okay."
+      },
+      {
+        "id": 28,
+        "start": 126,
+        "end": 127,
+        "text": " Let me do that for you, okay?"
+      },
+      {
+        "id": 29,
+        "start": 128,
+        "end": 132,
+        "text": " Alright, everything is paused for half a year. Give us a call to reorder, okay?"
+      },
+      {
+        "id": 30,
+        "start": 133,
+        "end": 134,
+        "text": " Okay, thanks."
+      },
+      {
+        "id": 31,
+        "start": 135,
+        "end": 136,
+        "text": " Thank you. You have a good one."
+      },
+      {
+        "id": 32,
+        "start": 137,
+        "end": 138,
+        "text": " You too. Bye."
+      },
+      {
+        "id": 33,
+        "start": 139,
+        "end": 140,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8170-9fb2-c276f429ba2b",
+    "url": "https://www.notion.so/300000001219201-300000001709317-2f611d0a101c81709fb2c276f429ba2b"
+  },
+  "processedAt": "2026-01-28T16:50:50.548Z"
+}

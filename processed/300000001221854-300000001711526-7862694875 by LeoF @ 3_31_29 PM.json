@@ -1,0 +1,103 @@
+{
+  "recording": {
+    "name": "300000001221854-300000001711526-7862694875 by LeoF @ 3_31_29 PM.wav",
+    "size": 92686,
+    "modifyTime": 1769643168000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221854-300000001711526-7862694875 by LeoF @ 3_31_29 PM.wav",
+    "uploadDate": "2026-01-28T23:32:48.000Z",
+    "callId": "300000001221854-300000001711526",
+    "phoneNumber": "7862694875",
+    "callTimestamp": "2026-01-28T15:31:29.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, thanks for calling Viagra. How can I help you?\n\nSpeaker 2: Hey, yeah, my name is Michael Wilson. I had ordered some Viagra from you, and you shipped me again and billed me again. You got me on some kind of subscription or something?\n\nSpeaker 1: Let me see what's going on here, Mr. Wilson. How are you today?\n\nSpeaker 2: I'm well, thanks for asking.\n\nSpeaker 1: Oh, you know what? It looks like they sent you out that replacement order, and yeah, you got set up on our VIP prescription to receive refill orders.\n\nSpeaker 2: Did you need that order? Did you want it? Did you even like the pills?\n\nSpeaker 1: Uh, you know what? I hadn't even tried the pills.\n\nSpeaker 2: I mean, um, yeah, so absolutely. I can definitely pause this for you, and you can have time to grab—\n\nSpeaker 1: Yeah, pause it for me.\n\nSpeaker 2: Okay, yeah, so this definitely won't happen again. So just let us know how it goes. Once you get to try them out,\n\nSpeaker 1: you'll have the account all paused up, Mr. Wilson, and you'll be set.\n\nSpeaker 2: Okay, you have a great day.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: You too. Bye-bye now.\n\nSpeaker 1: All right. Take care. Bye-bye.",
+    "duration": 3336,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.200000047683716,
+        "text": " Hey, thanks for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 2.799999952316284,
+        "end": 6.659999847412109,
+        "text": " Hey, yeah, my name is Michael Wilson. I had ordered"
+      },
+      {
+        "id": 2,
+        "start": 7.480000019073486,
+        "end": 14.479999542236328,
+        "text": " some Viagra from you, and you shipped me again and billed me again. You got me on some kind of"
+      },
+      {
+        "id": 3,
+        "start": 15.4399995803833,
+        "end": 18.84000015258789,
+        "text": " subscription or something? Let me see what's going on here, Mr. Wilson."
+      },
+      {
+        "id": 4,
+        "start": 20.31999969482422,
+        "end": 24,
+        "text": " How are you today? I'm well, thanks for asking. Oh, you know what?"
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 29.15999984741211,
+        "text": " It looks like they sent you out that replacement order, and yeah, you got set up on our VIP prescription to receive refill orders."
+      },
+      {
+        "id": 6,
+        "start": 29.15999984741211,
+        "end": 31.639999389648438,
+        "text": " Did you need that order? Did you want it? Did you even like the pills?"
+      },
+      {
+        "id": 7,
+        "start": 32.15999984741211,
+        "end": 34.959999084472656,
+        "text": " Uh, you know what? I hadn't even tried the pills."
+      },
+      {
+        "id": 8,
+        "start": 37.08000183105469,
+        "end": 42.79999923706055,
+        "text": " I mean, um, yeah, so absolutely. I can definitely pause this for you, and you can have time to grab-"
+      },
+      {
+        "id": 9,
+        "start": 42.79999923706055,
+        "end": 44.52000045776367,
+        "text": " Yeah, pause it for me."
+      },
+      {
+        "id": 10,
+        "start": 44.52000045776367,
+        "end": 48.68000030517578,
+        "text": " Okay, yeah, so this definitely won't happen again. So just let us know how it goes. Once you get to try them out,"
+      },
+      {
+        "id": 11,
+        "start": 48.68000030517578,
+        "end": 50.91999816894531,
+        "text": " you'll have the account all paused up, Mr. Wilson, and you'll be set."
+      },
+      {
+        "id": 12,
+        "start": 51.68000030517578,
+        "end": 56.68000030517578,
+        "text": " Okay, you have a great day. Thank you. You too. Bye-bye now. All right. Take care. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8140-8db6-d2d5678178e9",
+    "url": "https://www.notion.so/300000001221854-300000001711526-2f711d0a101c81408db6d2d5678178e9"
+  },
+  "processedAt": "2026-01-29T10:22:32.392Z"
+}

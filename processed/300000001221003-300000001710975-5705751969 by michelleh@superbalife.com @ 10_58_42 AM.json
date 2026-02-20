@@ -1,0 +1,110 @@
+{
+  "recording": {
+    "name": "300000001221003-300000001710975-5705751969 by michelleh@superbalife.com @ 10_58_42 AM.wav",
+    "size": 99250,
+    "modifyTime": 1769626815000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221003-300000001710975-5705751969 by michelleh@superbalife.com @ 10_58_42 AM.wav",
+    "uploadDate": "2026-01-28T19:00:15.000Z",
+    "callId": "300000001221003-300000001710975",
+    "agent": "michelleh",
+    "phoneNumber": "5705751969",
+    "callTimestamp": "2026-01-28T10:58:42.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Hi, how are you? My name is Jeff Carey.\n\nSpeaker 1: I just received a bottle of pills from you guys that I didn't order.\n\nSpeaker 2: Is there a reason why?\n\nSpeaker 1: Okay, let me help you out. Give me one second to pull up your profile.\n\nSpeaker 2: Yeah, I told them a long time ago.\n\nSpeaker 1: I told them a long time ago, I don't want to do this anymore because nothing works.\n\nSpeaker 2: Yeah, okay. Can you just confirm your date of birth?\n\nSpeaker 1: 27 January 1965.\n\nSpeaker 2: Thank you so much. I see your VIP status here. Okay, let's see.\n\nSpeaker 1: Okay, yeah, you called back in September and put it on a five-month pause.\n\nSpeaker 2: I did not put it on a five-month pause. I told them I did not want it anymore.\n\nSpeaker 1: They did that on their own.\n\nSpeaker 2: Okay, hold on one second. I'm going to transfer you over to him. Hold on one second.",
+    "duration": 2510,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5,
+        "text": " Hi, how are you? My name is Jeff Carey."
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 12,
+        "text": " I just received a bottle of pills from you guys that I didn't order."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 14,
+        "text": " Is there a reason why?"
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 22,
+        "text": " Okay, let me help you out. Give me one second to pull up your profile."
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 24,
+        "text": " Yeah, I told them a long time ago."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 30,
+        "text": " I told them a long time ago, I don't want to do this anymore because nothing works."
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 34,
+        "text": " Yeah, okay. Can you just confirm your date of birth?"
+      },
+      {
+        "id": 8,
+        "start": 34,
+        "end": 37,
+        "text": " 27 January 1965."
+      },
+      {
+        "id": 9,
+        "start": 37,
+        "end": 41,
+        "text": " Thank you so much. I see your VIP status here. Okay, let's see."
+      },
+      {
+        "id": 10,
+        "start": 41,
+        "end": 47,
+        "text": " Okay, yeah, you called back in September and put it on a five-month pause."
+      },
+      {
+        "id": 11,
+        "start": 47,
+        "end": 53,
+        "text": " I did not put it on a five-month pause. I told them I did not want it anymore."
+      },
+      {
+        "id": 12,
+        "start": 53,
+        "end": 55,
+        "text": " They did that on their own."
+      },
+      {
+        "id": 13,
+        "start": 55,
+        "end": 61,
+        "text": " Okay, hold on one second. I'm going to transfer you over to him. Hold on one second."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8170-9e7a-d863b0de55b2",
+    "url": "https://www.notion.so/300000001221003-300000001710975-2f711d0a101c81709e7ad863b0de55b2"
+  },
+  "processedAt": "2026-01-29T00:02:38.180Z"
+}

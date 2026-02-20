@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001221958-300000001711598-2392692166 by  @ 4_43_11 PM_CallStudio.wav",
+    "size": 24436,
+    "modifyTime": 1769647427000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221958-300000001711598-2392692166 by  @ 4_43_11 PM_CallStudio.wav",
+    "uploadDate": "2026-01-29T00:43:47.000Z",
+    "callId": "300000001221958-300000001711598",
+    "phoneNumber": "2392692166",
+    "callTimestamp": "2026-01-29T00:43:47.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Delivered to the wrong address.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1292,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.519999980926514,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.519999980926514,
+        "end": 10.4399995803833,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 10.4399995803833,
+        "end": 13.5600004196167,
+        "text": " Delivered to the wrong address."
+      },
+      {
+        "id": 3,
+        "start": 13.5600004196167,
+        "end": 14.760000228881836,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81d2-b44a-ed7e08c13941",
+    "url": "https://www.notion.so/300000001221958-300000001711598-2f711d0a101c81d2b44aed7e08c13941"
+  },
+  "processedAt": "2026-01-29T10:04:57.478Z"
+}

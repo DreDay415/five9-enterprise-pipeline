@@ -1,0 +1,86 @@
+{
+  "recording": {
+    "name": "300000001221075-300000001711023-8886759517 by michelleh@superbalife.com @ 11_17_43 AM.wav",
+    "size": 67986,
+    "modifyTime": 1769627911000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221075-300000001711023-8886759517 by michelleh@superbalife.com @ 11_17_43 AM.wav",
+    "uploadDate": "2026-01-28T19:18:31.000Z",
+    "callId": "300000001221075-300000001711023",
+    "agent": "michelleh",
+    "phoneNumber": "8886759517",
+    "callTimestamp": "2026-01-28T11:17:43.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you?\n\nSpeaker 2: Yes ma'am, how are you doing?\n\nSpeaker 1: Good, how are you?\n\nSpeaker 2: Yes, I'm good.\n\nSpeaker 1: Yes, my name is Walter Avalo and I was calling to y'all about a new product called the Knockout.\n\nSpeaker 2: We have the Viagra HEV.\n\nSpeaker 1: Y'all don't have the Knockout in your check receipt?\n\nSpeaker 2: So we're not Knockout, that's a different company.\n\nSpeaker 1: Oh, you know their number?\n\nSpeaker 2: No, I don't know their number, I don't work for them.",
+    "duration": 2321,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.359999895095825,
+        "text": " Thank you for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 2.359999895095825,
+        "end": 5.360000133514404,
+        "text": " Yes ma'am, how are you doing?"
+      },
+      {
+        "id": 2,
+        "start": 5.360000133514404,
+        "end": 6.360000133514404,
+        "text": " Good, how are you?"
+      },
+      {
+        "id": 3,
+        "start": 6.360000133514404,
+        "end": 7.360000133514404,
+        "text": " Yes, I'm good."
+      },
+      {
+        "id": 4,
+        "start": 7.360000133514404,
+        "end": 19.600000381469727,
+        "text": " Yes, my name is Walter Avalo and I was calling to y'all about a new product called the Knockout."
+      },
+      {
+        "id": 5,
+        "start": 19.600000381469727,
+        "end": 20.600000381469727,
+        "text": " We have the Viagra HEV."
+      },
+      {
+        "id": 6,
+        "start": 20.600000381469727,
+        "end": 27.719999313354492,
+        "text": " Y'all don't have the Knockout in your check receipt?"
+      },
+      {
+        "id": 7,
+        "start": 27.719999313354492,
+        "end": 31.360000610351562,
+        "text": " So we're not Knockout, that's a different company."
+      },
+      {
+        "id": 8,
+        "start": 31.360000610351562,
+        "end": 34.279998779296875,
+        "text": " Oh, you know their number?"
+      },
+      {
+        "id": 9,
+        "start": 34.279998779296875,
+        "end": 41.720001220703125,
+        "text": " No, I don't know their number, I don't work for them."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-815f-96ea-f0f466bf3be4",
+    "url": "https://www.notion.so/300000001221075-300000001711023-2f611d0a101c815f96eaf0f466bf3be4"
+  },
+  "processedAt": "2026-01-28T23:55:25.114Z"
+}

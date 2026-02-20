@@ -1,0 +1,230 @@
+{
+  "recording": {
+    "name": "300000001216201-300000001705711-4065813445 by gabriela@superbalife.com @ 12_38_24 PM.wav",
+    "size": 234126,
+    "modifyTime": 1769591843000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216201-300000001705711-4065813445 by gabriela@superbalife.com @ 12_38_24 PM.wav",
+    "uploadDate": "2026-01-28T09:17:23.000Z",
+    "callId": "300000001216201-300000001705711",
+    "agent": "gabriela",
+    "phoneNumber": "4065813445",
+    "callTimestamp": "2026-01-28T12:38:24.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: So, I've been sent the wrong product twice now. I ordered the AGV.\n\nSpeaker 1: Okay, what's your name and date of birth?\n\nSpeaker 2: JT France, 6-28-64.\n\nSpeaker 1: Thank you. Okay, so I am looking at your profile, JT.\n\nSpeaker 2: It looks like you do receive Viagra AGV, a quantity of 10 pills.\n\nSpeaker 1: And you say you received the wrong stuff this time?\n\nSpeaker 2: Both times.\n\nSpeaker 1: Oh.\n\nSpeaker 2: So, I'm getting the generic...\n\nSpeaker 1: Do you have the pills with you?\n\nSpeaker 2: I do. I'm looking at the bottle right now.\n\nSpeaker 1: So, the bottle itself should say Greenstone LLC on it since these are made in the lab facility.\n\nSpeaker 2: And the easiest way to make sure that you got the AGV is by taking a look at the capsules.\n\nSpeaker 1: They should have the number 50 engraved on them. Can you verify that for me?\n\nSpeaker 2: Hang on just a second. It says right on the bottle, generic Viagra.\n\nSpeaker 1: Can you take a look at the pills? They should have the number 50 engraved on them.\n\nSpeaker 2: It's 3-3-9.\n\nSpeaker 1: Okay, yes. It looks like they did send you the classic Viagra and not the AGV.\n\nSpeaker 2: Correct.\n\nSpeaker 1: So, don't worry about it. I'll notify the pharmacy so that they reship the correct order to you, okay?\n\nSpeaker 2: And then they should be sending you a quantity of 20 this time to make up for the previous order too, okay?\n\nSpeaker 1: Okay. Yeah, these are white.\n\nSpeaker 2: Yeah, they're supposed to be white. They're not going to be blue.\n\nSpeaker 1: Actually, the blue dye is bad for you, so we don't do them blue.\n\nSpeaker 2: Okay, so the AGV will be white also?\n\nSpeaker 1: It will be white, yes. But the reason, the way you'll be able to identify that it's the AGV,\n\nSpeaker 2: it's because it will say Greenstone LLC on the label.\n\nSpeaker 1: And then every single pill will have the number 50 engraved on the tablet.\n\nSpeaker 2: Okay, gotcha.\n\nSpeaker 1: Okay?\n\nSpeaker 2: All right, thank you.\n\nSpeaker 1: Okay, you're welcome. Have a good day. Bye.\n\nSpeaker 2: Thank you, ma'am. Bye.",
+    "duration": 7092,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 13,
+        "text": " So, I've been sent the wrong product twice now. I ordered the AGV."
+      },
+      {
+        "id": 2,
+        "start": 13,
+        "end": 18,
+        "text": " Okay, what's your name and date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 18,
+        "end": 22,
+        "text": " JT France, 6-28-64."
+      },
+      {
+        "id": 4,
+        "start": 22,
+        "end": 28,
+        "text": " Thank you. Okay, so I am looking at your profile, JT."
+      },
+      {
+        "id": 5,
+        "start": 28,
+        "end": 34,
+        "text": " It looks like you do receive Viagra AGV, a quantity of 10 pills."
+      },
+      {
+        "id": 6,
+        "start": 34,
+        "end": 38,
+        "text": " And you say you received the wrong stuff this time?"
+      },
+      {
+        "id": 7,
+        "start": 38,
+        "end": 40,
+        "text": " Both times."
+      },
+      {
+        "id": 8,
+        "start": 40,
+        "end": 42,
+        "text": " Oh."
+      },
+      {
+        "id": 9,
+        "start": 42,
+        "end": 45,
+        "text": " So, I'm getting the generic..."
+      },
+      {
+        "id": 10,
+        "start": 45,
+        "end": 48,
+        "text": " Do you have the pills with you?"
+      },
+      {
+        "id": 11,
+        "start": 48,
+        "end": 51,
+        "text": " I do. I'm looking at the bottle right now."
+      },
+      {
+        "id": 12,
+        "start": 51,
+        "end": 57,
+        "text": " So, the bottle itself should say Greenstone LLC on it since these are made in the lab facility."
+      },
+      {
+        "id": 13,
+        "start": 57,
+        "end": 63,
+        "text": " And the easiest way to make sure that you got the AGV is by taking a look at the capsules."
+      },
+      {
+        "id": 14,
+        "start": 63,
+        "end": 68,
+        "text": " They should have the number 50 engraved on them. Can you verify that for me?"
+      },
+      {
+        "id": 15,
+        "start": 68,
+        "end": 77,
+        "text": " Hang on just a second. It says right on the bottle, generic Viagra."
+      },
+      {
+        "id": 16,
+        "start": 77,
+        "end": 83,
+        "text": " Can you take a look at the pills? They should have the number 50 engraved on them."
+      },
+      {
+        "id": 17,
+        "start": 83,
+        "end": 87,
+        "text": " It's 3-3-9."
+      },
+      {
+        "id": 18,
+        "start": 87,
+        "end": 93,
+        "text": " Okay, yes. It looks like they did send you the classic Viagra and not the AGV."
+      },
+      {
+        "id": 19,
+        "start": 93,
+        "end": 94,
+        "text": " Correct."
+      },
+      {
+        "id": 20,
+        "start": 94,
+        "end": 99,
+        "text": " So, don't worry about it. I'll notify the pharmacy so that they reship the correct order to you, okay?"
+      },
+      {
+        "id": 21,
+        "start": 99,
+        "end": 106,
+        "text": " And then they should be sending you a quantity of 20 this time to make up for the previous order too, okay?"
+      },
+      {
+        "id": 22,
+        "start": 106,
+        "end": 109,
+        "text": " Okay. Yeah, these are white."
+      },
+      {
+        "id": 23,
+        "start": 109,
+        "end": 112,
+        "text": " Yeah, they're supposed to be white. They're not going to be blue."
+      },
+      {
+        "id": 24,
+        "start": 112,
+        "end": 117,
+        "text": " Actually, the blue dye is bad for you, so we don't do them blue."
+      },
+      {
+        "id": 25,
+        "start": 117,
+        "end": 121,
+        "text": " Okay, so the AGV will be white also?"
+      },
+      {
+        "id": 26,
+        "start": 121,
+        "end": 127,
+        "text": " It will be white, yes. But the reason, the way you'll be able to identify that it's the AGV,"
+      },
+      {
+        "id": 27,
+        "start": 127,
+        "end": 131,
+        "text": " it's because it will say Greenstone LLC on the label."
+      },
+      {
+        "id": 28,
+        "start": 131,
+        "end": 137,
+        "text": " And then every single pill will have the number 50 engraved on the tablet."
+      },
+      {
+        "id": 29,
+        "start": 137,
+        "end": 138,
+        "text": " Okay, gotcha."
+      },
+      {
+        "id": 30,
+        "start": 138,
+        "end": 139,
+        "text": " Okay?"
+      },
+      {
+        "id": 31,
+        "start": 139,
+        "end": 140,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 32,
+        "start": 140,
+        "end": 142,
+        "text": " Okay, you're welcome. Have a good day. Bye."
+      },
+      {
+        "id": 33,
+        "start": 142,
+        "end": 144,
+        "text": " Thank you, ma'am. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-811f-ad1e-e3e7abfb454e",
+    "url": "https://www.notion.so/300000001216201-300000001705711-2f611d0a101c811fad1ee3e7abfb454e"
+  },
+  "processedAt": "2026-01-28T11:15:50.435Z"
+}

@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001220910-300000001710921-5044520399 by  @ 10_33_29 AM_CallStudio.wav",
+    "size": 26256,
+    "modifyTime": 1769625254000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220910-300000001710921-5044520399 by  @ 10_33_29 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T18:34:14.000Z",
+    "callId": "300000001220910-300000001710921",
+    "phoneNumber": "5044520399",
+    "callTimestamp": "2026-01-28T18:34:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque número nueve.\n\nSpeaker 2: Check on existing order, representative.\n\nSpeaker 1: Thanks.",
+    "duration": 1062,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.320000171661377,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.320000171661377,
+        "end": 6.320000171661377,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.320000171661377,
+        "end": 10.680000305175781,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.680000305175781,
+        "end": 14.84000015258789,
+        "text": " Check on existing order, representative."
+      },
+      {
+        "id": 4,
+        "start": 14.84000015258789,
+        "end": 15.84000015258789,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 15.84000015258789,
+        "end": 15.84000015258789,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8111-9d3c-d8c87e1493ca",
+    "url": "https://www.notion.so/300000001220910-300000001710921-2f711d0a101c81119d3cd8c87e1493ca"
+  },
+  "processedAt": "2026-01-29T00:15:07.179Z"
+}

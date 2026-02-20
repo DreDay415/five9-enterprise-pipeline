@@ -1,0 +1,58 @@
+{
+  "recording": {
+    "name": "300000001241261-300000001730744-6015063577 by  @ 4_34_34 PM_CallStudio.wav",
+    "size": 25216,
+    "modifyTime": 1770942913000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241261-300000001730744-6015063577 by  @ 4_34_34 PM_CallStudio.wav",
+    "uploadDate": "2026-02-13T00:35:13.000Z",
+    "callId": "300000001241261-300000001730744",
+    "phoneNumber": "6015063577",
+    "callTimestamp": "2026-02-13T00:35:13.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241261-300000001730744_6015063577.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241261-300000001730744_6015063577.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Cancel prescription.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 770,
+    "audioDuration": 15.479999542236328,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.079999923706055,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.21999979019165,
+        "end": 6.699999809265137,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.840000152587891,
+        "end": 8.479999542236328,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.180000305175781,
+        "end": 12,
+        "text": " Cancel prescription."
+      },
+      {
+        "id": 4,
+        "start": 13.859999656677246,
+        "end": 15.079999923706055,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81bf-8123-ea173c9883e0",
+    "url": "https://www.notion.so/300000001241261-300000001730744-30611d0a101c81bf8123ea173c9883e0"
+  },
+  "processedAt": "2026-02-13T01:05:12.174Z"
+}

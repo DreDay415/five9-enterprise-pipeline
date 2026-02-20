@@ -1,0 +1,86 @@
+{
+  "recording": {
+    "name": "300000001217062-300000001707490-8565719446 by john@superbalife.com @ 9_01_40 AM.wav",
+    "size": 55376,
+    "modifyTime": 1769590640000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217062-300000001707490-8565719446 by john@superbalife.com @ 9_01_40 AM.wav",
+    "uploadDate": "2026-01-28T08:57:20.000Z",
+    "callId": "300000001217062-300000001707490",
+    "agent": "john",
+    "phoneNumber": "8565719446",
+    "callTimestamp": "2026-01-28T09:01:40.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Hi, John. How are you?\n\nSpeaker 1: Yes. I placed an order back last month.\n\nSpeaker 2: It's on the 24th.\n\nSpeaker 1: I got my order and everything, but then I've seen that my card was charged again this month on the 24th again.\n\nSpeaker 2: $63.95.\n\nSpeaker 1: Uh-huh.\n\nSpeaker 2: And you can know why I didn't put it like an automatic thing on this one.\n\nSpeaker 1: Let me get somebody in the dealing department that will help you out with that. One second.\n\nSpeaker 2: Thank you.",
+    "duration": 1686,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 4,
+        "text": " Hi, John. How are you?"
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 11,
+        "text": " Yes. I placed an order back in last month."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 13,
+        "text": " It's on the 24th."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 20,
+        "text": " I got my order and everything, but then I've seen that my car was charged again this month on the 24th again."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 22,
+        "text": " $63.95."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 24,
+        "text": " Uh-huh."
+      },
+      {
+        "id": 7,
+        "start": 24,
+        "end": 29,
+        "text": " And you can know why I didn't put it like an automatic thing on this one."
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 33,
+        "text": " Let me get somebody in the dealing department that will help you out with that one second."
+      },
+      {
+        "id": 9,
+        "start": 33,
+        "end": 34,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e2-b5dd-ff18bb2c73c1",
+    "url": "https://www.notion.so/300000001217062-300000001707490-2f611d0a101c81e2b5ddff18bb2c73c1"
+  },
+  "processedAt": "2026-01-28T12:01:34.771Z"
+}

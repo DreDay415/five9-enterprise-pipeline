@@ -1,0 +1,194 @@
+{
+  "recording": {
+    "name": "300000001220803-300000001710843-9092158312 by john@superbalife.com @ 9_54_10 AM.wav",
+    "size": 165226,
+    "modifyTime": 1769622974000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220803-300000001710843-9092158312 by john@superbalife.com @ 9_54_10 AM.wav",
+    "uploadDate": "2026-01-28T17:56:14.000Z",
+    "callId": "300000001220803-300000001710843",
+    "agent": "john",
+    "phoneNumber": "9092158312",
+    "callTimestamp": "2026-01-28T09:54:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Uh, yes. I need a refill.\n\nSpeaker 1: Okay. I need your name and zip code.\n\nSpeaker 2: Okay. My name is Tony Van Beek.\n\nSpeaker 1: My zip code is 80132.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay. Peaceful Pines Road?\n\nSpeaker 2: That's correct.\n\nSpeaker 1: You were getting 18 pills before. Is that what you want to do again?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Is there anything a little bit stronger?\n\nSpeaker 2: Well, we have a Viagra AGV. It is a little bit more effective of a pill.\n\nSpeaker 1: So it would still be 100 milligrams, but it does typically work a little bit better for people.\n\nSpeaker 2: Do you want to try that instead?\n\nSpeaker 1: Yeah, let's try that. Is there a difference in price?\n\nSpeaker 2: You can get 25, but it's going to be cheaper than what you were paying on the other one.\n\nSpeaker 1: Okay.\n\nSpeaker 2: It'll be 113 instead of the 148 or whatever.\n\nSpeaker 1: Okay. Okay. Let's try that.\n\nSpeaker 2: Okay. And do you want me to use the Visa Engine 3733?\n\nSpeaker 1: Yes.\n\nSpeaker 2: One second.\n\nSpeaker 1: Okay. We're all set, sir. Your order went through.\n\nSpeaker 2: This will update your prescription to be for this version, and then we'll send it out, so you're good to go.\n\nSpeaker 1: Okay. Thank you.\n\nSpeaker 2: You're welcome. Have a good one.\n\nSpeaker 1: Thank you. You're the same.\n\nSpeaker 2: Bye-bye.",
+    "duration": 3279,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 6,
+        "text": " Uh, yes. I need a refill."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 9,
+        "text": " Okay. I need your name and zip code."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 13,
+        "text": " Okay. My name is Tony Van Beek."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 17,
+        "text": " My zip code is 80132."
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 18,
+        "text": " Thank you."
+      },
+      {
+        "id": 6,
+        "start": 31,
+        "end": 34,
+        "text": " Okay. Peaceful Pines Road?"
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 36,
+        "text": " That's correct."
+      },
+      {
+        "id": 8,
+        "start": 36,
+        "end": 40,
+        "text": " You were getting 18 pills before. Is that what you want to do again?"
+      },
+      {
+        "id": 9,
+        "start": 40,
+        "end": 42,
+        "text": " Yes."
+      },
+      {
+        "id": 10,
+        "start": 42,
+        "end": 46,
+        "text": " Is there anything a little bit stronger?"
+      },
+      {
+        "id": 11,
+        "start": 46,
+        "end": 50,
+        "text": " Well, we have a Viagra AGV. It is a little bit more effective of a pill."
+      },
+      {
+        "id": 12,
+        "start": 50,
+        "end": 53,
+        "text": " So it would still be 100 milligrams, but it does typically work a little bit better for people."
+      },
+      {
+        "id": 13,
+        "start": 53,
+        "end": 55,
+        "text": " Do you want to try that instead?"
+      },
+      {
+        "id": 14,
+        "start": 55,
+        "end": 58,
+        "text": " Yeah, let's try that. Is there a difference in price?"
+      },
+      {
+        "id": 15,
+        "start": 58,
+        "end": 62,
+        "text": " You can get 25, but it's going to be cheaper than what you were paying on the other one."
+      },
+      {
+        "id": 16,
+        "start": 62,
+        "end": 63,
+        "text": " Okay."
+      },
+      {
+        "id": 17,
+        "start": 63,
+        "end": 67,
+        "text": " It'll be 113 instead of the 148 or whatever."
+      },
+      {
+        "id": 18,
+        "start": 67,
+        "end": 70,
+        "text": " Okay. Okay. Let's try that."
+      },
+      {
+        "id": 19,
+        "start": 70,
+        "end": 74,
+        "text": " Okay. And do you want me to use the Visa Engine 3733?"
+      },
+      {
+        "id": 20,
+        "start": 74,
+        "end": 76,
+        "text": " Yes."
+      },
+      {
+        "id": 21,
+        "start": 77,
+        "end": 79,
+        "text": " One second."
+      },
+      {
+        "id": 22,
+        "start": 89,
+        "end": 91,
+        "text": " Okay. We're all set, sir. Your order went through."
+      },
+      {
+        "id": 23,
+        "start": 91,
+        "end": 95,
+        "text": " This will update your prescription to be for this version, and then we'll send it out, so you're good to go."
+      },
+      {
+        "id": 24,
+        "start": 95,
+        "end": 97,
+        "text": " Okay. Thank you."
+      },
+      {
+        "id": 25,
+        "start": 97,
+        "end": 99,
+        "text": " You're welcome. Have a good one."
+      },
+      {
+        "id": 26,
+        "start": 99,
+        "end": 101,
+        "text": " Thank you. You're the same."
+      },
+      {
+        "id": 27,
+        "start": 101,
+        "end": 102,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813d-83f0-d519e16bb463",
+    "url": "https://www.notion.so/300000001220803-300000001710843-2f611d0a101c813d83f0d519e16bb463"
+  },
+  "processedAt": "2026-01-28T18:14:32.327Z"
+}

@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001232388-300000001722350-8286066700 by  @ 4_57_09 PM_CallStudio.wav",
+    "size": 30090,
+    "modifyTime": 1770339469000,
+    "remotePath": "/five9sftp/upload/SB CS/2_5_2026/300000001232388-300000001722350-8286066700 by  @ 4_57_09 PM_CallStudio.wav",
+    "uploadDate": "2026-02-06T00:57:49.000Z",
+    "callId": "300000001232388-300000001722350",
+    "phoneNumber": "8286066700",
+    "callTimestamp": "2026-02-06T00:57:49.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque número nueve.\n\nSpeaker 2: To discuss if FIGRA, SCOREBLUES.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1516,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.099999904632568,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.260000228881836,
+        "end": 6.739999771118164,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.059999942779541,
+        "end": 8.520000457763672,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 12.34000015258789,
+        "end": 16.959999084472656,
+        "text": " To discuss if FIGRA, SCOREBLUES."
+      },
+      {
+        "id": 4,
+        "start": 16.959999084472656,
+        "end": 18.5,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2ff11d0a-101c-8161-b7a8-ca3d1dc6c3d4",
+    "url": "https://www.notion.so/300000001232388-300000001722350-2ff11d0a101c8161b7a8ca3d1dc6c3d4"
+  },
+  "processedAt": "2026-02-06T10:03:11.546Z"
+}

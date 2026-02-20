@@ -1,0 +1,140 @@
+{
+  "recording": {
+    "name": "300000001218897-300000001709101-4057512852 by john@superbalife.com @ 9_10_14 AM.wav",
+    "size": 121740,
+    "modifyTime": 1769584040000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218897-300000001709101-4057512852 by john@superbalife.com @ 9_10_14 AM.wav",
+    "uploadDate": "2026-01-28T07:07:20.000Z",
+    "callId": "300000001218897-300000001709101",
+    "agent": "john",
+    "phoneNumber": "4057512852",
+    "callTimestamp": "2026-01-28T09:10:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: My name is Robert Colston. I got some of your damn fake pills.\n\nSpeaker 1: And I want this prescription stopped.\n\nSpeaker 2: We don't sell fake pills, sir. What's your zip code?\n\nSpeaker 1: 73078.\n\nSpeaker 2: One more time. You stopped and started again.\n\nSpeaker 1: 73078.\n\nSpeaker 2: Okay. If you don't want to get the pills anymore, sir, you don't have to.\n\nSpeaker 1: But nothing we sell here is fake. Everything is FDA-approved real pills.\n\nSpeaker 2: Okay. There is no extra-strength Viagra like you're advertising, which I ordered the first time.\n\nSpeaker 1: It's just generic, just generic Viagra, whatever, that I can get for 20 cents a pill here locally.\n\nSpeaker 2: And you're charging me, God, what, $4 a pill?\n\nSpeaker 1: If you think you got the wrong thing, sir, I'm happy to help you with that.\n\nSpeaker 2: But accusing us of sending you fake things isn't helpful.\n\nSpeaker 1: So if you think you got the wrong thing, I can help you.\n\nSpeaker 2: Okay. There is no such thing as what you advertise.\n\nSpeaker 1: There is a such thing. But if you just want to be difficult,\n\nSpeaker 2: then I'll just close your account permanently and not help you out. So we're all set.\n\nSpeaker 1: Close it out, then.",
+    "duration": 4710,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 9,
+        "text": " My name is Robert Colston. I got some of your damn fake pills."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 12,
+        "text": " And I want this prescription stopped."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 15,
+        "text": " We don't sell fake pills, sir. What's your zip code?"
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 19,
+        "text": " 73078."
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 22,
+        "text": " One more time. You stopped and started again."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 29,
+        "text": " 73078."
+      },
+      {
+        "id": 7,
+        "start": 29,
+        "end": 32,
+        "text": " Okay. If you don't want to get the pills anymore, sir, you don't have to."
+      },
+      {
+        "id": 8,
+        "start": 32,
+        "end": 35,
+        "text": " But nothing we sell here is fake. Everything is FDA-approved real pills."
+      },
+      {
+        "id": 9,
+        "start": 35,
+        "end": 43,
+        "text": " Okay. There is no extra-strength Viagra like you're advertising, which I ordered the first time."
+      },
+      {
+        "id": 10,
+        "start": 43,
+        "end": 52,
+        "text": " It's just generic, just generic Viagra, whatever, that I can get for 20 cents a pill here locally."
+      },
+      {
+        "id": 11,
+        "start": 52,
+        "end": 56,
+        "text": " And you're charging me, God, what, $4 a pill?"
+      },
+      {
+        "id": 12,
+        "start": 56,
+        "end": 58,
+        "text": " If you think you got the wrong thing, sir, I'm happy to help you with that."
+      },
+      {
+        "id": 13,
+        "start": 58,
+        "end": 61,
+        "text": " But accusing us of sending you fake things isn't helpful."
+      },
+      {
+        "id": 14,
+        "start": 61,
+        "end": 64,
+        "text": " So if you think you got the wrong thing, I can help you."
+      },
+      {
+        "id": 15,
+        "start": 64,
+        "end": 67,
+        "text": " Okay. There is no such thing as what you advertise."
+      },
+      {
+        "id": 16,
+        "start": 67,
+        "end": 70,
+        "text": " There is a such thing. But if you just want to be difficult,"
+      },
+      {
+        "id": 17,
+        "start": 70,
+        "end": 73,
+        "text": " then I'll just close your account permanently and not help you out. So we're all set."
+      },
+      {
+        "id": 18,
+        "start": 73,
+        "end": 75,
+        "text": " Close it out, then."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8129-bd76-c5bc788198eb",
+    "url": "https://www.notion.so/300000001218897-300000001709101-2f611d0a101c8129bd76c5bc788198eb"
+  },
+  "processedAt": "2026-01-28T15:26:17.836Z"
+}

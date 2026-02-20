@@ -1,0 +1,43 @@
+{
+  "recording": {
+    "name": "300000001218947-300000001709158-8606398673 by  @ 9_20_11 AM_CallStudio.wav",
+    "size": 25930,
+    "modifyTime": 1769590642000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218947-300000001709158-8606398673 by  @ 9_20_11 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T08:57:22.000Z",
+    "callId": "300000001218947-300000001709158",
+    "phoneNumber": "8606398673",
+    "callTimestamp": "2026-01-28T08:57:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Talk to a representative. Representative.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 907,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 9,
+        "end": 12,
+        "text": " Talk to a representative. Representative."
+      },
+      {
+        "id": 2,
+        "start": 14,
+        "end": 16,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81fe-a33e-d6e54c58442f",
+    "url": "https://www.notion.so/300000001218947-300000001709158-2f611d0a101c81fea33ed6e54c58442f"
+  },
+  "processedAt": "2026-01-28T11:54:25.301Z"
+}

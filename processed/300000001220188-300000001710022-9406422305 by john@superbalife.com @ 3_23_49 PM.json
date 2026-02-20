@@ -1,0 +1,344 @@
+{
+  "recording": {
+    "name": "300000001220188-300000001710022-9406422305 by john@superbalife.com @ 3_23_49 PM.wav",
+    "size": 230680,
+    "modifyTime": 1769556382000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220188-300000001710022-9406422305 by john@superbalife.com @ 3_23_49 PM.wav",
+    "uploadDate": "2026-01-27T23:26:22.000Z",
+    "callId": "300000001220188-300000001710022",
+    "agent": "john",
+    "phoneNumber": "9406422305",
+    "callTimestamp": "2026-01-27T15:23:49.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling.\n\nSpeaker 2: This is John.\n\nSpeaker 1: How can I help you today?\n\nSpeaker 2: Yes, John.\n\nSpeaker 1: My name is Major Harris.\n\nSpeaker 2: I had a prescription for Viagra, the generic, about five or six months ago, give or take, and I'm out, and I was wondering if I could get a refill.\n\nSpeaker 1: Okay. What's your zip code?\n\nSpeaker 2: 76306.\n\nSpeaker 1: 5424 Castle Drive?\n\nSpeaker 2: That is correct.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yeah, I can get you a refill.\n\nSpeaker 1: You want to do the same thing, ten pills?\n\nSpeaker 2: Okay.\n\nSpeaker 1: Is the price still the same?\n\nSpeaker 2: It went up a little bit.\n\nSpeaker 1: It's $63.95 from the $58.\n\nSpeaker 2: Hmm.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Whenever you're ready, I'll take the card you want me to use.\n\nSpeaker 1: Okay. Hold on a second.\n\nSpeaker 2: I'm going to go ahead and call my phone number, and let's see if we can get you to answer this one.\n\nSpeaker 1: Hello?\n\nSpeaker 2: Yes, I can hear you.\n\nSpeaker 1: Hello?\n\nSpeaker 2: I can hear you.\n\nSpeaker 1: This is John.\n\nSpeaker 2: You want to do the same thing, ten pills?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I have a prescription for Viagra, about five or six months ago, give or take, and I'm out.\n\nSpeaker 1: Okay, you ready?\n\nSpeaker 2: I'm ready. Okay. 4-2-6-6-8-4-1-7-9-0-8-8-1-5-3-4.\n\nSpeaker 1: Next prescription, please? 11-28.\n\nSpeaker 2: And the security card, please? 2-6-6.\n\nSpeaker 1: Okay, we're all set.\n\nSpeaker 2: Your refill's in place, sir.\n\nSpeaker 1: Excuse me?\n\nSpeaker 2: I said we're all set. Your refill has been placed.\n\nSpeaker 1: Oh, okay. All right. Appreciate it. Have a good night.\n\nSpeaker 2: Okay, thank you, ma'am. Bye-bye.",
+    "duration": 20450,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Thank you for calling."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2,
+        "text": " This is John."
+      },
+      {
+        "id": 2,
+        "start": 2,
+        "end": 3,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 3,
+        "start": 3,
+        "end": 4,
+        "text": " Yes, John."
+      },
+      {
+        "id": 4,
+        "start": 4,
+        "end": 5,
+        "text": " My name is Major Harris."
+      },
+      {
+        "id": 5,
+        "start": 5,
+        "end": 13.5600004196167,
+        "text": " I had a prescription for Viagra, the generic, about five or six months ago, give or take,"
+      },
+      {
+        "id": 6,
+        "start": 13.5600004196167,
+        "end": 17,
+        "text": " and I'm out, and I was wondering if I could get a refill."
+      },
+      {
+        "id": 7,
+        "start": 17,
+        "end": 18,
+        "text": " Okay."
+      },
+      {
+        "id": 8,
+        "start": 18,
+        "end": 19,
+        "text": " What's your zip code?"
+      },
+      {
+        "id": 9,
+        "start": 19,
+        "end": 20,
+        "text": " 76306."
+      },
+      {
+        "id": 10,
+        "start": 21,
+        "end": 22,
+        "text": " 5424 Castle Drive?"
+      },
+      {
+        "id": 11,
+        "start": 22,
+        "end": 23,
+        "text": " That is correct."
+      },
+      {
+        "id": 12,
+        "start": 23,
+        "end": 24,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 24,
+        "end": 25,
+        "text": " Yeah, I can get you a refill."
+      },
+      {
+        "id": 14,
+        "start": 25,
+        "end": 26,
+        "text": " You want to do the same thing, ten pills?"
+      },
+      {
+        "id": 15,
+        "start": 26,
+        "end": 27,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 27,
+        "end": 28,
+        "text": " Is the price still the same?"
+      },
+      {
+        "id": 17,
+        "start": 28,
+        "end": 29,
+        "text": " It went up a little bit."
+      },
+      {
+        "id": 18,
+        "start": 29,
+        "end": 30,
+        "text": " It's $63.95 from the $58."
+      },
+      {
+        "id": 19,
+        "start": 30,
+        "end": 31,
+        "text": " Hmm."
+      },
+      {
+        "id": 20,
+        "start": 31,
+        "end": 32,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 32,
+        "end": 33,
+        "text": " Thank you for calling."
+      },
+      {
+        "id": 22,
+        "start": 33,
+        "end": 34,
+        "text": " This is John."
+      },
+      {
+        "id": 23,
+        "start": 34,
+        "end": 35,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 24,
+        "start": 35,
+        "end": 36,
+        "text": " Yes, John."
+      },
+      {
+        "id": 25,
+        "start": 36,
+        "end": 37,
+        "text": " My name is Major Harris."
+      },
+      {
+        "id": 26,
+        "start": 37,
+        "end": 38,
+        "text": " I had a prescription for Viagra, the generic, about five or six months ago, give or take,"
+      },
+      {
+        "id": 27,
+        "start": 38,
+        "end": 39,
+        "text": " and I'm out, and I'm out, and I'm out, and I'm out, and I'm out, and I'm out, and I'm"
+      },
+      {
+        "id": 28,
+        "start": 39,
+        "end": 40,
+        "text": " out, and I'm out, and I'm out, and I'm out, and I'm out, and I'm out, and I'm out, and"
+      },
+      {
+        "id": 29,
+        "start": 40,
+        "end": 41,
+        "text": " Okay."
+      },
+      {
+        "id": 30,
+        "start": 41,
+        "end": 42,
+        "text": " Whenever you're ready I'll take the card you want me to use."
+      },
+      {
+        "id": 31,
+        "start": 42,
+        "end": 43,
+        "text": " Okay."
+      },
+      {
+        "id": 32,
+        "start": 43,
+        "end": 44,
+        "text": " Hold on a second."
+      },
+      {
+        "id": 33,
+        "start": 44,
+        "end": 45,
+        "text": " I'm going to go ahead and call my phone number, and let's see if we can get you to answer"
+      },
+      {
+        "id": 34,
+        "start": 45,
+        "end": 46,
+        "text": " this one."
+      },
+      {
+        "id": 35,
+        "start": 46,
+        "end": 47,
+        "text": " Okay."
+      },
+      {
+        "id": 36,
+        "start": 47,
+        "end": 48,
+        "text": " Hello?"
+      },
+      {
+        "id": 37,
+        "start": 48,
+        "end": 49,
+        "text": " Yes, I can hear you."
+      },
+      {
+        "id": 38,
+        "start": 49,
+        "end": 50,
+        "text": " Hello?"
+      },
+      {
+        "id": 39,
+        "start": 50,
+        "end": 51,
+        "text": " I can hear you."
+      },
+      {
+        "id": 40,
+        "start": 51,
+        "end": 52,
+        "text": " This is John."
+      },
+      {
+        "id": 41,
+        "start": 52,
+        "end": 53,
+        "text": " You want to do the same thing, ten pills?"
+      },
+      {
+        "id": 42,
+        "start": 53,
+        "end": 54,
+        "text": " You want to do the same thing, ten pills?"
+      },
+      {
+        "id": 43,
+        "start": 54,
+        "end": 55,
+        "text": " Yes, I can hear you."
+      },
+      {
+        "id": 44,
+        "start": 55,
+        "end": 56,
+        "text": " I'm out, and I'm out, and I'm out, and I'm out, and I'm out, and I'm out, and I'm out,"
+      },
+      {
+        "id": 45,
+        "start": 56,
+        "end": 57,
+        "text": " and I'm out, and I'm out."
+      },
+      {
+        "id": 46,
+        "start": 57,
+        "end": 58,
+        "text": " Okay."
+      },
+      {
+        "id": 47,
+        "start": 58,
+        "end": 59,
+        "text": " I have a prescription for Viagra, about five or six months ago, give or take, and I'm"
+      },
+      {
+        "id": 48,
+        "start": 59.36000061035156,
+        "end": 66.37999725341797,
+        "text": " I have a prescription for Viagra, about five or six months ago, give or take, and I'm"
+      },
+      {
+        "id": 49,
+        "start": 97.37999725341797,
+        "end": 116.58000183105469,
+        "text": " Okay, you ready? I'm ready. Okay. 4-2-6-6-8-4-1-7-9-0-8-8-1-5-3-4. Next"
+      },
+      {
+        "id": 50,
+        "start": 116.58000183105469,
+        "end": 130.77999877929688,
+        "text": " prescription, please? 11-28. And the security card, please? 2-6-6. Okay, we're all set."
+      },
+      {
+        "id": 51,
+        "start": 130.77999877929688,
+        "end": 136.4199981689453,
+        "text": " Your refill's in place, sir. Excuse me? I said we're all set. Your refill has been placed."
+      },
+      {
+        "id": 52,
+        "start": 136.4199981689453,
+        "end": 141.6999969482422,
+        "text": " Oh, okay. All right. Appreciate it. Have a good night. Okay, thank you, ma'am. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8178-8f35-ca4f0a8183d8",
+    "url": "https://www.notion.so/300000001220188-300000001710022-2f611d0a101c81788f35ca4f0a8183d8"
+  },
+  "processedAt": "2026-01-28T17:57:09.882Z"
+}

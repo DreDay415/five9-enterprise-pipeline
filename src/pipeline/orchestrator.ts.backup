@@ -1,0 +1,459 @@
+import path from 'path';
+import { execFile } from 'child_process';
+import { promisify } from 'util';
+import { Config } from '../config/schema';
+import { getLogger } from '../utils/logger';
+import { SftpService } from '../services/sftp.service';
+import { TranscriptionService } from '../services/transcription.service';
+import { NotionService, RecordingInfo } from '../services/notion.service';
+import { SpacesService } from '../services/spaces.service';
+import { NotificationService, PipelineSummary } from '../services/notification.service';
+import {
+  ensureDirectories,
+  moveToProcessed,
+  moveToFailed,
+  saveTranscriptionJson,
+} from '../utils/filesystem';
+import { PipelineError } from '../utils/errors';
+import { sleep } from '../utils/retry';
+import { RunLogger } from "../logger/runLogger";
+import { NotionRunReporter } from "../logger/notionRunReporter";
+
+const logger = getLogger();
+const execFileAsync = promisify(execFile);
+const MARK_PROCESSED_SCRIPT = '/srv/five9/mark-processed.sh';
+const CLEANUP_SCRIPT = '/srv/five9/cleanup.sh';
+
+interface ParsedFilenameData {
+  callId?: string;
+  phoneNumber?: string;
+  agent?: string;
+  callTime?: string;
+  callTimestamp?: Date;
+}
+
+const DATE_PATTERN = /(\d{4})[-_](\d{2})[-_](\d{2})/g;
+
+function parseFive9Filename(
+  fileName: string,
+  remotePath: string,
+  modifyTime: number
+): ParsedFilenameData {
+  const baseName = path.parse(fileName).name;
+
+  const idMatch = baseName.match(/^(\d+)-(\d+)-(\d+)\s+by\s+/);
+  const phoneMatch = baseName.match(/-([0-9]+)\s+by\s+/);
+  const agentMatch = baseName.match(/by\s+([^@\s]+)@/);
+  const timeMatch = baseName.match(/@\s+(.+)$/);
+
+  const callId = idMatch ? `${idMatch[1]}-${idMatch[2]}` : undefined;
+  const phoneNumber = phoneMatch?.[1];
+  const agent = agentMatch?.[1];
+  const callTimeRaw = timeMatch?.[1];
+  const callTime = callTimeRaw ? callTimeRaw.replace(/_/g, ':') : undefined;
+
+  const dateFromPath = extractDateFromPath(remotePath);
+  const baseDate = dateFromPath ?? dateFromModifyTime(modifyTime);
+  const callTimestamp = callTime
+    ? buildTimestampWithTime(baseDate, callTime)
+    : baseDate;
+
+  return { callId, phoneNumber, agent, callTime, callTimestamp };
+}
+
+
+function extractDateFromPath(remotePath: string): Date | undefined {
+  const matches = [...remotePath.matchAll(DATE_PATTERN)];
+  if (matches.length === 0) {
+    return undefined;
+  }
+
+  const match = matches[matches.length - 1];
+  if (!match) {
+    return undefined;
+  }
+  const year = match[1];
+  const month = match[2];
+  const day = match[3];
+  if (!year || !month || !day) {
+    return undefined;
+  }
+
+  return new Date(`${year}-${month}-${day}T00:00:00`);
+}
+
+function dateFromModifyTime(modifyTime: number): Date {
+  const ms = modifyTime < 1e12 ? modifyTime * 1000 : modifyTime;
+  return new Date(ms);
+}
+
+function buildTimestampWithTime(baseDate: Date, timeValue: string): Date {
+  const parsed = parseTime12h(timeValue);
+  if (!parsed) {
+    return baseDate;
+  }
+
+  const timestamp = new Date(baseDate);
+  timestamp.setHours(parsed.hours, parsed.minutes, parsed.seconds, 0);
+  return timestamp;
+}
+
+function parseTime12h(timeValue: string): { hours: number; minutes: number; seconds: number } | null {
+  const match = timeValue.match(/^(\d{1,2}):(\d{2}):(\d{2})\s*(AM|PM)$/i);
+  if (!match || !match[1] || !match[2] || !match[3] || !match[4]) {
+    return null;
+  }
+
+  const hours = Number.parseInt(match[1], 10);
+  const minutes = Number.parseInt(match[2], 10);
+  const seconds = Number.parseInt(match[3], 10);
+  const period = match[4]?.toUpperCase();
+
+  if (Number.isNaN(hours) || Number.isNaN(minutes) || Number.isNaN(seconds)) {
+    return null;
+  }
+
+  const normalizedHours =
+    period === 'PM' ? (hours === 12 ? 12 : hours + 12) : hours === 12 ? 0 : hours;
+
+  return { hours: normalizedHours, minutes, seconds };
+}
+
+async function runScriptIfAvailable(
+  scriptPath: string,
+  args: string[],
+  scriptLabel: string
+): Promise<void> {
+  try {
+    await execFileAsync(scriptPath, args, { timeout: 30000 });
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
+    logger.warn({ scriptPath, error: message }, `Failed to run ${scriptLabel} script`);
+  }
+}
+
+/**
+ * Processing result for a single recording
+ */
+export interface ProcessingResult {
+  success: boolean;
+  recordingName: string;
+  error?: string;
+  notionPageId?: string;
+  duration: number;
+}
+
+/**
+ * Pipeline state for recovery
+ */
+interface PipelineState {
+  isRunning: boolean;
+  shouldStop: boolean;
+  processedCount: number;
+  failedCount: number;
+}
+
+/**
+ * Pipeline Orchestrator
+ * Coordinates all services to process recordings
+ */
+export class PipelineOrchestrator {
+  private runLogger?: RunLogger;
+  private notionReporter?: NotionRunReporter;
+  private state: PipelineState = {
+    isRunning: false,
+    shouldStop: false,
+    processedCount: 0,
+    failedCount: 0,
+  };
+
+  constructor(
+    private readonly config: Config,
+    private readonly sftpService: SftpService,
+    private readonly transcriptionService: TranscriptionService,
+    private readonly notionService: NotionService,
+    private readonly spacesService: SpacesService,
+    private readonly notificationService: NotificationService
+  ) {}
+
+  /**
+   * Start the pipeline
+   */
+  async start(): Promise<void> {
+    if (this.state.isRunning) {
+      logger.warn('Pipeline is already running');
+      return;
+    }
+
+    this.state.isRunning = true;
+    this.state.shouldStop = false;
+    this.state.processedCount++;
+    this.state.failedCount = 0;
+    if (this.config.runLogging?.enabled) {
+      this.runLogger = new RunLogger({
+        logDir: this.config.runLogging.logDir,
+        serviceName: this.config.runLogging.serviceName,
+        maxEventsInMemory: this.config.runLogging.maxEventsInMemory,
+        enabled: this.config.runLogging.enabled,
+      });
+      this.notionReporter = new NotionRunReporter({
+        notionToken: this.config.notion.apiKey,
+        runsDbId: this.config.runLogging.notionRunsDbId,
+        enabled: this.config.runLogging.enabled,
+      });
+      await this.runLogger.initialize();
+      await this.notionReporter.createRunPage(this.runLogger);
+    }
+
+    const startTime = Date.now();
+
+    try {
+      logger.info('🚀 Starting Five9 recording pipeline');
+
+      // Ensure directories exist
+      await ensureDirectories([
+        this.config.directories.downloadDir,
+        this.config.directories.processedDir,
+        this.config.directories.failedDir,
+      ]);
+
+      // Connect to SFTP
+      await this.sftpService.connect();
+
+      // Initialize Notion service
+      await this.notionService.initialize();
+
+      // Query existing entries for idempotency
+      await this.notionService.queryExistingEntries();
+
+      // Get list of recordings
+      const recordings = await this.sftpService.listFiles(undefined, 10000);
+
+      if (recordings.length === 0) {
+        logger.info('No recordings found to process');
+        return;
+      }
+
+      const maxFiles = this.config.processing.maxFiles;
+      const recordingsToProcess = maxFiles ? recordings.slice(0, maxFiles) : recordings;
+      this.runLogger?.set("filesFound", recordingsToProcess.length);
+
+      logger.info(
+        { count: recordings.length, processing: recordingsToProcess.length },
+        'Found recordings to process'
+      );
+
+      for (const recording of recordingsToProcess) {
+        if (this.state.shouldStop) break;
+        const parsed = parseFive9Filename(recording.name, recording.remotePath, recording.modifyTime);
+        const uploadDate =
+          extractDateFromPath(recording.remotePath) ?? dateFromModifyTime(recording.modifyTime);
+
+        const recordingInfo: RecordingInfo = {
+          ...recording,
+          uploadDate,
+          callId: parsed.callId,
+          agent: parsed.agent,
+          phoneNumber: parsed.phoneNumber,
+          callTimestamp: parsed.callTimestamp,
+          campaign: 'test one',
+        };
+
+        if (this.notionService.isAlreadyProcessed(recordingInfo)) {
+          logger.info(
+            { recordingName: recording.name, callId: parsed.callId },
+            'Skipping already processed recording'
+          );
+          continue;
+        }
+
+        await this.processRecording(recordingInfo);
+      }
+
+      const duration = Date.now() - startTime;
+      const totalProcessed = this.state.processedCount + this.state.failedCount;
+
+      const summary: PipelineSummary = {
+        totalFiles: totalProcessed,
+        successCount: this.state.processedCount,
+        failureCount: this.state.failedCount,
+        duration,
+        averageTimePerFile: totalProcessed > 0 ? duration / totalProcessed : 0,
+      };
+
+      logger.info(summary, '✅ Pipeline completed successfully');
+
+      // Send success notification
+      if (this.runLogger && this.notionReporter) {
+        await this.runLogger.finalize("success");
+        await this.notionReporter.reportRun(this.runLogger, "success");
+      }
+      await this.notificationService.notifySuccess(summary);
+    } catch (error) {
+      const err = error instanceof Error ? error : new Error(String(error));
+      logger.error({ error: err.message, stack: err.stack }, '❌ Pipeline failed');
+
+      // Send failure notification
+      await this.notificationService.notifyFailure(err, {
+        processedCount: this.state.processedCount,
+        failedCount: this.state.failedCount,
+      });
+
+      throw err;
+    } finally {
+      // Cleanup
+      await this.sftpService.disconnect();
+      this.state.isRunning = false;
+    }
+  }
+
+  /**
+   * Stop the pipeline gracefully
+   */
+  async stop(): Promise<void> {
+    if (!this.state.isRunning) {
+      logger.warn('Pipeline is not running');
+      return;
+    }
+
+    logger.info('🛑 Stopping pipeline gracefully');
+    this.state.shouldStop = true;
+
+    // Wait for current processing to finish (with timeout)
+    const timeout = 30000; // 30 seconds
+    const startTime = Date.now();
+
+    while (this.state.isRunning && Date.now() - startTime < timeout) {
+      await sleep(100);
+    }
+
+    if (this.state.isRunning) {
+      logger.error('Pipeline shutdown timeout exceeded');
+      throw PipelineError.shutdownTimeout();
+    }
+
+    logger.info('Pipeline stopped');
+  }
+
+  /**
+   * Process a single recording
+   */
+  async processRecording(recording: RecordingInfo): Promise<ProcessingResult> {
+    const startTime = Date.now();
+    const recordingLogger = logger.withContext({ recordingName: recording.name });
+
+    try {
+      recordingLogger.info('📥 Processing recording');
+
+      // Download file
+      const localPath = path.join(this.config.directories.downloadDir, recording.name);
+      await this.sftpService.downloadFile(recording.remotePath, localPath);
+
+      // Transcribe
+      const transcription = await this.transcriptionService.transcribe(localPath);
+// Upload to Digital Ocean Spaces
+      const spacesResult = await this.spacesService.uploadCallFiles(
+        localPath,
+        transcription.text,
+        recording
+      );
+      
+      recordingLogger.info(
+        { audioUrl: spacesResult.audioUrl, transcriptUrl: spacesResult.transcriptUrl },
+        '☁️ Uploaded to DO Spaces'
+      );
+      const parsed = parseFive9Filename(recording.name, recording.remotePath, recording.modifyTime);
+      const uploadDate =
+        extractDateFromPath(recording.remotePath) ?? dateFromModifyTime(recording.modifyTime);
+      const recordingInfo: RecordingInfo = {
+        ...recording,
+        uploadDate: recording.uploadDate ?? uploadDate,
+        callId: recording.callId ?? parsed.callId,
+        agent: recording.agent ?? parsed.agent,
+        phoneNumber: recording.phoneNumber ?? parsed.phoneNumber,
+        callTimestamp: recording.callTimestamp ?? parsed.callTimestamp,
+        campaign: recording.campaign ?? 'test one',
+	audioUrl: spacesResult.audioUrl,
+        transcriptUrl: spacesResult.transcriptUrl,
+      };
+
+      // Create Notion entry
+      const notionPage = await this.notionService.createEntry(
+        {
+          ...recordingInfo,
+        },
+        transcription
+      );
+
+      await runScriptIfAvailable(
+        MARK_PROCESSED_SCRIPT,
+        [recording.name, notionPage.id],
+        'mark-processed'
+      );
+
+      await runScriptIfAvailable(CLEANUP_SCRIPT, [], 'cleanup');
+
+      // Save JSON backup
+      await saveTranscriptionJson(
+        {
+          recording: recordingInfo,
+          transcription,
+          notionPage,
+          processedAt: new Date().toISOString(),
+        },
+        recording.name,
+        this.config.directories.processedDir
+      );
+
+      // Move to processed
+      await moveToProcessed(localPath, this.config.directories.processedDir);
+
+      this.state.processedCount++;
+this.runLogger?.increment('filesTranscribed');
+      const duration = Date.now() - startTime;
+      recordingLogger.info(
+        { duration, notionPageId: notionPage.id },
+        '✅ Recording processed successfully'
+      );
+
+      return {
+        success: true,
+        recordingName: recording.name,
+        notionPageId: notionPage.id,
+        duration,
+      };
+    } catch (error) {
+      const err = error instanceof Error ? error : new Error(String(error));
+      this.state.failedCount++;
+this.runLogger?.increment('filesFailed');
+      recordingLogger.error({ error: err.message }, '❌ Failed to process recording');
+
+      // Try to move file to failed directory
+      try {
+        const localPath = path.join(this.config.directories.downloadDir, recording.name);
+        await moveToFailed(localPath, this.config.directories.failedDir);
+      } catch (moveError) {
+        recordingLogger.warn(
+          { error: moveError instanceof Error ? moveError.message : String(moveError) },
+          'Failed to move file to failed directory'
+        );
+      }
+
+      const duration = Date.now() - startTime;
+
+      return {
+        success: false,
+        recordingName: recording.name,
+        error: err.message,
+        duration,
+      };
+    }
+  }
+
+  /**
+   * Get current state
+   */
+  getState(): Readonly<PipelineState> {
+    return { ...this.state };
+  }
+}

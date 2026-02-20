@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001239079-300000001728875-3152524428 by  @ 12_59_44 PM_CallStudio.wav",
+    "size": 28336,
+    "modifyTime": 1770843625000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239079-300000001728875-3152524428 by  @ 12_59_44 PM_CallStudio.wav",
+    "uploadDate": "2026-02-11T21:00:25.000Z",
+    "callId": "300000001239079-300000001728875",
+    "phoneNumber": "3152524428",
+    "callTimestamp": "2026-02-11T21:00:25.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: It was the wrong shipment.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: I ordered Viagra AGD.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 884,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.300000190734863,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.460000038146973,
+        "end": 6.940000057220459,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.260000228881836,
+        "end": 8.720000267028809,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.279999732971191,
+        "end": 11.720000267028809,
+        "text": " It was the wrong shipment."
+      },
+      {
+        "id": 4,
+        "start": 12.319999694824219,
+        "end": 15.859999656677246,
+        "text": " I ordered Viagra AGD."
+      },
+      {
+        "id": 5,
+        "start": 15.859999656677246,
+        "end": 17.040000915527344,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-8124-8278-da6517789084",
+    "url": "https://www.notion.so/300000001239079-300000001728875-30411d0a101c81248278da6517789084"
+  },
+  "processedAt": "2026-02-11T21:32:12.903Z"
+}

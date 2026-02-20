@@ -1,0 +1,170 @@
+{
+  "recording": {
+    "name": "300000001239827-300000001729802-2069006071 by john@superbalife.com @ 8_46_39 AM.wav",
+    "size": 130190,
+    "modifyTime": 1770914900000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001239827-300000001729802-2069006071 by john@superbalife.com @ 8_46_39 AM.wav",
+    "uploadDate": "2026-02-12T16:48:20.000Z",
+    "callId": "300000001239827-300000001729802",
+    "agent": "john",
+    "phoneNumber": "2069006071",
+    "callTimestamp": "2026-02-12T08:46:39.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling, this is John, how can I help you?\n\nSpeaker 2: Hello, this is John, how can I help you?\n\nSpeaker 1: This message has been transcribed.\n\nSpeaker 2: One moment while I notify...\n\nSpeaker 1: Hello?\n\nSpeaker 2: Hi, this is John, how can I help you?\n\nSpeaker 1: Yeah, um, the pills that I got are not working.\n\nSpeaker 2: Okay, can I get your name and zip code so I can look at your account, sir?\n\nSpeaker 1: Lloyd Green, my what?\n\nSpeaker 2: Zip code.\n\nSpeaker 1: Oh, 98032?\n\nSpeaker 2: Thank you.\n\nSpeaker 1: 64th Avenue in Kent?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, so, um, they don't work at all or it's just not as strong as you want it to be?\n\nSpeaker 2: Because it could be you just need 100 milligrams.\n\nSpeaker 1: Yeah, well, yeah, they might not be strong enough.\n\nSpeaker 2: Okay, well, as a courtesy to you, do you want me to send you out a test of 10 hundred milligrams just to try and see if those work better for you?\n\nSpeaker 1: Yeah, please.\n\nSpeaker 2: Okay, so this will be a one-time thing where I'm sending you free pills, but I'm going to allow you to try the 100 milligrams and then let us know how it goes.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: Welcome, sir, have a good one.\n\nSpeaker 1: You too, bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 3079,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling, this is John, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 8,
+        "text": " Hello, this is John, how can I help you?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 10,
+        "text": " This message has been transcribed."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 12,
+        "text": " One moment while I notify..."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 14,
+        "text": " Hello?"
+      },
+      {
+        "id": 5,
+        "start": 14,
+        "end": 16,
+        "text": " Hi, this is John, how can I help you?"
+      },
+      {
+        "id": 6,
+        "start": 17,
+        "end": 22,
+        "text": " Yeah, um, the pills that I got are not working."
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 26,
+        "text": " Okay, can I get your name and zip code so I can look at your account, sir?"
+      },
+      {
+        "id": 8,
+        "start": 26,
+        "end": 31,
+        "text": " Lloyd Green, my what?"
+      },
+      {
+        "id": 9,
+        "start": 32,
+        "end": 33,
+        "text": " Zip code."
+      },
+      {
+        "id": 10,
+        "start": 34,
+        "end": 35,
+        "text": " Oh, 98032?"
+      },
+      {
+        "id": 11,
+        "start": 36,
+        "end": 37,
+        "text": " Thank you."
+      },
+      {
+        "id": 12,
+        "start": 40,
+        "end": 41,
+        "text": " 64th Avenue in Kent?"
+      },
+      {
+        "id": 13,
+        "start": 42,
+        "end": 43,
+        "text": " Yes."
+      },
+      {
+        "id": 14,
+        "start": 44,
+        "end": 49,
+        "text": " Okay, so, um, they don't work at all or it's just not as strong as you want it to be?"
+      },
+      {
+        "id": 15,
+        "start": 49,
+        "end": 51,
+        "text": " Because it could be you just need 100 milligrams."
+      },
+      {
+        "id": 16,
+        "start": 51,
+        "end": 55,
+        "text": " Yeah, well, yeah, they might not be strong enough."
+      },
+      {
+        "id": 17,
+        "start": 56,
+        "end": 63,
+        "text": " Okay, well, as a courtesy to you, do you want me to send you out a test of 10 hundred milligrams just to try and see if those work better for you?"
+      },
+      {
+        "id": 18,
+        "start": 64,
+        "end": 65,
+        "text": " Yeah, please."
+      },
+      {
+        "id": 19,
+        "start": 65,
+        "end": 71,
+        "text": " Okay, so this will be a one-time thing where I'm sending you free pills, but I'm going to allow you to try the 100 milligrams and then let us know how it goes."
+      },
+      {
+        "id": 20,
+        "start": 72,
+        "end": 73,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 21,
+        "start": 74,
+        "end": 75,
+        "text": " Welcome, sir, have a good one."
+      },
+      {
+        "id": 22,
+        "start": 76,
+        "end": 77,
+        "text": " You too, bye."
+      },
+      {
+        "id": 23,
+        "start": 77,
+        "end": 78,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-819a-aee8-df55ab7028e4",
+    "url": "https://www.notion.so/300000001239827-300000001729802-30511d0a101c819aaee8df55ab7028e4"
+  },
+  "processedAt": "2026-02-12T17:08:14.116Z"
+}

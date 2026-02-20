@@ -1,0 +1,44 @@
+{
+  "recording": {
+    "name": "300000001218645-300000001708887-6073683545 by susan@superbalife.com @ 8_08_44 AM.wav",
+    "size": 10006,
+    "modifyTime": 1769584629000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218645-300000001708887-6073683545 by susan@superbalife.com @ 8_08_44 AM.wav",
+    "uploadDate": "2026-01-28T07:17:09.000Z",
+    "callId": "300000001218645-300000001708887",
+    "agent": "susan",
+    "phoneNumber": "6073683545",
+    "callTimestamp": "2026-01-28T08:08:44.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, I'm going to transfer you to ScoreBlue right now.\n\nSpeaker 2: Here you go.\n\nSpeaker 1: Thank you.",
+    "duration": 603,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.859999895095825,
+        "text": " Hi, I'm going to transfer you to ScoreBlue right now."
+      },
+      {
+        "id": 1,
+        "start": 3.859999895095825,
+        "end": 4.5,
+        "text": " Here you go."
+      },
+      {
+        "id": 2,
+        "start": 4.5,
+        "end": 6.059999942779541,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a3-b18c-d5a3ab9790c8",
+    "url": "https://www.notion.so/300000001218645-300000001708887-2f611d0a101c81a3b18cd5a3ab9790c8"
+  },
+  "processedAt": "2026-01-28T15:08:24.604Z"
+}

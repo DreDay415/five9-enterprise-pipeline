@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001218138-300000001708220-7063336495 by  @ 1_26_40 PM_CallStudio.wav",
+    "size": 21186,
+    "modifyTime": 1769590942000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218138-300000001708220-7063336495 by  @ 1_26_40 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:02:22.000Z",
+    "callId": "300000001218138-300000001708220",
+    "phoneNumber": "7063336495",
+    "callTimestamp": "2026-01-28T09:02:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Cancel.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Transferring to agent.",
+    "duration": 1055,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.159999847412109,
+        "end": 6.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.159999847412109,
+        "end": 9.199999809265137,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.199999809265137,
+        "end": 10.199999809265137,
+        "text": " Cancel."
+      },
+      {
+        "id": 4,
+        "start": 10.199999809265137,
+        "end": 11.199999809265137,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 11.199999809265137,
+        "end": 12.800000190734863,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a8-aa3d-c68d1cb00e37",
+    "url": "https://www.notion.so/300000001218138-300000001708220-2f611d0a101c81a8aa3dc68d1cb00e37"
+  },
+  "processedAt": "2026-01-28T11:51:39.619Z"
+}

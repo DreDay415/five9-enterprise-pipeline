@@ -1,0 +1,344 @@
+{
+  "recording": {
+    "name": "300000001216180-300000001705702-8564902260 by summer@verifiednutrition.com @ 12_31_01 PM.wav",
+    "size": 217746,
+    "modifyTime": 1769590336000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216180-300000001705702-8564902260 by summer@verifiednutrition.com @ 12_31_01 PM.wav",
+    "uploadDate": "2026-01-28T08:52:16.000Z",
+    "callId": "300000001216180-300000001705702",
+    "agent": "summer",
+    "phoneNumber": "8564902260",
+    "callTimestamp": "2026-01-28T12:31:01.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: The Uber call and customer service, how can I help you?\n\nSpeaker 2: Oh my gosh, it's so much better this way.\n\nSpeaker 1: How are you doing? My name is Daniel Unger, U-N-G-E-R.\n\nSpeaker 2: I called, I don't know, a couple of weeks ago.\n\nSpeaker 1: I got someone named Connor, I guess, in Maryland.\n\nSpeaker 2: And he said, return, because I was returning something, that was the issue.\n\nSpeaker 1: And he says, return it, when you put it in the post office,\n\nSpeaker 2: return the sender, let's call him, he knows, like, keep an eye out for it,\n\nSpeaker 1: he gives you a refund.\n\nSpeaker 2: And that's what I'm doing right now.\n\nSpeaker 1: And you are much more efficient than him.\n\nSpeaker 2: I did it a different way.\n\nSpeaker 1: If I did it the way it was, he just let it ring the whole time.\n\nSpeaker 2: So, can you help me? Can you help me, please?\n\nSpeaker 1: Sure, give me a second.\n\nSpeaker 2: Take your time.\n\nSpeaker 1: Where are you? What state?\n\nSpeaker 2: I'm sorry?\n\nSpeaker 1: What state do you live in?\n\nSpeaker 2: California.\n\nSpeaker 1: Oh, really? That's cool.\n\nSpeaker 2: I live in Jersey, and I was born in California.\n\nSpeaker 1: Oh, that's nice.\n\nSpeaker 2: Can you refer your birthday for me?\n\nSpeaker 1: It's 1166.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: So, the most recent order you said you returned?\n\nSpeaker 2: Huh?\n\nSpeaker 1: You said you returned it, the most recent order?\n\nSpeaker 2: Well, I put it in the mail, yeah, because I thought it was one and done.\n\nSpeaker 1: I didn't want it every, you know what I mean?\n\nSpeaker 2: I just needed it automatically sent to me.\n\nSpeaker 1: I'm old, and I'm disabled, so I just wanted to try it.\n\nSpeaker 2: Okay, no problem. I'm refunding you.\n\nSpeaker 1: All right, you're the bestest.\n\nSpeaker 2: And what's your name, Miss California Girl?\n\nSpeaker 1: My name's Summer.\n\nSpeaker 2: Uh-uh.\n\nSpeaker 1: Your name's Summer, and you live in California?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: And my name's Winter, and I live in New Jersey, so there we go.\n\nSpeaker 2: So, how about like two to three days for that to show up in the account?\n\nSpeaker 1: No, three to five.\n\nSpeaker 2: Well, okay, all right, I'll take it.\n\nSpeaker 1: It's kind of dialysis.\n\nSpeaker 2: All right, that's all good. I'm just going to stay like this and talk to you, because...\n\nSpeaker 1: Okay.\n\nSpeaker 2: I don't like talking to you, but Connor was very pleasant.\n\nSpeaker 1: All right, well, have a good day.\n\nSpeaker 2: You'll make a lot of money.\n\nSpeaker 1: You're welcome.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Have a good day. Thank you. Bye-bye.",
+    "duration": 7858,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " The Uber call and customer service, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 6,
+        "text": " Oh my gosh, it's so much better this way."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 10,
+        "text": " How are you doing? My name is Daniel Unger, U-N-G-E-R."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 13,
+        "text": " I called, I don't know, a couple of weeks ago."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 17,
+        "text": " I got someone named Connor, I guess, in Maryland."
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 22,
+        "text": " And he said, return, because I was returning something, that was the issue."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 26,
+        "text": " And he says, return it, when you put it in the post office,"
+      },
+      {
+        "id": 7,
+        "start": 26,
+        "end": 30,
+        "text": " return the sender, let's call him, he knows, like, keep an eye out for it,"
+      },
+      {
+        "id": 8,
+        "start": 30,
+        "end": 32,
+        "text": " he gives you a refund."
+      },
+      {
+        "id": 9,
+        "start": 32,
+        "end": 34,
+        "text": " And that's what I'm doing right now."
+      },
+      {
+        "id": 10,
+        "start": 34,
+        "end": 36,
+        "text": " And you are much more efficient than him."
+      },
+      {
+        "id": 11,
+        "start": 36,
+        "end": 38,
+        "text": " I did it a different way."
+      },
+      {
+        "id": 12,
+        "start": 38,
+        "end": 41,
+        "text": " If I did it the way it was, he just let it ring the whole time."
+      },
+      {
+        "id": 13,
+        "start": 41,
+        "end": 44,
+        "text": " So, can you help me? Can you help me, please?"
+      },
+      {
+        "id": 14,
+        "start": 44,
+        "end": 46,
+        "text": " Sure, give me a second."
+      },
+      {
+        "id": 15,
+        "start": 46,
+        "end": 50,
+        "text": " Take your time."
+      },
+      {
+        "id": 16,
+        "start": 50,
+        "end": 53,
+        "text": " Where are you? What state?"
+      },
+      {
+        "id": 17,
+        "start": 53,
+        "end": 55,
+        "text": " I'm sorry?"
+      },
+      {
+        "id": 18,
+        "start": 55,
+        "end": 57,
+        "text": " What state do you live in?"
+      },
+      {
+        "id": 19,
+        "start": 57,
+        "end": 59,
+        "text": " California."
+      },
+      {
+        "id": 20,
+        "start": 59,
+        "end": 62,
+        "text": " Oh, really? That's cool."
+      },
+      {
+        "id": 21,
+        "start": 62,
+        "end": 66,
+        "text": " I live in Jersey, and I was born in California."
+      },
+      {
+        "id": 22,
+        "start": 66,
+        "end": 68,
+        "text": " Oh, that's nice."
+      },
+      {
+        "id": 23,
+        "start": 68,
+        "end": 70,
+        "text": " Can you refer your birthday for me?"
+      },
+      {
+        "id": 24,
+        "start": 70,
+        "end": 73,
+        "text": " It's 1166."
+      },
+      {
+        "id": 25,
+        "start": 73,
+        "end": 74,
+        "text": " Thank you."
+      },
+      {
+        "id": 26,
+        "start": 74,
+        "end": 77,
+        "text": " So, the most recent order you said you returned?"
+      },
+      {
+        "id": 27,
+        "start": 77,
+        "end": 78,
+        "text": " Huh?"
+      },
+      {
+        "id": 28,
+        "start": 78,
+        "end": 80,
+        "text": " You said you returned it, the most recent order?"
+      },
+      {
+        "id": 29,
+        "start": 80,
+        "end": 85,
+        "text": " Well, I put it in the mail, yeah, because I thought it was one and done."
+      },
+      {
+        "id": 30,
+        "start": 85,
+        "end": 88,
+        "text": " I didn't want it every, you know what I mean?"
+      },
+      {
+        "id": 31,
+        "start": 88,
+        "end": 90,
+        "text": " I just needed it automatically sent to me."
+      },
+      {
+        "id": 32,
+        "start": 90,
+        "end": 93,
+        "text": " I'm old, and I'm disabled, so I just wanted to try it."
+      },
+      {
+        "id": 33,
+        "start": 93,
+        "end": 95,
+        "text": " Okay, no problem. I'm refunding you."
+      },
+      {
+        "id": 34,
+        "start": 95,
+        "end": 98,
+        "text": " All right, you're the bestest."
+      },
+      {
+        "id": 35,
+        "start": 98,
+        "end": 100,
+        "text": " And what's your name, Miss California Girl?"
+      },
+      {
+        "id": 36,
+        "start": 100,
+        "end": 101,
+        "text": " My name's Summer."
+      },
+      {
+        "id": 37,
+        "start": 101,
+        "end": 102,
+        "text": " Uh-uh."
+      },
+      {
+        "id": 38,
+        "start": 102,
+        "end": 104,
+        "text": " Your name's Summer, and you live in California?"
+      },
+      {
+        "id": 39,
+        "start": 104,
+        "end": 106,
+        "text": " Yeah."
+      },
+      {
+        "id": 40,
+        "start": 106,
+        "end": 111,
+        "text": " And my name's Winter, and I live in New Jersey, so there we go."
+      },
+      {
+        "id": 41,
+        "start": 111,
+        "end": 115,
+        "text": " So, how about like two to three days for that to show up in the account?"
+      },
+      {
+        "id": 42,
+        "start": 115,
+        "end": 117,
+        "text": " No, three to five."
+      },
+      {
+        "id": 43,
+        "start": 117,
+        "end": 120,
+        "text": " Well, okay, all right, I'll take it."
+      },
+      {
+        "id": 44,
+        "start": 120,
+        "end": 122,
+        "text": " It's kind of dialysis."
+      },
+      {
+        "id": 45,
+        "start": 122,
+        "end": 126,
+        "text": " All right, that's all good. I'm just going to stay like this and talk to you, because..."
+      },
+      {
+        "id": 46,
+        "start": 126,
+        "end": 127,
+        "text": " Okay."
+      },
+      {
+        "id": 47,
+        "start": 127,
+        "end": 129,
+        "text": " I don't like talking to you, but Connor was very pleasant."
+      },
+      {
+        "id": 48,
+        "start": 129,
+        "end": 130,
+        "text": " All right, well, have a good day."
+      },
+      {
+        "id": 49,
+        "start": 130,
+        "end": 131,
+        "text": " You'll make a lot of money."
+      },
+      {
+        "id": 50,
+        "start": 131,
+        "end": 132,
+        "text": " You're welcome."
+      },
+      {
+        "id": 51,
+        "start": 132,
+        "end": 133,
+        "text": " Bye."
+      },
+      {
+        "id": 52,
+        "start": 133,
+        "end": 134,
+        "text": " Have a good day. Thank you. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8129-adc2-fb61d1a3e215",
+    "url": "https://www.notion.so/300000001216180-300000001705702-2f611d0a101c8129adc2fb61d1a3e215"
+  },
+  "processedAt": "2026-01-28T12:20:34.900Z"
+}

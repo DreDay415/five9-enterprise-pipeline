@@ -1,0 +1,92 @@
+{
+  "recording": {
+    "name": "300000001221382-300000001711220-5203016213 by charles@superbalife.com @ 12_44_09 PM.wav",
+    "size": 145596,
+    "modifyTime": 1769633144000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221382-300000001711220-5203016213 by charles@superbalife.com @ 12_44_09 PM.wav",
+    "uploadDate": "2026-01-28T20:45:44.000Z",
+    "callId": "300000001221382-300000001711220",
+    "agent": "charles",
+    "phoneNumber": "5203016213",
+    "callTimestamp": "2026-01-28T12:44:09.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, I just got a bottle of pills in the mail, 10 pills for generic Viagra from this, I don't—\n\nSpeaker 2: Know what it's called, support for Scor-Blue. Yeah, Scor-Blue, alright, can I pack it? Yeah,\n\nSpeaker 1: Don't let that cancel, man, I don't want these things, I tried one and it didn't work,\n\nSpeaker 2: Unless that's what I paid for. Gotcha, okay, I'll make sure that's the last one. Yeah,\n\nSpeaker 1: Yeah, send it back and then as soon as they have it back at the pharmacy, we'll issue a refund,\n\nSpeaker 2: Alright? Yeah, where do I send it to? Uh, the Southgate, Kentucky address, that's on the pill—\n\nSpeaker 1: Bottle. Ah, let's make sure. It should be 585 Alexandria Pike. I don't see it anywhere.\n\nSpeaker 2: Go on the bottom right-hand corner of the pill, it's there.\n\nSpeaker 1: Bottom right-hand corner, probably real small print too.\n\nSpeaker 2: If it's 525 Alexandria Pike, Southgate, Kentucky, you'll be able to see it, okay?\n\nSpeaker 1: Okay, cancel me out. Everything's cancelled, have a good one.",
+    "duration": 2938,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 18.799999237060547,
+        "text": " Hey, I just got a bottle of pills in the mail, 10 pills for generic Viagra from this, I don't"
+      },
+      {
+        "id": 1,
+        "start": 18.799999237060547,
+        "end": 31.200000762939453,
+        "text": " know what it's called, support for Scor-Blue. Yeah, Scor-Blue, alright, can I pack it? Yeah,"
+      },
+      {
+        "id": 2,
+        "start": 31.200000762939453,
+        "end": 34.400001525878906,
+        "text": " don't let that cancel, man, I don't want these things, I tried one and it didn't work,"
+      },
+      {
+        "id": 3,
+        "start": 35.599998474121094,
+        "end": 42.560001373291016,
+        "text": " unless that's what I paid for. Gotcha, okay, I'll make sure that's the last one. Yeah,"
+      },
+      {
+        "id": 4,
+        "start": 42.560001373291016,
+        "end": 47.599998474121094,
+        "text": " yeah, send it back and then as soon as they have it back at the pharmacy, we'll issue a refund,"
+      },
+      {
+        "id": 5,
+        "start": 47.599998474121094,
+        "end": 54.560001373291016,
+        "text": " alright? Yeah, where do I send it to? Uh, the Southgate, Kentucky address, that's on the pill"
+      },
+      {
+        "id": 6,
+        "start": 54.560001373291016,
+        "end": 65.91999816894531,
+        "text": " bottle. Ah, let's make sure. It should be 585 Alexandria Pike. I don't see it anywhere."
+      },
+      {
+        "id": 7,
+        "start": 67.12000274658203,
+        "end": 69.12000274658203,
+        "text": " Go on the bottom right-hand corner of the pill, it's there."
+      },
+      {
+        "id": 8,
+        "start": 71.5999984741211,
+        "end": 74.72000122070312,
+        "text": " Bottom right-hand corner, probably real small print too."
+      },
+      {
+        "id": 9,
+        "start": 78.23999786376953,
+        "end": 84.08000183105469,
+        "text": " If it's 525 Alexandria Pike, Southgate, Kentucky, you'll be able to see it, okay?"
+      },
+      {
+        "id": 10,
+        "start": 85.36000061035156,
+        "end": 89.5199966430664,
+        "text": " Okay, cancel me out. Everything's cancelled, have a good one."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-812d-a761-ce1b0e92b453",
+    "url": "https://www.notion.so/300000001221382-300000001711220-2f611d0a101c812da761ce1b0e92b453"
+  },
+  "processedAt": "2026-01-28T22:51:58.047Z"
+}

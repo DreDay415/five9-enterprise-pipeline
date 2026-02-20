@@ -1,0 +1,392 @@
+{
+  "recording": {
+    "name": "300000001217991-300000001708101-3176057715 by olivier@superbalife.com @ 12_52_29 PM.wav",
+    "size": 392466,
+    "modifyTime": 1769592141000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217991-300000001708101-3176057715 by olivier@superbalife.com @ 12_52_29 PM.wav",
+    "uploadDate": "2026-01-28T09:22:21.000Z",
+    "callId": "300000001217991-300000001708101",
+    "agent": "olivier",
+    "phoneNumber": "3176057715",
+    "callTimestamp": "2026-01-28T12:52:29.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Yes, this is Ken Beabout, B-E-A-B-O-U-T.\n\nSpeaker 1: Okay, Beabout, okay.\n\nSpeaker 2: Yes, and I need to cancel my order.\n\nSpeaker 1: Okay. Yeah, Mr. Beabout, you're in Indianapolis, Indiana, right?\n\nSpeaker 2: What's that?\n\nSpeaker 1: You're in Indianapolis, right?\n\nSpeaker 2: Just confirming, Mr. Ken Beabout, Indianapolis, Indiana, right?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, good.\n\nSpeaker 1: And, yeah, I see you have a prescription from Dr. Den Baron for 100 milligrams,\n\nSpeaker 2: 10 tablets every 30 days.\n\nSpeaker 1: If you don't need your refill, you can put a pause and just order as needed instead.\n\nSpeaker 2: No, I want you to cancel because it's not working.\n\nSpeaker 1: Oh, it's not working?\n\nSpeaker 2: No, so I don't need it.\n\nSpeaker 1: Okay, and that's your first time taking Viagra?\n\nSpeaker 2: Of this particular type, yes.\n\nSpeaker 1: Particular type, okay.\n\nSpeaker 2: But before, did he use to work for you or no with Viagra?\n\nSpeaker 1: No, well, at very first, but not these.\n\nSpeaker 2: These aren't working at all.\n\nSpeaker 1: So I just need to go see my doctor, and I need to cancel this order.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: I would offer you, Cialis, to try, but, you know, if you already have another plan, I mean.\n\nSpeaker 1: Yeah, I just need to cancel it.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, I'll cancel everything.\n\nSpeaker 2: Okay, can you send me an e-mail that it's been canceled?\n\nSpeaker 1: I have a tracking number, I mean a tracking number, a cancellation number if you have a pen.\n\nSpeaker 2: Okay, just a second.\n\nSpeaker 1: Can you send me an e-mail?\n\nSpeaker 2: Okay, so I'm just going to have somebody, because I don't send e-mails.\n\nSpeaker 1: I was trying to have you note it again, so, you know, in case you don't receive the e-mail,\n\nSpeaker 2: you don't have to call back for your tracking, for your cancellation number.\n\nSpeaker 1: I want verification that it has been canceled from you folks.\n\nSpeaker 2: Okay, I'm going to send a request for an e-mail,\n\nSpeaker 1: and you will receive that today at some point of time, okay?\n\nSpeaker 2: Okay, so how will you send it?\n\nSpeaker 1: No, I don't send e-mails, so I've got to send a request with your profile.\n\nSpeaker 2: Somebody is in charge of e-mails, but I can give you a cancellation number if you like.\n\nSpeaker 1: That's what I have, and everything has been canceled for you.\n\nSpeaker 2: You won't receive anything.\n\nSpeaker 1: You are not going to get billed, anything at all.\n\nSpeaker 2: You're fully canceled.\n\nSpeaker 1: I canceled the doctor prescription, the VIP account.\n\nSpeaker 2: You have nothing to worry about.\n\nSpeaker 1: That place knows that you're going a different direction with your doctor.\n\nSpeaker 2: You all say we have no business sending you anything or charging you or anything like that.\n\nSpeaker 1: Okay, all right.\n\nSpeaker 2: Let me get a pen here.\n\nSpeaker 1: Mm-hmm.\n\nSpeaker 2: Okay, go ahead.\n\nSpeaker 1: Okay, and that is an A or an 8?\n\nSpeaker 2: B like Boy, 1-3-4-8-1-A like Aviation, 3, and F like Frank, and 0.\n\nSpeaker 1: Okay, all right.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: I appreciate it.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Bye-bye.",
+    "duration": 7711,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 9,
+        "text": " Yes, this is Ken Beabout, B-E-A-B-O-U-T."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 11,
+        "text": " Okay, Beabout, okay."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 16,
+        "text": " Yes, and I need to cancel my order."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 22,
+        "text": " Okay. Yeah, Mr. Beabout, you're in Indianapolis, Indiana, right?"
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 24,
+        "text": " What's that?"
+      },
+      {
+        "id": 6,
+        "start": 24,
+        "end": 27,
+        "text": " You're in Indianapolis, right?"
+      },
+      {
+        "id": 7,
+        "start": 27,
+        "end": 32,
+        "text": " Just confirming, Mr. Ken Beabout, Indianapolis, Indiana, right?"
+      },
+      {
+        "id": 8,
+        "start": 32,
+        "end": 34,
+        "text": " Yes."
+      },
+      {
+        "id": 9,
+        "start": 34,
+        "end": 35,
+        "text": " Okay, good."
+      },
+      {
+        "id": 10,
+        "start": 35,
+        "end": 40,
+        "text": " And, yeah, I see you have a prescription from Dr. Den Baron for 100 milligrams,"
+      },
+      {
+        "id": 11,
+        "start": 40,
+        "end": 43,
+        "text": " 10 tablets every 30 days."
+      },
+      {
+        "id": 12,
+        "start": 43,
+        "end": 49,
+        "text": " If you don't need your refill, you can put a pause and just order as needed instead."
+      },
+      {
+        "id": 13,
+        "start": 49,
+        "end": 53,
+        "text": " No, I want you to cancel because it's not working."
+      },
+      {
+        "id": 14,
+        "start": 53,
+        "end": 54,
+        "text": " Oh, it's not working?"
+      },
+      {
+        "id": 15,
+        "start": 54,
+        "end": 57,
+        "text": " No, so I don't need it."
+      },
+      {
+        "id": 16,
+        "start": 57,
+        "end": 60,
+        "text": " Okay, and that's your first time taking Viagra?"
+      },
+      {
+        "id": 17,
+        "start": 60,
+        "end": 65,
+        "text": " Of this particular type, yes."
+      },
+      {
+        "id": 18,
+        "start": 65,
+        "end": 67,
+        "text": " Particular type, okay."
+      },
+      {
+        "id": 19,
+        "start": 67,
+        "end": 71,
+        "text": " But before, did he use to work for you or no with Viagra?"
+      },
+      {
+        "id": 20,
+        "start": 71,
+        "end": 75,
+        "text": " No, well, at very first, but not these."
+      },
+      {
+        "id": 21,
+        "start": 75,
+        "end": 77,
+        "text": " These aren't working at all."
+      },
+      {
+        "id": 22,
+        "start": 77,
+        "end": 83,
+        "text": " So I just need to go see my doctor, and I need to cancel this order."
+      },
+      {
+        "id": 23,
+        "start": 83,
+        "end": 86,
+        "text": " Okay."
+      },
+      {
+        "id": 24,
+        "start": 86,
+        "end": 87,
+        "text": " All right."
+      },
+      {
+        "id": 25,
+        "start": 87,
+        "end": 92,
+        "text": " I would offer you, Cialis, to try, but, you know, if you already have another plan, I mean."
+      },
+      {
+        "id": 26,
+        "start": 92,
+        "end": 94,
+        "text": " Yeah, I just need to cancel it."
+      },
+      {
+        "id": 27,
+        "start": 94,
+        "end": 95,
+        "text": " Okay."
+      },
+      {
+        "id": 28,
+        "start": 95,
+        "end": 98,
+        "text": " All right, I'll cancel everything."
+      },
+      {
+        "id": 29,
+        "start": 98,
+        "end": 103,
+        "text": " Okay, can you send me an e-mail that it's been canceled?"
+      },
+      {
+        "id": 30,
+        "start": 103,
+        "end": 111,
+        "text": " I have a tracking number, I mean a tracking number, a cancellation number if you have a pen."
+      },
+      {
+        "id": 31,
+        "start": 111,
+        "end": 113,
+        "text": " Okay, just a second."
+      },
+      {
+        "id": 32,
+        "start": 113,
+        "end": 115,
+        "text": " Can you send me an e-mail?"
+      },
+      {
+        "id": 33,
+        "start": 115,
+        "end": 119,
+        "text": " Okay, so I'm just going to have somebody, because I don't send e-mails."
+      },
+      {
+        "id": 34,
+        "start": 119,
+        "end": 123,
+        "text": " I was trying to have you note it again, so, you know, in case you don't receive the e-mail,"
+      },
+      {
+        "id": 35,
+        "start": 123,
+        "end": 129,
+        "text": " you don't have to call back for your tracking, for your cancellation number."
+      },
+      {
+        "id": 36,
+        "start": 129,
+        "end": 134,
+        "text": " I want verification that it has been canceled from you folks."
+      },
+      {
+        "id": 37,
+        "start": 134,
+        "end": 137,
+        "text": " Okay, I'm going to send a request for an e-mail,"
+      },
+      {
+        "id": 38,
+        "start": 137,
+        "end": 140,
+        "text": " and you will receive that today at some point of time, okay?"
+      },
+      {
+        "id": 39,
+        "start": 141,
+        "end": 148,
+        "text": " Okay, so how will you send it?"
+      },
+      {
+        "id": 40,
+        "start": 148,
+        "end": 152,
+        "text": " No, I don't send e-mails, so I've got to send a request with your profile."
+      },
+      {
+        "id": 41,
+        "start": 152,
+        "end": 157,
+        "text": " Somebody is in charge of e-mails, but I can give you a cancellation number if you like."
+      },
+      {
+        "id": 42,
+        "start": 157,
+        "end": 161,
+        "text": " That's what I have, and everything has been canceled for you."
+      },
+      {
+        "id": 43,
+        "start": 161,
+        "end": 164,
+        "text": " You won't receive anything."
+      },
+      {
+        "id": 44,
+        "start": 164,
+        "end": 167,
+        "text": " You are not going to get billed, anything at all."
+      },
+      {
+        "id": 45,
+        "start": 167,
+        "end": 168,
+        "text": " You're fully canceled."
+      },
+      {
+        "id": 46,
+        "start": 168,
+        "end": 170,
+        "text": " I canceled the doctor prescription, the VIP account."
+      },
+      {
+        "id": 47,
+        "start": 170,
+        "end": 172,
+        "text": " You have nothing to worry about."
+      },
+      {
+        "id": 48,
+        "start": 172,
+        "end": 175,
+        "text": " That place knows that you're going a different direction with your doctor."
+      },
+      {
+        "id": 49,
+        "start": 175,
+        "end": 180,
+        "text": " You all say we have no business sending you anything or charging you or anything like that."
+      },
+      {
+        "id": 50,
+        "start": 180,
+        "end": 181,
+        "text": " Okay, all right."
+      },
+      {
+        "id": 51,
+        "start": 181,
+        "end": 182,
+        "text": " Let me get a pen here."
+      },
+      {
+        "id": 52,
+        "start": 182,
+        "end": 183,
+        "text": " Mm-hmm."
+      },
+      {
+        "id": 53,
+        "start": 199,
+        "end": 201,
+        "text": " Okay, go ahead."
+      },
+      {
+        "id": 54,
+        "start": 218,
+        "end": 222,
+        "text": " Okay, and that is an A or an 8?"
+      },
+      {
+        "id": 55,
+        "start": 223,
+        "end": 233,
+        "text": " B like Boy, 1-3-4-8-1-A like Aviation, 3, and F like Frank, and 0."
+      },
+      {
+        "id": 56,
+        "start": 233,
+        "end": 236,
+        "text": " Okay, all right."
+      },
+      {
+        "id": 57,
+        "start": 236,
+        "end": 237,
+        "text": " Thank you."
+      },
+      {
+        "id": 58,
+        "start": 237,
+        "end": 238,
+        "text": " I appreciate it."
+      },
+      {
+        "id": 59,
+        "start": 238,
+        "end": 239,
+        "text": " You're welcome."
+      },
+      {
+        "id": 60,
+        "start": 239,
+        "end": 240,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816d-a696-c8cebd50d0e9",
+    "url": "https://www.notion.so/300000001217991-300000001708101-2f611d0a101c816da696c8cebd50d0e9"
+  },
+  "processedAt": "2026-01-28T11:03:25.618Z"
+}

@@ -1,0 +1,247 @@
+{
+  "recording": {
+    "name": "300000001216312-300000001705793-7147828857 by LeoF @ 1_19_08 PM.wav",
+    "size": 174260,
+    "modifyTime": 1769582545000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216312-300000001705793-7147828857 by LeoF @ 1_19_08 PM.wav",
+    "uploadDate": "2026-01-28T06:42:25.000Z",
+    "callId": "300000001216312-300000001705793",
+    "phoneNumber": "7147828857",
+    "callTimestamp": "2026-01-28T13:19:08.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, thanks for calling Viagra, how can I help you?\n\nSpeaker 2: Hi, yes, I got my delivery today of the generic Viagra, but I was supposed to get the AGV, not the regular Viagra.\n\nSpeaker 1: And what's your first and last name, sir?\n\nSpeaker 2: Michael Nilsen.\n\nSpeaker 1: And you got the wrong thing, Mr. Nilsen?\n\nSpeaker 2: Well, I think so. You guys delivered the wrong one.\n\nSpeaker 1: You don't see the AGV indication on the label there anywhere?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Do you have the pills there in front of you?\n\nSpeaker 2: Yes.\n\nSpeaker 1: What do the markings on the actual physical pills say, please?\n\nSpeaker 2: Take one out of the bottle, Mr. Nilsen.\n\nSpeaker 1: Okay.\n\nSpeaker 2: They say AC340.\n\nSpeaker 1: Yeah, you're absolutely right. Those are wrong, Michael.\n\nSpeaker 2: I'm really sorry about that. You got the wrong thing.\n\nSpeaker 1: Yeah, I'm really sorry about that.\n\nSpeaker 2: What I'm going to do for you, of course, I'm going to send you out a replacement order stat.\n\nSpeaker 1: I'm already working on that with our pharmacy for you.\n\nSpeaker 2: Fifteen pills are going to come out at no cost.\n\nSpeaker 1: Of course, you've already paid.\n\nSpeaker 2: The pills that you have there, they're just made at our American facility.\n\nSpeaker 1: They're still, you know, generic Viagra.\n\nSpeaker 2: If they don't work for you, you're more than welcome to toss them.\n\nSpeaker 1: If you want to save them for like a rainy day, you can.\n\nSpeaker 2: You don't have to send them back or anything.\n\nSpeaker 1: I'm going to send you this replacement order of 15 pills.\n\nSpeaker 2: You'll see them come early next week, okay?\n\nSpeaker 1: All right. Thank you.\n\nSpeaker 2: No problem. Thank you, sir.\n\nSpeaker 1: And you're at 860 East Grangeville Boulevard, Unit 150, right, Hanford?\n\nSpeaker 2: Yes.\n\nSpeaker 1: All right. Perfect. Yep. So you'll see those come out early next week, okay?\n\nSpeaker 2: All right. Thank you.\n\nSpeaker 1: Thank you. Bye-bye now.\n\nSpeaker 2: Bye.",
+    "duration": 5600,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hey, thanks for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 15,
+        "text": " Hi, yes, I got my delivery today of the generic Viagra, but I was supposed to get the AGV,"
+      },
+      {
+        "id": 2,
+        "start": 15,
+        "end": 16,
+        "text": " not the regular Viagra."
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 18,
+        "text": " And what's your first and last name, sir?"
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 19,
+        "text": " Michael Nilsen."
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 22,
+        "text": " And you got the wrong thing, Mr. Nilsen?"
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 25,
+        "text": " Well, I think so. You guys delivered the wrong one."
+      },
+      {
+        "id": 7,
+        "start": 25,
+        "end": 29,
+        "text": " You don't see the AGV indication on the label there anywhere?"
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 30,
+        "text": " Correct."
+      },
+      {
+        "id": 9,
+        "start": 30,
+        "end": 32,
+        "text": " Do you have the pills there in front of you?"
+      },
+      {
+        "id": 10,
+        "start": 32,
+        "end": 34,
+        "text": " Yes."
+      },
+      {
+        "id": 11,
+        "start": 34,
+        "end": 37,
+        "text": " What do the markings on the actual physical pills say, please?"
+      },
+      {
+        "id": 12,
+        "start": 37,
+        "end": 40,
+        "text": " Take one out of the bottle, Mr. Nilsen."
+      },
+      {
+        "id": 13,
+        "start": 40,
+        "end": 52,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 52,
+        "end": 55,
+        "text": " They say AC340."
+      },
+      {
+        "id": 15,
+        "start": 55,
+        "end": 57,
+        "text": " Yeah, you're absolutely right. Those are wrong, Michael."
+      },
+      {
+        "id": 16,
+        "start": 57,
+        "end": 60,
+        "text": " I'm really sorry about that. You got the wrong thing."
+      },
+      {
+        "id": 17,
+        "start": 60,
+        "end": 62,
+        "text": " Yeah, I'm really sorry about that."
+      },
+      {
+        "id": 18,
+        "start": 62,
+        "end": 65,
+        "text": " What I'm going to do for you, of course, I'm going to send you out a replacement order stat."
+      },
+      {
+        "id": 19,
+        "start": 65,
+        "end": 68,
+        "text": " I'm already working on that with our pharmacy for you."
+      },
+      {
+        "id": 20,
+        "start": 68,
+        "end": 71,
+        "text": " Fifteen pills are going to come out at no cost."
+      },
+      {
+        "id": 21,
+        "start": 71,
+        "end": 73,
+        "text": " Of course, you've already paid."
+      },
+      {
+        "id": 22,
+        "start": 73,
+        "end": 77,
+        "text": " The pills that you have there, they're just made at our American facility."
+      },
+      {
+        "id": 23,
+        "start": 77,
+        "end": 79,
+        "text": " They're still, you know, generic Viagra."
+      },
+      {
+        "id": 24,
+        "start": 79,
+        "end": 81,
+        "text": " If they don't work for you, you're more than welcome to toss them."
+      },
+      {
+        "id": 25,
+        "start": 81,
+        "end": 83,
+        "text": " If you want to save them for like a rainy day, you can."
+      },
+      {
+        "id": 26,
+        "start": 83,
+        "end": 85,
+        "text": " You don't have to send them back or anything."
+      },
+      {
+        "id": 27,
+        "start": 85,
+        "end": 87,
+        "text": " I'm going to send you this replacement order of 15 pills."
+      },
+      {
+        "id": 28,
+        "start": 87,
+        "end": 90,
+        "text": " You'll see them come early next week, okay?"
+      },
+      {
+        "id": 29,
+        "start": 90,
+        "end": 92,
+        "text": " All right. Thank you."
+      },
+      {
+        "id": 30,
+        "start": 92,
+        "end": 94,
+        "text": " No problem. Thank you, sir."
+      },
+      {
+        "id": 31,
+        "start": 94,
+        "end": 98,
+        "text": " And you're at 860 East Grangeville Boulevard, Unit 150, right, Hanford?"
+      },
+      {
+        "id": 32,
+        "start": 98,
+        "end": 99,
+        "text": " Yes."
+      },
+      {
+        "id": 33,
+        "start": 99,
+        "end": 102,
+        "text": " All right. Perfect. Yep. So you'll see those come out early next week, okay?"
+      },
+      {
+        "id": 34,
+        "start": 102,
+        "end": 104,
+        "text": " All right. Thank you."
+      },
+      {
+        "id": 35,
+        "start": 104,
+        "end": 106,
+        "text": " Thank you. Bye-bye now."
+      },
+      {
+        "id": 36,
+        "start": 106,
+        "end": 107,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-814a-b352-ff46d7918d2c",
+    "url": "https://www.notion.so/300000001216312-300000001705793-2f611d0a101c814ab352ff46d7918d2c"
+  },
+  "processedAt": "2026-01-28T17:06:10.636Z"
+}

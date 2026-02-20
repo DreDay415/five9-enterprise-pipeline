@@ -1,0 +1,122 @@
+{
+  "recording": {
+    "name": "300000001220932-300000001710931-4233680800 by gabriela@superbalife.com @ 10_37_19 AM.wav",
+    "size": 119010,
+    "modifyTime": 1769625534000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220932-300000001710931-4233680800 by gabriela@superbalife.com @ 10_37_19 AM.wav",
+    "uploadDate": "2026-01-28T18:38:54.000Z",
+    "callId": "300000001220932-300000001710931",
+    "agent": "gabriela",
+    "phoneNumber": "4233680800",
+    "callTimestamp": "2026-01-28T10:37:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi. Thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Yeah. Hi. I need to cancel my subscription.\n\nSpeaker 1: What's your name and date of birth?\n\nSpeaker 2: Richard Litton, April 3, 1969.\n\nSpeaker 1: Thank you, Richard. Okay. What's going on? Is it that you have no supply at this time?\n\nSpeaker 2: Oh, no. I can't take it anymore. I have atrial fibrillation and blood pressure problem,\n\nSpeaker 1: and the meds that I'm on are going to interact with the Viagra poorly, from what I'm told.\n\nSpeaker 2: Oh, I see. Okay. Yeah, no worries. So, due to your medical condition,\n\nSpeaker 1: your prescription has been canceled moving forward, okay?\n\nSpeaker 2: Awesome. Thank you very much.\n\nSpeaker 1: You're welcome. Have a good rest of your day.\n\nSpeaker 2: And I hate to ask you, but there's one pending. Can we cancel that one as well?\n\nSpeaker 1: It doesn't show from my end that there's an order pending, Richard.\n\nSpeaker 2: Okay, great. That works. Thank you, dear.\n\nSpeaker 1: Well, you're all set. You're welcome. Have a good rest of your day. Bye.\n\nSpeaker 2: You too, hon. Bye.",
+    "duration": 2551,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi. Thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 9,
+        "text": " Yeah. Hi. I need to cancel my subscription."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 11,
+        "text": " What's your name and date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 21,
+        "text": " Richard Litton, April 3, 1969."
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 26,
+        "text": " Thank you, Richard. Okay. What's going on? Is it that you have no supply at this time?"
+      },
+      {
+        "id": 5,
+        "start": 26,
+        "end": 34,
+        "text": " Oh, no. I can't take it anymore. I have atrial fibrillation and blood pressure problem,"
+      },
+      {
+        "id": 6,
+        "start": 34,
+        "end": 40,
+        "text": " and the meds that I'm on are going to interact with the Viagra poorly, from what I'm told."
+      },
+      {
+        "id": 7,
+        "start": 40,
+        "end": 44,
+        "text": " Oh, I see. Okay. Yeah, no worries. So, due to your medical condition,"
+      },
+      {
+        "id": 8,
+        "start": 44,
+        "end": 48,
+        "text": " your prescription has been canceled moving forward, okay?"
+      },
+      {
+        "id": 9,
+        "start": 48,
+        "end": 50,
+        "text": " Awesome. Thank you very much."
+      },
+      {
+        "id": 10,
+        "start": 50,
+        "end": 52,
+        "text": " You're welcome. Have a good rest of your day."
+      },
+      {
+        "id": 11,
+        "start": 52,
+        "end": 59,
+        "text": " And I hate to ask you, but there's one pending. Can we cancel that one as well?"
+      },
+      {
+        "id": 12,
+        "start": 59,
+        "end": 65,
+        "text": " It doesn't show from my end that there's an order pending, Richard."
+      },
+      {
+        "id": 13,
+        "start": 65,
+        "end": 69,
+        "text": " Okay, great. That works. Thank you, dear."
+      },
+      {
+        "id": 14,
+        "start": 69,
+        "end": 72,
+        "text": " Well, you're all set. You're welcome. Have a good rest of your day. Bye."
+      },
+      {
+        "id": 15,
+        "start": 72,
+        "end": 73,
+        "text": " You too, hon. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81a5-b286-fff8100bc33f",
+    "url": "https://www.notion.so/300000001220932-300000001710931-2f711d0a101c81a5b286fff8100bc33f"
+  },
+  "processedAt": "2026-01-29T00:12:10.834Z"
+}

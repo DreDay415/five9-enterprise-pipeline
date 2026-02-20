@@ -1,0 +1,56 @@
+{
+  "recording": {
+    "name": "300000001221905-300000001711557-7204258656 by john@superbalife.com @ 4_04_21 PM.wav",
+    "size": 30870,
+    "modifyTime": 1769645102000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221905-300000001711557-7204258656 by john@superbalife.com @ 4_04_21 PM.wav",
+    "uploadDate": "2026-01-29T00:05:02.000Z",
+    "callId": "300000001221905-300000001711557",
+    "agent": "john",
+    "phoneNumber": "7204258656",
+    "callTimestamp": "2026-01-29T16:04:21.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Yes, sir. I need to cancel my subscription.\n\nSpeaker 1: Okay. Give me one moment, sir.\n\nSpeaker 2: I know you just were holding, but I didn't get...\n\nSpeaker 1: I've got to get the right person. One second.",
+    "duration": 834,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Yes, sir. I need to cancel my subscription."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " Okay. Give me one moment, sir."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 15,
+        "text": " I know you just were holding, but I didn't get..."
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 18,
+        "text": " I've got to get the right person. One second."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8182-a950-e675d73bf93d",
+    "url": "https://www.notion.so/300000001221905-300000001711557-2f711d0a101c8182a950e675d73bf93d"
+  },
+  "processedAt": "2026-01-29T10:14:03.587Z"
+}

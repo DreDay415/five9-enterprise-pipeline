@@ -1,0 +1,145 @@
+{
+  "recording": {
+    "name": "300000001220253-300000001710067-3239227582 by LeoF @ 3_50_45 PM.wav",
+    "size": 113356,
+    "modifyTime": 1769557936000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220253-300000001710067-3239227582 by LeoF @ 3_50_45 PM.wav",
+    "uploadDate": "2026-01-27T23:52:16.000Z",
+    "callId": "300000001220253-300000001710067",
+    "phoneNumber": "3239227582",
+    "callTimestamp": "2026-01-27T15:50:45.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, how can I help you?\n\nSpeaker 2: Yes, my name is Zachary Taylor.\n\nSpeaker 1: Now, I just looked at, like, my e-mail, and it says my package is coming today,\n\nSpeaker 2: and I wouldn't know where it is at.\n\nSpeaker 1: I mean, you know, I'm really trying to stay close to home so I won't miss it.\n\nSpeaker 2: Let me see. It says it was delivered today.\n\nSpeaker 1: Mr. Taylor, check the mailbox. It should be out there.\n\nSpeaker 2: Oh, it's in the mailbox?\n\nSpeaker 1: Yeah, it's in your mailbox. A postman puts it in the mailbox.\n\nSpeaker 2: Oh, okay. I'll go check it out.\n\nSpeaker 1: All right.\n\nSpeaker 2: Wow, that's something else.\n\nSpeaker 1: What's your name?\n\nSpeaker 2: My name is Leo.\n\nSpeaker 1: Leo, okay, you stay cool, be strong, do right, don't move on,\n\nSpeaker 2: maintain your strength, keep moving on, and you will live long.\n\nSpeaker 1: Thank you. I appreciate that. You take it easy, Mr. Taylor.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thank you. Bye-bye now.",
+    "duration": 2902,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thanks for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10,
+        "text": " Yes, my name is Zachary Taylor."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 16,
+        "text": " Now, I just looked at, like, my e-mail, and it says my package is coming today,"
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 19,
+        "text": " and I wouldn't know where it is at."
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 28,
+        "text": " I mean, you know, I'm really trying to stay close to home so I won't miss it."
+      },
+      {
+        "id": 5,
+        "start": 28,
+        "end": 31,
+        "text": " Let me see. It says it was delivered today."
+      },
+      {
+        "id": 6,
+        "start": 31,
+        "end": 34,
+        "text": " Mr. Taylor, check the mailbox. It should be out there."
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 36,
+        "text": " Oh, it's in the mailbox?"
+      },
+      {
+        "id": 8,
+        "start": 36,
+        "end": 39,
+        "text": " Yeah, it's in your mailbox. A postman puts it in the mailbox."
+      },
+      {
+        "id": 9,
+        "start": 39,
+        "end": 42,
+        "text": " Oh, okay. I'll go check it out."
+      },
+      {
+        "id": 10,
+        "start": 42,
+        "end": 44,
+        "text": " All right."
+      },
+      {
+        "id": 11,
+        "start": 44,
+        "end": 49,
+        "text": " Wow, that's something else."
+      },
+      {
+        "id": 12,
+        "start": 49,
+        "end": 50,
+        "text": " What's your name?"
+      },
+      {
+        "id": 13,
+        "start": 50,
+        "end": 52,
+        "text": " My name is Leo."
+      },
+      {
+        "id": 14,
+        "start": 52,
+        "end": 57,
+        "text": " Leo, okay, you stay cool, be strong, do right, don't move on,"
+      },
+      {
+        "id": 15,
+        "start": 57,
+        "end": 61,
+        "text": " maintain your strength, keep moving on, and you will live long."
+      },
+      {
+        "id": 16,
+        "start": 61,
+        "end": 63,
+        "text": " Thank you. I appreciate that. You take it easy, Mr. Taylor."
+      },
+      {
+        "id": 17,
+        "start": 63,
+        "end": 65,
+        "text": " Okay."
+      },
+      {
+        "id": 18,
+        "start": 65,
+        "end": 66,
+        "text": " All right."
+      },
+      {
+        "id": 19,
+        "start": 66,
+        "end": 68,
+        "text": " Thank you. Bye-bye now."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ed-939b-ce649573f74c",
+    "url": "https://www.notion.so/300000001220253-300000001710067-2f611d0a101c81ed939bce649573f74c"
+  },
+  "processedAt": "2026-01-28T17:50:17.860Z"
+}

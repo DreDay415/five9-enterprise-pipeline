@@ -1,0 +1,302 @@
+{
+  "recording": {
+    "name": "300000001222961-300000001712554-4013594830 by olivier@superbalife.com @ 1_08_01 PM.wav",
+    "size": 246216,
+    "modifyTime": 1769721054000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222961-300000001712554-4013594830 by olivier@superbalife.com @ 1_08_01 PM.wav",
+    "uploadDate": "2026-01-29T21:10:54.000Z",
+    "callId": "300000001222961-300000001712554",
+    "agent": "olivier",
+    "phoneNumber": "4013594830",
+    "callTimestamp": "2026-01-29T13:08:01.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Vagra.\n\nSpeaker 2: Um, yes, I'm trying to cancel my prescription.\n\nSpeaker 1: Oh, okay. Let me pull the prescription here.\n\nSpeaker 2: Mr. Akinyode?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Yeah, um, yeah, I see you have a prescription for Dr. Sanderson, 100mg, 10 tablets every 30 days.\n\nSpeaker 1: You have any health concerns, or you just don't need it as often? You want to order as needed instead?\n\nSpeaker 2: Yeah, I don't need it that often, no.\n\nSpeaker 1: Oh, okay. So you want to order as needed instead?\n\nSpeaker 2: I want to...\n\nSpeaker 1: Meaning that we're going to stop the original writing from Dr. Sanderson, which is every 30 days,\n\nSpeaker 2: and then we're going to pause the prescription,\n\nSpeaker 1: so the pharmacy, the company is still alive, you don't have to finance a new one,\n\nSpeaker 2: and you don't pay a new price as well, you lock your price in,\n\nSpeaker 1: and you just order as needed, meaning that you don't get it every month anymore.\n\nSpeaker 2: Okay, and if I do need it, I would let it be known or so?\n\nSpeaker 1: Yeah, you can call, or you can log into your account, press the quick refill button,\n\nSpeaker 2: or let's say, if you know a little better your frequency, you can call us and be like,\n\nSpeaker 1: hey, Mr. Akinyode, I think that I need 10 pills every three months.\n\nSpeaker 2: We can schedule you that way, so we should avoid you to call and log into your account\n\nSpeaker 1: and, you know, spend some time trying to place an order.\n\nSpeaker 2: You can do that as well, because they give you a VIP status.\n\nSpeaker 1: So you can be like, I need 10 pills every three months,\n\nSpeaker 2: and then change that at any point of time, you know.\n\nSpeaker 1: Okay, I will cancel it now, but when I do need it, I will let you guys know.\n\nSpeaker 2: Yes, absolutely. So you don't need to cancel.\n\nSpeaker 1: What you need to do is to pause, because they invested for consultation for you\n\nSpeaker 2: that you don't want to lose and pay more expensive price.\n\nSpeaker 1: What you want to do is to pause the prescription, because you don't need it right now.\n\nSpeaker 2: You're kind of using what you have, so you can call to reorder.\n\nSpeaker 1: I think they pause you up to half a year, and you can just reorder.\n\nSpeaker 2: And then to maintain that price, they just require you, if you want to have the same price,\n\nSpeaker 1: to get the refill once or twice a year.\n\nSpeaker 2: That's the caveat for you to lock that price.\n\nSpeaker 1: If you want the same price, you don't want to pay more.\n\nSpeaker 2: That's the only little secret right there.\n\nSpeaker 1: But everything will be paused for now, so that way you don't get it every month anymore, okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, thank you.\n\nSpeaker 2: And call to reorder or log into your account, press the quick refill button.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, thank you.\n\nSpeaker 1: All right, you're all set. Bye-bye.\n\nSpeaker 2: Okay, all right.",
+    "duration": 7812,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Vagra."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 6,
+        "text": " Um, yes, I'm trying to cancel my prescription."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 9,
+        "text": " Oh, okay. Let me pull the prescription here."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 14,
+        "text": " Mr. Akinyode?"
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 15,
+        "text": " Yes."
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 22,
+        "text": " Yeah, um, yeah, I see you have a prescription for Dr. Sanderson, 100mg, 10 tablets every 30 days."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 27,
+        "text": " You have any health concerns, or you just don't need it as often? You want to order as needed instead?"
+      },
+      {
+        "id": 7,
+        "start": 27,
+        "end": 31,
+        "text": " Yeah, I don't need it that often, no."
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 34,
+        "text": " Oh, okay. So you want to order as needed instead?"
+      },
+      {
+        "id": 9,
+        "start": 34,
+        "end": 35,
+        "text": " I want to..."
+      },
+      {
+        "id": 10,
+        "start": 35,
+        "end": 40,
+        "text": " Meaning that we're going to stop the original writing from Dr. Sanderson, which is every 30 days,"
+      },
+      {
+        "id": 11,
+        "start": 40,
+        "end": 43,
+        "text": " and then we're going to pause the prescription,"
+      },
+      {
+        "id": 12,
+        "start": 43,
+        "end": 47,
+        "text": " so the pharmacy, the company is still alive, you don't have to finance a new one,"
+      },
+      {
+        "id": 13,
+        "start": 47,
+        "end": 50,
+        "text": " and you don't pay a new price as well, you lock your price in,"
+      },
+      {
+        "id": 14,
+        "start": 50,
+        "end": 55,
+        "text": " and you just order as needed, meaning that you don't get it every month anymore."
+      },
+      {
+        "id": 15,
+        "start": 55,
+        "end": 60,
+        "text": " Okay, and if I do need it, I would let it be known or so?"
+      },
+      {
+        "id": 16,
+        "start": 60,
+        "end": 64,
+        "text": " Yeah, you can call, or you can log into your account, press the quick refill button,"
+      },
+      {
+        "id": 17,
+        "start": 64,
+        "end": 69,
+        "text": " or let's say, if you know a little better your frequency, you can call us and be like,"
+      },
+      {
+        "id": 18,
+        "start": 69,
+        "end": 72,
+        "text": " hey, Mr. Akinyode, I think that I need 10 pills every three months."
+      },
+      {
+        "id": 19,
+        "start": 72,
+        "end": 77,
+        "text": " We can schedule you that way, so we should avoid you to call and log into your account"
+      },
+      {
+        "id": 20,
+        "start": 77,
+        "end": 80,
+        "text": " and, you know, spend some time trying to place an order."
+      },
+      {
+        "id": 21,
+        "start": 80,
+        "end": 83,
+        "text": " You can do that as well, because they give you a VIP status."
+      },
+      {
+        "id": 22,
+        "start": 83,
+        "end": 85,
+        "text": " So you can be like, I need 10 pills every three months,"
+      },
+      {
+        "id": 23,
+        "start": 85,
+        "end": 88,
+        "text": " and then change that at any point of time, you know."
+      },
+      {
+        "id": 24,
+        "start": 89,
+        "end": 96,
+        "text": " Okay, I will cancel it now, but when I do need it, I will let you guys know."
+      },
+      {
+        "id": 25,
+        "start": 96,
+        "end": 99,
+        "text": " Yes, absolutely. So you don't need to cancel."
+      },
+      {
+        "id": 26,
+        "start": 99,
+        "end": 103,
+        "text": " What you need to do is to pause, because they invested for consultation for you"
+      },
+      {
+        "id": 27,
+        "start": 103,
+        "end": 106,
+        "text": " that you don't want to lose and pay more expensive price."
+      },
+      {
+        "id": 28,
+        "start": 106,
+        "end": 110,
+        "text": " What you want to do is to pause the prescription, because you don't need it right now."
+      },
+      {
+        "id": 29,
+        "start": 110,
+        "end": 113,
+        "text": " You're kind of using what you have, so you can call to reorder."
+      },
+      {
+        "id": 30,
+        "start": 113,
+        "end": 117,
+        "text": " I think they pause you up to half a year, and you can just reorder."
+      },
+      {
+        "id": 31,
+        "start": 117,
+        "end": 123,
+        "text": " And then to maintain that price, they just require you, if you want to have the same price,"
+      },
+      {
+        "id": 32,
+        "start": 123,
+        "end": 125,
+        "text": " to get the refill once or twice a year."
+      },
+      {
+        "id": 33,
+        "start": 125,
+        "end": 128,
+        "text": " That's the caveat for you to lock that price."
+      },
+      {
+        "id": 34,
+        "start": 128,
+        "end": 130,
+        "text": " If you want the same price, you don't want to pay more."
+      },
+      {
+        "id": 35,
+        "start": 130,
+        "end": 133,
+        "text": " That's the only little secret right there."
+      },
+      {
+        "id": 36,
+        "start": 133,
+        "end": 139,
+        "text": " But everything will be paused for now, so that way you don't get it every month anymore, okay?"
+      },
+      {
+        "id": 37,
+        "start": 139,
+        "end": 140,
+        "text": " Okay."
+      },
+      {
+        "id": 38,
+        "start": 140,
+        "end": 141,
+        "text": " All right."
+      },
+      {
+        "id": 39,
+        "start": 141,
+        "end": 142,
+        "text": " Okay."
+      },
+      {
+        "id": 40,
+        "start": 142,
+        "end": 143,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 41,
+        "start": 143,
+        "end": 146,
+        "text": " And call to reorder or log into your account, press the quick refill button."
+      },
+      {
+        "id": 42,
+        "start": 146,
+        "end": 147,
+        "text": " Okay."
+      },
+      {
+        "id": 43,
+        "start": 147,
+        "end": 148,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 44,
+        "start": 148,
+        "end": 149,
+        "text": " All right, you're all set. Bye-bye."
+      },
+      {
+        "id": 45,
+        "start": 149,
+        "end": 150,
+        "text": " Okay, all right."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-815a-a3f9-ddcdacc21fed",
+    "url": "https://www.notion.so/300000001222961-300000001712554-2f711d0a101c815aa3f9ddcdacc21fed"
+  },
+  "processedAt": "2026-01-29T21:17:17.684Z"
+}

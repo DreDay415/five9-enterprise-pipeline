@@ -1,0 +1,335 @@
+{
+  "recording": {
+    "name": "300000001242213-300000001731730-2282493626 by charles@superbalife.com @ 11_58_09 AM.wav",
+    "size": 280406,
+    "modifyTime": 1771012883000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242213-300000001731730-2282493626 by charles@superbalife.com @ 11_58_09 AM.wav",
+    "uploadDate": "2026-02-13T20:01:23.000Z",
+    "callId": "300000001242213-300000001731730",
+    "agent": "charles",
+    "phoneNumber": "2282493626",
+    "callTimestamp": "2026-02-13T11:58:09.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_charles_300000001242213-300000001731730_2282493626.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_charles_300000001242213-300000001731730_2282493626.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra. This is Charles.\n\nSpeaker 2: Yes, sir. This is David Harrison.\n\nSpeaker 1: How are we doing, David?\n\nSpeaker 2: Well, I'm doing pretty good. I had canceled a subscription back in December,\n\nSpeaker 1: and all of a sudden I got a charge on my bank account for $163.95,\n\nSpeaker 2: and I did not request any more bills.\n\nSpeaker 1: Okay. David Harrison, Lukedale, Mississippi.\n\nSpeaker 2: Yeah, Lukedale, Mississippi.\n\nSpeaker 1: All right. How did you try to cancel it back in December?\n\nSpeaker 2: Did you call?\n\nSpeaker 1: I called you, fellas.\n\nSpeaker 2: Oh. Did you maybe call the pharmacy by mistake because we'll all bill?\n\nSpeaker 1: No, no. I actually called you guys.\n\nSpeaker 2: Yikes. Okay. I'm not calling you a liar or anything, David,\n\nSpeaker 1: Well, I mean, like I said, I did not get a chip in January so that it would just stop.\n\nSpeaker 2: Right. So that's why I'm worried that you called the pharmacy\n\nSpeaker 1: because all they're going to do is delay the next order.\n\nSpeaker 2: So, look, here's what I can do. I can cancel everything going forward.\n\nSpeaker 1: This order is on its way. If you don't want it, it's going to arrive by Tuesday.\n\nSpeaker 2: All you need to do is write return to sender on it with a marker or a pen,\n\nSpeaker 1: throw it back in the mailbox.\n\nSpeaker 2: Mailman will take it and send it right back to us for a refund, okay?\n\nSpeaker 1: Okay. Sounds good to me.\n\nSpeaker 2: Okay. Just out of curiosity, David, how were you doing on the pills, though?\n\nSpeaker 1: Well, I don't know. They didn't seem to be working that last set.\n\nSpeaker 2: You know, usually you see blue lights or whatever, and they weren't working.\n\nSpeaker 1: So I don't know if they were a bad batch or just generic, whatever it was.\n\nSpeaker 2: Okay. If you're interested, I can see if my pharmacy can send over a version of the AGV\n\nSpeaker 1: that's made in our France factory for free.\n\nSpeaker 2: I can send you ten free pills if you're willing to try them\n\nSpeaker 1: and see if these ones are giving you the activation that you're looking for,\n\nSpeaker 2: the kick that you're looking for.\n\nSpeaker 1: And if they do, call us back and let us know,\n\nSpeaker 2: and we can start accommodating with this pill that I send\n\nSpeaker 1: rather than the old one that you've been getting.\n\nSpeaker 2: Okay. Yeah, I like the old one. They weren't really doing it for me, sir.\n\nSpeaker 1: Okay. All right. Yeah, maybe we just need to pivot a little bit.\n\nSpeaker 2: So I'll send the request into the pharmacy today.\n\nSpeaker 1: I'd expect the pills to arrive by maybe Thursday or Friday of next week,\n\nSpeaker 2: depending on weather and whatnot.\n\nSpeaker 1: Well, there's no rush. I'm on the road.\n\nSpeaker 2: I don't want to get home by, you know, once a month.\n\nSpeaker 1: Gotcha.\n\nSpeaker 2: There's no rush on that.\n\nSpeaker 1: Okay. The pills that you're going to be looking for that I send\n\nSpeaker 2: will have the number 100 pressed onto them like a stamp.\n\nSpeaker 1: That's how you're able to tell the difference, so just keep that in mind, okay?\n\nSpeaker 2: Okay, Bob. I appreciate your help, sir.\n\nSpeaker 1: Absolutely. All right, David. I hope you have a great rest of your day.\n\nSpeaker 2: You too, Glenn. Thank you.\n\nSpeaker 1: Take care.",
+    "duration": 7006,
+    "audioDuration": 172.52000427246094,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thanks for calling Viagra. This is Charles."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Yes, sir. This is David Harrison."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " How are we doing, David?"
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 17,
+        "text": " Well, I'm doing pretty good. I had canceled a subscription back in December,"
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 25,
+        "text": " and all of a sudden I got a charge on my bank account for $163.95,"
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 28,
+        "text": " and I did not request any more bills."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 34,
+        "text": " Okay. David Harrison, Lukedale, Mississippi."
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 36,
+        "text": " Yeah, Lukedale, Mississippi."
+      },
+      {
+        "id": 8,
+        "start": 36,
+        "end": 40,
+        "text": " All right. How did you try to cancel it back in December?"
+      },
+      {
+        "id": 9,
+        "start": 40,
+        "end": 41,
+        "text": " Did you call?"
+      },
+      {
+        "id": 10,
+        "start": 41,
+        "end": 43,
+        "text": " I called you, fellas."
+      },
+      {
+        "id": 11,
+        "start": 43,
+        "end": 48,
+        "text": " Oh. Did you maybe call the pharmacy by mistake because we'll all bill?"
+      },
+      {
+        "id": 12,
+        "start": 48,
+        "end": 51,
+        "text": " No, no. I actually called you guys."
+      },
+      {
+        "id": 13,
+        "start": 51,
+        "end": 54,
+        "text": " Yikes. Okay. I'm not calling you a liar or anything, David,"
+      },
+      {
+        "id": 14,
+        "start": 54,
+        "end": 61,
+        "text": " Well, I mean, like I said, I did not get a chip in January so that it would just stop."
+      },
+      {
+        "id": 15,
+        "start": 61,
+        "end": 65,
+        "text": " Right. So that's why I'm worried that you called the pharmacy"
+      },
+      {
+        "id": 16,
+        "start": 65,
+        "end": 67,
+        "text": " because all they're going to do is delay the next order."
+      },
+      {
+        "id": 17,
+        "start": 67,
+        "end": 71,
+        "text": " So, look, here's what I can do. I can cancel everything going forward."
+      },
+      {
+        "id": 18,
+        "start": 71,
+        "end": 75,
+        "text": " This order is on its way. If you don't want it, it's going to arrive by Tuesday."
+      },
+      {
+        "id": 19,
+        "start": 75,
+        "end": 79,
+        "text": " All you need to do is write return to sender on it with a marker or a pen,"
+      },
+      {
+        "id": 20,
+        "start": 79,
+        "end": 81,
+        "text": " throw it back in the mailbox."
+      },
+      {
+        "id": 21,
+        "start": 81,
+        "end": 85,
+        "text": " Mailman will take it and send it right back to us for a refund, okay?"
+      },
+      {
+        "id": 22,
+        "start": 85,
+        "end": 87,
+        "text": " Okay. Sounds good to me."
+      },
+      {
+        "id": 23,
+        "start": 87,
+        "end": 92,
+        "text": " Okay. Just out of curiosity, David, how were you doing on the pills, though?"
+      },
+      {
+        "id": 24,
+        "start": 92,
+        "end": 95,
+        "text": " Well, I don't know. They didn't seem to be working that last set."
+      },
+      {
+        "id": 25,
+        "start": 95,
+        "end": 99,
+        "text": " You know, usually you see blue lights or whatever, and they weren't working."
+      },
+      {
+        "id": 26,
+        "start": 99,
+        "end": 103,
+        "text": " So I don't know if they were a bad batch or just generic, whatever it was."
+      },
+      {
+        "id": 27,
+        "start": 103,
+        "end": 110,
+        "text": " Okay. If you're interested, I can see if my pharmacy can send over a version of the AGV"
+      },
+      {
+        "id": 28,
+        "start": 110,
+        "end": 114,
+        "text": " that's made in our France factory for free."
+      },
+      {
+        "id": 29,
+        "start": 114,
+        "end": 116,
+        "text": " I can send you ten free pills if you're willing to try them"
+      },
+      {
+        "id": 30,
+        "start": 116,
+        "end": 120,
+        "text": " and see if these ones are giving you the activation that you're looking for,"
+      },
+      {
+        "id": 31,
+        "start": 120,
+        "end": 122,
+        "text": " the kick that you're looking for."
+      },
+      {
+        "id": 32,
+        "start": 122,
+        "end": 124,
+        "text": " And if they do, call us back and let us know,"
+      },
+      {
+        "id": 33,
+        "start": 124,
+        "end": 126,
+        "text": " and we can start accommodating with this pill that I send"
+      },
+      {
+        "id": 34,
+        "start": 126,
+        "end": 128,
+        "text": " rather than the old one that you've been getting."
+      },
+      {
+        "id": 35,
+        "start": 128,
+        "end": 133,
+        "text": " Okay. Yeah, I like the old one. They weren't really doing it for me, sir."
+      },
+      {
+        "id": 36,
+        "start": 133,
+        "end": 136,
+        "text": " Okay. All right. Yeah, maybe we just need to pivot a little bit."
+      },
+      {
+        "id": 37,
+        "start": 136,
+        "end": 139,
+        "text": " So I'll send the request into the pharmacy today."
+      },
+      {
+        "id": 38,
+        "start": 139,
+        "end": 142,
+        "text": " I'd expect the pills to arrive by maybe Thursday or Friday of next week,"
+      },
+      {
+        "id": 39,
+        "start": 142,
+        "end": 145,
+        "text": " depending on weather and whatnot."
+      },
+      {
+        "id": 40,
+        "start": 145,
+        "end": 148,
+        "text": " Well, there's no rush. I'm on the road."
+      },
+      {
+        "id": 41,
+        "start": 148,
+        "end": 151,
+        "text": " I don't want to get home by, you know, once a month."
+      },
+      {
+        "id": 42,
+        "start": 151,
+        "end": 152,
+        "text": " Gotcha."
+      },
+      {
+        "id": 43,
+        "start": 152,
+        "end": 154,
+        "text": " There's no rush on that."
+      },
+      {
+        "id": 44,
+        "start": 154,
+        "end": 157,
+        "text": " Okay. The pills that you're going to be looking for that I send"
+      },
+      {
+        "id": 45,
+        "start": 157,
+        "end": 160,
+        "text": " will have the number 100 pressed onto them like a stamp."
+      },
+      {
+        "id": 46,
+        "start": 160,
+        "end": 163,
+        "text": " That's how you're able to tell the difference, so just keep that in mind, okay?"
+      },
+      {
+        "id": 47,
+        "start": 163,
+        "end": 165,
+        "text": " Okay, Bob. I appreciate your help, sir."
+      },
+      {
+        "id": 48,
+        "start": 165,
+        "end": 168,
+        "text": " Absolutely. All right, David. I hope you have a great rest of your day."
+      },
+      {
+        "id": 49,
+        "start": 168,
+        "end": 170,
+        "text": " You too, Glenn. Thank you."
+      },
+      {
+        "id": 50,
+        "start": 170,
+        "end": 173,
+        "text": " Take care."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8102-b8f1-d70b1df4f089",
+    "url": "https://www.notion.so/300000001242213-300000001731730-30611d0a101c8102b8f1d70b1df4f089"
+  },
+  "processedAt": "2026-02-13T20:01:45.779Z"
+}

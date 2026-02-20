@@ -1,0 +1,146 @@
+{
+  "recording": {
+    "name": "300000001216904-300000001707334-3524091793 by summer@verifiednutrition.com @ 8_25_05 AM.wav",
+    "size": 85210,
+    "modifyTime": 1769592138000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216904-300000001707334-3524091793 by summer@verifiednutrition.com @ 8_25_05 AM.wav",
+    "uploadDate": "2026-01-28T09:22:18.000Z",
+    "callId": "300000001216904-300000001707334",
+    "agent": "summer",
+    "phoneNumber": "3524091793",
+    "callTimestamp": "2026-01-28T08:25:05.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service, I can help you.\n\nSpeaker 2: Yes, this is Score Blue.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Yeah, I want to cancel my automatic prescription.\n\nSpeaker 1: OK, let me pull your account up.\n\nSpeaker 2: What's your name and birthday?\n\nSpeaker 1: Richard Wilson, birthday 10-12-1951.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: All right, I'm just going to pause your account out,\n\nSpeaker 2: but I'll leave your prescription active with the doctor.\n\nSpeaker 1: In case you want to place an order for this medication\n\nSpeaker 2: or any of the other medications we offer,\n\nSpeaker 1: you just call in to place the order\n\nSpeaker 2: or you do it online with the doctor.\n\nSpeaker 1: OK, so but it will be the automatic.\n\nSpeaker 2: Yeah, you don't get anything any of these months,\n\nSpeaker 1: you just have to call.\n\nSpeaker 2: OK, thank you very much.\n\nSpeaker 1: You're welcome, have a good one, bye-bye.\n\nSpeaker 2: You too, bye-bye.",
+    "duration": 2187,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.5,
+        "text": " Thank you for calling customer service, I can help you."
+      },
+      {
+        "id": 1,
+        "start": 3.5,
+        "end": 5.880000114440918,
+        "text": " Yes, this is Score Blue."
+      },
+      {
+        "id": 2,
+        "start": 5.880000114440918,
+        "end": 7.400000095367432,
+        "text": " Yes."
+      },
+      {
+        "id": 3,
+        "start": 7.400000095367432,
+        "end": 14.119999885559082,
+        "text": " Yeah, I want to cancel my automatic prescription."
+      },
+      {
+        "id": 4,
+        "start": 14.119999885559082,
+        "end": 15.479999542236328,
+        "text": " OK, let me pull your account up."
+      },
+      {
+        "id": 5,
+        "start": 15.479999542236328,
+        "end": 17.360000610351562,
+        "text": " What's your name and birthday?"
+      },
+      {
+        "id": 6,
+        "start": 17.360000610351562,
+        "end": 23.8799991607666,
+        "text": " Richard Wilson, birthday 10-12-1951."
+      },
+      {
+        "id": 7,
+        "start": 23.8799991607666,
+        "end": 25.360000610351562,
+        "text": " Thank you."
+      },
+      {
+        "id": 8,
+        "start": 25.360000610351562,
+        "end": 27.520000457763672,
+        "text": " All right, I'm just going to pause your account out,"
+      },
+      {
+        "id": 9,
+        "start": 27.520000457763672,
+        "end": 29.8799991607666,
+        "text": " but I'll leave your prescription active with the doctor."
+      },
+      {
+        "id": 10,
+        "start": 29.8799991607666,
+        "end": 32.220001220703125,
+        "text": " In case you want to place an order for this medication"
+      },
+      {
+        "id": 11,
+        "start": 32.220001220703125,
+        "end": 34.040000915527344,
+        "text": " or any of the other medications we offer,"
+      },
+      {
+        "id": 12,
+        "start": 34.040000915527344,
+        "end": 35.63999938964844,
+        "text": " you just call in to place the order"
+      },
+      {
+        "id": 13,
+        "start": 35.63999938964844,
+        "end": 38.279998779296875,
+        "text": " or you do it online with the doctor."
+      },
+      {
+        "id": 14,
+        "start": 38.279998779296875,
+        "end": 41.400001525878906,
+        "text": " OK, so but it will be the automatic."
+      },
+      {
+        "id": 15,
+        "start": 41.400001525878906,
+        "end": 43.439998626708984,
+        "text": " Yeah, you don't get anything any of these months,"
+      },
+      {
+        "id": 16,
+        "start": 43.439998626708984,
+        "end": 45.63999938964844,
+        "text": " you just have to call."
+      },
+      {
+        "id": 17,
+        "start": 45.63999938964844,
+        "end": 47.279998779296875,
+        "text": " OK, thank you very much."
+      },
+      {
+        "id": 18,
+        "start": 47.279998779296875,
+        "end": 49.15999984741211,
+        "text": " You're welcome, have a good one, bye-bye."
+      },
+      {
+        "id": 19,
+        "start": 49.15999984741211,
+        "end": 51.20000076293945,
+        "text": " You too, bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a2-8ed9-f25be7fccd23",
+    "url": "https://www.notion.so/300000001216904-300000001707334-2f611d0a101c81a28ed9f25be7fccd23"
+  },
+  "processedAt": "2026-01-28T11:05:29.120Z"
+}

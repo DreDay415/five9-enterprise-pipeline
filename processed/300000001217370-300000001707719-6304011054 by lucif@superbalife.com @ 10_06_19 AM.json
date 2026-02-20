@@ -1,0 +1,206 @@
+{
+  "recording": {
+    "name": "300000001217370-300000001707719-6304011054 by lucif@superbalife.com @ 10_06_19 AM.wav",
+    "size": 92620,
+    "modifyTime": 1769592144000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217370-300000001707719-6304011054 by lucif@superbalife.com @ 10_06_19 AM.wav",
+    "uploadDate": "2026-01-28T09:22:24.000Z",
+    "callId": "300000001217370-300000001707719",
+    "agent": "lucif",
+    "phoneNumber": "6304011054",
+    "callTimestamp": "2026-01-28T10:06:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hello.\n\nSpeaker 2: Hello.\n\nSpeaker 1: Yes.\n\nSpeaker 2: How can I help you?\n\nSpeaker 1: Hey.\n\nSpeaker 2: Good.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Good, good.\n\nSpeaker 1: Hey, buddy.\n\nSpeaker 2: I was just speaking with a young lady a few minutes ago, and I was canceling my plan with you guys, and she was going to issue me a refund. I just wanted to confirm the refund process.\n\nSpeaker 1: Okay. Did she instruct you to go ahead and ship it back or?\n\nSpeaker 2: Oh, no, no, no, no. You guys haven't shipped it yet.\n\nSpeaker 1: It was just taken.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: All right. Let me—I’ll transfer you back over there.\n\nSpeaker 2: One moment.\n\nSpeaker 1: No.\n\nSpeaker 2: So I'm not sure exactly what the conversation was.\n\nSpeaker 1: Give me one second.\n\nSpeaker 2: Okay.",
+    "duration": 5059,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7.679999828338623,
+        "text": " This message has been transcribed."
+      },
+      {
+        "id": 1,
+        "start": 7.679999828338623,
+        "end": 8.680000305175781,
+        "text": " One moment while I."
+      },
+      {
+        "id": 2,
+        "start": 8.680000305175781,
+        "end": 9.680000305175781,
+        "text": " Hello."
+      },
+      {
+        "id": 3,
+        "start": 9.680000305175781,
+        "end": 10.680000305175781,
+        "text": " Hello."
+      },
+      {
+        "id": 4,
+        "start": 10.680000305175781,
+        "end": 11.680000305175781,
+        "text": " Yes."
+      },
+      {
+        "id": 5,
+        "start": 11.680000305175781,
+        "end": 12.680000305175781,
+        "text": " How can I help you?"
+      },
+      {
+        "id": 6,
+        "start": 12.680000305175781,
+        "end": 13.680000305175781,
+        "text": " Hey."
+      },
+      {
+        "id": 7,
+        "start": 13.680000305175781,
+        "end": 14.680000305175781,
+        "text": " Good."
+      },
+      {
+        "id": 8,
+        "start": 14.680000305175781,
+        "end": 15.680000305175781,
+        "text": " Yeah."
+      },
+      {
+        "id": 9,
+        "start": 15.680000305175781,
+        "end": 16.68000030517578,
+        "text": " Good, good."
+      },
+      {
+        "id": 10,
+        "start": 16.68000030517578,
+        "end": 17.68000030517578,
+        "text": " Hey, buddy."
+      },
+      {
+        "id": 11,
+        "start": 17.68000030517578,
+        "end": 24.1200008392334,
+        "text": " I was just speaking with a young lady a few minutes ago, and I was canceling my plan with"
+      },
+      {
+        "id": 12,
+        "start": 24.1200008392334,
+        "end": 27.639999389648438,
+        "text": " you guys, and she was going to issue me a refund."
+      },
+      {
+        "id": 13,
+        "start": 27.639999389648438,
+        "end": 31.959999084472656,
+        "text": " I just wanted to confirm the refund process."
+      },
+      {
+        "id": 14,
+        "start": 31.959999084472656,
+        "end": 32.959999084472656,
+        "text": " Okay."
+      },
+      {
+        "id": 15,
+        "start": 32.959999084472656,
+        "end": 33.959999084472656,
+        "text": " Let me."
+      },
+      {
+        "id": 16,
+        "start": 33.959999084472656,
+        "end": 37.7599983215332,
+        "text": " Did she instruct you to go ahead and ship it back or?"
+      },
+      {
+        "id": 17,
+        "start": 37.7599983215332,
+        "end": 40.52000045776367,
+        "text": " Oh, no, no, no, no."
+      },
+      {
+        "id": 18,
+        "start": 40.52000045776367,
+        "end": 41.52000045776367,
+        "text": " You guys haven't shipped it yet."
+      },
+      {
+        "id": 19,
+        "start": 41.52000045776367,
+        "end": 42.52000045776367,
+        "text": " Okay."
+      },
+      {
+        "id": 20,
+        "start": 42.52000045776367,
+        "end": 43.52000045776367,
+        "text": " It was just taken."
+      },
+      {
+        "id": 21,
+        "start": 43.52000045776367,
+        "end": 44.52000045776367,
+        "text": " Yeah."
+      },
+      {
+        "id": 22,
+        "start": 44.52000045776367,
+        "end": 45.52000045776367,
+        "text": " All right."
+      },
+      {
+        "id": 23,
+        "start": 45.52000045776367,
+        "end": 46.52000045776367,
+        "text": " Let me."
+      },
+      {
+        "id": 24,
+        "start": 46.52000045776367,
+        "end": 47.52000045776367,
+        "text": " I'll transfer you back over there."
+      },
+      {
+        "id": 25,
+        "start": 47.52000045776367,
+        "end": 48.52000045776367,
+        "text": " One moment."
+      },
+      {
+        "id": 26,
+        "start": 48.52000045776367,
+        "end": 49.52000045776367,
+        "text": " No."
+      },
+      {
+        "id": 27,
+        "start": 49.52000045776367,
+        "end": 50.52000045776367,
+        "text": " So I'm not sure exactly what the conversation was."
+      },
+      {
+        "id": 28,
+        "start": 50.52000045776367,
+        "end": 51.52000045776367,
+        "text": " Give me one second."
+      },
+      {
+        "id": 29,
+        "start": 51.52000045776367,
+        "end": 52.52000045776367,
+        "text": " Okay."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81b4-9d57-e5ab1b818b4d",
+    "url": "https://www.notion.so/300000001217370-300000001707719-2f611d0a101c81b49d57e5ab1b818b4d"
+  },
+  "processedAt": "2026-01-28T10:58:05.841Z"
+}

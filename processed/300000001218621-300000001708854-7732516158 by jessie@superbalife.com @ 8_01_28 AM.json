@@ -1,0 +1,302 @@
+{
+  "recording": {
+    "name": "300000001218621-300000001708854-7732516158 by jessie@superbalife.com @ 8_01_28 AM.wav",
+    "size": 134676,
+    "modifyTime": 1769584929000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218621-300000001708854-7732516158 by jessie@superbalife.com @ 8_01_28 AM.wav",
+    "uploadDate": "2026-01-28T07:22:09.000Z",
+    "callId": "300000001218621-300000001708854",
+    "agent": "jessie",
+    "phoneNumber": "7732516158",
+    "callTimestamp": "2026-01-28T08:01:28.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra.\n\nSpeaker 2: My name is Jessie.\n\nSpeaker 1: Can I get your first and last name?\n\nSpeaker 2: Michael Anderson.\n\nSpeaker 1: Okay, great.\n\nSpeaker 2: And, Mr. Anderson, can I please get your zip code?\n\nSpeaker 1: 60187.\n\nSpeaker 2: Okay, just a moment.\n\nSpeaker 1: Perfect.\n\nSpeaker 2: I have you at 1220 East Forest Avenue in Wheaton, Illinois.\n\nSpeaker 1: Is that correct?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Super.\n\nSpeaker 1: And you wanted to cancel the monthly.\n\nSpeaker 2: Is that right?\n\nSpeaker 1: Getting too many, too often?\n\nSpeaker 2: Correct, yes.\n\nSpeaker 1: Oh, yeah.\n\nSpeaker 2: I just want to cancel the subscription.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Let me do this for you then.\n\nSpeaker 1: So, yeah, certainly monthly is just like way too much.\n\nSpeaker 2: I can switch it to as needed so you can order whenever you feel like it and you won't get\n\nSpeaker 1: stuff in the mail.\n\nSpeaker 2: Wonderful.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: So, full disclosure, I'll pause everything for six months at a time.\n\nSpeaker 1: All that means is you can order whenever you feel like it.\n\nSpeaker 2: You won't get any stuff in the mail, but to keep your prescription active, if you don't\n\nSpeaker 1: order in six months, it will send you one refill, okay?\n\nSpeaker 2: And that's it.\n\nSpeaker 1: Understand.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: You're all set.\n\nSpeaker 1: Is there anything else I can help you?\n\nSpeaker 2: By the way, the one that was charged on the 26th has already shipped, so I can't stop\n\nSpeaker 1: that one, but you won't get anything else.\n\nSpeaker 2: That's fine.\n\nSpeaker 1: Okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Have a good day.\n\nSpeaker 2: Bye-bye.",
+    "duration": 3539,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.9600000381469727,
+        "text": " Hi, thank you so much for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3.9600000381469727,
+        "end": 4.960000038146973,
+        "text": " My name is Jessie."
+      },
+      {
+        "id": 2,
+        "start": 4.960000038146973,
+        "end": 7.440000057220459,
+        "text": " Can I get your first and last name?"
+      },
+      {
+        "id": 3,
+        "start": 7.440000057220459,
+        "end": 8.4399995803833,
+        "text": " Michael Anderson."
+      },
+      {
+        "id": 4,
+        "start": 8.4399995803833,
+        "end": 9.4399995803833,
+        "text": " Okay, great."
+      },
+      {
+        "id": 5,
+        "start": 9.4399995803833,
+        "end": 14,
+        "text": " And, Mr. Anderson, can I please get your zip code?"
+      },
+      {
+        "id": 6,
+        "start": 14,
+        "end": 15,
+        "text": " 60187."
+      },
+      {
+        "id": 7,
+        "start": 15,
+        "end": 18,
+        "text": " Okay, just a moment."
+      },
+      {
+        "id": 8,
+        "start": 18,
+        "end": 19,
+        "text": " Perfect."
+      },
+      {
+        "id": 9,
+        "start": 19,
+        "end": 24.15999984741211,
+        "text": " I have you at 1220 East Forest Avenue in Wheaton, Illinois."
+      },
+      {
+        "id": 10,
+        "start": 24.15999984741211,
+        "end": 25.15999984741211,
+        "text": " Is that correct?"
+      },
+      {
+        "id": 11,
+        "start": 25.15999984741211,
+        "end": 26.15999984741211,
+        "text": " Yes."
+      },
+      {
+        "id": 12,
+        "start": 26.15999984741211,
+        "end": 27.15999984741211,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 27.15999984741211,
+        "end": 28.15999984741211,
+        "text": " Super."
+      },
+      {
+        "id": 14,
+        "start": 29,
+        "end": 30.559999465942383,
+        "text": " And you wanted to cancel the monthly."
+      },
+      {
+        "id": 15,
+        "start": 30.559999465942383,
+        "end": 31.559999465942383,
+        "text": " Is that right?"
+      },
+      {
+        "id": 16,
+        "start": 31.559999465942383,
+        "end": 32.560001373291016,
+        "text": " Getting too many, too often?"
+      },
+      {
+        "id": 17,
+        "start": 32.560001373291016,
+        "end": 33.560001373291016,
+        "text": " Correct, yes."
+      },
+      {
+        "id": 18,
+        "start": 33.560001373291016,
+        "end": 34.560001373291016,
+        "text": " Oh, yeah."
+      },
+      {
+        "id": 19,
+        "start": 34.560001373291016,
+        "end": 35.560001373291016,
+        "text": " I just want to cancel the subscription."
+      },
+      {
+        "id": 20,
+        "start": 35.560001373291016,
+        "end": 36.560001373291016,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 36.560001373291016,
+        "end": 37.560001373291016,
+        "text": " Let me do this for you then."
+      },
+      {
+        "id": 22,
+        "start": 37.560001373291016,
+        "end": 42.91999816894531,
+        "text": " So, yeah, certainly monthly is just like way too much."
+      },
+      {
+        "id": 23,
+        "start": 42.91999816894531,
+        "end": 47.52000045776367,
+        "text": " I can switch it to as needed so you can order whenever you feel like it and you won't get"
+      },
+      {
+        "id": 24,
+        "start": 47.52000045776367,
+        "end": 48.52000045776367,
+        "text": " stuff in the mail."
+      },
+      {
+        "id": 25,
+        "start": 48.52000045776367,
+        "end": 49.52000045776367,
+        "text": " Wonderful."
+      },
+      {
+        "id": 26,
+        "start": 49.52000045776367,
+        "end": 50.52000045776367,
+        "text": " Thank you."
+      },
+      {
+        "id": 27,
+        "start": 50.52000045776367,
+        "end": 55.040000915527344,
+        "text": " So, full disclosure, I'll pause everything for six months at a time."
+      },
+      {
+        "id": 28,
+        "start": 55.040000915527344,
+        "end": 58.15999984741211,
+        "text": " All that means is you can order whenever you feel like it."
+      },
+      {
+        "id": 29,
+        "start": 58.15999984741211,
+        "end": 62.959999084472656,
+        "text": " You won't get any stuff in the mail, but to keep your prescription active, if you don't"
+      },
+      {
+        "id": 30,
+        "start": 62.959999084472656,
+        "end": 66.16000366210938,
+        "text": " order in six months, it will send you one refill, okay?"
+      },
+      {
+        "id": 31,
+        "start": 66.16000366210938,
+        "end": 67.16000366210938,
+        "text": " And that's it."
+      },
+      {
+        "id": 32,
+        "start": 67.16000366210938,
+        "end": 68.16000366210938,
+        "text": " Understand."
+      },
+      {
+        "id": 33,
+        "start": 68.16000366210938,
+        "end": 69.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 34,
+        "start": 69.16000366210938,
+        "end": 70.16000366210938,
+        "text": " All right."
+      },
+      {
+        "id": 35,
+        "start": 70.16000366210938,
+        "end": 71.16000366210938,
+        "text": " You're all set."
+      },
+      {
+        "id": 36,
+        "start": 71.16000366210938,
+        "end": 72.27999877929688,
+        "text": " Is there anything else I can help you?"
+      },
+      {
+        "id": 37,
+        "start": 72.27999877929688,
+        "end": 75.4800033569336,
+        "text": " By the way, the one that was charged on the 26th has already shipped, so I can't stop"
+      },
+      {
+        "id": 38,
+        "start": 75.4800033569336,
+        "end": 77.4800033569336,
+        "text": " that one, but you won't get anything else."
+      },
+      {
+        "id": 39,
+        "start": 77.4800033569336,
+        "end": 78.4800033569336,
+        "text": " That's fine."
+      },
+      {
+        "id": 40,
+        "start": 78.4800033569336,
+        "end": 79.4800033569336,
+        "text": " Okay?"
+      },
+      {
+        "id": 41,
+        "start": 79.4800033569336,
+        "end": 80.4800033569336,
+        "text": " Okay."
+      },
+      {
+        "id": 42,
+        "start": 80.4800033569336,
+        "end": 81.4800033569336,
+        "text": " Thank you."
+      },
+      {
+        "id": 43,
+        "start": 81.4800033569336,
+        "end": 82.4800033569336,
+        "text": " Thank you."
+      },
+      {
+        "id": 44,
+        "start": 82.4800033569336,
+        "end": 83.4800033569336,
+        "text": " Have a good day."
+      },
+      {
+        "id": 45,
+        "start": 83.4800033569336,
+        "end": 84.4800033569336,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8117-906a-efc53259694c",
+    "url": "https://www.notion.so/300000001218621-300000001708854-2f611d0a101c8117906aefc53259694c"
+  },
+  "processedAt": "2026-01-28T14:52:36.387Z"
+}

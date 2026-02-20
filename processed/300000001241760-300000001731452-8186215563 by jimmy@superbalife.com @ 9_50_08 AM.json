@@ -1,0 +1,28 @@
+{
+  "recording": {
+    "name": "300000001241760-300000001731452-8186215563 by jimmy@superbalife.com @ 9_50_08 AM.wav",
+    "size": 21770,
+    "modifyTime": 1771005043000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241760-300000001731452-8186215563 by jimmy@superbalife.com @ 9_50_08 AM.wav",
+    "uploadDate": "2026-02-13T17:50:43.000Z",
+    "callId": "300000001241760-300000001731452",
+    "agent": "jimmy",
+    "phoneNumber": "8186215563",
+    "callTimestamp": "2026-02-13T09:50:08.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_jimmy_300000001241760-300000001731452_8186215563.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_jimmy_300000001241760-300000001731452_8186215563.txt"
+  },
+  "transcription": {
+    "text": "",
+    "duration": 1786,
+    "audioDuration": 13.359999656677246,
+    "language": "unknown",
+    "segments": []
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81a0-964c-f7f4325af6fa",
+    "url": "https://www.notion.so/300000001241760-300000001731452-30611d0a101c81a0964cf7f4325af6fa"
+  },
+  "processedAt": "2026-02-13T18:07:48.347Z"
+}

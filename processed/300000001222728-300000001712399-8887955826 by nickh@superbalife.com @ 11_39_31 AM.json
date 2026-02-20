@@ -1,0 +1,116 @@
+{
+  "recording": {
+    "name": "300000001222728-300000001712399-8887955826 by nickh@superbalife.com @ 11_39_31 AM.wav",
+    "size": 145530,
+    "modifyTime": 1769715667000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222728-300000001712399-8887955826 by nickh@superbalife.com @ 11_39_31 AM.wav",
+    "uploadDate": "2026-01-29T19:41:07.000Z",
+    "callId": "300000001222728-300000001712399",
+    "agent": "nickh",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-29T11:39:31.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi. Thank you for calling Viagra at Score Blue. How can I help you today?\n\nSpeaker 2: I'd like to cancel my subscription, please.\n\nSpeaker 1: Yes, sir. I can help you with this. Could you please provide me with the phone number associated with the prescription?\n\nSpeaker 2: 303-503-7963.\n\nSpeaker 1: Okay. And then the first and last name and date of birth, please.\n\nSpeaker 2: Jeremy Heinrichs, 8-5-1976.\n\nSpeaker 1: Hey, Jeremy. I see the initial prescription was for the 50-milligram Viagra. That was written back in October for a quantity of 40. It looks like the doctor here wrote it with the refills.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right. So, Mr. Heinrichs, I'm not sure if you saw in the initial notes, but this is a prescription and not a subscription. It is perfectly adjustable, so if you wanted to have access to the remaining refills under the script, you could effectively put a pause on this, and that would allow you to call in and place orders as needed.\n\nSpeaker 2: Okay. Sure.\n\nSpeaker 1: All right. I'll go ahead and cancel this. Upon cancellation, the prescription is officially closed out. Any future prescriptions would require a new health consultation and survey and approval by a doctor.\n\nSpeaker 2: Okay? Good. Thank you.\n\nSpeaker 1: All right. It's all canceled out. Thank you.",
+    "duration": 4594,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Hi. Thank you for calling Viagra at Score Blue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 12.359999656677246,
+        "text": " I'd like to cancel my subscription, please. Yes, sir. I can help you with this. Could"
+      },
+      {
+        "id": 2,
+        "start": 12.359999656677246,
+        "end": 17,
+        "text": " you please provide me with the phone number associated with the prescription?"
+      },
+      {
+        "id": 3,
+        "start": 17,
+        "end": 26.079999923706055,
+        "text": " 303-503-7963. Okay. And then the first and last name and"
+      },
+      {
+        "id": 4,
+        "start": 26.079999923706055,
+        "end": 33.08000183105469,
+        "text": " date of birth, please. Jeremy Heinrichs, 8-5-1976."
+      },
+      {
+        "id": 5,
+        "start": 33.08000183105469,
+        "end": 42.08000183105469,
+        "text": " Hey, Jeremy. I see the initial prescription was for the 50-milligram Viagra. That was"
+      },
+      {
+        "id": 6,
+        "start": 42.08000183105469,
+        "end": 47.36000061035156,
+        "text": " written back in October for a quantity of 40. It looks like the doctor here wrote it"
+      },
+      {
+        "id": 7,
+        "start": 47.36000061035156,
+        "end": 55.720001220703125,
+        "text": " with the refills. Okay. All right. So, Mr. Heinrichs, so I'm not sure if you saw in the"
+      },
+      {
+        "id": 8,
+        "start": 55.720001220703125,
+        "end": 61.279998779296875,
+        "text": " initial notes, but this is a prescription and not a subscription. It is perfectly adjustable,"
+      },
+      {
+        "id": 9,
+        "start": 61.279998779296875,
+        "end": 65.87999725341797,
+        "text": " so if you wanted to have access to the remaining refills under the script, you could effectively"
+      },
+      {
+        "id": 10,
+        "start": 65.87999725341797,
+        "end": 70.27999877929688,
+        "text": " put a pause on this, and that would allow you to call in and place orders as needed."
+      },
+      {
+        "id": 11,
+        "start": 70.27999877929688,
+        "end": 75.95999908447266,
+        "text": " Okay. Sure. All right. I'll go ahead and cancel this. Upon cancellation, the prescription"
+      },
+      {
+        "id": 12,
+        "start": 75.95999908447266,
+        "end": 80.08000183105469,
+        "text": " is officially closed out. Any future prescriptions would require a new health consultation and"
+      },
+      {
+        "id": 13,
+        "start": 80.08000183105469,
+        "end": 85.08000183105469,
+        "text": " survey and approval by a doctor. Okay? Good. Thank you."
+      },
+      {
+        "id": 14,
+        "start": 85.08000183105469,
+        "end": 89.08000183105469,
+        "text": " All right. It's all canceled out. Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-813c-840d-e42afa5f8ad1",
+    "url": "https://www.notion.so/300000001222728-300000001712399-2f711d0a101c813c840de42afa5f8ad1"
+  },
+  "processedAt": "2026-01-29T21:53:29.884Z"
+}

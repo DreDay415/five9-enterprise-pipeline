@@ -1,0 +1,103 @@
+{
+  "recording": {
+    "name": "300000001223102-300000001712656-3102569433 by  @ 1_58_28 PM_CallStudio.wav",
+    "size": 56286,
+    "modifyTime": 1769723967000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223102-300000001712656-3102569433 by  @ 1_58_28 PM_CallStudio.wav",
+    "uploadDate": "2026-01-29T21:59:27.000Z",
+    "callId": "300000001223102-300000001712656",
+    "phoneNumber": "3102569433",
+    "callTimestamp": "2026-01-29T21:59:27.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para español, marque número nueve.\n\nSpeaker 2: Zales.\n\nSpeaker 1: I heard you say, Zales. Say yes or press one if this is correct. Otherwise, say no or press two.\n\nSpeaker 2: No.\n\nSpeaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para español, marque número nueve.\n\nSpeaker 2: Purchase.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 2230,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 8,
+        "text": " Para español, marque número nueve."
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 12,
+        "text": " Zales."
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 15,
+        "text": " I heard you say, zales."
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 18,
+        "text": " Say yes or press one if this is correct."
+      },
+      {
+        "id": 6,
+        "start": 18,
+        "end": 20,
+        "text": " Otherwise, say no or press two."
+      },
+      {
+        "id": 7,
+        "start": 20,
+        "end": 23,
+        "text": " No."
+      },
+      {
+        "id": 8,
+        "start": 23,
+        "end": 26,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 9,
+        "start": 26,
+        "end": 28,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 10,
+        "start": 28,
+        "end": 30,
+        "text": " Para español, marque número nueve."
+      },
+      {
+        "id": 11,
+        "start": 30,
+        "end": 32,
+        "text": " Purchase."
+      },
+      {
+        "id": 12,
+        "start": 32,
+        "end": 34,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-813b-80db-e0530f04fdef",
+    "url": "https://www.notion.so/300000001223102-300000001712656-2f711d0a101c813b80dbe0530f04fdef"
+  },
+  "processedAt": "2026-01-29T22:02:46.071Z"
+}

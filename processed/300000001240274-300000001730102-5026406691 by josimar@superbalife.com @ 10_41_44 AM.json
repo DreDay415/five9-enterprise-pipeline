@@ -1,0 +1,237 @@
+{
+  "recording": {
+    "name": "300000001240274-300000001730102-5026406691 by josimar@superbalife.com @ 10_41_44 AM.wav",
+    "size": 158466,
+    "modifyTime": 1770921824000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240274-300000001730102-5026406691 by josimar@superbalife.com @ 10_41_44 AM.wav",
+    "uploadDate": "2026-02-12T18:43:44.000Z",
+    "callId": "300000001240274-300000001730102",
+    "agent": "josimar",
+    "phoneNumber": "5026406691",
+    "callTimestamp": "2026-02-12T10:41:44.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, can I help you today?\n\nSpeaker 2: Yes.\n\nSpeaker 1: I've had an account with you all, and I'm trying to figure out if I'm getting what I'm supposed to be getting.\n\nSpeaker 2: I'm supposed to be getting that new Viagra, the BGT or whatever you call it.\n\nSpeaker 1: Yeah, the AGV.\n\nSpeaker 2: It should be a diamond-shaped white pill.\n\nSpeaker 1: Any markings on it?\n\nSpeaker 2: No, just the diamond-shaped white pill would be the AGV Viagra.\n\nSpeaker 1: I could pull up your profile to confirm your prescription, what's your last name and a zip code?\n\nSpeaker 2: My last name is A-M-O-D-Y, zip code is 4-0-0-4-7.\n\nSpeaker 1: Got it.\n\nSpeaker 2: I pulled up your profile here, and I see your script is written for the AGV Viagra, so you have been receiving that, sir.\n\nSpeaker 1: Right now, it looks like your next order is coming up on March 3rd.\n\nSpeaker 2: Did you want to make any adjustments to that?\n\nSpeaker 1: No, I want to go ahead and cancel my prescription or whatever.\n\nSpeaker 2: Just keep in mind that the moment it does get canceled out, sir, you won't be able to order because the prescription will be deleted to the doctor's end.\n\nSpeaker 1: I could always freeze it for you instead.\n\nSpeaker 2: Yeah, freeze it for now, because I've got 10 bottles of pills.\n\nSpeaker 1: Oh, yeah, I definitely understand.\n\nSpeaker 2: You have quite a lot of them, so I'll freeze it out for you, and let me freeze it for every half-year period, but call us up and let us know if you need more time to delay it or get it sooner, but you're more than welcome to reach out to us.\n\nSpeaker 1: I made that honest decision.\n\nSpeaker 2: If I was using that many pills, I wouldn't have a pecker left.\n\nSpeaker 1: Oh, no, I definitely understand, sir.\n\nSpeaker 2: Not a problem.\n\nSpeaker 1: So, I already made that adjustment to your account, so you're all good to go today.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Of course.",
+    "duration": 6116,
+    "audioDuration": 97.4800033569336,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Viagra, can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 5,
+        "text": " Yes."
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 11.479999542236328,
+        "text": " I've had an account with you all, and I'm trying to figure out if I'm getting what I'm"
+      },
+      {
+        "id": 3,
+        "start": 11.479999542236328,
+        "end": 12.479999542236328,
+        "text": " supposed to be getting."
+      },
+      {
+        "id": 4,
+        "start": 12.479999542236328,
+        "end": 16.760000228881836,
+        "text": " I'm supposed to be getting that new Viagra, the BGT or whatever you call it."
+      },
+      {
+        "id": 5,
+        "start": 16.760000228881836,
+        "end": 17.760000228881836,
+        "text": " Yeah, the AGV."
+      },
+      {
+        "id": 6,
+        "start": 17.760000228881836,
+        "end": 21.31999969482422,
+        "text": " It should be a diamond-shaped white pill."
+      },
+      {
+        "id": 7,
+        "start": 21.31999969482422,
+        "end": 22.31999969482422,
+        "text": " Any markings on it?"
+      },
+      {
+        "id": 8,
+        "start": 22.31999969482422,
+        "end": 26,
+        "text": " No, just the diamond-shaped white pill would be the AGV Viagra."
+      },
+      {
+        "id": 9,
+        "start": 26,
+        "end": 29.040000915527344,
+        "text": " I could pull up your profile to confirm your prescription, what's your last name and a"
+      },
+      {
+        "id": 10,
+        "start": 29.040000915527344,
+        "end": 31.280000686645508,
+        "text": " zip code?"
+      },
+      {
+        "id": 11,
+        "start": 31.280000686645508,
+        "end": 36.63999938964844,
+        "text": " My last name is A-M-O-D-Y, zip code is 4-0-0-4-7."
+      },
+      {
+        "id": 12,
+        "start": 36.63999938964844,
+        "end": 37.63999938964844,
+        "text": " Got it."
+      },
+      {
+        "id": 13,
+        "start": 37.63999938964844,
+        "end": 42.63999938964844,
+        "text": " I pulled up your profile here, and I see your script is written for the AGV Viagra, so you"
+      },
+      {
+        "id": 14,
+        "start": 42.63999938964844,
+        "end": 43.63999938964844,
+        "text": " have been receiving that, sir."
+      },
+      {
+        "id": 15,
+        "start": 43.63999938964844,
+        "end": 46.63999938964844,
+        "text": " Right now, it looks like your next order is coming up on March 3rd."
+      },
+      {
+        "id": 16,
+        "start": 46.63999938964844,
+        "end": 49.040000915527344,
+        "text": " Did you want to make any adjustments to that?"
+      },
+      {
+        "id": 17,
+        "start": 49.040000915527344,
+        "end": 56.119998931884766,
+        "text": " No, I want to go ahead and cancel my prescription or whatever."
+      },
+      {
+        "id": 18,
+        "start": 56.20000076293945,
+        "end": 59.52000045776367,
+        "text": " Just keep in mind that the moment it does get canceled out, sir, you won't be able to"
+      },
+      {
+        "id": 19,
+        "start": 59.52000045776367,
+        "end": 62,
+        "text": " order because the prescription will be deleted to the doctor's end."
+      },
+      {
+        "id": 20,
+        "start": 62,
+        "end": 64.12000274658203,
+        "text": " I could always freeze it for you instead."
+      },
+      {
+        "id": 21,
+        "start": 64.12000274658203,
+        "end": 69.4800033569336,
+        "text": " Yeah, freeze it for now, because I've got 10 bottles of pills."
+      },
+      {
+        "id": 22,
+        "start": 69.4800033569336,
+        "end": 70.4800033569336,
+        "text": " Oh, yeah, I definitely understand."
+      },
+      {
+        "id": 23,
+        "start": 70.4800033569336,
+        "end": 74.31999969482422,
+        "text": " You have quite a lot of them, so I'll freeze it out for you, and let me freeze it for every"
+      },
+      {
+        "id": 24,
+        "start": 74.31999969482422,
+        "end": 78.12000274658203,
+        "text": " half-year period, but call us up and let us know if you need more time to delay it or"
+      },
+      {
+        "id": 25,
+        "start": 78.12000274658203,
+        "end": 80.5999984741211,
+        "text": " get it sooner, but you're more than welcome to reach out to us."
+      },
+      {
+        "id": 26,
+        "start": 80.5999984741211,
+        "end": 82.76000213623047,
+        "text": " I made that honest decision."
+      },
+      {
+        "id": 27,
+        "start": 82.76000213623047,
+        "end": 85.55999755859375,
+        "text": " If I was using that many pills, I wouldn't have a pecker left."
+      },
+      {
+        "id": 28,
+        "start": 85.55999755859375,
+        "end": 86.55999755859375,
+        "text": " Oh, no, I definitely understand, sir."
+      },
+      {
+        "id": 29,
+        "start": 86.55999755859375,
+        "end": 87.55999755859375,
+        "text": " Not a problem."
+      },
+      {
+        "id": 30,
+        "start": 87.55999755859375,
+        "end": 91.08000183105469,
+        "text": " So, I already made that adjustment to your account, so you're all good to go today."
+      },
+      {
+        "id": 31,
+        "start": 91.08000183105469,
+        "end": 92.08000183105469,
+        "text": " All right."
+      },
+      {
+        "id": 32,
+        "start": 92.08000183105469,
+        "end": 93.08000183105469,
+        "text": " Thank you."
+      },
+      {
+        "id": 33,
+        "start": 93.08000183105469,
+        "end": 94.08000183105469,
+        "text": " Of course."
+      },
+      {
+        "id": 34,
+        "start": 94.08000183105469,
+        "end": 94.08000183105469,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81d6-a4cd-e13b65e2d5f7",
+    "url": "https://www.notion.so/300000001240274-300000001730102-30511d0a101c81d6a4cde13b65e2d5f7"
+  },
+  "processedAt": "2026-02-12T19:10:09.200Z"
+}

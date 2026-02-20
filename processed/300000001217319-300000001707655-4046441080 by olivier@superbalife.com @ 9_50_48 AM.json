@@ -1,0 +1,434 @@
+{
+  "recording": {
+    "name": "300000001217319-300000001707655-4046441080 by olivier@superbalife.com @ 9_50_48 AM.wav",
+    "size": 349240,
+    "modifyTime": 1769585235000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217319-300000001707655-4046441080 by olivier@superbalife.com @ 9_50_48 AM.wav",
+    "uploadDate": "2026-01-28T07:27:15.000Z",
+    "callId": "300000001217319-300000001707655",
+    "agent": "olivier",
+    "phoneNumber": "4046441080",
+    "callTimestamp": "2026-01-28T09:50:48.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hello, Mr. Ewing?\n\nSpeaker 2: I'm here.\n\nSpeaker 1: Yeah, so the pharmacy was advised to pause your prescription, okay, and you can reorder as needed as well, okay?\n\nSpeaker 2: But, um, how do I know what schedule they're on?\n\nSpeaker 1: I'm sorry?\n\nSpeaker 2: How do I know how to, um, when to call or where to call or whatever?\n\nSpeaker 1: How do I...\n\nSpeaker 2: I mean, you can call at your liking.\n\nSpeaker 1: You can log into your account.\n\nSpeaker 2: There's a quick refill button that we're going to activate.\n\nSpeaker 1: You can press, or you can give us a call, but everything is paused.\n\nSpeaker 2: They pause just to have it available to you.\n\nSpeaker 1: They pause you until July, uh, half a year, so you don't get any monthly, not like that.\n\nSpeaker 2: It's not going to be on a monthly basis anymore, and you just call to reorder.\n\nSpeaker 1: Let me get the cell phone number, Ed.\n\nSpeaker 2: Yes, it's 800-677-9807.\n\nSpeaker 1: 900-677-9807.\n\nSpeaker 2: And that way, I locked your price in, too, so you don't have to pay a new price as well when you reorder, because the doctor consultation is the original one, and you're entitled\n\nSpeaker 1: to the same, but you're just not going to receive that every month.\n\nSpeaker 2: Okay?\n\nSpeaker 1: Okay, that's viable.\n\nSpeaker 2: They don't have the Cialis when it does.\n\nSpeaker 1: We do have Cialis as well, but the thing is, when you want to do Cialis, you're going to\n\nSpeaker 2: have to stick with that for a while, because otherwise, if I place the order, the pharmacy\n\nSpeaker 1: is going to give me a hard time.\n\nSpeaker 2: They don't want patients to swap back and forth, if that makes any sense, because everything\n\nSpeaker 1: is FDA-approved here, so, and, you know, that health guideline, you cannot combine\n\nSpeaker 2: both, you know?\n\nSpeaker 1: That's compounding.\n\nSpeaker 2: So, if you think that Cialis would be better for you, we can switch you, but you're going\n\nSpeaker 1: to have to stick to it for a little while.\n\nSpeaker 2: You're not going to be able to do Cialis this month, next month, Viagra, stuff like that,\n\nSpeaker 1: if that makes any sense.\n\nSpeaker 2: Yeah, okay.\n\nSpeaker 1: You want me to switch you to Cialis moving forward?\n\nSpeaker 2: You like Cialis better?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: All right, so, so, so right now, because you have no active order, what you're going to\n\nSpeaker 1: have to do, I'm going to place notes, but I'm not going to be able to set up, because\n\nSpeaker 2: for me to request a medicine change is when you place a new order, and we write a new\n\nSpeaker 1: prescription for Cialis at that moment.\n\nSpeaker 2: So, the only thing I can do is place notes, right?\n\nSpeaker 1: But if you can call us, if you want to place an order in three, four months for a little\n\nSpeaker 2: bit of Cialis, so that's going to switch your prescription, right?\n\nSpeaker 1: Right.\n\nSpeaker 2: Because if there is no active order, I cannot just tell the doctor, hey, doctor, you know,\n\nSpeaker 1: write a prescription for Cialis now.\n\nSpeaker 2: No, it's when you order something that they prescribe, they write a new prescription,\n\nSpeaker 1: but you don't need a prescription at the moment, right?\n\nSpeaker 2: So, I cannot do that.\n\nSpeaker 1: I'm just going to place notes that you might want Cialis in the future.\n\nSpeaker 2: Okay, but right now, I'm paused.\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: Absolutely.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And I'm going to place notes that you want Cialis in the future instead.\n\nSpeaker 1: Good deal.\n\nSpeaker 2: All right.\n\nSpeaker 1: All right.\n\nSpeaker 2: So, you're all set for now, and thank you for making the time to call.\n\nSpeaker 1: You're welcome.\n\nSpeaker 2: Talk to you later.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Bye-bye.",
+    "duration": 8026,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.360000133514404,
+        "text": " Hello, Mr. Ewing?"
+      },
+      {
+        "id": 1,
+        "start": 4.360000133514404,
+        "end": 5.360000133514404,
+        "text": " I'm here."
+      },
+      {
+        "id": 2,
+        "start": 5.360000133514404,
+        "end": 9.5600004196167,
+        "text": " Yeah, so the pharmacy was advised to pause your prescription, okay, and you can reorder"
+      },
+      {
+        "id": 3,
+        "start": 9.5600004196167,
+        "end": 12.5600004196167,
+        "text": " as needed as well, okay?"
+      },
+      {
+        "id": 4,
+        "start": 12.5600004196167,
+        "end": 16.84000015258789,
+        "text": " But, um, how do I know what schedule they're on?"
+      },
+      {
+        "id": 5,
+        "start": 16.84000015258789,
+        "end": 17.84000015258789,
+        "text": " I'm sorry?"
+      },
+      {
+        "id": 6,
+        "start": 17.84000015258789,
+        "end": 26.040000915527344,
+        "text": " How do I know how to, um, when to call or where to call or whatever?"
+      },
+      {
+        "id": 7,
+        "start": 26.040000915527344,
+        "end": 27.040000915527344,
+        "text": " How do I..."
+      },
+      {
+        "id": 8,
+        "start": 27.479999542236328,
+        "end": 30.239999771118164,
+        "text": " I mean, you can call at your liking."
+      },
+      {
+        "id": 9,
+        "start": 30.239999771118164,
+        "end": 31.440000534057617,
+        "text": " You can log into your account."
+      },
+      {
+        "id": 10,
+        "start": 31.440000534057617,
+        "end": 34.2400016784668,
+        "text": " There's a quick refill button that we're going to activate."
+      },
+      {
+        "id": 11,
+        "start": 34.2400016784668,
+        "end": 39.560001373291016,
+        "text": " You can press, or you can give us a call, but everything is paused."
+      },
+      {
+        "id": 12,
+        "start": 39.560001373291016,
+        "end": 41.79999923706055,
+        "text": " They pause just to have it available to you."
+      },
+      {
+        "id": 13,
+        "start": 41.79999923706055,
+        "end": 49.20000076293945,
+        "text": " They pause you until July, uh, half a year, so you don't get any monthly, not like that."
+      },
+      {
+        "id": 14,
+        "start": 49.20000076293945,
+        "end": 54,
+        "text": " It's not going to be on a monthly basis anymore, and you just call to reorder."
+      },
+      {
+        "id": 15,
+        "start": 55,
+        "end": 58,
+        "text": " Let me get the cell phone number, Ed."
+      },
+      {
+        "id": 16,
+        "start": 58,
+        "end": 67,
+        "text": " Yes, it's 800-677-9807."
+      },
+      {
+        "id": 17,
+        "start": 67,
+        "end": 73,
+        "text": " 900-677-9807."
+      },
+      {
+        "id": 18,
+        "start": 73,
+        "end": 77,
+        "text": " And that way, I locked your price in, too, so you don't have to pay a new price as well"
+      },
+      {
+        "id": 19,
+        "start": 77,
+        "end": 82,
+        "text": " when you reorder, because the doctor consultation is the original one, and you're entitled"
+      },
+      {
+        "id": 20,
+        "start": 82,
+        "end": 85,
+        "text": " to the same, but you're just not going to receive that every month."
+      },
+      {
+        "id": 21,
+        "start": 85,
+        "end": 86,
+        "text": " Okay?"
+      },
+      {
+        "id": 22,
+        "start": 88,
+        "end": 89,
+        "text": " Okay, that's viable."
+      },
+      {
+        "id": 23,
+        "start": 89,
+        "end": 92,
+        "text": " They don't have the Cialis when it does."
+      },
+      {
+        "id": 24,
+        "start": 92,
+        "end": 97,
+        "text": " We do have Cialis as well, but the thing is, when you want to do Cialis, you're going to"
+      },
+      {
+        "id": 25,
+        "start": 97,
+        "end": 101,
+        "text": " have to stick with that for a while, because otherwise, if I place the order, the pharmacy"
+      },
+      {
+        "id": 26,
+        "start": 101,
+        "end": 102,
+        "text": " is going to give me a hard time."
+      },
+      {
+        "id": 27,
+        "start": 102,
+        "end": 106,
+        "text": " They don't want patients to swap back and forth, if that makes any sense, because everything"
+      },
+      {
+        "id": 28,
+        "start": 106,
+        "end": 111,
+        "text": " is FDA-approved here, so, and, you know, that health guideline, you cannot combine"
+      },
+      {
+        "id": 29,
+        "start": 111,
+        "end": 112,
+        "text": " both, you know?"
+      },
+      {
+        "id": 30,
+        "start": 112,
+        "end": 113,
+        "text": " That's compounding."
+      },
+      {
+        "id": 31,
+        "start": 113,
+        "end": 118,
+        "text": " So, if you think that Cialis would be better for you, we can switch you, but you're going"
+      },
+      {
+        "id": 32,
+        "start": 118,
+        "end": 120,
+        "text": " to have to stick to it for a little while."
+      },
+      {
+        "id": 33,
+        "start": 120,
+        "end": 124,
+        "text": " You're not going to be able to do Cialis this month, next month, Viagra, stuff like that,"
+      },
+      {
+        "id": 34,
+        "start": 124,
+        "end": 126,
+        "text": " if that makes any sense."
+      },
+      {
+        "id": 35,
+        "start": 126,
+        "end": 127,
+        "text": " Yeah, okay."
+      },
+      {
+        "id": 36,
+        "start": 127,
+        "end": 129,
+        "text": " You want me to switch you to Cialis moving forward?"
+      },
+      {
+        "id": 37,
+        "start": 129,
+        "end": 131,
+        "text": " You like Cialis better?"
+      },
+      {
+        "id": 38,
+        "start": 131,
+        "end": 132,
+        "text": " Yes."
+      },
+      {
+        "id": 39,
+        "start": 132,
+        "end": 133,
+        "text": " Okay."
+      },
+      {
+        "id": 40,
+        "start": 133,
+        "end": 134,
+        "text": " All right."
+      },
+      {
+        "id": 41,
+        "start": 134,
+        "end": 144,
+        "text": " All right, so, so, so right now, because you have no active order, what you're going to"
+      },
+      {
+        "id": 42,
+        "start": 144,
+        "end": 148,
+        "text": " have to do, I'm going to place notes, but I'm not going to be able to set up, because"
+      },
+      {
+        "id": 43,
+        "start": 148,
+        "end": 154,
+        "text": " for me to request a medicine change is when you place a new order, and we write a new"
+      },
+      {
+        "id": 44,
+        "start": 154,
+        "end": 156,
+        "text": " prescription for Cialis at that moment."
+      },
+      {
+        "id": 45,
+        "start": 156,
+        "end": 160,
+        "text": " So, the only thing I can do is place notes, right?"
+      },
+      {
+        "id": 46,
+        "start": 160,
+        "end": 164,
+        "text": " But if you can call us, if you want to place an order in three, four months for a little"
+      },
+      {
+        "id": 47,
+        "start": 164,
+        "end": 169,
+        "text": " bit of Cialis, so that's going to switch your prescription, right?"
+      },
+      {
+        "id": 48,
+        "start": 169,
+        "end": 170,
+        "text": " Right."
+      },
+      {
+        "id": 49,
+        "start": 170,
+        "end": 174,
+        "text": " Because if there is no active order, I cannot just tell the doctor, hey, doctor, you know,"
+      },
+      {
+        "id": 50,
+        "start": 174,
+        "end": 176,
+        "text": " write a prescription for Cialis now."
+      },
+      {
+        "id": 51,
+        "start": 176,
+        "end": 180,
+        "text": " No, it's when you order something that they prescribe, they write a new prescription,"
+      },
+      {
+        "id": 52,
+        "start": 180,
+        "end": 182,
+        "text": " but you don't need a prescription at the moment, right?"
+      },
+      {
+        "id": 53,
+        "start": 182,
+        "end": 184,
+        "text": " So, I cannot do that."
+      },
+      {
+        "id": 54,
+        "start": 184,
+        "end": 188,
+        "text": " I'm just going to place notes that you might want Cialis in the future."
+      },
+      {
+        "id": 55,
+        "start": 189,
+        "end": 191,
+        "text": " Okay, but right now, I'm paused."
+      },
+      {
+        "id": 56,
+        "start": 191,
+        "end": 192,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 57,
+        "start": 192,
+        "end": 193,
+        "text": " Absolutely."
+      },
+      {
+        "id": 58,
+        "start": 193,
+        "end": 194,
+        "text": " Okay."
+      },
+      {
+        "id": 59,
+        "start": 195,
+        "end": 199,
+        "text": " And I'm going to place notes that you want Cialis in the future instead."
+      },
+      {
+        "id": 60,
+        "start": 200,
+        "end": 201,
+        "text": " Good deal."
+      },
+      {
+        "id": 61,
+        "start": 201,
+        "end": 202,
+        "text": " All right."
+      },
+      {
+        "id": 62,
+        "start": 203,
+        "end": 204,
+        "text": " All right."
+      },
+      {
+        "id": 63,
+        "start": 204,
+        "end": 208,
+        "text": " So, you're all set for now, and thank you for making the time to call."
+      },
+      {
+        "id": 64,
+        "start": 209,
+        "end": 210,
+        "text": " You're welcome."
+      },
+      {
+        "id": 65,
+        "start": 210,
+        "end": 211,
+        "text": " Talk to you later."
+      },
+      {
+        "id": 66,
+        "start": 211,
+        "end": 212,
+        "text": " Thank you."
+      },
+      {
+        "id": 67,
+        "start": 212,
+        "end": 213,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813f-8f48-df5424111abf",
+    "url": "https://www.notion.so/300000001217319-300000001707655-2f611d0a101c813f8f48df5424111abf"
+  },
+  "processedAt": "2026-01-28T14:34:31.781Z"
+}

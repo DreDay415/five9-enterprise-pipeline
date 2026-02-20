@@ -1,0 +1,386 @@
+{
+  "recording": {
+    "name": "300000001217528-300000001707810-2484695467 by jimmy@superbalife.com @ 10_39_56 AM.wav",
+    "size": 241860,
+    "modifyTime": 1769582833000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217528-300000001707810-2484695467 by jimmy@superbalife.com @ 10_39_56 AM.wav",
+    "uploadDate": "2026-01-28T06:47:13.000Z",
+    "callId": "300000001217528-300000001707810",
+    "agent": "jimmy",
+    "phoneNumber": "2484695467",
+    "callTimestamp": "2026-01-28T10:39:56.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, this is Jimmy, how can I help you today?\n\nSpeaker 2: Yeah, I want to check my prescription.\n\nSpeaker 1: Okay, can I ask who I'm speaking to please?\n\nSpeaker 2: James Hernandez.\n\nSpeaker 1: Okay, Mr. Hernandez, let me take a look and see what I'm looking at.\n\nSpeaker 2: I thought it was a one-time thing.\n\nSpeaker 1: I know it's every month.\n\nSpeaker 2: All right, let me check it out and see what's going on for you, Mr. Hernandez.\n\nSpeaker 1: Okay, I was able to pull your information up.\n\nSpeaker 2: I do see that you're getting the Viagra, the 100 milligrams.\n\nSpeaker 1: It looks like that you're getting 10 every month by your prescription.\n\nSpeaker 2: Is that too frequently for you?\n\nSpeaker 1: You know, you don't have to get them every month if that's too many.\n\nSpeaker 2: No, they don't work on me.\n\nSpeaker 1: Oh, the Viagra didn't work for you?\n\nSpeaker 2: Okay, well, you know what?\n\nSpeaker 1: Let me go and check.\n\nSpeaker 2: What I'm going to do for you, I'm going to go ahead and I'm going to stop the monthly\n\nSpeaker 1: shipment that you're getting, and I'm also going to stop the monthly refills that was\n\nSpeaker 2: including your prescription, and I'm going to stop those monthly charges as well.\n\nSpeaker 1: But I do see that you said it wasn't working for you.\n\nSpeaker 2: You know what?\n\nSpeaker 1: I want to do this for you too as well.\n\nSpeaker 2: I want to give you an opportunity to try something that we have that's really for\n\nSpeaker 1: VIP clients only, and basically what I'm going to do as a courtesy, I'm going to send\n\nSpeaker 2: you out 10 of those for free at no charge, and I want you to try these.\n\nSpeaker 1: These are the newly approved ones, and basically I'm not going to have you set up\n\nSpeaker 2: on an every month prescription.\n\nSpeaker 1: I'm going to pause off everything on your prescription for like four months.\n\nSpeaker 2: What I will do, I'm going to update it to what I'm going to send you out now.\n\nSpeaker 1: So if you like these, you can call and order when you like and get these that I'm\n\nSpeaker 2: going to send you.\n\nSpeaker 1: And let me explain what I'm going to have.\n\nSpeaker 2: They're going to be very similar looking at what you have, but they're going to be\n\nSpeaker 1: totally different.\n\nSpeaker 2: They're going to be a white shaped diamond pill, but the number on the back is going\n\nSpeaker 1: to be 1-0-0.\n\nSpeaker 2: Okay?\n\nSpeaker 1: On the back is going to have a 100 on it.\n\nSpeaker 2: I guarantee you're going to like these, and when you try it, you can call and order\n\nSpeaker 1: whenever you like because I'm going to update that prescription to make sure that's\n\nSpeaker 2: on it whenever you call and order.\n\nSpeaker 1: Again, like I said, I'm going to give you four months to try it, and I'm sending\n\nSpeaker 2: you these out completely free.\n\nSpeaker 1: Okay?\n\nSpeaker 2: All right.\n\nSpeaker 1: All right.\n\nSpeaker 2: I'll take care of that for you.\n\nSpeaker 1: No problem.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Take care.",
+    "duration": 6861,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.5999999046325684,
+        "text": " Thank you for calling Viagra, this is Jimmy, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 10.600000381469727,
+        "end": 12.699999809265137,
+        "text": " You reached Viagra, this is Jimmy, can I help you?"
+      },
+      {
+        "id": 2,
+        "start": 13.100000381469727,
+        "end": 15,
+        "text": " This message has been transcribed."
+      },
+      {
+        "id": 3,
+        "start": 18.600000381469727,
+        "end": 19.5,
+        "text": " Hi, can I help you?"
+      },
+      {
+        "id": 4,
+        "start": 19.799999237060547,
+        "end": 20.299999237060547,
+        "text": " Hello."
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 22.399999618530273,
+        "text": " Yeah, you reached Viagra, can I help you?"
+      },
+      {
+        "id": 6,
+        "start": 23.200000762939453,
+        "end": 25.200000762939453,
+        "text": " Yeah, I want to check my prescription."
+      },
+      {
+        "id": 7,
+        "start": 26.200000762939453,
+        "end": 28.899999618530273,
+        "text": " Okay, can I ask who I'm speaking to please?"
+      },
+      {
+        "id": 8,
+        "start": 29.399999618530273,
+        "end": 30.299999237060547,
+        "text": " James Hernandez."
+      },
+      {
+        "id": 9,
+        "start": 31.200000762939453,
+        "end": 33.70000076293945,
+        "text": " Okay, Mr. Hernandez, let me take a look and see what I'm looking at."
+      },
+      {
+        "id": 10,
+        "start": 33.70000076293945,
+        "end": 34.70000076293945,
+        "text": " Take care of that for you."
+      },
+      {
+        "id": 11,
+        "start": 35.20000076293945,
+        "end": 36.900001525878906,
+        "text": " I thought it was a one-time thing."
+      },
+      {
+        "id": 12,
+        "start": 36.900001525878906,
+        "end": 38.79999923706055,
+        "text": " I know it's every month."
+      },
+      {
+        "id": 13,
+        "start": 39.70000076293945,
+        "end": 42.20000076293945,
+        "text": " All right, let me check it out and see what's going on for you, Mr. Hernandez."
+      },
+      {
+        "id": 14,
+        "start": 42.599998474121094,
+        "end": 44.20000076293945,
+        "text": " Okay, I was able to pull your information up."
+      },
+      {
+        "id": 15,
+        "start": 44.20000076293945,
+        "end": 47.400001525878906,
+        "text": " I do see that you're getting the Viagra, the 100 milligrams."
+      },
+      {
+        "id": 16,
+        "start": 47.400001525878906,
+        "end": 51,
+        "text": " It looks like that you're getting 10 every month by your prescription."
+      },
+      {
+        "id": 17,
+        "start": 51.400001525878906,
+        "end": 52.70000076293945,
+        "text": " Is that too frequently for you?"
+      },
+      {
+        "id": 18,
+        "start": 52.70000076293945,
+        "end": 56.29999923706055,
+        "text": " You know, you don't have to get them every month if that's too many."
+      },
+      {
+        "id": 19,
+        "start": 56.5,
+        "end": 59.400001525878906,
+        "text": " No, they don't work on me."
+      },
+      {
+        "id": 20,
+        "start": 60.29999923706055,
+        "end": 62.099998474121094,
+        "text": " Oh, the Viagra didn't work for you?"
+      },
+      {
+        "id": 21,
+        "start": 62.099998474121094,
+        "end": 62.79999923706055,
+        "text": " Okay, well, you know what?"
+      },
+      {
+        "id": 22,
+        "start": 62.79999923706055,
+        "end": 63.5,
+        "text": " Let me go and check."
+      },
+      {
+        "id": 23,
+        "start": 63.5,
+        "end": 66.9000015258789,
+        "text": " What I'm going to do for you, I'm going to go ahead and I'm going to stop the monthly"
+      },
+      {
+        "id": 24,
+        "start": 66.9000015258789,
+        "end": 70.5999984741211,
+        "text": " shipment that you're getting, and I'm also going to stop the monthly refills that was"
+      },
+      {
+        "id": 25,
+        "start": 70.5999984741211,
+        "end": 75,
+        "text": " including your prescription, and I'm going to stop those monthly charges as well."
+      },
+      {
+        "id": 26,
+        "start": 75.4000015258789,
+        "end": 78.19999694824219,
+        "text": " But I do see that you said it wasn't working for you."
+      },
+      {
+        "id": 27,
+        "start": 78.5,
+        "end": 79,
+        "text": " You know what?"
+      },
+      {
+        "id": 28,
+        "start": 79,
+        "end": 80.5,
+        "text": " I want to do this for you too as well."
+      },
+      {
+        "id": 29,
+        "start": 80.9000015258789,
+        "end": 84.19999694824219,
+        "text": " I want to give you an opportunity to try something that we have that's really for"
+      },
+      {
+        "id": 30,
+        "start": 84.19999694824219,
+        "end": 88.80000305175781,
+        "text": " VIP clients only, and basically what I'm going to do as a courtesy, I'm going to send"
+      },
+      {
+        "id": 31,
+        "start": 88.80000305175781,
+        "end": 93.30000305175781,
+        "text": " you out 10 of those for free at no charge, and I want you to try these."
+      },
+      {
+        "id": 32,
+        "start": 93.4000015258789,
+        "end": 96.69999694824219,
+        "text": " These are the newly approved ones, and basically I'm not going to have you set up"
+      },
+      {
+        "id": 33,
+        "start": 96.69999694824219,
+        "end": 98,
+        "text": " on an every month prescription."
+      },
+      {
+        "id": 34,
+        "start": 98.5,
+        "end": 101.5999984741211,
+        "text": " I'm going to pause off everything on your prescription for like four months."
+      },
+      {
+        "id": 35,
+        "start": 102,
+        "end": 105.19999694824219,
+        "text": " What I will do, I'm going to update it to what I'm going to send you out now."
+      },
+      {
+        "id": 36,
+        "start": 105.5,
+        "end": 109.5999984741211,
+        "text": " So if you like these, you can call and order when you like and get these that I'm"
+      },
+      {
+        "id": 37,
+        "start": 109.5999984741211,
+        "end": 110.19999694824219,
+        "text": " going to send you."
+      },
+      {
+        "id": 38,
+        "start": 110.5,
+        "end": 112.69999694824219,
+        "text": " And let me explain what I'm going to have."
+      },
+      {
+        "id": 39,
+        "start": 112.69999694824219,
+        "end": 115.4000015258789,
+        "text": " They're going to be very similar looking at what you have, but they're going to be"
+      },
+      {
+        "id": 40,
+        "start": 115.4000015258789,
+        "end": 116.19999694824219,
+        "text": " totally different."
+      },
+      {
+        "id": 41,
+        "start": 116.5999984741211,
+        "end": 120.80000305175781,
+        "text": " They're going to be a white shaped diamond pill, but the number on the back is going"
+      },
+      {
+        "id": 42,
+        "start": 120.80000305175781,
+        "end": 123.0999984741211,
+        "text": " to be 1-0-0."
+      },
+      {
+        "id": 43,
+        "start": 123.5999984741211,
+        "end": 124.0999984741211,
+        "text": " Okay?"
+      },
+      {
+        "id": 44,
+        "start": 125,
+        "end": 126.69999694824219,
+        "text": " On the back is going to have a 100 on it."
+      },
+      {
+        "id": 45,
+        "start": 126.9000015258789,
+        "end": 130.39999389648438,
+        "text": " I guarantee you're going to like these, and when you try it, you can call and order"
+      },
+      {
+        "id": 46,
+        "start": 130.39999389648438,
+        "end": 133.89999389648438,
+        "text": " whenever you like because I'm going to update that prescription to make sure that's"
+      },
+      {
+        "id": 47,
+        "start": 133.89999389648438,
+        "end": 135.6999969482422,
+        "text": " on it whenever you call and order."
+      },
+      {
+        "id": 48,
+        "start": 135.89999389648438,
+        "end": 138.60000610351562,
+        "text": " Again, like I said, I'm going to give you four months to try it, and I'm sending"
+      },
+      {
+        "id": 49,
+        "start": 138.60000610351562,
+        "end": 140.39999389648438,
+        "text": " you these out completely free."
+      },
+      {
+        "id": 50,
+        "start": 140.8000030517578,
+        "end": 141.3000030517578,
+        "text": " Okay?"
+      },
+      {
+        "id": 51,
+        "start": 142.10000610351562,
+        "end": 142.60000610351562,
+        "text": " All right."
+      },
+      {
+        "id": 52,
+        "start": 142.89999389648438,
+        "end": 143.39999389648438,
+        "text": " All right."
+      },
+      {
+        "id": 53,
+        "start": 143.39999389648438,
+        "end": 143.89999389648438,
+        "text": " I'll take care of that for you."
+      },
+      {
+        "id": 54,
+        "start": 143.89999389648438,
+        "end": 144.39999389648438,
+        "text": " No problem."
+      },
+      {
+        "id": 55,
+        "start": 144.89999389648438,
+        "end": 145.39999389648438,
+        "text": " All right."
+      },
+      {
+        "id": 56,
+        "start": 145.39999389648438,
+        "end": 145.89999389648438,
+        "text": " Thank you."
+      },
+      {
+        "id": 57,
+        "start": 146.1999969482422,
+        "end": 146.6999969482422,
+        "text": " Okay."
+      },
+      {
+        "id": 58,
+        "start": 147.39999389648438,
+        "end": 147.89999389648438,
+        "text": " All right."
+      },
+      {
+        "id": 59,
+        "start": 148.39999389648438,
+        "end": 148.89999389648438,
+        "text": " Take care."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a5-9258-c9c06eb38d5c",
+    "url": "https://www.notion.so/300000001217528-300000001707810-2f611d0a101c81a59258c9c06eb38d5c"
+  },
+  "processedAt": "2026-01-28T16:56:37.488Z"
+}

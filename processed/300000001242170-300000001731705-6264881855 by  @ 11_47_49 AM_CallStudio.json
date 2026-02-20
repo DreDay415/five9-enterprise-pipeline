@@ -1,0 +1,58 @@
+{
+  "recording": {
+    "name": "300000001242170-300000001731705-6264881855 by  @ 11_47_49 AM_CallStudio.wav",
+    "size": 25476,
+    "modifyTime": 1771012107000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242170-300000001731705-6264881855 by  @ 11_47_49 AM_CallStudio.wav",
+    "uploadDate": "2026-02-13T19:48:27.000Z",
+    "callId": "300000001242170-300000001731705",
+    "phoneNumber": "6264881855",
+    "callTimestamp": "2026-02-13T19:48:27.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242170-300000001731705_6264881855.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242170-300000001731705_6264881855.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español marque numero nueve.\n\nSpeaker 2: I want to cancel this shit.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 892,
+    "audioDuration": 15.640000343322754,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.119999885559082,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.119999885559082,
+        "end": 7.119999885559082,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.119999885559082,
+        "end": 8.119999885559082,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.119999885559082,
+        "end": 14.15999984741211,
+        "text": " I want to cancel this shit."
+      },
+      {
+        "id": 4,
+        "start": 14.15999984741211,
+        "end": 15.359999656677246,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8184-b85c-d6f3fd37eab4",
+    "url": "https://www.notion.so/300000001242170-300000001731705-30611d0a101c8184b85cd6f3fd37eab4"
+  },
+  "processedAt": "2026-02-13T20:07:11.553Z"
+}

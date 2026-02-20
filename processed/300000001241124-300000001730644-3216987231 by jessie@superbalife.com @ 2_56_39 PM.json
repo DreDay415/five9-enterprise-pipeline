@@ -1,0 +1,305 @@
+{
+  "recording": {
+    "name": "300000001241124-300000001730644-3216987231 by jessie@superbalife.com @ 2_56_39 PM.wav",
+    "size": 321876,
+    "modifyTime": 1770937217000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241124-300000001730644-3216987231 by jessie@superbalife.com @ 2_56_39 PM.wav",
+    "uploadDate": "2026-02-12T23:00:17.000Z",
+    "callId": "300000001241124-300000001730644",
+    "agent": "jessie",
+    "phoneNumber": "3216987231",
+    "callTimestamp": "2026-02-12T14:56:39.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_jessie_300000001241124-300000001730644_3216987231.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_jessie_300000001241124-300000001730644_3216987231.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. My name is Jessie. May I get your first and last name?\n\nSpeaker 2: My first name is Jim.\n\nSpeaker 1: And your last name?\n\nSpeaker 2: Wasil. W-A-S-I-L.\n\nSpeaker 1: Perfect. Mr. Wasil, what's your zip code?\n\nSpeaker 2: 32940.\n\nSpeaker 1: Thank you. Are you at 1277 Cypress Trace Drive in Melbourne, Florida?\n\nSpeaker 2: That's me.\n\nSpeaker 1: Okie dokie. And then let's see here.\n\nSpeaker 2: What can I help you with?\n\nSpeaker 1: I got my first prescription yesterday, but I'm not sure that it's the right thing,\n\nSpeaker 2: because on the bottle it just says, you know, it's generic for Viagra.\n\nSpeaker 1: Let me take a quick look. The best way to know is, do you have the pills there with you,\n\nSpeaker 2: like the actual bottle?\n\nSpeaker 1: I do.\n\nSpeaker 2: Okay. If you can take out one of the pills, you'll see it's smooth on one side,\n\nSpeaker 1: and on the other side there's an imprint.\n\nSpeaker 2: Can you tell me the imprint, because that will inform me of who the manufacturer is.\n\nSpeaker 1: Okay. It's AC-340.\n\nSpeaker 2: No, that's wrong. Okay, so that's the American AGV.\n\nSpeaker 1: I want to get you the French ones.\n\nSpeaker 2: The correct pill, or the French pill, the French AGV, will have a stamp of 100,\n\nSpeaker 1: and that's how you know it's the correct one.\n\nSpeaker 2: I didn't think this was the right pill, so what do I do about it?\n\nSpeaker 1: Yeah. Oh, don't worry. We're going to replace it. We'll replace it for you.\n\nSpeaker 2: We'll have it expedited. At no cost to you, obviously, because you've already been here.\n\nSpeaker 1: Yeah, not the greatest for my very first experience.\n\nSpeaker 2: Yeah, very sorry about that. We'll go ahead and have that shipped out to you.\n\nSpeaker 1: And with that one, you're welcome to try it. It's American-made.\n\nSpeaker 2: If you like it, then keep it. You get double the pills at this point.\n\nSpeaker 1: But otherwise, we're still sending you the AGV.\n\nSpeaker 2: Those are not made in China or India. Those are made in the USA.\n\nSpeaker 1: Okay. So this is not the – let me see. Let's see. Hang on one second.\n\nSpeaker 2: Okay. Let's see.\n\nSpeaker 1: Yeah, it's supposed to be the – what kind of – it's some different Viagra.\n\nSpeaker 2: What's the number or something?\n\nSpeaker 1: It's the AGV. So the AGV is a new pill. It's made in France. It's FDA-approved.\n\nSpeaker 2: Just bear in mind, though, before I let you go, you know, at first blush,\n\nSpeaker 1: it might look similar. They're not. Okay? So the stamp on the AGV will have 100.\n\nSpeaker 2: The only other pill that has 100 is the branded blue Viagra.\n\nSpeaker 1: That indicates the manufacturer.\n\nSpeaker 2: Number two, the bottle will actually read AGV on it.\n\nSpeaker 1: And number three, the pharmaceutical located on the side of the bottle\n\nSpeaker 2: where the label is will read Greenstone. Greenstone is a subsidiary of Pfizer. Okay?\n\nSpeaker 1: Okay. Got it all.\n\nSpeaker 2: Awesome. Okay. Thank you so much. Bye-bye.",
+    "duration": 8406,
+    "audioDuration": 198.0399932861328,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Thank you for calling Viagra. My name is Jessie. You may get your first and last name."
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 12,
+        "text": " My first name is Jim."
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 14,
+        "text": " And your last name?"
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 18,
+        "text": " Wasil. W-A-S-I-L."
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 22,
+        "text": " Perfect. Mr. Wasil, what's your zip code?"
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 25,
+        "text": " 32940."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 29,
+        "text": " Thank you. Are you at 1277 Cypress Trace Drive in Melbourne, Florida?"
+      },
+      {
+        "id": 7,
+        "start": 29,
+        "end": 31,
+        "text": " That's me."
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 36,
+        "text": " Okie dokie. And then let's see here."
+      },
+      {
+        "id": 9,
+        "start": 36,
+        "end": 38,
+        "text": " What can I help you with?"
+      },
+      {
+        "id": 10,
+        "start": 38,
+        "end": 45,
+        "text": " I got my first prescription yesterday, but I'm not sure that it's the right thing,"
+      },
+      {
+        "id": 11,
+        "start": 45,
+        "end": 54,
+        "text": " because on the bottle it just says, you know, it's generic for Viagra."
+      },
+      {
+        "id": 12,
+        "start": 54,
+        "end": 58,
+        "text": " Let me take a quick look. The best way to know is, do you have the pills there with you,"
+      },
+      {
+        "id": 13,
+        "start": 58,
+        "end": 60,
+        "text": " like the actual bottle?"
+      },
+      {
+        "id": 14,
+        "start": 60,
+        "end": 64,
+        "text": " I do."
+      },
+      {
+        "id": 15,
+        "start": 64,
+        "end": 69,
+        "text": " Okay. If you can take out one of the pills, you'll see it's smooth on one side,"
+      },
+      {
+        "id": 16,
+        "start": 69,
+        "end": 71,
+        "text": " and on the other side there's an imprint."
+      },
+      {
+        "id": 17,
+        "start": 71,
+        "end": 76,
+        "text": " Can you tell me the imprint, because that will inform me of who the manufacturer is."
+      },
+      {
+        "id": 18,
+        "start": 76,
+        "end": 80,
+        "text": " Okay. It's AC-340."
+      },
+      {
+        "id": 19,
+        "start": 80,
+        "end": 84,
+        "text": " No, that's wrong. Okay, so that's the American AGV."
+      },
+      {
+        "id": 20,
+        "start": 84,
+        "end": 88,
+        "text": " I want to get you the French ones."
+      },
+      {
+        "id": 21,
+        "start": 88,
+        "end": 94,
+        "text": " The correct pill, or the French pill, the French AGV, will have a stamp of 100,"
+      },
+      {
+        "id": 22,
+        "start": 94,
+        "end": 96,
+        "text": " and that's how you know it's the correct one."
+      },
+      {
+        "id": 23,
+        "start": 96,
+        "end": 99,
+        "text": " I didn't think this was the right pill, so what do I do about it?"
+      },
+      {
+        "id": 24,
+        "start": 99,
+        "end": 103,
+        "text": " Yeah. Oh, don't worry. We're going to replace it. We'll replace it for you."
+      },
+      {
+        "id": 25,
+        "start": 103,
+        "end": 108,
+        "text": " We'll have it expedited. At no cost to you, obviously, because you've already been here."
+      },
+      {
+        "id": 26,
+        "start": 108,
+        "end": 111,
+        "text": " Yeah, not the greatest for my very first experience."
+      },
+      {
+        "id": 27,
+        "start": 111,
+        "end": 115,
+        "text": " Yeah, very sorry about that. We'll go ahead and have that shipped out to you."
+      },
+      {
+        "id": 28,
+        "start": 115,
+        "end": 118,
+        "text": " And with that one, you're welcome to try it. It's American-made."
+      },
+      {
+        "id": 29,
+        "start": 118,
+        "end": 122,
+        "text": " If you like it, then keep it. You get double the pills at this point."
+      },
+      {
+        "id": 30,
+        "start": 122,
+        "end": 125,
+        "text": " But otherwise, we're still sending you the AGV."
+      },
+      {
+        "id": 31,
+        "start": 125,
+        "end": 128,
+        "text": " Those are not made in China or India. Those are made in the USA."
+      },
+      {
+        "id": 32,
+        "start": 129,
+        "end": 144,
+        "text": " Okay. So this is not the – let me see. Let's see. Hang on one second."
+      },
+      {
+        "id": 33,
+        "start": 144,
+        "end": 152,
+        "text": " Okay. Let's see."
+      },
+      {
+        "id": 34,
+        "start": 152,
+        "end": 158,
+        "text": " Yeah, it's supposed to be the – what kind of – it's some different Viagra."
+      },
+      {
+        "id": 35,
+        "start": 158,
+        "end": 160,
+        "text": " What's the number or something?"
+      },
+      {
+        "id": 36,
+        "start": 160,
+        "end": 166,
+        "text": " It's the AGV. So the AGV is a new pill. It's made in France. It's FDA-approved."
+      },
+      {
+        "id": 37,
+        "start": 166,
+        "end": 170,
+        "text": " Just bear in mind, though, before I let you go, you know, at first blush,"
+      },
+      {
+        "id": 38,
+        "start": 170,
+        "end": 175,
+        "text": " it might look similar. They're not. Okay? So the stamp on the AGV will have 100."
+      },
+      {
+        "id": 39,
+        "start": 175,
+        "end": 178,
+        "text": " The only other pill that has 100 is the branded blue Viagra."
+      },
+      {
+        "id": 40,
+        "start": 178,
+        "end": 181,
+        "text": " That indicates the manufacturer."
+      },
+      {
+        "id": 41,
+        "start": 181,
+        "end": 184,
+        "text": " Number two, the bottle will actually read AGV on it."
+      },
+      {
+        "id": 42,
+        "start": 184,
+        "end": 188,
+        "text": " And number three, the pharmaceutical located on the side of the bottle"
+      },
+      {
+        "id": 43,
+        "start": 188,
+        "end": 193,
+        "text": " where the label is will read Greenstone. Greenstone is a subsidiary of Pfizer. Okay?"
+      },
+      {
+        "id": 44,
+        "start": 193,
+        "end": 195,
+        "text": " Okay. Got it all."
+      },
+      {
+        "id": 45,
+        "start": 195,
+        "end": 198,
+        "text": " Awesome. Okay. Thank you so much. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-814b-a5f0-d5daa27d3c12",
+    "url": "https://www.notion.so/300000001241124-300000001730644-30511d0a101c814ba5f0d5daa27d3c12"
+  },
+  "processedAt": "2026-02-12T23:01:55.326Z"
+}

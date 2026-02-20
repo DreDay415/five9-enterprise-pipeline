@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001220271-300000001710079-7705968233 by  @ 4_01_07 PM_CallStudio.wav",
+    "size": 24566,
+    "modifyTime": 1769558505000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220271-300000001710079-7705968233 by  @ 4_01_07 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T00:01:45.000Z",
+    "callId": "300000001220271-300000001710079",
+    "phoneNumber": "7705968233",
+    "callTimestamp": "2026-01-28T00:01:45.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: A charge on my credit card.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 4439,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.099999904632568,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.099999904632568,
+        "end": 7.099999904632568,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.099999904632568,
+        "end": 13.5600004196167,
+        "text": " A charge on my credit card."
+      },
+      {
+        "id": 3,
+        "start": 13.5600004196167,
+        "end": 14.760000228881836,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81c1-b572-f14c108a89a1",
+    "url": "https://www.notion.so/300000001220271-300000001710079-2f611d0a101c81c1b572f14c108a89a1"
+  },
+  "processedAt": "2026-01-28T17:47:23.582Z"
+}

@@ -1,0 +1,350 @@
+{
+  "recording": {
+    "name": "300000001217081-300000001707515-9085072741 by johanna@superbalife.com @ 9_03_22 AM.wav",
+    "size": 335786,
+    "modifyTime": 1769590940000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217081-300000001707515-9085072741 by johanna@superbalife.com @ 9_03_22 AM.wav",
+    "uploadDate": "2026-01-28T09:02:20.000Z",
+    "callId": "300000001217081-300000001707515",
+    "agent": "johanna",
+    "phoneNumber": "9085072741",
+    "callTimestamp": "2026-01-28T09:03:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I've been trying to place an order online and I cannot put a life in me figure out how.\n\nSpeaker 2: To do it.\n\nSpeaker 1: I have an account, I was buying your product, you got a new product out, and I can't find\n\nSpeaker 2: it on the site, I can't do anything.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I can assist you, sir, give me just a moment, let me pull up your account.\n\nSpeaker 1: Okay, sir, let's see.\n\nSpeaker 2: Okay, you know what it might be, it's because your current prescription is for the Sildenafil\n\nSpeaker 1: 20 mg, so I think we need to change the prescription.\n\nSpeaker 2: How many mg of the AGVs did you want to do?\n\nSpeaker 1: Hang on.\n\nSpeaker 2: I'm not sure.\n\nSpeaker 1: I didn't know there was a choice on it.\n\nSpeaker 2: Yeah, you could do a quantity of 25 AGV for $99 or a quantity of 40 AGV for $149.\n\nSpeaker 1: All right, the lesser one.\n\nSpeaker 2: Okay, so 25?\n\nSpeaker 1: Yes.\n\nSpeaker 2: And did you want to do, and this will impact the cost, the cost remains the same, but the\n\nSpeaker 1: mg, did you want to do 25 mg, 50 mg, or 100 mg?\n\nSpeaker 2: 25.\n\nSpeaker 1: Wait a minute, what's the second one?\n\nSpeaker 2: 50?\n\nSpeaker 1: The 50.\n\nSpeaker 2: Okay, so we'll do 50 mg.\n\nSpeaker 1: Well, let me ask you, how's it been working with the Sildenafil 20 mg you've been taking?\n\nSpeaker 2: Not good enough.\n\nSpeaker 1: Not good enough?\n\nSpeaker 2: Okay.\n\nSpeaker 1: Right.\n\nSpeaker 2: Yeah, then I would definitely go up to 50 or even 100, but probably best to start with\n\nSpeaker 1: 50 and see how that works.\n\nSpeaker 2: No, I don't want to take a lot, so I can step up, or a little more it is.\n\nSpeaker 1: Understandable, yeah, absolutely.\n\nSpeaker 2: So we'll do 50 mg, quantity of 25, $99.\n\nSpeaker 1: Is the shipping address still 1060RT179?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, and I have, let's see, visa ending in 4684?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, it's going through.\n\nSpeaker 2: All right, so it successfully went through.\n\nSpeaker 1: It is currently at the pharmacy.\n\nSpeaker 2: They'll fulfill that order and ship it out to you, so you'll get it in five days or less.\n\nSpeaker 1: All right, great.\n\nSpeaker 2: All right, thank you for being a VIP status customer, sir, and have a wonderful rest of\n\nSpeaker 1: your day.\n\nSpeaker 2: You too.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye.",
+    "duration": 8428,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 9,
+        "text": " I've been trying to place an order online and I cannot put a life in me figure out how"
+      },
+      {
+        "id": 1,
+        "start": 9,
+        "end": 10,
+        "text": " to do it."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 16,
+        "text": " I have an account, I was buying your product, you got a new product out, and I can't find"
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 19,
+        "text": " it on the site, I can't do anything."
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 20,
+        "text": " Okay."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 28,
+        "text": " I can assist you, sir, give me just a moment, let me pull up your account."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 44,
+        "text": " Okay, sir, let's see."
+      },
+      {
+        "id": 7,
+        "start": 44,
+        "end": 55,
+        "text": " Okay, you know what it might be, it's because your current prescription is for the Sildenafil"
+      },
+      {
+        "id": 8,
+        "start": 55,
+        "end": 58,
+        "text": " 20 mg, so I think we need to change the prescription."
+      },
+      {
+        "id": 9,
+        "start": 58,
+        "end": 62,
+        "text": " How many mg of the AGVs did you want to do?"
+      },
+      {
+        "id": 10,
+        "start": 62,
+        "end": 64,
+        "text": " Hang on."
+      },
+      {
+        "id": 11,
+        "start": 64,
+        "end": 67,
+        "text": " I'm not sure."
+      },
+      {
+        "id": 12,
+        "start": 67,
+        "end": 71,
+        "text": " I didn't know there was a choice on it."
+      },
+      {
+        "id": 13,
+        "start": 71,
+        "end": 79,
+        "text": " Yeah, you could do a quantity of 25 AGV for $99 or a quantity of 40 AGV for $149."
+      },
+      {
+        "id": 14,
+        "start": 79,
+        "end": 82,
+        "text": " All right, the lesser one."
+      },
+      {
+        "id": 15,
+        "start": 82,
+        "end": 84,
+        "text": " Okay, so 25?"
+      },
+      {
+        "id": 16,
+        "start": 84,
+        "end": 85,
+        "text": " Yes."
+      },
+      {
+        "id": 17,
+        "start": 85,
+        "end": 90,
+        "text": " And did you want to do, and this will impact the cost, the cost remains the same, but the"
+      },
+      {
+        "id": 18,
+        "start": 90,
+        "end": 95,
+        "text": " mg, did you want to do 25 mg, 50 mg, or 100 mg?"
+      },
+      {
+        "id": 19,
+        "start": 95,
+        "end": 96,
+        "text": " 25."
+      },
+      {
+        "id": 20,
+        "start": 96,
+        "end": 100,
+        "text": " Wait a minute, what's the second one?"
+      },
+      {
+        "id": 21,
+        "start": 100,
+        "end": 101,
+        "text": " 50?"
+      },
+      {
+        "id": 22,
+        "start": 101,
+        "end": 102,
+        "text": " The 50."
+      },
+      {
+        "id": 23,
+        "start": 102,
+        "end": 105,
+        "text": " Okay, so we'll do 50 mg."
+      },
+      {
+        "id": 24,
+        "start": 105,
+        "end": 113,
+        "text": " Well, let me ask you, how's it been working with the Sildenafil 20 mg you've been taking?"
+      },
+      {
+        "id": 25,
+        "start": 113,
+        "end": 114,
+        "text": " Not good enough."
+      },
+      {
+        "id": 26,
+        "start": 114,
+        "end": 115,
+        "text": " Not good enough?"
+      },
+      {
+        "id": 27,
+        "start": 115,
+        "end": 116,
+        "text": " Okay."
+      },
+      {
+        "id": 28,
+        "start": 116,
+        "end": 117,
+        "text": " Right."
+      },
+      {
+        "id": 29,
+        "start": 117,
+        "end": 124,
+        "text": " Yeah, then I would definitely go up to 50 or even 100, but probably best to start with"
+      },
+      {
+        "id": 30,
+        "start": 124,
+        "end": 126,
+        "text": " 50 and see how that works."
+      },
+      {
+        "id": 31,
+        "start": 126,
+        "end": 132,
+        "text": " No, I don't want to take a lot, so I can step up, or a little more it is."
+      },
+      {
+        "id": 32,
+        "start": 132,
+        "end": 134,
+        "text": " Understandable, yeah, absolutely."
+      },
+      {
+        "id": 33,
+        "start": 134,
+        "end": 139,
+        "text": " So we'll do 50 mg, quantity of 25, $99."
+      },
+      {
+        "id": 34,
+        "start": 139,
+        "end": 145,
+        "text": " Is the shipping address still 1060RT179?"
+      },
+      {
+        "id": 35,
+        "start": 145,
+        "end": 146,
+        "text": " Yes."
+      },
+      {
+        "id": 36,
+        "start": 146,
+        "end": 154,
+        "text": " Okay, and I have, let's see, visa ending in 4684?"
+      },
+      {
+        "id": 37,
+        "start": 154,
+        "end": 155,
+        "text": " Yes."
+      },
+      {
+        "id": 38,
+        "start": 170,
+        "end": 179,
+        "text": " Okay, it's going through."
+      },
+      {
+        "id": 39,
+        "start": 179,
+        "end": 182,
+        "text": " All right, so it successfully went through."
+      },
+      {
+        "id": 40,
+        "start": 182,
+        "end": 184,
+        "text": " It is currently at the pharmacy."
+      },
+      {
+        "id": 41,
+        "start": 184,
+        "end": 189,
+        "text": " They'll fulfill that order and ship it out to you, so you'll get it in five days or less."
+      },
+      {
+        "id": 42,
+        "start": 189,
+        "end": 190,
+        "text": " All right, great."
+      },
+      {
+        "id": 43,
+        "start": 190,
+        "end": 195,
+        "text": " All right, thank you for being a VIP status customer, sir, and have a wonderful rest of"
+      },
+      {
+        "id": 44,
+        "start": 195,
+        "end": 196,
+        "text": " your day."
+      },
+      {
+        "id": 45,
+        "start": 196,
+        "end": 197,
+        "text": " You too."
+      },
+      {
+        "id": 46,
+        "start": 197,
+        "end": 198,
+        "text": " Thank you."
+      },
+      {
+        "id": 47,
+        "start": 198,
+        "end": 199,
+        "text": " Bye."
+      },
+      {
+        "id": 48,
+        "start": 199,
+        "end": 200,
+        "text": " Bye."
+      },
+      {
+        "id": 49,
+        "start": 200,
+        "end": 201,
+        "text": " Bye."
+      },
+      {
+        "id": 50,
+        "start": 201,
+        "end": 202,
+        "text": " Bye."
+      },
+      {
+        "id": 51,
+        "start": 202,
+        "end": 203,
+        "text": " Bye."
+      },
+      {
+        "id": 52,
+        "start": 203,
+        "end": 204,
+        "text": " Bye."
+      },
+      {
+        "id": 53,
+        "start": 204,
+        "end": 204,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ab-9abd-ccd241f58e74",
+    "url": "https://www.notion.so/300000001217081-300000001707515-2f611d0a101c81ab9abdccd241f58e74"
+  },
+  "processedAt": "2026-01-28T11:53:12.290Z"
+}

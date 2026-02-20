@@ -1,0 +1,416 @@
+{
+  "recording": {
+    "name": "300000001220825-300000001710860-9549732741 by charles@superbalife.com @ 9_59_37 AM.wav",
+    "size": 217096,
+    "modifyTime": 1769623332000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220825-300000001710860-9549732741 by charles@superbalife.com @ 9_59_37 AM.wav",
+    "uploadDate": "2026-01-28T18:02:12.000Z",
+    "callId": "300000001220825-300000001710860",
+    "agent": "charles",
+    "phoneNumber": "9549732741",
+    "callTimestamp": "2026-01-28T09:59:37.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, this is Charles.\n\nSpeaker 2: Yeah, Charles, this is Dale Updike.\n\nSpeaker 1: I was wanting to reorder if I could.\n\nSpeaker 2: Sure, can I get your zip code, please?\n\nSpeaker 1: 33067.\n\nSpeaker 2: And your date of birth?\n\nSpeaker 1: 7-23-51.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Dale in Parkland, Florida.\n\nSpeaker 2: That's me.\n\nSpeaker 1: All right.\n\nSpeaker 2: Okay, and Viagra A, G, B, 100 milligram.\n\nSpeaker 1: You want another 40 of them,\n\nSpeaker 2: or do you want to go 25 or 10?\n\nSpeaker 1: No, the 40's good.\n\nSpeaker 2: I've been hearing your ad, though.\n\nSpeaker 1: I hear you make a stronger Viagra now.\n\nSpeaker 2: Is that true or not?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: No, it actually looks like you're already getting that,\n\nSpeaker 1: so how are you liking it?\n\nSpeaker 2: It seems to be fine.\n\nSpeaker 1: I just thought there was something stronger.\n\nSpeaker 2: You always want something a little better,\n\nSpeaker 1: but that's fine.\n\nSpeaker 2: I have no problems with it.\n\nSpeaker 1: Yeah, the 40 would be great, okay?\n\nSpeaker 2: Solid deal.\n\nSpeaker 1: Okay, one second.\n\nSpeaker 2: We're still charging on the Visa card.\n\nSpeaker 1: Did it get 94-19?\n\nSpeaker 2: We have to look at that,\n\nSpeaker 1: because I had to change some card numbers.\n\nSpeaker 2: Hold on.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I have 94-19.\n\nSpeaker 1: That expires on 11-30.\n\nSpeaker 2: Yeah, that's a good card, okay?\n\nSpeaker 1: That's a good card, okay.\n\nSpeaker 2: Perfect, boom.\n\nSpeaker 1: 100 milligram, 40 count.\n\nSpeaker 2: Boom, boom, perfect.\n\nSpeaker 1: And, oh, we do need another.\n\nSpeaker 2: Come on.\n\nSpeaker 1: Take your time, Charles.\n\nSpeaker 2: There you go.\n\nSpeaker 1: Yeah, spinning wheels, being a little princess right now.\n\nSpeaker 2: There we go, okay.\n\nSpeaker 1: All right, Dale, everything did go through.\n\nSpeaker 2: Your last prescription did expire,\n\nSpeaker 1: so it's gonna take about a day to rewrite a new one,\n\nSpeaker 2: but no need to worry.\n\nSpeaker 1: That'll be completely quicker than ever.\n\nSpeaker 2: And then, you're in Florida.\n\nSpeaker 1: Weather should be pretty good traveling down there.\n\nSpeaker 2: I'd expect everything maybe by Monday or Tuesday, okay?\n\nSpeaker 1: There's no rush.\n\nSpeaker 2: I got some left.\n\nSpeaker 1: I'll be fine.\n\nSpeaker 2: That sounds good.\n\nSpeaker 1: Okay, all right, Dale.\n\nSpeaker 2: Give us a holler if you need them again.\n\nSpeaker 1: Hope you have a great day.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 7788,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.200000047683716,
+        "text": " Thanks for calling Viagra, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 2.200000047683716,
+        "end": 4.360000133514404,
+        "text": " Yeah, Charles, this is Dale Updike."
+      },
+      {
+        "id": 2,
+        "start": 4.360000133514404,
+        "end": 7.480000019073486,
+        "text": " I was wanting to reorder if I could."
+      },
+      {
+        "id": 3,
+        "start": 7.480000019073486,
+        "end": 10.680000305175781,
+        "text": " Sure, can I get your zip code, please?"
+      },
+      {
+        "id": 4,
+        "start": 10.680000305175781,
+        "end": 13.239999771118164,
+        "text": " 33067."
+      },
+      {
+        "id": 5,
+        "start": 13.239999771118164,
+        "end": 15.199999809265137,
+        "text": " And your date of birth?"
+      },
+      {
+        "id": 6,
+        "start": 15.199999809265137,
+        "end": 17.15999984741211,
+        "text": " 7-23-51."
+      },
+      {
+        "id": 7,
+        "start": 20.479999542236328,
+        "end": 21.31999969482422,
+        "text": " Okay."
+      },
+      {
+        "id": 8,
+        "start": 22.959999084472656,
+        "end": 25.280000686645508,
+        "text": " Dale in Parkland, Florida."
+      },
+      {
+        "id": 9,
+        "start": 25.280000686645508,
+        "end": 26.479999542236328,
+        "text": " That's me."
+      },
+      {
+        "id": 10,
+        "start": 26.479999542236328,
+        "end": 27.31999969482422,
+        "text": " All right."
+      },
+      {
+        "id": 11,
+        "start": 28.280000686645508,
+        "end": 31.1200008392334,
+        "text": " Okay, and Viagra A, G, B, 100 milligram."
+      },
+      {
+        "id": 12,
+        "start": 31.1200008392334,
+        "end": 32.439998626708984,
+        "text": " You want another 40 of them,"
+      },
+      {
+        "id": 13,
+        "start": 32.439998626708984,
+        "end": 35.63999938964844,
+        "text": " or do you want to go 25 or 10?"
+      },
+      {
+        "id": 14,
+        "start": 35.63999938964844,
+        "end": 36.91999816894531,
+        "text": " No, the 40's good."
+      },
+      {
+        "id": 15,
+        "start": 36.91999816894531,
+        "end": 38.68000030517578,
+        "text": " I've been hearing your ad, though."
+      },
+      {
+        "id": 16,
+        "start": 40,
+        "end": 42.400001525878906,
+        "text": " I hear you make a stronger Viagra now."
+      },
+      {
+        "id": 17,
+        "start": 42.400001525878906,
+        "end": 43.63999938964844,
+        "text": " Is that true or not?"
+      },
+      {
+        "id": 18,
+        "start": 44.560001373291016,
+        "end": 45.91999816894531,
+        "text": " Yeah."
+      },
+      {
+        "id": 19,
+        "start": 45.91999816894531,
+        "end": 48.08000183105469,
+        "text": " No, it actually looks like you're already getting that,"
+      },
+      {
+        "id": 20,
+        "start": 48.08000183105469,
+        "end": 49.84000015258789,
+        "text": " so how are you liking it?"
+      },
+      {
+        "id": 21,
+        "start": 49.84000015258789,
+        "end": 51,
+        "text": " It seems to be fine."
+      },
+      {
+        "id": 22,
+        "start": 51,
+        "end": 52.400001525878906,
+        "text": " I just thought there was something stronger."
+      },
+      {
+        "id": 23,
+        "start": 52.400001525878906,
+        "end": 54.08000183105469,
+        "text": " You always want something a little better,"
+      },
+      {
+        "id": 24,
+        "start": 54.08000183105469,
+        "end": 55.7599983215332,
+        "text": " but that's fine."
+      },
+      {
+        "id": 25,
+        "start": 55.7599983215332,
+        "end": 56.79999923706055,
+        "text": " I have no problems with it."
+      },
+      {
+        "id": 26,
+        "start": 57.20000076293945,
+        "end": 59.20000076293945,
+        "text": " Yeah, the 40 would be great, okay?"
+      },
+      {
+        "id": 27,
+        "start": 59.20000076293945,
+        "end": 60.040000915527344,
+        "text": " Solid deal."
+      },
+      {
+        "id": 28,
+        "start": 60.040000915527344,
+        "end": 60.880001068115234,
+        "text": " Okay, one second."
+      },
+      {
+        "id": 29,
+        "start": 60.880001068115234,
+        "end": 62.52000045776367,
+        "text": " We're still charging on the Visa card."
+      },
+      {
+        "id": 30,
+        "start": 62.52000045776367,
+        "end": 64.55999755859375,
+        "text": " Did it get 94-19?"
+      },
+      {
+        "id": 31,
+        "start": 64.55999755859375,
+        "end": 65.72000122070312,
+        "text": " We have to look at that,"
+      },
+      {
+        "id": 32,
+        "start": 65.72000122070312,
+        "end": 67.5199966430664,
+        "text": " because I had to change some card numbers."
+      },
+      {
+        "id": 33,
+        "start": 67.5199966430664,
+        "end": 68.36000061035156,
+        "text": " Hold on."
+      },
+      {
+        "id": 34,
+        "start": 68.36000061035156,
+        "end": 69.19999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 35,
+        "start": 69.19999694824219,
+        "end": 70.4800033569336,
+        "text": " I have 94-19."
+      },
+      {
+        "id": 36,
+        "start": 70.4800033569336,
+        "end": 72.5999984741211,
+        "text": " That expires on 11-30."
+      },
+      {
+        "id": 37,
+        "start": 72.5999984741211,
+        "end": 74.31999969482422,
+        "text": " Yeah, that's a good card, okay?"
+      },
+      {
+        "id": 38,
+        "start": 74.31999969482422,
+        "end": 75.27999877929688,
+        "text": " That's a good card, okay."
+      },
+      {
+        "id": 39,
+        "start": 75.27999877929688,
+        "end": 76.27999877929688,
+        "text": " Perfect, boom."
+      },
+      {
+        "id": 40,
+        "start": 76.27999877929688,
+        "end": 78.19999694824219,
+        "text": " 100 milligram, 40 count."
+      },
+      {
+        "id": 41,
+        "start": 78.19999694824219,
+        "end": 79.95999908447266,
+        "text": " Boom, boom, perfect."
+      },
+      {
+        "id": 42,
+        "start": 80.87999725341797,
+        "end": 85.63999938964844,
+        "text": " And, oh, we do need another."
+      },
+      {
+        "id": 43,
+        "start": 86.80000305175781,
+        "end": 91.80000305175781,
+        "text": " Come on."
+      },
+      {
+        "id": 44,
+        "start": 93.68000030517578,
+        "end": 94.91999816894531,
+        "text": " Take your time, Charles."
+      },
+      {
+        "id": 45,
+        "start": 94.91999816894531,
+        "end": 95.76000213623047,
+        "text": " There you go."
+      },
+      {
+        "id": 46,
+        "start": 95.76000213623047,
+        "end": 99.16000366210938,
+        "text": " Yeah, spinning wheels, being a little princess right now."
+      },
+      {
+        "id": 47,
+        "start": 99.16000366210938,
+        "end": 100.44000244140625,
+        "text": " There we go, okay."
+      },
+      {
+        "id": 48,
+        "start": 101.4000015258789,
+        "end": 103.63999938964844,
+        "text": " All right, Dale, everything did go through."
+      },
+      {
+        "id": 49,
+        "start": 103.63999938964844,
+        "end": 106.76000213623047,
+        "text": " Your last prescription did expire,"
+      },
+      {
+        "id": 50,
+        "start": 106.76000213623047,
+        "end": 108.80000305175781,
+        "text": " so it's gonna take about a day to rewrite a new one,"
+      },
+      {
+        "id": 51,
+        "start": 108.80000305175781,
+        "end": 109.68000030517578,
+        "text": " but no need to worry."
+      },
+      {
+        "id": 52,
+        "start": 109.68000030517578,
+        "end": 113.12000274658203,
+        "text": " That'll be completely quicker than ever."
+      },
+      {
+        "id": 53,
+        "start": 114.68000030517578,
+        "end": 116.27999877929688,
+        "text": " And then, you're in Florida."
+      },
+      {
+        "id": 54,
+        "start": 116.68000030517578,
+        "end": 119.12000274658203,
+        "text": " Weather should be pretty good traveling down there."
+      },
+      {
+        "id": 55,
+        "start": 119.12000274658203,
+        "end": 122.08000183105469,
+        "text": " I'd expect everything maybe by Monday or Tuesday, okay?"
+      },
+      {
+        "id": 56,
+        "start": 122.08000183105469,
+        "end": 122.91999816894531,
+        "text": " There's no rush."
+      },
+      {
+        "id": 57,
+        "start": 122.91999816894531,
+        "end": 124.36000061035156,
+        "text": " I got some left."
+      },
+      {
+        "id": 58,
+        "start": 124.36000061035156,
+        "end": 125.19999694824219,
+        "text": " I'll be fine."
+      },
+      {
+        "id": 59,
+        "start": 125.19999694824219,
+        "end": 126.08000183105469,
+        "text": " That sounds good."
+      },
+      {
+        "id": 60,
+        "start": 126.08000183105469,
+        "end": 127.4800033569336,
+        "text": " Okay, all right, Dale."
+      },
+      {
+        "id": 61,
+        "start": 127.4800033569336,
+        "end": 128.9600067138672,
+        "text": " Give us a holler if you need them again."
+      },
+      {
+        "id": 62,
+        "start": 128.9600067138672,
+        "end": 130.67999267578125,
+        "text": " Hope you have a great day."
+      },
+      {
+        "id": 63,
+        "start": 130.67999267578125,
+        "end": 131.63999938964844,
+        "text": " Bye."
+      },
+      {
+        "id": 64,
+        "start": 131.63999938964844,
+        "end": 132.47999572753906,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ca-8ad2-d41e50cc2f98",
+    "url": "https://www.notion.so/300000001220825-300000001710860-2f611d0a101c81ca8ad2d41e50cc2f98"
+  },
+  "processedAt": "2026-01-28T18:11:06.228Z"
+}

@@ -1,0 +1,374 @@
+{
+  "recording": {
+    "name": "300000001221865-300000001711527-5135326709 by jessie@superbalife.com @ 3_35_32 PM.wav",
+    "size": 420350,
+    "modifyTime": 1769643607000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221865-300000001711527-5135326709 by jessie@superbalife.com @ 3_35_32 PM.wav",
+    "uploadDate": "2026-01-28T23:40:07.000Z",
+    "callId": "300000001221865-300000001711527",
+    "agent": "jessie",
+    "phoneNumber": "5135326709",
+    "callTimestamp": "2026-01-28T15:35:32.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra, my name is Jessie, can I please get your first\n\nSpeaker 2: and last name?\n\nSpeaker 1: Oh, that didn't come up with my phone number?\n\nSpeaker 2: I'm sorry?\n\nSpeaker 1: That didn't come up with my phone number?\n\nSpeaker 2: I need to verify your name first so I know, I have your information here, what is your\n\nSpeaker 1: name?\n\nSpeaker 2: John Leyendecker.\n\nSpeaker 1: Okay, thank you Mr. Leyendecker, and can you please verify your zip code?\n\nSpeaker 2: 47001.\n\nSpeaker 1: Thank you, and do you still receive your mail at 5787 Jandell Drive in Aurora, Indiana?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Okay, perfect, what can I help you with?\n\nSpeaker 2: I just want to reorder the AGV.\n\nSpeaker 1: Alright, perfect, let's see here, and did you want to get another 10 pills or would\n\nSpeaker 2: you like to do more?\n\nSpeaker 1: The 10 is fine.\n\nSpeaker 2: Okay, same price as last time, that's $63.95 all in, and one moment, that's for 100 milligrams,\n\nSpeaker 1: and we have a MasterCard on file that ends in 2427, should we use the same card?\n\nSpeaker 2: Same card, that usually takes like 10 days or something to get to me, doesn't it?\n\nSpeaker 1: No, it shouldn't take that long to get to you.\n\nSpeaker 2: Yeah, because the distribution center is like 20 minutes away from me, right over in Florence,\n\nSpeaker 1: Kentucky.\n\nSpeaker 2: Then it shouldn't take that long to get to you then.\n\nSpeaker 1: No, that's just what they told me, you know, five months ago when I ordered it, but.\n\nSpeaker 2: I'm sorry, did you want to continue, or did you want to add express shipping, or what\n\nSpeaker 1: would you like to do?\n\nSpeaker 2: How long would it take to get to me, just regular shipping then?\n\nSpeaker 1: With regular shipping, if it were to ship out tomorrow, I would say barring inclement\n\nSpeaker 2: weather, right?\n\nSpeaker 1: I mean, you know, if you don't get hit by a snowstorm like everyone else, I'd say probably\n\nSpeaker 2: by Tuesday or Wednesday.\n\nSpeaker 1: Okay, yeah, what are your shipping options, though?\n\nSpeaker 2: USPS priority, that's two to three business days, that's $15.\n\nSpeaker 1: FedEx two day, which would arrive on Monday, if it were to ship out tomorrow, that's $28.\n\nSpeaker 2: FedEx overnight to arrive on Friday would be $38.\n\nSpeaker 1: All right, let's just, we'll just stick with the regular shipping, how's that?\n\nSpeaker 2: Sure, yeah, totally fine by me.\n\nSpeaker 1: All right, so it's $63.95 all in?\n\nSpeaker 2: It's, I mean, you know, totally up to you.\n\nSpeaker 1: There's a MasterCard on file that ends in 2427, is that the card we should use?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay, one moment please, I need to update this, it's already expired.\n\nSpeaker 2: One moment.\n\nSpeaker 1: What is the new expiration date?\n\nSpeaker 2: 11-29.\n\nSpeaker 1: And the new security code?\n\nSpeaker 2: 097.\n\nSpeaker 1: Okay, just a moment.\n\nSpeaker 2: Okay.\n\nSpeaker 1: 097.\n\nSpeaker 2: Okay, and that will be $63.95 and you're all set.\n\nSpeaker 1: Is there anything else I can help you with?\n\nSpeaker 2: Who's bringing it, is that UPS?\n\nSpeaker 1: US Postal Service, correct.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, have a great evening.\n\nSpeaker 2: All right, thank you.",
+    "duration": 9347,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7.679999828338623,
+        "text": " Hi, thank you so much for calling Viagra, my name is Jessie, can I please get your first"
+      },
+      {
+        "id": 1,
+        "start": 7.679999828338623,
+        "end": 8.680000305175781,
+        "text": " and last name?"
+      },
+      {
+        "id": 2,
+        "start": 8.680000305175781,
+        "end": 14.760000228881836,
+        "text": " Oh, that didn't come up with my phone number?"
+      },
+      {
+        "id": 3,
+        "start": 14.760000228881836,
+        "end": 15.760000228881836,
+        "text": " I'm sorry?"
+      },
+      {
+        "id": 4,
+        "start": 15.760000228881836,
+        "end": 18.639999389648438,
+        "text": " That didn't come up with my phone number?"
+      },
+      {
+        "id": 5,
+        "start": 18.639999389648438,
+        "end": 23.600000381469727,
+        "text": " I need to verify your name first so I know, I have your information here, what is your"
+      },
+      {
+        "id": 6,
+        "start": 23.600000381469727,
+        "end": 24.600000381469727,
+        "text": " name?"
+      },
+      {
+        "id": 7,
+        "start": 24.600000381469727,
+        "end": 25.600000381469727,
+        "text": " John Leyendecker."
+      },
+      {
+        "id": 8,
+        "start": 25.600000381469727,
+        "end": 32.2400016784668,
+        "text": " Okay, thank you Mr. Leyendecker, and can you please verify your zip code?"
+      },
+      {
+        "id": 9,
+        "start": 32.2400016784668,
+        "end": 35.040000915527344,
+        "text": " 47001."
+      },
+      {
+        "id": 10,
+        "start": 35.040000915527344,
+        "end": 40.439998626708984,
+        "text": " Thank you, and do you still receive your mail at 5787 Jandell Drive in Aurora, Indiana?"
+      },
+      {
+        "id": 11,
+        "start": 40.439998626708984,
+        "end": 41.439998626708984,
+        "text": " Correct."
+      },
+      {
+        "id": 12,
+        "start": 41.439998626708984,
+        "end": 43.439998626708984,
+        "text": " Okay, perfect, what can I help you with?"
+      },
+      {
+        "id": 13,
+        "start": 43.439998626708984,
+        "end": 47.15999984741211,
+        "text": " I just want to reorder the AGV."
+      },
+      {
+        "id": 14,
+        "start": 47.15999984741211,
+        "end": 52.36000061035156,
+        "text": " Alright, perfect, let's see here, and did you want to get another 10 pills or would"
+      },
+      {
+        "id": 15,
+        "start": 52.36000061035156,
+        "end": 54.36000061035156,
+        "text": " you like to do more?"
+      },
+      {
+        "id": 16,
+        "start": 55.119998931884766,
+        "end": 57.119998931884766,
+        "text": " The 10 is fine."
+      },
+      {
+        "id": 17,
+        "start": 57.119998931884766,
+        "end": 71.19999694824219,
+        "text": " Okay, same price as last time, that's $63.95 all in, and one moment, that's for 100 milligrams,"
+      },
+      {
+        "id": 18,
+        "start": 71.19999694824219,
+        "end": 75.31999969482422,
+        "text": " and we have a MasterCard on file that ends in 2427, should we use the same card?"
+      },
+      {
+        "id": 19,
+        "start": 75.31999969482422,
+        "end": 81.87999725341797,
+        "text": " Same card, that usually takes like 10 days or something to get to me, doesn't it?"
+      },
+      {
+        "id": 20,
+        "start": 81.87999725341797,
+        "end": 85.23999786376953,
+        "text": " No, it shouldn't take that long to get to you."
+      },
+      {
+        "id": 21,
+        "start": 85.23999786376953,
+        "end": 93.5199966430664,
+        "text": " Yeah, because the distribution center is like 20 minutes away from me, right over in Florence,"
+      },
+      {
+        "id": 22,
+        "start": 93.5199966430664,
+        "end": 94.95999908447266,
+        "text": " Kentucky."
+      },
+      {
+        "id": 23,
+        "start": 94.95999908447266,
+        "end": 97.12000274658203,
+        "text": " Then it shouldn't take that long to get to you then."
+      },
+      {
+        "id": 24,
+        "start": 97.12000274658203,
+        "end": 107.44000244140625,
+        "text": " No, that's just what they told me, you know, five months ago when I ordered it, but."
+      },
+      {
+        "id": 25,
+        "start": 107.44000244140625,
+        "end": 110.68000030517578,
+        "text": " I'm sorry, did you want to continue, or did you want to add express shipping, or what"
+      },
+      {
+        "id": 26,
+        "start": 110.68000030517578,
+        "end": 113.63999938964844,
+        "text": " would you like to do?"
+      },
+      {
+        "id": 27,
+        "start": 113.63999938964844,
+        "end": 117.31999969482422,
+        "text": " How long would it take to get to me, just regular shipping then?"
+      },
+      {
+        "id": 28,
+        "start": 117.31999969482422,
+        "end": 123.68000030517578,
+        "text": " With regular shipping, if it were to ship out tomorrow, I would say barring inclement"
+      },
+      {
+        "id": 29,
+        "start": 123.68000030517578,
+        "end": 124.68000030517578,
+        "text": " weather, right?"
+      },
+      {
+        "id": 30,
+        "start": 124.68000030517578,
+        "end": 130.75999450683594,
+        "text": " I mean, you know, if you don't get hit by a snowstorm like everyone else, I'd say probably"
+      },
+      {
+        "id": 31,
+        "start": 130.75999450683594,
+        "end": 136.67999267578125,
+        "text": " by Tuesday or Wednesday."
+      },
+      {
+        "id": 32,
+        "start": 137.67999267578125,
+        "end": 143.67999267578125,
+        "text": " Okay, yeah, what are your shipping options, though?"
+      },
+      {
+        "id": 33,
+        "start": 143.67999267578125,
+        "end": 149.67999267578125,
+        "text": " USPS priority, that's two to three business days, that's $15."
+      },
+      {
+        "id": 34,
+        "start": 149.67999267578125,
+        "end": 159.67999267578125,
+        "text": " FedEx two day, which would arrive on Monday, if it were to ship out tomorrow, that's $28."
+      },
+      {
+        "id": 35,
+        "start": 159.67999267578125,
+        "end": 165.67999267578125,
+        "text": " FedEx overnight to arrive on Friday would be $38."
+      },
+      {
+        "id": 36,
+        "start": 166.67999267578125,
+        "end": 171.67999267578125,
+        "text": " All right, let's just, we'll just stick with the regular shipping, how's that?"
+      },
+      {
+        "id": 37,
+        "start": 171.67999267578125,
+        "end": 173.67999267578125,
+        "text": " Sure, yeah, totally fine by me."
+      },
+      {
+        "id": 38,
+        "start": 173.67999267578125,
+        "end": 176.67999267578125,
+        "text": " All right, so it's $63.95 all in?"
+      },
+      {
+        "id": 39,
+        "start": 176.67999267578125,
+        "end": 179.67999267578125,
+        "text": " It's, I mean, you know, totally up to you."
+      },
+      {
+        "id": 40,
+        "start": 179.67999267578125,
+        "end": 184.67999267578125,
+        "text": " There's a master card on file that ends in 2427, is that the card we should use?"
+      },
+      {
+        "id": 41,
+        "start": 184.67999267578125,
+        "end": 185.67999267578125,
+        "text": " Yeah."
+      },
+      {
+        "id": 42,
+        "start": 185.67999267578125,
+        "end": 189.67999267578125,
+        "text": " Okay, one moment please, I need to update this, it's already expired."
+      },
+      {
+        "id": 43,
+        "start": 189.67999267578125,
+        "end": 191.67999267578125,
+        "text": " One moment."
+      },
+      {
+        "id": 44,
+        "start": 192.67999267578125,
+        "end": 196.67999267578125,
+        "text": " What is the new expiration date?"
+      },
+      {
+        "id": 45,
+        "start": 196.67999267578125,
+        "end": 198.67999267578125,
+        "text": " 11-29."
+      },
+      {
+        "id": 46,
+        "start": 198.67999267578125,
+        "end": 201.67999267578125,
+        "text": " And the new security code?"
+      },
+      {
+        "id": 47,
+        "start": 201.67999267578125,
+        "end": 203.67999267578125,
+        "text": " 097."
+      },
+      {
+        "id": 48,
+        "start": 203.67999267578125,
+        "end": 205.67999267578125,
+        "text": " Okay, just a moment."
+      },
+      {
+        "id": 49,
+        "start": 205.67999267578125,
+        "end": 221.67999267578125,
+        "text": " Okay."
+      },
+      {
+        "id": 50,
+        "start": 221.67999267578125,
+        "end": 233.67999267578125,
+        "text": " 097."
+      },
+      {
+        "id": 51,
+        "start": 233.67999267578125,
+        "end": 238.67999267578125,
+        "text": " Okay, and that will be $63.95 and you're all set."
+      },
+      {
+        "id": 52,
+        "start": 238.67999267578125,
+        "end": 240.67999267578125,
+        "text": " Is there anything else I can help you with?"
+      },
+      {
+        "id": 53,
+        "start": 240.67999267578125,
+        "end": 243.67999267578125,
+        "text": " Who's bringing it, is that UPS?"
+      },
+      {
+        "id": 54,
+        "start": 243.67999267578125,
+        "end": 245.67999267578125,
+        "text": " US Postal Service, correct."
+      },
+      {
+        "id": 55,
+        "start": 245.67999267578125,
+        "end": 247.67999267578125,
+        "text": " Okay."
+      },
+      {
+        "id": 56,
+        "start": 247.67999267578125,
+        "end": 249.67999267578125,
+        "text": " All right, have a great evening."
+      },
+      {
+        "id": 57,
+        "start": 249.67999267578125,
+        "end": 250.67999267578125,
+        "text": " All right, thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8126-a360-c2a3f11d776e",
+    "url": "https://www.notion.so/300000001221865-300000001711527-2f711d0a101c8126a360c2a3f11d776e"
+  },
+  "processedAt": "2026-01-29T10:20:33.208Z"
+}

@@ -1,0 +1,104 @@
+{
+  "recording": {
+    "name": "300000001217507-300000001707814-5828221526 by jimmy@superbalife.com @ 10_36_30 AM.wav",
+    "size": 92946,
+    "modifyTime": 1769582833000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217507-300000001707814-5828221526 by jimmy@superbalife.com @ 10_36_30 AM.wav",
+    "uploadDate": "2026-01-28T06:47:13.000Z",
+    "callId": "300000001217507-300000001707814",
+    "agent": "jimmy",
+    "phoneNumber": "5828221526",
+    "callTimestamp": "2026-01-28T10:36:30.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hello, Dennis. This is Jimmy from Viagra, School of Blue.\n\nSpeaker 2: And I know you hung up, but I didn't get a chance to explain to you the options of what we're going to do.\n\nSpeaker 1: We're going to go ahead and, like I said, again, your ownership hasn't been canceled.\n\nSpeaker 2: You will not get any more, and they're also refunding you the charge that just occurred.\n\nSpeaker 1: Like I said, again, other than your yelling, I could explain that to you, but you decided to yell and hang up.\n\nSpeaker 2: If you have any questions, it's been taken care of.\n\nSpeaker 1: You can take a look at your account, your credit card account, within the next three or four days.\n\nSpeaker 2: You should see the credit. Thank you very much, and you have a wonderful day. Bye-bye.",
+    "duration": 3094,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " You have reached Dennis Garlock's voicemail. I'm either on another call or I'm away from my phone."
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 12,
+        "text": " Please leave a message and I will get back to you. Thank you. Bye."
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 15,
+        "text": " At the tone, please record your message."
+      },
+      {
+        "id": 3,
+        "start": 15,
+        "end": 20,
+        "text": " When you've finished recording, you may hang up or press 1 for more options."
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 23,
+        "text": " Hello, Dennis. This is Jimmy from Viagra, School of Blue."
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 27,
+        "text": " And I know you hung up, but I didn't get a chance to explain to you the options of what we're going to do."
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 31,
+        "text": " We're going to go ahead and, like I said, again, your ownership hasn't been canceled."
+      },
+      {
+        "id": 7,
+        "start": 31,
+        "end": 35,
+        "text": " You will not get any more, and they're also refunding you the charge that just occurred."
+      },
+      {
+        "id": 8,
+        "start": 35,
+        "end": 41,
+        "text": " Like I said, again, other than your yelling, I could explain that to you, but you decided to yell and hang up."
+      },
+      {
+        "id": 9,
+        "start": 41,
+        "end": 43,
+        "text": " If you have any questions, it's been taken care of."
+      },
+      {
+        "id": 10,
+        "start": 43,
+        "end": 50,
+        "text": " You can take a look at your account, your credit card account, within the next three or four days."
+      },
+      {
+        "id": 11,
+        "start": 50,
+        "end": 54,
+        "text": " You should see the credit. Thank you very much, and you have a wonderful day. Bye-bye."
+      },
+      {
+        "id": 12,
+        "start": 57,
+        "end": 61,
+        "text": " For more information, visit www.FEMA.gov"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8110-94fe-e71ea1b2d519",
+    "url": "https://www.notion.so/300000001217507-300000001707814-2f611d0a101c811094fee71ea1b2d519"
+  },
+  "processedAt": "2026-01-28T16:57:16.686Z"
+}

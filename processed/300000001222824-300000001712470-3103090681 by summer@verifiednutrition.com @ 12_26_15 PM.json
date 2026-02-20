@@ -1,0 +1,158 @@
+{
+  "recording": {
+    "name": "300000001222824-300000001712470-3103090681 by summer@verifiednutrition.com @ 12_26_15 PM.wav",
+    "size": 94310,
+    "modifyTime": 1769718455000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222824-300000001712470-3103090681 by summer@verifiednutrition.com @ 12_26_15 PM.wav",
+    "uploadDate": "2026-01-29T20:27:35.000Z",
+    "callId": "300000001222824-300000001712470",
+    "agent": "summer",
+    "phoneNumber": "3103090681",
+    "callTimestamp": "2026-01-29T12:26:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service.\n\nSpeaker 2: I can help you.\n\nSpeaker 1: Yes. I just have a question.\n\nSpeaker 2: I'm just looking at my account.\n\nSpeaker 1: I'm just trying to make sure that I don't get another automatic refill next month.\n\nSpeaker 2: I just want to stop that.\n\nSpeaker 1: I don't even know if it's on.\n\nSpeaker 2: Okay. Let me pull it up so I can see.\n\nSpeaker 1: What's your name and birthday?\n\nSpeaker 2: Birthday is May 5th, 1966.\n\nSpeaker 1: May is Christopher Soja, S-O-J-A.\n\nSpeaker 2: No. The gentleman you spoke with on the 20th, he paused it, so you're not going to get anything.\n\nSpeaker 1: You have to call in and place your order.\n\nSpeaker 2: Okay. So, that's another way to say it.\n\nSpeaker 1: I can keep my account open, but I'm not going to get this automatic, like, hey,\n\nSpeaker 2: your next prescription is on its way kind of thing?\n\nSpeaker 1: That's correct.\n\nSpeaker 2: Okay. Wonderful.\n\nSpeaker 1: Thank you so much.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 3383,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.0799999237060547,
+        "text": " Thank you for calling customer service."
+      },
+      {
+        "id": 1,
+        "start": 2.0799999237060547,
+        "end": 2.640000104904175,
+        "text": " I can help you."
+      },
+      {
+        "id": 2,
+        "start": 2.640000104904175,
+        "end": 5.639999866485596,
+        "text": " Yes. I just have a question."
+      },
+      {
+        "id": 3,
+        "start": 5.639999866485596,
+        "end": 6.679999828338623,
+        "text": " I'm just looking at my account."
+      },
+      {
+        "id": 4,
+        "start": 6.679999828338623,
+        "end": 10.5,
+        "text": " I'm just trying to make sure that I don't get another automatic refill next month."
+      },
+      {
+        "id": 5,
+        "start": 10.5,
+        "end": 11.34000015258789,
+        "text": " I just want to stop that."
+      },
+      {
+        "id": 6,
+        "start": 11.34000015258789,
+        "end": 12.899999618530273,
+        "text": " I don't even know if it's on."
+      },
+      {
+        "id": 7,
+        "start": 12.899999618530273,
+        "end": 14.819999694824219,
+        "text": " Okay. Let me pull it up so I can see."
+      },
+      {
+        "id": 8,
+        "start": 14.819999694824219,
+        "end": 15.979999542236328,
+        "text": " What's your name and birthday?"
+      },
+      {
+        "id": 9,
+        "start": 15.979999542236328,
+        "end": 19.020000457763672,
+        "text": " Birthday is May 5th, 1966."
+      },
+      {
+        "id": 10,
+        "start": 19.020000457763672,
+        "end": 21.540000915527344,
+        "text": " May is Christopher Soja, S-O-J-A."
+      },
+      {
+        "id": 11,
+        "start": 21.540000915527344,
+        "end": 39.86000061035156,
+        "text": " No. The gentleman you spoke with on the 20th, he paused it, so you're not going to get anything."
+      },
+      {
+        "id": 12,
+        "start": 39.86000061035156,
+        "end": 40.939998626708984,
+        "text": " You have to call in and place your order."
+      },
+      {
+        "id": 13,
+        "start": 42.02000045776367,
+        "end": 43.65999984741211,
+        "text": " Okay. So, that's another way to say it."
+      },
+      {
+        "id": 14,
+        "start": 43.65999984741211,
+        "end": 48.720001220703125,
+        "text": " I can keep my account open, but I'm not going to get this automatic, like, hey,"
+      },
+      {
+        "id": 15,
+        "start": 49.2400016784668,
+        "end": 51.81999969482422,
+        "text": " your next prescription is on its way kind of thing?"
+      },
+      {
+        "id": 16,
+        "start": 52.31999969482422,
+        "end": 53.5,
+        "text": " That's correct."
+      },
+      {
+        "id": 17,
+        "start": 53.5,
+        "end": 54.18000030517578,
+        "text": " Okay. Wonderful."
+      },
+      {
+        "id": 18,
+        "start": 54.18000030517578,
+        "end": 54.97999954223633,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 19,
+        "start": 55.400001525878906,
+        "end": 55.91999816894531,
+        "text": " You're welcome."
+      },
+      {
+        "id": 20,
+        "start": 55.91999816894531,
+        "end": 56.220001220703125,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 21,
+        "start": 56.619998931884766,
+        "end": 57.220001220703125,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8137-9d65-e5537f3045a8",
+    "url": "https://www.notion.so/300000001222824-300000001712470-2f711d0a101c81379d65e5537f3045a8"
+  },
+  "processedAt": "2026-01-29T21:32:22.173Z"
+}

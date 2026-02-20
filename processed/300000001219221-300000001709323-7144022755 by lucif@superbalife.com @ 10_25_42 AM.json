@@ -1,0 +1,230 @@
+{
+  "recording": {
+    "name": "300000001219221-300000001709323-7144022755 by lucif@superbalife.com @ 10_25_42 AM.wav",
+    "size": 259410,
+    "modifyTime": 1769583134000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219221-300000001709323-7144022755 by lucif@superbalife.com @ 10_25_42 AM.wav",
+    "uploadDate": "2026-01-28T06:52:14.000Z",
+    "callId": "300000001219221-300000001709323",
+    "agent": "lucif",
+    "phoneNumber": "7144022755",
+    "callTimestamp": "2026-01-28T10:25:42.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hello, I'm Jim Bright. I received an order yesterday from your company. When I received\n\nSpeaker 2: the first order, the product wasn't working for me, so you sent me a survey and I canceled\n\nSpeaker 1: a few of your orders, but I received an order yesterday.\n\nSpeaker 2: I'm confused. We sent you a survey? Yeah, a survey about how it was working, this\n\nSpeaker 1: and that, and the other thing, a while back, I don't know, a month ago?\n\nSpeaker 2: I'm not familiar with that, but you said it wasn't working for you?\n\nSpeaker 1: Right. Okay, well, if it's not working for you,\n\nSpeaker 2: so we can simply just, you know, send you something that works for you better.\n\nSpeaker 1: Well, that's okay. I just want to send this back, the one I got.\n\nSpeaker 2: Yeah, that's fine, but we can also send you something else for free to see if it is working\n\nSpeaker 1: for you better. Okay. That'd be all right, maybe.\n\nSpeaker 2: So, how do I return this package?\n\nSpeaker 1: How you put or turn the sender on it. Okay. I did open it. I didn't know who it was from.\n\nSpeaker 2: That's fine. You can just try to, like, tape it up or close it the best you can.\n\nSpeaker 1: Okay. All right. And then you'll refund me on my credit card?\n\nSpeaker 2: Yeah, correct. Okay. All right. So, that's easy enough.\n\nSpeaker 1: Were you interested in trying other bills? Yeah. You want to send something up for free,\n\nSpeaker 2: you said? Yeah, correct. I mean,\n\nSpeaker 1: we do ask that you do call us back and let us know that it is actually working for you,\n\nSpeaker 2: you know, so we can pick back up. And that way, you know,\n\nSpeaker 1: you're actually purchasing something that works for you in the future.\n\nSpeaker 2: Correct. Okay.\n\nSpeaker 1: Yeah, all right. Do you mind taking my extension?\n\nSpeaker 2: That way you can call me back and let me know what's going on.\n\nSpeaker 1: Okay. What's your extension, buddy?\n\nSpeaker 2: All right. So, it's going to be the same phone number you have there,\n\nSpeaker 1: and it's going to be 0035.\n\nSpeaker 2: 0035. And your name?\n\nSpeaker 1: Quinn. Say that again?\n\nSpeaker 2: Quinn, Q-U-I-N-N. Okay.\n\nSpeaker 1: Q-U-I. Okay. All right. All right. You got it, buddy.\n\nSpeaker 2: All right. I'll be hearing from you soon, sir.\n\nSpeaker 1: All right. Thank you. Take care.\n\nSpeaker 2: You're welcome. You, too.",
+    "duration": 7929,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 13.15999984741211,
+        "text": " Hello, I'm Jim Bright. I received an order yesterday from your company. When I received"
+      },
+      {
+        "id": 1,
+        "start": 13.15999984741211,
+        "end": 21.399999618530273,
+        "text": " the first order, the product wasn't working for me, so you sent me a survey and I canceled"
+      },
+      {
+        "id": 2,
+        "start": 21.399999618530273,
+        "end": 24.760000228881836,
+        "text": " a few of your orders, but I received an order yesterday."
+      },
+      {
+        "id": 3,
+        "start": 24.760000228881836,
+        "end": 31.479999542236328,
+        "text": " I'm confused. We sent you a survey? Yeah, a survey about how it was working, this"
+      },
+      {
+        "id": 4,
+        "start": 31.479999542236328,
+        "end": 36.36000061035156,
+        "text": " and that, and the other thing, a while back, I don't know, a month ago?"
+      },
+      {
+        "id": 5,
+        "start": 36.36000061035156,
+        "end": 39.560001373291016,
+        "text": " I'm not familiar with that, but you said it wasn't working for you?"
+      },
+      {
+        "id": 6,
+        "start": 39.560001373291016,
+        "end": 43.15999984741211,
+        "text": " Right. Okay, well, if it's not working for you,"
+      },
+      {
+        "id": 7,
+        "start": 43.15999984741211,
+        "end": 47.15999984741211,
+        "text": " so we can simply just, you know, send you something that works for you better."
+      },
+      {
+        "id": 8,
+        "start": 47.15999984741211,
+        "end": 52.15999984741211,
+        "text": " Well, that's okay. I just want to send this back, the one I got."
+      },
+      {
+        "id": 9,
+        "start": 52.959999084472656,
+        "end": 57.439998626708984,
+        "text": " Yeah, that's fine, but we can also send you something else for free to see if it is working"
+      },
+      {
+        "id": 10,
+        "start": 57.439998626708984,
+        "end": 61.439998626708984,
+        "text": " for you better. Okay. That'd be all right, maybe."
+      },
+      {
+        "id": 11,
+        "start": 62.15999984741211,
+        "end": 63.91999816894531,
+        "text": " So, how do I return this package?"
+      },
+      {
+        "id": 12,
+        "start": 67.83999633789062,
+        "end": 74.87999725341797,
+        "text": " How you put or turn the sender on it. Okay. I did open it. I didn't know who it was from."
+      },
+      {
+        "id": 13,
+        "start": 75.5199966430664,
+        "end": 78.4800033569336,
+        "text": " That's fine. You can just try to, like, tape it up or close it the best you can."
+      },
+      {
+        "id": 14,
+        "start": 79.44000244140625,
+        "end": 85.5199966430664,
+        "text": " Okay. All right. And then you'll refund me on my credit card?"
+      },
+      {
+        "id": 15,
+        "start": 86.4800033569336,
+        "end": 91.04000091552734,
+        "text": " Yeah, correct. Okay. All right. So, that's easy enough."
+      },
+      {
+        "id": 16,
+        "start": 92.80000305175781,
+        "end": 98.16000366210938,
+        "text": " Were you interested in trying other bills? Yeah. You want to send something up for free,"
+      },
+      {
+        "id": 17,
+        "start": 98.16000366210938,
+        "end": 100.55999755859375,
+        "text": " you said? Yeah, correct. I mean,"
+      },
+      {
+        "id": 18,
+        "start": 100.55999755859375,
+        "end": 106.16000366210938,
+        "text": " we do ask that you do call us back and let us know that it is actually working for you,"
+      },
+      {
+        "id": 19,
+        "start": 107.12000274658203,
+        "end": 110.16000366210938,
+        "text": " you know, so we can pick back up. And that way, you know,"
+      },
+      {
+        "id": 20,
+        "start": 110.16000366210938,
+        "end": 113.04000091552734,
+        "text": " you're actually purchasing something that works for you in the future."
+      },
+      {
+        "id": 21,
+        "start": 114.08000183105469,
+        "end": 115.44000244140625,
+        "text": " Correct. Okay."
+      },
+      {
+        "id": 22,
+        "start": 118.95999908447266,
+        "end": 120.87999725341797,
+        "text": " Yeah, all right. Do you mind taking my extension?"
+      },
+      {
+        "id": 23,
+        "start": 120.87999725341797,
+        "end": 123.04000091552734,
+        "text": " That way you can call me back and let me know what's going on."
+      },
+      {
+        "id": 24,
+        "start": 124.31999969482422,
+        "end": 127.5999984741211,
+        "text": " Okay. What's your extension, buddy?"
+      },
+      {
+        "id": 25,
+        "start": 129.75999450683594,
+        "end": 131.52000427246094,
+        "text": " All right. So, it's going to be the same phone number you have there,"
+      },
+      {
+        "id": 26,
+        "start": 131.60000610351562,
+        "end": 134.16000366210938,
+        "text": " and it's going to be 0035."
+      },
+      {
+        "id": 27,
+        "start": 135.44000244140625,
+        "end": 137.44000244140625,
+        "text": " 0035. And your name?"
+      },
+      {
+        "id": 28,
+        "start": 138.32000732421875,
+        "end": 140.9600067138672,
+        "text": " Quinn. Say that again?"
+      },
+      {
+        "id": 29,
+        "start": 141.75999450683594,
+        "end": 144.47999572753906,
+        "text": " Quinn, Q-U-I-N-N. Okay."
+      },
+      {
+        "id": 30,
+        "start": 144.47999572753906,
+        "end": 149.52000427246094,
+        "text": " Q-U-I. Okay. All right. All right. You got it, buddy."
+      },
+      {
+        "id": 31,
+        "start": 151.52000427246094,
+        "end": 153.27999877929688,
+        "text": " All right. I'll be hearing from you soon, sir."
+      },
+      {
+        "id": 32,
+        "start": 154.0800018310547,
+        "end": 155.27999877929688,
+        "text": " All right. Thank you. Take care."
+      },
+      {
+        "id": 33,
+        "start": 155.27999877929688,
+        "end": 159.83999633789062,
+        "text": " You're welcome. You, too."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a8-bd02-ff86aea2d26b",
+    "url": "https://www.notion.so/300000001219221-300000001709323-2f611d0a101c81a8bd02ff86aea2d26b"
+  },
+  "processedAt": "2026-01-28T16:32:10.256Z"
+}

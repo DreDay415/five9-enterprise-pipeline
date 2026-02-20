@@ -1,0 +1,332 @@
+{
+  "recording": {
+    "name": "300000001217031-300000001707462-2032337613 by jimmy@superbalife.com @ 8_54_12 AM.wav",
+    "size": 175560,
+    "modifyTime": 1769584333000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217031-300000001707462-2032337613 by jimmy@superbalife.com @ 8_54_12 AM.wav",
+    "uploadDate": "2026-01-28T07:12:13.000Z",
+    "callId": "300000001217031-300000001707462",
+    "agent": "jimmy",
+    "phoneNumber": "2032337613",
+    "callTimestamp": "2026-01-28T08:54:12.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: All right, William.\n\nSpeaker 2: Thank you so much for that.\n\nSpeaker 1: All right.\n\nSpeaker 2: This is what I was able to do for you, William.\n\nSpeaker 1: I noticed that you were getting the Viagra, the 50 milligrams.\n\nSpeaker 2: It looks like you were getting 10.\n\nSpeaker 1: Your prescription had them coming to you every month.\n\nSpeaker 2: So I was able to go ahead and stop those monthly shipments,\n\nSpeaker 1: and I also stopped the monthly refills that was included with your prescription,\n\nSpeaker 2: and I stopped the monthly charges as well.\n\nSpeaker 1: But let me ask you, William, while I have you on the phone,\n\nSpeaker 2: so I'll take care of that for you.\n\nSpeaker 1: You were getting the Viagra 50 milligrams.\n\nSpeaker 2: How are those working out for you as far as that's concerned?\n\nSpeaker 1: Well, I wanted to try it out.\n\nSpeaker 2: I didn't know it was going to be a month of renewal.\n\nSpeaker 1: I did not see that anywhere.\n\nSpeaker 2: And I'm still sort of trying it out.\n\nSpeaker 1: I don't think it's really working that well.\n\nSpeaker 2: But I want to make sure it's canceled.\n\nSpeaker 1: Okay, this is what I went ahead and did for you.\n\nSpeaker 2: I went and took care of that.\n\nSpeaker 1: But I noticed, William, that you were getting on the 50 milligrams,\n\nSpeaker 2: and it looks like that you are not getting the AGB that we have as our best\n\nSpeaker 1: Viagra that's out there.\n\nSpeaker 2: No, what I was supposed to be getting was the newest thing.\n\nSpeaker 1: But it doesn't matter.\n\nSpeaker 2: I'm not trying anything else.\n\nSpeaker 1: I just want to cancel.\n\nSpeaker 2: Okay, not a problem.\n\nSpeaker 1: I did go and take care of that for you.\n\nSpeaker 2: But I would like for you to try it just for free to see if it works out for you.\n\nSpeaker 1: No, I don't want to try it.\n\nSpeaker 2: No charge.\n\nSpeaker 1: No charge at all.\n\nSpeaker 2: I can get that sent out to you.\n\nSpeaker 1: That's all right.\n\nSpeaker 2: I appreciate it.\n\nSpeaker 1: I just want it all canceled.\n\nSpeaker 2: All right, not a problem.\n\nSpeaker 1: I'll go and take care of that.\n\nSpeaker 2: I mean, I already took care of that part for you.\n\nSpeaker 1: I was just trying to get you set up with a new,\n\nSpeaker 2: improved one since you didn't get a chance to try it.\n\nSpeaker 1: No, that's okay.\n\nSpeaker 2: No, that's okay.\n\nSpeaker 1: Thank you very much.\n\nSpeaker 2: Okay, you have a great day then.\n\nSpeaker 1: All right, bye.\n\nSpeaker 2: Thanks.\n\nSpeaker 1: Bye-bye.",
+    "duration": 6622,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " All right, William."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2,
+        "text": " Thank you so much for that."
+      },
+      {
+        "id": 2,
+        "start": 2,
+        "end": 3,
+        "text": " All right."
+      },
+      {
+        "id": 3,
+        "start": 3,
+        "end": 4,
+        "text": " This is what I was able to do for you, William."
+      },
+      {
+        "id": 4,
+        "start": 4,
+        "end": 7,
+        "text": " I noticed that you were getting the Viagra, the 50 milligrams."
+      },
+      {
+        "id": 5,
+        "start": 7,
+        "end": 9,
+        "text": " It looks like you were getting 10."
+      },
+      {
+        "id": 6,
+        "start": 9,
+        "end": 12,
+        "text": " Your prescription had them coming to you every month."
+      },
+      {
+        "id": 7,
+        "start": 12,
+        "end": 15,
+        "text": " So I was able to go ahead and stop those monthly shipments,"
+      },
+      {
+        "id": 8,
+        "start": 15,
+        "end": 20,
+        "text": " and I also stopped the monthly refills that was included with your prescription,"
+      },
+      {
+        "id": 9,
+        "start": 20,
+        "end": 22,
+        "text": " and I stopped the monthly charges as well."
+      },
+      {
+        "id": 10,
+        "start": 22,
+        "end": 25,
+        "text": " But let me ask you, William, while I have you on the phone,"
+      },
+      {
+        "id": 11,
+        "start": 25,
+        "end": 27,
+        "text": " so I'll take care of that for you."
+      },
+      {
+        "id": 12,
+        "start": 27,
+        "end": 29,
+        "text": " You were getting the Viagra 50 milligrams."
+      },
+      {
+        "id": 13,
+        "start": 29,
+        "end": 32,
+        "text": " How are those working out for you as far as that's concerned?"
+      },
+      {
+        "id": 14,
+        "start": 32,
+        "end": 36,
+        "text": " Well, I wanted to try it out."
+      },
+      {
+        "id": 15,
+        "start": 36,
+        "end": 38,
+        "text": " I didn't know it was going to be a month of renewal."
+      },
+      {
+        "id": 16,
+        "start": 38,
+        "end": 40,
+        "text": " I did not see that anywhere."
+      },
+      {
+        "id": 17,
+        "start": 40,
+        "end": 42,
+        "text": " And I'm still sort of trying it out."
+      },
+      {
+        "id": 18,
+        "start": 42,
+        "end": 44,
+        "text": " I don't think it's really working that well."
+      },
+      {
+        "id": 19,
+        "start": 44,
+        "end": 47,
+        "text": " But I want to make sure it's canceled."
+      },
+      {
+        "id": 20,
+        "start": 47,
+        "end": 49,
+        "text": " Okay, this is what I went ahead and did for you."
+      },
+      {
+        "id": 21,
+        "start": 49,
+        "end": 50,
+        "text": " I went and took care of that."
+      },
+      {
+        "id": 22,
+        "start": 50,
+        "end": 53,
+        "text": " But I noticed, William, that you were getting on the 50 milligrams,"
+      },
+      {
+        "id": 23,
+        "start": 54,
+        "end": 61,
+        "text": " and it looks like that you are not getting the AGB that we have as our best"
+      },
+      {
+        "id": 24,
+        "start": 61,
+        "end": 64,
+        "text": " Viagra that's out there."
+      },
+      {
+        "id": 25,
+        "start": 64,
+        "end": 68,
+        "text": " No, what I was supposed to be getting was the newest thing."
+      },
+      {
+        "id": 26,
+        "start": 68,
+        "end": 70,
+        "text": " But it doesn't matter."
+      },
+      {
+        "id": 27,
+        "start": 70,
+        "end": 72,
+        "text": " I'm not trying anything else."
+      },
+      {
+        "id": 28,
+        "start": 72,
+        "end": 73,
+        "text": " I just want to cancel."
+      },
+      {
+        "id": 29,
+        "start": 73,
+        "end": 74,
+        "text": " Okay, not a problem."
+      },
+      {
+        "id": 30,
+        "start": 74,
+        "end": 76,
+        "text": " I did go and take care of that for you."
+      },
+      {
+        "id": 31,
+        "start": 76,
+        "end": 80,
+        "text": " But I would like for you to try it just for free to see if it works out for you."
+      },
+      {
+        "id": 32,
+        "start": 80,
+        "end": 82,
+        "text": " No, I don't want to try it."
+      },
+      {
+        "id": 33,
+        "start": 82,
+        "end": 83,
+        "text": " No charge."
+      },
+      {
+        "id": 34,
+        "start": 83,
+        "end": 84,
+        "text": " No charge at all."
+      },
+      {
+        "id": 35,
+        "start": 84,
+        "end": 86,
+        "text": " I can get that sent out to you."
+      },
+      {
+        "id": 36,
+        "start": 86,
+        "end": 87,
+        "text": " That's all right."
+      },
+      {
+        "id": 37,
+        "start": 87,
+        "end": 88,
+        "text": " I appreciate it."
+      },
+      {
+        "id": 38,
+        "start": 88,
+        "end": 90,
+        "text": " I just want it all canceled."
+      },
+      {
+        "id": 39,
+        "start": 90,
+        "end": 91,
+        "text": " All right, not a problem."
+      },
+      {
+        "id": 40,
+        "start": 91,
+        "end": 92,
+        "text": " I'll go and take care of that."
+      },
+      {
+        "id": 41,
+        "start": 92,
+        "end": 94,
+        "text": " I mean, I already took care of that part for you."
+      },
+      {
+        "id": 42,
+        "start": 94,
+        "end": 96,
+        "text": " I was just trying to get you set up with a new,"
+      },
+      {
+        "id": 43,
+        "start": 96,
+        "end": 98,
+        "text": " improved one since you didn't get a chance to try it."
+      },
+      {
+        "id": 44,
+        "start": 98,
+        "end": 99,
+        "text": " No, that's okay."
+      },
+      {
+        "id": 45,
+        "start": 99,
+        "end": 101,
+        "text": " No, that's okay."
+      },
+      {
+        "id": 46,
+        "start": 101,
+        "end": 102,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 47,
+        "start": 102,
+        "end": 104,
+        "text": " Okay, you have a great day then."
+      },
+      {
+        "id": 48,
+        "start": 104,
+        "end": 106,
+        "text": " All right, bye."
+      },
+      {
+        "id": 49,
+        "start": 106,
+        "end": 107,
+        "text": " Thanks."
+      },
+      {
+        "id": 50,
+        "start": 107,
+        "end": 108,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ef-9092-c60a1cefb6eb",
+    "url": "https://www.notion.so/300000001217031-300000001707462-2f611d0a101c81ef9092c60a1cefb6eb"
+  },
+  "processedAt": "2026-01-28T15:12:28.958Z"
+}

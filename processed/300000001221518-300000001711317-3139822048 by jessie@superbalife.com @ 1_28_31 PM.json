@@ -1,0 +1,56 @@
+{
+  "recording": {
+    "name": "300000001221518-300000001711317-3139822048 by jessie@superbalife.com @ 1_28_31 PM.wav",
+    "size": 13710,
+    "modifyTime": 1769635741000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221518-300000001711317-3139822048 by jessie@superbalife.com @ 1_28_31 PM.wav",
+    "uploadDate": "2026-01-28T21:29:01.000Z",
+    "callId": "300000001221518-300000001711317",
+    "agent": "jessie",
+    "phoneNumber": "3139822048",
+    "callTimestamp": "2026-01-28T13:28:31.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, I've got Kevin Chapman for you, he's looking for you.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: You're welcome.",
+    "duration": 702,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hey, I've got Kevin Chapman for you, he's looking for you."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 6,
+        "text": " Okay."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 7,
+        "text": " Thank you."
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 8,
+        "text": " You're welcome."
+      },
+      {
+        "id": 4,
+        "start": 8,
+        "end": 8,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81f7-85cf-dbe0feb6b8cd",
+    "url": "https://www.notion.so/300000001221518-300000001711317-2f611d0a101c81f785cfdbe0feb6b8cd"
+  },
+  "processedAt": "2026-01-28T22:36:51.109Z"
+}

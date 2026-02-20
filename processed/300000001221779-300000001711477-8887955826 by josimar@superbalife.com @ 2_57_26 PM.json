@@ -1,0 +1,296 @@
+{
+  "recording": {
+    "name": "300000001221779-300000001711477-8887955826 by josimar@superbalife.com @ 2_57_26 PM.wav",
+    "size": 213650,
+    "modifyTime": 1769641231000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221779-300000001711477-8887955826 by josimar@superbalife.com @ 2_57_26 PM.wav",
+    "uploadDate": "2026-01-28T23:00:31.000Z",
+    "callId": "300000001221779-300000001711477",
+    "agent": "josimar",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T14:57:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, how can I help you today?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Yeah, thank you for calling Viagra.\n\nSpeaker 2: How can I help you today?\n\nSpeaker 1: Yes, hi.\n\nSpeaker 2: Who am I talking to?\n\nSpeaker 1: Well, sir, you reached out to us.\n\nSpeaker 2: This is Viagra, score blue.\n\nSpeaker 1: How can we help you?\n\nSpeaker 2: You're talking about score blue, right?\n\nSpeaker 1: This is Viagra, score blue.\n\nSpeaker 2: How can I help you?\n\nSpeaker 1: Okay.\n\nSpeaker 2: I've been getting deliveries of this, what's it called?\n\nSpeaker 1: Sildenafol?\n\nSpeaker 2: It's Viagra.\n\nSpeaker 1: And I tried to cancel this months ago, and I don't know whatever happened.\n\nSpeaker 2: I got another delivery yesterday, but I got another delivery a while ago after I canceled.\n\nSpeaker 1: But I assumed when I got it that maybe I paid for it ahead of time, and they sent it to me, and that's fine.\n\nSpeaker 2: But I can't use this at all anymore.\n\nSpeaker 1: I can't use it.\n\nSpeaker 2: No worries.\n\nSpeaker 1: I can help you with that.\n\nSpeaker 2: What's your zip code?\n\nSpeaker 1: It's 19111.\n\nSpeaker 2: Last name?\n\nSpeaker 1: It's Dougherty, D-O-U-G-H-E-R-T-Y.\n\nSpeaker 2: What's your first name?\n\nSpeaker 1: John.\n\nSpeaker 2: J-O-H-N?\n\nSpeaker 1: Yes, and G, middle initial G.\n\nSpeaker 2: Got it.\n\nSpeaker 1: I located your profile.\n\nSpeaker 2: I'm going to go ahead and put a stop to all your orders, sir.\n\nSpeaker 1: You won't receive anything in court, but you're good to go now.\n\nSpeaker 2: Oh, that's great.\n\nSpeaker 1: I appreciate that.\n\nSpeaker 2: I thought I did that months ago.\n\nSpeaker 1: I don't know what the heck ever happened.\n\nSpeaker 2: Thank you very much.\n\nSpeaker 1: Appreciate it.\n\nSpeaker 2: Of course.\n\nSpeaker 1: You have a good one now.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 5393,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Viagra, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 4,
+        "text": " Hello?"
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 6,
+        "text": " Yeah, thank you for calling Viagra."
+      },
+      {
+        "id": 3,
+        "start": 6,
+        "end": 8,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 4,
+        "start": 8,
+        "end": 9,
+        "text": " Yes, hi."
+      },
+      {
+        "id": 5,
+        "start": 9,
+        "end": 11,
+        "text": " Who am I talking to?"
+      },
+      {
+        "id": 6,
+        "start": 11,
+        "end": 13,
+        "text": " Well, sir, you reached out to us."
+      },
+      {
+        "id": 7,
+        "start": 13,
+        "end": 14,
+        "text": " This is Viagra, score blue."
+      },
+      {
+        "id": 8,
+        "start": 14,
+        "end": 16,
+        "text": " How can we help you?"
+      },
+      {
+        "id": 9,
+        "start": 16,
+        "end": 18,
+        "text": " You're talking about score blue, right?"
+      },
+      {
+        "id": 10,
+        "start": 18,
+        "end": 20,
+        "text": " This is Viagra, score blue."
+      },
+      {
+        "id": 11,
+        "start": 20,
+        "end": 22,
+        "text": " How can I help you?"
+      },
+      {
+        "id": 12,
+        "start": 22,
+        "end": 24,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 24,
+        "end": 30,
+        "text": " I've been getting deliveries of this, what's it called?"
+      },
+      {
+        "id": 14,
+        "start": 30,
+        "end": 32,
+        "text": " Sildenafol?"
+      },
+      {
+        "id": 15,
+        "start": 32,
+        "end": 34,
+        "text": " It's Viagra."
+      },
+      {
+        "id": 16,
+        "start": 34,
+        "end": 41,
+        "text": " And I tried to cancel this months ago, and I don't know whatever happened."
+      },
+      {
+        "id": 17,
+        "start": 41,
+        "end": 48,
+        "text": " I got another delivery yesterday, but I got another delivery a while ago after I canceled."
+      },
+      {
+        "id": 18,
+        "start": 48,
+        "end": 58,
+        "text": " But I assumed when I got it that maybe I paid for it ahead of time, and they sent it to me, and that's fine."
+      },
+      {
+        "id": 19,
+        "start": 58,
+        "end": 64,
+        "text": " But I can't use this at all anymore."
+      },
+      {
+        "id": 20,
+        "start": 64,
+        "end": 65,
+        "text": " I can't use it."
+      },
+      {
+        "id": 21,
+        "start": 65,
+        "end": 66,
+        "text": " No worries."
+      },
+      {
+        "id": 22,
+        "start": 66,
+        "end": 67,
+        "text": " I can help you with that."
+      },
+      {
+        "id": 23,
+        "start": 67,
+        "end": 69,
+        "text": " What's your zip code?"
+      },
+      {
+        "id": 24,
+        "start": 69,
+        "end": 74,
+        "text": " It's 19111."
+      },
+      {
+        "id": 25,
+        "start": 74,
+        "end": 77,
+        "text": " Last name?"
+      },
+      {
+        "id": 26,
+        "start": 77,
+        "end": 82,
+        "text": " It's Dougherty, D-O-U-G-H-E-R-T-Y."
+      },
+      {
+        "id": 27,
+        "start": 82,
+        "end": 84,
+        "text": " What's your first name?"
+      },
+      {
+        "id": 28,
+        "start": 84,
+        "end": 86,
+        "text": " John."
+      },
+      {
+        "id": 29,
+        "start": 86,
+        "end": 88,
+        "text": " J-O-H-N?"
+      },
+      {
+        "id": 30,
+        "start": 88,
+        "end": 91,
+        "text": " Yes, and G, middle initial G."
+      },
+      {
+        "id": 31,
+        "start": 91,
+        "end": 92,
+        "text": " Got it."
+      },
+      {
+        "id": 32,
+        "start": 92,
+        "end": 93,
+        "text": " I located your profile."
+      },
+      {
+        "id": 33,
+        "start": 93,
+        "end": 96,
+        "text": " I'm going to go ahead and put a stop to all your orders, sir."
+      },
+      {
+        "id": 34,
+        "start": 96,
+        "end": 100,
+        "text": " You won't receive anything in court, but you're good to go now."
+      },
+      {
+        "id": 35,
+        "start": 100,
+        "end": 101,
+        "text": " Oh, that's great."
+      },
+      {
+        "id": 36,
+        "start": 101,
+        "end": 103,
+        "text": " I appreciate that."
+      },
+      {
+        "id": 37,
+        "start": 103,
+        "end": 105,
+        "text": " I thought I did that months ago."
+      },
+      {
+        "id": 38,
+        "start": 105,
+        "end": 110,
+        "text": " I don't know what the heck ever happened."
+      },
+      {
+        "id": 39,
+        "start": 110,
+        "end": 111,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 40,
+        "start": 111,
+        "end": 112,
+        "text": " Appreciate it."
+      },
+      {
+        "id": 41,
+        "start": 112,
+        "end": 113,
+        "text": " Of course."
+      },
+      {
+        "id": 42,
+        "start": 113,
+        "end": 114,
+        "text": " You have a good one now."
+      },
+      {
+        "id": 43,
+        "start": 114,
+        "end": 115,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 44,
+        "start": 115,
+        "end": 116,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ba-9aa8-f971a70bf5fd",
+    "url": "https://www.notion.so/300000001221779-300000001711477-2f611d0a101c81ba9aa8f971a70bf5fd"
+  },
+  "processedAt": "2026-01-28T23:27:29.072Z"
+}

@@ -1,0 +1,203 @@
+{
+  "recording": {
+    "name": "300000001241736-300000001731429-8137876340 by olivier@superbalife.com @ 9_43_42 AM.wav",
+    "size": 181020,
+    "modifyTime": 1771004755000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241736-300000001731429-8137876340 by olivier@superbalife.com @ 9_43_42 AM.wav",
+    "uploadDate": "2026-02-13T17:45:55.000Z",
+    "callId": "300000001241736-300000001731429",
+    "agent": "olivier",
+    "phoneNumber": "8137876340",
+    "callTimestamp": "2026-02-13T09:43:42.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivier_300000001241736-300000001731429_8137876340.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivier_300000001241736-300000001731429_8137876340.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra. Hey, I need to speak to somebody about cancelling my subscription, please.\n\nSpeaker 2: All right, let me pull the prescription here for you.\n\nSpeaker 1: Mr. David White? Yeah, that's it.\n\nSpeaker 2: Yeah, I see you have a prescription for 25 mg Viagra, 10 tablets, I think, every 30 days.\n\nSpeaker 1: Is there any health concern, or you just want to order as needed? You don't want to go based on the initial prescription?\n\nSpeaker 2: I didn't realize it was an ongoing thing. I ordered them one time. I didn't realize it was an ongoing thing.\n\nSpeaker 1: You guys just billed me again, so I don't want that to happen anymore.\n\nSpeaker 2: Yeah, that's just the initial writing, because I think you got 10 tablets and 25 mg.\n\nSpeaker 1: So most patients get four of them to make it 100, so they assume that after two shots, you're probably going to need to order.\n\nSpeaker 2: So they wrote a prescription with it.\n\nSpeaker 1: But I can cancel the monthly, they would refill with it, basically.\n\nSpeaker 2: But I can cancel those refills, because that's not required.\n\nSpeaker 1: This is not Netflix. Obviously, this is medicine.\n\nSpeaker 2: And then pause the prescription, and you can just order as needed instead.\n\nSpeaker 1: You don't have to be there every month.\n\nSpeaker 2: I'm having a hard time understanding what you're saying, okay?\n\nSpeaker 1: This is real simple. I don't want to get billed every month, okay?\n\nSpeaker 2: Okay, so I'm going to cancel the monthly and pause the prescription, okay?\n\nSpeaker 1: I'm going to pause it, so you can reorder, okay, as needed.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: And if you get two refills a year, you can get the same price always.\n\nSpeaker 2: Okay, thanks.\n\nSpeaker 1: Alright, so you're all set, okay?\n\nSpeaker 2: That's it? Done?\n\nSpeaker 1: Yeah, that's it. I'm going to cancel the 30 days and pause it for half a year,\n\nSpeaker 2: so you can reorder yourself, okay?\n\nSpeaker 1: Okay, I appreciate it. Thank you.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Bye.",
+    "duration": 4322,
+    "audioDuration": 111.36000061035156,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " Hi, this is Viagra. Hey, I need to speak to somebody about cancelling my subscription, please."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 16,
+        "text": " All right, let me pull the prescription here for you."
+      },
+      {
+        "id": 2,
+        "start": 16,
+        "end": 19,
+        "text": " Mr. David White? Yeah, that's it."
+      },
+      {
+        "id": 3,
+        "start": 19,
+        "end": 26,
+        "text": " Yeah, I see you have a prescription for 25 mg Viagra, 10 tablets, I think, every 30 days."
+      },
+      {
+        "id": 4,
+        "start": 26,
+        "end": 33,
+        "text": " Is there any health concern, or you just want to order as needed? You don't want to go based on the initial prescription?"
+      },
+      {
+        "id": 5,
+        "start": 33,
+        "end": 40,
+        "text": " I didn't realize it was an ongoing thing. I ordered them one time. I didn't realize it was an ongoing thing."
+      },
+      {
+        "id": 6,
+        "start": 40,
+        "end": 44,
+        "text": " You guys just billed me again, so I don't want that to happen anymore."
+      },
+      {
+        "id": 7,
+        "start": 44,
+        "end": 49,
+        "text": " Yeah, that's just the initial writing, because I think you got 10 tablets and 25 mg."
+      },
+      {
+        "id": 8,
+        "start": 49,
+        "end": 56,
+        "text": " So most patients get four of them to make it 100, so they assume that after two shots, you're probably going to need to order."
+      },
+      {
+        "id": 9,
+        "start": 56,
+        "end": 58,
+        "text": " So they wrote a prescription with it."
+      },
+      {
+        "id": 10,
+        "start": 58,
+        "end": 62,
+        "text": " But I can cancel the monthly, they would refill with it, basically."
+      },
+      {
+        "id": 11,
+        "start": 62,
+        "end": 65,
+        "text": " But I can cancel those refills, because that's not required."
+      },
+      {
+        "id": 12,
+        "start": 65,
+        "end": 68,
+        "text": " This is not Netflix. Obviously, this is medicine."
+      },
+      {
+        "id": 13,
+        "start": 68,
+        "end": 72,
+        "text": " And then pause the prescription, and you can just order as needed instead."
+      },
+      {
+        "id": 14,
+        "start": 72,
+        "end": 74,
+        "text": " You don't have to be there every month."
+      },
+      {
+        "id": 15,
+        "start": 75,
+        "end": 81,
+        "text": " I'm having a hard time understanding what you're saying, okay?"
+      },
+      {
+        "id": 16,
+        "start": 81,
+        "end": 84,
+        "text": " This is real simple. I don't want to get billed every month, okay?"
+      },
+      {
+        "id": 17,
+        "start": 84,
+        "end": 88,
+        "text": " Okay, so I'm going to cancel the monthly and pause the prescription, okay?"
+      },
+      {
+        "id": 18,
+        "start": 88,
+        "end": 92,
+        "text": " I'm going to pause it, so you can reorder, okay, as needed."
+      },
+      {
+        "id": 19,
+        "start": 92,
+        "end": 93,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 20,
+        "start": 93,
+        "end": 97,
+        "text": " And if you get two refills a year, you can get the same price always."
+      },
+      {
+        "id": 21,
+        "start": 97,
+        "end": 98,
+        "text": " Okay, thanks."
+      },
+      {
+        "id": 22,
+        "start": 98,
+        "end": 100,
+        "text": " Alright, so you're all set, okay?"
+      },
+      {
+        "id": 23,
+        "start": 100,
+        "end": 102,
+        "text": " That's it? Done?"
+      },
+      {
+        "id": 24,
+        "start": 102,
+        "end": 105,
+        "text": " Yeah, that's it. I'm going to cancel the 30 days and pause it for half a year,"
+      },
+      {
+        "id": 25,
+        "start": 105,
+        "end": 107,
+        "text": " so you can reorder yourself, okay?"
+      },
+      {
+        "id": 26,
+        "start": 107,
+        "end": 109,
+        "text": " Okay, I appreciate it. Thank you."
+      },
+      {
+        "id": 27,
+        "start": 109,
+        "end": 110,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 28,
+        "start": 110,
+        "end": 111,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8166-b41f-c26251b9ecda",
+    "url": "https://www.notion.so/300000001241736-300000001731429-30611d0a101c8166b41fc26251b9ecda"
+  },
+  "processedAt": "2026-02-13T18:10:49.738Z"
+}

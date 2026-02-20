@@ -1,0 +1,152 @@
+{
+  "recording": {
+    "name": "300000001220314-300000001710124-8155271366 by john@superbalife.com @ 4_31_59 PM.wav",
+    "size": 134480,
+    "modifyTime": 1769560424000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220314-300000001710124-8155271366 by john@superbalife.com @ 4_31_59 PM.wav",
+    "uploadDate": "2026-01-28T00:33:44.000Z",
+    "callId": "300000001220314-300000001710124",
+    "agent": "john",
+    "phoneNumber": "8155271366",
+    "callTimestamp": "2026-01-28T16:31:59.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you today?\n\nSpeaker 2: Yeah, I'd like to renew my prescription, please.\n\nSpeaker 1: Need your name and zip code.\n\nSpeaker 2: First name is Robert. Last name is Ron, spelled R-A-H-N. Zip code is 60152.\n\nSpeaker 1: Thank you. One moment.\n\nSpeaker 2: Okay. You still at 411 North State Street?\n\nSpeaker 1: Yep.\n\nSpeaker 2: Okay. Same thing you've been doing, the 50 pills?\n\nSpeaker 1: Yep.\n\nSpeaker 2: Okay. And then, am I good to charge the same MasterCard, 3077?\n\nSpeaker 1: No, I have a new card.\n\nSpeaker 2: Okay. Well, whenever you're ready, I am.\n\nSpeaker 1: Okay. Card number is 5213-3314-7941-0533. Expires 01 of 29.\n\nSpeaker 2: Okay. And the security code?\n\nSpeaker 1: Is 809.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay. We're all squared away, Robert. Your order's been placed.\n\nSpeaker 2: This should ship out within one to two business days.\n\nSpeaker 1: I appreciate it. Thank you very much.\n\nSpeaker 2: Hope you have a good one. Bye-bye.\n\nSpeaker 1: You too. Bye.",
+    "duration": 2880,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling. This is John. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 6,
+        "text": " Yeah, I'd like to renew my prescription, please."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 8,
+        "text": " Need your name and zip code."
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 16,
+        "text": " First name is Robert. Last name is Ron, spelled R-A-H-N. Zip code is 60152."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 18,
+        "text": " Thank you. One moment."
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 28,
+        "text": " Okay. You still at 411 North State Street?"
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 29,
+        "text": " Yep."
+      },
+      {
+        "id": 7,
+        "start": 29,
+        "end": 33,
+        "text": " Okay. Same thing you've been doing, the 50 pills?"
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 34,
+        "text": " Yep."
+      },
+      {
+        "id": 9,
+        "start": 34,
+        "end": 41,
+        "text": " Okay. And then, am I good to charge the same MasterCard, 3077?"
+      },
+      {
+        "id": 10,
+        "start": 41,
+        "end": 43,
+        "text": " No, I have a new card."
+      },
+      {
+        "id": 11,
+        "start": 43,
+        "end": 45,
+        "text": " Okay. Well, whenever you're ready, I am."
+      },
+      {
+        "id": 12,
+        "start": 45,
+        "end": 63,
+        "text": " Okay. Card number is 5213-3314-7941-0533. Expires 01 of 29."
+      },
+      {
+        "id": 13,
+        "start": 63,
+        "end": 65,
+        "text": " Okay. And the security code?"
+      },
+      {
+        "id": 14,
+        "start": 65,
+        "end": 67,
+        "text": " Is 809."
+      },
+      {
+        "id": 15,
+        "start": 67,
+        "end": 68,
+        "text": " Thank you."
+      },
+      {
+        "id": 16,
+        "start": 68,
+        "end": 76,
+        "text": " Okay. We're all squared away, Robert. Your order's been placed."
+      },
+      {
+        "id": 17,
+        "start": 76,
+        "end": 78,
+        "text": " This should ship out within one to two business days."
+      },
+      {
+        "id": 18,
+        "start": 78,
+        "end": 80,
+        "text": " I appreciate it. Thank you very much."
+      },
+      {
+        "id": 19,
+        "start": 80,
+        "end": 81,
+        "text": " Hope you have a good one. Bye-bye."
+      },
+      {
+        "id": 20,
+        "start": 81,
+        "end": 82,
+        "text": " You too. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8115-9e39-d0bd41b597c7",
+    "url": "https://www.notion.so/300000001220314-300000001710124-2f611d0a101c81159e39d0bd41b597c7"
+  },
+  "processedAt": "2026-01-28T17:40:59.730Z"
+}

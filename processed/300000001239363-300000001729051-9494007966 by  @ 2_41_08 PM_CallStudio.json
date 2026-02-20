@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001239363-300000001729051-9494007966 by  @ 2_41_08 PM_CallStudio.wav",
+    "size": 29830,
+    "modifyTime": 1770849708000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239363-300000001729051-9494007966 by  @ 2_41_08 PM_CallStudio.wav",
+    "uploadDate": "2026-02-11T22:41:48.000Z",
+    "callId": "300000001239363-300000001729051",
+    "phoneNumber": "9494007966",
+    "callTimestamp": "2026-02-11T22:41:48.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I was charged for something that I don't want.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 880,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 10,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 15,
+        "text": " I was charged for something that I don't want."
+      },
+      {
+        "id": 3,
+        "start": 15,
+        "end": 18,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-8187-a262-d552668ebe02",
+    "url": "https://www.notion.so/300000001239363-300000001729051-30411d0a101c8187a262d552668ebe02"
+  },
+  "processedAt": "2026-02-11T23:08:01.560Z"
+}

@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001219285-300000001709413-7264003677 by  @ 10_44_40 AM_CallStudio.wav",
+    "size": 28466,
+    "modifyTime": 1769584333000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219285-300000001709413-7264003677 by  @ 10_44_40 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:12:13.000Z",
+    "callId": "300000001219285-300000001709413",
+    "phoneNumber": "7264003677",
+    "callTimestamp": "2026-01-28T07:12:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: I'm calling about an order that I didn't, I haven't ordered yet.",
+    "duration": 1501,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.71999979019165,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.71999979019165,
+        "end": 7.71999979019165,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.71999979019165,
+        "end": 8.720000267028809,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.720000267028809,
+        "end": 17.15999984741211,
+        "text": " I'm calling about an order that I didn't, I haven't ordered yet."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816f-a0d2-f3c1d92f793b",
+    "url": "https://www.notion.so/300000001219285-300000001709413-2f611d0a101c816fa0d2f3c1d92f793b"
+  },
+  "processedAt": "2026-01-28T15:11:26.319Z"
+}

@@ -1,0 +1,104 @@
+{
+  "recording": {
+    "name": "300000001218096-300000001708176-6153517050 by olivier@superbalife.com @ 1_14_26 PM.wav",
+    "size": 165486,
+    "modifyTime": 1769585239000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218096-300000001708176-6153517050 by olivier@superbalife.com @ 1_14_26 PM.wav",
+    "uploadDate": "2026-01-28T07:27:19.000Z",
+    "callId": "300000001218096-300000001708176",
+    "agent": "olivier",
+    "phoneNumber": "6153517050",
+    "callTimestamp": "2026-01-28T13:14:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: This message has been transcribed. One moment while I know. Hello? Hello, Mr.\n\nSpeaker 2: David Fagan, yes. Uh-huh. Are we doing, sir, in Mount\n\nSpeaker 1: Tennessee? Yes, sir. Uh-huh. How can I help you, sir?\n\nSpeaker 2: Um, I was wanting to call. I placed an order on Friday,\n\nSpeaker 2: but I decided I didn't want to do the order, so I was just wanting to call and cancel that.\n\nSpeaker 1: Okay, so what you can do when you receive it, return it because, yeah, it's shipped already because\n\nSpeaker 2: you placed the order kind of, we pretty fast, 24 on the 24th, so you can just return it when you get\n\nSpeaker 1: it. Okay, just write \"refuse,\" don't open it, right? Refuse return on the label, leave it in your mailbox.\n\nSpeaker 2: The mailman is going to take that, and when they scan it to update, we will see that the order is coming\n\nSpeaker 1: back to us. Okay, and we're going to refund you. I think it's $74.95 your total. Oh, okay, so just\n\nSpeaker 2: write on the same package, yes, refuse return, return. Yeah, refuse and return. Yes, absolutely.\n\nSpeaker 1: Okay, all right. Well, thank you, sir. I really appreciate that. Now, when you do that,\n\nSpeaker 2: maybe four days later, just call us to follow up. Okay.\n\nSpeaker 1: Okay, all right. Well, thank you, sir.\n\nSpeaker 2: You're welcome. Bye-bye.\n\nSpeaker 1: All right, bye-bye.",
+    "duration": 4729,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 16.719999313354492,
+        "text": " this message has been transcribed one moment while I know hello hello mr."
+      },
+      {
+        "id": 1,
+        "start": 16.719999313354492,
+        "end": 22.399999618530273,
+        "text": " David Fagan yes uh-huh are we doing sir in Mount"
+      },
+      {
+        "id": 2,
+        "start": 22.8799991607666,
+        "end": 33.119998931884766,
+        "text": " Tennessee yes sir uh-huh how can I help you sir um I was wanting to call I placed an order on Friday"
+      },
+      {
+        "id": 3,
+        "start": 33.119998931884766,
+        "end": 39.20000076293945,
+        "text": " but I decided I didn't want to do the order so I was just wanting to call and cancel that"
+      },
+      {
+        "id": 4,
+        "start": 40.2400016784668,
+        "end": 45.599998474121094,
+        "text": " okay so what you can do when you receive it return it because yeah shift already because"
+      },
+      {
+        "id": 5,
+        "start": 45.599998474121094,
+        "end": 52.08000183105469,
+        "text": " you placed the order kind of we pretty fast 24 on the 24th so you can just return it when you get"
+      },
+      {
+        "id": 6,
+        "start": 52.08000183105469,
+        "end": 58.560001373291016,
+        "text": " it okay just write refuse don't open it right refuse return on the label leave it in your mailbox"
+      },
+      {
+        "id": 7,
+        "start": 58.560001373291016,
+        "end": 64.55999755859375,
+        "text": " the mailman going to take that and when they scan it to update we will see that the order is coming"
+      },
+      {
+        "id": 8,
+        "start": 64.55999755859375,
+        "end": 71.5999984741211,
+        "text": " back to us okay and we're going to refund you I think it's 74.95 your total oh okay so just"
+      },
+      {
+        "id": 9,
+        "start": 71.5999984741211,
+        "end": 85.12000274658203,
+        "text": " write on the same package yes refuse return return yeah refuse and return yes absolutely"
+      },
+      {
+        "id": 10,
+        "start": 86.4800033569336,
+        "end": 91.5999984741211,
+        "text": " okay all right well thank you sir I really appreciate that now when you do that um"
+      },
+      {
+        "id": 11,
+        "start": 91.5999984741211,
+        "end": 98.16000366210938,
+        "text": " maybe four days later just call us to follow up okay okay all right well thank you sir"
+      },
+      {
+        "id": 12,
+        "start": 98.16000366210938,
+        "end": 101.5999984741211,
+        "text": " you're welcome bye-bye all right bye-bye"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8153-aaf5-cbc8e2411acd",
+    "url": "https://www.notion.so/300000001218096-300000001708176-2f611d0a101c8153aaf5cbc8e2411acd"
+  },
+  "processedAt": "2026-01-28T14:28:39.820Z"
+}

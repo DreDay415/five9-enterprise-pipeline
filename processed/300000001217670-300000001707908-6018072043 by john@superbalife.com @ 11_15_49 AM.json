@@ -1,0 +1,56 @@
+{
+  "recording": {
+    "name": "300000001217670-300000001707908-6018072043 by john@superbalife.com @ 11_15_49 AM.wav",
+    "size": 31130,
+    "modifyTime": 1769585527000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217670-300000001707908-6018072043 by john@superbalife.com @ 11_15_49 AM.wav",
+    "uploadDate": "2026-01-28T07:32:07.000Z",
+    "callId": "300000001217670-300000001707908",
+    "agent": "john",
+    "phoneNumber": "6018072043",
+    "callTimestamp": "2026-01-28T11:15:49.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling. This is John. How can I help you?\n\nSpeaker 2: Yeah. How you doing?\n\nSpeaker 1: Doing well. What can I help you with today?\n\nSpeaker 2: Yes, man. Y'all took $40 out of my account, and I was wondering why I did that.\n\nSpeaker 1: Let me get you somebody that will help you with that real quick. They'll help you out in one second.",
+    "duration": 1025,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thanks for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Yeah. How you doing?"
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 8,
+        "text": " Doing well. What can I help you with today?"
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 14,
+        "text": " Yes, man. Y'all took $40 out of my account, and I was wondering why I did that."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 19,
+        "text": " Let me get you somebody that will help you with that real quick. They'll help you out in one second."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e1-9acd-ffa1b855e241",
+    "url": "https://www.notion.so/300000001217670-300000001707908-2f611d0a101c81e19acdffa1b855e241"
+  },
+  "processedAt": "2026-01-28T14:25:06.373Z"
+}

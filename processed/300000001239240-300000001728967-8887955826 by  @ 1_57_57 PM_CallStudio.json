@@ -1,0 +1,67 @@
+{
+  "recording": {
+    "name": "300000001239240-300000001728967-8887955826 by  @ 1_57_57 PM_CallStudio.wav",
+    "size": 34836,
+    "modifyTime": 1770847122000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239240-300000001728967-8887955826 by  @ 1_57_57 PM_CallStudio.wav",
+    "uploadDate": "2026-02-11T21:58:42.000Z",
+    "callId": "300000001239240-300000001728967",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-02-11T21:58:42.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: I'd like to cancel my prescription for Sildenafil. I think it's being stolen out of the mailbox.\n\nSpeaker 1: Thanks.",
+    "duration": 971,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.079999923706055,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.079999923706055,
+        "end": 7.079999923706055,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.079999923706055,
+        "end": 12.800000190734863,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 12.800000190734863,
+        "end": 18.520000457763672,
+        "text": " I'd like to cancel my prescription for Sildenafil."
+      },
+      {
+        "id": 4,
+        "start": 18.520000457763672,
+        "end": 20,
+        "text": " I think it's being stolen out of the mailbox."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 21,
+        "text": " Thanks."
+      },
+      {
+        "id": 6,
+        "start": 21,
+        "end": 21,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-81e3-aa35-e4683e425644",
+    "url": "https://www.notion.so/300000001239240-300000001728967-30411d0a101c81e3aa35e4683e425644"
+  },
+  "processedAt": "2026-02-11T22:01:36.232Z"
+}

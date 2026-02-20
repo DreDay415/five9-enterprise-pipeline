@@ -1,0 +1,146 @@
+{
+  "recording": {
+    "name": "300000001218153-300000001708201-9128563089 by olivier@superbalife.com @ 1_29_57 PM.wav",
+    "size": 89826,
+    "modifyTime": 1769593027000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218153-300000001708201-9128563089 by olivier@superbalife.com @ 1_29_57 PM.wav",
+    "uploadDate": "2026-01-28T09:37:07.000Z",
+    "callId": "300000001218153-300000001708201",
+    "agent": "olivier",
+    "phoneNumber": "9128563089",
+    "callTimestamp": "2026-01-28T13:29:57.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I was talking to my manager explaining that she wasn't ready, so willing to provide, I\n\nSpeaker 2: think it's a 30 to 35% discount, I think you're going to get $20 off or $23 off, so it's going\n\nSpeaker 1: to come to $40.95, I think.\n\nSpeaker 2: I'll just cancel, I'll just cancel the day, I mean, I'll just return it.\n\nSpeaker 1: You want to return it?\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: All right, so just write refuse return to the sender, and I told the pharmacy to pause,\n\nSpeaker 1: so you're just going to order as needed, okay?\n\nSpeaker 2: That sounds good.\n\nSpeaker 1: All right.\n\nSpeaker 2: All right, so you're all set.\n\nSpeaker 1: All right, thank you, sir.\n\nSpeaker 2: You have a good afternoon.\n\nSpeaker 1: You too.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye.",
+    "duration": 2936,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8.680000305175781,
+        "text": " I was talking to my manager explaining that she wasn't ready, so willing to provide, I"
+      },
+      {
+        "id": 1,
+        "start": 8.680000305175781,
+        "end": 20.15999984741211,
+        "text": " think it's a 30 to 35% discount, I think you're going to get $20 off or $23 off, so it's going"
+      },
+      {
+        "id": 2,
+        "start": 20.15999984741211,
+        "end": 25.15999984741211,
+        "text": " to come to $40.95, I think."
+      },
+      {
+        "id": 3,
+        "start": 25.15999984741211,
+        "end": 34.439998626708984,
+        "text": " I'll just cancel, I'll just cancel the day, I mean, I'll just return it."
+      },
+      {
+        "id": 4,
+        "start": 34.439998626708984,
+        "end": 36.119998931884766,
+        "text": " You want to return it?"
+      },
+      {
+        "id": 5,
+        "start": 36.119998931884766,
+        "end": 37.119998931884766,
+        "text": " Okay."
+      },
+      {
+        "id": 6,
+        "start": 37.119998931884766,
+        "end": 38.119998931884766,
+        "text": " Yeah."
+      },
+      {
+        "id": 7,
+        "start": 38.119998931884766,
+        "end": 42.52000045776367,
+        "text": " All right, so just write refuse return to the sender, and I told the pharmacy to pause,"
+      },
+      {
+        "id": 8,
+        "start": 42.52000045776367,
+        "end": 45.880001068115234,
+        "text": " so you're just going to order as needed, okay?"
+      },
+      {
+        "id": 9,
+        "start": 45.880001068115234,
+        "end": 46.880001068115234,
+        "text": " That sounds good."
+      },
+      {
+        "id": 10,
+        "start": 46.880001068115234,
+        "end": 47.880001068115234,
+        "text": " All right."
+      },
+      {
+        "id": 11,
+        "start": 47.880001068115234,
+        "end": 48.880001068115234,
+        "text": " All right, so you're all set."
+      },
+      {
+        "id": 12,
+        "start": 48.880001068115234,
+        "end": 49.880001068115234,
+        "text": " All right, thank you, sir."
+      },
+      {
+        "id": 13,
+        "start": 49.880001068115234,
+        "end": 50.880001068115234,
+        "text": " You have a good afternoon."
+      },
+      {
+        "id": 14,
+        "start": 50.880001068115234,
+        "end": 51.880001068115234,
+        "text": " You too."
+      },
+      {
+        "id": 15,
+        "start": 51.880001068115234,
+        "end": 52.880001068115234,
+        "text": " You're welcome."
+      },
+      {
+        "id": 16,
+        "start": 52.880001068115234,
+        "end": 53.880001068115234,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 17,
+        "start": 53.880001068115234,
+        "end": 54.880001068115234,
+        "text": " Bye."
+      },
+      {
+        "id": 18,
+        "start": 54.880001068115234,
+        "end": 55.880001068115234,
+        "text": " Bye."
+      },
+      {
+        "id": 19,
+        "start": 55.880001068115234,
+        "end": 55.880001068115234,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ab-9f99-c81c800e6e39",
+    "url": "https://www.notion.so/300000001218153-300000001708201-2f611d0a101c81ab9f99c81c800e6e39"
+  },
+  "processedAt": "2026-01-28T10:02:40.808Z"
+}

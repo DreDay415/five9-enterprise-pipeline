@@ -1,0 +1,211 @@
+{
+  "recording": {
+    "name": "300000001219067-300000001709239-2076121136 by LeoF @ 9_50_32 AM.wav",
+    "size": 178616,
+    "modifyTime": 1769583737000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219067-300000001709239-2076121136 by LeoF @ 9_50_32 AM.wav",
+    "uploadDate": "2026-01-28T07:02:17.000Z",
+    "callId": "300000001219067-300000001709239",
+    "phoneNumber": "2076121136",
+    "callTimestamp": "2026-01-28T09:50:32.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, I just got a call from Agra. How can I help you?\n\nSpeaker 2: Yes, I'd like to purchase the smallest amount that you can get of those pills.\n\nSpeaker 1: Yeah, I can help you out with that. That's no problem.\n\nSpeaker 2: What's that?\n\nSpeaker 1: I can help you out. That's no problem. Have you placed an order with us before?\n\nSpeaker 2: I know.\n\nSpeaker 1: What's your name?\n\nSpeaker 2: John L. White. You've got all the information, but I don't know where to go from there.\n\nSpeaker 1: Yeah, I can help you place an order, Mr. White.\n\nSpeaker 2: So the smallest you have is 10 pills for $63.95. Do you want to do that?\n\nSpeaker 1: $63.95 for 10 pills?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Yeah, I can do that. How long will it take them to get here?\n\nSpeaker 2: Three to five days, but the doctor has to speak with you on the phone before we send the medicine.\n\nSpeaker 1: Are you okay for a phone call from the doctor?\n\nSpeaker 2: From a doctor?\n\nSpeaker 1: From our doctor.\n\nSpeaker 2: Yeah, I am. Yeah, your doctor for sure.\n\nSpeaker 1: Okay. Are you at 93 Chapman, what is that, Road, Athens, Maine? 04912?\n\nSpeaker 2: It is. It is.\n\nSpeaker 1: I have a visa that ends in 5883. Is that the card you wanted to use?\n\nSpeaker 2: What's that again?\n\nSpeaker 1: I have a visa that ends in 5883. Is that the card you wanted to use?\n\nSpeaker 2: 5883, yeah.\n\nSpeaker 1: Okay, perfect. I'm going to place this order for you. I'm going to have the doctor give you a call today, so just look out for that, okay, John, in the next hour or so.\n\nSpeaker 2: A doctor's call in the next hour or so?\n\nSpeaker 1: Yeah, maybe two hours, but just look out for that call today, okay?\n\nSpeaker 2: All righty, that's fine.\n\nSpeaker 1: All right, thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Bye-bye.",
+    "duration": 6537,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hey, I just got a call from Agra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 10,
+        "text": " Yes, I'd like to purchase the smallest amount that you can get of those pills."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 13,
+        "text": " Yeah, I can help you out with that. That's no problem."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 14,
+        "text": " What's that?"
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 19,
+        "text": " I can help you out. That's no problem. Have you placed an order with us before?"
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 21,
+        "text": " I know."
+      },
+      {
+        "id": 6,
+        "start": 21,
+        "end": 23,
+        "text": " What's your name?"
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 31,
+        "text": " John L. White. You've got all the information, but I don't know where to go from there."
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 37,
+        "text": " Yeah, I can help you place an order, Mr. White."
+      },
+      {
+        "id": 9,
+        "start": 37,
+        "end": 44,
+        "text": " So the smallest you have is 10 pills for $63.95. Do you want to do that?"
+      },
+      {
+        "id": 10,
+        "start": 44,
+        "end": 47,
+        "text": " $63.95 for 10 pills?"
+      },
+      {
+        "id": 11,
+        "start": 47,
+        "end": 49,
+        "text": " Yeah."
+      },
+      {
+        "id": 12,
+        "start": 49,
+        "end": 53,
+        "text": " Yeah, I can do that. How long will it take them to get here?"
+      },
+      {
+        "id": 13,
+        "start": 53,
+        "end": 57,
+        "text": " Three to five days, but the doctor has to speak with you on the phone before we send the medicine."
+      },
+      {
+        "id": 14,
+        "start": 57,
+        "end": 61,
+        "text": " Are you okay for a phone call from the doctor?"
+      },
+      {
+        "id": 15,
+        "start": 61,
+        "end": 63,
+        "text": " From a doctor?"
+      },
+      {
+        "id": 16,
+        "start": 63,
+        "end": 64,
+        "text": " From our doctor."
+      },
+      {
+        "id": 17,
+        "start": 64,
+        "end": 67,
+        "text": " Yeah, I am. Yeah, your doctor for sure."
+      },
+      {
+        "id": 18,
+        "start": 67,
+        "end": 72,
+        "text": " Okay. Are you at 93 Chapman, what is that, Road, Athens, Maine? 04912?"
+      },
+      {
+        "id": 19,
+        "start": 72,
+        "end": 75,
+        "text": " It is. It is."
+      },
+      {
+        "id": 20,
+        "start": 75,
+        "end": 79,
+        "text": " I have a visa that ends in 5883. Is that the card you wanted to use?"
+      },
+      {
+        "id": 21,
+        "start": 79,
+        "end": 81,
+        "text": " What's that again?"
+      },
+      {
+        "id": 22,
+        "start": 81,
+        "end": 85,
+        "text": " I have a visa that ends in 5883. Is that the card you wanted to use?"
+      },
+      {
+        "id": 23,
+        "start": 85,
+        "end": 90,
+        "text": " 5883, yeah."
+      },
+      {
+        "id": 24,
+        "start": 90,
+        "end": 97,
+        "text": " Okay, perfect. I'm going to place this order for you. I'm going to have the doctor give you a call today, so just look out for that, okay, John, in the next hour or so."
+      },
+      {
+        "id": 25,
+        "start": 97,
+        "end": 100,
+        "text": " A doctor's call in the next hour or so?"
+      },
+      {
+        "id": 26,
+        "start": 100,
+        "end": 103,
+        "text": " Yeah, maybe two hours, but just look out for that call today, okay?"
+      },
+      {
+        "id": 27,
+        "start": 104,
+        "end": 106,
+        "text": " All righty, that's fine."
+      },
+      {
+        "id": 28,
+        "start": 106,
+        "end": 108,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 29,
+        "start": 108,
+        "end": 109,
+        "text": " Thank you."
+      },
+      {
+        "id": 30,
+        "start": 109,
+        "end": 110,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8188-acee-ebb7a8e7705d",
+    "url": "https://www.notion.so/300000001219067-300000001709239-2f611d0a101c8188aceeebb7a8e7705d"
+  },
+  "processedAt": "2026-01-28T15:50:57.854Z"
+}

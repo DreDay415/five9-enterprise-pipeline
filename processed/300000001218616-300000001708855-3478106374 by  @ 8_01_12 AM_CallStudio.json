@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001218616-300000001708855-3478106374 by  @ 8_01_12 AM_CallStudio.wav",
+    "size": 21706,
+    "modifyTime": 1769587333000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218616-300000001708855-3478106374 by  @ 8_01_12 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T08:02:13.000Z",
+    "callId": "300000001218616-300000001708855",
+    "phoneNumber": "3478106374",
+    "callTimestamp": "2026-01-28T08:02:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: My name is Ashley Gill.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1061,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.340000152587891,
+        "end": 6.800000190734863,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.139999866485596,
+        "end": 8.600000381469727,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.039999961853027,
+        "end": 10.319999694824219,
+        "text": " My name is Ashley Gill."
+      },
+      {
+        "id": 4,
+        "start": 11.359999656677246,
+        "end": 12.960000038146973,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8140-9954-e6611aa88a7a",
+    "url": "https://www.notion.so/300000001218616-300000001708855-2f611d0a101c81409954e6611aa88a7a"
+  },
+  "processedAt": "2026-01-28T13:23:57.789Z"
+}

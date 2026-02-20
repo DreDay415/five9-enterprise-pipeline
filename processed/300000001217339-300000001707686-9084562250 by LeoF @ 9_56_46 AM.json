@@ -1,0 +1,259 @@
+{
+  "recording": {
+    "name": "300000001217339-300000001707686-9084562250 by LeoF @ 9_56_46 AM.wav",
+    "size": 297696,
+    "modifyTime": 1769585834000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217339-300000001707686-9084562250 by LeoF @ 9_56_46 AM.wav",
+    "uploadDate": "2026-01-28T07:37:14.000Z",
+    "callId": "300000001217339-300000001707686",
+    "phoneNumber": "9084562250",
+    "callTimestamp": "2026-01-28T09:56:46.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, thanks for calling Viagra. How can I help you?\n\nSpeaker 2: Yes, I'm just calling to make sure that my order went through because when they took the money out of my card,\n\nSpeaker 1: it said something about verifying my identity. I had to take a selfie and a picture of my driver's license and stuff.\n\nSpeaker 2: So I just wanted to make sure everything was correct on your end.\n\nSpeaker 1: Okay, what was your first and last name?\n\nSpeaker 2: First name is Travis, last name is P as in Peter, I as in I, C as in Cat, O as in Oscar, U as in Unicorn.\n\nSpeaker 1: And your date of birth and address, Mr. Travis?\n\nSpeaker 2: My date of birth is 7-28-1978.\n\nSpeaker 1: Okay, so my new address is 2618 Millburn Boulevard in Kissimmee, Florida.\n\nSpeaker 2: But my billing address is different, so I just wanted to make sure that it wasn't a mix-up with that.\n\nSpeaker 1: And then what's the address on the ID there?\n\nSpeaker 2: The ID is actually an old address. It's not the billing address. It was the address that I lived prior to the billing address.\n\nSpeaker 1: Can you go ahead and confirm that for me, please?\n\nSpeaker 2: It's 12 DuPont, Alpaca, New Jersey.\n\nSpeaker 1: That's what triggered it. It's because your ID and the address was different than your shipping address.\n\nSpeaker 2: But since you're on the phone with me, I can confirm all this for you. That's no problem.\n\nSpeaker 1: So you'll see this order start to process normally now, Travis.\n\nSpeaker 2: It'll ship out. It's not going to ship out today because they're having a winter storm where we ship from.\n\nSpeaker 1: But tomorrow they said they'll be back on. I've seen you guys over in your area getting pumped on.\n\nSpeaker 2: But it should be there by the end of the week. You should see that order show up.\n\nSpeaker 1: You'll get a tracking number and a confirmation email as well, okay?\n\nSpeaker 2: So I should get the actual order sometime at the end of this week?\n\nSpeaker 1: Yeah, they're moving a little slow with USPS because of all the winter storms in the southeast and the north and all that.\n\nSpeaker 2: But they said they're going to be running as normal by tomorrow, so you should be good to go.\n\nSpeaker 1: You'll see that by the end of the week. You'll get a tracking number to your email.\n\nSpeaker 2: That's USPS, like your regular postal mail. I'll bring that by.\n\nSpeaker 1: Okay, sounds good. Now, this is a money-back guarantee type of thing because I've never tried this before.\n\nSpeaker 2: Yeah, if you haven't tried it, I'm sure you'll get great results.\n\nSpeaker 1: But if you don't, yeah, call us back, and then you can get your money back if you send it back or whatever. Absolutely.\n\nSpeaker 2: Okay. Sounds good, but you've never had that issue, huh?\n\nSpeaker 1: Some people. I mean, it doesn't work for every single guy, but you don't seem too old.\n\nSpeaker 2: And you said you've never tried it before, so I'm sure you'll get some really good results.\n\nSpeaker 1: Okay. All right. We'll see. So everything is good on your end as far as the shipping and all that stuff?\n\nSpeaker 2: Yep. Now you're just waiting. The doctor's going to look at this.\n\nSpeaker 1: Like we said, you're not like an older guy, not an unhealthy person,\n\nSpeaker 2: so you shouldn't see any problem getting the order approved and then sent out.\n\nSpeaker 1: Okay. Sounds good. Okay. I appreciate it. You've been great. Thank you for your time.\n\nSpeaker 2: No problem. Thank you for yours. You enjoy the rest of your day, sir. Bye-bye now.\n\nSpeaker 1: You too.",
+    "duration": 10653,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hey, thanks for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 10,
+        "text": " Yes, I'm just calling to make sure that my order went through because when they took the money out of my card,"
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 18,
+        "text": " it said something about verifying my identity. I had to take a selfie and a picture of my driver's license and stuff."
+      },
+      {
+        "id": 3,
+        "start": 18,
+        "end": 21,
+        "text": " So I just wanted to make sure everything was correct on your end."
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 23,
+        "text": " Okay, what was your first and last name?"
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 34,
+        "text": " First name is Travis, last name is P as in Peter, I as in C as in Cat, O as in Oscar, U as in Unicorn."
+      },
+      {
+        "id": 6,
+        "start": 34,
+        "end": 37,
+        "text": " And your date of birth and address, Mr. Travis?"
+      },
+      {
+        "id": 7,
+        "start": 37,
+        "end": 42,
+        "text": " My date of birth is 7-28-1978."
+      },
+      {
+        "id": 8,
+        "start": 42,
+        "end": 51,
+        "text": " Okay, so my new address is 2618 Millburn Boulevard in Kissimmee, Florida."
+      },
+      {
+        "id": 9,
+        "start": 51,
+        "end": 56,
+        "text": " But my billing address is different, so I just wanted to make sure that it wasn't a mix-up with that."
+      },
+      {
+        "id": 10,
+        "start": 56,
+        "end": 58,
+        "text": " And then what's the address on the ID there?"
+      },
+      {
+        "id": 11,
+        "start": 58,
+        "end": 66,
+        "text": " The ID is actually an old address. It's not the billing address. It was the address that I lived prior to the billing address."
+      },
+      {
+        "id": 12,
+        "start": 66,
+        "end": 70,
+        "text": " Can you go ahead and confirm that for me, please?"
+      },
+      {
+        "id": 13,
+        "start": 70,
+        "end": 74,
+        "text": " It's 12 DuPont, Alpaca, New Jersey."
+      },
+      {
+        "id": 14,
+        "start": 74,
+        "end": 81,
+        "text": " That's what triggered it. It's because your ID and the address was different than your shipping address."
+      },
+      {
+        "id": 15,
+        "start": 81,
+        "end": 84,
+        "text": " But since you're on the phone with me, I can confirm all this for you. That's no problem."
+      },
+      {
+        "id": 16,
+        "start": 84,
+        "end": 87,
+        "text": " So you'll see this order start to process normally now, Travis."
+      },
+      {
+        "id": 17,
+        "start": 87,
+        "end": 93,
+        "text": " It'll ship out. It's not going to ship out today because they're having a winter storm where we ship from."
+      },
+      {
+        "id": 18,
+        "start": 93,
+        "end": 98,
+        "text": " But tomorrow they said they'll be back on. I've seen you guys over in your area getting pumped on."
+      },
+      {
+        "id": 19,
+        "start": 99,
+        "end": 103,
+        "text": " But it should be there by the end of the week. You should see that order show up."
+      },
+      {
+        "id": 20,
+        "start": 103,
+        "end": 107,
+        "text": " You'll get a tracking number and a confirmation email as well, okay?"
+      },
+      {
+        "id": 21,
+        "start": 107,
+        "end": 112,
+        "text": " So I should get the actual order sometime at the end of this week?"
+      },
+      {
+        "id": 22,
+        "start": 112,
+        "end": 118,
+        "text": " Yeah, they're moving a little slow with USPS because of all the winter storms in the southeast and the north and all that."
+      },
+      {
+        "id": 23,
+        "start": 118,
+        "end": 122,
+        "text": " But they said they're going to be running as normal by tomorrow, so you should be good to go."
+      },
+      {
+        "id": 24,
+        "start": 122,
+        "end": 125,
+        "text": " You'll see that by the end of the week. You'll get a tracking number to your email."
+      },
+      {
+        "id": 25,
+        "start": 125,
+        "end": 128,
+        "text": " That's USPS, like your regular postal mail. I'll bring that by."
+      },
+      {
+        "id": 26,
+        "start": 128,
+        "end": 135,
+        "text": " Okay, sounds good. Now, this is a money-back guarantee type of thing because I've never tried this before."
+      },
+      {
+        "id": 27,
+        "start": 135,
+        "end": 138,
+        "text": " Yeah, if you haven't tried it, I'm sure you'll get great results."
+      },
+      {
+        "id": 28,
+        "start": 138,
+        "end": 144,
+        "text": " But if you don't, yeah, call us back, and then you can get your money back if you send it back or whatever. Absolutely."
+      },
+      {
+        "id": 29,
+        "start": 144,
+        "end": 147,
+        "text": " Okay. Sounds good, but you've never had that issue, huh?"
+      },
+      {
+        "id": 30,
+        "start": 147,
+        "end": 151,
+        "text": " Some people. I mean, it doesn't work for every single guy, but you don't seem too old."
+      },
+      {
+        "id": 31,
+        "start": 151,
+        "end": 155,
+        "text": " And you said you've never tried it before, so I'm sure you'll get some really good results."
+      },
+      {
+        "id": 32,
+        "start": 155,
+        "end": 163,
+        "text": " Okay. All right. We'll see. So everything is good on your end as far as the shipping and all that stuff?"
+      },
+      {
+        "id": 33,
+        "start": 163,
+        "end": 165,
+        "text": " Yep. Now you're just waiting. The doctor's going to look at this."
+      },
+      {
+        "id": 34,
+        "start": 165,
+        "end": 168,
+        "text": " Like we said, you're not like an older guy, not an unhealthy person,"
+      },
+      {
+        "id": 35,
+        "start": 168,
+        "end": 173,
+        "text": " so you shouldn't see any problem getting the order approved and then sent out."
+      },
+      {
+        "id": 36,
+        "start": 173,
+        "end": 178,
+        "text": " Okay. Sounds good. Okay. I appreciate it. You've been great. Thank you for your time."
+      },
+      {
+        "id": 37,
+        "start": 178,
+        "end": 181,
+        "text": " No problem. Thank you for yours. You enjoy the rest of your day, sir. Bye-bye now."
+      },
+      {
+        "id": 38,
+        "start": 181,
+        "end": 182,
+        "text": " You too."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-818f-bcb6-e78cbc884b92",
+    "url": "https://www.notion.so/300000001217339-300000001707686-2f611d0a101c818fbcb6e78cbc884b92"
+  },
+  "processedAt": "2026-01-28T14:11:08.813Z"
+}

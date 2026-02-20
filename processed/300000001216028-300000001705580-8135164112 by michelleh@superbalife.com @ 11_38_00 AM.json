@@ -1,0 +1,92 @@
+{
+  "recording": {
+    "name": "300000001216028-300000001705580-8135164112 by michelleh@superbalife.com @ 11_38_00 AM.wav",
+    "size": 81570,
+    "modifyTime": 1769587031000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216028-300000001705580-8135164112 by michelleh@superbalife.com @ 11_38_00 AM.wav",
+    "uploadDate": "2026-01-28T07:57:11.000Z",
+    "callId": "300000001216028-300000001705580",
+    "agent": "michelleh",
+    "phoneNumber": "8135164112",
+    "callTimestamp": "2026-01-28T11:38:00.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Oh, yeah, I'm calling. I want to cancel a prescription I have.\n\nSpeaker 1: Okay, James, I can help you out with that. Can I have you confirm your date of birth?\n\nSpeaker 2: July 26, 1944.\n\nSpeaker 1: Thank you so much. I see you're a VIP status customer. And how's the medication working out for you?\n\nSpeaker 2: I get dizzy when I take it. I almost fell down yesterday. I can't take it anymore.\n\nSpeaker 1: No problem, James. I went ahead and canceled you out. You're all set.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: All right. Take care of yourself. Have a good day.\n\nSpeaker 2: Yep.\n\nSpeaker 1: Bye.",
+    "duration": 1495,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 10,
+        "text": " Oh, yeah, I'm calling. I want to cancel a prescription I have."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 15,
+        "text": " Okay, James, I can help you out with that. Can I have you confirm your date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 15,
+        "end": 19,
+        "text": " July 26, 1944."
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 26,
+        "text": " Thank you so much. I see you're a VIP status customer. And how's the medication working out for you?"
+      },
+      {
+        "id": 5,
+        "start": 26,
+        "end": 38,
+        "text": " I get dizzy when I take it. I almost fell down yesterday. I can't take it anymore."
+      },
+      {
+        "id": 6,
+        "start": 38,
+        "end": 42,
+        "text": " No problem, James. I went ahead and canceled you out. You're all set."
+      },
+      {
+        "id": 7,
+        "start": 42,
+        "end": 44,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 8,
+        "start": 44,
+        "end": 47,
+        "text": " All right. Take care of yourselves. Have a good day."
+      },
+      {
+        "id": 9,
+        "start": 47,
+        "end": 48,
+        "text": " Yep."
+      },
+      {
+        "id": 10,
+        "start": 48,
+        "end": 50,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8110-bf42-f2629e7ae901",
+    "url": "https://www.notion.so/300000001216028-300000001705580-2f611d0a101c8110bf42f2629e7ae901"
+  },
+  "processedAt": "2026-01-28T13:33:26.635Z"
+}

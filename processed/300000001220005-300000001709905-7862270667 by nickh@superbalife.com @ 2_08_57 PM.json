@@ -1,0 +1,158 @@
+{
+  "recording": {
+    "name": "300000001220005-300000001709905-7862270667 by nickh@superbalife.com @ 2_08_57 PM.wav",
+    "size": 148650,
+    "modifyTime": 1769551836000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220005-300000001709905-7862270667 by nickh@superbalife.com @ 2_08_57 PM.wav",
+    "uploadDate": "2026-01-27T22:10:36.000Z",
+    "callId": "300000001220005-300000001709905",
+    "agent": "nickh",
+    "phoneNumber": "7862270667",
+    "callTimestamp": "2026-01-27T14:08:57.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I help you today?\n\nSpeaker 2: Hello there. Yeah, I placed an order either Thursday or Friday, last Friday, and they never sent me the tracking number, you know, when it's going to be delivered or, you know, any kind of information in that matter.\n\nSpeaker 1: Okay. Well, let me take a look here. Can you provide me your full name and date of birth?\n\nSpeaker 2: Okay.\n\nSpeaker 1: So I see that you placed the order on the 24th.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay. So the 24th, that would have been Saturday.\n\nSpeaker 2: Because we're closed on Saturdays and Sundays, the order was started on yesterday.\n\nSpeaker 1: Okay. It's going to get shipped out here by the end of today.\n\nSpeaker 2: Okay. So the shipping label is created. It will head out this afternoon.\n\nSpeaker 1: But what I'm going to do for you here is I'm going to put your phone number in with the United States Postal Service. Okay?\n\nSpeaker 2: So you're about to receive a text message, and that will be your tracking for this.\n\nSpeaker 1: Okay. Beautiful.\n\nSpeaker 2: All right. You should have received a text message to confirm,\n\nSpeaker 1: and that is your tracking information.\n\nSpeaker 2: Okay. Thank you. Anything else?\n\nSpeaker 1: No, sir. You're all set.\n\nSpeaker 2: All right. Thank you. Have a good night.\n\nSpeaker 1: Thank you. Bye-bye.\n\nSpeaker 2: Bye.",
+    "duration": 4115,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Viagra. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 9,
+        "text": " Hello there. Yeah, I placed an order either Thursday or Friday, last Friday,"
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 14,
+        "text": " and they never sent me the tracking number, you know, when it's going to be delivered"
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 19,
+        "text": " or, you know, any kind of information in that matter."
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 25,
+        "text": " Okay. Well, let me take a look here. Can you provide me your full name and date of birth?"
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 39,
+        "text": " Okay. So I see that you placed the order on the 24th."
+      },
+      {
+        "id": 6,
+        "start": 39,
+        "end": 40,
+        "text": " Yes."
+      },
+      {
+        "id": 7,
+        "start": 40,
+        "end": 44,
+        "text": " Okay. So the 24th, that would have been Saturday."
+      },
+      {
+        "id": 8,
+        "start": 44,
+        "end": 49,
+        "text": " Because we're closed on Saturdays and Sundays, the order was started on yesterday."
+      },
+      {
+        "id": 9,
+        "start": 49,
+        "end": 54,
+        "text": " Okay. It's going to get shipped out here by the end of today."
+      },
+      {
+        "id": 10,
+        "start": 54,
+        "end": 58,
+        "text": " Okay. So the shipping label is created. It will head out this afternoon."
+      },
+      {
+        "id": 11,
+        "start": 58,
+        "end": 62,
+        "text": " But what I'm going to do for you here is I'm going to put your phone number"
+      },
+      {
+        "id": 12,
+        "start": 62,
+        "end": 65,
+        "text": " in with the United States Postal Service. Okay?"
+      },
+      {
+        "id": 13,
+        "start": 65,
+        "end": 70,
+        "text": " So you're about to receive a text message, and that will be your tracking for this."
+      },
+      {
+        "id": 14,
+        "start": 70,
+        "end": 75,
+        "text": " Okay. Beautiful."
+      },
+      {
+        "id": 15,
+        "start": 75,
+        "end": 78,
+        "text": " All right. You should have received a text message to confirm,"
+      },
+      {
+        "id": 16,
+        "start": 78,
+        "end": 81,
+        "text": " and that is your tracking information."
+      },
+      {
+        "id": 17,
+        "start": 81,
+        "end": 84,
+        "text": " Okay. Thank you. Anything else?"
+      },
+      {
+        "id": 18,
+        "start": 84,
+        "end": 86,
+        "text": " No, sir. You're all set."
+      },
+      {
+        "id": 19,
+        "start": 86,
+        "end": 88,
+        "text": " All right. Thank you. Have a good night."
+      },
+      {
+        "id": 20,
+        "start": 88,
+        "end": 90,
+        "text": " Thank you. Bye-bye."
+      },
+      {
+        "id": 21,
+        "start": 90,
+        "end": 91,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-81da-9907-c6afe82c9b4d",
+    "url": "https://www.notion.so/300000001220005-300000001709905-2f511d0a101c81da9907c6afe82c9b4d"
+  },
+  "processedAt": "2026-01-27T23:11:10.859Z"
+}

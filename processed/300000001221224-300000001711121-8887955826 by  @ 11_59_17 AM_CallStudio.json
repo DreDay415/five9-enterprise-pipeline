@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001221224-300000001711121-8887955826 by  @ 11_59_17 AM_CallStudio.wav",
+    "size": 24696,
+    "modifyTime": 1769630396000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221224-300000001711121-8887955826 by  @ 11_59_17 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T19:59:56.000Z",
+    "callId": "300000001221224-300000001711121",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T19:59:56.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Stop medication.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Transferring to agent.",
+    "duration": 875,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.679999828338623,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.679999828338623,
+        "end": 6.360000133514404,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.360000133514404,
+        "end": 10.920000076293945,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.920000076293945,
+        "end": 11.920000076293945,
+        "text": " Stop medication."
+      },
+      {
+        "id": 4,
+        "start": 11.920000076293945,
+        "end": 12.920000076293945,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 12.920000076293945,
+        "end": 14.920000076293945,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8131-8e15-dfac1226c45e",
+    "url": "https://www.notion.so/300000001221224-300000001711121-2f611d0a101c81318e15dfac1226c45e"
+  },
+  "processedAt": "2026-01-28T23:17:34.542Z"
+}

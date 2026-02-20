@@ -1,0 +1,158 @@
+{
+  "recording": {
+    "name": "300000001216009-300000001705566-5857645488 by olivier@superbalife.com @ 11_34_53 AM.wav",
+    "size": 66686,
+    "modifyTime": 1769585531000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216009-300000001705566-5857645488 by olivier@superbalife.com @ 11_34_53 AM.wav",
+    "uploadDate": "2026-01-28T07:32:11.000Z",
+    "callId": "300000001216009-300000001705566",
+    "agent": "olivier",
+    "phoneNumber": "5857645488",
+    "callTimestamp": "2026-01-28T11:34:53.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Mr. Ferreri?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Yeah, I was able to get an approval from my manager to get you.\n\nSpeaker 2: I think it's about 30 to 35% off, so you're going to get $23 back, so instead of $63.95,\n\nSpeaker 1: you pay $40.95.\n\nSpeaker 2: Okay.\n\nSpeaker 1: And you're going to cancel the prescription, yes?\n\nSpeaker 2: I already did it.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thank you for that.\n\nSpeaker 1: I appreciate it.\n\nSpeaker 2: So $23 is the money back, okay?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Sounds good.\n\nSpeaker 1: All right.\n\nSpeaker 2: So you're all set, sir.\n\nSpeaker 1: You have a good one, and have a good weekend.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: You as well.\n\nSpeaker 2: Take care.\n\nSpeaker 1: Bye-bye.",
+    "duration": 2235,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Mr. Ferreri?"
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2,
+        "text": " Yes."
+      },
+      {
+        "id": 2,
+        "start": 2,
+        "end": 6.039999961853027,
+        "text": " Yeah, I was able to get an approval from my manager to get you."
+      },
+      {
+        "id": 3,
+        "start": 6.039999961853027,
+        "end": 14.880000114440918,
+        "text": " I think it's about 30 to 35% off, so you're going to get $23 back, so instead of $63.95,"
+      },
+      {
+        "id": 4,
+        "start": 14.880000114440918,
+        "end": 15.880000114440918,
+        "text": " you pay $40.95."
+      },
+      {
+        "id": 5,
+        "start": 15.880000114440918,
+        "end": 16.8799991607666,
+        "text": " Okay."
+      },
+      {
+        "id": 6,
+        "start": 16.8799991607666,
+        "end": 20.31999969482422,
+        "text": " And you're going to cancel the prescription, yes?"
+      },
+      {
+        "id": 7,
+        "start": 20.31999969482422,
+        "end": 22,
+        "text": " I already did it."
+      },
+      {
+        "id": 8,
+        "start": 22,
+        "end": 23,
+        "text": " All right."
+      },
+      {
+        "id": 9,
+        "start": 23,
+        "end": 24,
+        "text": " Thank you for that."
+      },
+      {
+        "id": 10,
+        "start": 24,
+        "end": 25,
+        "text": " I appreciate it."
+      },
+      {
+        "id": 11,
+        "start": 25,
+        "end": 27.639999389648438,
+        "text": " So $23 is the money back, okay?"
+      },
+      {
+        "id": 12,
+        "start": 27.639999389648438,
+        "end": 28.639999389648438,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 28.639999389648438,
+        "end": 29.639999389648438,
+        "text": " Sounds good."
+      },
+      {
+        "id": 14,
+        "start": 29.639999389648438,
+        "end": 30.639999389648438,
+        "text": " All right."
+      },
+      {
+        "id": 15,
+        "start": 30.639999389648438,
+        "end": 31.639999389648438,
+        "text": " So you're all set, sir."
+      },
+      {
+        "id": 16,
+        "start": 31.639999389648438,
+        "end": 34.79999923706055,
+        "text": " You have a good one, and have a good weekend."
+      },
+      {
+        "id": 17,
+        "start": 34.79999923706055,
+        "end": 35.79999923706055,
+        "text": " Thank you."
+      },
+      {
+        "id": 18,
+        "start": 35.79999923706055,
+        "end": 36.79999923706055,
+        "text": " You as well."
+      },
+      {
+        "id": 19,
+        "start": 36.79999923706055,
+        "end": 37.79999923706055,
+        "text": " Take care."
+      },
+      {
+        "id": 20,
+        "start": 37.79999923706055,
+        "end": 38.79999923706055,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 21,
+        "start": 38.79999923706055,
+        "end": 38.79999923706055,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-810a-995d-f5591fdf4fca",
+    "url": "https://www.notion.so/300000001216009-300000001705566-2f611d0a101c810a995df5591fdf4fca"
+  },
+  "processedAt": "2026-01-28T14:16:52.689Z"
+}

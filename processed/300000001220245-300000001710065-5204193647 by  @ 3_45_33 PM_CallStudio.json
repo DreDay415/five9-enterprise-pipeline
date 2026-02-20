@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001220245-300000001710065-5204193647 by  @ 3_45_33 PM_CallStudio.wav",
+    "size": 23916,
+    "modifyTime": 1769557569000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220245-300000001710065-5204193647 by  @ 3_45_33 PM_CallStudio.wav",
+    "uploadDate": "2026-01-27T23:46:09.000Z",
+    "callId": "300000001220245-300000001710065",
+    "phoneNumber": "5204193647",
+    "callTimestamp": "2026-01-27T23:46:09.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I'd like to get my script reactivated.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 964,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 13,
+        "text": " I'd like to get my script reactivated."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 15,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ac-a175-c6014378eee0",
+    "url": "https://www.notion.so/300000001220245-300000001710065-2f611d0a101c81aca175c6014378eee0"
+  },
+  "processedAt": "2026-01-28T17:51:30.385Z"
+}

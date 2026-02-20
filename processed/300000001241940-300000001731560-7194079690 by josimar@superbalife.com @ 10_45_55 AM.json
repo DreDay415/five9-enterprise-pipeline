@@ -1,0 +1,167 @@
+{
+  "recording": {
+    "name": "300000001241940-300000001731560-7194079690 by josimar@superbalife.com @ 10_45_55 AM.wav",
+    "size": 162560,
+    "modifyTime": 1771008477000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241940-300000001731560-7194079690 by josimar@superbalife.com @ 10_45_55 AM.wav",
+    "uploadDate": "2026-02-13T18:47:57.000Z",
+    "callId": "300000001241940-300000001731560",
+    "agent": "josimar",
+    "phoneNumber": "7194079690",
+    "callTimestamp": "2026-02-13T10:45:55.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_josimar_300000001241940-300000001731560_7194079690.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_josimar_300000001241940-300000001731560_7194079690.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Gracias primo a la Viagra, ¿cómo le puedo ayudar hoy día?\n\nSpeaker 2: ¿Qué tal? ¿Cómo está? Mi nombre es Virgilio Hernández.\n\nSpeaker 1: Me hicieron un descuento la semana pasada para un pedido que yo hago con regularidad.\n\nSpeaker 2: Pero hoy es viernes y no me ha llegado, no sé qué pasará.\n\nSpeaker 1: Ok, puedo ver su orden acá para ver dónde está. ¿Cuál es su apellido y código postal, señor?\n\nSpeaker 2: Eh, mi apellido es Hernández, Virgilio Hernández y el código postal es 34209.\n\nSpeaker 1: Ok, la orden va a llegar mañana, sábado el 14.\n\nSpeaker 2: Ah, ok, ya.\n\nSpeaker 1: Bueno, era para saber si habían hecho el envío, pues, era por eso.\n\nSpeaker 2: Sí, ya lo hicieron, señor, va a llegar el sábado.\n\nSpeaker 1: Mira, mira, otra consultí que yo había puesto ahí que me llegara normalmente, cada tres meses.\n\nSpeaker 2: Pero es posible que envíen, hagan este envío ahorita y el próximo mes también.\n\nSpeaker 1: O sea, en el mes de marzo, pues.\n\nSpeaker 2: Sí, si desea puedo yo...\n\nSpeaker 1: No lo entiendo, ¿quiere hacer esa orden y quiere recibir otra orden el próximo mes?\n\nSpeaker 2: Exacto, exacto, sí.\n\nSpeaker 1: Ok, un momento, déjame acá ver su perfil.\n\nSpeaker 2: Sí, ya le he puesto acá, tres meses, pero como duré casi dos meses y pico sin hacer pedido.\n\nSpeaker 1: Ok, ya le ajusté ya su cuenta, señor, está todo listo.\n\nSpeaker 2: Ok.\n\nSpeaker 1: Listo, que tenga buen día.\n\nSpeaker 2: Ok, muchas gracias, buen día.\n\nSpeaker 1: Sí, adiós.",
+    "duration": 3646,
+    "audioDuration": 100,
+    "language": "spanish",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Gracias primo a la Viagra, ¿cómo le puedo ayudar hoy día?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " ¿Qué tal? ¿Cómo está? Mi nombre es Virgilio Hernández."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 14,
+        "text": " Me hicieron un descuento la semana pasada para un pedido que yo hago con regularidad."
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 19,
+        "text": " Pero hoy es viernes y no me ha llegado, no sé qué pasará."
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 24,
+        "text": " Ok, puedo ver su orden acá para ver dónde está. ¿Cuál es su apellido y código postal, señor?"
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 30,
+        "text": " Eh, mi apellido es Hernández, Virgilio Hernández y el código postal es 34209."
+      },
+      {
+        "id": 6,
+        "start": 33,
+        "end": 37,
+        "text": " Ok, la orden va a llegar mañana, sábado el 14."
+      },
+      {
+        "id": 7,
+        "start": 37,
+        "end": 39,
+        "text": " Ah, ok, ya."
+      },
+      {
+        "id": 8,
+        "start": 41,
+        "end": 47,
+        "text": " Bueno, era para saber si habían hecho el envío, pues, era por eso."
+      },
+      {
+        "id": 9,
+        "start": 47,
+        "end": 50,
+        "text": " Sí, ya lo hicieron, señor, va a llegar el sábado."
+      },
+      {
+        "id": 10,
+        "start": 50,
+        "end": 57,
+        "text": " Mira, mira, otra consultí que yo había puesto ahí que me llegara normalmente, cada tres meses."
+      },
+      {
+        "id": 11,
+        "start": 57,
+        "end": 62,
+        "text": " Pero es posible que envíen, hagan este envío ahorita y el próximo mes también."
+      },
+      {
+        "id": 12,
+        "start": 62,
+        "end": 64,
+        "text": " O sea, en el mes de marzo, pues."
+      },
+      {
+        "id": 13,
+        "start": 64,
+        "end": 66,
+        "text": " Sí, si desea puedo yo..."
+      },
+      {
+        "id": 14,
+        "start": 66,
+        "end": 71,
+        "text": " No lo entiendo, ¿quiere hacer esa orden y quiere recibir otra orden el próximo mes?"
+      },
+      {
+        "id": 15,
+        "start": 71,
+        "end": 73,
+        "text": " Exacto, exacto, sí."
+      },
+      {
+        "id": 16,
+        "start": 73,
+        "end": 76,
+        "text": " Ok, un momento, déjame acá ver su perfil."
+      },
+      {
+        "id": 17,
+        "start": 76,
+        "end": 83,
+        "text": " Sí, ya le he puesto acá, tres meses, pero como duré casi dos meses y pico sin hacer pedido."
+      },
+      {
+        "id": 18,
+        "start": 83,
+        "end": 86,
+        "text": " Ok, ya le ajusté ya su cuenta, señor, está todo listo."
+      },
+      {
+        "id": 19,
+        "start": 87,
+        "end": 88,
+        "text": " Ok."
+      },
+      {
+        "id": 20,
+        "start": 90,
+        "end": 92,
+        "text": " Listo, que tenga buen día."
+      },
+      {
+        "id": 21,
+        "start": 92,
+        "end": 94,
+        "text": " Ok, muchas gracias, buen día."
+      },
+      {
+        "id": 22,
+        "start": 95,
+        "end": 96,
+        "text": " Sí, adiós."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8178-b3cb-e7f0e92a10b1",
+    "url": "https://www.notion.so/300000001241940-300000001731560-30611d0a101c8178b3cbe7f0e92a10b1"
+  },
+  "processedAt": "2026-02-13T19:04:00.521Z"
+}

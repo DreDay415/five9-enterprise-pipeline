@@ -1,0 +1,410 @@
+{
+  "recording": {
+    "name": "300000001220061-300000001709939-2038431250 by michelleh@superbalife.com @ 2_29_36 PM.wav",
+    "size": 371406,
+    "modifyTime": 1769553211000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220061-300000001709939-2038431250 by michelleh@superbalife.com @ 2_29_36 PM.wav",
+    "uploadDate": "2026-01-27T22:33:31.000Z",
+    "callId": "300000001220061-300000001709939",
+    "agent": "michelleh",
+    "phoneNumber": "2038431250",
+    "callTimestamp": "2026-01-27T14:29:36.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling, Viagra. How can I help you?\n\nSpeaker 2: How are you doing today?\n\nSpeaker 1: Good. How are you doing?\n\nSpeaker 2: I'm good. My name is Demetrius Woods.\n\nSpeaker 1: I got a prescription with y'all.\n\nSpeaker 2: I just checked my e-mail. I've been trying to call y'all.\n\nSpeaker 1: I ain't been getting no answer.\n\nSpeaker 2: I got a different credit card, so I want to change the credit card on my account.\n\nSpeaker 1: No problem. Let me help you out.\n\nSpeaker 2: Okay, Demetrius. Demetrius, right?\n\nSpeaker 1: Yes, Woods.\n\nSpeaker 2: Okay, Woods. Can you just confirm your date of birth?\n\nSpeaker 1: 7-28-1971.\n\nSpeaker 2: All right. Thank you so much.\n\nSpeaker 1: All right. You want to do another quantity of 2,500 milligrams AGD?\n\nSpeaker 2: Yeah. I got an e-mail.\n\nSpeaker 1: One point that came out on the first, I changed my credit card and everything, so it didn't go up.\n\nSpeaker 2: Oh, yeah. They tried to send you a refund.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Are we using the same card, the MasterCard?\n\nSpeaker 1: No, no. That card is no good no more.\n\nSpeaker 2: Okay. No problem. All right. I'm ready for the new number.\n\nSpeaker 1: All right. 4-8-2-8-2-1. No, 2,100.\n\nSpeaker 2: 32-65-0670.\n\nSpeaker 1: Expiration date?\n\nSpeaker 2: 12-29.\n\nSpeaker 1: Three digits on the back.\n\nSpeaker 2: 6-29. Okay. You said that for sending out Friday?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: What is Friday?\n\nSpeaker 1: Okay. That did not go through. Let's try that card number again. Hold on. Let me get back to the screen.\n\nSpeaker 2: Okay. What's the card number again?\n\nSpeaker 1: 4-8-2-8-2-1-0-0-3-2-6-5-0670.\n\nSpeaker 2: Expiration date?\n\nSpeaker 1: 12-29.\n\nSpeaker 2: 12-29. And three digits on the back.\n\nSpeaker 1: 6-29.\n\nSpeaker 2: Yeah. That didn't go through. I think your bank might think it's fraud.\n\nSpeaker 1: So you just have to call your bank and tell them you authorized the charge by ScoreBlue.\n\nSpeaker 2: All right. It might be because it's a Chime card. Y'all do Chime?\n\nSpeaker 1: No, we don't.\n\nSpeaker 2: That's why. Okay. That's what I got, a Chime.\n\nSpeaker 1: What do I do?\n\nSpeaker 2: How much is it?\n\nSpeaker 1: I ain't closing my account. I can just transfer my money. I can just transfer money over there on that card.\n\nSpeaker 2: Yeah. It's 113.95.\n\nSpeaker 1: All right. So set that up for Friday.\n\nSpeaker 2: Use that card. I can just transfer money over there so I can't use Chime.\n\nSpeaker 1: You actually just have to call us back on Friday. I can't set it to take out on a specific day.\n\nSpeaker 2: Oh, okay. So call back Friday?\n\nSpeaker 1: Yeah. Call back Friday.\n\nSpeaker 2: What's our hours?\n\nSpeaker 1: Okay. Yeah. We're Pacific Standard Time, so we open 8 to 5 our time.\n\nSpeaker 2: So that's like 11 to 8 p.m. your time.\n\nSpeaker 1: Okay. Okay.\n\nSpeaker 2: And we're closed on the weekends. Yeah, we're closed on the weekends.\n\nSpeaker 1: Oh, and I'll call on the weekends, too.\n\nSpeaker 2: Oh, yeah. There you go. That's why. Yeah.\n\nSpeaker 1: Okay. All right. So I'll call you.\n\nSpeaker 2: The Monday mornings are always super busy.\n\nSpeaker 1: All right. Friday. I'll call you Friday. I'm off Friday, so I'll call Friday morning.\n\nSpeaker 2: All right. Perfect. Sounds good.\n\nSpeaker 1: No problem. Have a great day.\n\nSpeaker 2: You, too. Bye-bye.",
+    "duration": 9824,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling, Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5,
+        "text": " How are you doing today?"
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 6,
+        "text": " Good. How are you doing?"
+      },
+      {
+        "id": 3,
+        "start": 6,
+        "end": 10,
+        "text": " I'm good. My name is Demetrius Woods."
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 15,
+        "text": " I got a prescription with y'all."
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 17,
+        "text": " I just checked my e-mail. I've been trying to call y'all."
+      },
+      {
+        "id": 6,
+        "start": 17,
+        "end": 19,
+        "text": " I ain't been getting no answer."
+      },
+      {
+        "id": 7,
+        "start": 19,
+        "end": 26,
+        "text": " I got a different credit card, so I want to change the credit card on my account."
+      },
+      {
+        "id": 8,
+        "start": 26,
+        "end": 30,
+        "text": " No problem. Let me help you out."
+      },
+      {
+        "id": 9,
+        "start": 30,
+        "end": 34,
+        "text": " Okay, Demetrius. Demetrius, right?"
+      },
+      {
+        "id": 10,
+        "start": 34,
+        "end": 35,
+        "text": " Yes, Woods."
+      },
+      {
+        "id": 11,
+        "start": 35,
+        "end": 38,
+        "text": " Okay, Woods. Can you just confirm your date of birth?"
+      },
+      {
+        "id": 12,
+        "start": 38,
+        "end": 41,
+        "text": " 7-28-1971."
+      },
+      {
+        "id": 13,
+        "start": 41,
+        "end": 43,
+        "text": " All right. Thank you so much."
+      },
+      {
+        "id": 14,
+        "start": 43,
+        "end": 50,
+        "text": " All right. You want to do another quantity of 2,500 milligrams AGD?"
+      },
+      {
+        "id": 15,
+        "start": 50,
+        "end": 52,
+        "text": " Yeah. I got an e-mail."
+      },
+      {
+        "id": 16,
+        "start": 52,
+        "end": 58,
+        "text": " One point that came out on the first, I changed my credit card and everything, so it didn't go up."
+      },
+      {
+        "id": 17,
+        "start": 58,
+        "end": 60,
+        "text": " Oh, yeah. They tried to send you a refund."
+      },
+      {
+        "id": 18,
+        "start": 60,
+        "end": 66,
+        "text": " Yeah."
+      },
+      {
+        "id": 19,
+        "start": 66,
+        "end": 68,
+        "text": " Are we using the same card, the MasterCard?"
+      },
+      {
+        "id": 20,
+        "start": 68,
+        "end": 71,
+        "text": " No, no. That card is no good no more."
+      },
+      {
+        "id": 21,
+        "start": 71,
+        "end": 74,
+        "text": " Okay. No problem. All right. I'm ready for the new number."
+      },
+      {
+        "id": 22,
+        "start": 74,
+        "end": 82,
+        "text": " All right. 4-8-2-8-2-1. No, 2,100."
+      },
+      {
+        "id": 23,
+        "start": 82,
+        "end": 90,
+        "text": " 32-65-0670."
+      },
+      {
+        "id": 24,
+        "start": 90,
+        "end": 92,
+        "text": " Expiration date?"
+      },
+      {
+        "id": 25,
+        "start": 92,
+        "end": 94,
+        "text": " 12-29."
+      },
+      {
+        "id": 26,
+        "start": 94,
+        "end": 97,
+        "text": " Three digits on the back."
+      },
+      {
+        "id": 27,
+        "start": 97,
+        "end": 102,
+        "text": " 6-29. Okay. You said that for sending out Friday?"
+      },
+      {
+        "id": 28,
+        "start": 102,
+        "end": 103,
+        "text": " Yeah."
+      },
+      {
+        "id": 29,
+        "start": 103,
+        "end": 107,
+        "text": " What is Friday?"
+      },
+      {
+        "id": 30,
+        "start": 107,
+        "end": 113,
+        "text": " Okay. That did not go through. Let's try that card number again. Hold on. Let me get back to the screen."
+      },
+      {
+        "id": 31,
+        "start": 113,
+        "end": 116,
+        "text": " Okay. What's the card number again?"
+      },
+      {
+        "id": 32,
+        "start": 116,
+        "end": 129,
+        "text": " 4-8-2-8-2-1-0-0-3-2-6-5-0670."
+      },
+      {
+        "id": 33,
+        "start": 129,
+        "end": 131,
+        "text": " Expiration date?"
+      },
+      {
+        "id": 34,
+        "start": 131,
+        "end": 133,
+        "text": " 12-29."
+      },
+      {
+        "id": 35,
+        "start": 133,
+        "end": 136,
+        "text": " 12-29. And three digits on the back."
+      },
+      {
+        "id": 36,
+        "start": 136,
+        "end": 144,
+        "text": " 6-29."
+      },
+      {
+        "id": 37,
+        "start": 144,
+        "end": 148,
+        "text": " Yeah. That didn't go through. I think your bank might think it's fraud."
+      },
+      {
+        "id": 38,
+        "start": 148,
+        "end": 153,
+        "text": " So you just have to call your bank and tell them you authorized the charge by ScoreBlue."
+      },
+      {
+        "id": 39,
+        "start": 153,
+        "end": 158,
+        "text": " All right. It might be because it's a Chime card. Y'all do Chime?"
+      },
+      {
+        "id": 40,
+        "start": 158,
+        "end": 160,
+        "text": " No, we don't."
+      },
+      {
+        "id": 41,
+        "start": 160,
+        "end": 165,
+        "text": " That's why. Okay. That's what I got, a Chime."
+      },
+      {
+        "id": 42,
+        "start": 165,
+        "end": 170,
+        "text": " What do I do?"
+      },
+      {
+        "id": 43,
+        "start": 170,
+        "end": 173,
+        "text": " How much is it?"
+      },
+      {
+        "id": 44,
+        "start": 173,
+        "end": 177,
+        "text": " I ain't closing my account. I can just transfer my money. I can just transfer money over there on that card."
+      },
+      {
+        "id": 45,
+        "start": 177,
+        "end": 180,
+        "text": " Yeah. It's 113.95."
+      },
+      {
+        "id": 46,
+        "start": 180,
+        "end": 183,
+        "text": " All right. So set that up for Friday."
+      },
+      {
+        "id": 47,
+        "start": 183,
+        "end": 187,
+        "text": " Use that card. I can just transfer money over there so I can't use Chime."
+      },
+      {
+        "id": 48,
+        "start": 187,
+        "end": 192,
+        "text": " You actually just have to call us back on Friday. I can't set it to take out on a specific day."
+      },
+      {
+        "id": 49,
+        "start": 192,
+        "end": 194,
+        "text": " Oh, okay. So call back Friday?"
+      },
+      {
+        "id": 50,
+        "start": 194,
+        "end": 196,
+        "text": " Yeah. Call back Friday."
+      },
+      {
+        "id": 51,
+        "start": 196,
+        "end": 198,
+        "text": " What's our hours?"
+      },
+      {
+        "id": 52,
+        "start": 198,
+        "end": 203,
+        "text": " Okay. Yeah. We're Pacific Standard Time, so we open 8 to 5 our time."
+      },
+      {
+        "id": 53,
+        "start": 203,
+        "end": 207,
+        "text": " So that's like 11 to 8 p.m. your time."
+      },
+      {
+        "id": 54,
+        "start": 207,
+        "end": 209,
+        "text": " Okay. Okay."
+      },
+      {
+        "id": 55,
+        "start": 209,
+        "end": 211,
+        "text": " And we're closed on the weekends. Yeah, we're closed on the weekends."
+      },
+      {
+        "id": 56,
+        "start": 211,
+        "end": 213,
+        "text": " Oh, and I'll call on the weekends, too."
+      },
+      {
+        "id": 57,
+        "start": 213,
+        "end": 215,
+        "text": " Oh, yeah. There you go. That's why. Yeah."
+      },
+      {
+        "id": 58,
+        "start": 215,
+        "end": 217,
+        "text": " Okay. All right. So I'll call you."
+      },
+      {
+        "id": 59,
+        "start": 217,
+        "end": 219,
+        "text": " The Monday mornings are always super busy."
+      },
+      {
+        "id": 60,
+        "start": 219,
+        "end": 223,
+        "text": " All right. Friday. I'll call you Friday. I'm off Friday, so I'll call Friday morning."
+      },
+      {
+        "id": 61,
+        "start": 223,
+        "end": 225,
+        "text": " All right. Perfect. Sounds good."
+      },
+      {
+        "id": 62,
+        "start": 225,
+        "end": 227,
+        "text": " No problem. Have a great day."
+      },
+      {
+        "id": 63,
+        "start": 227,
+        "end": 229,
+        "text": " You, too. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-81a7-ab32-dbb28847600a",
+    "url": "https://www.notion.so/300000001220061-300000001709939-2f511d0a101c81a7ab32dbb28847600a"
+  },
+  "processedAt": "2026-01-27T23:00:56.575Z"
+}

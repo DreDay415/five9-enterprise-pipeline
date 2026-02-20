@@ -1,0 +1,338 @@
+{
+  "recording": {
+    "name": "300000001221973-300000001711604-9175332509 by olivia@superbalife.com @ 4_57_53 PM.wav",
+    "size": 346510,
+    "modifyTime": 1769648508000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221973-300000001711604-9175332509 by olivia@superbalife.com @ 4_57_53 PM.wav",
+    "uploadDate": "2026-01-29T01:01:48.000Z",
+    "callId": "300000001221973-300000001711604",
+    "agent": "olivia",
+    "phoneNumber": "9175332509",
+    "callTimestamp": "2026-01-29T16:57:53.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viacra. This is Olivia speaking. Who do I have the pleasure of speaking with today?\n\nSpeaker 2: Winston.\n\nSpeaker 1: Sorry, who is this?\n\nSpeaker 2: Winston Shaw. What happened with quantifying all of them? I want to make a purchase.\n\nSpeaker 1: What is the shortest possible time that I could reach them?\n\nSpeaker 2: If you want to make a purchase, that is a pretty extensive process if you've never ordered with us before.\n\nSpeaker 1: We do close in two minutes.\n\nSpeaker 2: I would advise calling back tomorrow morning to place the order.\n\nSpeaker 1: The soonest you would get it, it depends on what state you're in.\n\nSpeaker 2: What state are you in?\n\nSpeaker 1: New York.\n\nSpeaker 2: New York, you said?\n\nSpeaker 1: Yeah, New York.\n\nSpeaker 2: Yeah, so probably the soonest you would get it, if you did call first thing in the morning and you placed it, you'd have to add on next day air or second day air.\n\nSpeaker 1: Now there is a really bad winter storm, so we can guarantee nothing.\n\nSpeaker 2: We can't guarantee that those states would be honored, but you could place it in the morning with next day air and you could probably get it by Saturday.\n\nSpeaker 1: By Saturday, okay.\n\nSpeaker 2: Yeah, but it wouldn't be guaranteed. Maybe you could get it by Friday if you called first thing.\n\nSpeaker 1: Okay, okay.\n\nSpeaker 2: But you say that basically I could order in the morning?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, okay.\n\nSpeaker 1: So you say it would be expensive, that's the shipping?\n\nSpeaker 2: Yeah, it would be $28 to get it.\n\nSpeaker 1: The fastest possible would be a 50% chance it gets you Saturday, 50% chance it gets you by Monday.\n\nSpeaker 2: Yeah, and then you would have cheaper options to get it to you by Monday or Tuesday guaranteed.\n\nSpeaker 1: Yeah, no, I'm traveling on Saturday night, so yeah.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: I'm traveling on Saturday.\n\nSpeaker 2: That's really tricky, because like I said, we definitely couldn't guarantee Saturday, it's a 50-50.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Okay.\n\nSpeaker 1: And that comes basically, it has to order straight from you all?\n\nSpeaker 2: Yeah, that's right.\n\nSpeaker 1: Okay, okay, okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Well, I want to do a try in the morning, according to how the response I get.\n\nSpeaker 2: I will just have to go with it or pull.\n\nSpeaker 1: Sorry, what are you asking?\n\nSpeaker 2: I said I will just have to wait till in the morning.\n\nSpeaker 1: Okay, great.\n\nSpeaker 2: In the morning, see what would be better.\n\nSpeaker 1: Okay?\n\nSpeaker 2: Okay, great.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: All right, yeah, we'll talk to you tomorrow.\n\nSpeaker 2: Have a great day.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, bye.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Good.",
+    "duration": 9086,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8,
+        "text": " Thank you for calling Viacra. This is Olivia speaking. Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 1,
+        "start": 8,
+        "end": 10,
+        "text": " Winston."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 13,
+        "text": " Sorry, who is this?"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 18,
+        "text": " Winston Shaw. What happened with quantifying all of them? I want to make a purchase."
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 26,
+        "text": " What is the shortest possible time that I could reach them?"
+      },
+      {
+        "id": 5,
+        "start": 27,
+        "end": 35,
+        "text": " If you want to make a purchase, that is a pretty extensive process if you've never ordered with us before."
+      },
+      {
+        "id": 6,
+        "start": 35,
+        "end": 38,
+        "text": " We do close in two minutes."
+      },
+      {
+        "id": 7,
+        "start": 38,
+        "end": 46,
+        "text": " I would advise calling back tomorrow morning to place the order."
+      },
+      {
+        "id": 8,
+        "start": 46,
+        "end": 51,
+        "text": " The soonest you would get it, it depends on what state you're in."
+      },
+      {
+        "id": 9,
+        "start": 51,
+        "end": 53,
+        "text": " What state are you in?"
+      },
+      {
+        "id": 10,
+        "start": 53,
+        "end": 55,
+        "text": " New York."
+      },
+      {
+        "id": 11,
+        "start": 55,
+        "end": 58,
+        "text": " New York, you said?"
+      },
+      {
+        "id": 12,
+        "start": 58,
+        "end": 60,
+        "text": " Yeah, New York."
+      },
+      {
+        "id": 13,
+        "start": 60,
+        "end": 75,
+        "text": " Yeah, so probably the soonest you would get it, if you did call first thing in the morning and you placed it, you'd have to add on next day air or second day air."
+      },
+      {
+        "id": 14,
+        "start": 75,
+        "end": 81,
+        "text": " Now there is a really bad winter storm, so we can guarantee nothing."
+      },
+      {
+        "id": 15,
+        "start": 81,
+        "end": 93,
+        "text": " We can't guarantee that those states would be honored, but you could place it in the morning with next day air and you could probably get it by Saturday."
+      },
+      {
+        "id": 16,
+        "start": 93,
+        "end": 97,
+        "text": " By Saturday, okay."
+      },
+      {
+        "id": 17,
+        "start": 97,
+        "end": 104,
+        "text": " Yeah, but it wouldn't be guaranteed. Maybe you could get it by Friday if you called first thing."
+      },
+      {
+        "id": 18,
+        "start": 105,
+        "end": 106,
+        "text": " Okay, okay."
+      },
+      {
+        "id": 19,
+        "start": 106,
+        "end": 112,
+        "text": " But you say that basically I could order in the morning?"
+      },
+      {
+        "id": 20,
+        "start": 112,
+        "end": 113,
+        "text": " Yes."
+      },
+      {
+        "id": 21,
+        "start": 113,
+        "end": 115,
+        "text": " Okay, okay."
+      },
+      {
+        "id": 22,
+        "start": 115,
+        "end": 119,
+        "text": " So you say it would be expensive, that's the shipping?"
+      },
+      {
+        "id": 23,
+        "start": 119,
+        "end": 125,
+        "text": " Yeah, it would be $28 to get it."
+      },
+      {
+        "id": 24,
+        "start": 125,
+        "end": 134,
+        "text": " The fastest possible would be a 50% chance it gets you Saturday, 50% chance it gets you by Monday."
+      },
+      {
+        "id": 25,
+        "start": 134,
+        "end": 145,
+        "text": " Yeah, and then you would have cheaper options to get it to you by Monday or Tuesday guaranteed."
+      },
+      {
+        "id": 26,
+        "start": 145,
+        "end": 151,
+        "text": " Yeah, no, I'm traveling on Saturday night, so yeah."
+      },
+      {
+        "id": 27,
+        "start": 151,
+        "end": 152,
+        "text": " Yeah."
+      },
+      {
+        "id": 28,
+        "start": 152,
+        "end": 153,
+        "text": " I'm traveling on Saturday."
+      },
+      {
+        "id": 29,
+        "start": 153,
+        "end": 159,
+        "text": " That's really tricky, because like I said, we definitely couldn't guarantee Saturday, it's a 50-50."
+      },
+      {
+        "id": 30,
+        "start": 159,
+        "end": 160,
+        "text": " Yeah."
+      },
+      {
+        "id": 31,
+        "start": 160,
+        "end": 161,
+        "text": " Okay."
+      },
+      {
+        "id": 32,
+        "start": 164,
+        "end": 169,
+        "text": " And that comes basically, it has to order straight from you all?"
+      },
+      {
+        "id": 33,
+        "start": 169,
+        "end": 172,
+        "text": " Yeah, that's right."
+      },
+      {
+        "id": 34,
+        "start": 172,
+        "end": 175,
+        "text": " Okay, okay, okay."
+      },
+      {
+        "id": 35,
+        "start": 175,
+        "end": 176,
+        "text": " Okay."
+      },
+      {
+        "id": 36,
+        "start": 176,
+        "end": 183,
+        "text": " Well, I want to do a try in the morning, according to how the response I get."
+      },
+      {
+        "id": 37,
+        "start": 183,
+        "end": 190,
+        "text": " I will just have to go with it or pull."
+      },
+      {
+        "id": 38,
+        "start": 190,
+        "end": 192,
+        "text": " Sorry, what are you asking?"
+      },
+      {
+        "id": 39,
+        "start": 192,
+        "end": 195,
+        "text": " I said I will just have to wait till in the morning."
+      },
+      {
+        "id": 40,
+        "start": 195,
+        "end": 197,
+        "text": " Okay, great."
+      },
+      {
+        "id": 41,
+        "start": 197,
+        "end": 202,
+        "text": " In the morning, see what would be better."
+      },
+      {
+        "id": 42,
+        "start": 202,
+        "end": 203,
+        "text": " Okay?"
+      },
+      {
+        "id": 43,
+        "start": 203,
+        "end": 204,
+        "text": " Okay, great."
+      },
+      {
+        "id": 44,
+        "start": 204,
+        "end": 205,
+        "text": " Thank you."
+      },
+      {
+        "id": 45,
+        "start": 205,
+        "end": 206,
+        "text": " Thank you."
+      },
+      {
+        "id": 46,
+        "start": 206,
+        "end": 208,
+        "text": " All right, yeah, we'll talk to you tomorrow."
+      },
+      {
+        "id": 47,
+        "start": 208,
+        "end": 209,
+        "text": " Have a great day."
+      },
+      {
+        "id": 48,
+        "start": 209,
+        "end": 210,
+        "text": " Okay."
+      },
+      {
+        "id": 49,
+        "start": 210,
+        "end": 211,
+        "text": " Okay, bye."
+      },
+      {
+        "id": 50,
+        "start": 211,
+        "end": 212,
+        "text": " Bye."
+      },
+      {
+        "id": 51,
+        "start": 212,
+        "end": 213,
+        "text": " Good."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8115-8179-c536ffaf5249",
+    "url": "https://www.notion.so/300000001221973-300000001711604-2f711d0a101c81158179c536ffaf5249"
+  },
+  "processedAt": "2026-01-29T10:02:33.995Z"
+}

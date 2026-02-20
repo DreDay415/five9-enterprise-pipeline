@@ -1,0 +1,92 @@
+{
+  "recording": {
+    "name": "300000001220831-300000001710865-6614863152 by olivier@superbalife.com @ 10_02_39 AM.wav",
+    "size": 57260,
+    "modifyTime": 1769623406000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220831-300000001710865-6614863152 by olivier@superbalife.com @ 10_02_39 AM.wav",
+    "uploadDate": "2026-01-28T18:03:26.000Z",
+    "callId": "300000001220831-300000001710865",
+    "agent": "olivier",
+    "phoneNumber": "6614863152",
+    "callTimestamp": "2026-01-28T10:02:39.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hello, this is Mike.\n\nSpeaker 2: Hello, Mr. Michael?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Yes, this is Skull Blue.\n\nSpeaker 1: I was calling back to check if you still wanted to place your order for Viagra?\n\nSpeaker 2: Not right now. I can't right this minute. I'm kind of in the middle of something.\n\nSpeaker 1: But check with me like after four.\n\nSpeaker 2: I mean, I could just place the order. I just wanted to confirm if you wanted it.\n\nSpeaker 1: You don't have much to do. I can just place the ten pills order for you if you like.\n\nSpeaker 2: I'm not sure right now. So, thank you.\n\nSpeaker 1: All right.",
+    "duration": 2128,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hello, this is Mike."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 4,
+        "text": " Hello, Mr. Michael?"
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 5,
+        "text": " Yes."
+      },
+      {
+        "id": 3,
+        "start": 5,
+        "end": 7,
+        "text": " Yes, this is Skull Blue."
+      },
+      {
+        "id": 4,
+        "start": 7,
+        "end": 13,
+        "text": " I was calling back to check if you still wanted to place your order for Viagra?"
+      },
+      {
+        "id": 5,
+        "start": 13,
+        "end": 18,
+        "text": " Not right now. I can't right this minute. I'm kind of in the middle of something."
+      },
+      {
+        "id": 6,
+        "start": 18,
+        "end": 21,
+        "text": " But check with me like after four."
+      },
+      {
+        "id": 7,
+        "start": 21,
+        "end": 25,
+        "text": " I mean, I could just place the order. I just wanted to confirm if you wanted it."
+      },
+      {
+        "id": 8,
+        "start": 25,
+        "end": 29,
+        "text": " You don't have much to do. I can just place the ten pills order for you if you like."
+      },
+      {
+        "id": 9,
+        "start": 30,
+        "end": 34,
+        "text": " I'm not sure right now. So, thank you."
+      },
+      {
+        "id": 10,
+        "start": 34,
+        "end": 35,
+        "text": " All right."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8194-96b7-cfd89bf4dbba",
+    "url": "https://www.notion.so/300000001220831-300000001710865-2f611d0a101c819496b7cfd89bf4dbba"
+  },
+  "processedAt": "2026-01-28T18:09:51.437Z"
+}

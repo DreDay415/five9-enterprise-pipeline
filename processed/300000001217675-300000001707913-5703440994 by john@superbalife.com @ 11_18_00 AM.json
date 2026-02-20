@@ -1,0 +1,80 @@
+{
+  "recording": {
+    "name": "300000001217675-300000001707913-5703440994 by john@superbalife.com @ 11_18_00 AM.wav",
+    "size": 39970,
+    "modifyTime": 1769582836000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217675-300000001707913-5703440994 by john@superbalife.com @ 11_18_00 AM.wav",
+    "uploadDate": "2026-01-28T06:47:16.000Z",
+    "callId": "300000001217675-300000001707913",
+    "agent": "john",
+    "phoneNumber": "5703440994",
+    "callTimestamp": "2026-01-28T11:18:00.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Hi, John. How are you today?\n\nSpeaker 1: I'm doing well. How are you?\n\nSpeaker 2: I'm okay after shoveling lots and lots of snow here in Pennsylvania.\n\nSpeaker 1: Oh, I'm sure.\n\nSpeaker 2: Oh, it was not fun.\n\nSpeaker 1: I was online last night, and I...\n\nSpeaker 2: Can I call... I have to answer this phone call. I'll call back.\n\nSpeaker 1: You can call back. Yeah, yeah. No problem.",
+    "duration": 2126,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5,
+        "text": " Hi, John. How are you today?"
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 7,
+        "text": " I'm doing well. How are you?"
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 10,
+        "text": " I'm okay after shoveling lots and lots of snow here in Pennsylvania."
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 11,
+        "text": " Oh, I'm sure."
+      },
+      {
+        "id": 5,
+        "start": 11,
+        "end": 13,
+        "text": " Oh, it was not fun."
+      },
+      {
+        "id": 6,
+        "start": 13,
+        "end": 19,
+        "text": " I was online last night, and I..."
+      },
+      {
+        "id": 7,
+        "start": 19,
+        "end": 22,
+        "text": " Can I call... I have to answer this phone call. I'll call back."
+      },
+      {
+        "id": 8,
+        "start": 22,
+        "end": 24,
+        "text": " You can call back. Yeah, yeah. No problem."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8104-92d6-d1c509407c28",
+    "url": "https://www.notion.so/300000001217675-300000001707913-2f611d0a101c810492d6d1c509407c28"
+  },
+  "processedAt": "2026-01-28T16:52:04.275Z"
+}

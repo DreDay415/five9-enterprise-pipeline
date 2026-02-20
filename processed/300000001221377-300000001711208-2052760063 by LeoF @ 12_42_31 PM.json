@@ -1,0 +1,283 @@
+{
+  "recording": {
+    "name": "300000001221377-300000001711208-2052760063 by LeoF @ 12_42_31 PM.wav",
+    "size": 198440,
+    "modifyTime": 1769633096000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221377-300000001711208-2052760063 by LeoF @ 12_42_31 PM.wav",
+    "uploadDate": "2026-01-28T20:44:56.000Z",
+    "callId": "300000001221377-300000001711208",
+    "phoneNumber": "2052760063",
+    "callTimestamp": "2026-01-28T12:42:31.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, thanks for calling Viagra. How can I help you?\n\nSpeaker 2: Yeah, my name is Russ McGuire. I'm a client with you all, and I need some information, if I could, please.\n\nSpeaker 1: I originally thought I was purchasing the Viagra AGV, but my last two prescriptions have come back with Viagra 50 milligrams.\n\nSpeaker 2: And the identification on the pill itself is AC-339.\n\nSpeaker 1: It doesn't appear to be the AGV.\n\nSpeaker 2: And on that first order, Mr. McGuire, the marking was different.\n\nSpeaker 1: You saw just a 50 on one side and a blank on the other,\n\nSpeaker 2: as well as the AGV indication on the label?\n\nSpeaker 1: That's correct.\n\nSpeaker 2: The last two have been incorrect.\n\nSpeaker 1: I'm sorry?\n\nSpeaker 2: And the last two have been incorrect, it sounds like.\n\nSpeaker 1: That appears to be the case.\n\nSpeaker 2: Since you do mention the designation on the pills,\n\nSpeaker 1: it does sound like you have correctly identified them as incorrect.\n\nSpeaker 2: That is a mistake on our part, of course.\n\nSpeaker 1: That shouldn't be happening.\n\nSpeaker 2: It looks like it probably was just a machine error\n\nSpeaker 1: or possibly the pharmacist made a little glitch in his system.\n\nSpeaker 2: What I would do for you, of course, Mr. McGuire,\n\nSpeaker 1: is send you 20 replacement pills at no cost\n\nSpeaker 2: for the ones that have already been sent out there that were incorrect.\n\nSpeaker 1: And I have you there.\n\nSpeaker 2: Yeah, go ahead.\n\nSpeaker 1: So I have you at 6682 George Loop, Bessemer, 35002.\n\nSpeaker 2: That is correct, sir.\n\nSpeaker 1: Yes, definitely I'll send you these guys out at no cost.\n\nSpeaker 2: That's our mistake.\n\nSpeaker 1: You'll see those come out probably by, I would say, this upcoming Tuesday,\n\nSpeaker 2: Wednesday at the absolute latest.\n\nSpeaker 1: All right.\n\nSpeaker 2: I certainly appreciate you all's attention to the detail,\n\nSpeaker 1: and I appreciate it so much.\n\nSpeaker 2: No problem, Mr. McGuire.\n\nSpeaker 1: I appreciate you and sorry about that blunder.\n\nSpeaker 2: I'll look out for those pills this upcoming week, okay?\n\nSpeaker 1: All right.\n\nSpeaker 2: Thank you very much.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Bye-bye now.\n\nSpeaker 1: Bye-bye.",
+    "duration": 4458,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hey, thanks for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 6,
+        "text": " Yeah, my name is Russ McGuire. I'm a client with you all,"
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 13,
+        "text": " and I need some information, if I could, please."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 21,
+        "text": " I originally thought I was purchasing the Viagra AGV,"
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 28,
+        "text": " but my last two prescriptions have come back with Viagra 50 milligrams"
+      },
+      {
+        "id": 5,
+        "start": 28,
+        "end": 34,
+        "text": " and the identification on the pill itself is AC-339."
+      },
+      {
+        "id": 6,
+        "start": 34,
+        "end": 37,
+        "text": " It doesn't appear to be the AGV."
+      },
+      {
+        "id": 7,
+        "start": 37,
+        "end": 41,
+        "text": " And on that first order, Mr. McGuire, the marking was different."
+      },
+      {
+        "id": 8,
+        "start": 41,
+        "end": 44,
+        "text": " You saw just a 50 on one side and a blank on the other,"
+      },
+      {
+        "id": 9,
+        "start": 44,
+        "end": 46,
+        "text": " as well as the AGV indication on the label?"
+      },
+      {
+        "id": 10,
+        "start": 46,
+        "end": 49,
+        "text": " That's correct."
+      },
+      {
+        "id": 11,
+        "start": 49,
+        "end": 51,
+        "text": " The last two have been incorrect."
+      },
+      {
+        "id": 12,
+        "start": 51,
+        "end": 53,
+        "text": " I'm sorry?"
+      },
+      {
+        "id": 13,
+        "start": 53,
+        "end": 55,
+        "text": " And the last two have been incorrect, it sounds like."
+      },
+      {
+        "id": 14,
+        "start": 55,
+        "end": 59,
+        "text": " That appears to be the case."
+      },
+      {
+        "id": 15,
+        "start": 59,
+        "end": 62,
+        "text": " Since you do mention the designation on the pills,"
+      },
+      {
+        "id": 16,
+        "start": 62,
+        "end": 66,
+        "text": " it does sound like you have correctly identified them as incorrect."
+      },
+      {
+        "id": 17,
+        "start": 66,
+        "end": 68,
+        "text": " That is a mistake on our part, of course."
+      },
+      {
+        "id": 18,
+        "start": 68,
+        "end": 70,
+        "text": " That shouldn't be happening."
+      },
+      {
+        "id": 19,
+        "start": 70,
+        "end": 72,
+        "text": " It looks like it probably was just a machine error"
+      },
+      {
+        "id": 20,
+        "start": 72,
+        "end": 76,
+        "text": " or possibly the pharmacist made a little glitch in his system."
+      },
+      {
+        "id": 21,
+        "start": 76,
+        "end": 78,
+        "text": " What I would do for you, of course, Mr. McGuire,"
+      },
+      {
+        "id": 22,
+        "start": 78,
+        "end": 81,
+        "text": " is send you 20 replacement pills at no cost"
+      },
+      {
+        "id": 23,
+        "start": 82,
+        "end": 86,
+        "text": " for the ones that have already been sent out there that were incorrect."
+      },
+      {
+        "id": 24,
+        "start": 86,
+        "end": 88,
+        "text": " And I have you there."
+      },
+      {
+        "id": 25,
+        "start": 88,
+        "end": 89,
+        "text": " Yeah, go ahead."
+      },
+      {
+        "id": 26,
+        "start": 89,
+        "end": 94,
+        "text": " So I have you at 6682 George Loop, Bessemer, 35002."
+      },
+      {
+        "id": 27,
+        "start": 94,
+        "end": 96,
+        "text": " That is correct, sir."
+      },
+      {
+        "id": 28,
+        "start": 96,
+        "end": 100,
+        "text": " Yes, definitely I'll send you these guys out at no cost."
+      },
+      {
+        "id": 29,
+        "start": 100,
+        "end": 101,
+        "text": " That's our mistake."
+      },
+      {
+        "id": 30,
+        "start": 101,
+        "end": 105,
+        "text": " You'll see those come out probably by, I would say, this upcoming Tuesday,"
+      },
+      {
+        "id": 31,
+        "start": 105,
+        "end": 107,
+        "text": " Wednesday at the absolute latest."
+      },
+      {
+        "id": 32,
+        "start": 107,
+        "end": 108,
+        "text": " All right."
+      },
+      {
+        "id": 33,
+        "start": 108,
+        "end": 111,
+        "text": " I certainly appreciate you all's attention to the detail,"
+      },
+      {
+        "id": 34,
+        "start": 111,
+        "end": 113,
+        "text": " and I appreciate it so much."
+      },
+      {
+        "id": 35,
+        "start": 113,
+        "end": 114,
+        "text": " No problem, Mr. McGuire."
+      },
+      {
+        "id": 36,
+        "start": 114,
+        "end": 116,
+        "text": " I appreciate you and sorry about that blunder."
+      },
+      {
+        "id": 37,
+        "start": 116,
+        "end": 118,
+        "text": " I'll look out for those pills this upcoming week, okay?"
+      },
+      {
+        "id": 38,
+        "start": 118,
+        "end": 119,
+        "text": " All right."
+      },
+      {
+        "id": 39,
+        "start": 119,
+        "end": 120,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 40,
+        "start": 120,
+        "end": 121,
+        "text": " Thank you."
+      },
+      {
+        "id": 41,
+        "start": 121,
+        "end": 122,
+        "text": " Bye-bye now."
+      },
+      {
+        "id": 42,
+        "start": 122,
+        "end": 123,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-812b-898f-e8a76d1a41a7",
+    "url": "https://www.notion.so/300000001221377-300000001711208-2f611d0a101c812b898fe8a76d1a41a7"
+  },
+  "processedAt": "2026-01-28T22:53:05.408Z"
+}

@@ -1,0 +1,200 @@
+{
+  "recording": {
+    "name": "300000001217712-300000001707930-8325677577 by gabriela@superbalife.com @ 11_24_20 AM.wav",
+    "size": 162626,
+    "modifyTime": 1769584936000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217712-300000001707930-8325677577 by gabriela@superbalife.com @ 11_24_20 AM.wav",
+    "uploadDate": "2026-01-28T07:22:16.000Z",
+    "callId": "300000001217712-300000001707930",
+    "agent": "gabriela",
+    "phoneNumber": "8325677577",
+    "callTimestamp": "2026-01-28T11:24:20.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra, how can I assist you?\n\nSpeaker 2: Yeah, you're charging my credit card, and I've never ordered this.\n\nSpeaker 1: I'm trying to get this figured out.\n\nSpeaker 2: What's your name and date of birth?\n\nSpeaker 1: Terry Newbaum, 11-10-61.\n\nSpeaker 2: Thank you, Terry.\n\nSpeaker 1: Okay, yeah, so it looks like you do have a prescription for us.\n\nSpeaker 2: For Viagra 50 milligrams, the quantity of 40.\n\nSpeaker 1: So you do get that prescription every three months, which is why...\n\nSpeaker 2: Hang on, hang on, hang on, hang on.\n\nSpeaker 1: First of all, I've never ordered this.\n\nSpeaker 2: Second of all, you send it to my South Dakota address,\n\nSpeaker 1: and I'm not even in my South Dakota address.\n\nSpeaker 2: So I want to refund this, and I want to cancel my order.\n\nSpeaker 1: Okay, so, yeah, so you placed this order.\n\nSpeaker 2: The first time that you ordered with us was back in October.\n\nSpeaker 1: So you do get it every three months.\n\nSpeaker 2: Well, I've never received one package.\n\nSpeaker 1: I've never received one package.\n\nSpeaker 2: So, no, I did not order this.\n\nSpeaker 1: Yes, you placed your first order back in October.\n\nSpeaker 2: Well, I'm telling you, I've never received it.\n\nSpeaker 1: And the shipping address that you provided us with was 20811 Madison Lane,\n\nSpeaker 2: Syracuse, South Dakota, 57785.\n\nSpeaker 1: Well, I've never received one thing.\n\nSpeaker 2: I've never even taken a Viagra.\n\nSpeaker 1: So something's wrong.\n\nSpeaker 2: I want to cancel it. She won't let me.\n\nSpeaker 1: Okay, give me a second.",
+    "duration": 5169,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " Hi, thank you for calling Viagra, how can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 10,
+        "text": " Yeah, you're charging my credit card, and I've never ordered this."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 12,
+        "text": " I'm trying to get this figured out."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 14,
+        "text": " What's your name and date of birth?"
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 18,
+        "text": " Terry Newbaum, 11-10-61."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 20,
+        "text": " Thank you, Terry."
+      },
+      {
+        "id": 6,
+        "start": 20,
+        "end": 23,
+        "text": " Okay, yeah, so it looks like you do have a prescription for us"
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 27,
+        "text": " for Viagra 50 milligrams, the quantity of 40."
+      },
+      {
+        "id": 8,
+        "start": 27,
+        "end": 31,
+        "text": " So you do get that prescription every three months, which is why..."
+      },
+      {
+        "id": 9,
+        "start": 31,
+        "end": 34,
+        "text": " Hang on, hang on, hang on, hang on."
+      },
+      {
+        "id": 10,
+        "start": 34,
+        "end": 38,
+        "text": " First of all, I've never ordered this."
+      },
+      {
+        "id": 11,
+        "start": 38,
+        "end": 41,
+        "text": " Second of all, you send it to my South Dakota address,"
+      },
+      {
+        "id": 12,
+        "start": 41,
+        "end": 45,
+        "text": " and I'm not even in my South Dakota address."
+      },
+      {
+        "id": 13,
+        "start": 45,
+        "end": 51,
+        "text": " So I want to refund this, and I want to cancel my order."
+      },
+      {
+        "id": 14,
+        "start": 51,
+        "end": 54,
+        "text": " Okay, so, yeah, so you placed this order,"
+      },
+      {
+        "id": 15,
+        "start": 54,
+        "end": 58,
+        "text": " the first time that you ordered with us was back in October."
+      },
+      {
+        "id": 16,
+        "start": 58,
+        "end": 61,
+        "text": " So you do get it every three months."
+      },
+      {
+        "id": 17,
+        "start": 61,
+        "end": 66,
+        "text": " Well, I've never received one package."
+      },
+      {
+        "id": 18,
+        "start": 66,
+        "end": 68,
+        "text": " I've never received one package."
+      },
+      {
+        "id": 19,
+        "start": 68,
+        "end": 71,
+        "text": " So, no, I did not order this."
+      },
+      {
+        "id": 20,
+        "start": 71,
+        "end": 75,
+        "text": " Yes, you placed your first order back in October."
+      },
+      {
+        "id": 21,
+        "start": 75,
+        "end": 77,
+        "text": " Well, I'm telling you, I've never received it."
+      },
+      {
+        "id": 22,
+        "start": 77,
+        "end": 82,
+        "text": " And the shipping address that you provided us with was 20811 Madison Lane,"
+      },
+      {
+        "id": 23,
+        "start": 82,
+        "end": 86,
+        "text": " Syracuse, South Dakota, 57785."
+      },
+      {
+        "id": 24,
+        "start": 86,
+        "end": 89,
+        "text": " Well, I've never received one thing."
+      },
+      {
+        "id": 25,
+        "start": 89,
+        "end": 91,
+        "text": " I've never even taken a Viagra."
+      },
+      {
+        "id": 26,
+        "start": 91,
+        "end": 96,
+        "text": " So something's wrong."
+      },
+      {
+        "id": 27,
+        "start": 96,
+        "end": 99,
+        "text": " I want to cancel it. She won't let me."
+      },
+      {
+        "id": 28,
+        "start": 99,
+        "end": 101,
+        "text": " Okay, give me a second."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e8-8d1e-cc5c22d0e5f2",
+    "url": "https://www.notion.so/300000001217712-300000001707930-2f611d0a101c81e88d1ecc5c22d0e5f2"
+  },
+  "processedAt": "2026-01-28T14:43:42.107Z"
+}

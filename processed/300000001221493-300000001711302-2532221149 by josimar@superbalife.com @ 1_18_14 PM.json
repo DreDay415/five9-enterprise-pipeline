@@ -1,0 +1,224 @@
+{
+  "recording": {
+    "name": "300000001221493-300000001711302-2532221149 by josimar@superbalife.com @ 1_18_14 PM.wav",
+    "size": 135066,
+    "modifyTime": 1769635199000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221493-300000001711302-2532221149 by josimar@superbalife.com @ 1_18_14 PM.wav",
+    "uploadDate": "2026-01-28T21:19:59.000Z",
+    "callId": "300000001221493-300000001711302",
+    "agent": "josimar",
+    "phoneNumber": "2532221149",
+    "callTimestamp": "2026-01-28T13:18:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yes, I was calling about trying to get a refill.\n\nSpeaker 2: I can help you with that.\n\nSpeaker 1: What's your last name and a zip code?\n\nSpeaker 2: Deal.\n\nSpeaker 1: D-E-A-L 9-8-4-4-5.\n\nSpeaker 2: Got it.\n\nSpeaker 1: Last time you got 40 pills, I won 63.\n\nSpeaker 2: Were you looking to get that again?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Are we going to build a visa that ends in 0707?\n\nSpeaker 2: No, I have a different one.\n\nSpeaker 1: All right.\n\nSpeaker 2: Whenever you're ready, feel free to give me the card number.\n\nSpeaker 1: 5287.\n\nSpeaker 2: Okay.\n\nSpeaker 1: 4950.\n\nSpeaker 2: 9284.\n\nSpeaker 1: 4757.\n\nSpeaker 2: Okay.\n\nSpeaker 1: 4950.\n\nSpeaker 2: 9284.\n\nSpeaker 1: 4757.\n\nSpeaker 2: Expiration month and year?\n\nSpeaker 1: 929.\n\nSpeaker 2: Three-digit security code?\n\nSpeaker 1: 702.\n\nSpeaker 2: Okay, one moment.\n\nSpeaker 1: You're all set.\n\nSpeaker 2: The order will be in three to five business days.\n\nSpeaker 1: I hope you have a great day.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Bye-bye.",
+    "duration": 3409,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Yes, I was calling about trying to get a refill."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 7,
+        "text": " I can help you with that."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " What's your last name and a zip code?"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 10,
+        "text": " Deal."
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 13,
+        "text": " D-E-A-L 9-8-4-4-5."
+      },
+      {
+        "id": 5,
+        "start": 13,
+        "end": 14,
+        "text": " Got it."
+      },
+      {
+        "id": 6,
+        "start": 14,
+        "end": 16,
+        "text": " Last time you got 40 pills, I won 63."
+      },
+      {
+        "id": 7,
+        "start": 16,
+        "end": 17,
+        "text": " Were you looking to get that again?"
+      },
+      {
+        "id": 8,
+        "start": 17,
+        "end": 18,
+        "text": " Yeah."
+      },
+      {
+        "id": 9,
+        "start": 18,
+        "end": 19,
+        "text": " Okay."
+      },
+      {
+        "id": 10,
+        "start": 19,
+        "end": 23,
+        "text": " Are we going to build a visa that ends in 0707?"
+      },
+      {
+        "id": 11,
+        "start": 23,
+        "end": 26,
+        "text": " No, I have a different one."
+      },
+      {
+        "id": 12,
+        "start": 26,
+        "end": 27,
+        "text": " All right."
+      },
+      {
+        "id": 13,
+        "start": 27,
+        "end": 31,
+        "text": " Whenever you're ready, feel free to give me the card number."
+      },
+      {
+        "id": 14,
+        "start": 31,
+        "end": 34,
+        "text": " 5287."
+      },
+      {
+        "id": 15,
+        "start": 34,
+        "end": 37,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 37,
+        "end": 40,
+        "text": " 4950."
+      },
+      {
+        "id": 17,
+        "start": 40,
+        "end": 43,
+        "text": " 9284."
+      },
+      {
+        "id": 18,
+        "start": 43,
+        "end": 46,
+        "text": " 4757."
+      },
+      {
+        "id": 19,
+        "start": 47,
+        "end": 49,
+        "text": " Okay."
+      },
+      {
+        "id": 20,
+        "start": 49,
+        "end": 52,
+        "text": " 4950."
+      },
+      {
+        "id": 21,
+        "start": 52,
+        "end": 55,
+        "text": " 9284."
+      },
+      {
+        "id": 22,
+        "start": 55,
+        "end": 58,
+        "text": " 4757."
+      },
+      {
+        "id": 23,
+        "start": 58,
+        "end": 60,
+        "text": " Expiration month and year?"
+      },
+      {
+        "id": 24,
+        "start": 60,
+        "end": 63,
+        "text": " 929."
+      },
+      {
+        "id": 25,
+        "start": 63,
+        "end": 65,
+        "text": " Three-digit security code?"
+      },
+      {
+        "id": 26,
+        "start": 65,
+        "end": 69,
+        "text": " 702."
+      },
+      {
+        "id": 27,
+        "start": 69,
+        "end": 75,
+        "text": " Okay, one moment."
+      },
+      {
+        "id": 28,
+        "start": 75,
+        "end": 76,
+        "text": " You're all set."
+      },
+      {
+        "id": 29,
+        "start": 76,
+        "end": 78,
+        "text": " The order will be in three to five business days."
+      },
+      {
+        "id": 30,
+        "start": 78,
+        "end": 79,
+        "text": " I hope you have a great day."
+      },
+      {
+        "id": 31,
+        "start": 79,
+        "end": 80,
+        "text": " Thank you."
+      },
+      {
+        "id": 32,
+        "start": 80,
+        "end": 83,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8197-b02b-c47b4ef523bc",
+    "url": "https://www.notion.so/300000001221493-300000001711302-2f611d0a101c8197b02bc47b4ef523bc"
+  },
+  "processedAt": "2026-01-28T22:39:23.368Z"
+}

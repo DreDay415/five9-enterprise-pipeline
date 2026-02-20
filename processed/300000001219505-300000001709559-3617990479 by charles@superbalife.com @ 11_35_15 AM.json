@@ -1,0 +1,56 @@
+{
+  "recording": {
+    "name": "300000001219505-300000001709559-3617990479 by charles@superbalife.com @ 11_35_15 AM.wav",
+    "size": 23850,
+    "modifyTime": 1769586140000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219505-300000001709559-3617990479 by charles@superbalife.com @ 11_35_15 AM.wav",
+    "uploadDate": "2026-01-28T07:42:20.000Z",
+    "callId": "300000001219505-300000001709559",
+    "agent": "charles",
+    "phoneNumber": "3617990479",
+    "callTimestamp": "2026-01-28T11:35:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Biography, this is Charles.\n\nSpeaker 2: Hello, this is Charles.\n\nSpeaker 1: Do you have somebody who speaks Spanish?\n\nSpeaker 2: Yeah, one second, okay?\n\nSpeaker 1: Okay, sir, thanks.",
+    "duration": 1557,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thanks for calling Biography, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 7,
+        "text": " Hello, this is Charles."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " You have somebody speak Spanish?"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 11,
+        "text": " Yeah, one second, okay?"
+      },
+      {
+        "id": 4,
+        "start": 11,
+        "end": 13,
+        "text": " Okay, sir, thanks."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-811b-a693-d61eab455610",
+    "url": "https://www.notion.so/300000001219505-300000001709559-2f611d0a101c811ba693d61eab455610"
+  },
+  "processedAt": "2026-01-28T13:55:50.300Z"
+}

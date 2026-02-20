@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001216695-300000001706029-6412752466 by  @ 3_56_03 PM_CallStudio.wav",
+    "size": 24176,
+    "modifyTime": 1769593627000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216695-300000001706029-6412752466 by  @ 3_56_03 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:47:07.000Z",
+    "callId": "300000001216695-300000001706029",
+    "phoneNumber": "6412752466",
+    "callTimestamp": "2026-01-28T09:47:07.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español marque numero nueve.\n\nSpeaker 2: You want to cancel my prescription.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1570,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.059999942779541,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.059999942779541,
+        "end": 6.059999942779541,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.059999942779541,
+        "end": 9.579999923706055,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.579999923706055,
+        "end": 13.380000114440918,
+        "text": " You want to cancel my prescription."
+      },
+      {
+        "id": 4,
+        "start": 13.380000114440918,
+        "end": 14.579999923706055,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8197-9c62-fc5fc2ae2c8a",
+    "url": "https://www.notion.so/300000001216695-300000001706029-2f611d0a101c81979c62fc5fc2ae2c8a"
+  },
+  "processedAt": "2026-01-28T10:01:16.065Z"
+}

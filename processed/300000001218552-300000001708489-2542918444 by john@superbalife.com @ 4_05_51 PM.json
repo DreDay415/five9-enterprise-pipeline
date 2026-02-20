@@ -1,0 +1,158 @@
+{
+  "recording": {
+    "name": "300000001218552-300000001708489-2542918444 by john@superbalife.com @ 4_05_51 PM.wav",
+    "size": 75396,
+    "modifyTime": 1769592150000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218552-300000001708489-2542918444 by john@superbalife.com @ 4_05_51 PM.wav",
+    "uploadDate": "2026-01-28T09:22:30.000Z",
+    "callId": "300000001218552-300000001708489",
+    "agent": "john",
+    "phoneNumber": "2542918444",
+    "callTimestamp": "2026-01-28T16:05:51.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling.\n\nSpeaker 2: This is John.\n\nSpeaker 1: How can I help you?\n\nSpeaker 2: I need to cancel my prescription.\n\nSpeaker 1: Okay. What's your name and zip code?\n\nSpeaker 2: Tyrone Osbury, 76542.\n\nSpeaker 1: Cody James Drive?\n\nSpeaker 2: Yes.\n\nSpeaker 1: I can do that for you, but if I do, sir, just know it cancels out the prescription entirely and you wouldn't be able to order it again. That's what you want to do?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay. Well, I will close out the account permanently for you.\n\nSpeaker 2: You're all set.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thanks.\n\nSpeaker 1: Thank you.",
+    "duration": 2434,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.319999933242798,
+        "text": " Thank you for calling."
+      },
+      {
+        "id": 1,
+        "start": 2.319999933242798,
+        "end": 3.319999933242798,
+        "text": " This is John."
+      },
+      {
+        "id": 2,
+        "start": 3.319999933242798,
+        "end": 4.320000171661377,
+        "text": " How can I help you?"
+      },
+      {
+        "id": 3,
+        "start": 4.320000171661377,
+        "end": 5.320000171661377,
+        "text": " Yes."
+      },
+      {
+        "id": 4,
+        "start": 5.320000171661377,
+        "end": 9.319999694824219,
+        "text": " I need to cancel my prescription."
+      },
+      {
+        "id": 5,
+        "start": 9.319999694824219,
+        "end": 10.319999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 6,
+        "start": 10.319999694824219,
+        "end": 13.319999694824219,
+        "text": " What's your name and zip code?"
+      },
+      {
+        "id": 7,
+        "start": 13.319999694824219,
+        "end": 25.1200008392334,
+        "text": " Tyrone Osbury, 76542."
+      },
+      {
+        "id": 8,
+        "start": 25.1200008392334,
+        "end": 26.959999084472656,
+        "text": " Cody James Drive?"
+      },
+      {
+        "id": 9,
+        "start": 26.959999084472656,
+        "end": 27.959999084472656,
+        "text": " Yes."
+      },
+      {
+        "id": 10,
+        "start": 27.959999084472656,
+        "end": 28.959999084472656,
+        "text": " Okay."
+      },
+      {
+        "id": 11,
+        "start": 28.959999084472656,
+        "end": 32.720001220703125,
+        "text": " I can do that for you, but if I do, sir, just know it cancels out the prescription entirely"
+      },
+      {
+        "id": 12,
+        "start": 32.720001220703125,
+        "end": 34.599998474121094,
+        "text": " and you wouldn't be able to order it again."
+      },
+      {
+        "id": 13,
+        "start": 34.599998474121094,
+        "end": 36,
+        "text": " That's what you want to do?"
+      },
+      {
+        "id": 14,
+        "start": 36,
+        "end": 37,
+        "text": " Yes."
+      },
+      {
+        "id": 15,
+        "start": 37,
+        "end": 38,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 38,
+        "end": 40.91999816894531,
+        "text": " Well, I will close out the account permanently for you."
+      },
+      {
+        "id": 17,
+        "start": 40.91999816894531,
+        "end": 41.91999816894531,
+        "text": " You're all set."
+      },
+      {
+        "id": 18,
+        "start": 41.91999816894531,
+        "end": 42.91999816894531,
+        "text": " Okay."
+      },
+      {
+        "id": 19,
+        "start": 42.91999816894531,
+        "end": 43.91999816894531,
+        "text": " Thanks."
+      },
+      {
+        "id": 20,
+        "start": 43.91999816894531,
+        "end": 44.91999816894531,
+        "text": " Thank you."
+      },
+      {
+        "id": 21,
+        "start": 44.91999816894531,
+        "end": 44.91999816894531,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81fa-ab12-c082c7c296d9",
+    "url": "https://www.notion.so/300000001218552-300000001708489-2f611d0a101c81faab12c082c7c296d9"
+  },
+  "processedAt": "2026-01-28T10:46:22.038Z"
+}

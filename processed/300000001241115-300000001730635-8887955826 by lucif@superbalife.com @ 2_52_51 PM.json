@@ -1,0 +1,389 @@
+{
+  "recording": {
+    "name": "300000001241115-300000001730635-8887955826 by lucif@superbalife.com @ 2_52_51 PM.wav",
+    "size": 320706,
+    "modifyTime": 1770936991000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241115-300000001730635-8887955826 by lucif@superbalife.com @ 2_52_51 PM.wav",
+    "uploadDate": "2026-02-12T22:56:31.000Z",
+    "callId": "300000001241115-300000001730635",
+    "agent": "lucif",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-02-12T14:52:51.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_lucif_300000001241115-300000001730635_8887955826.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_lucif_300000001241115-300000001730635_8887955826.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, my name is Nino Vitale and I needed to cancel my prescription for my meds.\n\nSpeaker 2: Okay, one moment, fill up your account.\n\nSpeaker 1: What's your zip code?\n\nSpeaker 2: It's 61944.\n\nSpeaker 1: And what's your first and last name again, is it Vitale?\n\nSpeaker 2: It's Eno, E-N-O.\n\nSpeaker 1: Okay, Vitale, I got you.\n\nSpeaker 2: All right, and what's going on with the VAC?\n\nSpeaker 1: Is it not working?\n\nSpeaker 2: Are you kind of getting it too fast?\n\nSpeaker 1: Yeah, it doesn't work.\n\nSpeaker 2: Oh, okay.\n\nSpeaker 1: Well, it could just be that that particular one is just not the best fit for you.\n\nSpeaker 2: We do have others we can send you for free to see if they are working better for you.\n\nSpeaker 1: You can pick back up after you try them.\n\nSpeaker 2: What other medicine would there be?\n\nSpeaker 1: We do have multiple versions of the AGV.\n\nSpeaker 2: It would be from a different manufacturer, which usually is the case for getting something to work.\n\nSpeaker 1: But like I said, it is free, so you would be able to try this and see for yourself before we send you anything else.\n\nSpeaker 2: You know what, I think I'm just going to pass.\n\nSpeaker 1: All right, well, we can do that for you, sir.\n\nSpeaker 2: Just wanted to kind of give you an opportunity to try some out.\n\nSpeaker 1: Like I said, it is free.\n\nSpeaker 2: Yeah, I just, I don't know, I'm kind of giving up hope on them.\n\nSpeaker 1: I've tried a lot of different ones.\n\nSpeaker 2: I thought that this one was going to be the one, but it's not.\n\nSpeaker 1: I mean, like I said, it's a body chemistry thing, so it could just be that something like this is the answer.\n\nSpeaker 2: I mean, it's free, sir.\n\nSpeaker 1: All we ask is that you just give us a call, let us know how it's working.\n\nSpeaker 2: I mean, not really much to lose there.\n\nSpeaker 1: I'll give you my name and extension.\n\nSpeaker 2: I'll try it.\n\nSpeaker 1: I'll try it.\n\nSpeaker 2: Especially if you are kind of trying everything, you want to try to find something that works.\n\nSpeaker 1: At least you know you tried everything there, you know.\n\nSpeaker 2: Different compositions can be the factor of changing something.\n\nSpeaker 1: Let me, like I said, let me go ahead and send that out.\n\nSpeaker 2: Do you want to write down my name and extension that way?\n\nSpeaker 1: To tell you the truth, is there any way you can email me?\n\nSpeaker 2: I am driving.\n\nSpeaker 1: They called me when I was driving.\n\nSpeaker 2: I called the wrong number and then they transferred me to you.\n\nSpeaker 1: Yeah, I can do that.\n\nSpeaker 2: I can do that for you.\n\nSpeaker 1: And then I would just contact you if it works?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Yeah, and if not, just call me too.\n\nSpeaker 2: I'll make sure everything is stopped here and canceled out.\n\nSpeaker 1: All right, well, you're all set.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Anything else that you need?\n\nSpeaker 2: All right.\n\nSpeaker 1: That's all I got to do then?\n\nSpeaker 2: Yes, yes, that is all.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: You're welcome.\n\nSpeaker 2: Have a good day.\n\nSpeaker 1: You too, buddy.\n\nSpeaker 2: Bye.",
+    "duration": 6805,
+    "audioDuration": 197.32000732421875,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 13,
+        "text": " Hi, my name is Nino Vitale and I needed to cancel my prescription for my meds."
+      },
+      {
+        "id": 1,
+        "start": 13,
+        "end": 22,
+        "text": " Okay, one moment, fill up your account."
+      },
+      {
+        "id": 2,
+        "start": 22,
+        "end": 28,
+        "text": " What's your zip code?"
+      },
+      {
+        "id": 3,
+        "start": 28,
+        "end": 34,
+        "text": " It's 61944."
+      },
+      {
+        "id": 4,
+        "start": 34,
+        "end": 37,
+        "text": " And what's your first and last name again, is it Vitale?"
+      },
+      {
+        "id": 5,
+        "start": 37,
+        "end": 41,
+        "text": " It's Eno, E-N-O."
+      },
+      {
+        "id": 6,
+        "start": 41,
+        "end": 43,
+        "text": " Okay, Vitale, I got you."
+      },
+      {
+        "id": 7,
+        "start": 43,
+        "end": 45,
+        "text": " All right, and what's going on with the VAC?"
+      },
+      {
+        "id": 8,
+        "start": 45,
+        "end": 46,
+        "text": " Is it not working?"
+      },
+      {
+        "id": 9,
+        "start": 46,
+        "end": 47,
+        "text": " Are you kind of getting it too fast?"
+      },
+      {
+        "id": 10,
+        "start": 47,
+        "end": 51,
+        "text": " Yeah, it doesn't work."
+      },
+      {
+        "id": 11,
+        "start": 51,
+        "end": 52,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 12,
+        "start": 52,
+        "end": 57,
+        "text": " Well, it could just be that that particular one is just not the best fit for you."
+      },
+      {
+        "id": 13,
+        "start": 57,
+        "end": 62,
+        "text": " We do have others we can send you for free to see if they are working better for you."
+      },
+      {
+        "id": 14,
+        "start": 62,
+        "end": 65,
+        "text": " You can pick back up after you try them."
+      },
+      {
+        "id": 15,
+        "start": 65,
+        "end": 68,
+        "text": " What other medicine would there be?"
+      },
+      {
+        "id": 16,
+        "start": 68,
+        "end": 71,
+        "text": " We do have multiple versions of the AGV."
+      },
+      {
+        "id": 17,
+        "start": 71,
+        "end": 76,
+        "text": " It would be from a different manufacturer, which usually is the case for getting something to work."
+      },
+      {
+        "id": 18,
+        "start": 76,
+        "end": 86,
+        "text": " But like I said, it is free, so you would be able to try this and see for yourself before we send you anything else."
+      },
+      {
+        "id": 19,
+        "start": 86,
+        "end": 94,
+        "text": " You know what, I think I'm just going to pass."
+      },
+      {
+        "id": 20,
+        "start": 94,
+        "end": 96,
+        "text": " All right, well, we can do that for you, sir."
+      },
+      {
+        "id": 21,
+        "start": 96,
+        "end": 98,
+        "text": " Just wanted to kind of give you an opportunity to try some out."
+      },
+      {
+        "id": 22,
+        "start": 98,
+        "end": 102,
+        "text": " Like I said, it is free."
+      },
+      {
+        "id": 23,
+        "start": 102,
+        "end": 105,
+        "text": " Yeah, I just, I don't know, I'm kind of giving up hope on them."
+      },
+      {
+        "id": 24,
+        "start": 105,
+        "end": 108,
+        "text": " I've tried a lot of different ones."
+      },
+      {
+        "id": 25,
+        "start": 108,
+        "end": 112,
+        "text": " I thought that this one was going to be the one, but it's not."
+      },
+      {
+        "id": 26,
+        "start": 112,
+        "end": 118,
+        "text": " I mean, like I said, it's a body chemistry thing, so it could just be that something like this is the answer."
+      },
+      {
+        "id": 27,
+        "start": 118,
+        "end": 119,
+        "text": " I mean, it's free, sir."
+      },
+      {
+        "id": 28,
+        "start": 119,
+        "end": 123,
+        "text": " All we ask is that you just give us a call, let us know how it's working."
+      },
+      {
+        "id": 29,
+        "start": 123,
+        "end": 127,
+        "text": " I mean, not really much to lose there."
+      },
+      {
+        "id": 30,
+        "start": 127,
+        "end": 129,
+        "text": " I'll give you my name and extension."
+      },
+      {
+        "id": 31,
+        "start": 129,
+        "end": 131,
+        "text": " I'll try it."
+      },
+      {
+        "id": 32,
+        "start": 131,
+        "end": 133,
+        "text": " I'll try it."
+      },
+      {
+        "id": 33,
+        "start": 133,
+        "end": 136,
+        "text": " Especially if you are kind of trying everything, you want to try to find something that works."
+      },
+      {
+        "id": 34,
+        "start": 136,
+        "end": 139,
+        "text": " At least you know you tried everything there, you know."
+      },
+      {
+        "id": 35,
+        "start": 139,
+        "end": 145,
+        "text": " Different compositions can be the factor of changing something."
+      },
+      {
+        "id": 36,
+        "start": 145,
+        "end": 148,
+        "text": " Let me, like I said, let me go ahead and send that out."
+      },
+      {
+        "id": 37,
+        "start": 148,
+        "end": 151,
+        "text": " Do you want to write down my name and extension that way?"
+      },
+      {
+        "id": 38,
+        "start": 151,
+        "end": 153,
+        "text": " To tell you the truth, is there any way you can email me?"
+      },
+      {
+        "id": 39,
+        "start": 153,
+        "end": 155,
+        "text": " I am driving."
+      },
+      {
+        "id": 40,
+        "start": 155,
+        "end": 157,
+        "text": " They called me when I was driving."
+      },
+      {
+        "id": 41,
+        "start": 157,
+        "end": 160,
+        "text": " I called the wrong number and then they transferred me to you."
+      },
+      {
+        "id": 42,
+        "start": 160,
+        "end": 164,
+        "text": " Yeah, I can do that."
+      },
+      {
+        "id": 43,
+        "start": 164,
+        "end": 165,
+        "text": " I can do that for you."
+      },
+      {
+        "id": 44,
+        "start": 165,
+        "end": 167,
+        "text": " And then I would just contact you if it works?"
+      },
+      {
+        "id": 45,
+        "start": 167,
+        "end": 168,
+        "text": " Correct."
+      },
+      {
+        "id": 46,
+        "start": 168,
+        "end": 170,
+        "text": " Yeah, and if not, just call me too."
+      },
+      {
+        "id": 47,
+        "start": 170,
+        "end": 173,
+        "text": " I'll make sure everything is stopped here and canceled out."
+      },
+      {
+        "id": 48,
+        "start": 178,
+        "end": 180,
+        "text": " All right, well, you're all set."
+      },
+      {
+        "id": 49,
+        "start": 180,
+        "end": 182,
+        "text": " Okay."
+      },
+      {
+        "id": 50,
+        "start": 182,
+        "end": 183,
+        "text": " Anything else that you need?"
+      },
+      {
+        "id": 51,
+        "start": 183,
+        "end": 184,
+        "text": " All right."
+      },
+      {
+        "id": 52,
+        "start": 187,
+        "end": 189,
+        "text": " That's all I got to do then?"
+      },
+      {
+        "id": 53,
+        "start": 189,
+        "end": 191,
+        "text": " Yes, yes, that is all."
+      },
+      {
+        "id": 54,
+        "start": 191,
+        "end": 192,
+        "text": " Okay."
+      },
+      {
+        "id": 55,
+        "start": 192,
+        "end": 194,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 56,
+        "start": 194,
+        "end": 195,
+        "text": " You're welcome."
+      },
+      {
+        "id": 57,
+        "start": 195,
+        "end": 196,
+        "text": " Have a good day."
+      },
+      {
+        "id": 58,
+        "start": 196,
+        "end": 197,
+        "text": " You too, buddy."
+      },
+      {
+        "id": 59,
+        "start": 197,
+        "end": 198,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81b1-8dfd-eb38b567e6ca",
+    "url": "https://www.notion.so/300000001241115-300000001730635-30511d0a101c81b18dfdeb38b567e6ca"
+  },
+  "processedAt": "2026-02-12T23:02:51.015Z"
+}

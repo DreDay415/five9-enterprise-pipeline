@@ -1,0 +1,212 @@
+{
+  "recording": {
+    "name": "300000001218031-300000001708132-5056032526 by summer@verifiednutrition.com @ 1_02_56 PM.wav",
+    "size": 232046,
+    "modifyTime": 1769582533000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218031-300000001708132-5056032526 by summer@verifiednutrition.com @ 1_02_56 PM.wav",
+    "uploadDate": "2026-01-28T06:42:13.000Z",
+    "callId": "300000001218031-300000001708132",
+    "agent": "summer",
+    "phoneNumber": "5056032526",
+    "callTimestamp": "2026-01-28T13:02:56.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service. I can help you.\n\nSpeaker 2: Yes. Good afternoon. I was calling because I ordered the pills back in November.\n\nSpeaker 1: And I still have not received anything that you charged me for it.\n\nSpeaker 2: I paid $65 and I haven't received anything. $63.95.\n\nSpeaker 1: Back in November 7th. And I haven't received anything.\n\nSpeaker 2: Okay. Can I have your name and birthday?\n\nSpeaker 1: Okay. My name is Roque. R-O-Q-U-E. N-C-N-E-S-E-N-C-I-N-I-A-S.\n\nSpeaker 2: That was November 7th.\n\nSpeaker 1: Okay. It looks like the doctor had wanted you to do a video and you didn't do the video.\n\nSpeaker 2: So I'm going to have the doctor give you a phone call so we can get this medication out to you, okay?\n\nSpeaker 1: So you're going to send him a medication you sent?\n\nSpeaker 2: Yeah. The doctor has to write the prescription. But I'm going to have the doctor give you a phone call.\n\nSpeaker 1: Is this a good phone number?\n\nSpeaker 2: Yeah. This is the phone number. Yes.\n\nSpeaker 1: Now, how many of those pills were they? I can't remember the amount.\n\nSpeaker 2: It was 10.\n\nSpeaker 1: How many?\n\nSpeaker 2: 10.\n\nSpeaker 1: 10?\n\nSpeaker 2: Uh-huh.\n\nSpeaker 1: For $63?\n\nSpeaker 2: $63?\n\nSpeaker 1: That's correct. Is this a good phone number?\n\nSpeaker 2: Yes. This is 505-603-2526.\n\nSpeaker 1: Perfect. Alrighty.\n\nSpeaker 2: Okay. I'm going to have the doctor give you a phone call, okay?\n\nSpeaker 1: Okay. Now, when will that be? Today? Tomorrow?\n\nSpeaker 2: Today. It'll be tomorrow because it's kind of late already today.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Alrighty. Have a wonderful day.\n\nSpeaker 1: Thank you.",
+    "duration": 7447,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling customer service. I can help you."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 15,
+        "text": " Yes. Good afternoon. I was calling because I ordered the pills back in November."
+      },
+      {
+        "id": 2,
+        "start": 15,
+        "end": 20,
+        "text": " And I still have not received anything that you charged me for it."
+      },
+      {
+        "id": 3,
+        "start": 20,
+        "end": 27,
+        "text": " I paid $65 and I haven't received anything. $63.95."
+      },
+      {
+        "id": 4,
+        "start": 28,
+        "end": 34,
+        "text": " Back in November 7th. And I haven't received anything."
+      },
+      {
+        "id": 5,
+        "start": 34,
+        "end": 37,
+        "text": " Okay. Can I have your name and birthday?"
+      },
+      {
+        "id": 6,
+        "start": 37,
+        "end": 45,
+        "text": " Okay. My name is Roque. R-O-Q-U-E. N-C-N-E-S-E-N-C-I-N-I-A-S."
+      },
+      {
+        "id": 7,
+        "start": 45,
+        "end": 55,
+        "text": " That was November 7th."
+      },
+      {
+        "id": 8,
+        "start": 55,
+        "end": 63,
+        "text": " Okay. It looks like the doctor had wanted you to do a video and you didn't do the video."
+      },
+      {
+        "id": 9,
+        "start": 63,
+        "end": 67,
+        "text": " So I'm going to have the doctor give you a phone call so we can get this medication out to you, okay?"
+      },
+      {
+        "id": 10,
+        "start": 67,
+        "end": 73,
+        "text": " So you're going to send him a medication you sent?"
+      },
+      {
+        "id": 11,
+        "start": 73,
+        "end": 78,
+        "text": " Yeah. The doctor has to write the prescription. But I'm going to have the doctor give you a phone call."
+      },
+      {
+        "id": 12,
+        "start": 78,
+        "end": 80,
+        "text": " Is this a good phone number?"
+      },
+      {
+        "id": 13,
+        "start": 80,
+        "end": 83,
+        "text": " Yeah. This is the phone number. Yes."
+      },
+      {
+        "id": 14,
+        "start": 83,
+        "end": 87,
+        "text": " Now, how many of those pills were they? I can't remember the amount."
+      },
+      {
+        "id": 15,
+        "start": 87,
+        "end": 90,
+        "text": " It was 10."
+      },
+      {
+        "id": 16,
+        "start": 90,
+        "end": 91,
+        "text": " How many?"
+      },
+      {
+        "id": 17,
+        "start": 91,
+        "end": 93,
+        "text": " 10."
+      },
+      {
+        "id": 18,
+        "start": 93,
+        "end": 94,
+        "text": " 10?"
+      },
+      {
+        "id": 19,
+        "start": 94,
+        "end": 98,
+        "text": " Uh-huh."
+      },
+      {
+        "id": 20,
+        "start": 98,
+        "end": 100,
+        "text": " For $63?"
+      },
+      {
+        "id": 21,
+        "start": 100,
+        "end": 101,
+        "text": " $63?"
+      },
+      {
+        "id": 22,
+        "start": 101,
+        "end": 104,
+        "text": " That's correct. Is this a good phone number?"
+      },
+      {
+        "id": 23,
+        "start": 104,
+        "end": 114,
+        "text": " Yes. This is 505-603-2526."
+      },
+      {
+        "id": 24,
+        "start": 114,
+        "end": 118,
+        "text": " Perfect. Alrighty."
+      },
+      {
+        "id": 25,
+        "start": 118,
+        "end": 121,
+        "text": " Okay. I'm going to have the doctor give you a phone call, okay?"
+      },
+      {
+        "id": 26,
+        "start": 121,
+        "end": 125,
+        "text": " Okay. Now, when will that be? Today? Tomorrow?"
+      },
+      {
+        "id": 27,
+        "start": 125,
+        "end": 130,
+        "text": " Today. It'll be tomorrow because it's kind of late already today."
+      },
+      {
+        "id": 28,
+        "start": 130,
+        "end": 132,
+        "text": " Okay."
+      },
+      {
+        "id": 29,
+        "start": 132,
+        "end": 134,
+        "text": " Alrighty. Have a wonderful day."
+      },
+      {
+        "id": 30,
+        "start": 134,
+        "end": 143,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816e-9363-c1c3392cb175",
+    "url": "https://www.notion.so/300000001218031-300000001708132-2f611d0a101c816e9363c1c3392cb175"
+  },
+  "processedAt": "2026-01-28T17:08:41.931Z"
+}

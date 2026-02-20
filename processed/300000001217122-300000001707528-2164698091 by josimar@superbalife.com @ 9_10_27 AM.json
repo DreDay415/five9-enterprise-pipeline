@@ -1,0 +1,260 @@
+{
+  "recording": {
+    "name": "300000001217122-300000001707528-2164698091 by josimar@superbalife.com @ 9_10_27 AM.wav",
+    "size": 302050,
+    "modifyTime": 1769582236000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217122-300000001707528-2164698091 by josimar@superbalife.com @ 9_10_27 AM.wav",
+    "uploadDate": "2026-01-28T06:37:16.000Z",
+    "callId": "300000001217122-300000001707528",
+    "agent": "josimar",
+    "phoneNumber": "2164698091",
+    "callTimestamp": "2026-01-28T09:10:27.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I got a question, I never received my shipment, and I'm looking at my activity on my credit.\n\nSpeaker 2: Card, and I got two charges from you, and I'm trying to figure out why that happened.\n\nSpeaker 1: Okay, I can take a look into that for you, one moment.\n\nSpeaker 2: Okay, can I get your last name and a zip code?\n\nSpeaker 1: It's Girl, the billing would be 44094, but the shipment was not the same.\n\nSpeaker 2: It's different, I'm in Florida.\n\nSpeaker 1: Got it, give me one moment here.\n\nSpeaker 2: And your zip code was 44077, you said?\n\nSpeaker 1: 44094.\n\nSpeaker 2: Okay, 44094.\n\nSpeaker 1: And it's the city of, what city is it?\n\nSpeaker 2: My billing address is 38 Gully Brook Lane, Willoughby, Ohio, 44094.\n\nSpeaker 1: But I'm in Florida, so I was having to ship to my Florida address.\n\nSpeaker 2: No, no, that's not a problem, I was just asking what the address was, where you sent it to.\n\nSpeaker 1: Where it's being shipped to?\n\nSpeaker 2: Yeah, you said it was called, is it Valencia Drive?\n\nSpeaker 1: Yeah, 34293.\n\nSpeaker 2: Okay, so let me see when it was issued.\n\nSpeaker 1: So yeah, you made a purchase of 10 pills for $63, you did that on the 21st.\n\nSpeaker 2: Wait, wait, wait, you're going too fast here, now wait a minute.\n\nSpeaker 1: I made a payment of how much?\n\nSpeaker 2: You purchased 10 pills for $63, and your order will arrive today, Monday the 26th.\n\nSpeaker 1: And you also got a pill quantity upgrade, but it looks like you canceled it, so we already issued out a refund for that.\n\nSpeaker 2: That takes three to five business days to process there.\n\nSpeaker 1: Okay, because right now it's showing a plus, $29.40.\n\nSpeaker 2: Correct, because it takes three to five business days to process there.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right.\n\nSpeaker 1: It should be arriving today.\n\nSpeaker 2: How are they sending it?\n\nSpeaker 1: USPS.\n\nSpeaker 2: Okay, United States, all right, thank you.\n\nSpeaker 1: Yeah, no problem.\n\nSpeaker 2: And where is it being shipped to?\n\nSpeaker 1: Valencia Drive?\n\nSpeaker 2: Yeah, that one, the 1775.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: No problem.\n\nSpeaker 1: All right, bye.",
+    "duration": 5335,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 17,
+        "text": " I got a question, I never received my shipment, and I'm looking at my activity on my credit"
+      },
+      {
+        "id": 1,
+        "start": 17,
+        "end": 22,
+        "text": " card, and I got two charges from you, and I'm trying to figure out why that happened."
+      },
+      {
+        "id": 2,
+        "start": 23,
+        "end": 26,
+        "text": " Okay, I can take a look into that for you, one moment."
+      },
+      {
+        "id": 3,
+        "start": 41,
+        "end": 44,
+        "text": " Okay, can I get your last name and a zip code?"
+      },
+      {
+        "id": 4,
+        "start": 45,
+        "end": 52,
+        "text": " It's girl, the billing would be 44094, but the shipment was not the same."
+      },
+      {
+        "id": 5,
+        "start": 53,
+        "end": 55,
+        "text": " It's a different, I'm in Florida."
+      },
+      {
+        "id": 6,
+        "start": 56,
+        "end": 57,
+        "text": " Got it, give me one moment here."
+      },
+      {
+        "id": 7,
+        "start": 59,
+        "end": 62,
+        "text": " And your zip code was 44077, you said?"
+      },
+      {
+        "id": 8,
+        "start": 63,
+        "end": 65,
+        "text": " 44094."
+      },
+      {
+        "id": 9,
+        "start": 66,
+        "end": 67,
+        "text": " Okay, 44094."
+      },
+      {
+        "id": 10,
+        "start": 74,
+        "end": 84,
+        "text": " And it's the city of, what city is it?"
+      },
+      {
+        "id": 11,
+        "start": 89,
+        "end": 96,
+        "text": " My billing address is 38 Gully Brook Lane, Willoughby, Ohio, 44094."
+      },
+      {
+        "id": 12,
+        "start": 97,
+        "end": 100,
+        "text": " But I'm in Florida, so I was having to chip to my Florida address."
+      },
+      {
+        "id": 13,
+        "start": 101,
+        "end": 105,
+        "text": " No, no, that's not a problem, I was just asking what the address was, where you sent it to."
+      },
+      {
+        "id": 14,
+        "start": 106,
+        "end": 107,
+        "text": " Where it's being shipped to?"
+      },
+      {
+        "id": 15,
+        "start": 108,
+        "end": 111,
+        "text": " Yeah, you said it was called, is it Valencia Drive?"
+      },
+      {
+        "id": 16,
+        "start": 112,
+        "end": 114,
+        "text": " Yeah, 34293."
+      },
+      {
+        "id": 17,
+        "start": 115,
+        "end": 118,
+        "text": " Okay, so let me see when it was issued."
+      },
+      {
+        "id": 18,
+        "start": 119,
+        "end": 122,
+        "text": " So yeah, you made a purchase of 10 pills for $63, you did that on the 21st."
+      },
+      {
+        "id": 19,
+        "start": 123,
+        "end": 127,
+        "text": " Wait, wait, wait, you're going too fast here, now wait a minute."
+      },
+      {
+        "id": 20,
+        "start": 128,
+        "end": 130,
+        "text": " I made a payment of how much?"
+      },
+      {
+        "id": 21,
+        "start": 131,
+        "end": 137,
+        "text": " You purchased 10 pills for $63, and your order will arrive today, Monday the 26th."
+      },
+      {
+        "id": 22,
+        "start": 138,
+        "end": 143,
+        "text": " And you also got a pill quantity upgrade, but it looks like you canceled it, so we already issued out a refund for that."
+      },
+      {
+        "id": 23,
+        "start": 144,
+        "end": 146,
+        "text": " That takes three to five business days to process there."
+      },
+      {
+        "id": 24,
+        "start": 148,
+        "end": 152,
+        "text": " Okay, because right now it's showing a plus, $29.40."
+      },
+      {
+        "id": 25,
+        "start": 153,
+        "end": 156,
+        "text": " Correct, because it takes three to five business days to process there."
+      },
+      {
+        "id": 26,
+        "start": 157,
+        "end": 158,
+        "text": " Okay."
+      },
+      {
+        "id": 27,
+        "start": 159,
+        "end": 160,
+        "text": " All right."
+      },
+      {
+        "id": 28,
+        "start": 161,
+        "end": 163,
+        "text": " It should be arriving today."
+      },
+      {
+        "id": 29,
+        "start": 164,
+        "end": 166,
+        "text": " How are they sending it?"
+      },
+      {
+        "id": 30,
+        "start": 167,
+        "end": 168,
+        "text": " USPS."
+      },
+      {
+        "id": 31,
+        "start": 169,
+        "end": 172,
+        "text": " Okay, United States, all right, thank you."
+      },
+      {
+        "id": 32,
+        "start": 173,
+        "end": 174,
+        "text": " Yeah, no problem."
+      },
+      {
+        "id": 33,
+        "start": 175,
+        "end": 176,
+        "text": " And where is it being shipped to?"
+      },
+      {
+        "id": 34,
+        "start": 177,
+        "end": 178,
+        "text": " Valencia Drive?"
+      },
+      {
+        "id": 35,
+        "start": 179,
+        "end": 180,
+        "text": " Yeah, that one, the 1775."
+      },
+      {
+        "id": 36,
+        "start": 181,
+        "end": 182,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 37,
+        "start": 183,
+        "end": 184,
+        "text": " No problem."
+      },
+      {
+        "id": 38,
+        "start": 185,
+        "end": 186,
+        "text": " All right, bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8106-858f-c65c4b51835a",
+    "url": "https://www.notion.so/300000001217122-300000001707528-2f611d0a101c8106858fc65c4b51835a"
+  },
+  "processedAt": "2026-01-28T17:29:08.308Z"
+}

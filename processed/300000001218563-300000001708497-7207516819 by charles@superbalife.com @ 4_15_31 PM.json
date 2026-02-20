@@ -1,0 +1,92 @@
+{
+  "recording": {
+    "name": "300000001218563-300000001708497-7207516819 by charles@superbalife.com @ 4_15_31 PM.wav",
+    "size": 119986,
+    "modifyTime": 1769592150000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218563-300000001708497-7207516819 by charles@superbalife.com @ 4_15_31 PM.wav",
+    "uploadDate": "2026-01-28T09:22:30.000Z",
+    "callId": "300000001218563-300000001708497",
+    "agent": "charles",
+    "phoneNumber": "7207516819",
+    "callTimestamp": "2026-01-28T16:15:31.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, Charles, what's up? How you doing, man?\n\nSpeaker 2: Good, good. How about yourself? Hey, can I get my prescription canceled? Yeah. I've had it for the past two or three years.\n\nSpeaker 1: Gotcha. Boone, Wanaklung?\n\nSpeaker 2: Yep, Wanalong, yep.\n\nSpeaker 1: Wanalong, gotcha. Sorry about that. And Strasburg, Colorado?\n\nSpeaker 2: Yep.\n\nSpeaker 1: Okay. Do you just need to pump the brakes for a while? I know you've been getting them for quite some time. I can pause everything from now until July.\n\nSpeaker 2: Yeah, yeah, yeah, we can do that.\n\nSpeaker 1: Okay, sounds good. I'll set that up right now for you. So July 27th, okay?\n\nSpeaker 2: If you need them earlier, just give us a call.\n\nSpeaker 1: Yeah, give me a break for a little bit, yeah.\n\nSpeaker 2: Yeah, yeah, we got you.\n\nSpeaker 1: Okay. Like I said, if you need them earlier, give us a call. We'll be here, okay?\n\nSpeaker 2: All right. But July will be my next payment, right?\n\nSpeaker 1: Correct.\n\nSpeaker 2: All right. That's cool. That sounds good.\n\nSpeaker 1: All right, then. I hope you have a great day.\n\nSpeaker 2: All right. Thank you.\n\nSpeaker 1: Absolutely. Bye-bye.",
+    "duration": 3862,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 11.15999984741211,
+        "text": " Hey, Charles, what's up? How you doing, man? Good, good. How about yourself? Hey, can I"
+      },
+      {
+        "id": 1,
+        "start": 11.15999984741211,
+        "end": 23.280000686645508,
+        "text": " get my prescription? Canceled? Yeah. I've had it for the past two or three years. Gotcha."
+      },
+      {
+        "id": 2,
+        "start": 23.280000686645508,
+        "end": 30.280000686645508,
+        "text": " Boone, Wanaklung? Yep, Wanalong, yep. Wanalong, gotcha. Sorry about that. And Strasburg, Colorado?"
+      },
+      {
+        "id": 3,
+        "start": 30.280000686645508,
+        "end": 37.84000015258789,
+        "text": " Yep. Okay. Do you just need to pump the brakes for a while? I know you've been getting them"
+      },
+      {
+        "id": 4,
+        "start": 37.84000015258789,
+        "end": 45.84000015258789,
+        "text": " for quite some time. I can pause everything from now until July. Yeah, yeah, yeah, we"
+      },
+      {
+        "id": 5,
+        "start": 45.84000015258789,
+        "end": 49.84000015258789,
+        "text": " can do that. Okay, sounds good. I'll set that up right now for you. So July 27th, okay?"
+      },
+      {
+        "id": 6,
+        "start": 49.84000015258789,
+        "end": 54.84000015258789,
+        "text": " If you need them earlier, just give us a call. Yeah, give me a break for a little bit, yeah."
+      },
+      {
+        "id": 7,
+        "start": 54.84000015258789,
+        "end": 58.84000015258789,
+        "text": " Yeah, yeah, we got you. Okay. Like I said, if you need them earlier, give us a call."
+      },
+      {
+        "id": 8,
+        "start": 58.84000015258789,
+        "end": 65.83999633789062,
+        "text": " We'll be here, okay? All right. But July will be my next payment, right? Correct. All right."
+      },
+      {
+        "id": 9,
+        "start": 65.83999633789062,
+        "end": 69.83999633789062,
+        "text": " That's cool. That sounds good. All right. All right, then. I hope you have a great day."
+      },
+      {
+        "id": 10,
+        "start": 69.83999633789062,
+        "end": 73.83999633789062,
+        "text": " All right. Thank you. Absolutely. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8140-8313-c5fb4d7fe724",
+    "url": "https://www.notion.so/300000001218563-300000001708497-2f611d0a101c81408313c5fb4d7fe724"
+  },
+  "processedAt": "2026-01-28T10:46:13.686Z"
+}

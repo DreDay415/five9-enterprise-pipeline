@@ -1,0 +1,140 @@
+{
+  "recording": {
+    "name": "300000001219005-300000001709194-4192020062 by jessie@superbalife.com @ 9_34_58 AM.wav",
+    "size": 109000,
+    "modifyTime": 1769591540000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219005-300000001709194-4192020062 by jessie@superbalife.com @ 9_34_58 AM.wav",
+    "uploadDate": "2026-01-28T09:12:20.000Z",
+    "callId": "300000001219005-300000001709194",
+    "agent": "jessie",
+    "phoneNumber": "4192020062",
+    "callTimestamp": "2026-01-28T09:34:58.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra. My name is Jessie. Can I get your first and last name?\n\nSpeaker 2: Yes, Jessie. My name is Randy Robinson.\n\nSpeaker 1: Great. And Mr. Robinson, can I get your zip code?\n\nSpeaker 2: 44870.\n\nSpeaker 1: Alright. Are you at 320 Douglas Drive in Sandusky, Ohio?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Let's see here.\n\nSpeaker 2: Okay. And are you calling to pause the monthly and just give that a little break?\n\nSpeaker 1: Or what can I help you with?\n\nSpeaker 2: I'd like to cancel this subscription.\n\nSpeaker 1: Okay. And are you canceling because the pills aren't a fit for you?\n\nSpeaker 2: Or is it because of the frequency?\n\nSpeaker 1: I just thought I don't need them anymore.\n\nSpeaker 2: I've been diagnosed with prostate cancer and had my prostate removed, so I have other pills now.\n\nSpeaker 1: Okay. Not a problem.\n\nSpeaker 2: But thank you.\n\nSpeaker 1: Okay. I went ahead and canceled that for you, okay?\n\nSpeaker 2: Okay. Thank you very much.\n\nSpeaker 1: Thank you.",
+    "duration": 3698,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.5,
+        "text": " Hi, thank you so much for calling Viagra. My name is Jessie. Can I get your first and last name?"
+      },
+      {
+        "id": 1,
+        "start": 5.5,
+        "end": 10.5,
+        "text": " Yes, Jessie. My name is Randy Robinson."
+      },
+      {
+        "id": 2,
+        "start": 10.5,
+        "end": 14.5,
+        "text": " Great. And Mr. Robinson, can I get your zip code?"
+      },
+      {
+        "id": 3,
+        "start": 14.5,
+        "end": 20.5,
+        "text": " 44870."
+      },
+      {
+        "id": 4,
+        "start": 20.5,
+        "end": 25.5,
+        "text": " Alright. Are you at 320 Douglas Drive in Sandusky, Ohio?"
+      },
+      {
+        "id": 5,
+        "start": 25.5,
+        "end": 27.5,
+        "text": " Correct."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 31,
+        "text": " Let's see here."
+      },
+      {
+        "id": 7,
+        "start": 31,
+        "end": 36,
+        "text": " Okay. And are you calling to pause the monthly and just give that a little break?"
+      },
+      {
+        "id": 8,
+        "start": 36,
+        "end": 38,
+        "text": " Or what can I help you with?"
+      },
+      {
+        "id": 9,
+        "start": 38,
+        "end": 41,
+        "text": " I'd like to cancel this subscription."
+      },
+      {
+        "id": 10,
+        "start": 41,
+        "end": 45,
+        "text": " Okay. And are you canceling because the pills aren't a fit for you?"
+      },
+      {
+        "id": 11,
+        "start": 45,
+        "end": 49,
+        "text": " Or is it because of the frequency?"
+      },
+      {
+        "id": 12,
+        "start": 49,
+        "end": 52,
+        "text": " I just thought I don't need them anymore."
+      },
+      {
+        "id": 13,
+        "start": 52,
+        "end": 57.5,
+        "text": " I've been diagnosed with prostate cancer and had my prostate removed, so I have other pills now."
+      },
+      {
+        "id": 14,
+        "start": 57.5,
+        "end": 59.5,
+        "text": " Okay. Not a problem."
+      },
+      {
+        "id": 15,
+        "start": 59.5,
+        "end": 61.5,
+        "text": " But thank you."
+      },
+      {
+        "id": 16,
+        "start": 61.5,
+        "end": 64.5,
+        "text": " Okay. I went ahead and canceled that for you, okay?"
+      },
+      {
+        "id": 17,
+        "start": 64.5,
+        "end": 66.5,
+        "text": " Okay. Thank you very much."
+      },
+      {
+        "id": 18,
+        "start": 66.5,
+        "end": 68.5,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81d6-a54f-da152222650e",
+    "url": "https://www.notion.so/300000001219005-300000001709194-2f611d0a101c81d6a54fda152222650e"
+  },
+  "processedAt": "2026-01-28T11:29:11.669Z"
+}

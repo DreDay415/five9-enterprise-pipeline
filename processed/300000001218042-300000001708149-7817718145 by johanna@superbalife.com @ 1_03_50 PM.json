@@ -1,0 +1,278 @@
+{
+  "recording": {
+    "name": "300000001218042-300000001708149-7817718145 by johanna@superbalife.com @ 1_03_50 PM.wav",
+    "size": 328570,
+    "modifyTime": 1769584037000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218042-300000001708149-7817718145 by johanna@superbalife.com @ 1_03_50 PM.wav",
+    "uploadDate": "2026-01-28T07:07:17.000Z",
+    "callId": "300000001218042-300000001708149",
+    "agent": "johanna",
+    "phoneNumber": "7817718145",
+    "callTimestamp": "2026-01-28T13:03:50.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, Janina speaking, how can I help you?\n\nSpeaker 2: Yes, I've been tracking my product, and it showed it was in Boston, now it's in Colorado,\n\nSpeaker 1: and it was supposed to be coming to Weymouth, Mass.\n\nSpeaker 2: Okay, let me have a look, sir.\n\nSpeaker 1: Just a moment, can I get your name and date of birth?\n\nSpeaker 2: Mike Mediva, 225, 1963.\n\nSpeaker 1: Okay, let me just check on the tracking as well.\n\nSpeaker 2: It's in December, and then we're going to have one next week.\n\nSpeaker 1: Yeah, it's next Tuesday, the first time, and then we'll get one in August.\n\nSpeaker 2: Yeah, it says it's currently in transit.\n\nSpeaker 1: To Colorado.\n\nSpeaker 2: It's definitely not...\n\nSpeaker 1: That's where... I'm so confused, yeah.\n\nSpeaker 2: Your item departed from the facility in Colorado.\n\nSpeaker 1: It's in transit to his destination.\n\nSpeaker 2: So it's still in transit.\n\nSpeaker 1: I'm curious, Josie, the label was created on the 21st, and then it was received at that time,\n\nSpeaker 2: then it arrived to Boston, and then it left from Boston to Colorado, and now it's left Colorado.\n\nSpeaker 1: And it should be staying in Massachusetts.\n\nSpeaker 2: I live in Massachusetts.\n\nSpeaker 1: I live 20 miles from Boston.\n\nSpeaker 2: I don't know.\n\nSpeaker 1: That is odd.\n\nSpeaker 2: But let's do this.\n\nSpeaker 1: If it's not heading your direction by tomorrow, I can send you a replacement order.\n\nSpeaker 2: Well, it's not, because the tracking number just told me on the phone that it came to Boston,\n\nSpeaker 1: and it's back to Colorado.\n\nSpeaker 2: No, it ships out of Kentucky.\n\nSpeaker 1: It ships out of Kentucky.\n\nSpeaker 2: I don't know what their delivery route is.\n\nSpeaker 1: I'm sorry, miss, but it wouldn't come to Boston, and then go back to Colorado, and then back to Boston.\n\nSpeaker 2: Yeah, no, that doesn't make sense.\n\nSpeaker 1: Okay, sir, I'll send you a replacement order.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: No problem.\n\nSpeaker 2: I just want to confirm the address.\n\nSpeaker 1: It's 132 Holly Hill Circle, South Weymouth, MA 02190?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, I'll get you a replacement order sent out today, okay?\n\nSpeaker 2: Thank you.\n\nSpeaker 1: No problem.\n\nSpeaker 2: Thank you.",
+    "duration": 5139,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra, Janina speaking, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 9,
+        "text": " Yes, I've been tracking my product, and it showed it was in Boston, now it's in Colorado,"
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 12,
+        "text": " and it was supposed to be coming to Weymouth, Mass."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 15,
+        "text": " Okay, let me have a look, sir."
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 18,
+        "text": " Just a moment, can I get your name and date of birth?"
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 22,
+        "text": " Mike Mediva, 225, 1963."
+      },
+      {
+        "id": 6,
+        "start": 31,
+        "end": 35,
+        "text": " Okay, let me just check on the tracking as well."
+      },
+      {
+        "id": 7,
+        "start": 35,
+        "end": 40,
+        "text": " It's in December, and then we're going to have one next week."
+      },
+      {
+        "id": 8,
+        "start": 44,
+        "end": 47,
+        "text": " Yeah, it's next Tuesday, the first time, and then we'll get one in August."
+      },
+      {
+        "id": 9,
+        "start": 59,
+        "end": 62,
+        "text": " Yeah, it says it's currently in transit."
+      },
+      {
+        "id": 10,
+        "start": 63,
+        "end": 65,
+        "text": " To Colorado."
+      },
+      {
+        "id": 11,
+        "start": 71,
+        "end": 73,
+        "text": " It's definitely not..."
+      },
+      {
+        "id": 12,
+        "start": 76,
+        "end": 79,
+        "text": " That's where... I'm so confused, yeah."
+      },
+      {
+        "id": 13,
+        "start": 83,
+        "end": 87,
+        "text": " Your item departed from the facility in Colorado."
+      },
+      {
+        "id": 14,
+        "start": 92,
+        "end": 94,
+        "text": " It's in transit to his destination."
+      },
+      {
+        "id": 15,
+        "start": 94,
+        "end": 96,
+        "text": " So it's still in transit."
+      },
+      {
+        "id": 16,
+        "start": 104,
+        "end": 110,
+        "text": " I'm curious, Josie, the label was created on the 21st, and then it was received at that time,"
+      },
+      {
+        "id": 17,
+        "start": 110,
+        "end": 117,
+        "text": " then it arrived to Boston, and then it left from Boston to Colorado, and now it's left Colorado."
+      },
+      {
+        "id": 18,
+        "start": 123,
+        "end": 125,
+        "text": " And it should be staying in Massachusetts."
+      },
+      {
+        "id": 19,
+        "start": 126,
+        "end": 128,
+        "text": " I live in Massachusetts."
+      },
+      {
+        "id": 20,
+        "start": 129,
+        "end": 132,
+        "text": " I live 20 miles from Boston."
+      },
+      {
+        "id": 21,
+        "start": 135,
+        "end": 136,
+        "text": " I don't know."
+      },
+      {
+        "id": 22,
+        "start": 140,
+        "end": 141,
+        "text": " That is odd."
+      },
+      {
+        "id": 23,
+        "start": 141,
+        "end": 143,
+        "text": " But let's do this."
+      },
+      {
+        "id": 24,
+        "start": 143,
+        "end": 151,
+        "text": " If it's not heading your direction by tomorrow, I can send you a replacement order."
+      },
+      {
+        "id": 25,
+        "start": 152,
+        "end": 157,
+        "text": " Well, it's not, because the tracking number just told me on the phone that it came to Boston,"
+      },
+      {
+        "id": 26,
+        "start": 157,
+        "end": 159,
+        "text": " and it's back to Colorado."
+      },
+      {
+        "id": 27,
+        "start": 160,
+        "end": 162,
+        "text": " No, it ships out of Kentucky."
+      },
+      {
+        "id": 28,
+        "start": 162,
+        "end": 163,
+        "text": " It ships out of Kentucky."
+      },
+      {
+        "id": 29,
+        "start": 163,
+        "end": 168,
+        "text": " I don't know what their delivery route is."
+      },
+      {
+        "id": 30,
+        "start": 170,
+        "end": 175,
+        "text": " I'm sorry, miss, but it wouldn't come to Boston, and then go back to Colorado, and then back to Boston."
+      },
+      {
+        "id": 31,
+        "start": 175,
+        "end": 177,
+        "text": " Yeah, no, that doesn't make sense."
+      },
+      {
+        "id": 32,
+        "start": 177,
+        "end": 179,
+        "text": " Okay, sir, I'll send you a replacement order."
+      },
+      {
+        "id": 33,
+        "start": 180,
+        "end": 181,
+        "text": " Thank you."
+      },
+      {
+        "id": 34,
+        "start": 181,
+        "end": 182,
+        "text": " No problem."
+      },
+      {
+        "id": 35,
+        "start": 182,
+        "end": 184,
+        "text": " I just want to confirm the address."
+      },
+      {
+        "id": 36,
+        "start": 184,
+        "end": 192,
+        "text": " It's 132 Holly Hill Circle, South Weymouth, MA 02190?"
+      },
+      {
+        "id": 37,
+        "start": 193,
+        "end": 194,
+        "text": " Yes."
+      },
+      {
+        "id": 38,
+        "start": 194,
+        "end": 197,
+        "text": " Okay, I'll get you a replacement order sent out today, okay?"
+      },
+      {
+        "id": 39,
+        "start": 198,
+        "end": 199,
+        "text": " Thank you."
+      },
+      {
+        "id": 40,
+        "start": 199,
+        "end": 200,
+        "text": " No problem."
+      },
+      {
+        "id": 41,
+        "start": 200,
+        "end": 201,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8139-9e41-d54d058eac47",
+    "url": "https://www.notion.so/300000001218042-300000001708149-2f611d0a101c81399e41d54d058eac47"
+  },
+  "processedAt": "2026-01-28T15:37:19.368Z"
+}

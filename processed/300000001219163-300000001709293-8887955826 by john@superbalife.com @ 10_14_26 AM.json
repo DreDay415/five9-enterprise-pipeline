@@ -1,0 +1,86 @@
+{
+  "recording": {
+    "name": "300000001219163-300000001709293-8887955826 by john@superbalife.com @ 10_14_26 AM.wav",
+    "size": 44326,
+    "modifyTime": 1769584034000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219163-300000001709293-8887955826 by john@superbalife.com @ 10_14_26 AM.wav",
+    "uploadDate": "2026-01-28T07:07:14.000Z",
+    "callId": "300000001219163-300000001709293",
+    "agent": "john",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T10:14:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Yes. I'm receiving a prescription from you.\n\nSpeaker 1: And I didn't realize that it was like auto-renew.\n\nSpeaker 2: I don't want it to be that way.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So let me get you to somebody.\n\nSpeaker 1: I know that you were with the pharmacy connected to us.\n\nSpeaker 2: I deal with new sales.\n\nSpeaker 1: Let me get you somebody that will help you with the subscription stuff.\n\nSpeaker 2: One second.",
+    "duration": 1870,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 7,
+        "text": " Yes. I'm receiving a prescription from you."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 11,
+        "text": " And I didn't realize that it was like auto-renew."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 15,
+        "text": " I don't want it to be that way."
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 18,
+        "text": " Okay."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 19,
+        "text": " So let me get you to somebody."
+      },
+      {
+        "id": 6,
+        "start": 19,
+        "end": 21,
+        "text": " I know that you were with the pharmacy connected to us."
+      },
+      {
+        "id": 7,
+        "start": 21,
+        "end": 23,
+        "text": " I deal with new sales."
+      },
+      {
+        "id": 8,
+        "start": 23,
+        "end": 25,
+        "text": " Let me get you somebody that will help you with the subscription stuff."
+      },
+      {
+        "id": 9,
+        "start": 25,
+        "end": 27,
+        "text": " One second."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-814a-9cbc-e2b42a692b86",
+    "url": "https://www.notion.so/300000001219163-300000001709293-2f611d0a101c814a9cbce2b42a692b86"
+  },
+  "processedAt": "2026-01-28T15:40:27.689Z"
+}

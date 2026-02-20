@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001217817-300000001708003-5712766256 by  @ 11_59_13 AM_CallStudio.wav",
+    "size": 24696,
+    "modifyTime": 1769585529000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217817-300000001708003-5712766256 by  @ 11_59_13 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:32:09.000Z",
+    "callId": "300000001217817-300000001708003",
+    "phoneNumber": "5712766256",
+    "callTimestamp": "2026-01-28T07:32:09.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I've been charged for something I didn't order.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1001,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.28000020980835,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.440000057220459,
+        "end": 5.920000076293945,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.239999771118164,
+        "end": 7.699999809265137,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.34000015258789,
+        "end": 11.699999809265137,
+        "text": " I've been charged for something I didn't order."
+      },
+      {
+        "id": 4,
+        "start": 13.359999656677246,
+        "end": 14.880000114440918,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81d8-9514-de59f0ca81a2",
+    "url": "https://www.notion.so/300000001217817-300000001708003-2f611d0a101c81d89514de59f0ca81a2"
+  },
+  "processedAt": "2026-01-28T14:20:27.602Z"
+}

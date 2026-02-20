@@ -1,0 +1,176 @@
+{
+  "recording": {
+    "name": "300000001221551-300000001711346-6172337575 by michelleh@superbalife.com @ 1_38_10 PM.wav",
+    "size": 126680,
+    "modifyTime": 1769636375000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221551-300000001711346-6172337575 by michelleh@superbalife.com @ 1_38_10 PM.wav",
+    "uploadDate": "2026-01-28T21:39:35.000Z",
+    "callId": "300000001221551-300000001711346",
+    "agent": "michelleh",
+    "phoneNumber": "6172337575",
+    "callTimestamp": "2026-01-28T13:38:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Yes, I wanted to order another prescription order.\n\nSpeaker 1: Okay, no problem. Give me one second. I can help you out.\n\nSpeaker 2: All right, Vincent, can you just confirm your date of birth?\n\nSpeaker 1: 8-26-52.\n\nSpeaker 2: Thank you so much. I see you're a VIP status customer.\n\nSpeaker 1: And you wanted another refill of 25-50 milligrams?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Do you want to up it to 100 milligrams? Same price.\n\nSpeaker 2: Yeah, sure. What is it? Instead of 50, it's 100 a piece?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Okay.\n\nSpeaker 1: And you could break them in half, too. Just get more paper.\n\nSpeaker 2: Yeah, well, sometimes I end up taking two, so it'll be better.\n\nSpeaker 1: Taking two, yeah, exactly.\n\nSpeaker 2: All right, cool. That would be great.\n\nSpeaker 1: Okay, perfect. Give me one second.\n\nSpeaker 2: Okay, are we still using your Visa ending in 3289?\n\nSpeaker 1: Perfect.\n\nSpeaker 2: All right, perfect. Here we go.\n\nSpeaker 1: All right, perfect. That's in place. They'll be shipping out to you tomorrow morning.\n\nSpeaker 2: Thank you very much. Have a nice day.\n\nSpeaker 1: You, too. Thank you.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye.",
+    "duration": 3852,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 8,
+        "text": " Yes, I wanted to order another prescription order."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 21,
+        "text": " Okay, no problem. Give me one second. I can help you out."
+      },
+      {
+        "id": 3,
+        "start": 21,
+        "end": 24,
+        "text": " All right, Vincent, can you just confirm your date of birth?"
+      },
+      {
+        "id": 4,
+        "start": 24,
+        "end": 26,
+        "text": " 8-26-52."
+      },
+      {
+        "id": 5,
+        "start": 26,
+        "end": 29,
+        "text": " Thank you so much. I see you're a VIP status customer."
+      },
+      {
+        "id": 6,
+        "start": 29,
+        "end": 33,
+        "text": " And you wanted another refill of 25-50 milligrams?"
+      },
+      {
+        "id": 7,
+        "start": 33,
+        "end": 35,
+        "text": " Yes."
+      },
+      {
+        "id": 8,
+        "start": 35,
+        "end": 39,
+        "text": " Do you want to up it to 100 milligrams? Same price."
+      },
+      {
+        "id": 9,
+        "start": 39,
+        "end": 43,
+        "text": " Yeah, sure. What is it? Instead of 50, it's 100 a piece?"
+      },
+      {
+        "id": 10,
+        "start": 43,
+        "end": 44,
+        "text": " Yeah."
+      },
+      {
+        "id": 11,
+        "start": 44,
+        "end": 45,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 45,
+        "end": 48,
+        "text": " And you could break them in half, too. Just get more paper."
+      },
+      {
+        "id": 13,
+        "start": 48,
+        "end": 51,
+        "text": " Yeah, well, sometimes I end up taking two, so it'll be better."
+      },
+      {
+        "id": 14,
+        "start": 51,
+        "end": 52,
+        "text": " Taking two, yeah, exactly."
+      },
+      {
+        "id": 15,
+        "start": 52,
+        "end": 54,
+        "text": " All right, cool. That would be great."
+      },
+      {
+        "id": 16,
+        "start": 54,
+        "end": 59,
+        "text": " Okay, perfect. Give me one second."
+      },
+      {
+        "id": 17,
+        "start": 59,
+        "end": 63,
+        "text": " Okay, are we still using your Visa ending in 3289?"
+      },
+      {
+        "id": 18,
+        "start": 63,
+        "end": 64,
+        "text": " Perfect."
+      },
+      {
+        "id": 19,
+        "start": 64,
+        "end": 69,
+        "text": " All right, perfect. Here we go."
+      },
+      {
+        "id": 20,
+        "start": 69,
+        "end": 73,
+        "text": " All right, perfect. That's in place. They'll be shipping out to you tomorrow morning."
+      },
+      {
+        "id": 21,
+        "start": 73,
+        "end": 75,
+        "text": " Thank you very much. Have a nice day."
+      },
+      {
+        "id": 22,
+        "start": 75,
+        "end": 76,
+        "text": " You, too. Thank you."
+      },
+      {
+        "id": 23,
+        "start": 76,
+        "end": 77,
+        "text": " Bye."
+      },
+      {
+        "id": 24,
+        "start": 77,
+        "end": 78,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-811a-856f-c621c78d927b",
+    "url": "https://www.notion.so/300000001221551-300000001711346-2f611d0a101c811a856fc621c78d927b"
+  },
+  "processedAt": "2026-01-28T22:32:25.449Z"
+}

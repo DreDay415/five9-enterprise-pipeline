@@ -1,0 +1,202 @@
+{
+  "recording": {
+    "name": "300000001241939-300000001731561-4062831117 by LeoF @ 10_46_19 AM.wav",
+    "size": 108936,
+    "modifyTime": 1771008467000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241939-300000001731561-4062831117 by LeoF @ 10_46_19 AM.wav",
+    "uploadDate": "2026-02-13T18:47:47.000Z",
+    "callId": "300000001241939-300000001731561",
+    "phoneNumber": "4062831117",
+    "callTimestamp": "2026-02-13T10:46:19.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241939-300000001731561_4062831117.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241939-300000001731561_4062831117.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, thanks for calling Viagra, how can I help you?\n\nSpeaker 2: Yeah, this is DuckleyMD.com.\n\nSpeaker 1: Yeah, yeah, I can help you.\n\nSpeaker 2: What's going on, sir?\n\nSpeaker 1: Oh, okay, I just placed an order.\n\nSpeaker 2: My order ID was 4D...\n\nSpeaker 1: What's your name?\n\nSpeaker 2: A. Douglas Marshall.\n\nSpeaker 1: Got you here, Mr. Marshall.\n\nSpeaker 2: I see that order.\n\nSpeaker 1: What's going on?\n\nSpeaker 2: Okay, and it was 10X Generic Viagra for $49, and they got me down for $63.95.\n\nSpeaker 1: Oh, so that little extra out of charge, that's applied from our third-party pharmacy.\n\nSpeaker 2: Once they fill it, they charge us a little dispense fee.\n\nSpeaker 1: Okay, because that wasn't mentioned down here, that's what I'm calling.\n\nSpeaker 2: You didn't see that in the fine print?\n\nSpeaker 1: Nope, nope.\n\nSpeaker 2: So, is that a one-time fee or what?\n\nSpeaker 1: That's per order.\n\nSpeaker 2: Oh, okay, that's per order.\n\nSpeaker 1: Okay, all right.\n\nSpeaker 2: All right.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Sorry about that.\n\nSpeaker 1: Yeah, okay.\n\nSpeaker 2: I'll just call and check in soon.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: Thank you.",
+    "duration": 2699,
+    "audioDuration": 67,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hey, thanks for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 8,
+        "text": " Yeah, this is DuckleyMD.com."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 10,
+        "text": " Yeah, yeah, I can help you."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 11,
+        "text": " What's going on, sir?"
+      },
+      {
+        "id": 4,
+        "start": 11,
+        "end": 14,
+        "text": " Oh, okay, I just placed an order."
+      },
+      {
+        "id": 5,
+        "start": 14,
+        "end": 16,
+        "text": " My order ID was 4D..."
+      },
+      {
+        "id": 6,
+        "start": 16,
+        "end": 17,
+        "text": " What's your name?"
+      },
+      {
+        "id": 7,
+        "start": 17,
+        "end": 20,
+        "text": " A. Douglas Marshall."
+      },
+      {
+        "id": 8,
+        "start": 20,
+        "end": 21,
+        "text": " Got you here, Mr. Marshall."
+      },
+      {
+        "id": 9,
+        "start": 21,
+        "end": 22,
+        "text": " I see that order."
+      },
+      {
+        "id": 10,
+        "start": 22,
+        "end": 23,
+        "text": " What's going on?"
+      },
+      {
+        "id": 11,
+        "start": 23,
+        "end": 32,
+        "text": " Okay, and it was 10X Generic Viagra for $49, and they got me down for $63.95."
+      },
+      {
+        "id": 12,
+        "start": 32,
+        "end": 37,
+        "text": " Oh, so that little extra out of charge, that's applied from our third-party pharmacy."
+      },
+      {
+        "id": 13,
+        "start": 37,
+        "end": 41,
+        "text": " Once they fill it, they charge us a little dispense fee."
+      },
+      {
+        "id": 14,
+        "start": 41,
+        "end": 45,
+        "text": " Okay, because that wasn't mentioned down here, that's what I'm calling."
+      },
+      {
+        "id": 15,
+        "start": 45,
+        "end": 47,
+        "text": " You didn't see that in the fine print?"
+      },
+      {
+        "id": 16,
+        "start": 47,
+        "end": 49,
+        "text": " Nope, nope."
+      },
+      {
+        "id": 17,
+        "start": 49,
+        "end": 54,
+        "text": " So, is that a one-time fee or what?"
+      },
+      {
+        "id": 18,
+        "start": 54,
+        "end": 56,
+        "text": " That's per order."
+      },
+      {
+        "id": 19,
+        "start": 56,
+        "end": 58,
+        "text": " Oh, okay, that's per order."
+      },
+      {
+        "id": 20,
+        "start": 58,
+        "end": 59,
+        "text": " Okay, all right."
+      },
+      {
+        "id": 21,
+        "start": 59,
+        "end": 60,
+        "text": " All right."
+      },
+      {
+        "id": 22,
+        "start": 60,
+        "end": 61,
+        "text": " Okay."
+      },
+      {
+        "id": 23,
+        "start": 61,
+        "end": 62,
+        "text": " Sorry about that."
+      },
+      {
+        "id": 24,
+        "start": 62,
+        "end": 63,
+        "text": " Yeah, okay."
+      },
+      {
+        "id": 25,
+        "start": 63,
+        "end": 65,
+        "text": " I'll just call and check in soon."
+      },
+      {
+        "id": 26,
+        "start": 65,
+        "end": 66,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 27,
+        "start": 66,
+        "end": 67,
+        "text": " Thank you."
+      },
+      {
+        "id": 28,
+        "start": 67,
+        "end": 67,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81cf-9192-d39f08d0ca3b",
+    "url": "https://www.notion.so/300000001241939-300000001731561-30611d0a101c81cf9192d39f08d0ca3b"
+  },
+  "processedAt": "2026-02-13T19:04:09.122Z"
+}

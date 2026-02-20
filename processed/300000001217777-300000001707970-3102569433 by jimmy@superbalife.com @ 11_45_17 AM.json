@@ -1,0 +1,50 @@
+{
+  "recording": {
+    "name": "300000001217777-300000001707970-3102569433 by jimmy@superbalife.com @ 11_45_17 AM.wav",
+    "size": 16960,
+    "modifyTime": 1769590639000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217777-300000001707970-3102569433 by jimmy@superbalife.com @ 11_45_17 AM.wav",
+    "uploadDate": "2026-01-28T08:57:19.000Z",
+    "callId": "300000001217777-300000001707970",
+    "agent": "jimmy",
+    "phoneNumber": "3102569433",
+    "callTimestamp": "2026-01-28T11:45:17.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Okay, I believe she's on another call right now, but if you like I can transfer you and\n\nSpeaker 2: you'll be the next call that comes up when she hangs up?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Want me to do that?",
+    "duration": 1444,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.360000133514404,
+        "text": " Okay, I believe she's on another call right now, but if you like I can transfer you and"
+      },
+      {
+        "id": 1,
+        "start": 6.360000133514404,
+        "end": 8.760000228881836,
+        "text": " you'll be the next call that comes up when she hangs up?"
+      },
+      {
+        "id": 2,
+        "start": 8.760000228881836,
+        "end": 9.760000228881836,
+        "text": " Yeah."
+      },
+      {
+        "id": 3,
+        "start": 9.760000228881836,
+        "end": 10.399999618530273,
+        "text": " Want me to do that?"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8110-88c1-dea78eb0ca64",
+    "url": "https://www.notion.so/300000001217777-300000001707970-2f611d0a101c811088c1dea78eb0ca64"
+  },
+  "processedAt": "2026-01-28T12:09:22.948Z"
+}

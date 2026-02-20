@@ -1,0 +1,44 @@
+{
+  "recording": {
+    "name": "300000001217479-300000001707792-7076593011 by summer@verifiednutrition.com @ 10_31_24 AM.wav",
+    "size": 19820,
+    "modifyTime": 1769592149000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217479-300000001707792-7076593011 by summer@verifiednutrition.com @ 10_31_24 AM.wav",
+    "uploadDate": "2026-01-28T09:22:29.000Z",
+    "callId": "300000001217479-300000001707792",
+    "agent": "summer",
+    "phoneNumber": "7076593011",
+    "callTimestamp": "2026-01-28T10:31:24.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service, how can I help you?\n\nSpeaker 2: Hello, can you hear me?\n\nSpeaker 1: Hello?",
+    "duration": 1187,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling customer service, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 7,
+        "text": " Hello, can you hear me?"
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 12,
+        "text": " Hello?"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a6-9662-d2fd10619967",
+    "url": "https://www.notion.so/300000001217479-300000001707792-2f611d0a101c81a69662d2fd10619967"
+  },
+  "processedAt": "2026-01-28T10:48:10.083Z"
+}

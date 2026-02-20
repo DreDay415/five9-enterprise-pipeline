@@ -1,0 +1,44 @@
+{
+  "recording": {
+    "name": "300000001221910-300000001711561-6626140501 by olivia@superbalife.com @ 4_07_59 PM.wav",
+    "size": 11760,
+    "modifyTime": 1769645292000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221910-300000001711561-6626140501 by olivia@superbalife.com @ 4_07_59 PM.wav",
+    "uploadDate": "2026-01-29T00:08:12.000Z",
+    "callId": "300000001221910-300000001711561",
+    "agent": "olivia",
+    "phoneNumber": "6626140501",
+    "callTimestamp": "2026-01-29T16:07:59.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Your call has been forwarded to voicemail.\n\nSpeaker 2: The person you're trying to reach is not available.\n\nSpeaker 1: At the tone, please record your message.",
+    "duration": 790,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Your call has been forwarded to voicemail."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 4,
+        "text": " The person you're trying to reach is not available."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 7,
+        "text": " At the tone, please record your message."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81a1-b2d4-d7c20fc18fb3",
+    "url": "https://www.notion.so/300000001221910-300000001711561-2f711d0a101c81a1b2d4d7c20fc18fb3"
+  },
+  "processedAt": "2026-01-29T10:13:33.002Z"
+}

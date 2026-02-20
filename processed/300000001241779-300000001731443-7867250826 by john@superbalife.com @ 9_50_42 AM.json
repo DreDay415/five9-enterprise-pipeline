@@ -1,0 +1,35 @@
+{
+  "recording": {
+    "name": "300000001241779-300000001731443-7867250826 by john@superbalife.com @ 9_50_42 AM.wav",
+    "size": 3636,
+    "modifyTime": 1771005380000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241779-300000001731443-7867250826 by john@superbalife.com @ 9_50_42 AM.wav",
+    "uploadDate": "2026-02-13T17:56:20.000Z",
+    "callId": "300000001241779-300000001731443",
+    "agent": "john",
+    "phoneNumber": "7867250826",
+    "callTimestamp": "2026-02-13T09:50:42.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_john_300000001241779-300000001731443_7867250826.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_john_300000001241779-300000001731443_7867250826.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: But I think there's much to be done going on.",
+    "duration": 427,
+    "audioDuration": 2.200000047683716,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.359999895095825,
+        "text": " But I think there's much to be done going on."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8163-b20d-eb7a06919bf0",
+    "url": "https://www.notion.so/300000001241779-300000001731443-30611d0a101c8163b20deb7a06919bf0"
+  },
+  "processedAt": "2026-02-13T18:05:42.030Z"
+}

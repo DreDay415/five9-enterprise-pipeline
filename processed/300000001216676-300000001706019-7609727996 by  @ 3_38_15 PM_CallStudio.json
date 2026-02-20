@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001216676-300000001706019-7609727996 by  @ 3_38_15 PM_CallStudio.wav",
+    "size": 24890,
+    "modifyTime": 1769592737000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216676-300000001706019-7609727996 by  @ 3_38_15 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:32:17.000Z",
+    "callId": "300000001216676-300000001706019",
+    "phoneNumber": "7609727996",
+    "callTimestamp": "2026-01-28T09:32:17.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the agent, please state the reason for your call.\n\nSpeaker 2: Cancel subscription.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 966,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.679999828338623,
+        "text": " To help get you to the agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.679999828338623,
+        "end": 6.519999980926514,
+        "text": " Speak loudly, clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.519999980926514,
+        "end": 11.079999923706055,
+        "text": " Para español maestro, muere."
+      },
+      {
+        "id": 3,
+        "start": 11.079999923706055,
+        "end": 13.760000228881836,
+        "text": " Cancel subscription."
+      },
+      {
+        "id": 4,
+        "start": 13.760000228881836,
+        "end": 14.960000038146973,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-811e-9258-dc94fc62b224",
+    "url": "https://www.notion.so/300000001216676-300000001706019-2f611d0a101c811e9258dc94fc62b224"
+  },
+  "processedAt": "2026-01-28T10:13:18.150Z"
+}

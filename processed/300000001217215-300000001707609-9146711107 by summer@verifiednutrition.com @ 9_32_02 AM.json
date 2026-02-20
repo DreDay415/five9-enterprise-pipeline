@@ -1,0 +1,182 @@
+{
+  "recording": {
+    "name": "300000001217215-300000001707609-9146711107 by summer@verifiednutrition.com @ 9_32_02 AM.wav",
+    "size": 205460,
+    "modifyTime": 1769584330000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217215-300000001707609-9146711107 by summer@verifiednutrition.com @ 9_32_02 AM.wav",
+    "uploadDate": "2026-01-28T07:12:10.000Z",
+    "callId": "300000001217215-300000001707609",
+    "agent": "summer",
+    "phoneNumber": "9146711107",
+    "callTimestamp": "2026-01-28T09:32:02.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service. How can I help you?\n\nSpeaker 2: Good morning. I've had my prescription on hold. I want to reactivate it.\n\nSpeaker 1: Okay. What's your name and birthday?\n\nSpeaker 2: Joseph Doyle, 11-845.\n\nSpeaker 1: Thank you. Alrighty. And are you still on Dittany Street?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And let's get you – looks like you normally get five pills.\n\nSpeaker 1: Right.\n\nSpeaker 2: Let's get you 10 for the same price.\n\nSpeaker 1: Okay.\n\nSpeaker 2: You've been a VIP customer. That's VIP. Upgrade your account.\n\nSpeaker 1: Good. Thank you.\n\nSpeaker 2: You're welcome. What is it? Oh, did you try to do this online?\n\nSpeaker 1: No.\n\nSpeaker 2: July, August, September, October, November, December, January.\n\nSpeaker 1: Oh, okay. It automatically did it for you.\n\nSpeaker 2: But I'm going to have the pharmacy add an extra five pills.\n\nSpeaker 1: Okay, great.\n\nSpeaker 2: Great.\n\nSpeaker 1: All right.\n\nSpeaker 2: I've got that for you. And was there anything else I can assist you with?\n\nSpeaker 1: No, that's it. That was very good. Very helpful.\n\nSpeaker 2: You're welcome. You have a wonderful day, okay?\n\nSpeaker 1: You too. Thank you very much. Bye.\n\nSpeaker 2: You're welcome. Bye-bye.",
+    "duration": 4915,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling customer service. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 11,
+        "text": " Good morning. I've had my prescription on hold. I want to reactivate it."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 14,
+        "text": " Okay. What's your name and birthday?"
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 19,
+        "text": " Joseph Doyle, 11-845."
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 24,
+        "text": " Thank you. Alrighty. And are you still on Dittany Street?"
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 26,
+        "text": " Correct."
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 28,
+        "text": " Okay."
+      },
+      {
+        "id": 7,
+        "start": 31,
+        "end": 38,
+        "text": " And let's get you – looks like you normally get five pills."
+      },
+      {
+        "id": 8,
+        "start": 38,
+        "end": 40,
+        "text": " Right."
+      },
+      {
+        "id": 9,
+        "start": 40,
+        "end": 43,
+        "text": " Let's get you 10 for the same price."
+      },
+      {
+        "id": 10,
+        "start": 43,
+        "end": 44,
+        "text": " Okay."
+      },
+      {
+        "id": 11,
+        "start": 44,
+        "end": 47,
+        "text": " You've been a VIP customer. That's VIP. Upgrade your account."
+      },
+      {
+        "id": 12,
+        "start": 47,
+        "end": 49,
+        "text": " Good. Thank you."
+      },
+      {
+        "id": 13,
+        "start": 49,
+        "end": 56,
+        "text": " You're welcome. What is it? Oh, did you try to do this online?"
+      },
+      {
+        "id": 14,
+        "start": 56,
+        "end": 58,
+        "text": " No."
+      },
+      {
+        "id": 15,
+        "start": 58,
+        "end": 62,
+        "text": " July, August, September, October, November, December, January."
+      },
+      {
+        "id": 16,
+        "start": 62,
+        "end": 66,
+        "text": " Oh, okay. It automatically did it for you."
+      },
+      {
+        "id": 17,
+        "start": 66,
+        "end": 69,
+        "text": " But I'm going to have the pharmacy add an extra five pills."
+      },
+      {
+        "id": 18,
+        "start": 69,
+        "end": 72,
+        "text": " Okay, great."
+      },
+      {
+        "id": 19,
+        "start": 72,
+        "end": 74,
+        "text": " Great."
+      },
+      {
+        "id": 20,
+        "start": 89,
+        "end": 111,
+        "text": " All right."
+      },
+      {
+        "id": 21,
+        "start": 112,
+        "end": 117,
+        "text": " I've got that for you. And was there anything else I can assist you with?"
+      },
+      {
+        "id": 22,
+        "start": 117,
+        "end": 120,
+        "text": " No, that's it. That was very good. Very helpful."
+      },
+      {
+        "id": 23,
+        "start": 120,
+        "end": 122,
+        "text": " You're welcome. You have a wonderful day, okay?"
+      },
+      {
+        "id": 24,
+        "start": 122,
+        "end": 124,
+        "text": " You too. Thank you very much. Bye."
+      },
+      {
+        "id": 25,
+        "start": 124,
+        "end": 126,
+        "text": " You're welcome. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-810f-bac9-edf0fb534955",
+    "url": "https://www.notion.so/300000001217215-300000001707609-2f611d0a101c810fbac9edf0fb534955"
+  },
+  "processedAt": "2026-01-28T15:16:58.810Z"
+}

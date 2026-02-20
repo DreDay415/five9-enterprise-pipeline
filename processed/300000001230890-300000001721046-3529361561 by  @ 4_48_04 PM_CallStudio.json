@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001230890-300000001721046-3529361561 by  @ 4_48_04 PM_CallStudio.wav",
+    "size": 24890,
+    "modifyTime": 1770252526000,
+    "remotePath": "/five9sftp/upload/SB CS/2_4_2026/300000001230890-300000001721046-3529361561 by  @ 4_48_04 PM_CallStudio.wav",
+    "uploadDate": "2026-02-05T00:48:46.000Z",
+    "callId": "300000001230890-300000001721046",
+    "phoneNumber": "3529361561",
+    "callTimestamp": "2026-02-05T00:48:46.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Para Español, marque número nueve.\n\nSpeaker 1: Why is my bill so high?\n\nSpeaker 2: Thanks, transferring to agent.",
+    "duration": 1862,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 8,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 12,
+        "text": " Why is my bill so high?"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 15,
+        "text": " Thanks, transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2fe11d0a-101c-811b-b147-f5fb85bb63c4",
+    "url": "https://www.notion.so/300000001230890-300000001721046-2fe11d0a101c811bb147f5fb85bb63c4"
+  },
+  "processedAt": "2026-02-05T10:03:34.276Z"
+}

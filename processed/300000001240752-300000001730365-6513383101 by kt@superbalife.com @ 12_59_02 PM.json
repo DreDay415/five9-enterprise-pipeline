@@ -1,0 +1,129 @@
+{
+  "recording": {
+    "name": "300000001240752-300000001730365-6513383101 by kt@superbalife.com @ 12_59_02 PM.wav",
+    "size": 64866,
+    "modifyTime": 1770930313000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240752-300000001730365-6513383101 by kt@superbalife.com @ 12_59_02 PM.wav",
+    "uploadDate": "2026-02-12T21:05:13.000Z",
+    "callId": "300000001240752-300000001730365",
+    "agent": "kt",
+    "phoneNumber": "6513383101",
+    "callTimestamp": "2026-02-12T12:59:02.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, Bruce, this is KT, bud. How's everything going on your end?\n\nSpeaker 2: Hey, thanks for getting back in the air.\n\nSpeaker 1: Hey, listen, um...\n\nSpeaker 2: What's up?\n\nSpeaker 1: I sent the two return bottles for a refund,\n\nSpeaker 2: and it was supposed to be like $62 each,\n\nSpeaker 1: and I put them in the same package.\n\nSpeaker 2: And I have now been...\n\nSpeaker 1: I've been refunded for one.\n\nSpeaker 2: But there was two bottles in that package.\n\nSpeaker 1: Okay, bud, let me put you on a brief hold, bud,\n\nSpeaker 2: and I'll walk down the hall, and I'll handle this, okay?\n\nSpeaker 1: One moment, but thanks for calling in, Bruce.\n\nSpeaker 2: It's good to hear your voice, bud.\n\nSpeaker 1: All right, bud, one moment.\n\nSpeaker 2: Yeah, it's good to hear your voice.\n\nSpeaker 1: All right, cool. One moment.",
+    "duration": 2815,
+    "audioDuration": 39.880001068115234,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.299999952316284,
+        "text": " Hey, Bruce, this is KT, bud. How's everything going on your end?"
+      },
+      {
+        "id": 1,
+        "start": 3.4000000953674316,
+        "end": 6.099999904632568,
+        "text": " Hey, thanks for getting back in the air."
+      },
+      {
+        "id": 2,
+        "start": 6.199999809265137,
+        "end": 7.599999904632568,
+        "text": " Hey, listen, um..."
+      },
+      {
+        "id": 3,
+        "start": 7.699999809265137,
+        "end": 9.300000190734863,
+        "text": " What's up?"
+      },
+      {
+        "id": 4,
+        "start": 9.399999618530273,
+        "end": 13.899999618530273,
+        "text": " I sent the two return bottles for a refund,"
+      },
+      {
+        "id": 5,
+        "start": 14,
+        "end": 16.299999237060547,
+        "text": " and it was supposed to be like $62 each,"
+      },
+      {
+        "id": 6,
+        "start": 16.399999618530273,
+        "end": 18.299999237060547,
+        "text": " and I put them in the same package."
+      },
+      {
+        "id": 7,
+        "start": 18.399999618530273,
+        "end": 20.399999618530273,
+        "text": " And I have now been..."
+      },
+      {
+        "id": 8,
+        "start": 20.5,
+        "end": 22.899999618530273,
+        "text": " I've been refunded for one."
+      },
+      {
+        "id": 9,
+        "start": 23.100000381469727,
+        "end": 25.700000762939453,
+        "text": " But there was two bottles in that package."
+      },
+      {
+        "id": 10,
+        "start": 25.799999237060547,
+        "end": 27.899999618530273,
+        "text": " Okay, bud, let me put you on a brief hold, bud,"
+      },
+      {
+        "id": 11,
+        "start": 27.899999618530273,
+        "end": 31.299999237060547,
+        "text": " and I'll walk down the hall, and I'll handle this, okay?"
+      },
+      {
+        "id": 12,
+        "start": 31.399999618530273,
+        "end": 33.5,
+        "text": " One moment, but thanks for calling in, Bruce."
+      },
+      {
+        "id": 13,
+        "start": 33.599998474121094,
+        "end": 35.29999923706055,
+        "text": " It's good to hear your voice, bud."
+      },
+      {
+        "id": 14,
+        "start": 35.400001525878906,
+        "end": 36.400001525878906,
+        "text": " All right, bud, one moment."
+      },
+      {
+        "id": 15,
+        "start": 36.5,
+        "end": 37.79999923706055,
+        "text": " Yeah, it's good to hear your voice."
+      },
+      {
+        "id": 16,
+        "start": 37.900001525878906,
+        "end": 39.900001525878906,
+        "text": " All right, cool. One moment."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-819d-b8bb-e9d81a33b63e",
+    "url": "https://www.notion.so/300000001240752-300000001730365-30511d0a101c819db8bbe9d81a33b63e"
+  },
+  "processedAt": "2026-02-12T21:10:52.664Z"
+}

@@ -1,0 +1,98 @@
+{
+  "recording": {
+    "name": "300000001215979-300000001705556-7062202253 by michelleh@superbalife.com @ 11_26_56 AM.wav",
+    "size": 92360,
+    "modifyTime": 1769196501000,
+    "remotePath": "/five9sftp/recordings/SB CS/1_23_2026/300000001215979-300000001705556-7062202253 by michelleh@superbalife.com @ 11_26_56 AM.wav",
+    "uploadDate": "2026-01-23T19:28:21.000Z",
+    "callId": "300000001215979-300000001705556",
+    "agent": "michelleh",
+    "phoneNumber": "7062202253",
+    "callTimestamp": "2026-01-23T19:26:56.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Hi. My name is Robert Ingram. I had a purchase from you guys back in, I think, June of last year.\n\nSpeaker 1: And I had called in to cancel my services or cancel a subscription in late July.\n\nSpeaker 2: And I see that there's an attempted charge.\n\nSpeaker 1: Can you just confirm your date of birth?\n\nSpeaker 2: That's a 5-9-1969.\n\nSpeaker 1: Thank you so much. Is he your VIP status customer?\n\nSpeaker 2: Okay. It looks like on August 8th you called and put a six-month hold on your prescription refills.\n\nSpeaker 1: Okay. Well, I mean, that was the point where I was trying to cancel it because I was having some financial difficulties.\n\nSpeaker 2: But, anyway, I see that my card was – they attempted to charge my card on the last order,\n\nSpeaker 1: and it was declined due to insufficient funds because I have insufficient funds.\n\nSpeaker 2: Hold on one second. I'm going to transfer you to that agent that helped you out. Hold on one second.",
+    "duration": 2573,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 10,
+        "text": " Hi. My name is Robert Ingram. I had a purchase from you guys back in, I think, June of last year."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 17,
+        "text": " And I had called in to cancel my services or cancel a subscription in late July."
+      },
+      {
+        "id": 3,
+        "start": 17,
+        "end": 22,
+        "text": " And I see that there's an attempted charge."
+      },
+      {
+        "id": 4,
+        "start": 22,
+        "end": 24,
+        "text": " Can you just confirm your date of birth?"
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 27,
+        "text": " That's a 5-9-1969."
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 30,
+        "text": " Thank you so much. Is he your VIP status customer?"
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 36,
+        "text": " Okay. It looks like on August 8th you called and put a six-month hold on your prescription refills."
+      },
+      {
+        "id": 8,
+        "start": 36,
+        "end": 41,
+        "text": " Okay. Well, I mean, that was the point where I was trying to cancel it because I was having some financial difficulties."
+      },
+      {
+        "id": 9,
+        "start": 41,
+        "end": 47,
+        "text": " But, anyway, I see that my card was – they attempted to charge my card on the last order,"
+      },
+      {
+        "id": 10,
+        "start": 47,
+        "end": 52,
+        "text": " and it was declined due to insufficient funds because I have insufficient funds."
+      },
+      {
+        "id": 11,
+        "start": 52,
+        "end": 57,
+        "text": " Hold on one second. I'm going to transfer you to that agent that helped you out. Hold on one second."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f411d0a-101c-81c4-8480-e7687c1a4001",
+    "url": "https://www.notion.so/300000001215979-300000001705556-2f411d0a101c81c48480e7687c1a4001"
+  },
+  "processedAt": "2026-01-26T21:35:43.827Z"
+}

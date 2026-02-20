@@ -1,0 +1,58 @@
+{
+  "recording": {
+    "name": "300000001241014-300000001730572-2709913203 by  @ 2_19_37 PM_CallStudio.wav",
+    "size": 30546,
+    "modifyTime": 1770934818000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241014-300000001730572-2709913203 by  @ 2_19_37 PM_CallStudio.wav",
+    "uploadDate": "2026-02-12T22:20:18.000Z",
+    "callId": "300000001241014-300000001730572",
+    "phoneNumber": "2709913203",
+    "callTimestamp": "2026-02-12T22:20:18.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_unknown_300000001241014-300000001730572_2709913203.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_unknown_300000001241014-300000001730572_2709913203.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Score Blue did not send me the ADG.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1465,
+    "audioDuration": 18.760000228881836,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.199999809265137,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.360000133514404,
+        "end": 5.820000171661377,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 5.820000171661377,
+        "end": 7.639999866485596,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.359999656677246,
+        "end": 15.260000228881836,
+        "text": " Score Blue did not send me the ADG."
+      },
+      {
+        "id": 4,
+        "start": 17.200000762939453,
+        "end": 18.420000076293945,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8124-b036-cd71019295e9",
+    "url": "https://www.notion.so/300000001241014-300000001730572-30511d0a101c8124b036cd71019295e9"
+  },
+  "processedAt": "2026-02-12T22:50:15.428Z"
+}

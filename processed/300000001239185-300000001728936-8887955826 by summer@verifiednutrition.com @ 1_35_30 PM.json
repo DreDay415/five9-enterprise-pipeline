@@ -1,0 +1,74 @@
+{
+  "recording": {
+    "name": "300000001239185-300000001728936-8887955826 by summer@verifiednutrition.com @ 1_35_30 PM.wav",
+    "size": 61096,
+    "modifyTime": 1770845789000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239185-300000001728936-8887955826 by summer@verifiednutrition.com @ 1_35_30 PM.wav",
+    "uploadDate": "2026-02-11T21:36:29.000Z",
+    "callId": "300000001239185-300000001728936",
+    "agent": "summer",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-02-11T13:35:30.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service, I can help you.\n\nSpeaker 2: Yeah, my name is Dennis Newell, N-E-W-E-L-L.\n\nSpeaker 1: I just got an order from your company and I did not order these, I do not want them.\n\nSpeaker 2: And I'm not going, you know, if this is on my credit card, I want it off, this whole\n\nSpeaker 1: thing is a scam.\n\nSpeaker 2: So I want to stop whatever, I ordered one to see what they were like, I think they're\n\nSpeaker 1: a scam and then all of a sudden I get another order today which I did not agree to, I do\n\nSpeaker 2: not want these and I'm not paying for them.",
+    "duration": 1665,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.4800000190734863,
+        "text": " Thank you for calling customer service, I can help you."
+      },
+      {
+        "id": 1,
+        "start": 3.4800000190734863,
+        "end": 8,
+        "text": " Yeah, my name is Dennis Newell, N-E-W-E-L-L."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 15.079999923706055,
+        "text": " I just got an order from your company and I did not order these, I do not want them"
+      },
+      {
+        "id": 3,
+        "start": 15.079999923706055,
+        "end": 20.959999084472656,
+        "text": " and I'm not going, you know, if this is on my credit card, I want it off, this whole"
+      },
+      {
+        "id": 4,
+        "start": 20.959999084472656,
+        "end": 23,
+        "text": " thing is a scam."
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 28.920000076293945,
+        "text": " So I want to stop whatever, I ordered one to see what they were like, I think they're"
+      },
+      {
+        "id": 6,
+        "start": 28.920000076293945,
+        "end": 33.880001068115234,
+        "text": " a scam and then all of a sudden I get another order today which I did not agree to, I do"
+      },
+      {
+        "id": 7,
+        "start": 33.880001068115234,
+        "end": 37.560001373291016,
+        "text": " not want these and I'm not paying for them."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-819f-a51f-ee62ac43edff",
+    "url": "https://www.notion.so/300000001239185-300000001728936-30411d0a101c819fa51fee62ac43edff"
+  },
+  "processedAt": "2026-02-11T22:09:55.833Z"
+}

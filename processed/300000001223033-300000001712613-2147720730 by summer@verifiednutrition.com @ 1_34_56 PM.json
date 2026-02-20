@@ -1,0 +1,104 @@
+{
+  "recording": {
+    "name": "300000001223033-300000001712613-2147720730 by summer@verifiednutrition.com @ 1_34_56 PM.wav",
+    "size": 64020,
+    "modifyTime": 1769722557000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223033-300000001712613-2147720730 by summer@verifiednutrition.com @ 1_34_56 PM.wav",
+    "uploadDate": "2026-01-29T21:35:57.000Z",
+    "callId": "300000001223033-300000001712613",
+    "agent": "summer",
+    "phoneNumber": "2147720730",
+    "callTimestamp": "2026-01-29T13:34:56.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yes, I just ordered some pills earlier today.\n\nSpeaker 2: Can I give you my name?\n\nSpeaker 1: Name and birthday?\n\nSpeaker 2: David Martel, June 11, 1956.\n\nSpeaker 1: How can I help you?\n\nSpeaker 2: Yes, I just ordered some this morning at about 11:30 and I needed to know how long will it\n\nSpeaker 1: take for the delivery.\n\nSpeaker 2: You'll get it by like Tuesday.\n\nSpeaker 1: Okay, sounds good.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: You're welcome.\n\nSpeaker 2: Bye-bye.",
+    "duration": 1525,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 12.460000038146973,
+        "text": " Yes, I just ordered some pills earlier today."
+      },
+      {
+        "id": 1,
+        "start": 12.460000038146973,
+        "end": 16.1200008392334,
+        "text": " Can I give you my name?"
+      },
+      {
+        "id": 2,
+        "start": 16.1200008392334,
+        "end": 18.280000686645508,
+        "text": " Name and birthday?"
+      },
+      {
+        "id": 3,
+        "start": 18.280000686645508,
+        "end": 22.15999984741211,
+        "text": " David Martel, June 11, 1956."
+      },
+      {
+        "id": 4,
+        "start": 22.15999984741211,
+        "end": 24.760000228881836,
+        "text": " How can I help you?"
+      },
+      {
+        "id": 5,
+        "start": 24.760000228881836,
+        "end": 30.920000076293945,
+        "text": " Yes, I just ordered some this morning at about 11.30 and I needed to know how long will it"
+      },
+      {
+        "id": 6,
+        "start": 30.920000076293945,
+        "end": 31.920000076293945,
+        "text": " take for the delivery."
+      },
+      {
+        "id": 7,
+        "start": 31.920000076293945,
+        "end": 32.91999816894531,
+        "text": " You'll get it by like Tuesday."
+      },
+      {
+        "id": 8,
+        "start": 32.91999816894531,
+        "end": 33.91999816894531,
+        "text": " Okay, sounds good."
+      },
+      {
+        "id": 9,
+        "start": 33.91999816894531,
+        "end": 34.91999816894531,
+        "text": " Thank you."
+      },
+      {
+        "id": 10,
+        "start": 34.91999816894531,
+        "end": 35.91999816894531,
+        "text": " You're welcome."
+      },
+      {
+        "id": 11,
+        "start": 35.91999816894531,
+        "end": 36.91999816894531,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 12,
+        "start": 36.91999816894531,
+        "end": 36.91999816894531,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81da-a0a3-e11d45fd3b2d",
+    "url": "https://www.notion.so/300000001223033-300000001712613-2f711d0a101c81daa0a3e11d45fd3b2d"
+  },
+  "processedAt": "2026-01-29T21:43:50.592Z"
+}

@@ -1,0 +1,164 @@
+{
+  "recording": {
+    "name": "300000001223001-300000001712584-5027759656 by summer@verifiednutrition.com @ 1_20_52 PM.wav",
+    "size": 105556,
+    "modifyTime": 1769721738000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223001-300000001712584-5027759656 by summer@verifiednutrition.com @ 1_20_52 PM.wav",
+    "uploadDate": "2026-01-29T21:22:18.000Z",
+    "callId": "300000001223001-300000001712584",
+    "agent": "summer",
+    "phoneNumber": "5027759656",
+    "callTimestamp": "2026-01-29T13:20:52.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service, I can help you.\n\nSpeaker 2: Yes, my name is Pedro Marrero, and I just want to verify if my order went through.\n\nSpeaker 1: Okay, what's your birthday?\n\nSpeaker 2: 26 January 1964.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Yeah, it went through.\n\nSpeaker 1: Okay, how long will it take for me to receive it?\n\nSpeaker 2: You should get it like Tuesday.\n\nSpeaker 1: Tuesday?\n\nSpeaker 2: Uh-huh.\n\nSpeaker 1: All right.\n\nSpeaker 2: And this is not a, let me ask you this also.\n\nSpeaker 1: This is not like automatic, they're going to keep ordering and ordering, you know.\n\nSpeaker 2: I'm going to pause it, and then you can decide how frequent you want it after you try it.\n\nSpeaker 1: Yeah, because that's all I want to try.\n\nSpeaker 2: If it's older, they promise, right?\n\nSpeaker 1: They keep sending me without me asking, you know what I mean?\n\nSpeaker 2: Okay, yeah.\n\nSpeaker 1: Okay, it's paused.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: You're welcome.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Bye.",
+    "duration": 3267,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Thank you for calling customer service, I can help you."
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 16,
+        "text": " Yes, my name is Pedro Marrero, and I just want to verify if my order went through."
+      },
+      {
+        "id": 2,
+        "start": 16,
+        "end": 18,
+        "text": " Okay, what's your birthday?"
+      },
+      {
+        "id": 3,
+        "start": 18,
+        "end": 23,
+        "text": " 26 January 1964."
+      },
+      {
+        "id": 4,
+        "start": 23,
+        "end": 24,
+        "text": " Thank you."
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 27,
+        "text": " Yeah, it went through."
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 30,
+        "text": " Okay, how long will it take for me to receive it?"
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 33,
+        "text": " You should get it like Tuesday."
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 34,
+        "text": " Tuesday?"
+      },
+      {
+        "id": 9,
+        "start": 34,
+        "end": 35,
+        "text": " Uh-huh."
+      },
+      {
+        "id": 10,
+        "start": 35,
+        "end": 36,
+        "text": " All right."
+      },
+      {
+        "id": 11,
+        "start": 36,
+        "end": 39,
+        "text": " And this is not a, let me ask you this also."
+      },
+      {
+        "id": 12,
+        "start": 39,
+        "end": 43,
+        "text": " This is not like automatic, they're going to keep ordering and ordering, you know."
+      },
+      {
+        "id": 13,
+        "start": 43,
+        "end": 48,
+        "text": " I'm going to pause it, and then you can decide how frequent you want it after you try it."
+      },
+      {
+        "id": 14,
+        "start": 48,
+        "end": 51,
+        "text": " Yeah, because that's all I want to try."
+      },
+      {
+        "id": 15,
+        "start": 51,
+        "end": 54,
+        "text": " If it's older, they promise, right?"
+      },
+      {
+        "id": 16,
+        "start": 55,
+        "end": 58,
+        "text": " They keep sending me without me asking, you know what I mean?"
+      },
+      {
+        "id": 17,
+        "start": 58,
+        "end": 59,
+        "text": " Okay, yeah."
+      },
+      {
+        "id": 18,
+        "start": 59,
+        "end": 61,
+        "text": " Okay, it's paused."
+      },
+      {
+        "id": 19,
+        "start": 61,
+        "end": 62,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 20,
+        "start": 62,
+        "end": 63,
+        "text": " You're welcome."
+      },
+      {
+        "id": 21,
+        "start": 63,
+        "end": 64,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 22,
+        "start": 64,
+        "end": 65,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81e3-8c55-f775c17fc2aa",
+    "url": "https://www.notion.so/300000001223001-300000001712584-2f711d0a101c81e38c55f775c17fc2aa"
+  },
+  "processedAt": "2026-01-29T21:46:21.898Z"
+}

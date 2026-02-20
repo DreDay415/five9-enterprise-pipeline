@@ -1,0 +1,140 @@
+{
+  "recording": {
+    "name": "300000001223060-300000001712627-6167061270 by lucif@superbalife.com @ 1_43_41 PM.wav",
+    "size": 145010,
+    "modifyTime": 1769723118000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223060-300000001712627-6167061270 by lucif@superbalife.com @ 1_43_41 PM.wav",
+    "uploadDate": "2026-01-29T21:45:18.000Z",
+    "callId": "300000001223060-300000001712627",
+    "agent": "lucif",
+    "phoneNumber": "6167061270",
+    "callTimestamp": "2026-01-29T13:43:41.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you?\n\nSpeaker 2: Yes, I'm calling because I need to cancel my prescription.\n\nSpeaker 1: Okay, give me one moment.\n\nSpeaker 2: Is your last name Pralata?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, one second.\n\nSpeaker 1: I'm already sure I do notice you have been a VIP with us here for a while.\n\nSpeaker 2: Do you mind if I ask why did you want to cancel?\n\nSpeaker 1: I don't need it anymore.\n\nSpeaker 2: Oh, do you kind of just have too many and need to slow down a bit there?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, yeah, you can order as needed. Would that be better for you?\n\nSpeaker 1: No, I need to cancel. If I need it again, I'll go back and go back.\n\nSpeaker 2: Okay, that's what I'm saying. We can just not bill you or send you any for like six months.\n\nSpeaker 1: Give you some time. That way you won't have to cancel your whole prescription.\n\nSpeaker 2: Yes, cancel the whole prescription, please.\n\nSpeaker 1: Okay, anything else?\n\nSpeaker 2: No, that's all I need.\n\nSpeaker 1: Okay, have a good day.",
+    "duration": 5128,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 11,
+        "text": " Thank you for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 11,
+        "end": 15,
+        "text": " Yes, I'm calling because I need to cancel my prescription."
+      },
+      {
+        "id": 2,
+        "start": 15,
+        "end": 19,
+        "text": " Okay, give me one moment."
+      },
+      {
+        "id": 3,
+        "start": 19,
+        "end": 22,
+        "text": " Is your last name Pralata?"
+      },
+      {
+        "id": 4,
+        "start": 22,
+        "end": 24,
+        "text": " Yes."
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 26,
+        "text": " Okay, one second."
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 38,
+        "text": " I'm already sure I do notice you have been a VIP with us here for a while."
+      },
+      {
+        "id": 7,
+        "start": 38,
+        "end": 41,
+        "text": " Do you mind if I ask why did you want to cancel?"
+      },
+      {
+        "id": 8,
+        "start": 41,
+        "end": 45,
+        "text": " I don't need it anymore."
+      },
+      {
+        "id": 9,
+        "start": 45,
+        "end": 51,
+        "text": " Oh, do you kind of just have too many and need to slow down a bit there?"
+      },
+      {
+        "id": 10,
+        "start": 51,
+        "end": 53,
+        "text": " Yes."
+      },
+      {
+        "id": 11,
+        "start": 54,
+        "end": 59,
+        "text": " Okay, yeah, you can order as needed. Would that be better for you?"
+      },
+      {
+        "id": 12,
+        "start": 59,
+        "end": 69,
+        "text": " No, I need to cancel. If I need it again, I'll go back and go back."
+      },
+      {
+        "id": 13,
+        "start": 69,
+        "end": 73,
+        "text": " Okay, that's what I'm saying. We can just not bill you or send you any for like six months."
+      },
+      {
+        "id": 14,
+        "start": 73,
+        "end": 77,
+        "text": " Give you some time. That way you won't have to cancel your whole prescription."
+      },
+      {
+        "id": 15,
+        "start": 77,
+        "end": 81,
+        "text": " Yes, cancel the whole prescription, please."
+      },
+      {
+        "id": 16,
+        "start": 81,
+        "end": 85,
+        "text": " Okay, anything else?"
+      },
+      {
+        "id": 17,
+        "start": 85,
+        "end": 87,
+        "text": " No, that's all I need."
+      },
+      {
+        "id": 18,
+        "start": 87,
+        "end": 89,
+        "text": " Okay, have a good day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8177-8aea-cd0fed9e54e0",
+    "url": "https://www.notion.so/300000001223060-300000001712627-2f711d0a101c81778aeacd0fed9e54e0"
+  },
+  "processedAt": "2026-01-29T22:13:59.384Z"
+}

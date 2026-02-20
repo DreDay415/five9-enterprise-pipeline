@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001239843-300000001729830-9083587498 by  @ 8_49_57 AM_CallStudio.wav",
+    "size": 24630,
+    "modifyTime": 1770915034000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001239843-300000001729830-9083587498 by  @ 8_49_57 AM_CallStudio.wav",
+    "uploadDate": "2026-02-12T16:50:34.000Z",
+    "callId": "300000001239843-300000001729830",
+    "phoneNumber": "9083587498",
+    "callTimestamp": "2026-02-12T16:50:34.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: I just have a question on my prescription I just received.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1641,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.239999771118164,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.239999771118164,
+        "end": 6.239999771118164,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.239999771118164,
+        "end": 9.319999694824219,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.319999694824219,
+        "end": 13.600000381469727,
+        "text": " I just have a question on my prescription I just received."
+      },
+      {
+        "id": 4,
+        "start": 13.600000381469727,
+        "end": 14.600000381469727,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 14.600000381469727,
+        "end": 14.84000015258789,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8145-bdca-c708f59b63ed",
+    "url": "https://www.notion.so/300000001239843-300000001729830-30511d0a101c8145bdcac708f59b63ed"
+  },
+  "processedAt": "2026-02-12T17:05:41.642Z"
+}

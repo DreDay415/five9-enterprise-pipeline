@@ -1,0 +1,50 @@
+{
+  "recording": {
+    "name": "300000001216761-300000001706073-8622165744 by olivier@superbalife.com @ 4_47_49 PM.wav",
+    "size": 233866,
+    "modifyTime": 1769590639000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216761-300000001706073-8622165744 by olivier@superbalife.com @ 4_47_49 PM.wav",
+    "uploadDate": "2026-01-28T08:57:19.000Z",
+    "callId": "300000001216761-300000001706073",
+    "agent": "olivier",
+    "phoneNumber": "8622165744",
+    "callTimestamp": "2026-01-28T16:47:49.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Mr. Aviles? Yeah. You advised the pharmacy to put a pause on your prescription, okay?\n\nSpeaker 2: They're going to pause it for half a year so you have time to reorder your prescription. It will still be available, okay?\n\nSpeaker 1: Okay, all right. Thank you.\n\nSpeaker 2: You're welcome. You have a good one. Bye bye.",
+    "duration": 9680,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.159999847412109,
+        "text": " Mr. Aviles? Yeah. You advise the pharmacy to put a pause on your prescription okay"
+      },
+      {
+        "id": 1,
+        "start": 6.159999847412109,
+        "end": 10.220000267028809,
+        "text": " they're going to pause it for half a year so you have time to reorder your"
+      },
+      {
+        "id": 2,
+        "start": 10.220000267028809,
+        "end": 16.200000762939453,
+        "text": " prescription will be still available okay. Okay all right thank you. Yeah you"
+      },
+      {
+        "id": 3,
+        "start": 16.200000762939453,
+        "end": 21.200000762939453,
+        "text": " welcome you have a good one. Bye bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8155-a59a-d05c0d336e95",
+    "url": "https://www.notion.so/300000001216761-300000001706073-2f611d0a101c8155a59ad05c0d336e95"
+  },
+  "processedAt": "2026-01-28T12:07:26.728Z"
+}

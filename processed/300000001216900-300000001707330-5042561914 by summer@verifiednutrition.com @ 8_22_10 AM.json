@@ -1,0 +1,386 @@
+{
+  "recording": {
+    "name": "300000001216900-300000001707330-5042561914 by summer@verifiednutrition.com @ 8_22_10 AM.wav",
+    "size": 278390,
+    "modifyTime": 1769586732000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216900-300000001707330-5042561914 by summer@verifiednutrition.com @ 8_22_10 AM.wav",
+    "uploadDate": "2026-01-28T07:52:12.000Z",
+    "callId": "300000001216900-300000001707330",
+    "agent": "summer",
+    "phoneNumber": "5042561914",
+    "callTimestamp": "2026-01-28T08:22:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service, how can I help you?\n\nSpeaker 2: Hey, how are you doing?\n\nSpeaker 1: I'm Roberto.\n\nSpeaker 2: I was just calling to pretty much confirm an order I made.\n\nSpeaker 1: Okay, your name and your name?\n\nSpeaker 2: Roberto Miller.\n\nSpeaker 1: R-O-B-E-R-T-O.\n\nSpeaker 2: M-I-L-L-E-R.\n\nSpeaker 1: Okay, yeah, it looks like you.\n\nSpeaker 2: Oh, yeah, zip code, sorry.\n\nSpeaker 1: Okay, yeah, 7-0-0-7-0.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: You made an order yesterday.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Yeah, so I got a text message.\n\nSpeaker 2: It's saying that I need to check something for it to be final or something.\n\nSpeaker 1: You got a text message saying what?\n\nSpeaker 2: Let me see.\n\nSpeaker 1: Let's see.\n\nSpeaker 2: It says, Roberto, your clinical clinician has an important message for you\n\nSpeaker 1: that needs a response notice to continue.\n\nSpeaker 2: And then it has a little web link.\n\nSpeaker 1: But when I click on it, it's just a thing just saying that it's just a message\n\nSpeaker 2: for the instructions on how to use the medicine.\n\nSpeaker 1: Yeah, it's on the way to you already.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Hey, let me ask you this question.\n\nSpeaker 1: So I saw on the website that, like, there was advertising, like,\n\nSpeaker 2: free some type of approved diet or they came out with it.\n\nSpeaker 1: Is there any way they could send a free sample of that?\n\nSpeaker 2: No, you can place a small order.\n\nSpeaker 1: Once you receive this one, you have to wait until you receive it first.\n\nSpeaker 2: I got you.\n\nSpeaker 1: I got you.\n\nSpeaker 2: And then I can just call?\n\nSpeaker 1: At the same time.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So once that's here, then I can go ahead and request a small order?\n\nSpeaker 1: That's correct.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Would it be better to call or just do it all on—\n\nSpeaker 2: You have to call because you have an open prescription for a few hours.\n\nSpeaker 1: I got you.\n\nSpeaker 2: And this was a one-time charge, right?\n\nSpeaker 1: Because I know in the past I've had it where it kept coming and coming.\n\nSpeaker 2: I was like, whoa, whoa.\n\nSpeaker 1: So you can't get an auto.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Good deal.\n\nSpeaker 2: All right.\n\nSpeaker 1: Well, that'll work.\n\nSpeaker 2: Well, I'll wait on that shipment and then I'll give you all a call.\n\nSpeaker 1: Okay.\n\nSpeaker 2: No problem.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: You're welcome.\n\nSpeaker 2: Bye-bye.",
+    "duration": 8353,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling customer service, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 4,
+        "text": " Hey, how are you doing?"
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 6,
+        "text": " I'm Roberto."
+      },
+      {
+        "id": 3,
+        "start": 6,
+        "end": 9,
+        "text": " I was just calling to pretty much confirm an order I made."
+      },
+      {
+        "id": 4,
+        "start": 9,
+        "end": 12,
+        "text": " Okay, your name and your name?"
+      },
+      {
+        "id": 5,
+        "start": 12,
+        "end": 15,
+        "text": " Roberto Miller."
+      },
+      {
+        "id": 6,
+        "start": 15,
+        "end": 17,
+        "text": " R-O-B-O-R-T-O."
+      },
+      {
+        "id": 7,
+        "start": 17,
+        "end": 22,
+        "text": " F-N-N-I-L-L-E-R."
+      },
+      {
+        "id": 8,
+        "start": 22,
+        "end": 25,
+        "text": " Okay, yeah, it looks like you."
+      },
+      {
+        "id": 9,
+        "start": 25,
+        "end": 27,
+        "text": " Oh, yeah, zip code, sorry."
+      },
+      {
+        "id": 10,
+        "start": 27,
+        "end": 30,
+        "text": " Okay, yeah, 7-0-0-7-0."
+      },
+      {
+        "id": 11,
+        "start": 30,
+        "end": 31,
+        "text": " Thank you."
+      },
+      {
+        "id": 12,
+        "start": 31,
+        "end": 33,
+        "text": " You made an order yesterday."
+      },
+      {
+        "id": 13,
+        "start": 33,
+        "end": 35,
+        "text": " Yeah."
+      },
+      {
+        "id": 14,
+        "start": 35,
+        "end": 37,
+        "text": " Yeah, so I got a text message."
+      },
+      {
+        "id": 15,
+        "start": 37,
+        "end": 46,
+        "text": " It's saying that I need to check something for it to be final or something."
+      },
+      {
+        "id": 16,
+        "start": 46,
+        "end": 49,
+        "text": " You got a text message saying what?"
+      },
+      {
+        "id": 17,
+        "start": 49,
+        "end": 52,
+        "text": " Let me see."
+      },
+      {
+        "id": 18,
+        "start": 53,
+        "end": 55,
+        "text": " Let's see."
+      },
+      {
+        "id": 19,
+        "start": 55,
+        "end": 67,
+        "text": " It says, Roberto, your clinical clinician has an important message for you"
+      },
+      {
+        "id": 20,
+        "start": 67,
+        "end": 72,
+        "text": " that needs a response notice to continue."
+      },
+      {
+        "id": 21,
+        "start": 72,
+        "end": 74,
+        "text": " And then it has a little web link."
+      },
+      {
+        "id": 22,
+        "start": 74,
+        "end": 78,
+        "text": " But when I click on it, it's just a thing just saying that it's just a message"
+      },
+      {
+        "id": 23,
+        "start": 78,
+        "end": 83,
+        "text": " for the instructions on how to use the medicine."
+      },
+      {
+        "id": 24,
+        "start": 83,
+        "end": 88,
+        "text": " Yeah, it's on the way to you already."
+      },
+      {
+        "id": 25,
+        "start": 88,
+        "end": 89,
+        "text": " Okay."
+      },
+      {
+        "id": 26,
+        "start": 89,
+        "end": 90,
+        "text": " All right."
+      },
+      {
+        "id": 27,
+        "start": 90,
+        "end": 93,
+        "text": " Hey, let me ask you this question."
+      },
+      {
+        "id": 28,
+        "start": 93,
+        "end": 99,
+        "text": " So I saw on the website that, like, there was advertising, like,"
+      },
+      {
+        "id": 29,
+        "start": 99,
+        "end": 108,
+        "text": " free some type of approved diet or they came out with it."
+      },
+      {
+        "id": 30,
+        "start": 108,
+        "end": 113,
+        "text": " Is there any way they could send a free sample of that?"
+      },
+      {
+        "id": 31,
+        "start": 113,
+        "end": 116,
+        "text": " No, you can place a small order."
+      },
+      {
+        "id": 32,
+        "start": 116,
+        "end": 121,
+        "text": " Once you receive this one, you have to wait until you receive it first."
+      },
+      {
+        "id": 33,
+        "start": 121,
+        "end": 123,
+        "text": " I got you."
+      },
+      {
+        "id": 34,
+        "start": 123,
+        "end": 124,
+        "text": " I got you."
+      },
+      {
+        "id": 35,
+        "start": 124,
+        "end": 125,
+        "text": " And then I can just call?"
+      },
+      {
+        "id": 36,
+        "start": 125,
+        "end": 126,
+        "text": " At the same time."
+      },
+      {
+        "id": 37,
+        "start": 126,
+        "end": 127,
+        "text": " Okay."
+      },
+      {
+        "id": 38,
+        "start": 127,
+        "end": 128,
+        "text": " Okay."
+      },
+      {
+        "id": 39,
+        "start": 128,
+        "end": 132,
+        "text": " So once that's here, then I can go ahead and request a small order?"
+      },
+      {
+        "id": 40,
+        "start": 132,
+        "end": 134,
+        "text": " That's correct."
+      },
+      {
+        "id": 41,
+        "start": 134,
+        "end": 135,
+        "text": " Okay."
+      },
+      {
+        "id": 42,
+        "start": 135,
+        "end": 138,
+        "text": " Would it be better to call or just do it all on?"
+      },
+      {
+        "id": 43,
+        "start": 138,
+        "end": 142,
+        "text": " You have to call because you have an open prescription for a few hours."
+      },
+      {
+        "id": 44,
+        "start": 142,
+        "end": 143,
+        "text": " I got you."
+      },
+      {
+        "id": 45,
+        "start": 143,
+        "end": 147,
+        "text": " And this was a one-time charge, right?"
+      },
+      {
+        "id": 46,
+        "start": 147,
+        "end": 152,
+        "text": " Because I know in the past I've had it where it kept coming and coming."
+      },
+      {
+        "id": 47,
+        "start": 152,
+        "end": 154,
+        "text": " I was like, whoa, whoa."
+      },
+      {
+        "id": 48,
+        "start": 155,
+        "end": 157,
+        "text": " So you can't get an auto."
+      },
+      {
+        "id": 49,
+        "start": 157,
+        "end": 158,
+        "text": " Okay."
+      },
+      {
+        "id": 50,
+        "start": 158,
+        "end": 159,
+        "text": " Good deal."
+      },
+      {
+        "id": 51,
+        "start": 159,
+        "end": 160,
+        "text": " All right."
+      },
+      {
+        "id": 52,
+        "start": 160,
+        "end": 161,
+        "text": " Well, that'll work."
+      },
+      {
+        "id": 53,
+        "start": 161,
+        "end": 165,
+        "text": " Well, I'll wait on that shipment and then I'll give you all a call."
+      },
+      {
+        "id": 54,
+        "start": 165,
+        "end": 166,
+        "text": " Okay."
+      },
+      {
+        "id": 55,
+        "start": 166,
+        "end": 167,
+        "text": " No problem."
+      },
+      {
+        "id": 56,
+        "start": 167,
+        "end": 168,
+        "text": " All right."
+      },
+      {
+        "id": 57,
+        "start": 168,
+        "end": 169,
+        "text": " Thank you."
+      },
+      {
+        "id": 58,
+        "start": 169,
+        "end": 170,
+        "text": " You're welcome."
+      },
+      {
+        "id": 59,
+        "start": 170,
+        "end": 171,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8148-bcc9-fccabd1412b4",
+    "url": "https://www.notion.so/300000001216900-300000001707330-2f611d0a101c8148bcc9fccabd1412b4"
+  },
+  "processedAt": "2026-01-28T13:40:22.563Z"
+}

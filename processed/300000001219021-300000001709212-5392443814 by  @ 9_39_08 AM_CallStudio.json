@@ -1,0 +1,79 @@
+{
+  "recording": {
+    "name": "300000001219021-300000001709212-5392443814 by  @ 9_39_08 AM_CallStudio.wav",
+    "size": 55896,
+    "modifyTime": 1769590030000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219021-300000001709212-5392443814 by  @ 9_39_08 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T08:47:10.000Z",
+    "callId": "300000001219021-300000001709212",
+    "phoneNumber": "5392443814",
+    "callTimestamp": "2026-01-28T08:47:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español Marque Número 9. We didn't receive a response or I couldn't—\n\nSpeaker 2: Hear your—\n\nSpeaker 1: Let's try again.\n\nSpeaker 2: Please state the reason for your call.\n\nSpeaker 1: I heard you say, cancel.\n\nSpeaker 2: Say yes or press 1 if this is correct.\n\nSpeaker 1: Otherwise, thanks, transferring to agent.",
+    "duration": 2063,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.28000020980835,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.28000020980835,
+        "end": 7.28000020980835,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.28000020980835,
+        "end": 18.600000381469727,
+        "text": " Para Español Marque Número 9 We didn't receive a response or I couldn't"
+      },
+      {
+        "id": 3,
+        "start": 18.600000381469727,
+        "end": 19.600000381469727,
+        "text": " hear your."
+      },
+      {
+        "id": 4,
+        "start": 19.600000381469727,
+        "end": 21.600000381469727,
+        "text": " Let's try again."
+      },
+      {
+        "id": 5,
+        "start": 21.600000381469727,
+        "end": 26.520000457763672,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 6,
+        "start": 26.520000457763672,
+        "end": 29,
+        "text": " I heard you say, cancel."
+      },
+      {
+        "id": 7,
+        "start": 29,
+        "end": 31.84000015258789,
+        "text": " Say yes or press 1 if this is correct."
+      },
+      {
+        "id": 8,
+        "start": 31.84000015258789,
+        "end": 33.959999084472656,
+        "text": " Otherwise, thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8156-9023-ff3dbd610f1b",
+    "url": "https://www.notion.so/300000001219021-300000001709212-2f611d0a101c81569023ff3dbd610f1b"
+  },
+  "processedAt": "2026-01-28T12:30:02.710Z"
+}

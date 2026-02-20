@@ -1,0 +1,218 @@
+{
+  "recording": {
+    "name": "300000001217132-300000001707548-4074958041 by josimar@superbalife.com @ 9_13_35 AM.wav",
+    "size": 221126,
+    "modifyTime": 1769592443000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217132-300000001707548-4074958041 by josimar@superbalife.com @ 9_13_35 AM.wav",
+    "uploadDate": "2026-01-28T09:27:23.000Z",
+    "callId": "300000001217132-300000001707548",
+    "agent": "josimar",
+    "phoneNumber": "4074958041",
+    "callTimestamp": "2026-01-28T09:13:35.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: ¿Es Primera Viagra? ¿Cómo le puedo ayudar?\n\nSpeaker 2: Sí, bueno, buenas tardes.\n\nSpeaker 1: Fue que yo las semanas, las hacen como dos, tres semanas atrás, o dos semanas atrás.\n\nSpeaker 2: Yo le compré a usted, le compré, pero lo que me...\n\nSpeaker 1: Yo compro 40, y lo que me enviaron fueron, me parece que fueron 10.\n\nSpeaker 2: ¿Yo puedo ver lo que usted compró acá? ¿Cuál es su apellido y código postal?\n\nSpeaker 1: Mi apellido es Frese, mi código postal es 32825.\n\nSpeaker 2: Ok, déjame ver acá.\n\nSpeaker 1: Usted compró 10 pastillas a 63 dólares.\n\nSpeaker 2: Antes compró un total de 163, pero esta vez cambió su orden a usted.\n\nSpeaker 1: No, yo no la cambié.\n\nSpeaker 2: Sí, porque no se cambia automático, por eso, señor.\n\nSpeaker 1: Oh, pues fue que yo entendí mal.\n\nSpeaker 2: Pero usted compró 10 a 63, y eso fue lo que recibió.\n\nSpeaker 1: Oh, pues yo puedo comprar 40.\n\nSpeaker 2: Sí, pero tiene que esperarse unas dos semanas antes de ordenar.\n\nSpeaker 1: ¿Cuánto ya va que yo ordené?\n\nSpeaker 2: No entiendo, ¿qué dijo?\n\nSpeaker 1: ¿Que cuánto va que yo ordené?\n\nSpeaker 2: El que usted ordenó, como le dije anteriormente, cuesta 63 dólares con 95 centavos.\n\nSpeaker 1: Sí, sí, pero ¿cuánto va que yo las ordené?\n\nSpeaker 2: Usted lo recibió recientemente, el 20.\n\nSpeaker 1: Sí, el 20 de enero lo recibió.\n\nSpeaker 2: Como le expliqué, dos semanas de esa fecha tiene que ordenar.\n\nSpeaker 1: Ok.\n\nSpeaker 2: La próxima semana.\n\nSpeaker 1: Tiene que llamar nomás y poner la orden.\n\nSpeaker 2: Ok, pues muchísimas gracias.\n\nSpeaker 1: No hay problema.\n\nSpeaker 2: Que tenga un buen día.\n\nSpeaker 1: Usted también.\n\nSpeaker 2: Bye.",
+    "duration": 5075,
+    "language": "spanish",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " ¿Es Primera Viagra? ¿Cómo le puedo ayudar?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Sí, bueno, buenas tardes."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 13,
+        "text": " Fue que yo las semanas, las hacen como dos, tres semanas atrás, o dos semanas atrás."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 19,
+        "text": " Yo le compré a usted, le compré, pero lo que me..."
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 26,
+        "text": " Yo compro 40, y lo que me enviaron fueron, me parece que fueron 10."
+      },
+      {
+        "id": 5,
+        "start": 26,
+        "end": 31,
+        "text": " ¿Yo puedo ver lo que usted compró acá? ¿Cuál es su apellido y código postal?"
+      },
+      {
+        "id": 6,
+        "start": 31,
+        "end": 39,
+        "text": " Mi apellido es Frese, mi código postal es 32825."
+      },
+      {
+        "id": 7,
+        "start": 39,
+        "end": 43,
+        "text": " Ok, déjame ver acá."
+      },
+      {
+        "id": 8,
+        "start": 43,
+        "end": 48,
+        "text": " Usted compró 10 pastillas a 63 dólares."
+      },
+      {
+        "id": 9,
+        "start": 48,
+        "end": 53,
+        "text": " Antes compró un total de 163, pero esta vez cambió su orden a usted."
+      },
+      {
+        "id": 10,
+        "start": 53,
+        "end": 55,
+        "text": " No, yo no la cambié."
+      },
+      {
+        "id": 11,
+        "start": 55,
+        "end": 59,
+        "text": " Sí, porque no se cambia automático, por eso, señor."
+      },
+      {
+        "id": 12,
+        "start": 59,
+        "end": 64,
+        "text": " Oh, pues fue que yo entendí mal."
+      },
+      {
+        "id": 13,
+        "start": 64,
+        "end": 70,
+        "text": " Pero usted compró 10 a 63, y eso fue lo que recibió."
+      },
+      {
+        "id": 14,
+        "start": 70,
+        "end": 75,
+        "text": " Oh, pues yo puedo comprar 40."
+      },
+      {
+        "id": 15,
+        "start": 75,
+        "end": 79,
+        "text": " Sí, pero tiene que esperarse unas dos semanas antes de ordenar."
+      },
+      {
+        "id": 16,
+        "start": 80,
+        "end": 85,
+        "text": " ¿Cuánto ya va que yo ordené?"
+      },
+      {
+        "id": 17,
+        "start": 85,
+        "end": 88,
+        "text": " No entiendo, ¿qué dijo?"
+      },
+      {
+        "id": 18,
+        "start": 88,
+        "end": 91,
+        "text": " ¿Que cuánto va que yo ordené?"
+      },
+      {
+        "id": 19,
+        "start": 91,
+        "end": 97,
+        "text": " El que usted ordenó, como le dije anteriormente, cuesta 63 dólares con 95 centavos."
+      },
+      {
+        "id": 20,
+        "start": 97,
+        "end": 102,
+        "text": " Sí, sí, pero ¿cuánto va que yo las ordené?"
+      },
+      {
+        "id": 21,
+        "start": 102,
+        "end": 108,
+        "text": " Usted lo recibió recientemente, el 20."
+      },
+      {
+        "id": 22,
+        "start": 109,
+        "end": 113,
+        "text": " Sí, el 20 de enero lo recibió."
+      },
+      {
+        "id": 23,
+        "start": 113,
+        "end": 116,
+        "text": " Como le expliqué, dos semanas de esa fecha tiene que ordenar."
+      },
+      {
+        "id": 24,
+        "start": 116,
+        "end": 117,
+        "text": " Ok."
+      },
+      {
+        "id": 25,
+        "start": 117,
+        "end": 119,
+        "text": " La próxima semana."
+      },
+      {
+        "id": 26,
+        "start": 119,
+        "end": 122,
+        "text": " Tiene que llamar nomás y poner la orden."
+      },
+      {
+        "id": 27,
+        "start": 122,
+        "end": 125,
+        "text": " Ok, pues muchísimas gracias."
+      },
+      {
+        "id": 28,
+        "start": 125,
+        "end": 126,
+        "text": " No hay problema."
+      },
+      {
+        "id": 29,
+        "start": 126,
+        "end": 127,
+        "text": " Que tenga un buen día."
+      },
+      {
+        "id": 30,
+        "start": 127,
+        "end": 128,
+        "text": " Usted también."
+      },
+      {
+        "id": 31,
+        "start": 128,
+        "end": 129,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813b-a0ef-c1d21e00842e",
+    "url": "https://www.notion.so/300000001217132-300000001707548-2f611d0a101c813ba0efc1d21e00842e"
+  },
+  "processedAt": "2026-01-28T10:27:15.603Z"
+}

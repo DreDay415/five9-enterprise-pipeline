@@ -1,0 +1,44 @@
+{
+  "recording": {
+    "name": "300000001218884-300000001709120-3238195591 by jimmy@superbalife.com @ 9_08_58 AM.wav",
+    "size": 9030,
+    "modifyTime": 1769584635000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218884-300000001709120-3238195591 by jimmy@superbalife.com @ 9_08_58 AM.wav",
+    "uploadDate": "2026-01-28T07:17:15.000Z",
+    "callId": "300000001218884-300000001709120",
+    "agent": "jimmy",
+    "phoneNumber": "3238195591",
+    "callTimestamp": "2026-01-28T09:08:58.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Call has been forwarded to voicemail.\n\nSpeaker 2: The person you're trying to reach is not available.\n\nSpeaker 1: At the tone, please.",
+    "duration": 833,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.0399999618530273,
+        "text": " Call has been forwarded to voicemail."
+      },
+      {
+        "id": 1,
+        "start": 2.0399999618530273,
+        "end": 4.320000171661377,
+        "text": " The person you're trying to reach is not available."
+      },
+      {
+        "id": 2,
+        "start": 4.320000171661377,
+        "end": 5.639999866485596,
+        "text": " At the tone, please."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8178-b986-d310774b183c",
+    "url": "https://www.notion.so/300000001218884-300000001709120-2f611d0a101c8178b986d310774b183c"
+  },
+  "processedAt": "2026-01-28T14:55:09.258Z"
+}

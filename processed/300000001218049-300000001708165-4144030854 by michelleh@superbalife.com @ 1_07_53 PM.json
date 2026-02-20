@@ -1,0 +1,44 @@
+{
+  "recording": {
+    "name": "300000001218049-300000001708165-4144030854 by michelleh@superbalife.com @ 1_07_53 PM.wav",
+    "size": 17740,
+    "modifyTime": 1769591833000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218049-300000001708165-4144030854 by michelleh@superbalife.com @ 1_07_53 PM.wav",
+    "uploadDate": "2026-01-28T09:17:13.000Z",
+    "callId": "300000001218049-300000001708165",
+    "agent": "michelleh",
+    "phoneNumber": "4144030854",
+    "callTimestamp": "2026-01-28T13:07:53.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you?\n\nSpeaker 2: Yeah, I'm gonna have to make a call.\n\nSpeaker 1: Okay, hold on one second.",
+    "duration": 1381,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 6,
+        "text": " Yeah, I'm gonna have to make a call."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 9,
+        "text": " Okay, hold on one second."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8156-9e29-cf9a89af2261",
+    "url": "https://www.notion.so/300000001218049-300000001708165-2f611d0a101c81569e29cf9a89af2261"
+  },
+  "processedAt": "2026-01-28T11:27:05.454Z"
+}

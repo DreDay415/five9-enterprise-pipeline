@@ -1,0 +1,212 @@
+{
+  "recording": {
+    "name": "300000001239551-300000001729191-8155465413 by olivier@superbalife.com @ 4_16_04 PM.wav",
+    "size": 234190,
+    "modifyTime": 1770855532000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239551-300000001729191-8155465413 by olivier@superbalife.com @ 4_16_04 PM.wav",
+    "uploadDate": "2026-02-12T00:18:52.000Z",
+    "callId": "300000001239551-300000001729191",
+    "agent": "olivier",
+    "phoneNumber": "8155465413",
+    "callTimestamp": "2026-02-12T16:16:04.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Diego.\n\nSpeaker 2: Hello Diego.\n\nSpeaker 1: How are we doing, sir? All right. I just got another—\n\nSpeaker 2: Order of—\n\nSpeaker 1: Sedona Phil.\n\nSpeaker 2: Today, and I got an order about a month ago, so I'd rather you didn't ship me any more—\n\nSpeaker 1: Medications until I call and ask for it.\n\nSpeaker 2: So I'm on there. Mr. William Barr, right?\n\nSpeaker 1: Correct. Yeah, I want to tell the pharmacy to stop the initial writing that I see here, which is 10 tablets every 30 days.\n\nSpeaker 2: So that being said, you're just gonna call to reorder as needed?\n\nSpeaker 1: They're gonna pause you, I think, up to half a year, and you can call, and if you just maintain to refill a year—\n\nSpeaker 2: You're always gonna get the price that you're getting right now. Only thing is we're gonna stop the monthly. Okay?\n\nSpeaker 1: Yeah, just stop the monthly for now. I'll call you when I need more.\n\nSpeaker 2: Okay, I'll do that for you.\n\nSpeaker 1: I'm gonna pause your prescription just to lock your price in as well, so you don't pay a higher price when you reorder.\n\nSpeaker 2: What do I pay for?\n\nSpeaker 1: $63.95.\n\nSpeaker 2: What's that?\n\nSpeaker 1: $63.95, so there's six bucks a piece, huh?\n\nSpeaker 2: Yeah, I mean the more you get is a little better. Usually you can get 25 pills, you know.\n\nSpeaker 1: You save a little more, but you know, it's based on the monthly budget that you can allow.\n\nSpeaker 2: Yeah, well I stopped the monthly right now, so you'd be good.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yeah, my girl and I are in our 70s. We don't—we're not that busy.\n\nSpeaker 1: I'm sorry, three times a week?\n\nSpeaker 2: Yeah, two to three. Yeah, that's pretty good.\n\nSpeaker 1: Well, for considering our age it is, you know.\n\nSpeaker 2: It wouldn't be good if we were in our 20s, but oh—\n\nSpeaker 1: Wow, but it's just seven days during the week. So that's at least half of the week. That's not bad.\n\nSpeaker 2: Well, thanks.\n\nSpeaker 1: Don't automatically send them to me because I don't—I don't consume them that fast.\n\nSpeaker 2: Yeah, everything will be paused for half a year, so you can reorder a monthly stop.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: You're welcome.",
+    "duration": 6620,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Diego"
+      },
+      {
+        "id": 1,
+        "start": 3.3399999141693115,
+        "end": 5.340000152587891,
+        "text": " Hello Diego"
+      },
+      {
+        "id": 2,
+        "start": 5.380000114440918,
+        "end": 8.9399995803833,
+        "text": " Are we doing sir? All right. I just got another"
+      },
+      {
+        "id": 3,
+        "start": 10.680000305175781,
+        "end": 12.479999542236328,
+        "text": " Order of"
+      },
+      {
+        "id": 4,
+        "start": 12.479999542236328,
+        "end": 14.479999542236328,
+        "text": " Sedona Phil"
+      },
+      {
+        "id": 5,
+        "start": 14.800000190734863,
+        "end": 20.719999313354492,
+        "text": " Today and I got an order about a month ago, so I'd rather you didn't ship me any more"
+      },
+      {
+        "id": 6,
+        "start": 22.360000610351562,
+        "end": 25.020000457763672,
+        "text": " Medications until I call and ask for it"
+      },
+      {
+        "id": 7,
+        "start": 26.200000762939453,
+        "end": 29.31999969482422,
+        "text": " So I'm on there. Mr. William Barr, right?"
+      },
+      {
+        "id": 8,
+        "start": 30.280000686645508,
+        "end": 37.2599983215332,
+        "text": " Correct. Yeah, I want to tell the pharmacy to stop the initial writing that I see here, which is 10 tablets every 30 days"
+      },
+      {
+        "id": 9,
+        "start": 37.2599983215332,
+        "end": 40.79999923706055,
+        "text": " So that being said you're just gonna call to reorder as needed"
+      },
+      {
+        "id": 10,
+        "start": 40.79999923706055,
+        "end": 46.959999084472656,
+        "text": " They're gonna pause you I think up to half a year and you can call and if you just maintain to refill a year"
+      },
+      {
+        "id": 11,
+        "start": 46.959999084472656,
+        "end": 52.119998931884766,
+        "text": " You're always gonna get the price that you're getting right now. Only thing is we're gonna stop the monthly. Okay?"
+      },
+      {
+        "id": 12,
+        "start": 52.880001068115234,
+        "end": 58.36000061035156,
+        "text": " Yeah, just stop the monthly for now. I'll call you when I need more. Okay, I'll do that for you"
+      },
+      {
+        "id": 13,
+        "start": 58.36000061035156,
+        "end": 63.63999938964844,
+        "text": " I'm gonna pause your prescription just to lock your price in as well. So you don't pay a higher price when you reorder"
+      },
+      {
+        "id": 14,
+        "start": 64.23999786376953,
+        "end": 66.23999786376953,
+        "text": " What do I pay for?"
+      },
+      {
+        "id": 15,
+        "start": 67.4800033569336,
+        "end": 69.31999969482422,
+        "text": " $63.95"
+      },
+      {
+        "id": 16,
+        "start": 69.31999969482422,
+        "end": 71.31999969482422,
+        "text": " What's that?"
+      },
+      {
+        "id": 17,
+        "start": 71.68000030517578,
+        "end": 75.41999816894531,
+        "text": " $63.95 so there's six bucks a piece, huh?"
+      },
+      {
+        "id": 18,
+        "start": 76.27999877929688,
+        "end": 82.80000305175781,
+        "text": " Yeah, I mean the more you get is a little better. Usually you can get 25 pills, you know"
+      },
+      {
+        "id": 19,
+        "start": 82.80000305175781,
+        "end": 86.80000305175781,
+        "text": " You save a little more but you know, it's based on the monthly budget that you can allow"
+      },
+      {
+        "id": 20,
+        "start": 87.80000305175781,
+        "end": 92.08000183105469,
+        "text": " Yeah, well I stopped the monthly right now, so you'd be good"
+      },
+      {
+        "id": 21,
+        "start": 92.91999816894531,
+        "end": 97.12000274658203,
+        "text": " Okay. Yeah, my girl and I on our 70s. We don't we're not that busy"
+      },
+      {
+        "id": 22,
+        "start": 104.95999908447266,
+        "end": 106.95999908447266,
+        "text": " I'm sorry three times a week"
+      },
+      {
+        "id": 23,
+        "start": 107.23999786376953,
+        "end": 110.16000366210938,
+        "text": " Yeah, two to three. Yeah, that's pretty good"
+      },
+      {
+        "id": 24,
+        "start": 111.08000183105469,
+        "end": 115.08000183105469,
+        "text": " Well for considering our age it is, you know, yeah"
+      },
+      {
+        "id": 25,
+        "start": 115.68000030517578,
+        "end": 119.16000366210938,
+        "text": " It wouldn't be good if I were if we were in our 20s, but oh"
+      },
+      {
+        "id": 26,
+        "start": 119.5199966430664,
+        "end": 124.4800033569336,
+        "text": " Wow, but it's just seven days during the week. So that's at least half of the week. That's not bad"
+      },
+      {
+        "id": 27,
+        "start": 126.5199966430664,
+        "end": 128.52000427246094,
+        "text": " Well, thanks"
+      },
+      {
+        "id": 28,
+        "start": 129.0399932861328,
+        "end": 133.55999755859375,
+        "text": " Don't automatically send them to me because I don't I don't consume them that fast"
+      },
+      {
+        "id": 29,
+        "start": 134.0399932861328,
+        "end": 138.55999755859375,
+        "text": " Yeah, everything will be paused for half a year so you can reorder a monthly stop. Okay"
+      },
+      {
+        "id": 30,
+        "start": 138.55999755859375,
+        "end": 141.32000732421875,
+        "text": " Okay, thank you, you're welcome"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-816b-98b6-ed845d55bd6c",
+    "url": "https://www.notion.so/300000001239551-300000001729191-30511d0a101c816b98b6ed845d55bd6c"
+  },
+  "processedAt": "2026-02-12T01:08:49.069Z"
+}

@@ -1,0 +1,242 @@
+{
+  "recording": {
+    "name": "300000001223327-300000001712805-9175440910 by kt@superbalife.com @ 3_20_04 PM.wav",
+    "size": 131686,
+    "modifyTime": 1769729201000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223327-300000001712805-9175440910 by kt@superbalife.com @ 3_20_04 PM.wav",
+    "uploadDate": "2026-01-29T23:26:41.000Z",
+    "callId": "300000001223327-300000001712805",
+    "agent": "kt",
+    "phoneNumber": "9175440910",
+    "callTimestamp": "2026-01-29T15:20:04.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey Louis, this is KT Goodrich from Pfizer Score Blue.\n\nSpeaker 2: I'm gonna use your telephone number, the 917,\n\nSpeaker 1: to pull up your account.\n\nSpeaker 2: Just bear with me as I look at your chart.\n\nSpeaker 1: I'm gonna have you verify some things\n\nSpeaker 2: so I can help you put a stop to this, all right bud?\n\nSpeaker 1: Louis?\n\nSpeaker 2: Louis?\n\nSpeaker 1: Yes.\n\nSpeaker 2: I'm gonna pull up your chart with your telephone number.\n\nSpeaker 1: I'm gonna read off what I see.\n\nSpeaker 2: Just correct me if I'm wrong\n\nSpeaker 1: so I can help you put a stop to this, all right bud?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Yeah, okay.\n\nSpeaker 2: Okay, so when I read this,\n\nSpeaker 1: hello, are you there Louis?\n\nSpeaker 2: Yes, yes.\n\nSpeaker 1: Yeah, okay.\n\nSpeaker 2: So when I read this Louis, I was looking at your chart\n\nSpeaker 1: and just correct me if I'm wrong\n\nSpeaker 2: so I can help you put a stop to this.\n\nSpeaker 1: You were working with Dr. Riley Green,\n\nSpeaker 2: one of our Pfizer doctors,\n\nSpeaker 1: and it looks like Dr. Riley sets you up as a VIP\n\nSpeaker 2: and he wrote a script for the FDA approved Pfizer Viagra,\n\nSpeaker 1: the white diamond pill that we make\n\nSpeaker 2: in our Pfizer labs in France.\n\nSpeaker 1: It's a one-way trademark.\n\nSpeaker 2: I do see that Dr. Green has ordered the pharmacy\n\nSpeaker 1: to send you resources on a monthly.\n\nSpeaker 2: You want me to put a stop to that\n\nSpeaker 1: so you can get it on your own?\n\nSpeaker 2: Yes, please.\n\nSpeaker 1: Okay, one moment.\n\nSpeaker 2: Hold your line, one moment bud.",
+    "duration": 3708,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.2799999713897705,
+        "text": " Hey Louis, this is KT Goodrich from Pfizer Score Blue."
+      },
+      {
+        "id": 1,
+        "start": 3.2799999713897705,
+        "end": 5.559999942779541,
+        "text": " I'm gonna use your telephone number, the 917,"
+      },
+      {
+        "id": 2,
+        "start": 5.559999942779541,
+        "end": 7.119999885559082,
+        "text": " to pull up your account."
+      },
+      {
+        "id": 3,
+        "start": 7.119999885559082,
+        "end": 9.079999923706055,
+        "text": " Just bear with me as I look at your chart."
+      },
+      {
+        "id": 4,
+        "start": 9.079999923706055,
+        "end": 11.039999961853027,
+        "text": " I'm gonna have you verify some things"
+      },
+      {
+        "id": 5,
+        "start": 11.039999961853027,
+        "end": 13.680000305175781,
+        "text": " so I can help you put a stop to this, all right bud?"
+      },
+      {
+        "id": 6,
+        "start": 16.6200008392334,
+        "end": 17.459999084472656,
+        "text": " Louis?"
+      },
+      {
+        "id": 7,
+        "start": 18.760000228881836,
+        "end": 20.1200008392334,
+        "text": " Louis?"
+      },
+      {
+        "id": 8,
+        "start": 20.1200008392334,
+        "end": 21.360000610351562,
+        "text": " Yes."
+      },
+      {
+        "id": 9,
+        "start": 21.360000610351562,
+        "end": 24.15999984741211,
+        "text": " I'm gonna pull up your chart with your telephone number."
+      },
+      {
+        "id": 10,
+        "start": 24.15999984741211,
+        "end": 26.200000762939453,
+        "text": " I'm gonna read off what I see."
+      },
+      {
+        "id": 11,
+        "start": 26.200000762939453,
+        "end": 27.799999237060547,
+        "text": " Just correct me if I'm wrong"
+      },
+      {
+        "id": 12,
+        "start": 27.799999237060547,
+        "end": 30.360000610351562,
+        "text": " so I can help you put a stop to this, all right bud?"
+      },
+      {
+        "id": 13,
+        "start": 34.7599983215332,
+        "end": 35.91999816894531,
+        "text": " Hello?"
+      },
+      {
+        "id": 14,
+        "start": 35.91999816894531,
+        "end": 36.7599983215332,
+        "text": " Yeah, okay."
+      },
+      {
+        "id": 15,
+        "start": 38.15999984741211,
+        "end": 39.880001068115234,
+        "text": " Okay, so when I read this,"
+      },
+      {
+        "id": 16,
+        "start": 39.880001068115234,
+        "end": 42,
+        "text": " hello, are you there Louis?"
+      },
+      {
+        "id": 17,
+        "start": 42,
+        "end": 43.400001525878906,
+        "text": " Yes, yes."
+      },
+      {
+        "id": 18,
+        "start": 43.400001525878906,
+        "end": 44.2400016784668,
+        "text": " Yeah, okay."
+      },
+      {
+        "id": 19,
+        "start": 44.2400016784668,
+        "end": 47.20000076293945,
+        "text": " So when I read this Louis, I was looking at your chart"
+      },
+      {
+        "id": 20,
+        "start": 47.20000076293945,
+        "end": 48.52000045776367,
+        "text": " and just correct me if I'm wrong"
+      },
+      {
+        "id": 21,
+        "start": 48.52000045776367,
+        "end": 50.91999816894531,
+        "text": " so I can help you put a stop to this."
+      },
+      {
+        "id": 22,
+        "start": 50.91999816894531,
+        "end": 53.02000045776367,
+        "text": " You were working with Dr. Riley Green,"
+      },
+      {
+        "id": 23,
+        "start": 53.02000045776367,
+        "end": 54.31999969482422,
+        "text": " one of our Pfizer doctors,"
+      },
+      {
+        "id": 24,
+        "start": 54.31999969482422,
+        "end": 58.560001373291016,
+        "text": " and it looks like Dr. Riley sets you up as a VIP"
+      },
+      {
+        "id": 25,
+        "start": 58.560001373291016,
+        "end": 62.2400016784668,
+        "text": " and he wrote a script for the FDA approved Pfizer Viagra,"
+      },
+      {
+        "id": 26,
+        "start": 62.2400016784668,
+        "end": 63.79999923706055,
+        "text": " the white diamond pill that we make"
+      },
+      {
+        "id": 27,
+        "start": 63.79999923706055,
+        "end": 65.87999725341797,
+        "text": " in our Pfizer labs in France."
+      },
+      {
+        "id": 28,
+        "start": 65.87999725341797,
+        "end": 67.76000213623047,
+        "text": " It's a one-way trademark."
+      },
+      {
+        "id": 29,
+        "start": 67.76000213623047,
+        "end": 72.68000030517578,
+        "text": " I do see that Dr. Green has ordered the pharmacy"
+      },
+      {
+        "id": 30,
+        "start": 72.68000030517578,
+        "end": 74.12000274658203,
+        "text": " to send you resources on a monthly."
+      },
+      {
+        "id": 31,
+        "start": 74.12000274658203,
+        "end": 75.36000061035156,
+        "text": " You want me to put a stop to that"
+      },
+      {
+        "id": 32,
+        "start": 75.36000061035156,
+        "end": 77.44000244140625,
+        "text": " so you can get it on your own?"
+      },
+      {
+        "id": 33,
+        "start": 77.44000244140625,
+        "end": 78.4000015258789,
+        "text": " Yes, please."
+      },
+      {
+        "id": 34,
+        "start": 78.4000015258789,
+        "end": 79.5999984741211,
+        "text": " Okay, one moment."
+      },
+      {
+        "id": 35,
+        "start": 79.5999984741211,
+        "end": 81.16000366210938,
+        "text": " Hold your line, one moment bud."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8118-806e-d5d4541a4d14",
+    "url": "https://www.notion.so/300000001223327-300000001712805-2f711d0a101c8118806ed5d4541a4d14"
+  },
+  "processedAt": "2026-01-29T23:29:11.886Z"
+}

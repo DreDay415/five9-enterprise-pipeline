@@ -1,0 +1,188 @@
+{
+  "recording": {
+    "name": "300000001216608-300000001705977-7158922045 by olivier@superbalife.com @ 2_57_17 PM.wav",
+    "size": 111146,
+    "modifyTime": 1769590639000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216608-300000001705977-7158922045 by olivier@superbalife.com @ 2_57_17 PM.wav",
+    "uploadDate": "2026-01-28T08:57:19.000Z",
+    "callId": "300000001216608-300000001705977",
+    "agent": "olivier",
+    "phoneNumber": "7158922045",
+    "callTimestamp": "2026-01-28T14:57:17.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Hi, this is Dave Duncan.\n\nSpeaker 1: I'm still on the call here to cancel my prescription.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, Mr. Duncan, in Tomahawk?\n\nSpeaker 2: What's that?\n\nSpeaker 1: Are you in Tomahawk?\n\nSpeaker 2: I'm in Tomahawk.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, Mr. Duncan.\n\nSpeaker 2: Yeah, I see that Dr. Denver enrolled your prescription for Viagra 50 milligrams, 10 tablets every 30 days.\n\nSpeaker 1: I want nothing.\n\nSpeaker 2: I want it canceled.\n\nSpeaker 1: I don't want any more tablets sent to me.\n\nSpeaker 2: Done.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: I'm canceling the doctor consultation and the VIP account.\n\nSpeaker 1: If anything changes, if you reorder, please be advised of price change if the company takes your order.\n\nSpeaker 2: You're all set, okay?\n\nSpeaker 1: You have a good one.\n\nSpeaker 2: Thank you.",
+    "duration": 3989,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 4,
+        "text": " Hi, this is Dave Duncan."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 9,
+        "text": " I'm still on the call here to cancel my prescription."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 18,
+        "text": " Okay."
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 22,
+        "text": " All right, Mr. Duncan in Tomahawk?"
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 24,
+        "text": " What's that?"
+      },
+      {
+        "id": 6,
+        "start": 24,
+        "end": 27,
+        "text": " Are you in Tomahawk?"
+      },
+      {
+        "id": 7,
+        "start": 27,
+        "end": 28,
+        "text": " I'm in Tomahawk."
+      },
+      {
+        "id": 8,
+        "start": 28,
+        "end": 29,
+        "text": " Okay."
+      },
+      {
+        "id": 9,
+        "start": 29,
+        "end": 30,
+        "text": " Okay."
+      },
+      {
+        "id": 10,
+        "start": 30,
+        "end": 31,
+        "text": " All right, Mr. Duncan."
+      },
+      {
+        "id": 11,
+        "start": 31,
+        "end": 35,
+        "text": " Yeah, I see that Dr. Denver enrolled your prescription for Viagra 50 milligrams, 10"
+      },
+      {
+        "id": 12,
+        "start": 35,
+        "end": 37,
+        "text": " tablets every 30 days."
+      },
+      {
+        "id": 13,
+        "start": 37,
+        "end": 44,
+        "text": " Do you just only do those tablets every 30 days, or there is any health concern?"
+      },
+      {
+        "id": 14,
+        "start": 44,
+        "end": 45,
+        "text": " I want nothing."
+      },
+      {
+        "id": 15,
+        "start": 45,
+        "end": 46,
+        "text": " I want it canceled."
+      },
+      {
+        "id": 16,
+        "start": 46,
+        "end": 48,
+        "text": " I don't want any more tablets sent to me."
+      },
+      {
+        "id": 17,
+        "start": 48,
+        "end": 50,
+        "text": " Done."
+      },
+      {
+        "id": 18,
+        "start": 50,
+        "end": 51,
+        "text": " Okay."
+      },
+      {
+        "id": 19,
+        "start": 51,
+        "end": 52,
+        "text": " All right."
+      },
+      {
+        "id": 20,
+        "start": 52,
+        "end": 53,
+        "text": " Thank you."
+      },
+      {
+        "id": 21,
+        "start": 54,
+        "end": 58,
+        "text": " I'm canceling the doctor consultation and the VIP account."
+      },
+      {
+        "id": 22,
+        "start": 58,
+        "end": 63,
+        "text": " If anything changes, if you reorder, please be advised of price change if the company"
+      },
+      {
+        "id": 23,
+        "start": 63,
+        "end": 64,
+        "text": " takes your order."
+      },
+      {
+        "id": 24,
+        "start": 64,
+        "end": 66,
+        "text": " You're all set, okay?"
+      },
+      {
+        "id": 25,
+        "start": 66,
+        "end": 67,
+        "text": " You have a good one."
+      },
+      {
+        "id": 26,
+        "start": 67,
+        "end": 68,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8103-8084-f7828e1140a0",
+    "url": "https://www.notion.so/300000001216608-300000001705977-2f611d0a101c81038084f7828e1140a0"
+  },
+  "processedAt": "2026-01-28T12:06:59.500Z"
+}

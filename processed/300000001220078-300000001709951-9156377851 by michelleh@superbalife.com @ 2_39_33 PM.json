@@ -1,0 +1,224 @@
+{
+  "recording": {
+    "name": "300000001220078-300000001709951-9156377851 by michelleh@superbalife.com @ 2_39_33 PM.wav",
+    "size": 138640,
+    "modifyTime": 1769553680000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220078-300000001709951-9156377851 by michelleh@superbalife.com @ 2_39_33 PM.wav",
+    "uploadDate": "2026-01-27T22:41:20.000Z",
+    "callId": "300000001220078-300000001709951",
+    "agent": "michelleh",
+    "phoneNumber": "9156377851",
+    "callTimestamp": "2026-01-27T14:39:33.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra.\n\nSpeaker 2: How can I help you?\n\nSpeaker 1: Yes, I was wondering if you can track what my order is.\n\nSpeaker 2: Sure. Angel, I can help you out.\n\nSpeaker 1: Can you just confirm your date of birth?\n\nSpeaker 2: Three nine of the year 60.\n\nSpeaker 1: Thank you very much.\n\nSpeaker 2: It's your VIP status customer.\n\nSpeaker 1: And it was delivered on January 24th at 3:33 p.m. in your mailbox.\n\nSpeaker 2: January 24th.\n\nSpeaker 1: I don't think I got it.\n\nSpeaker 2: I'll check in and I'm out of time right now.\n\nSpeaker 1: And I was there.\n\nSpeaker 2: I didn't see nothing there.\n\nSpeaker 1: But I'll check in.\n\nSpeaker 2: January 24th was Saturday.\n\nSpeaker 1: Saturday. And today's what, Monday?\n\nSpeaker 2: Tuesday. Today's Tuesday.\n\nSpeaker 1: Tuesday. Oh, I didn't receive anything.\n\nSpeaker 2: No, I'll check on it.\n\nSpeaker 1: I don't know if I went to the mailbox, but I'll check on it.\n\nSpeaker 2: And if I didn't receive it, what happened?\n\nSpeaker 1: Yeah, the address it went to was, if you didn't receive it, then we could figure that out.\n\nSpeaker 2: But the address is 11614 Great Spirit Circle, El Paso, Texas.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Yeah. Yeah.\n\nSpeaker 1: So just check for it and then give us a call back.\n\nSpeaker 2: Okay. I'll check on it.\n\nSpeaker 1: Thank you very much.\n\nSpeaker 2: No problem.\n\nSpeaker 1: Have a good day.\n\nSpeaker 2: You too. Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 5291,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.240000009536743,
+        "text": " Thank you for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3.240000009536743,
+        "end": 3.940000057220459,
+        "text": " How can I help you?"
+      },
+      {
+        "id": 2,
+        "start": 5.159999847412109,
+        "end": 13.5,
+        "text": " Yes, I was wondering if you can track what my order is."
+      },
+      {
+        "id": 3,
+        "start": 14.380000114440918,
+        "end": 16.399999618530273,
+        "text": " Sure. Angel, I can help you out."
+      },
+      {
+        "id": 4,
+        "start": 16.399999618530273,
+        "end": 17.639999389648438,
+        "text": " Can you just confirm your date of birth?"
+      },
+      {
+        "id": 5,
+        "start": 18.81999969482422,
+        "end": 20.719999313354492,
+        "text": " Three nine of the year 60."
+      },
+      {
+        "id": 6,
+        "start": 22.079999923706055,
+        "end": 23.139999389648438,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 7,
+        "start": 23.139999389648438,
+        "end": 24.920000076293945,
+        "text": " It's your VIP status customer."
+      },
+      {
+        "id": 8,
+        "start": 24.920000076293945,
+        "end": 31.079999923706055,
+        "text": " And it was delivered on January 24th at 333 p.m. in your mailbox."
+      },
+      {
+        "id": 9,
+        "start": 31.079999923706055,
+        "end": 33.959999084472656,
+        "text": " January 24th."
+      },
+      {
+        "id": 10,
+        "start": 33.959999084472656,
+        "end": 37.36000061035156,
+        "text": " I don't think I got it."
+      },
+      {
+        "id": 11,
+        "start": 37.36000061035156,
+        "end": 39.599998474121094,
+        "text": " I'll check in and I'm out of time right now."
+      },
+      {
+        "id": 12,
+        "start": 39.599998474121094,
+        "end": 41.959999084472656,
+        "text": " And I was there."
+      },
+      {
+        "id": 13,
+        "start": 41.959999084472656,
+        "end": 43.91999816894531,
+        "text": " I didn't see nothing there."
+      },
+      {
+        "id": 14,
+        "start": 43.91999816894531,
+        "end": 45.08000183105469,
+        "text": " But I'll check in."
+      },
+      {
+        "id": 15,
+        "start": 45.08000183105469,
+        "end": 47,
+        "text": " January 24th was Saturday."
+      },
+      {
+        "id": 16,
+        "start": 47,
+        "end": 50.959999084472656,
+        "text": " Saturday. And today's what, Monday?"
+      },
+      {
+        "id": 17,
+        "start": 50.959999084472656,
+        "end": 53.63999938964844,
+        "text": " Tuesday. Today's Tuesday."
+      },
+      {
+        "id": 18,
+        "start": 53.959999084472656,
+        "end": 57.560001373291016,
+        "text": " Tuesday. Oh, I didn't receive anything."
+      },
+      {
+        "id": 19,
+        "start": 57.560001373291016,
+        "end": 59.08000183105469,
+        "text": " No, I'll check on it."
+      },
+      {
+        "id": 20,
+        "start": 59.08000183105469,
+        "end": 62.20000076293945,
+        "text": " I don't know if I went to the mailbox, but I'll check on it."
+      },
+      {
+        "id": 21,
+        "start": 62.20000076293945,
+        "end": 63.7599983215332,
+        "text": " And if I didn't receive it, what happened?"
+      },
+      {
+        "id": 22,
+        "start": 63.7599983215332,
+        "end": 66.95999908447266,
+        "text": " Yeah, the address it went to was, if you didn't receive it, then we could figure that out."
+      },
+      {
+        "id": 23,
+        "start": 66.95999908447266,
+        "end": 72.12000274658203,
+        "text": " But the address is 11614 Great Spirit Circle, El Paso, Texas."
+      },
+      {
+        "id": 24,
+        "start": 72.12000274658203,
+        "end": 73.08000183105469,
+        "text": " Yes."
+      },
+      {
+        "id": 25,
+        "start": 73.08000183105469,
+        "end": 74.19999694824219,
+        "text": " Yeah. Yeah."
+      },
+      {
+        "id": 26,
+        "start": 74.19999694824219,
+        "end": 76.76000213623047,
+        "text": " So just check for it and then give us a call back."
+      },
+      {
+        "id": 27,
+        "start": 77.76000213623047,
+        "end": 79.12000274658203,
+        "text": " Okay. I'll check on it."
+      },
+      {
+        "id": 28,
+        "start": 79.12000274658203,
+        "end": 80.27999877929688,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 29,
+        "start": 80.27999877929688,
+        "end": 80.83999633789062,
+        "text": " No problem."
+      },
+      {
+        "id": 30,
+        "start": 80.83999633789062,
+        "end": 82.19999694824219,
+        "text": " Have a good day."
+      },
+      {
+        "id": 31,
+        "start": 82.19999694824219,
+        "end": 83.04000091552734,
+        "text": " You too. Bye-bye."
+      },
+      {
+        "id": 32,
+        "start": 83.63999938964844,
+        "end": 84.63999938964844,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-81fa-9bfd-eb303f00f794",
+    "url": "https://www.notion.so/300000001220078-300000001709951-2f511d0a101c81fa9bfdeb303f00f794"
+  },
+  "processedAt": "2026-01-27T22:58:47.376Z"
+}

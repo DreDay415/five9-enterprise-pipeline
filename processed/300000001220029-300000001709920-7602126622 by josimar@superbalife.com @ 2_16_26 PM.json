@@ -1,0 +1,146 @@
+{
+  "recording": {
+    "name": "300000001220029-300000001709920-7602126622 by josimar@superbalife.com @ 2_16_26 PM.wav",
+    "size": 102500,
+    "modifyTime": 1769552278000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220029-300000001709920-7602126622 by josimar@superbalife.com @ 2_16_26 PM.wav",
+    "uploadDate": "2026-01-27T22:17:58.000Z",
+    "callId": "300000001220029-300000001709920",
+    "agent": "josimar",
+    "phoneNumber": "7602126622",
+    "callTimestamp": "2026-01-27T14:16:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, can I help you today?\n\nSpeaker 2: Yes, I'd like to get a refill, if I could.\n\nSpeaker 1: Yeah, of course. What's your last name and a zip code?\n\nSpeaker 2: Ford, F-O-R-D, and it's 92054.\n\nSpeaker 1: Okay, and you've been getting 30 pills of Cialis, 20 milligrams for $58.95.\n\nSpeaker 2: Were you looking to refill?\n\nSpeaker 1: No, actually, it actually looks like there was a refill that already occurred, sir.\n\nSpeaker 2: It happened on the 25th of January.\n\nSpeaker 1: It shipped out and it should arrive to your location in three to four business days for $58.95, 30 pills.\n\nSpeaker 2: Oh, really? Okay.\n\nSpeaker 1: You know, I saw that, but I don't remember doing it.\n\nSpeaker 2: Am I on automatic?\n\nSpeaker 1: Yeah, that's the only way you could save that discounted rate,\n\nSpeaker 2: because typically that would be $263, but no, $218.\n\nSpeaker 1: You have it at a discounted rate.\n\nSpeaker 2: Okay, I appreciate it, and that's fine. That's all good.\n\nSpeaker 1: No problem. Hope you have a good one.\n\nSpeaker 2: And you too.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye.",
+    "duration": 2311,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Viagra, can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5,
+        "text": " Yes, I'd like to get a refill, if I could."
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 8,
+        "text": " Yeah, of course. What's your last name and a zip code?"
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 13,
+        "text": " Ford, F-O-R-D, and it's 92054."
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 25,
+        "text": " Okay, and you've been getting 30 pills of Cialis, 20 milligrams for $58.95."
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 26,
+        "text": " Were you looking to refill?"
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 31,
+        "text": " No, actually, it actually looks like there was a refill that already occurred, sir."
+      },
+      {
+        "id": 7,
+        "start": 31,
+        "end": 33,
+        "text": " It happened on the 25th of January."
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 39,
+        "text": " It shipped out and it should arrive to your location in three to four business days for $58.95, 30 pills."
+      },
+      {
+        "id": 9,
+        "start": 39,
+        "end": 41,
+        "text": " Oh, really? Okay."
+      },
+      {
+        "id": 10,
+        "start": 41,
+        "end": 43,
+        "text": " You know, I saw that, but I don't remember doing it."
+      },
+      {
+        "id": 11,
+        "start": 43,
+        "end": 45,
+        "text": " Am I on automatic?"
+      },
+      {
+        "id": 12,
+        "start": 45,
+        "end": 47,
+        "text": " Yeah, that's the only way you could save that discounted rate,"
+      },
+      {
+        "id": 13,
+        "start": 47,
+        "end": 52,
+        "text": " because typically that would be $263, but no, $218."
+      },
+      {
+        "id": 14,
+        "start": 52,
+        "end": 54,
+        "text": " You have it at a discounted rate."
+      },
+      {
+        "id": 15,
+        "start": 54,
+        "end": 57,
+        "text": " Okay, I appreciate it, and that's fine. That's all good."
+      },
+      {
+        "id": 16,
+        "start": 57,
+        "end": 59,
+        "text": " No problem. Hope you have a good one."
+      },
+      {
+        "id": 17,
+        "start": 59,
+        "end": 60,
+        "text": " And you too."
+      },
+      {
+        "id": 18,
+        "start": 60,
+        "end": 61,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 19,
+        "start": 61,
+        "end": 62,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8127-9d59-f219e5236816",
+    "url": "https://www.notion.so/300000001220029-300000001709920-2f511d0a101c81279d59f219e5236816"
+  },
+  "processedAt": "2026-01-27T23:04:49.386Z"
+}

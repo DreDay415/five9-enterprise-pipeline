@@ -1,0 +1,104 @@
+{
+  "recording": {
+    "name": "300000001216486-300000001705896-3867476380 by olivier@superbalife.com @ 2_16_22 PM.wav",
+    "size": 47640,
+    "modifyTime": 1769587932000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216486-300000001705896-3867476380 by olivier@superbalife.com @ 2_16_22 PM.wav",
+    "uploadDate": "2026-01-28T08:12:12.000Z",
+    "callId": "300000001216486-300000001705896",
+    "agent": "olivier",
+    "phoneNumber": "3867476380",
+    "callTimestamp": "2026-01-28T14:16:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: All right, Mr. Crumpler.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: The pharmacy is going to post a prescription to keep it alive for half a year so you don't get monthly moving forward and call to reorder or log into your account and press the quick refill button, okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: You are set.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: You have a good one.\n\nSpeaker 1: You too.\n\nSpeaker 2: All right.",
+    "duration": 2311,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " All right, Mr. Crumpler."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 4,
+        "text": " Yeah."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 9.4399995803833,
+        "text": " Yeah, the pharmacy is going to post a prescription to keep it alive for half a year so you don't"
+      },
+      {
+        "id": 3,
+        "start": 9.4399995803833,
+        "end": 13.600000381469727,
+        "text": " get monthly moving forward and call to reorder or log into your account and press the quick"
+      },
+      {
+        "id": 4,
+        "start": 13.600000381469727,
+        "end": 15.600000381469727,
+        "text": " refill button, okay?"
+      },
+      {
+        "id": 5,
+        "start": 15.600000381469727,
+        "end": 16.600000381469727,
+        "text": " Okay."
+      },
+      {
+        "id": 6,
+        "start": 16.600000381469727,
+        "end": 17.600000381469727,
+        "text": " You are set."
+      },
+      {
+        "id": 7,
+        "start": 17.600000381469727,
+        "end": 18.600000381469727,
+        "text": " All right."
+      },
+      {
+        "id": 8,
+        "start": 18.600000381469727,
+        "end": 19.600000381469727,
+        "text": " Thank you."
+      },
+      {
+        "id": 9,
+        "start": 19.600000381469727,
+        "end": 20.600000381469727,
+        "text": " You have a good one."
+      },
+      {
+        "id": 10,
+        "start": 20.600000381469727,
+        "end": 21.600000381469727,
+        "text": " You too."
+      },
+      {
+        "id": 11,
+        "start": 21.600000381469727,
+        "end": 22.600000381469727,
+        "text": " All right."
+      },
+      {
+        "id": 12,
+        "start": 22.600000381469727,
+        "end": 22.600000381469727,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81af-8105-de7a29306c9e",
+    "url": "https://www.notion.so/300000001216486-300000001705896-2f611d0a101c81af8105de7a29306c9e"
+  },
+  "processedAt": "2026-01-28T13:13:04.540Z"
+}

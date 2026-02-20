@@ -1,0 +1,362 @@
+{
+  "recording": {
+    "name": "300000001217019-300000001707459-4407258686 by michelleh@superbalife.com @ 8_51_13 AM.wav",
+    "size": 269550,
+    "modifyTime": 1769586131000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217019-300000001707459-4407258686 by michelleh@superbalife.com @ 8_51_13 AM.wav",
+    "uploadDate": "2026-01-28T07:42:11.000Z",
+    "callId": "300000001217019-300000001707459",
+    "agent": "michelleh",
+    "phoneNumber": "4407258686",
+    "callTimestamp": "2026-01-28T08:51:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Yes, ma'am. I had purchased some...\n\nSpeaker 1: Viagra?\n\nSpeaker 2: Yeah, online.\n\nSpeaker 1: Uh-huh.\n\nSpeaker 2: And didn't realize it was a subscription.\n\nSpeaker 1: I want to cancel the subscription.\n\nSpeaker 2: No problem, Clifford. I can help you out.\n\nSpeaker 1: Can you just confirm your date of birth?\n\nSpeaker 2: 18-19-53.\n\nSpeaker 1: Thank you so much. I see you're a VIP status customer.\n\nSpeaker 2: Oh, I see the doctor put you on monthly refills, which you're not required to have.\n\nSpeaker 1: How's the medication working out for you?\n\nSpeaker 2: It's not.\n\nSpeaker 1: Okay, that's what I was asking. Do you happen to have the pills on you by chance?\n\nSpeaker 2: No, I don't.\n\nSpeaker 1: Okay, because here I see the pharmacy notes.\n\nSpeaker 2: It looks like they just sent you the regular generic Viagra.\n\nSpeaker 1: You did not receive the AGV?\n\nSpeaker 2: That's correct.\n\nSpeaker 1: Yeah, give me a second. I'm going to get you out a replacement.\n\nSpeaker 2: The pharmacy must have ran out of the AGV, and they didn't tell us.\n\nSpeaker 1: No, that's okay.\n\nSpeaker 2: Well, I can get you out the correct medication as a replacement free of charge,\n\nSpeaker 1: because you received the incorrect medication in the first place.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, give me one second.\n\nSpeaker 2: Give me a second, and then I'll tell you how you can confirm you received the correct medication.\n\nSpeaker 1: I'm just going to switch it to 100 milligrams as well.\n\nSpeaker 2: All right, perfect.\n\nSpeaker 1: Okay, so when you get this new bottle in the mail in a few days, it's going to say AGV on the bottle,\n\nSpeaker 2: but it's also going to say the name Greenstone.\n\nSpeaker 1: And Greenstone is the name of Pfizer's pharmacy in France.\n\nSpeaker 2: And then on the pill, the only number imprinted is going to be the number 100.\n\nSpeaker 1: And those are the two ways you can confirm you received the Pfizer AGV Viagra,\n\nSpeaker 2: because right now your bottles probably say APCO, and on the pill it says AC something.\n\nSpeaker 1: And then what I'm going to do, I'm going to go ahead and pause your refills for six months.\n\nSpeaker 2: I'm going to pause it until July 31st.\n\nSpeaker 1: That way, if I cancel it now, it's going to delete your profile,\n\nSpeaker 2: and the pharmacy will not be able to send you out the correct replacement.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I'll give you my extension so you can call me back and let me know how the AGV works out for you.\n\nSpeaker 1: Hang on a second.\n\nSpeaker 2: No problem.\n\nSpeaker 1: Take your time.\n\nSpeaker 2: Go ahead.\n\nSpeaker 1: Okay.\n\nSpeaker 2: It's 0020, and my name is Michelle.\n\nSpeaker 1: Michelle, thank you very much.\n\nSpeaker 2: No problem, Clifford.\n\nSpeaker 1: Have a great day.\n\nSpeaker 2: You too.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Thanks.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Bye.",
+    "duration": 5864,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 9,
+        "text": " Yes, ma'am. I had purchased some..."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 11,
+        "text": " Viagra?"
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 12,
+        "text": " Yeah, online."
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 13,
+        "text": " Uh-huh."
+      },
+      {
+        "id": 5,
+        "start": 13,
+        "end": 16,
+        "text": " And didn't realize it was a subscription."
+      },
+      {
+        "id": 6,
+        "start": 16,
+        "end": 18,
+        "text": " I want to cancel the subscription."
+      },
+      {
+        "id": 7,
+        "start": 18,
+        "end": 20,
+        "text": " No problem, Clifford. I can help you out."
+      },
+      {
+        "id": 8,
+        "start": 20,
+        "end": 23,
+        "text": " Can you just confirm your date of birth?"
+      },
+      {
+        "id": 9,
+        "start": 23,
+        "end": 25,
+        "text": " 18-19-53."
+      },
+      {
+        "id": 10,
+        "start": 25,
+        "end": 28,
+        "text": " Thank you so much. I see you're a VIP status customer."
+      },
+      {
+        "id": 11,
+        "start": 28,
+        "end": 32,
+        "text": " Oh, I see the doctor put you on monthly refills, which you're not required to have."
+      },
+      {
+        "id": 12,
+        "start": 32,
+        "end": 34,
+        "text": " How's the medication working out for you?"
+      },
+      {
+        "id": 13,
+        "start": 34,
+        "end": 36,
+        "text": " It's not."
+      },
+      {
+        "id": 14,
+        "start": 36,
+        "end": 40,
+        "text": " Okay, that's what I was asking. Do you happen to have the pills on you by chance?"
+      },
+      {
+        "id": 15,
+        "start": 40,
+        "end": 42,
+        "text": " No, I don't."
+      },
+      {
+        "id": 16,
+        "start": 42,
+        "end": 44,
+        "text": " Okay, because here I see the pharmacy notes."
+      },
+      {
+        "id": 17,
+        "start": 44,
+        "end": 47,
+        "text": " It looks like they just sent you the regular generic Viagra."
+      },
+      {
+        "id": 18,
+        "start": 47,
+        "end": 50,
+        "text": " You did not receive the AGV?"
+      },
+      {
+        "id": 19,
+        "start": 50,
+        "end": 51,
+        "text": " That's correct."
+      },
+      {
+        "id": 20,
+        "start": 51,
+        "end": 55,
+        "text": " Yeah, give me a second. I'm going to get you out a replacement."
+      },
+      {
+        "id": 21,
+        "start": 55,
+        "end": 59,
+        "text": " The pharmacy must have ran out of the AGV, and they didn't tell us."
+      },
+      {
+        "id": 22,
+        "start": 59,
+        "end": 61,
+        "text": " No, that's okay."
+      },
+      {
+        "id": 23,
+        "start": 61,
+        "end": 66,
+        "text": " Well, I can get you out the correct medication as a replacement free of charge,"
+      },
+      {
+        "id": 24,
+        "start": 66,
+        "end": 69,
+        "text": " because you received the incorrect medication in the first place."
+      },
+      {
+        "id": 25,
+        "start": 69,
+        "end": 70,
+        "text": " Okay."
+      },
+      {
+        "id": 26,
+        "start": 70,
+        "end": 73,
+        "text": " Okay, give me one second."
+      },
+      {
+        "id": 27,
+        "start": 73,
+        "end": 77,
+        "text": " Give me a second, and then I'll tell you how you can confirm you received the correct medication."
+      },
+      {
+        "id": 28,
+        "start": 77,
+        "end": 80,
+        "text": " I'm just going to switch it to 100 milligrams as well."
+      },
+      {
+        "id": 29,
+        "start": 85,
+        "end": 94,
+        "text": " All right, perfect."
+      },
+      {
+        "id": 30,
+        "start": 94,
+        "end": 99,
+        "text": " Okay, so when you get this new bottle in the mail in a few days, it's going to say AGV on the bottle,"
+      },
+      {
+        "id": 31,
+        "start": 99,
+        "end": 102,
+        "text": " but it's also going to say the name Greenstone."
+      },
+      {
+        "id": 32,
+        "start": 102,
+        "end": 106,
+        "text": " And Greenstone is the name of Pfizer's pharmacy in France."
+      },
+      {
+        "id": 33,
+        "start": 106,
+        "end": 114,
+        "text": " And then on the pill, the only number imprinted is going to be the number 100."
+      },
+      {
+        "id": 34,
+        "start": 115,
+        "end": 120,
+        "text": " And those are the two ways you can confirm you received the Pfizer AGV Viagra,"
+      },
+      {
+        "id": 35,
+        "start": 120,
+        "end": 126,
+        "text": " because right now your bottles probably say APCO, and on the pill it says AC something."
+      },
+      {
+        "id": 36,
+        "start": 126,
+        "end": 130,
+        "text": " And then what I'm going to do, I'm going to go ahead and pause your refills for six months."
+      },
+      {
+        "id": 37,
+        "start": 130,
+        "end": 133,
+        "text": " I'm going to pause it until July 31st."
+      },
+      {
+        "id": 38,
+        "start": 133,
+        "end": 136,
+        "text": " That way, if I cancel it now, it's going to delete your profile,"
+      },
+      {
+        "id": 39,
+        "start": 136,
+        "end": 139,
+        "text": " and the pharmacy will not be able to send you out the correct replacement."
+      },
+      {
+        "id": 40,
+        "start": 139,
+        "end": 140,
+        "text": " Okay."
+      },
+      {
+        "id": 41,
+        "start": 140,
+        "end": 144,
+        "text": " I'll give you my extension so you can call me back and let me know how the AGV works out for you."
+      },
+      {
+        "id": 42,
+        "start": 144,
+        "end": 146,
+        "text": " Hang on a second."
+      },
+      {
+        "id": 43,
+        "start": 146,
+        "end": 147,
+        "text": " No problem."
+      },
+      {
+        "id": 44,
+        "start": 147,
+        "end": 150,
+        "text": " Take your time."
+      },
+      {
+        "id": 45,
+        "start": 150,
+        "end": 151,
+        "text": " Go ahead."
+      },
+      {
+        "id": 46,
+        "start": 151,
+        "end": 152,
+        "text": " Okay."
+      },
+      {
+        "id": 47,
+        "start": 152,
+        "end": 156,
+        "text": " It's 0020, and my name is Michelle."
+      },
+      {
+        "id": 48,
+        "start": 156,
+        "end": 158,
+        "text": " Michelle, thank you very much."
+      },
+      {
+        "id": 49,
+        "start": 158,
+        "end": 159,
+        "text": " No problem, Clifford."
+      },
+      {
+        "id": 50,
+        "start": 159,
+        "end": 161,
+        "text": " Have a great day."
+      },
+      {
+        "id": 51,
+        "start": 161,
+        "end": 162,
+        "text": " You too."
+      },
+      {
+        "id": 52,
+        "start": 162,
+        "end": 163,
+        "text": " Thanks."
+      },
+      {
+        "id": 53,
+        "start": 163,
+        "end": 164,
+        "text": " Thanks."
+      },
+      {
+        "id": 54,
+        "start": 164,
+        "end": 165,
+        "text": " Bye."
+      },
+      {
+        "id": 55,
+        "start": 165,
+        "end": 166,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813a-95a5-ffd5e9e7ceeb",
+    "url": "https://www.notion.so/300000001217019-300000001707459-2f611d0a101c813a95a5ffd5e9e7ceeb"
+  },
+  "processedAt": "2026-01-28T14:04:51.066Z"
+}

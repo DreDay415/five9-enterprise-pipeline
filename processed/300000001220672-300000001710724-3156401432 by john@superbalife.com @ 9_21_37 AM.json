@@ -1,0 +1,146 @@
+{
+  "recording": {
+    "name": "300000001220672-300000001710724-3156401432 by john@superbalife.com @ 9_21_37 AM.wav",
+    "size": 125056,
+    "modifyTime": 1769620995000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220672-300000001710724-3156401432 by john@superbalife.com @ 9_21_37 AM.wav",
+    "uploadDate": "2026-01-28T17:23:15.000Z",
+    "callId": "300000001220672-300000001710724",
+    "agent": "john",
+    "phoneNumber": "3156401432",
+    "callTimestamp": "2026-01-28T09:21:37.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you today?\n\nSpeaker 2: I'm calling. You guys sent the wrong prescription again to me.\n\nSpeaker 1: Can I get your name and zip code?\n\nSpeaker 2: Yes. Speedcaster13039.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Okay. You're in Cicero, New York?\n\nSpeaker 1: Correct.\n\nSpeaker 2: Okay, sir. I do see we sent you the right thing. I know they look similar.\n\nSpeaker 1: If you have the pills that you most recently sent, they're going to say 100 on the pill.\n\nSpeaker 2: The other pill you had says AC340. The one that says 100 is the AGV pill.\n\nSpeaker 1: Well, I took one and all it did was give me a headache.\n\nSpeaker 2: Okay. Did you take it on an empty stomach as well? Because that can affect it.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay. Well, if it's not working for you and you want to return it, you can, but that is the AGV pill.\n\nSpeaker 1: It is. It doesn't show it as an AGV pill on the Internet.\n\nSpeaker 2: It's... The way it looks on our website and the marketing is different than how it looks in real life.\n\nSpeaker 1: The pill... If you have 100 on the pill, that is the right pill. It's not going to say AGV on the pill.\n\nSpeaker 2: But like I said, if it's not for you, you can return it. We have a money-back guarantee.\n\nSpeaker 1: Okay. Thanks.\n\nSpeaker 2: You're welcome. Have a good one.",
+    "duration": 4391,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.200000047683716,
+        "text": " Thank you for calling. This is John. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 2.9000000953674316,
+        "end": 6.699999809265137,
+        "text": " I'm calling. You guys sent the wrong prescription again to me."
+      },
+      {
+        "id": 2,
+        "start": 7.199999809265137,
+        "end": 8.5,
+        "text": " Can I get your name and zip code?"
+      },
+      {
+        "id": 3,
+        "start": 9.300000190734863,
+        "end": 13.800000190734863,
+        "text": " Yes. Speedcaster13039."
+      },
+      {
+        "id": 4,
+        "start": 14.199999809265137,
+        "end": 14.800000190734863,
+        "text": " Thank you."
+      },
+      {
+        "id": 5,
+        "start": 20.5,
+        "end": 22.5,
+        "text": " Okay. You're in Cicero, New York?"
+      },
+      {
+        "id": 6,
+        "start": 23.200000762939453,
+        "end": 23.899999618530273,
+        "text": " Correct."
+      },
+      {
+        "id": 7,
+        "start": 24.5,
+        "end": 27.700000762939453,
+        "text": " Okay, sir. I do see we sent you the right thing. I know they look similar."
+      },
+      {
+        "id": 8,
+        "start": 27.700000762939453,
+        "end": 34,
+        "text": " If you have the pills that you most recently sent, they're going to say 100 on the pill."
+      },
+      {
+        "id": 9,
+        "start": 34.5,
+        "end": 39.5,
+        "text": " The other pill you had says AC340. The one that says 100 is the AGV pill."
+      },
+      {
+        "id": 10,
+        "start": 40.79999923706055,
+        "end": 43.5,
+        "text": " Well, I took one and all it did was give me a headache."
+      },
+      {
+        "id": 11,
+        "start": 44.599998474121094,
+        "end": 47.900001525878906,
+        "text": " Okay. Did you take it on an empty stomach as well? Because that can affect it."
+      },
+      {
+        "id": 12,
+        "start": 47.900001525878906,
+        "end": 48.400001525878906,
+        "text": " Yes."
+      },
+      {
+        "id": 13,
+        "start": 48.79999923706055,
+        "end": 52.900001525878906,
+        "text": " Okay. Well, if it's not working for you and you want to return it, you can, but that is the AGV pill."
+      },
+      {
+        "id": 14,
+        "start": 53.900001525878906,
+        "end": 58,
+        "text": " It is. It doesn't show it as an AGV pill on the Internet."
+      },
+      {
+        "id": 15,
+        "start": 58.5,
+        "end": 63.900001525878906,
+        "text": " It's... The way it looks on our website and the marketing is different than how it looks in real life."
+      },
+      {
+        "id": 16,
+        "start": 63.900001525878906,
+        "end": 67.80000305175781,
+        "text": " The pill... If you have 100 on the pill, that is the right pill. It's not going to say AGV on the pill."
+      },
+      {
+        "id": 17,
+        "start": 68.30000305175781,
+        "end": 71.80000305175781,
+        "text": " But like I said, if it's not for you, you can return it. We have a money-back guarantee."
+      },
+      {
+        "id": 18,
+        "start": 73.19999694824219,
+        "end": 74.0999984741211,
+        "text": " Okay. Thanks."
+      },
+      {
+        "id": 19,
+        "start": 74.69999694824219,
+        "end": 75.5999984741211,
+        "text": " You're welcome. Have a good one."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-815e-bd99-cdfe4d15d9e1",
+    "url": "https://www.notion.so/300000001220672-300000001710724-2f611d0a101c815ebd99cdfe4d15d9e1"
+  },
+  "processedAt": "2026-01-28T18:33:15.709Z"
+}

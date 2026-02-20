@@ -1,0 +1,113 @@
+{
+  "recording": {
+    "name": "300000001242315-300000001731805-8708269185 by charles@superbalife.com @ 12_36_29 PM.wav",
+    "size": 83846,
+    "modifyTime": 1771015063000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242315-300000001731805-8708269185 by charles@superbalife.com @ 12_36_29 PM.wav",
+    "uploadDate": "2026-02-13T20:37:43.000Z",
+    "callId": "300000001242315-300000001731805",
+    "agent": "charles",
+    "phoneNumber": "8708269185",
+    "callTimestamp": "2026-02-13T12:36:29.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_charles_300000001242315-300000001731805_8708269185.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_charles_300000001242315-300000001731805_8708269185.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hello. Thanks for calling Viagra, this is Charles.\n\nSpeaker 2: Yeah Charles, I'm trying to get my order started for this month.\n\nSpeaker 1: Okay, one second.\n\nSpeaker 2: Okay, I've got Robert Long in Vernon Hills, Illinois.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: All right, so send it to the same place as 1070 Police Lane, Unit 208.\n\nSpeaker 1: Yep, you got it.\n\nSpeaker 2: Okay, I'm going to process that payment right now, all right?\n\nSpeaker 1: All right, thanks. Appreciate it.\n\nSpeaker 2: Yes, sir. One second. Boom, boom. Okay, you are good to go, Robert.\n\nSpeaker 1: I'd expect a baby by Wednesday, hopefully, if not Thursday or Friday, okay?\n\nSpeaker 2: All right, thanks a lot.\n\nSpeaker 1: Yes, sir. Have a great one.\n\nSpeaker 2: Thanks.",
+    "duration": 2913,
+    "audioDuration": 51.560001373291016,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 9.84000015258789,
+        "text": " Hello. Thanks for calling Viagra, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 9.84000015258789,
+        "end": 14.640000343322754,
+        "text": " Yeah Charles, I'm trying to get my order started for this month."
+      },
+      {
+        "id": 2,
+        "start": 14.640000343322754,
+        "end": 16.479999542236328,
+        "text": " Okay, one second."
+      },
+      {
+        "id": 3,
+        "start": 16.479999542236328,
+        "end": 23.84000015258789,
+        "text": " Okay, I've got Robert Long in Vernon Hills, Illinois."
+      },
+      {
+        "id": 4,
+        "start": 23.84000015258789,
+        "end": 25.040000915527344,
+        "text": " Yeah."
+      },
+      {
+        "id": 5,
+        "start": 25.360000610351562,
+        "end": 31.360000610351562,
+        "text": " All right, so send it to the same place as 1070 Police Lane, Unit 208."
+      },
+      {
+        "id": 6,
+        "start": 32,
+        "end": 32.79999923706055,
+        "text": " Yep, you got it."
+      },
+      {
+        "id": 7,
+        "start": 33.36000061035156,
+        "end": 35.20000076293945,
+        "text": " Okay, I'm going to process that payment right now, all right?"
+      },
+      {
+        "id": 8,
+        "start": 35.84000015258789,
+        "end": 37.68000030517578,
+        "text": " All right, thanks. Appreciate it."
+      },
+      {
+        "id": 9,
+        "start": 37.68000030517578,
+        "end": 43.20000076293945,
+        "text": " Yes, sir. One second. Boom, boom. Okay, you are good to go, Robert."
+      },
+      {
+        "id": 10,
+        "start": 43.20000076293945,
+        "end": 46.47999954223633,
+        "text": " I'd expect a baby by Wednesday, hopefully, if not Thursday or Friday, okay?"
+      },
+      {
+        "id": 11,
+        "start": 47.20000076293945,
+        "end": 48.560001373291016,
+        "text": " All right, thanks a lot."
+      },
+      {
+        "id": 12,
+        "start": 48.560001373291016,
+        "end": 49.599998474121094,
+        "text": " Yes, sir. Have a great one."
+      },
+      {
+        "id": 13,
+        "start": 50.400001525878906,
+        "end": 51.439998626708984,
+        "text": " Thanks."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8180-8d0a-c5b3ab9b77da",
+    "url": "https://www.notion.so/300000001242315-300000001731805-30611d0a101c81808d0ac5b3ab9b77da"
+  },
+  "processedAt": "2026-02-13T21:01:47.789Z"
+}

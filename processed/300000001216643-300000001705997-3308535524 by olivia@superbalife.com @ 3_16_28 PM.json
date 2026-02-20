@@ -1,0 +1,302 @@
+{
+  "recording": {
+    "name": "300000001216643-300000001705997-3308535524 by olivia@superbalife.com @ 3_16_28 PM.wav",
+    "size": 213260,
+    "modifyTime": 1769591234000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216643-300000001705997-3308535524 by olivia@superbalife.com @ 3_16_28 PM.wav",
+    "uploadDate": "2026-01-28T09:07:14.000Z",
+    "callId": "300000001216643-300000001705997",
+    "agent": "olivia",
+    "phoneNumber": "3308535524",
+    "callTimestamp": "2026-01-28T15:16:28.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, this is Olivia speaking, who do I have the pleasure of speaking with today?\n\nSpeaker 2: Ted Fasciola.\n\nSpeaker 1: Hi, Ted. How are you?\n\nSpeaker 2: All right.\n\nSpeaker 1: How are you?\n\nSpeaker 2: Good.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Good.\n\nSpeaker 1: Thank you so much for asking.\n\nSpeaker 2: How can I help you today, Ted?\n\nSpeaker 1: I'd like to cancel my subscription.\n\nSpeaker 2: Yeah, I can help you with that.\n\nSpeaker 1: Okay, so what is your date of birth, Ted?\n\nSpeaker 2: 4-22-65.\n\nSpeaker 1: Great.\n\nSpeaker 2: And you're located at 9438 Street, Route 45, Lisbon, Ohio?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, great.\n\nSpeaker 1: And this refill from today, you do not need it.\n\nSpeaker 2: Is that accurate?\n\nSpeaker 1: Correct.\n\nSpeaker 2: Okay.\n\nSpeaker 1: So I was just able to cancel and refund that for you.\n\nSpeaker 2: If you don't want to receive regular refills with your prescription, you certainly don't have to.\n\nSpeaker 1: You always have the option to place your prescription on hold for up to six months at a time, just because six months is when the prescription would expire if we didn't refill it.\n\nSpeaker 2: And the way that would work is if you did want to order at any time within the next six months, you could.\n\nSpeaker 1: You just have to give us a call to do so yourself.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, great.\n\nSpeaker 2: So, yeah, just let us know if you need anything before July 31st, because your prescription is on hold.\n\nSpeaker 1: And we're always here at this number, Monday through Friday, 8 to 5 Pacific.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thank you so much.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Thank you, Ted.\n\nSpeaker 2: I hope you have a great day.\n\nSpeaker 1: You too.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 6107,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 20,
+        "text": " Thank you for calling Viagra, this is Olivia speaking, who do I have the pleasure of speaking"
+      },
+      {
+        "id": 1,
+        "start": 20,
+        "end": 21,
+        "text": " with today?"
+      },
+      {
+        "id": 2,
+        "start": 21,
+        "end": 22,
+        "text": " Ted Fasciola."
+      },
+      {
+        "id": 3,
+        "start": 22,
+        "end": 23,
+        "text": " Hi, Ted."
+      },
+      {
+        "id": 4,
+        "start": 23,
+        "end": 24,
+        "text": " How are you?"
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 25,
+        "text": " All right."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 26,
+        "text": " How are you?"
+      },
+      {
+        "id": 7,
+        "start": 26,
+        "end": 27,
+        "text": " Good."
+      },
+      {
+        "id": 8,
+        "start": 27,
+        "end": 28,
+        "text": " Thank you."
+      },
+      {
+        "id": 9,
+        "start": 29,
+        "end": 30,
+        "text": " Good."
+      },
+      {
+        "id": 10,
+        "start": 30,
+        "end": 31,
+        "text": " Thank you so much for asking."
+      },
+      {
+        "id": 11,
+        "start": 31,
+        "end": 33,
+        "text": " How can I help you today, Ted?"
+      },
+      {
+        "id": 12,
+        "start": 33,
+        "end": 36,
+        "text": " I'd like to cancel my subscription."
+      },
+      {
+        "id": 13,
+        "start": 36,
+        "end": 39,
+        "text": " Yeah, I can help you with that."
+      },
+      {
+        "id": 14,
+        "start": 39,
+        "end": 43,
+        "text": " Okay, so what is your date of birth, Ted?"
+      },
+      {
+        "id": 15,
+        "start": 43,
+        "end": 45,
+        "text": " 4-22-65."
+      },
+      {
+        "id": 16,
+        "start": 45,
+        "end": 46,
+        "text": " Great."
+      },
+      {
+        "id": 17,
+        "start": 46,
+        "end": 52,
+        "text": " And you're located at 9438 Street, Route 45, Lisbon, Ohio?"
+      },
+      {
+        "id": 18,
+        "start": 52,
+        "end": 53,
+        "text": " Yes."
+      },
+      {
+        "id": 19,
+        "start": 53,
+        "end": 55,
+        "text": " Okay, great."
+      },
+      {
+        "id": 20,
+        "start": 55,
+        "end": 61,
+        "text": " And this refill from today, you do not need it."
+      },
+      {
+        "id": 21,
+        "start": 61,
+        "end": 63,
+        "text": " Is that accurate?"
+      },
+      {
+        "id": 22,
+        "start": 63,
+        "end": 64,
+        "text": " Correct."
+      },
+      {
+        "id": 23,
+        "start": 64,
+        "end": 65,
+        "text": " Okay."
+      },
+      {
+        "id": 24,
+        "start": 65,
+        "end": 72,
+        "text": " So I was just able to cancel and refund that for you."
+      },
+      {
+        "id": 25,
+        "start": 72,
+        "end": 79,
+        "text": " If you don't want to receive regular refills with your prescription, you certainly don't"
+      },
+      {
+        "id": 26,
+        "start": 79,
+        "end": 80,
+        "text": " have to."
+      },
+      {
+        "id": 27,
+        "start": 80,
+        "end": 87,
+        "text": " You always have the option to place your prescription on hold for up to six months at a time, just"
+      },
+      {
+        "id": 28,
+        "start": 87,
+        "end": 92,
+        "text": " because six months is when the prescription would expire if we didn't refill it."
+      },
+      {
+        "id": 29,
+        "start": 92,
+        "end": 99,
+        "text": " And the way that would work is if you did want to order at any time within the next"
+      },
+      {
+        "id": 30,
+        "start": 99,
+        "end": 100,
+        "text": " six months, you could."
+      },
+      {
+        "id": 31,
+        "start": 100,
+        "end": 104,
+        "text": " You just have to give us a call to do so yourself."
+      },
+      {
+        "id": 32,
+        "start": 104,
+        "end": 105,
+        "text": " Okay."
+      },
+      {
+        "id": 33,
+        "start": 105,
+        "end": 106,
+        "text": " Okay, great."
+      },
+      {
+        "id": 34,
+        "start": 107,
+        "end": 115,
+        "text": " So, yeah, just let us know if you need anything before July 31st, because your prescription"
+      },
+      {
+        "id": 35,
+        "start": 115,
+        "end": 116,
+        "text": " is on hold."
+      },
+      {
+        "id": 36,
+        "start": 116,
+        "end": 121,
+        "text": " And we're always here at this number, Monday through Friday, 8 to 5 Pacific."
+      },
+      {
+        "id": 37,
+        "start": 121,
+        "end": 122,
+        "text": " All right."
+      },
+      {
+        "id": 38,
+        "start": 122,
+        "end": 123,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 39,
+        "start": 123,
+        "end": 124,
+        "text": " Yeah."
+      },
+      {
+        "id": 40,
+        "start": 124,
+        "end": 125,
+        "text": " Thank you, Ted."
+      },
+      {
+        "id": 41,
+        "start": 125,
+        "end": 126,
+        "text": " I hope you have a great day."
+      },
+      {
+        "id": 42,
+        "start": 126,
+        "end": 127,
+        "text": " You too."
+      },
+      {
+        "id": 43,
+        "start": 127,
+        "end": 128,
+        "text": " Okay."
+      },
+      {
+        "id": 44,
+        "start": 128,
+        "end": 129,
+        "text": " Bye."
+      },
+      {
+        "id": 45,
+        "start": 129,
+        "end": 130,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81cd-be35-d0d077073c0c",
+    "url": "https://www.notion.so/300000001216643-300000001705997-2f611d0a101c81cdbe35d0d077073c0c"
+  },
+  "processedAt": "2026-01-28T11:46:30.441Z"
+}

@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001216878-300000001707371-7653290834 by  @ 8_21_15 AM_CallStudio.wav",
+    "size": 25216,
+    "modifyTime": 1769585527000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216878-300000001707371-7653290834 by  @ 8_21_15 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:32:07.000Z",
+    "callId": "300000001216878-300000001707371",
+    "phoneNumber": "7653290834",
+    "callTimestamp": "2026-01-28T07:32:07.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: Pills don't work.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 842,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.159999847412109,
+        "end": 7.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.159999847412109,
+        "end": 10.520000457763672,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.520000457763672,
+        "end": 13.880000114440918,
+        "text": " Pills don't work."
+      },
+      {
+        "id": 4,
+        "start": 13.880000114440918,
+        "end": 15.079999923706055,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ad-a812-d35e78d8f043",
+    "url": "https://www.notion.so/300000001216878-300000001707371-2f611d0a101c81ada812d35e78d8f043"
+  },
+  "processedAt": "2026-01-28T14:24:50.253Z"
+}

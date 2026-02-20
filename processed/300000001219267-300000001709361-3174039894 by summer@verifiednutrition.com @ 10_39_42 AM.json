@@ -1,0 +1,272 @@
+{
+  "recording": {
+    "name": "300000001219267-300000001709361-3174039894 by summer@verifiednutrition.com @ 10_39_42 AM.wav",
+    "size": 191160,
+    "modifyTime": 1769582833000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219267-300000001709361-3174039894 by summer@verifiednutrition.com @ 10_39_42 AM.wav",
+    "uploadDate": "2026-01-28T06:47:13.000Z",
+    "callId": "300000001219267-300000001709361",
+    "agent": "summer",
+    "phoneNumber": "3174039894",
+    "callTimestamp": "2026-01-28T10:39:42.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service, how can I help you?\n\nSpeaker 2: Yes, I had ordered, and I got a message\n\nSpeaker 1: saying to give you guys a call or something.\n\nSpeaker 2: Mm-hmm.\n\nSpeaker 1: OK, what's your name and birthday?\n\nSpeaker 2: Riley Cannon, 7-2-1960.\n\nSpeaker 1: I've got you.\n\nSpeaker 2: Oh, OK, it's not a problem.\n\nSpeaker 1: I'll put it down.\n\nSpeaker 2: I don't know if that's what I'm going to have to do.\n\nSpeaker 1: I'll put that down as well.\n\nSpeaker 2: In the past several months, have you\n\nSpeaker 1: had any other problems?\n\nSpeaker 2: Passing out, dizziness, seizure, or chest pain?\n\nSpeaker 1: Do you have any other following medical conditions?\n\nSpeaker 2: Diabetes, hypothermia, an accident,\n\nSpeaker 1: a stroke, a heart attack?\n\nSpeaker 2: Oh, I don't see anything that says for you to call us.\n\nSpeaker 1: Call us for what?\n\nSpeaker 2: I don't know.\n\nSpeaker 1: It said something about the doctor\n\nSpeaker 2: wanted to ask me a couple of questions.\n\nSpeaker 1: Oh, you created a new account.\n\nSpeaker 2: OK, I see it now.\n\nSpeaker 1: Please let me know the name of the blood pressure medication.\n\nSpeaker 2: The doctor wants to know what blood pressure\n\nSpeaker 1: medication you are taking.\n\nSpeaker 2: What is it?\n\nSpeaker 1: A-T-O-R-B-A-S-T-A-T.\n\nSpeaker 2: What's that?\n\nSpeaker 1: Yeah, and melotapine.\n\nSpeaker 2: And melotapine?\n\nSpeaker 1: Yeah, melotapine.\n\nSpeaker 2: What else?\n\nSpeaker 1: That's it?\n\nSpeaker 2: OK, you have a wonderful day.\n\nSpeaker 1: All right, thank you.\n\nSpeaker 2: You too.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Bye.",
+    "duration": 4918,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling customer service, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 9.239999771118164,
+        "text": " Yes, I had ordered, and I got a message"
+      },
+      {
+        "id": 2,
+        "start": 9.239999771118164,
+        "end": 12.359999656677246,
+        "text": " saying to give you guys a call or something."
+      },
+      {
+        "id": 3,
+        "start": 12.359999656677246,
+        "end": 12.859999656677246,
+        "text": " Mm-hmm."
+      },
+      {
+        "id": 4,
+        "start": 16.280000686645508,
+        "end": 19.360000610351562,
+        "text": " OK, what's your name and birthday?"
+      },
+      {
+        "id": 5,
+        "start": 19.360000610351562,
+        "end": 25.920000076293945,
+        "text": " Riley Cannon, 7-2-1960."
+      },
+      {
+        "id": 6,
+        "start": 25.920000076293945,
+        "end": 27.1200008392334,
+        "text": " I've got you."
+      },
+      {
+        "id": 7,
+        "start": 27.1200008392334,
+        "end": 30.1200008392334,
+        "text": " Oh, OK, it's not a problem."
+      },
+      {
+        "id": 8,
+        "start": 30.1200008392334,
+        "end": 31.1200008392334,
+        "text": " I'll put it down."
+      },
+      {
+        "id": 9,
+        "start": 31.1200008392334,
+        "end": 34.599998474121094,
+        "text": " I don't know if that's what I'm going to have to do."
+      },
+      {
+        "id": 10,
+        "start": 34.599998474121094,
+        "end": 37.099998474121094,
+        "text": " I'll put that down as well."
+      },
+      {
+        "id": 11,
+        "start": 37.099998474121094,
+        "end": 38.599998474121094,
+        "text": " In the past several months, have you"
+      },
+      {
+        "id": 12,
+        "start": 38.599998474121094,
+        "end": 40.099998474121094,
+        "text": " had any other problems?"
+      },
+      {
+        "id": 13,
+        "start": 40.099998474121094,
+        "end": 42.599998474121094,
+        "text": " Passing out, dizziness, seizure, or chest pain?"
+      },
+      {
+        "id": 14,
+        "start": 48.08000183105469,
+        "end": 51.08000183105469,
+        "text": " Do you have any other following medical conditions?"
+      },
+      {
+        "id": 15,
+        "start": 51.08000183105469,
+        "end": 55.08000183105469,
+        "text": " Diabetes, hypothermia, an accident,"
+      },
+      {
+        "id": 16,
+        "start": 55.08000183105469,
+        "end": 58.560001373291016,
+        "text": " a stroke, a heart attack?"
+      },
+      {
+        "id": 17,
+        "start": 58.560001373291016,
+        "end": 64.55999755859375,
+        "text": " Oh, I don't see anything that says for you to call us."
+      },
+      {
+        "id": 18,
+        "start": 64.55999755859375,
+        "end": 67.55999755859375,
+        "text": " Call us for what?"
+      },
+      {
+        "id": 19,
+        "start": 67.55999755859375,
+        "end": 68.55999755859375,
+        "text": " I don't know."
+      },
+      {
+        "id": 20,
+        "start": 68.55999755859375,
+        "end": 70.55999755859375,
+        "text": " It said something about the doctor"
+      },
+      {
+        "id": 21,
+        "start": 70.55999755859375,
+        "end": 72.55999755859375,
+        "text": " wanted to ask me a couple of questions."
+      },
+      {
+        "id": 22,
+        "start": 72.55999755859375,
+        "end": 75.05999755859375,
+        "text": " Oh, you created a new account."
+      },
+      {
+        "id": 23,
+        "start": 75.05999755859375,
+        "end": 77.05999755859375,
+        "text": " OK, I see it now."
+      },
+      {
+        "id": 24,
+        "start": 77.05999755859375,
+        "end": 80.55999755859375,
+        "text": " Please let me know the name of the blood pressure medication."
+      },
+      {
+        "id": 25,
+        "start": 80.55999755859375,
+        "end": 82.55999755859375,
+        "text": " The doctor wants to know what blood pressure"
+      },
+      {
+        "id": 26,
+        "start": 82.55999755859375,
+        "end": 83.55999755859375,
+        "text": " medication you are taking."
+      },
+      {
+        "id": 27,
+        "start": 96.55999755859375,
+        "end": 97.55999755859375,
+        "text": " What is it?"
+      },
+      {
+        "id": 28,
+        "start": 97.55999755859375,
+        "end": 100.55999755859375,
+        "text": " A-T-O-R-B-A-S-T-A-T."
+      },
+      {
+        "id": 29,
+        "start": 100.55999755859375,
+        "end": 101.55999755859375,
+        "text": " What's that?"
+      },
+      {
+        "id": 30,
+        "start": 101.55999755859375,
+        "end": 104.55999755859375,
+        "text": " Yeah, and melotapine."
+      },
+      {
+        "id": 31,
+        "start": 104.55999755859375,
+        "end": 106.55999755859375,
+        "text": " And melotapine?"
+      },
+      {
+        "id": 32,
+        "start": 106.55999755859375,
+        "end": 108.55999755859375,
+        "text": " Yeah, melotapine."
+      },
+      {
+        "id": 33,
+        "start": 108.55999755859375,
+        "end": 109.05999755859375,
+        "text": " What else?"
+      },
+      {
+        "id": 34,
+        "start": 109.05999755859375,
+        "end": 110.05999755859375,
+        "text": " That's it?"
+      },
+      {
+        "id": 35,
+        "start": 111.05999755859375,
+        "end": 113.05999755859375,
+        "text": " OK, you have a wonderful day."
+      },
+      {
+        "id": 36,
+        "start": 113.05999755859375,
+        "end": 114.05999755859375,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 37,
+        "start": 114.05999755859375,
+        "end": 114.55999755859375,
+        "text": " You too."
+      },
+      {
+        "id": 38,
+        "start": 114.55999755859375,
+        "end": 115.05999755859375,
+        "text": " Thank you."
+      },
+      {
+        "id": 39,
+        "start": 115.05999755859375,
+        "end": 116.05999755859375,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 40,
+        "start": 116.05999755859375,
+        "end": 117.5999984741211,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8104-8e6d-f60d79c1d7e3",
+    "url": "https://www.notion.so/300000001219267-300000001709361-2f611d0a101c81048e6df60d79c1d7e3"
+  },
+  "processedAt": "2026-01-28T16:55:52.550Z"
+}

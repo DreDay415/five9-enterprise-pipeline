@@ -1,0 +1,326 @@
+{
+  "recording": {
+    "name": "300000001217170-300000001707507-7169828596 by charles@superbalife.com @ 9_21_35 AM.wav",
+    "size": 206630,
+    "modifyTime": 1769583735000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217170-300000001707507-7169828596 by charles@superbalife.com @ 9_21_35 AM.wav",
+    "uploadDate": "2026-01-28T07:02:15.000Z",
+    "callId": "300000001217170-300000001707507",
+    "agent": "charles",
+    "phoneNumber": "7169828596",
+    "callTimestamp": "2026-01-28T09:21:35.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, this is Charles.\n\nSpeaker 2: Hey Charles, my name is Dwayne Kelly.\n\nSpeaker 1: I currently had a prescription from you guys\n\nSpeaker 2: that I canceled on the 15th,\n\nSpeaker 1: but I'm discharged again like yesterday as I did before.\n\nSpeaker 2: Okay, Dwayne Kelly in Angola, New York?\n\nSpeaker 1: Yep.\n\nSpeaker 2: Okay, when you canceled, how did you try to cancel?\n\nSpeaker 1: I have an email correspondence.\n\nSpeaker 2: Email, yeah, no, we don't do anything by email\n\nSpeaker 1: because it could honestly be like anybody,\n\nSpeaker 2: like your wife or your girlfriend, whoever.\n\nSpeaker 1: And we do need you to call in and confirm your identity\n\nSpeaker 2: and everything like that,\n\nSpeaker 1: so that's basically why nothing was done.\n\nSpeaker 2: So you got another one, charged.\n\nSpeaker 1: I got a notice of a charge, yeah.\n\nSpeaker 2: Yeah, okay, and you don't need this one, correct?\n\nSpeaker 1: No, I'm good.\n\nSpeaker 2: Gotcha, okay, just reverse that.\n\nSpeaker 1: Right, okay, gotcha, yeah.\n\nSpeaker 2: I'm assuming you're just way overstocked\n\nSpeaker 1: with the product, right?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay, all right, so if overstock is an issue,\n\nSpeaker 2: you are a VIP member here, Dwayne,\n\nSpeaker 1: so you do get some perks that you're able to utilize.\n\nSpeaker 2: One of them is being able to pause everything\n\nSpeaker 1: for three months, four months at a time,\n\nSpeaker 2: that way they're not coming every single month anymore.\n\nSpeaker 1: Gives you time to use what you've got\n\nSpeaker 2: and then give us a call,\n\nSpeaker 1: let us know whenever you do need it.\n\nSpeaker 2: I can set that up for you right now if you'd like.\n\nSpeaker 1: Um, all right, yeah, you can do four months.\n\nSpeaker 2: Okay, sounds good, and I'll set that up right now.\n\nSpeaker 1: Boom, boom.\n\nSpeaker 2: All right, brother, May 26th this year.\n\nSpeaker 1: If you don't need them, give us a call,\n\nSpeaker 2: we'll extend the pause for you.\n\nSpeaker 1: If you need them earlier, like I said, give us a call,\n\nSpeaker 2: we'll send them right out, all right?\n\nSpeaker 1: May 26th is four months, okay.\n\nSpeaker 2: Yes, sir, yes, sir, and then the 6395\n\nSpeaker 1: should get back into your account\n\nSpeaker 2: in the next couple of days, all right?\n\nSpeaker 1: Sounds great, thank you.\n\nSpeaker 2: All right, hope you have a great one.\n\nSpeaker 1: You too, take care.\n\nSpeaker 2: Thank you, bye-bye.",
+    "duration": 7640,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.9600000381469727,
+        "text": " Thanks for calling Viagra, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 2.9600000381469727,
+        "end": 5.599999904632568,
+        "text": " Hey Charles, my name is Dwayne Kelly."
+      },
+      {
+        "id": 2,
+        "start": 5.599999904632568,
+        "end": 9.880000114440918,
+        "text": " I currently had a prescription from you guys"
+      },
+      {
+        "id": 3,
+        "start": 9.880000114440918,
+        "end": 12.15999984741211,
+        "text": " that I canceled on the 15th,"
+      },
+      {
+        "id": 4,
+        "start": 12.15999984741211,
+        "end": 15.859999656677246,
+        "text": " but I'm discharged again like yesterday as I did before."
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 20.6200008392334,
+        "text": " Okay, Dwayne Kelly in Angola, New York?"
+      },
+      {
+        "id": 6,
+        "start": 21.600000381469727,
+        "end": 22.440000534057617,
+        "text": " Yep."
+      },
+      {
+        "id": 7,
+        "start": 22.440000534057617,
+        "end": 25,
+        "text": " Okay, when you canceled, how did you try to cancel?"
+      },
+      {
+        "id": 8,
+        "start": 26.719999313354492,
+        "end": 29.280000686645508,
+        "text": " I have an email correspondence."
+      },
+      {
+        "id": 9,
+        "start": 29.280000686645508,
+        "end": 31.440000534057617,
+        "text": " Email, yeah, no, we don't do anything by email"
+      },
+      {
+        "id": 10,
+        "start": 31.440000534057617,
+        "end": 33.880001068115234,
+        "text": " because it could honestly be like anybody,"
+      },
+      {
+        "id": 11,
+        "start": 33.880001068115234,
+        "end": 36.36000061035156,
+        "text": " like your wife or your girlfriend, whoever."
+      },
+      {
+        "id": 12,
+        "start": 36.36000061035156,
+        "end": 41.119998931884766,
+        "text": " And we do need you to call in and confirm your identity"
+      },
+      {
+        "id": 13,
+        "start": 41.119998931884766,
+        "end": 41.959999084472656,
+        "text": " and everything like that,"
+      },
+      {
+        "id": 14,
+        "start": 41.959999084472656,
+        "end": 45,
+        "text": " so that's basically why nothing was done."
+      },
+      {
+        "id": 15,
+        "start": 45,
+        "end": 50,
+        "text": " So you got another one, charged."
+      },
+      {
+        "id": 16,
+        "start": 50.08000183105469,
+        "end": 53.52000045776367,
+        "text": " I got a notice of a charge, yeah."
+      },
+      {
+        "id": 17,
+        "start": 53.52000045776367,
+        "end": 57.15999984741211,
+        "text": " Yeah, okay, and you don't need this one, correct?"
+      },
+      {
+        "id": 18,
+        "start": 57.15999984741211,
+        "end": 58,
+        "text": " No, I'm good."
+      },
+      {
+        "id": 19,
+        "start": 58,
+        "end": 59.959999084472656,
+        "text": " Gotcha, okay, just reverse that."
+      },
+      {
+        "id": 20,
+        "start": 62.63999938964844,
+        "end": 64.72000122070312,
+        "text": " Right, okay, gotcha, yeah."
+      },
+      {
+        "id": 21,
+        "start": 64.72000122070312,
+        "end": 66.08000183105469,
+        "text": " I'm assuming you're just way overstocked"
+      },
+      {
+        "id": 22,
+        "start": 66.08000183105469,
+        "end": 67.36000061035156,
+        "text": " with the product, right?"
+      },
+      {
+        "id": 23,
+        "start": 68.36000061035156,
+        "end": 69.19999694824219,
+        "text": " Yeah."
+      },
+      {
+        "id": 24,
+        "start": 69.19999694824219,
+        "end": 71.76000213623047,
+        "text": " Okay, all right, so if overstock is an issue,"
+      },
+      {
+        "id": 25,
+        "start": 71.76000213623047,
+        "end": 73.16000366210938,
+        "text": " you are a VIP member here, Dwayne,"
+      },
+      {
+        "id": 26,
+        "start": 73.16000366210938,
+        "end": 75.63999938964844,
+        "text": " so you do get some perks that you're able to utilize."
+      },
+      {
+        "id": 27,
+        "start": 75.63999938964844,
+        "end": 77.36000061035156,
+        "text": " One of them is being able to pause everything"
+      },
+      {
+        "id": 28,
+        "start": 77.36000061035156,
+        "end": 79,
+        "text": " for three months, four months at a time,"
+      },
+      {
+        "id": 29,
+        "start": 79,
+        "end": 81.27999877929688,
+        "text": " that way they're not coming every single month anymore."
+      },
+      {
+        "id": 30,
+        "start": 81.27999877929688,
+        "end": 82.69999694824219,
+        "text": " Gives you time to use what you've got"
+      },
+      {
+        "id": 31,
+        "start": 82.69999694824219,
+        "end": 83.54000091552734,
+        "text": " and then give us a call,"
+      },
+      {
+        "id": 32,
+        "start": 83.54000091552734,
+        "end": 84.76000213623047,
+        "text": " let us know whenever you do need it."
+      },
+      {
+        "id": 33,
+        "start": 84.76000213623047,
+        "end": 87.23999786376953,
+        "text": " I can set that up for you right now if you'd like."
+      },
+      {
+        "id": 34,
+        "start": 88.76000213623047,
+        "end": 91.5199966430664,
+        "text": " Um, all right, yeah, you can do four months."
+      },
+      {
+        "id": 35,
+        "start": 91.5199966430664,
+        "end": 94.12000274658203,
+        "text": " Okay, sounds good, and I'll set that up right now."
+      },
+      {
+        "id": 36,
+        "start": 94.12000274658203,
+        "end": 95.44000244140625,
+        "text": " Boom, boom."
+      },
+      {
+        "id": 37,
+        "start": 97.80000305175781,
+        "end": 100.63999938964844,
+        "text": " All right, brother, May 26th this year."
+      },
+      {
+        "id": 38,
+        "start": 100.63999938964844,
+        "end": 102.04000091552734,
+        "text": " If you don't need them, give us a call,"
+      },
+      {
+        "id": 39,
+        "start": 102.04000091552734,
+        "end": 103.04000091552734,
+        "text": " we'll extend the pause for you."
+      },
+      {
+        "id": 40,
+        "start": 103.04000091552734,
+        "end": 104.80000305175781,
+        "text": " If you need them earlier, like I said, give us a call,"
+      },
+      {
+        "id": 41,
+        "start": 104.80000305175781,
+        "end": 107.4000015258789,
+        "text": " we'll send them right out, all right?"
+      },
+      {
+        "id": 42,
+        "start": 107.4000015258789,
+        "end": 109.36000061035156,
+        "text": " May 26th is four months, okay."
+      },
+      {
+        "id": 43,
+        "start": 109.36000061035156,
+        "end": 113,
+        "text": " Yes, sir, yes, sir, and then the 6395"
+      },
+      {
+        "id": 44,
+        "start": 113,
+        "end": 114.80000305175781,
+        "text": " should get back into your account"
+      },
+      {
+        "id": 45,
+        "start": 114.80000305175781,
+        "end": 116.91999816894531,
+        "text": " in the next couple of days, all right?"
+      },
+      {
+        "id": 46,
+        "start": 116.95999908447266,
+        "end": 118.19999694824219,
+        "text": " Sounds great, thank you."
+      },
+      {
+        "id": 47,
+        "start": 118.19999694824219,
+        "end": 120.08000183105469,
+        "text": " All right, hope you have a great one."
+      },
+      {
+        "id": 48,
+        "start": 120.08000183105469,
+        "end": 121.23999786376953,
+        "text": " You too, take care."
+      },
+      {
+        "id": 49,
+        "start": 121.23999786376953,
+        "end": 122.23999786376953,
+        "text": " Thank you, bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ba-bc45-f45c4b188368",
+    "url": "https://www.notion.so/300000001217170-300000001707507-2f611d0a101c81babc45f45c4b188368"
+  },
+  "processedAt": "2026-01-28T16:05:48.199Z"
+}

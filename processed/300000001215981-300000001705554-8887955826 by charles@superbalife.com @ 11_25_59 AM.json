@@ -1,0 +1,170 @@
+{
+  "recording": {
+    "name": "300000001215981-300000001705554-8887955826 by charles@superbalife.com @ 11_25_59 AM.wav",
+    "size": 202146,
+    "modifyTime": 1769196506000,
+    "remotePath": "/five9sftp/recordings/SB CS/1_23_2026/300000001215981-300000001705554-8887955826 by charles@superbalife.com @ 11_25_59 AM.wav",
+    "uploadDate": "2026-01-23T19:28:26.000Z",
+    "callId": "300000001215981-300000001705554",
+    "agent": "charles",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-23T19:25:59.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yeah, this is Jim Slavens, and I ordered some pills online, and I paid for like three bottles.\n\nSpeaker 2: Of pills online, and every time that I get a, they send one bottle at a time, and I get\n\nSpeaker 1: charged for it every time I've been sent, and I want to know what the deal is.\n\nSpeaker 2: Okay, can I have your, your phone number, please?\n\nSpeaker 1: 573-826-1629.\n\nSpeaker 2: Okay, Wellsville, Missouri, right?\n\nSpeaker 1: Yep.\n\nSpeaker 2: Yep.\n\nSpeaker 1: Okay, looks like you, when you signed up, your prescription does come with refills,\n\nSpeaker 2: so if you don't necessarily need the pills every single month, we completely understand,\n\nSpeaker 1: we can stop that immediately.\n\nSpeaker 2: What happened to the three bottles that I paid for online when I started?\n\nSpeaker 1: So the, the orders that I'm seeing, I have for December 7th, I have 50 milligram AGV\n\nSpeaker 2: 10 pills for the first charge, $63.95, and then we have a buy one, get one half off going\n\nSpeaker 1: right now for $29.40 for an additional 10 pills, so you should have gotten 20 pills\n\nSpeaker 2: in total for the first one, and then this most recent one with an additional 10 for\n\nSpeaker 1: another $63.95, so what I was getting at, Jim, is I can pump the brakes on sending you\n\nSpeaker 2: anything, charging you anything for the next five months, that way you have time to kill\n\nSpeaker 1: what you have, and then call us and let us know whenever you need the refills from there.\n\nSpeaker 2: That's fine.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I'll probably bother you again, if you're going to be that away, so.\n\nSpeaker 1: Okay, everything has been set, just give us a call and let us know, okay?\n\nSpeaker 2: Okay.",
+    "duration": 6039,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 16.68000030517578,
+        "text": " Yeah, this is Jim Slavens, and I ordered some pills online, and I paid for like three bottles"
+      },
+      {
+        "id": 1,
+        "start": 16.68000030517578,
+        "end": 25.040000915527344,
+        "text": " of pills online, and every time that I get a, they send one bottle at a time, and I get"
+      },
+      {
+        "id": 2,
+        "start": 25.040000915527344,
+        "end": 30,
+        "text": " charged for it every time I've been sent, and I want to know what the deal is."
+      },
+      {
+        "id": 3,
+        "start": 30,
+        "end": 35,
+        "text": " Okay, can I have your, your phone number, please?"
+      },
+      {
+        "id": 4,
+        "start": 35,
+        "end": 36,
+        "text": " 573-826-1629."
+      },
+      {
+        "id": 5,
+        "start": 36,
+        "end": 39,
+        "text": " Okay, Wellsville, Missouri, right?"
+      },
+      {
+        "id": 6,
+        "start": 39,
+        "end": 40,
+        "text": " Yep."
+      },
+      {
+        "id": 7,
+        "start": 40,
+        "end": 41,
+        "text": " Yep."
+      },
+      {
+        "id": 8,
+        "start": 41,
+        "end": 49.84000015258789,
+        "text": " Okay, looks like you, when you signed up, your prescription does come with refills,"
+      },
+      {
+        "id": 9,
+        "start": 49.84000015258789,
+        "end": 54.36000061035156,
+        "text": " so if you don't necessarily need the pills every single month, we completely understand,"
+      },
+      {
+        "id": 10,
+        "start": 54.36000061035156,
+        "end": 56.959999084472656,
+        "text": " we can stop that immediately."
+      },
+      {
+        "id": 11,
+        "start": 56.959999084472656,
+        "end": 63.79999923706055,
+        "text": " What happened to the three bottles that I paid for online when I started?"
+      },
+      {
+        "id": 12,
+        "start": 63.79999923706055,
+        "end": 72.12000274658203,
+        "text": " So the, the orders that I'm seeing, I have for December 7th, I have 50 milligram AGV"
+      },
+      {
+        "id": 13,
+        "start": 72.12000274658203,
+        "end": 78.68000030517578,
+        "text": " 10 pills for the first charge, $63.95, and then we have a buy one, get one half off going"
+      },
+      {
+        "id": 14,
+        "start": 78.68000030517578,
+        "end": 83.63999938964844,
+        "text": " right now for $29.40 for an additional 10 pills, so you should have gotten 20 pills"
+      },
+      {
+        "id": 15,
+        "start": 83.63999938964844,
+        "end": 89.23999786376953,
+        "text": " in total for the first one, and then this most recent one with an additional 10 for"
+      },
+      {
+        "id": 16,
+        "start": 89.23999786376953,
+        "end": 95.31999969482422,
+        "text": " another $63.95, so what I was getting at, Jim, is I can pump the brakes on sending you"
+      },
+      {
+        "id": 17,
+        "start": 95.31999969482422,
+        "end": 98.5999984741211,
+        "text": " anything, charging you anything for the next five months, that way you have time to kill"
+      },
+      {
+        "id": 18,
+        "start": 98.5999984741211,
+        "end": 102.68000030517578,
+        "text": " what you have, and then call us and let us know whenever you need the refills from there."
+      },
+      {
+        "id": 19,
+        "start": 102.68000030517578,
+        "end": 103.68000030517578,
+        "text": " That's fine."
+      },
+      {
+        "id": 20,
+        "start": 103.68000030517578,
+        "end": 104.68000030517578,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 105.68000030517578,
+        "end": 109.68000030517578,
+        "text": " I'll probably bother you again, if you're going to be that away, so."
+      },
+      {
+        "id": 22,
+        "start": 115.68000030517578,
+        "end": 119.68000030517578,
+        "text": " Okay, everything has been set, just give us a call and let us know, okay?"
+      },
+      {
+        "id": 23,
+        "start": 120.68000030517578,
+        "end": 121.68000030517578,
+        "text": " Okay."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f411d0a-101c-81ff-abae-fc670708b1a4",
+    "url": "https://www.notion.so/300000001215981-300000001705554-2f411d0a101c81ffabaefc670708b1a4"
+  },
+  "processedAt": "2026-01-26T21:35:33.559Z"
+}

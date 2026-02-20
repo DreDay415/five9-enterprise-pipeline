@@ -1,0 +1,88 @@
+{
+  "recording": {
+    "name": "300000001241980-300000001731590-8887955826 by  @ 10_53_54 AM_CallStudio.wav",
+    "size": 59276,
+    "modifyTime": 1771008892000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241980-300000001731590-8887955826 by  @ 10_53_54 AM_CallStudio.wav",
+    "uploadDate": "2026-02-13T18:54:52.000Z",
+    "callId": "300000001241980-300000001731590",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-02-13T18:54:52.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241980-300000001731590_8887955826.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241980-300000001731590_8887955826.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: We didn't receive a response, or I couldn't hear you.\n\nSpeaker 1: Let's try again.\n\nSpeaker 2: Please state the reason for your call.\n\nSpeaker 1: You guys reordered me another $25, and I'd be charged $113 to my account.\n\nSpeaker 2: I'd please like to talk to somebody about it.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Transferring to agent.",
+    "duration": 1203,
+    "audioDuration": 36.439998626708984,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.300000190734863,
+        "end": 6.78000020980835,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.78000020980835,
+        "end": 8.760000228881836,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 16.360000610351562,
+        "end": 18.84000015258789,
+        "text": " We didn't receive a response, or I couldn't hear your."
+      },
+      {
+        "id": 4,
+        "start": 19.5,
+        "end": 20.420000076293945,
+        "text": " Let's try again."
+      },
+      {
+        "id": 5,
+        "start": 20.68000030517578,
+        "end": 22.68000030517578,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 6,
+        "start": 22.68000030517578,
+        "end": 31.479999542236328,
+        "text": " You guys reordered me another $25, and I'd be charged $113 to my account."
+      },
+      {
+        "id": 7,
+        "start": 31.479999542236328,
+        "end": 33,
+        "text": " I'd please like to talk to somebody about it."
+      },
+      {
+        "id": 8,
+        "start": 34.880001068115234,
+        "end": 35.20000076293945,
+        "text": " Thanks."
+      },
+      {
+        "id": 9,
+        "start": 35.20000076293945,
+        "end": 36.099998474121094,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8169-9fcf-e40db3708eea",
+    "url": "https://www.notion.so/300000001241980-300000001731590-30611d0a101c81699fcfe40db3708eea"
+  },
+  "processedAt": "2026-02-13T19:00:18.969Z"
+}

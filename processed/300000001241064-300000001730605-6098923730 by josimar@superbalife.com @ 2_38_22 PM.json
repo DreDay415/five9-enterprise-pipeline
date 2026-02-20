@@ -1,0 +1,119 @@
+{
+  "recording": {
+    "name": "300000001241064-300000001730605-6098923730 by josimar@superbalife.com @ 2_38_22 PM.wav",
+    "size": 93986,
+    "modifyTime": 1770935982000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241064-300000001730605-6098923730 by josimar@superbalife.com @ 2_38_22 PM.wav",
+    "uploadDate": "2026-02-12T22:39:42.000Z",
+    "callId": "300000001241064-300000001730605",
+    "agent": "josimar",
+    "phoneNumber": "6098923730",
+    "callTimestamp": "2026-02-12T14:38:22.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_josimar_300000001241064-300000001730605_6098923730.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_josimar_300000001241064-300000001730605_6098923730.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, I can help you today.\n\nSpeaker 2: Hi, I'm trying to cancel my subscription.\n\nSpeaker 1: I can help you with that.\n\nSpeaker 2: One moment.\n\nSpeaker 1: What's your last name?\n\nSpeaker 2: Anderson.\n\nSpeaker 1: And what's your zip code?\n\nSpeaker 2: Okay.\n\nSpeaker 1: So I do want to let you know, sir, if I do cancel out your script now,\n\nSpeaker 2: the doctor will delete the visit from his system and you wouldn't be able to order in the future.\n\nSpeaker 1: Are you sure you don't want to freeze it? That way you can retain access to it for when you need it down the road.\n\nSpeaker 2: Nope. Nope. Nope. I want to cancel it.\n\nSpeaker 1: Not a problem. Just keep in mind, sir, you won't be able to order this in the future.\n\nSpeaker 2: That's okay. That's okay.\n\nSpeaker 1: All right. Thank you.",
+    "duration": 3099,
+    "audioDuration": 57.79999923706055,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Viagra, I can help you today."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Hi, I'm trying to cancel my subscription."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " I can help you with that."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 16,
+        "text": " One moment."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 20,
+        "text": " What's your last name?"
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 24,
+        "text": " Anderson."
+      },
+      {
+        "id": 6,
+        "start": 24,
+        "end": 28,
+        "text": " And what's your zip code?"
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 32,
+        "text": " Okay."
+      },
+      {
+        "id": 8,
+        "start": 32,
+        "end": 36,
+        "text": " So I do want to let you know, sir, if I do cancel out your script now,"
+      },
+      {
+        "id": 9,
+        "start": 36,
+        "end": 40,
+        "text": " the doctor will delete the visit from his system and you wouldn't be able to order in the future."
+      },
+      {
+        "id": 10,
+        "start": 40,
+        "end": 44,
+        "text": " Are you sure you didn't want to freeze it out? That way you can retain access to it for when you need it down the road."
+      },
+      {
+        "id": 11,
+        "start": 44,
+        "end": 48,
+        "text": " Nope. Nope. Nope. I want to cancel it."
+      },
+      {
+        "id": 12,
+        "start": 48,
+        "end": 52,
+        "text": " Not a problem. Just keep in mind, sir, you won't be able to order this in the future."
+      },
+      {
+        "id": 13,
+        "start": 52,
+        "end": 56,
+        "text": " That's okay. That's okay."
+      },
+      {
+        "id": 14,
+        "start": 56,
+        "end": 58,
+        "text": " All right. Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-812f-a00d-df5646bc1b3f",
+    "url": "https://www.notion.so/300000001241064-300000001730605-30511d0a101c812fa00ddf5646bc1b3f"
+  },
+  "processedAt": "2026-02-12T22:44:49.574Z"
+}

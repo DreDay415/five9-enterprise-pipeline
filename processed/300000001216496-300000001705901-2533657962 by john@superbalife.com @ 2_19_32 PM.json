@@ -1,0 +1,212 @@
+{
+  "recording": {
+    "name": "300000001216496-300000001705901-2533657962 by john@superbalife.com @ 2_19_32 PM.wav",
+    "size": 180890,
+    "modifyTime": 1769588236000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216496-300000001705901-2533657962 by john@superbalife.com @ 2_19_32 PM.wav",
+    "uploadDate": "2026-01-28T08:17:16.000Z",
+    "callId": "300000001216496-300000001705901",
+    "agent": "john",
+    "phoneNumber": "2533657962",
+    "callTimestamp": "2026-01-28T14:19:32.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling, this is John, how can I help you?\n\nSpeaker 2: Yes, I'm calling about the prescription that you guys filled for me.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I was supposed to get what I understood, the new Viagra, the new VGA, or AGB,\n\nSpeaker 1: and I got a generic form of...\n\nSpeaker 2: So, if we screwed up, we'll fix it for you, sir. I need your name and zip code to start, though.\n\nSpeaker 1: Okay. Jeff Brown, 98374.\n\nSpeaker 2: Thank you, one second, Jeff.\n\nSpeaker 1: No problem.\n\nSpeaker 2: 120 to have and fuel up?\n\nSpeaker 1: That is correct.\n\nSpeaker 2: Okay. You have the pills with you right now, by chance?\n\nSpeaker 1: I do.\n\nSpeaker 2: Can you just read to me the stamp on one of the pills itself, because that will confirm one way or the other for me.\n\nSpeaker 1: Oh, the stamp on it?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Let's see, just a second here.\n\nSpeaker 2: No problem.\n\nSpeaker 1: I'm driving, so...\n\nSpeaker 2: It says AC-335.\n\nSpeaker 1: Okay. That tells me what I need to know. Your pill should have said 50.\n\nSpeaker 2: So, you're right. It was the regular generic, not the AGB.\n\nSpeaker 1: So, you don't have to return that to us, because it was our mistake, but I am going to get you the right pill, sir.\n\nSpeaker 2: So, I'm going to message the pharmacy. They will get you ten of the right ones.\n\nSpeaker 1: There's no charge. You've already paid us.\n\nSpeaker 2: Oh, okay. Great. Thank you.\n\nSpeaker 1: You're welcome. Sorry about the mix-up, but thank you for letting us know.\n\nSpeaker 2: Oh, no problem. Thank you very much.\n\nSpeaker 1: Of course. Have a good weekend.\n\nSpeaker 2: You, too. Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 3753,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling, this is John, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 7,
+        "text": " Yes, I'm calling about the prescription that you guys filled for me."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 9,
+        "text": " Okay."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 21,
+        "text": " I was supposed to get what I understood, the new Viagra, the new VGA, or AGB,"
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 25,
+        "text": " and I got a generic form of..."
+      },
+      {
+        "id": 5,
+        "start": 26,
+        "end": 32,
+        "text": " So, if we screwed up, we'll fix it for you, sir. I need your name and zip code to start, though."
+      },
+      {
+        "id": 6,
+        "start": 33,
+        "end": 41,
+        "text": " Okay. Jeff Brown, 98374."
+      },
+      {
+        "id": 7,
+        "start": 42,
+        "end": 43,
+        "text": " Thank you, one second, Jeff."
+      },
+      {
+        "id": 8,
+        "start": 44,
+        "end": 45,
+        "text": " No problem."
+      },
+      {
+        "id": 9,
+        "start": 49,
+        "end": 51,
+        "text": " 120 to have and fuel up?"
+      },
+      {
+        "id": 10,
+        "start": 52,
+        "end": 53,
+        "text": " That is correct."
+      },
+      {
+        "id": 11,
+        "start": 53,
+        "end": 56,
+        "text": " Okay. You have the pills with you right now, by chance?"
+      },
+      {
+        "id": 12,
+        "start": 57,
+        "end": 58,
+        "text": " I do."
+      },
+      {
+        "id": 13,
+        "start": 59,
+        "end": 63,
+        "text": " Can you just read to me the stamp on one of the pills itself, because that will confirm one way or the other for me."
+      },
+      {
+        "id": 14,
+        "start": 64,
+        "end": 65,
+        "text": " Oh, the stamp on it?"
+      },
+      {
+        "id": 15,
+        "start": 66,
+        "end": 67,
+        "text": " Yeah."
+      },
+      {
+        "id": 16,
+        "start": 72,
+        "end": 73,
+        "text": " Let's see, just a second here."
+      },
+      {
+        "id": 17,
+        "start": 74,
+        "end": 75,
+        "text": " No problem."
+      },
+      {
+        "id": 18,
+        "start": 76,
+        "end": 77,
+        "text": " I'm driving, so..."
+      },
+      {
+        "id": 19,
+        "start": 78,
+        "end": 81,
+        "text": " It says AC-335."
+      },
+      {
+        "id": 20,
+        "start": 81,
+        "end": 84,
+        "text": " Okay. That tells me what I need to know. Your pill should have said 50."
+      },
+      {
+        "id": 21,
+        "start": 85,
+        "end": 87,
+        "text": " So, you're right. It was the regular generic, not the AGB."
+      },
+      {
+        "id": 22,
+        "start": 88,
+        "end": 92,
+        "text": " So, you don't have to return that to us, because it was our mistake, but I am going to get you the right pill, sir."
+      },
+      {
+        "id": 23,
+        "start": 93,
+        "end": 95,
+        "text": " So, I'm going to message the pharmacy. They will get you ten of the right ones."
+      },
+      {
+        "id": 24,
+        "start": 96,
+        "end": 97,
+        "text": " There's no charge. You've already paid us."
+      },
+      {
+        "id": 25,
+        "start": 98,
+        "end": 100,
+        "text": " Oh, okay. Great. Thank you."
+      },
+      {
+        "id": 26,
+        "start": 101,
+        "end": 103,
+        "text": " You're welcome. Sorry about the mix-up, but thank you for letting us know."
+      },
+      {
+        "id": 27,
+        "start": 104,
+        "end": 106,
+        "text": " Oh, no problem. Thank you very much."
+      },
+      {
+        "id": 28,
+        "start": 107,
+        "end": 108,
+        "text": " Of course. Have a good weekend."
+      },
+      {
+        "id": 29,
+        "start": 109,
+        "end": 110,
+        "text": " You, too. Bye-bye."
+      },
+      {
+        "id": 30,
+        "start": 111,
+        "end": 112,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8186-b29b-e149e0457b60",
+    "url": "https://www.notion.so/300000001216496-300000001705901-2f611d0a101c8186b29be149e0457b60"
+  },
+  "processedAt": "2026-01-28T13:09:44.097Z"
+}

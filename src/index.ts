@@ -1,0 +1,216 @@
+import { getConfig, sanitizeConfig } from './config';
+import { getLogger } from './utils/logger';
+import { SftpService } from './services/sftp.service';
+import { TranscriptionService } from './services/transcription.service';
+import { NotionService } from './services/notion.service';
+import { SpacesService } from './services/spaces.service';
+import { PipelineOrchestrator } from './pipeline/orchestrator';
+import { HealthCheckService } from './monitoring/health';
+import { MonitoringServer } from './server';
+import { getMetricsCollector } from './monitoring/metrics';
+import { cleanupOldFiles } from './utils/filesystem';
+import { FfmpegService } from './services/ffmpeg.service';
+
+// Handle unhandled errors
+process.on('uncaughtException', (error: Error) => {
+  console.error('Uncaught Exception:', error);
+  process.exit(1);
+});
+
+process.on('unhandledRejection', (reason: unknown) => {
+  console.error('Unhandled Rejection:', reason);
+  process.exit(1);
+});
+
+/**
+ * Main application
+ */
+class Application {
+  private orchestrator?: PipelineOrchestrator;
+  private monitoringServer?: MonitoringServer;
+  private isShuttingDown = false;
+
+  async run(): Promise<void> {
+    const logger = getLogger();
+
+    try {
+      // Display banner
+      this.displayBanner();
+
+      // Load and validate configuration
+      const config = getConfig();
+      logger.info({ config: sanitizeConfig(config) }, 'Configuration loaded');
+
+      // Initialize metrics
+      const metrics = getMetricsCollector();
+      metrics.setPipelineHealth(false);
+
+    // Create services
+      const sftpService = new SftpService(config.sftp, {
+        maxRetries: config.retry.maxRetries,
+        delayMs: config.retry.retryDelayMs,
+      });
+
+      const transcriptionService = new TranscriptionService();
+      const ffmpegService = new FfmpegService(); // <--- ADD THIS LINE
+    const notionService = new NotionService(config);
+      const spacesService = config.spaces
+        ? new SpacesService(config.spaces)
+        : null;
+      if (config.spaces) {
+        logger.info(
+          { endpoint: config.spaces.endpoint, region: config.spaces.region, bucket: config.spaces.bucket },
+          'Spaces upload configured'
+        );
+      }
+    // Look for this block and ensure ffmpegService is passed in
+  this.orchestrator = new PipelineOrchestrator(
+  config,
+  sftpService,
+  transcriptionService,
+  notionService,
+  ffmpegService,
+  spacesService
+);
+      // Setup graceful shutdown
+      this.setupShutdownHandlers();
+
+      // Start monitoring server if configured
+      if (config.monitoring.healthCheckPort) {
+        const healthCheckService = new HealthCheckService(
+          sftpService,
+          transcriptionService,
+          notionService
+        );
+
+        this.monitoringServer = new MonitoringServer(
+          config.monitoring.healthCheckPort,
+          healthCheckService
+        );
+
+        await this.monitoringServer.start();
+      }
+
+      // Cleanup old files if enabled
+      if (config.cleanup.enabled) {
+        logger.info('Running cleanup of old files');
+        const cleanupResults = await Promise.all([
+          cleanupOldFiles(config.directories.processedDir, config.cleanup.daysOld),
+          cleanupOldFiles(config.directories.failedDir, config.cleanup.daysOld),
+        ]);
+        logger.info(
+          { processed: cleanupResults[0], failed: cleanupResults[1] },
+          'Cleanup completed'
+        );
+      }
+
+    // Mark as healthy
+      metrics.setPipelineHealth(true);
+
+      // Run pipeline
+      if (this.orchestrator) {
+        logger.info('🚀 Starting recording processing loop...');
+        await this.orchestrator.start();
+      } else {
+        throw new Error('❌ Orchestrator failed to initialize—check constructor arguments.');
+      }
+
+      // Success - exit gracefully
+      logger.info('🎉 All recordings processed. Exiting gracefully.');
+      await this.shutdown(0);
+
+    } catch (error) {
+      const logger = getLogger();
+      const err = error instanceof Error ? error : new Error(String(error));
+
+      logger.error({ error: err.message, stack: err.stack }, '💥 Application failed');
+
+      await this.shutdown(1);
+    }
+  }
+
+  /**
+   * Display application banner
+   */
+  private displayBanner(): void {
+    const logger = getLogger();
+    const version = process.env.npm_package_version || '1.0.0';
+
+    const banner = `
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║           Five9 Enterprise Recording Pipeline            ║
+║                                                           ║
+║  Automated call recording transcription with OpenAI      ║
+║  and Notion integration                                  ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+
+Version:     ${version}
+Environment: ${process.env.NODE_ENV || 'development'}
+Started:     ${new Date().toISOString()}
+Node:        ${process.version}
+PID:         ${process.pid}
+    `;
+
+    logger.info(banner);
+  }
+
+  /**
+   * Setup graceful shutdown handlers
+   */
+  private setupShutdownHandlers(): void {
+    const signals: NodeJS.Signals[] = ['SIGTERM', 'SIGINT'];
+
+    signals.forEach((signal) => {
+      process.on(signal, () => {
+        const logger = getLogger();
+        logger.info({ signal }, 'Received shutdown signal');
+        void this.shutdown(0);
+      });
+    });
+  }
+
+  /**
+   * Graceful shutdown
+   */
+  private async shutdown(exitCode: number): Promise<void> {
+    if (this.isShuttingDown) {
+      return;
+    }
+
+    this.isShuttingDown = true;
+    const logger = getLogger();
+
+    try {
+      logger.info('Starting graceful shutdown');
+
+      // Stop pipeline if running
+      if (this.orchestrator) {
+        await this.orchestrator.stop();
+      }
+
+      // Stop monitoring server
+      if (this.monitoringServer) {
+        await this.monitoringServer.stop();
+      }
+
+      // Update metrics
+      const metrics = getMetricsCollector();
+      metrics.setPipelineHealth(false);
+
+      logger.info('Graceful shutdown completed');
+    } catch (error) {
+      logger.error(
+        { error: error instanceof Error ? error.message : String(error) },
+        'Error during shutdown'
+      );
+    } finally {
+      process.exit(exitCode);
+    }
+  }
+}
+
+// Start application
+const app = new Application();
+void app.run();

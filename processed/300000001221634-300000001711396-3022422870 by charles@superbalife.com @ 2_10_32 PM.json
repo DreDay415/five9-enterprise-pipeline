@@ -1,0 +1,218 @@
+{
+  "recording": {
+    "name": "300000001221634-300000001711396-3022422870 by charles@superbalife.com @ 2_10_32 PM.wav",
+    "size": 131230,
+    "modifyTime": 1769638335000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221634-300000001711396-3022422870 by charles@superbalife.com @ 2_10_32 PM.wav",
+    "uploadDate": "2026-01-28T22:12:15.000Z",
+    "callId": "300000001221634-300000001711396",
+    "agent": "charles",
+    "phoneNumber": "3022422870",
+    "callTimestamp": "2026-01-28T14:10:32.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, Charles, this is Jack Hayes, how are you?\n\nSpeaker 2: I'm good.\n\nSpeaker 1: How about yourself?\n\nSpeaker 2: Good.\n\nSpeaker 1: I just apparently ordered a prescription that I just want to check what exactly it was.\n\nSpeaker 2: This is Jack Hayes in New York, right?\n\nSpeaker 1: Yeah, it's got a code tag.\n\nSpeaker 2: Okay.\n\nSpeaker 1: It should have just came through.\n\nSpeaker 2: Yeah, it did.\n\nSpeaker 1: It's $71.79 for 100 milligram AGV pills of the 25 count, 25 pills of the Viagra AGV.\n\nSpeaker 2: Sorry.\n\nSpeaker 1: I just want to make sure it was, hey, I want to make sure it was the AGV.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: I wasn't sure.\n\nSpeaker 1: Yeah, the weather has been very spotty, so it's kind of hard to determine how soon it'll—\n\nSpeaker 2: Get there, brother, so just be patient with it, okay?\n\nSpeaker 1: Okay, no problem.\n\nSpeaker 2: What do you expect, like a week or less than a week?\n\nSpeaker 1: I would say hopefully by maybe Wednesday or Thursday next week.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Fair enough.\n\nSpeaker 2: That'll work.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Sounds good.\n\nSpeaker 1: All right, Jack.\n\nSpeaker 2: Have a great one.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thanks, Charles.\n\nSpeaker 1: You too.",
+    "duration": 4065,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 11,
+        "text": " Hey, Charles, this is Jack Hayes, how are you?"
+      },
+      {
+        "id": 1,
+        "start": 11,
+        "end": 12,
+        "text": " I'm good."
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 13,
+        "text": " How about yourself?"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 14,
+        "text": " Good."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 25,
+        "text": " I just apparently ordered a prescription that I just want to check what exactly it was."
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 29,
+        "text": " This is Jack Hayes in New York, right?"
+      },
+      {
+        "id": 6,
+        "start": 30,
+        "end": 32,
+        "text": " Yeah, it's got a code tag."
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 33,
+        "text": " Okay."
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 36,
+        "text": " It should have just came through."
+      },
+      {
+        "id": 9,
+        "start": 36,
+        "end": 37,
+        "text": " Yeah, it did."
+      },
+      {
+        "id": 10,
+        "start": 37,
+        "end": 49,
+        "text": " It's $71.79 for 100 milligram AGV pills of the 25 count, 25 pills of the Viagra AGV."
+      },
+      {
+        "id": 11,
+        "start": 49,
+        "end": 50,
+        "text": " Sorry."
+      },
+      {
+        "id": 12,
+        "start": 50,
+        "end": 53,
+        "text": " I just want to make sure it was, hey, I want to make sure it was the AGV."
+      },
+      {
+        "id": 13,
+        "start": 53,
+        "end": 54,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 54,
+        "end": 55,
+        "text": " All right."
+      },
+      {
+        "id": 15,
+        "start": 55,
+        "end": 56,
+        "text": " I wasn't sure."
+      },
+      {
+        "id": 16,
+        "start": 56,
+        "end": 60,
+        "text": " Yeah, the weather has been very spotty, so it's kind of hard to determine how soon it'll"
+      },
+      {
+        "id": 17,
+        "start": 60,
+        "end": 63,
+        "text": " get there, brother, so just be patient with it, okay?"
+      },
+      {
+        "id": 18,
+        "start": 63,
+        "end": 64,
+        "text": " Okay, no problem."
+      },
+      {
+        "id": 19,
+        "start": 64,
+        "end": 66,
+        "text": " What do you expect, like a week or less than a week?"
+      },
+      {
+        "id": 20,
+        "start": 66,
+        "end": 71,
+        "text": " I would say hopefully by maybe Wednesday or Thursday next week."
+      },
+      {
+        "id": 21,
+        "start": 71,
+        "end": 72,
+        "text": " Okay."
+      },
+      {
+        "id": 22,
+        "start": 72,
+        "end": 73,
+        "text": " Fair enough."
+      },
+      {
+        "id": 23,
+        "start": 73,
+        "end": 74,
+        "text": " That'll work."
+      },
+      {
+        "id": 24,
+        "start": 74,
+        "end": 75,
+        "text": " Okay."
+      },
+      {
+        "id": 25,
+        "start": 75,
+        "end": 76,
+        "text": " Sounds good."
+      },
+      {
+        "id": 26,
+        "start": 76,
+        "end": 77,
+        "text": " All right, Jack."
+      },
+      {
+        "id": 27,
+        "start": 77,
+        "end": 78,
+        "text": " Have a great one."
+      },
+      {
+        "id": 28,
+        "start": 78,
+        "end": 79,
+        "text": " All right."
+      },
+      {
+        "id": 29,
+        "start": 79,
+        "end": 80,
+        "text": " Thanks, Charles."
+      },
+      {
+        "id": 30,
+        "start": 80,
+        "end": 81,
+        "text": " You too."
+      },
+      {
+        "id": 31,
+        "start": 81,
+        "end": 81,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ab-acd2-f88e2ae26c2e",
+    "url": "https://www.notion.so/300000001221634-300000001711396-2f611d0a101c81abacd2f88e2ae26c2e"
+  },
+  "processedAt": "2026-01-28T22:17:57.356Z"
+}

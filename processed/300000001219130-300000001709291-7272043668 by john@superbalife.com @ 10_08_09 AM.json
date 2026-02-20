@@ -1,0 +1,158 @@
+{
+  "recording": {
+    "name": "300000001219130-300000001709291-7272043668 by john@superbalife.com @ 10_08_09 AM.wav",
+    "size": 99446,
+    "modifyTime": 1769592153000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219130-300000001709291-7272043668 by john@superbalife.com @ 10_08_09 AM.wav",
+    "uploadDate": "2026-01-28T09:22:33.000Z",
+    "callId": "300000001219130-300000001709291",
+    "agent": "john",
+    "phoneNumber": "7272043668",
+    "callTimestamp": "2026-01-28T10:08:09.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling, this is John, how can I help you?\n\nSpeaker 2: Hey John, uh, I just called to check on the status of a delivery.\n\nSpeaker 1: I've never received an email or anything like that, so...\n\nSpeaker 2: Yeah, I need your name and zip code, please.\n\nSpeaker 1: Uh, my name is Pat, last name's Cutrone, C-U-T-R-O-N-E.\n\nSpeaker 2: Need some zip?\n\nSpeaker 1: Yes, please.\n\nSpeaker 2: 33706.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Second Street in Treasure Island, Florida?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, it will be shipping out either today or tomorrow, sir.\n\nSpeaker 1: Yesterday with the snowstorms, our pharmacies in Kentucky, they had real limited hours, so they weren't able to get all the orders out.\n\nSpeaker 2: Well, I understand.\n\nSpeaker 1: Yeah, no, no, I know, I'm just telling you the status.\n\nSpeaker 2: But you are all set, it is good to go, it is set to ship, it just hasn't quite shipped.\n\nSpeaker 1: But you will get an email sent to the PJC1444 Gmail when it ships.\n\nSpeaker 2: Okay, I appreciate it.\n\nSpeaker 1: Of course, sir, hope you have a good one.\n\nSpeaker 2: You too, thanks.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 3043,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling, this is John, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 7,
+        "text": " Hey John, uh, I just called to check on the status of a delivery."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 11,
+        "text": " I've never received an email or anything like that, so..."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 13,
+        "text": " Yeah, I need your name and zip code, please."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 18,
+        "text": " Uh, my name is Pat, last name's Cutrone, C-U-T-R-O-N-E."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 20,
+        "text": " Need some zip?"
+      },
+      {
+        "id": 6,
+        "start": 20,
+        "end": 21,
+        "text": " Yes, please."
+      },
+      {
+        "id": 7,
+        "start": 21,
+        "end": 23,
+        "text": " 33706."
+      },
+      {
+        "id": 8,
+        "start": 23,
+        "end": 29,
+        "text": " Thank you."
+      },
+      {
+        "id": 9,
+        "start": 29,
+        "end": 31,
+        "text": " Second Street in Treasure Island, Florida?"
+      },
+      {
+        "id": 10,
+        "start": 31,
+        "end": 32,
+        "text": " Yes."
+      },
+      {
+        "id": 11,
+        "start": 32,
+        "end": 36,
+        "text": " Okay, it will be shipping out either today or tomorrow, sir."
+      },
+      {
+        "id": 12,
+        "start": 36,
+        "end": 42,
+        "text": " Yesterday with the snowstorms, our pharmacies in Kentucky, they had real limited hours, so they weren't able to get all the orders out."
+      },
+      {
+        "id": 13,
+        "start": 42,
+        "end": 43,
+        "text": " Well, I understand."
+      },
+      {
+        "id": 14,
+        "start": 43,
+        "end": 45,
+        "text": " Yeah, no, no, I know, I'm just telling you the status."
+      },
+      {
+        "id": 15,
+        "start": 45,
+        "end": 49,
+        "text": " But you are all set, it is good to go, it is set to ship, it just hasn't quite shipped."
+      },
+      {
+        "id": 16,
+        "start": 49,
+        "end": 54,
+        "text": " But you will get an email sent to the PJC1444 Gmail when it ships."
+      },
+      {
+        "id": 17,
+        "start": 54,
+        "end": 56,
+        "text": " Okay, I appreciate it."
+      },
+      {
+        "id": 18,
+        "start": 56,
+        "end": 58,
+        "text": " Of course, sir, hope you have a good one."
+      },
+      {
+        "id": 19,
+        "start": 58,
+        "end": 59,
+        "text": " You too, thanks."
+      },
+      {
+        "id": 20,
+        "start": 59,
+        "end": 60,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 21,
+        "start": 60,
+        "end": 61,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ab-ad4f-d7a457e8c236",
+    "url": "https://www.notion.so/300000001219130-300000001709291-2f611d0a101c81abad4fd7a457e8c236"
+  },
+  "processedAt": "2026-01-28T10:43:23.016Z"
+}

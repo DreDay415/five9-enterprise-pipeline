@@ -1,0 +1,137 @@
+{
+  "recording": {
+    "name": "300000001242338-300000001731816-4073412069 by gabriela@superbalife.com @ 12_44_48 PM.wav",
+    "size": 150340,
+    "modifyTime": 1771015602000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242338-300000001731816-4073412069 by gabriela@superbalife.com @ 12_44_48 PM.wav",
+    "uploadDate": "2026-02-13T20:46:42.000Z",
+    "callId": "300000001242338-300000001731816",
+    "agent": "gabriela",
+    "phoneNumber": "4073412069",
+    "callTimestamp": "2026-02-13T12:44:48.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_gabriela_300000001242338-300000001731816_4073412069.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_gabriela_300000001242338-300000001731816_4073412069.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi. Hi. How can I assist you? Thank you for calling Viagra.\n\nSpeaker 2: Well, I just received another shipment of this SCORE Blue.\n\nSpeaker 1: And there was no bill inside or nothing. I don't know how much I got charged for it.\n\nSpeaker 2: I originally tried a sample deal of it, and it didn't do anything for me.\n\nSpeaker 1: So I thought that was all it was, too. But now I got another order, and I really didn't want it.\n\nSpeaker 2: Yes. So this is a prescription, Ronald. So that prescription does come with an interval.\n\nSpeaker 1: It looks like you are getting a quantity of 10. So you do receive that every month.\n\nSpeaker 2: Well, I want to cancel it because it didn't do nothing for me.\n\nSpeaker 1: That is strange because it looks like you are getting the HEV.\n\nSpeaker 2: Perhaps you just need a stronger strength. It looks like you're getting 50 milligrams now.\n\nSpeaker 1: So we can go ahead and send you 10 free of 100 milligrams. That should definitely make a difference for you.\n\nSpeaker 2: Well, what did I just get charged for this order is what I want to know.\n\nSpeaker 1: The same price as the first one, the 10 for 49.\n\nSpeaker 2: It was $49?\n\nSpeaker 1: Yes. And then I'll be sending you 10 free of 100 milligrams.\n\nSpeaker 2: I'm pretty sure the higher dosage would definitely work for you. Okay?\n\nSpeaker 1: Okay. We'll try that. Okay. All right. That's fine. Thank you.\n\nSpeaker 2: Of course. Have a nice day. Bye.",
+    "duration": 4781,
+    "audioDuration": 92.4800033569336,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8,
+        "text": " Hi. Hi. How can I assist you? Thank you for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 8,
+        "end": 14,
+        "text": " Well, I just received another shipment of this SCORE Blue."
+      },
+      {
+        "id": 2,
+        "start": 14,
+        "end": 19,
+        "text": " And there was no bill inside or nothing. I don't know how much I got charged for it."
+      },
+      {
+        "id": 3,
+        "start": 19,
+        "end": 26,
+        "text": " I originally tried to sample deal of it, and it didn't do anything for me."
+      },
+      {
+        "id": 4,
+        "start": 26,
+        "end": 33,
+        "text": " So I thought that was all it was, too. But now I got another order, and I really didn't want it."
+      },
+      {
+        "id": 5,
+        "start": 33,
+        "end": 39,
+        "text": " Yes. So this is a prescription, Ronald. So that prescription does come with an interval."
+      },
+      {
+        "id": 6,
+        "start": 39,
+        "end": 44,
+        "text": " It looks like you are getting a quantity of 10. So you do receive that every month."
+      },
+      {
+        "id": 7,
+        "start": 44,
+        "end": 49,
+        "text": " Well, I want to cancel it because it didn't do nothing for me."
+      },
+      {
+        "id": 8,
+        "start": 50,
+        "end": 54,
+        "text": " That is strange because it looks like you are getting the HEV."
+      },
+      {
+        "id": 9,
+        "start": 54,
+        "end": 58,
+        "text": " Perhaps you just need a stronger strength. It looks like you're getting 50 milligrams now."
+      },
+      {
+        "id": 10,
+        "start": 58,
+        "end": 64,
+        "text": " So we can go ahead and send you 10 free of 100 milligrams. That should definitely make a difference for you."
+      },
+      {
+        "id": 11,
+        "start": 64,
+        "end": 69,
+        "text": " Well, what did I just get charged for this order is what I want to know."
+      },
+      {
+        "id": 12,
+        "start": 69,
+        "end": 73,
+        "text": " The same price as the first one, the 10 for 49."
+      },
+      {
+        "id": 13,
+        "start": 73,
+        "end": 76,
+        "text": " It was $49?"
+      },
+      {
+        "id": 14,
+        "start": 76,
+        "end": 81,
+        "text": " Yes. And then I'll be sending you 10 free of 100 milligrams."
+      },
+      {
+        "id": 15,
+        "start": 81,
+        "end": 86,
+        "text": " I'm pretty sure the higher dosage would definitely work for you. Okay?"
+      },
+      {
+        "id": 16,
+        "start": 86,
+        "end": 90,
+        "text": " Okay. We'll try that. Okay. All right. That's fine. Thank you."
+      },
+      {
+        "id": 17,
+        "start": 90,
+        "end": 92,
+        "text": " Of course. Have a nice day. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8125-a438-da8e40fa05cd",
+    "url": "https://www.notion.so/300000001242338-300000001731816-30611d0a101c8125a438da8e40fa05cd"
+  },
+  "processedAt": "2026-02-13T20:59:22.479Z"
+}

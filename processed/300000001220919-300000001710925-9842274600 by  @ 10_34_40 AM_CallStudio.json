@@ -1,0 +1,37 @@
+{
+  "recording": {
+    "name": "300000001220919-300000001710925-9842274600 by  @ 10_34_40 AM_CallStudio.wav",
+    "size": 44976,
+    "modifyTime": 1769625336000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220919-300000001710925-9842274600 by  @ 10_34_40 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T18:35:36.000Z",
+    "callId": "300000001220919-300000001710925",
+    "phoneNumber": "9842274600",
+    "callTimestamp": "2026-01-28T18:35:36.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto.\n\nSpeaker 2: Y claro.",
+    "duration": 948,
+    "language": "spanish",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 18.200000762939453,
+        "text": " Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto"
+      },
+      {
+        "id": 1,
+        "start": 18.200000762939453,
+        "end": 27.200000762939453,
+        "text": " y claro."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-817b-b724-d9e7b2ae8c9a",
+    "url": "https://www.notion.so/300000001220919-300000001710925-2f711d0a101c817bb724d9e7b2ae8c9a"
+  },
+  "processedAt": "2026-01-29T00:14:17.083Z"
+}

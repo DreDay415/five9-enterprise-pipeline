@@ -1,0 +1,224 @@
+{
+  "recording": {
+    "name": "300000001220808-300000001710819-6318047774 by kt@superbalife.com @ 9_48_59 AM.wav",
+    "size": 123106,
+    "modifyTime": 1769623058000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220808-300000001710819-6318047774 by kt@superbalife.com @ 9_48_59 AM.wav",
+    "uploadDate": "2026-01-28T17:57:38.000Z",
+    "callId": "300000001220808-300000001710819",
+    "agent": "kt",
+    "phoneNumber": "6318047774",
+    "callTimestamp": "2026-01-28T09:48:59.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I don't see who's calling in, but I'm going to use the 631 number to pull up your account.\n\nSpeaker 2: And then I'm going to have you help me verify some information so I can help you put a stop\n\nSpeaker 1: to this.\n\nSpeaker 2: Right, sir?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay.\n\nSpeaker 2: You're very welcome.\n\nSpeaker 1: Thanks for calling in.\n\nSpeaker 2: And I do see that you've been working, Joe, with Dr. Michael Lee, one of our Pfizer doctors.\n\nSpeaker 1: And I see he set you up.\n\nSpeaker 2: Just confirm if I'm reading the right script.\n\nSpeaker 1: It says Dr. Michael Lee, he sets you up as a VIP.\n\nSpeaker 2: It's a Viagra 50 milligrams, it's a white diamond pill, it's the FDA-approved one that\n\nSpeaker 1: we make in our Pfizer labs.\n\nSpeaker 2: And then I do see that, I do notice that in your chart, Dr. Lee has ordered the pharmacy\n\nSpeaker 1: to send you refills on his behalf.\n\nSpeaker 2: Do you want me to put a stop to that?\n\nSpeaker 1: Did he notify you?\n\nSpeaker 2: Yes, please.\n\nSpeaker 1: I didn't authorize that.\n\nSpeaker 2: But I only was getting it the first time to try it to see if I liked it, and to be honest,\n\nSpeaker 1: I didn't.\n\nSpeaker 2: So I didn't know he'd put me on a reoccurring.\n\nSpeaker 1: Yeah, so that's a standard practice with this guy, I've seen him done it before.\n\nSpeaker 2: So let me put you on a refill, I'll put a stop to this, but I'll take care of you, all\n\nSpeaker 1: right?\n\nSpeaker 2: But I'm sorry about that.\n\nSpeaker 1: Okay.\n\nSpeaker 2: One moment.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.",
+    "duration": 4337,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8.920000076293945,
+        "text": " I don't see who's calling in, but I'm going to use the 631 number to pull up your account."
+      },
+      {
+        "id": 1,
+        "start": 8.920000076293945,
+        "end": 13.600000381469727,
+        "text": " And then I'm going to have you help me verify some information so I can help you put a stop"
+      },
+      {
+        "id": 2,
+        "start": 13.600000381469727,
+        "end": 14.600000381469727,
+        "text": " to this."
+      },
+      {
+        "id": 3,
+        "start": 14.600000381469727,
+        "end": 15.600000381469727,
+        "text": " Right, sir?"
+      },
+      {
+        "id": 4,
+        "start": 15.600000381469727,
+        "end": 16.600000381469727,
+        "text": " Okay."
+      },
+      {
+        "id": 5,
+        "start": 16.600000381469727,
+        "end": 17.600000381469727,
+        "text": " Thank you."
+      },
+      {
+        "id": 6,
+        "start": 17.600000381469727,
+        "end": 18.600000381469727,
+        "text": " Okay."
+      },
+      {
+        "id": 7,
+        "start": 18.600000381469727,
+        "end": 19.600000381469727,
+        "text": " You're very welcome."
+      },
+      {
+        "id": 8,
+        "start": 19.600000381469727,
+        "end": 20.600000381469727,
+        "text": " Thanks for calling in."
+      },
+      {
+        "id": 9,
+        "start": 20.600000381469727,
+        "end": 24.15999984741211,
+        "text": " And I do see that you've been working, Joe, with Dr. Michael Lee, one of our Pfizer doctors."
+      },
+      {
+        "id": 10,
+        "start": 24.15999984741211,
+        "end": 26.520000457763672,
+        "text": " And I see he set you up."
+      },
+      {
+        "id": 11,
+        "start": 26.520000457763672,
+        "end": 30.15999984741211,
+        "text": " Just confirm if I'm reading the right script."
+      },
+      {
+        "id": 12,
+        "start": 30.15999984741211,
+        "end": 33.79999923706055,
+        "text": " It says Dr. Michael Lee, he sets you up as a VIP."
+      },
+      {
+        "id": 13,
+        "start": 33.79999923706055,
+        "end": 38.599998474121094,
+        "text": " It's a Viagra 50 milligrams, it's a white diamond pill, it's the FDA-approved one that"
+      },
+      {
+        "id": 14,
+        "start": 38.599998474121094,
+        "end": 40.52000045776367,
+        "text": " we make in our Pfizer labs."
+      },
+      {
+        "id": 15,
+        "start": 40.52000045776367,
+        "end": 46.2400016784668,
+        "text": " And then I do see that, I do notice that in your chart, Dr. Lee has ordered the pharmacy"
+      },
+      {
+        "id": 16,
+        "start": 46.2400016784668,
+        "end": 48.439998626708984,
+        "text": " to send you refills on his behalf."
+      },
+      {
+        "id": 17,
+        "start": 48.439998626708984,
+        "end": 50.400001525878906,
+        "text": " Do you want me to put a stop to that?"
+      },
+      {
+        "id": 18,
+        "start": 50.400001525878906,
+        "end": 51.400001525878906,
+        "text": " Did he notify you?"
+      },
+      {
+        "id": 19,
+        "start": 51.400001525878906,
+        "end": 52.400001525878906,
+        "text": " Yes, please."
+      },
+      {
+        "id": 20,
+        "start": 52.400001525878906,
+        "end": 53.400001525878906,
+        "text": " I didn't authorize that."
+      },
+      {
+        "id": 21,
+        "start": 53.63999938964844,
+        "end": 57.880001068115234,
+        "text": " But I only was getting it the first time to try it to see if I liked it, and to be honest,"
+      },
+      {
+        "id": 22,
+        "start": 57.880001068115234,
+        "end": 59.720001220703125,
+        "text": " I didn't."
+      },
+      {
+        "id": 23,
+        "start": 59.720001220703125,
+        "end": 64.16000366210938,
+        "text": " So I didn't know he'd put me on a reoccurring."
+      },
+      {
+        "id": 24,
+        "start": 64.16000366210938,
+        "end": 68.4000015258789,
+        "text": " Yeah, so that's a standard practice with this guy, I've seen him done it before."
+      },
+      {
+        "id": 25,
+        "start": 68.4000015258789,
+        "end": 72.12000274658203,
+        "text": " So let me put you on a refill, I'll put a stop to this, but I'll take care of you, all"
+      },
+      {
+        "id": 26,
+        "start": 72.12000274658203,
+        "end": 73.12000274658203,
+        "text": " right?"
+      },
+      {
+        "id": 27,
+        "start": 73.12000274658203,
+        "end": 74.12000274658203,
+        "text": " But I'm sorry about that."
+      },
+      {
+        "id": 28,
+        "start": 74.12000274658203,
+        "end": 75.12000274658203,
+        "text": " Okay."
+      },
+      {
+        "id": 29,
+        "start": 75.12000274658203,
+        "end": 76.12000274658203,
+        "text": " One moment."
+      },
+      {
+        "id": 30,
+        "start": 76.12000274658203,
+        "end": 77.12000274658203,
+        "text": " Thank you."
+      },
+      {
+        "id": 31,
+        "start": 77.12000274658203,
+        "end": 78.12000274658203,
+        "text": " Thank you."
+      },
+      {
+        "id": 32,
+        "start": 78.12000274658203,
+        "end": 78.12000274658203,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ed-acc6-cb0bd094ccaa",
+    "url": "https://www.notion.so/300000001220808-300000001710819-2f611d0a101c81edacc6cb0bd094ccaa"
+  },
+  "processedAt": "2026-01-28T18:14:17.274Z"
+}

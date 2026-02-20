@@ -1,0 +1,488 @@
+{
+  "recording": {
+    "name": "300000001220829-300000001710855-9788082046 by josimar@superbalife.com @ 9_59_25 AM.wav",
+    "size": 342546,
+    "modifyTime": 1769623406000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220829-300000001710855-9788082046 by josimar@superbalife.com @ 9_59_25 AM.wav",
+    "uploadDate": "2026-01-28T18:03:26.000Z",
+    "callId": "300000001220829-300000001710855",
+    "agent": "josimar",
+    "phoneNumber": "9788082046",
+    "callTimestamp": "2026-01-28T09:59:25.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, how can I help you today?\n\nSpeaker 2: Yes, my name is Richard Selfridge. I'm calling to refill a prescription.\n\nSpeaker 1: Yeah, I can help you with that. One moment.\n\nSpeaker 2: What's your zip code, sir?\n\nSpeaker 1: Well, I'm in Florida right now, but my normal address and zip code is 01469.\n\nSpeaker 2: Pulled you up here. So it looks like last time you got 30 pills of 63. Were you looking to refill that?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Got it. Give me one second.\n\nSpeaker 1: OK, is it going to be billed on a MasterCard that ends in 7643?\n\nSpeaker 2: Yes.\n\nSpeaker 1: OK, one moment. You're all set. The order will get to your home in three to five business days.\n\nSpeaker 2: Hope you have a good day.\n\nSpeaker 1: Hold on, hold on.\n\nSpeaker 2: Can you get that shipped to a new address?\n\nSpeaker 1: Oh, let me see here.\n\nSpeaker 2: We're in Florida for two months.\n\nSpeaker 1: Got it. What's the new address?\n\nSpeaker 2: So let me just start changing everything right now.\n\nSpeaker 1: One moment.\n\nSpeaker 2: OK, thank you.\n\nSpeaker 1: All right. What's the zip code?\n\nSpeaker 2: Whoops, hold on.\n\nSpeaker 1: I think it's 33706.\n\nSpeaker 2: 33706?\n\nSpeaker 1: Let me get it on a piece of paper.\n\nSpeaker 2: No worries.\n\nSpeaker 1: Oh, yeah.\n\nSpeaker 2: Yeah, I got a piece of paper with it.\n\nSpeaker 1: Oh, come on.\n\nSpeaker 2: It is 33706.\n\nSpeaker 1: 33746?\n\nSpeaker 2: No, 06.\n\nSpeaker 1: OK, so it's correct.\n\nSpeaker 2: What's the city name?\n\nSpeaker 1: It's St. Pete Beach, Florida.\n\nSpeaker 2: St. Pete, P-E-T-E Beach, Florida?\n\nSpeaker 1: Yep.\n\nSpeaker 2: OK, so St. Pete Beach, 33706 Florida.\n\nSpeaker 1: What's the address now?\n\nSpeaker 2: 6855 Gulf, G-U-L-F Winds, W-I-N-D-S Drive.\n\nSpeaker 1: And you said Gulf, G-U-L-F, correct?\n\nSpeaker 2: Yes.\n\nSpeaker 1: OK, perfect.\n\nSpeaker 2: So I have it all here.\n\nSpeaker 1: Let me save this real quick.\n\nSpeaker 2: And it's unit number one.\n\nSpeaker 1: Unit number one, OK.\n\nSpeaker 2: Let me update that here for a second.\n\nSpeaker 1: I'm going to just notify my pharmacy real quick so they can redirect the order over here.\n\nSpeaker 2: Because we're going to try to ship it to the other one, but the order's brand new.\n\nSpeaker 1: So I don't think it'll be an issue. One second here.\n\nSpeaker 2: Yep.\n\nSpeaker 1: All right, you're all set, sir. The order will be there in about three to five business days.\n\nSpeaker 2: If any questions come up, let us know.\n\nSpeaker 1: I hope you have a good day.\n\nSpeaker 2: OK.\n\nSpeaker 1: OK, thank you.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: No problem.\n\nSpeaker 2: Bye-bye.",
+    "duration": 9195,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.3399999141693115,
+        "text": " Viagra, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 2.3399999141693115,
+        "end": 4.179999828338623,
+        "text": " Yes, my name is Richard Selfridge."
+      },
+      {
+        "id": 2,
+        "start": 4.179999828338623,
+        "end": 7.079999923706055,
+        "text": " I'm calling to refill a prescription."
+      },
+      {
+        "id": 3,
+        "start": 7.079999923706055,
+        "end": 8.520000457763672,
+        "text": " Yeah, I can help you with that."
+      },
+      {
+        "id": 4,
+        "start": 8.520000457763672,
+        "end": 9.020000457763672,
+        "text": " One moment."
+      },
+      {
+        "id": 5,
+        "start": 17.15999984741211,
+        "end": 19.65999984741211,
+        "text": " What's your zip code, sir?"
+      },
+      {
+        "id": 6,
+        "start": 19.65999984741211,
+        "end": 22.559999465942383,
+        "text": " Well, I'm in Florida right now."
+      },
+      {
+        "id": 7,
+        "start": 22.559999465942383,
+        "end": 28.700000762939453,
+        "text": " But my normal address and zip code is 01469."
+      },
+      {
+        "id": 8,
+        "start": 28.81999969482422,
+        "end": 29.31999969482422,
+        "text": " Chip?"
+      },
+      {
+        "id": 9,
+        "start": 29.31999969482422,
+        "end": 30.1200008392334,
+        "text": " Pulled you up here."
+      },
+      {
+        "id": 10,
+        "start": 30.1200008392334,
+        "end": 33.099998474121094,
+        "text": " So it looks like last time you got 30 pills of 63."
+      },
+      {
+        "id": 11,
+        "start": 33.099998474121094,
+        "end": 35.5,
+        "text": " Were you looking to refill that?"
+      },
+      {
+        "id": 12,
+        "start": 35.5,
+        "end": 36.7400016784668,
+        "text": " Yes."
+      },
+      {
+        "id": 13,
+        "start": 36.7400016784668,
+        "end": 37.2400016784668,
+        "text": " Got it."
+      },
+      {
+        "id": 14,
+        "start": 37.2400016784668,
+        "end": 38.08000183105469,
+        "text": " Give me one second."
+      },
+      {
+        "id": 15,
+        "start": 46.900001525878906,
+        "end": 49.34000015258789,
+        "text": " OK, is it going to be billed on a MasterCard that"
+      },
+      {
+        "id": 16,
+        "start": 49.34000015258789,
+        "end": 51.65999984741211,
+        "text": " ends in 7643?"
+      },
+      {
+        "id": 17,
+        "start": 51.65999984741211,
+        "end": 52.7400016784668,
+        "text": " Yes."
+      },
+      {
+        "id": 18,
+        "start": 52.7400016784668,
+        "end": 53.81999969482422,
+        "text": " OK, one moment."
+      },
+      {
+        "id": 19,
+        "start": 54.040000915527344,
+        "end": 54.779998779296875,
+        "text": " You're all set."
+      },
+      {
+        "id": 20,
+        "start": 54.779998779296875,
+        "end": 57.279998779296875,
+        "text": " The order will get to your home in three to five business days."
+      },
+      {
+        "id": 21,
+        "start": 57.279998779296875,
+        "end": 58.70000076293945,
+        "text": " Hope you have a good day."
+      },
+      {
+        "id": 22,
+        "start": 58.70000076293945,
+        "end": 59.939998626708984,
+        "text": " Hold on, hold on."
+      },
+      {
+        "id": 23,
+        "start": 59.939998626708984,
+        "end": 63.2599983215332,
+        "text": " Can you get that shipped to a new address?"
+      },
+      {
+        "id": 24,
+        "start": 63.2599983215332,
+        "end": 64.81999969482422,
+        "text": " Oh, let me see here."
+      },
+      {
+        "id": 25,
+        "start": 68.0999984741211,
+        "end": 70.81999969482422,
+        "text": " We're in Florida for two months."
+      },
+      {
+        "id": 26,
+        "start": 70.81999969482422,
+        "end": 71.31999969482422,
+        "text": " Got it."
+      },
+      {
+        "id": 27,
+        "start": 71.31999969482422,
+        "end": 72.62000274658203,
+        "text": " What's the new address?"
+      },
+      {
+        "id": 28,
+        "start": 72.62000274658203,
+        "end": 74.81999969482422,
+        "text": " So let me just start changing everything right now."
+      },
+      {
+        "id": 29,
+        "start": 74.81999969482422,
+        "end": 75.31999969482422,
+        "text": " One moment."
+      },
+      {
+        "id": 30,
+        "start": 80.31999969482422,
+        "end": 80.81999969482422,
+        "text": " OK, thank you."
+      },
+      {
+        "id": 31,
+        "start": 84.81999969482422,
+        "end": 85.31999969482422,
+        "text": " All right."
+      },
+      {
+        "id": 32,
+        "start": 85.31999969482422,
+        "end": 88.81999969482422,
+        "text": " What's the zip code?"
+      },
+      {
+        "id": 33,
+        "start": 88.81999969482422,
+        "end": 89.81999969482422,
+        "text": " Whoops, hold on."
+      },
+      {
+        "id": 34,
+        "start": 94.81999969482422,
+        "end": 98.81999969482422,
+        "text": " I think it's 33706."
+      },
+      {
+        "id": 35,
+        "start": 98.81999969482422,
+        "end": 101.81999969482422,
+        "text": " 33706?"
+      },
+      {
+        "id": 36,
+        "start": 101.81999969482422,
+        "end": 106.81999969482422,
+        "text": " Let me get it on a piece of paper."
+      },
+      {
+        "id": 37,
+        "start": 106.81999969482422,
+        "end": 107.31999969482422,
+        "text": " No worries."
+      },
+      {
+        "id": 38,
+        "start": 107.31999969482422,
+        "end": 108.81999969482422,
+        "text": " Oh, yeah."
+      },
+      {
+        "id": 39,
+        "start": 108.81999969482422,
+        "end": 111.81999969482422,
+        "text": " Yeah, I got a piece of paper with it."
+      },
+      {
+        "id": 40,
+        "start": 111.81999969482422,
+        "end": 114.81999969482422,
+        "text": " Oh, come on."
+      },
+      {
+        "id": 41,
+        "start": 114.81999969482422,
+        "end": 119.31999969482422,
+        "text": " It is 33706."
+      },
+      {
+        "id": 42,
+        "start": 119.31999969482422,
+        "end": 121.81999969482422,
+        "text": " 33746?"
+      },
+      {
+        "id": 43,
+        "start": 121.81999969482422,
+        "end": 123.31999969482422,
+        "text": " No, 06."
+      },
+      {
+        "id": 44,
+        "start": 123.31999969482422,
+        "end": 124.31999969482422,
+        "text": " OK, so it's correct."
+      },
+      {
+        "id": 45,
+        "start": 124.31999969482422,
+        "end": 126.81999969482422,
+        "text": " What's the city name?"
+      },
+      {
+        "id": 46,
+        "start": 126.81999969482422,
+        "end": 130.32000732421875,
+        "text": " It's St. Pete Beach, Florida."
+      },
+      {
+        "id": 47,
+        "start": 130.32000732421875,
+        "end": 134.82000732421875,
+        "text": " St. Pete, P-E-T-E Beach, Florida?"
+      },
+      {
+        "id": 48,
+        "start": 134.82000732421875,
+        "end": 135.82000732421875,
+        "text": " Yep."
+      },
+      {
+        "id": 49,
+        "start": 135.82000732421875,
+        "end": 140.32000732421875,
+        "text": " OK, so St. Pete Beach, 33706 Florida."
+      },
+      {
+        "id": 50,
+        "start": 140.32000732421875,
+        "end": 142.32000732421875,
+        "text": " What's the address now?"
+      },
+      {
+        "id": 51,
+        "start": 142.32000732421875,
+        "end": 153.82000732421875,
+        "text": " 6855 Gulf G-U-L-F Winds W-I-N-D-S Drive."
+      },
+      {
+        "id": 52,
+        "start": 153.82000732421875,
+        "end": 156.82000732421875,
+        "text": " And you said Gulf G-U-L-F, correct?"
+      },
+      {
+        "id": 53,
+        "start": 156.82000732421875,
+        "end": 157.82000732421875,
+        "text": " Yes."
+      },
+      {
+        "id": 54,
+        "start": 157.82000732421875,
+        "end": 158.32000732421875,
+        "text": " OK, perfect."
+      },
+      {
+        "id": 55,
+        "start": 158.32000732421875,
+        "end": 159.32000732421875,
+        "text": " So I have it all here."
+      },
+      {
+        "id": 56,
+        "start": 159.32000732421875,
+        "end": 161.82000732421875,
+        "text": " Let me save this real quick."
+      },
+      {
+        "id": 57,
+        "start": 161.82000732421875,
+        "end": 164.82000732421875,
+        "text": " And it's unit number one."
+      },
+      {
+        "id": 58,
+        "start": 164.82000732421875,
+        "end": 166.32000732421875,
+        "text": " Unit number one, OK."
+      },
+      {
+        "id": 59,
+        "start": 166.32000732421875,
+        "end": 168.32000732421875,
+        "text": " Let me update that here for a second."
+      },
+      {
+        "id": 60,
+        "start": 168.82000732421875,
+        "end": 170.82000732421875,
+        "text": " I'm going to just notify my pharmacy real quick"
+      },
+      {
+        "id": 61,
+        "start": 170.82000732421875,
+        "end": 172.82000732421875,
+        "text": " so they can redirect the order over here."
+      },
+      {
+        "id": 62,
+        "start": 172.82000732421875,
+        "end": 175.32000732421875,
+        "text": " Because we're going to try to ship it to the other one,"
+      },
+      {
+        "id": 63,
+        "start": 175.32000732421875,
+        "end": 176.82000732421875,
+        "text": " but the order's brand new."
+      },
+      {
+        "id": 64,
+        "start": 176.82000732421875,
+        "end": 179.32000732421875,
+        "text": " So I don't think it'll be an issue."
+      },
+      {
+        "id": 65,
+        "start": 179.32000732421875,
+        "end": 180.32000732421875,
+        "text": " OK."
+      },
+      {
+        "id": 66,
+        "start": 180.32000732421875,
+        "end": 181.32000732421875,
+        "text": " One second here."
+      },
+      {
+        "id": 67,
+        "start": 181.32000732421875,
+        "end": 181.82000732421875,
+        "text": " Yep."
+      },
+      {
+        "id": 68,
+        "start": 199.32000732421875,
+        "end": 200.82000732421875,
+        "text": " All right, you're all set, sir."
+      },
+      {
+        "id": 69,
+        "start": 200.82000732421875,
+        "end": 203.32000732421875,
+        "text": " The order will be there in about three to five business days."
+      },
+      {
+        "id": 70,
+        "start": 203.32000732421875,
+        "end": 205.32000732421875,
+        "text": " If any questions come up, let us know."
+      },
+      {
+        "id": 71,
+        "start": 205.32000732421875,
+        "end": 206.32000732421875,
+        "text": " I hope you have a good day."
+      },
+      {
+        "id": 72,
+        "start": 206.32000732421875,
+        "end": 206.82000732421875,
+        "text": " OK."
+      },
+      {
+        "id": 73,
+        "start": 206.82000732421875,
+        "end": 207.82000732421875,
+        "text": " OK, thank you."
+      },
+      {
+        "id": 74,
+        "start": 207.82000732421875,
+        "end": 208.32000732421875,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 75,
+        "start": 208.32000732421875,
+        "end": 208.82000732421875,
+        "text": " No problem."
+      },
+      {
+        "id": 76,
+        "start": 208.82000732421875,
+        "end": 210.32000732421875,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813d-a547-ca4bd467329b",
+    "url": "https://www.notion.so/300000001220829-300000001710855-2f611d0a101c813da547ca4bd467329b"
+  },
+  "processedAt": "2026-01-28T18:10:15.220Z"
+}

@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001220830-300000001710866-7708753891 by  @ 10_02_39 AM_CallStudio.wav",
+    "size": 42636,
+    "modifyTime": 1769623408000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220830-300000001710866-7708753891 by  @ 10_02_39 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T18:03:28.000Z",
+    "callId": "300000001220830-300000001710866",
+    "phoneNumber": "7708753891",
+    "callTimestamp": "2026-01-28T18:03:28.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: I'm calling because I got an unauthorized charge in my account.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: I got an unauthorized charge.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 853,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.28000020980835,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.28000020980835,
+        "end": 7.28000020980835,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.28000020980835,
+        "end": 10.479999542236328,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.479999542236328,
+        "end": 16.559999465942383,
+        "text": " I'm calling because I got an unauthorized charge in my account."
+      },
+      {
+        "id": 4,
+        "start": 16.559999465942383,
+        "end": 23.31999969482422,
+        "text": " I didn't require any medication."
+      },
+      {
+        "id": 5,
+        "start": 23.31999969482422,
+        "end": 24.760000228881836,
+        "text": " I got an unauthorized charge."
+      },
+      {
+        "id": 6,
+        "start": 24.760000228881836,
+        "end": 25.760000228881836,
+        "text": " Thanks."
+      },
+      {
+        "id": 7,
+        "start": 25.760000228881836,
+        "end": 25.959999084472656,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-819b-941c-e7b77a9f7f23",
+    "url": "https://www.notion.so/300000001220830-300000001710866-2f611d0a101c819b941ce7b77a9f7f23"
+  },
+  "processedAt": "2026-01-28T18:09:45.104Z"
+}

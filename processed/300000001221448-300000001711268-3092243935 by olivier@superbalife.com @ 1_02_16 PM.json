@@ -1,0 +1,386 @@
+{
+  "recording": {
+    "name": "300000001221448-300000001711268-3092243935 by olivier@superbalife.com @ 1_02_16 PM.wav",
+    "size": 309526,
+    "modifyTime": 1769634334000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221448-300000001711268-3092243935 by olivier@superbalife.com @ 1_02_16 PM.wav",
+    "uploadDate": "2026-01-28T21:05:34.000Z",
+    "callId": "300000001221448-300000001711268",
+    "agent": "olivier",
+    "phoneNumber": "3092243935",
+    "callTimestamp": "2026-01-28T13:02:16.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yes, my name is Kent Gray and I've been trying to order some Viagra AGV online and somehow\n\nSpeaker 2: I'm in the system that it says that my phone number is already in use, please use another\n\nSpeaker 1: number.\n\nSpeaker 2: I don't have another number so I was just wondering if I could somehow do this over\n\nSpeaker 1: the phone.\n\nSpeaker 2: Yes, yes, it's probably because we are trying to create a new account so your account still\n\nSpeaker 1: exists here.\n\nSpeaker 2: You have a cancelled account I think in 2022.\n\nSpeaker 1: Let me have the authorization.\n\nSpeaker 2: I'm going to reinstate your account and we're going to place your order.\n\nSpeaker 1: You know how many pairs you want to reorder?\n\nSpeaker 2: It's not what I, I want to order the Viagra AGV.\n\nSpeaker 1: Yeah, the new one.\n\nSpeaker 2: Yeah, how many of them?\n\nSpeaker 1: I want to start off with the, I was quoted a pack of 10 for $49.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: And we're probably going to have to, is that payment information correct, ending by 2879?\n\nSpeaker 1: You just updated it?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: And the shipping address, 108 North 1st Street, Eastern Illinois, that's, that's the correct?\n\nSpeaker 2: It is correct, yes.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yes.\n\nSpeaker 1: So let me place the order for 10.\n\nSpeaker 2: You want 50 or 100 milligrams?\n\nSpeaker 1: I want 100.\n\nSpeaker 2: And you want regular shipping, right?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Perfect.\n\nSpeaker 1: I was able to place your order, Mr. Gray, 10 P.L. Viagra AGV, the new formula, improved\n\nSpeaker 2: formula.\n\nSpeaker 1: Yeah, you're all set.\n\nSpeaker 2: Okay.\n\nSpeaker 1: In a few hours, the doctor's going to write a new prescription because you used to have\n\nSpeaker 2: the old one that you canceled, and also it was very old, it's 2022, so we need a new\n\nSpeaker 1: one.\n\nSpeaker 2: Doctor's going to do it in the next few hours.\n\nSpeaker 1: Do you have any update to your medical survey, by chance?\n\nSpeaker 2: Say again, please.\n\nSpeaker 1: Do you have any update to your medical survey, health-wise?\n\nSpeaker 2: No, it's pretty much the same.\n\nSpeaker 1: Same.\n\nSpeaker 2: Okay, perfect.\n\nSpeaker 1: All right.\n\nSpeaker 2: So everything looks great for now, and, you know, two to five business days, you will\n\nSpeaker 1: receive your order.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Anything you might need?\n\nSpeaker 2: No, I think that'll do it.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thank you for calling.\n\nSpeaker 1: You have a good one.\n\nSpeaker 2: You too.\n\nSpeaker 1: Bye-bye.",
+    "duration": 6695,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 14.520000457763672,
+        "text": " Yes, my name is Kent Gray and I've been trying to order some Viagra AGV online and somehow"
+      },
+      {
+        "id": 1,
+        "start": 14.520000457763672,
+        "end": 20.8799991607666,
+        "text": " I'm in the system that it says that my phone number is already in use, please use another"
+      },
+      {
+        "id": 2,
+        "start": 20.8799991607666,
+        "end": 22.639999389648438,
+        "text": " number."
+      },
+      {
+        "id": 3,
+        "start": 22.639999389648438,
+        "end": 26.8799991607666,
+        "text": " I don't have another number so I was just wondering if I could somehow do this over"
+      },
+      {
+        "id": 4,
+        "start": 26.8799991607666,
+        "end": 27.8799991607666,
+        "text": " the phone."
+      },
+      {
+        "id": 5,
+        "start": 27.8799991607666,
+        "end": 34.15999984741211,
+        "text": " Yes, yes, it's probably because we are trying to create a new account so your account still"
+      },
+      {
+        "id": 6,
+        "start": 34.15999984741211,
+        "end": 35.15999984741211,
+        "text": " exists here."
+      },
+      {
+        "id": 7,
+        "start": 35.15999984741211,
+        "end": 39.040000915527344,
+        "text": " You have a cancelled account I think in 2022."
+      },
+      {
+        "id": 8,
+        "start": 39.040000915527344,
+        "end": 40.040000915527344,
+        "text": " Let me have the authorization."
+      },
+      {
+        "id": 9,
+        "start": 40.040000915527344,
+        "end": 42.79999923706055,
+        "text": " I'm going to reinstate your account and we're going to place your order."
+      },
+      {
+        "id": 10,
+        "start": 42.79999923706055,
+        "end": 46.08000183105469,
+        "text": " You know how many pairs you want to reorder?"
+      },
+      {
+        "id": 11,
+        "start": 46.08000183105469,
+        "end": 51.08000183105469,
+        "text": " It's not what I, I want to order the Viagra AGV."
+      },
+      {
+        "id": 12,
+        "start": 51.08000183105469,
+        "end": 52.08000183105469,
+        "text": " Yeah, the new one."
+      },
+      {
+        "id": 13,
+        "start": 52.08000183105469,
+        "end": 53.08000183105469,
+        "text": " Yeah, how many of them?"
+      },
+      {
+        "id": 14,
+        "start": 53.08000183105469,
+        "end": 63.47999954223633,
+        "text": " I want to start off with the, I was quoted a pack of 10 for $49."
+      },
+      {
+        "id": 15,
+        "start": 63.47999954223633,
+        "end": 64.4800033569336,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 64.4800033569336,
+        "end": 65.4800033569336,
+        "text": " All right."
+      },
+      {
+        "id": 17,
+        "start": 65.4800033569336,
+        "end": 73.4000015258789,
+        "text": " And we're probably going to have to, is that payment information correct, ending by 2879?"
+      },
+      {
+        "id": 18,
+        "start": 73.4000015258789,
+        "end": 75.08000183105469,
+        "text": " You just updated it?"
+      },
+      {
+        "id": 19,
+        "start": 75.08000183105469,
+        "end": 76.08000183105469,
+        "text": " Yes."
+      },
+      {
+        "id": 20,
+        "start": 76.08000183105469,
+        "end": 77.08000183105469,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 77.08000183105469,
+        "end": 78.08000183105469,
+        "text": " Okay."
+      },
+      {
+        "id": 22,
+        "start": 78.08000183105469,
+        "end": 84.08000183105469,
+        "text": " And the shipping address, 108 North 1st Street, Eastern Illinois, that's, that's the correct?"
+      },
+      {
+        "id": 23,
+        "start": 84.08000183105469,
+        "end": 87.08000183105469,
+        "text": " It is correct, yes."
+      },
+      {
+        "id": 24,
+        "start": 87.08000183105469,
+        "end": 88.08000183105469,
+        "text": " Okay."
+      },
+      {
+        "id": 25,
+        "start": 88.08000183105469,
+        "end": 89.08000183105469,
+        "text": " Yes."
+      },
+      {
+        "id": 26,
+        "start": 89.08000183105469,
+        "end": 104.55999755859375,
+        "text": " So let me place the order for 10."
+      },
+      {
+        "id": 27,
+        "start": 105.55999755859375,
+        "end": 108.55999755859375,
+        "text": " You want 50 or 100 milligrams?"
+      },
+      {
+        "id": 28,
+        "start": 108.55999755859375,
+        "end": 111.55999755859375,
+        "text": " I want 100."
+      },
+      {
+        "id": 29,
+        "start": 111.55999755859375,
+        "end": 116.55999755859375,
+        "text": " And you want regular shipping, right?"
+      },
+      {
+        "id": 30,
+        "start": 116.55999755859375,
+        "end": 117.55999755859375,
+        "text": " Yes."
+      },
+      {
+        "id": 31,
+        "start": 117.55999755859375,
+        "end": 118.55999755859375,
+        "text": " Okay."
+      },
+      {
+        "id": 32,
+        "start": 118.55999755859375,
+        "end": 119.55999755859375,
+        "text": " All right."
+      },
+      {
+        "id": 33,
+        "start": 119.55999755859375,
+        "end": 120.55999755859375,
+        "text": " Perfect."
+      },
+      {
+        "id": 34,
+        "start": 120.55999755859375,
+        "end": 137.39999389648438,
+        "text": " I was able to place your order, Mr. Gray, 10 P.L. Viagra AGV, the new formula, improved"
+      },
+      {
+        "id": 35,
+        "start": 137.39999389648438,
+        "end": 138.39999389648438,
+        "text": " formula."
+      },
+      {
+        "id": 36,
+        "start": 138.39999389648438,
+        "end": 139.39999389648438,
+        "text": " Yeah, you're all set."
+      },
+      {
+        "id": 37,
+        "start": 139.39999389648438,
+        "end": 140.39999389648438,
+        "text": " Okay."
+      },
+      {
+        "id": 38,
+        "start": 140.39999389648438,
+        "end": 146.39999389648438,
+        "text": " In a few hours, the doctor's going to write a new prescription because you used to have"
+      },
+      {
+        "id": 39,
+        "start": 146.39999389648438,
+        "end": 151.63999938964844,
+        "text": " the old one that you canceled, and also it was very old, it's 2022, so we need a new"
+      },
+      {
+        "id": 40,
+        "start": 151.63999938964844,
+        "end": 152.63999938964844,
+        "text": " one."
+      },
+      {
+        "id": 41,
+        "start": 152.63999938964844,
+        "end": 153.63999938964844,
+        "text": " Doctor's going to do it in the next few hours."
+      },
+      {
+        "id": 42,
+        "start": 153.63999938964844,
+        "end": 156.63999938964844,
+        "text": " Do you have any update to your medical survey, by chance?"
+      },
+      {
+        "id": 43,
+        "start": 156.63999938964844,
+        "end": 158.63999938964844,
+        "text": " Say again, please."
+      },
+      {
+        "id": 44,
+        "start": 158.63999938964844,
+        "end": 161.63999938964844,
+        "text": " Do you have any update to your medical survey, health-wise?"
+      },
+      {
+        "id": 45,
+        "start": 161.63999938964844,
+        "end": 164.63999938964844,
+        "text": " No, it's pretty much the same."
+      },
+      {
+        "id": 46,
+        "start": 164.63999938964844,
+        "end": 165.63999938964844,
+        "text": " Same."
+      },
+      {
+        "id": 47,
+        "start": 165.63999938964844,
+        "end": 166.63999938964844,
+        "text": " Okay, perfect."
+      },
+      {
+        "id": 48,
+        "start": 166.63999938964844,
+        "end": 167.63999938964844,
+        "text": " All right."
+      },
+      {
+        "id": 49,
+        "start": 167.63999938964844,
+        "end": 171.63999938964844,
+        "text": " So everything looks great for now, and, you know, two to five business days, you will"
+      },
+      {
+        "id": 50,
+        "start": 171.63999938964844,
+        "end": 174.63999938964844,
+        "text": " receive your order."
+      },
+      {
+        "id": 51,
+        "start": 174.63999938964844,
+        "end": 175.63999938964844,
+        "text": " Okay."
+      },
+      {
+        "id": 52,
+        "start": 175.8800048828125,
+        "end": 178.8800048828125,
+        "text": " Anything you might need?"
+      },
+      {
+        "id": 53,
+        "start": 178.8800048828125,
+        "end": 181.8800048828125,
+        "text": " No, I think that'll do it."
+      },
+      {
+        "id": 54,
+        "start": 181.8800048828125,
+        "end": 182.8800048828125,
+        "text": " All right."
+      },
+      {
+        "id": 55,
+        "start": 182.8800048828125,
+        "end": 183.8800048828125,
+        "text": " Thank you for calling."
+      },
+      {
+        "id": 56,
+        "start": 183.8800048828125,
+        "end": 184.8800048828125,
+        "text": " You have a good one."
+      },
+      {
+        "id": 57,
+        "start": 184.8800048828125,
+        "end": 185.8800048828125,
+        "text": " You too."
+      },
+      {
+        "id": 58,
+        "start": 185.8800048828125,
+        "end": 186.8800048828125,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 59,
+        "start": 186.8800048828125,
+        "end": 186.8800048828125,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81b6-a030-dbe2e5868bb9",
+    "url": "https://www.notion.so/300000001221448-300000001711268-2f611d0a101c81b6a030dbe2e5868bb9"
+  },
+  "processedAt": "2026-01-28T22:45:37.176Z"
+}

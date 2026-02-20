@@ -1,0 +1,170 @@
+{
+  "recording": {
+    "name": "300000001220988-300000001710968-6307202110 by josimar@superbalife.com @ 10_53_59 AM.wav",
+    "size": 137536,
+    "modifyTime": 1769626546000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220988-300000001710968-6307202110 by josimar@superbalife.com @ 10_53_59 AM.wav",
+    "uploadDate": "2026-01-28T18:55:46.000Z",
+    "callId": "300000001220988-300000001710968",
+    "agent": "josimar",
+    "phoneNumber": "6307202110",
+    "callTimestamp": "2026-01-28T10:53:59.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, how can I help you today?\n\nSpeaker 2: How are you doing, sir?\n\nSpeaker 1: Doing well, how can I help you?\n\nSpeaker 2: Thank you for taking my call.\n\nSpeaker 1: The reason for my call is I called about two weeks ago and talked to one of your associates.\n\nSpeaker 2: I received your product, and I've tried it on three different occasions with absolutely no results.\n\nSpeaker 1: And he mentioned that I didn't see anything to call back for a refund, so that's why I'm calling.\n\nSpeaker 2: Sure.\n\nSpeaker 1: What's your zip code and your last name to pull up your account here in our system?\n\nSpeaker 2: Zip code 60143.\n\nSpeaker 1: My last name is Manna, M-A-N-N-A, Mark.\n\nSpeaker 2: Okay, I pulled you up here.\n\nSpeaker 1: All right, so we're just going to go ahead and email you the return instructions, sir.\n\nSpeaker 2: That way you can send the remaining pills back for the refund.\n\nSpeaker 1: Okay.\n\nSpeaker 2: You'll receive them in your email inbox in a few moments.\n\nSpeaker 1: However, I went ahead and stopped any future order for you, so you're all set today.\n\nSpeaker 2: Okay, so just follow the instructions, and that's it?\n\nSpeaker 1: Yeah, exactly.\n\nSpeaker 2: Just follow the instructions in the email, send it back for the refund, and once it gets to our pharmacy, you'll be able to obtain that.\n\nSpeaker 1: All right, thank you.\n\nSpeaker 2: No problem.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 3456,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Viagra, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 7,
+        "text": " How are you doing, sir?"
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " Doing well, how can I help you?"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 11,
+        "text": " Thank you for taking my call."
+      },
+      {
+        "id": 4,
+        "start": 11,
+        "end": 19,
+        "text": " The reason for my call is I called about two weeks ago and talked to one of your associates."
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 27,
+        "text": " I received your product, and I've tried it on three different occasions with absolutely no results."
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 38,
+        "text": " And he mentioned that I didn't see anything to call back for a refund, so that's why I'm calling."
+      },
+      {
+        "id": 7,
+        "start": 38,
+        "end": 39,
+        "text": " Sure."
+      },
+      {
+        "id": 8,
+        "start": 39,
+        "end": 43,
+        "text": " What's your zip code and your last name to pull up your account here in our system?"
+      },
+      {
+        "id": 9,
+        "start": 43,
+        "end": 45,
+        "text": " Zip code 60143."
+      },
+      {
+        "id": 10,
+        "start": 45,
+        "end": 49,
+        "text": " My last name is Manna, M-A-N-N-A, Mark."
+      },
+      {
+        "id": 11,
+        "start": 49,
+        "end": 51,
+        "text": " Okay, I pulled you up here."
+      },
+      {
+        "id": 12,
+        "start": 51,
+        "end": 54,
+        "text": " All right, so we're just going to go ahead and email you the return instructions, sir."
+      },
+      {
+        "id": 13,
+        "start": 54,
+        "end": 57,
+        "text": " That way you can send the remaining bills back for the refund."
+      },
+      {
+        "id": 14,
+        "start": 57,
+        "end": 58,
+        "text": " Okay."
+      },
+      {
+        "id": 15,
+        "start": 58,
+        "end": 60,
+        "text": " You'll receive them in your email inbox in a few moments."
+      },
+      {
+        "id": 16,
+        "start": 60,
+        "end": 65,
+        "text": " However, I went ahead and stopped any future order for you, so you're all separate today."
+      },
+      {
+        "id": 17,
+        "start": 65,
+        "end": 71,
+        "text": " Okay, so just follow the instructions, and that's it?"
+      },
+      {
+        "id": 18,
+        "start": 71,
+        "end": 72,
+        "text": " Yeah, exactly."
+      },
+      {
+        "id": 19,
+        "start": 72,
+        "end": 78,
+        "text": " Just follow the instructions in the email, send it back for the refund, and once it gets to our pharmacy, you'll be able to obtain that."
+      },
+      {
+        "id": 20,
+        "start": 78,
+        "end": 81,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 21,
+        "start": 81,
+        "end": 82,
+        "text": " No problem."
+      },
+      {
+        "id": 22,
+        "start": 82,
+        "end": 83,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 23,
+        "start": 83,
+        "end": 84,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81da-b53a-f9dda726e601",
+    "url": "https://www.notion.so/300000001220988-300000001710968-2f711d0a101c81dab53af9dda726e601"
+  },
+  "processedAt": "2026-01-29T00:04:43.282Z"
+}

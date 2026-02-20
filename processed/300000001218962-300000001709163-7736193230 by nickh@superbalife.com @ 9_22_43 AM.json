@@ -1,0 +1,92 @@
+{
+  "recording": {
+    "name": "300000001218962-300000001709163-7736193230 by nickh@superbalife.com @ 9_22_43 AM.wav",
+    "size": 68440,
+    "modifyTime": 1769582238000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218962-300000001709163-7736193230 by nickh@superbalife.com @ 9_22_43 AM.wav",
+    "uploadDate": "2026-01-28T06:37:18.000Z",
+    "callId": "300000001218962-300000001709163",
+    "agent": "nickh",
+    "phoneNumber": "7736193230",
+    "callTimestamp": "2026-01-28T09:22:43.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra at Score Blue. How can I help you today?\n\nSpeaker 2: I am just checking. I placed an order, but I can't tell whether it's been processed or not.\n\nSpeaker 1: Okay, sir. Can I get your full name and date of birth?\n\nSpeaker 2: Yeah, it's Timothy.\n\nSpeaker 1: Chagrou, S-U-G-R-U-E.\n\nSpeaker 2: February 20th, 1961.\n\nSpeaker 1: Yeah, Tim, I do see it went through. This was for the 50 milligram Viagra AGV, a quantity of 10.\n\nSpeaker 2: Right. Yeah, it looks like the doctor's reviewing your health survey right now.\n\nSpeaker 1: But you should be approved by the end of the day, and you can expect it later this week.\n\nSpeaker 2: Okay. Thank you. Thank you.\n\nSpeaker 1: Fine.",
+    "duration": 2320,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.359999895095825,
+        "text": " Hi, thank you so much for calling Viagra at score blue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3.359999895095825,
+        "end": 9.039999961853027,
+        "text": " I am just checking I placed an order, but I'm I can't tell whether it's been processed or not"
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 12,
+        "text": " Okay, sir. Can I get your full name and date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 12.5600004196167,
+        "end": 14.5600004196167,
+        "text": " Yeah, it's a Timothy"
+      },
+      {
+        "id": 4,
+        "start": 14.880000114440918,
+        "end": 16.8799991607666,
+        "text": " Chagrou s u g r u e"
+      },
+      {
+        "id": 5,
+        "start": 17.639999389648438,
+        "end": 19.639999389648438,
+        "text": " February 20th 1961"
+      },
+      {
+        "id": 6,
+        "start": 23.1200008392334,
+        "end": 28.34000015258789,
+        "text": " Yeah, Tim I do see it went through this was for the 50 milligram Viagra AGV a quantity of 10"
+      },
+      {
+        "id": 7,
+        "start": 29.18000030517578,
+        "end": 33.02000045776367,
+        "text": " Right. Yeah, it looks like the doctor's reviewing your health survey right now"
+      },
+      {
+        "id": 8,
+        "start": 33.02000045776367,
+        "end": 36.58000183105469,
+        "text": " But you should be approved by the end of the day and you can expect it later this week"
+      },
+      {
+        "id": 9,
+        "start": 37.34000015258789,
+        "end": 39.34000015258789,
+        "text": " Okay. Thank you. Thank you"
+      },
+      {
+        "id": 10,
+        "start": 39.65999984741211,
+        "end": 41.65999984741211,
+        "text": " fine"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a2-8422-ddad72c99e4f",
+    "url": "https://www.notion.so/300000001218962-300000001709163-2f611d0a101c81a28422ddad72c99e4f"
+  },
+  "processedAt": "2026-01-28T17:21:07.962Z"
+}

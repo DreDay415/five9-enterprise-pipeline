@@ -1,0 +1,56 @@
+{
+  "recording": {
+    "name": "300000001218341-300000001708345-8123813271 by summer@verifiednutrition.com @ 2_28_22 PM.wav",
+    "size": 37630,
+    "modifyTime": 1769583434000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218341-300000001708345-8123813271 by summer@verifiednutrition.com @ 2_28_22 PM.wav",
+    "uploadDate": "2026-01-28T06:57:14.000Z",
+    "callId": "300000001218341-300000001708345",
+    "agent": "summer",
+    "phoneNumber": "8123813271",
+    "callTimestamp": "2026-01-28T14:28:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I think if we're calling customer service, I can help you.\n\nSpeaker 2: Hello, who have I got to hold up?\n\nSpeaker 1: Score Blue?\n\nSpeaker 2: Yes, Michelle, please.\n\nSpeaker 1: Okay, one second.",
+    "duration": 1537,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.359999895095825,
+        "text": " I think if we're calling customer service, I can help you."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8.539999961853027,
+        "text": " Hello, who have I got to hold up?"
+      },
+      {
+        "id": 2,
+        "start": 10.039999961853027,
+        "end": 10.640000343322754,
+        "text": " Score Blue?"
+      },
+      {
+        "id": 3,
+        "start": 12.199999809265137,
+        "end": 13.819999694824219,
+        "text": " Yes, Michelle, please."
+      },
+      {
+        "id": 4,
+        "start": 15.15999984741211,
+        "end": 15.979999542236328,
+        "text": " Okay, one second."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ab-bb59-e17469975ab9",
+    "url": "https://www.notion.so/300000001218341-300000001708345-2f611d0a101c81abbb59e17469975ab9"
+  },
+  "processedAt": "2026-01-28T16:22:35.257Z"
+}

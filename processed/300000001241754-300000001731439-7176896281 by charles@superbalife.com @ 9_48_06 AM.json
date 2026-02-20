@@ -1,0 +1,137 @@
+{
+  "recording": {
+    "name": "300000001241754-300000001731439-7176896281 by charles@superbalife.com @ 9_48_06 AM.wav",
+    "size": 174846,
+    "modifyTime": 1771005016000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241754-300000001731439-7176896281 by charles@superbalife.com @ 9_48_06 AM.wav",
+    "uploadDate": "2026-02-13T17:50:16.000Z",
+    "callId": "300000001241754-300000001731439",
+    "agent": "charles",
+    "phoneNumber": "7176896281",
+    "callTimestamp": "2026-02-13T09:48:06.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_charles_300000001241754-300000001731439_7176896281.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_charles_300000001241754-300000001731439_7176896281.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: I guess we have to go to Burger King.\n\nSpeaker 2: Thanks for calling Buyer. This is Charles.\n\nSpeaker 1: Yeah, hello. Is this somebody real, right?\n\nSpeaker 2: Uh, correct.\n\nSpeaker 1: Okay, so I just left my bank and the order that I supposedly ordered, that I ordered online, I've been trying to cancel\n\nSpeaker 2: because my bank card, this medication that I tried to get to fix my issue that I have, locked my bank account.\n\nSpeaker 1: My bank account put a lock on my card and shut my card down because of it.\n\nSpeaker 2: So I need to cancel the...\n\nSpeaker 1: Why is that?\n\nSpeaker 2: Because I... it's a scam.\n\nSpeaker 1: This is a scam?\n\nSpeaker 2: When a scam likely shows up against a bank card, the bank has their... they shut it down. They shut the card down.\n\nSpeaker 1: So the card has been shut down because of the fraudulent activity. That's pretty much what they said.\n\nSpeaker 2: Uh, I don't know why they would say that. I mean, we're the only FDA approved Viagra on the market.\n\nSpeaker 1: Wow.\n\nSpeaker 2: That's with Pfizer. So that's a completely false narrative that your bank has placed against us.\n\nSpeaker 1: We're pretty known with pretty much every single bank there is.\n\nSpeaker 2: However you want to play it, totally up to you. But like I just said, we are the only FDA approved Viagra on the market.",
+    "duration": 3885,
+    "audioDuration": 107.55999755859375,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " I guess we have to go to Burger King."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " Thanks for calling Buyer. This is Charles."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " Yeah, hello. Is this somebody real, right?"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 13,
+        "text": " Uh, correct."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 25,
+        "text": " Okay, so I just left my bank and the order that I supposedly ordered, that I ordered online, I've been trying to cancel"
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 36,
+        "text": " because my bank card, this medication that I tried to get to fix my issue that I have, locked my bank account."
+      },
+      {
+        "id": 6,
+        "start": 36,
+        "end": 41,
+        "text": " My bank account put a lock on my card and shut my card down because of it."
+      },
+      {
+        "id": 7,
+        "start": 42,
+        "end": 43,
+        "text": " So I need to cancel the..."
+      },
+      {
+        "id": 8,
+        "start": 43,
+        "end": 44,
+        "text": " Why is that?"
+      },
+      {
+        "id": 9,
+        "start": 45,
+        "end": 47,
+        "text": " Because I... it's a scam."
+      },
+      {
+        "id": 10,
+        "start": 49,
+        "end": 50,
+        "text": " This is a scam?"
+      },
+      {
+        "id": 11,
+        "start": 50,
+        "end": 64,
+        "text": " When a scam likely shows up against a bank card, the bank has their... they shut it down. They shut the card down."
+      },
+      {
+        "id": 12,
+        "start": 64,
+        "end": 74,
+        "text": " So the card has been shut down because of the fraudulent activity. That's pretty much what they said."
+      },
+      {
+        "id": 13,
+        "start": 74,
+        "end": 86,
+        "text": " Uh, I don't know why they would say that. I mean, we're the only FDA approved Viagra on the market."
+      },
+      {
+        "id": 14,
+        "start": 87,
+        "end": 88,
+        "text": " Wow."
+      },
+      {
+        "id": 15,
+        "start": 88,
+        "end": 95,
+        "text": " That's with Pfizer. So that's a completely false narrative that your bank has placed against us."
+      },
+      {
+        "id": 16,
+        "start": 96,
+        "end": 99,
+        "text": " We're pretty known with pretty much every single bank there is."
+      },
+      {
+        "id": 17,
+        "start": 99,
+        "end": 106,
+        "text": " However you want to play it, totally up to you. But like I just said, we are the only FDA approved Viagra on the market."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-819b-a6ba-c173ebcdbbdc",
+    "url": "https://www.notion.so/300000001241754-300000001731439-30611d0a101c819ba6bac173ebcdbbdc"
+  },
+  "processedAt": "2026-02-13T18:08:15.297Z"
+}

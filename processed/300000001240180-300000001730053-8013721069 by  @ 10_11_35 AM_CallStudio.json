@@ -1,0 +1,56 @@
+{
+  "recording": {
+    "name": "300000001240180-300000001730053-8013721069 by  @ 10_11_35 AM_CallStudio.wav",
+    "size": 26386,
+    "modifyTime": 1770919933000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240180-300000001730053-8013721069 by  @ 10_11_35 AM_CallStudio.wav",
+    "uploadDate": "2026-02-12T18:12:13.000Z",
+    "callId": "300000001240180-300000001730053",
+    "phoneNumber": "8013721069",
+    "callTimestamp": "2026-02-12T18:12:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: Prescription renewal.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1551,
+    "audioDuration": 16.200000762939453,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.199999809265137,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.199999809265137,
+        "end": 7.199999809265137,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.199999809265137,
+        "end": 11.199999809265137,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 11.199999809265137,
+        "end": 14.720000267028809,
+        "text": " Prescription renewal."
+      },
+      {
+        "id": 4,
+        "start": 14.720000267028809,
+        "end": 15.880000114440918,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8189-ab3c-c10b7ad00408",
+    "url": "https://www.notion.so/300000001240180-300000001730053-30511d0a101c8189ab3cc10b7ad00408"
+  },
+  "processedAt": "2026-02-12T18:29:35.396Z"
+}

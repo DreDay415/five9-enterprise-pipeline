@@ -1,0 +1,182 @@
+{
+  "recording": {
+    "name": "300000001220119-300000001709968-7654325978 by john@superbalife.com @ 2_53_03 PM.wav",
+    "size": 198506,
+    "modifyTime": 1769554526000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220119-300000001709968-7654325978 by john@superbalife.com @ 2_53_03 PM.wav",
+    "uploadDate": "2026-01-27T22:55:26.000Z",
+    "callId": "300000001220119-300000001709968",
+    "agent": "john",
+    "phoneNumber": "7654325978",
+    "callTimestamp": "2026-01-27T14:53:03.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Okay, John. Okay, I called up before. I had an order that came yesterday before I went to work, and it was the wrong pills.\n\nSpeaker 1: Oh, this is a new one.\n\nSpeaker 2: And I was just wondering if, um, I called, they took care of it, and I don't know what they're shipping. Are they going to still charge me for shipping?\n\nSpeaker 1: Oh, no, we don't charge you for the shipping, and I can tell you if it's shipped. I just need your name and zip code.\n\nSpeaker 2: Um, Kaczynski, Paul, K-O-Z-I-N-S-K-A-Y-3-2-1-5. No, I already paid, but they sent me the wrong pills.\n\nSpeaker 1: No, no, no, I know what you're talking about. We've had a couple, this has popped up a couple times, so we have a procedure.\n\nSpeaker 1: So we're not charging you at all. I can tell you that without even seeing your profile. I'm just going to see if it's already shipped for you. One second.\n\nSpeaker 2: Oh, okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: You're in Milwaukee?\n\nSpeaker 1: Yes.\n\nSpeaker 2: How cold is it there? My friend's going there in a few days, and I'm wondering what he's in for.\n\nSpeaker 1: Well, the air is cold. It was really cold. Right now, it's only around 10, but it was colder before.\n\nSpeaker 2: I saw it was like negative 8 or something the other day. I was like, geez.\n\nSpeaker 1: Yeah, the wind chill, it was around 30-something, but now it's like around 5, minus 5.\n\nSpeaker 2: Braver than...\n\nSpeaker 1: But the air is cold. Yeah, I wouldn't visit.\n\nSpeaker 2: He got roped into something with his girlfriend. Okay, Paul, so your order, the agent that helped you did do exactly what he said,\n\nSpeaker 1: and it actually did ship out today, or they created a label, so it's probably with the post office, so you should see it in a few days.\n\nSpeaker 2: All right, but would I be charged for shipping, sir?\n\nSpeaker 1: No, no, no, you're not charged anything at all. We just ship for free to make sure you get the right thing.\n\nSpeaker 2: Okay, no, I was just going to say, because I just have my rent from last month still in the check-in.\n\nSpeaker 1: Yeah, I totally understand. No, no, no, we didn't charge you for shipping or anything at all.\n\nSpeaker 2: Okay. All right, thanks a lot. I just wanted to know. All right, thanks a lot.\n\nSpeaker 1: Of course. Bye-bye.",
+    "duration": 6796,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3.200000047683716,
+        "end": 11,
+        "text": " Okay, John. Okay, I called up before. I had an order that came yesterday before I went to work, and it was the wrong pills."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 13,
+        "text": " Oh, this is a new one."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 22,
+        "text": " And I was just wondering if, um, I called, they took care of it, and I don't know what they're shipping. Are they going to still charge me for shipping?"
+      },
+      {
+        "id": 4,
+        "start": 22,
+        "end": 26,
+        "text": " Oh, no, we don't charge you for the shipping, and I can tell you if it's shipped. I just need your name and zip code."
+      },
+      {
+        "id": 5,
+        "start": 26,
+        "end": 37,
+        "text": " Um, Kaczynski, Paul, K-O-Z-I-N-S-K-A-Y-3-2-1-5. No, I already paid, but they sent me the wrong pills."
+      },
+      {
+        "id": 6,
+        "start": 37,
+        "end": 42,
+        "text": " No, no, no, I know what you're talking about. We've had a couple, this has popped up a couple times, so we have a procedure."
+      },
+      {
+        "id": 7,
+        "start": 42,
+        "end": 49,
+        "text": " So we're not charging you at all. I can tell you that without even seeing your profile. I'm just going to see if it's already shipped for you. One second."
+      },
+      {
+        "id": 8,
+        "start": 49,
+        "end": 50,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 9,
+        "start": 50,
+        "end": 51,
+        "text": " Okay."
+      },
+      {
+        "id": 10,
+        "start": 51,
+        "end": 53,
+        "text": " You're in Milwaukee?"
+      },
+      {
+        "id": 11,
+        "start": 53,
+        "end": 54,
+        "text": " Yes."
+      },
+      {
+        "id": 12,
+        "start": 55,
+        "end": 59,
+        "text": " How cold is it there? My friend's going there in a few days, and I'm wondering what he's in for."
+      },
+      {
+        "id": 13,
+        "start": 59,
+        "end": 65,
+        "text": " Well, the air is cold. It was really cold. Right now, it's only around 10, but it was colder before."
+      },
+      {
+        "id": 14,
+        "start": 65,
+        "end": 68,
+        "text": " I saw it was like negative 8 or something the other day. I was like, geez."
+      },
+      {
+        "id": 15,
+        "start": 68,
+        "end": 75,
+        "text": " Yeah, the wind chill, it was around 30-something, but now it's like around 5, minus 5."
+      },
+      {
+        "id": 16,
+        "start": 75,
+        "end": 76,
+        "text": " Braver than..."
+      },
+      {
+        "id": 17,
+        "start": 76,
+        "end": 80,
+        "text": " But the air is cold. Yeah, I wouldn't visit."
+      },
+      {
+        "id": 18,
+        "start": 81,
+        "end": 88,
+        "text": " He got roped into something with his girlfriend. Okay, Paul, so your order, the agent that helped you did do exactly what he said,"
+      },
+      {
+        "id": 19,
+        "start": 88,
+        "end": 94,
+        "text": " and it actually did ship out today, or they created a label, so it's probably with the post office, so you should see it in a few days."
+      },
+      {
+        "id": 20,
+        "start": 94,
+        "end": 97,
+        "text": " All right, but would I be charged for shipping, sir?"
+      },
+      {
+        "id": 21,
+        "start": 97,
+        "end": 102,
+        "text": " No, no, no, you're not charged anything at all. We just ship for free to make sure you get the right thing."
+      },
+      {
+        "id": 22,
+        "start": 102,
+        "end": 107,
+        "text": " Okay, no, I was just going to say, because I just have my rent from last month still in the check-in."
+      },
+      {
+        "id": 23,
+        "start": 108,
+        "end": 114,
+        "text": " Yeah, I totally understand. No, no, no, we didn't charge you for shipping or anything at all."
+      },
+      {
+        "id": 24,
+        "start": 114,
+        "end": 117,
+        "text": " Okay. All right, thanks a lot. I just wanted to know. All right, thanks a lot."
+      },
+      {
+        "id": 25,
+        "start": 117,
+        "end": 119,
+        "text": " Of course. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8149-a0a8-e195ab9facbc",
+    "url": "https://www.notion.so/300000001220119-300000001709968-2f511d0a101c8149a0a8e195ab9facbc"
+  },
+  "processedAt": "2026-01-27T22:56:27.981Z"
+}

@@ -1,0 +1,254 @@
+{
+  "recording": {
+    "name": "300000001221938-300000001711576-4082057555 by john@superbalife.com @ 4_22_32 PM.wav",
+    "size": 206760,
+    "modifyTime": 1769646301000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221938-300000001711576-4082057555 by john@superbalife.com @ 4_22_32 PM.wav",
+    "uploadDate": "2026-01-29T00:25:01.000Z",
+    "callId": "300000001221938-300000001711576",
+    "agent": "john",
+    "phoneNumber": "4082057555",
+    "callTimestamp": "2026-01-29T16:22:32.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Yeah, John. I just went online and ordered 10 of these new Viagra pills that you're offering.\n\nSpeaker 1: And it said that I was supposed to get a price of $49.\n\nSpeaker 2: But when I went to the receipt section, it says the charge is $63.95.\n\nSpeaker 1: Okay. What's your name and zip code? I can pull up your account.\n\nSpeaker 2: First name is Alan, A-L-A-N. Last name is Miller.\n\nSpeaker 1: I can give you my order number if you want that.\n\nSpeaker 2: No, the zip code's fine.\n\nSpeaker 1: 9-5-0-7-0.\n\nSpeaker 2: Thank you. One second.\n\nSpeaker 1: What was your first name again, sir?\n\nSpeaker 2: No problem. It's John.\n\nSpeaker 1: John. Thanks.\n\nSpeaker 2: Okay. Alan, you're in Saratoga?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Okay. Yeah, I do see your order here. That went through successfully.\n\nSpeaker 1: You should have gotten a new customer price of that $49 like you said.\n\nSpeaker 2: So I'll just refund you the difference there of $14.95.\n\nSpeaker 1: Oh, okay. Oh, thanks, man. You're awesome.\n\nSpeaker 2: Yeah, so it'll take a few days. You're welcome, sir.\n\nSpeaker 1: It'll take a few days for you to see it, but I did take care of that for you.\n\nSpeaker 2: And then your order's all set, though.\n\nSpeaker 1: Okay, so I should see it in the next couple weeks?\n\nSpeaker 2: Probably about a week.\n\nSpeaker 1: Five to seven days is the usual time frame.\n\nSpeaker 2: John, they're not paying you enough, man.\n\nSpeaker 1: I appreciate your help.\n\nSpeaker 2: Of course. Have a good night, sir.\n\nSpeaker 1: Do I tell anybody what a great job you're doing?\n\nSpeaker 2: I mean, if you want to, I don't know.\n\nSpeaker 1: I guess you could send us an e-mail.\n\nSpeaker 2: But if you want to speak to me going forward, my extension is 0026.\n\nSpeaker 1: 00-what was that?\n\nSpeaker 2: 26.\n\nSpeaker 1: Okay, man. I didn't have it.\n\nSpeaker 2: Well, you're awesome, dude. Thank you, sir.\n\nSpeaker 1: You're welcome. Of course. Have a good day.\n\nSpeaker 2: You too. Thanks.",
+    "duration": 6636,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 15,
+        "text": " Yeah, John. I just went online and ordered 10 of these new Viagra pills that you're offering."
+      },
+      {
+        "id": 2,
+        "start": 15,
+        "end": 22,
+        "text": " And it said that I was supposed to get a price of $49."
+      },
+      {
+        "id": 3,
+        "start": 22,
+        "end": 29,
+        "text": " But when I went to the receipt section, it says the charge is $63.95."
+      },
+      {
+        "id": 4,
+        "start": 29,
+        "end": 32,
+        "text": " Okay. What's your name and zip code? I can pull up your account."
+      },
+      {
+        "id": 5,
+        "start": 32,
+        "end": 39,
+        "text": " First name is Alan, A-L-A-N. Last name is Miller."
+      },
+      {
+        "id": 6,
+        "start": 39,
+        "end": 42,
+        "text": " I can give you my order number if you want that."
+      },
+      {
+        "id": 7,
+        "start": 42,
+        "end": 44,
+        "text": " No, the zip code's fine."
+      },
+      {
+        "id": 8,
+        "start": 44,
+        "end": 46,
+        "text": " 9-5-0-7-0."
+      },
+      {
+        "id": 9,
+        "start": 46,
+        "end": 49,
+        "text": " Thank you. One second."
+      },
+      {
+        "id": 10,
+        "start": 49,
+        "end": 51,
+        "text": " What was your first name again, sir?"
+      },
+      {
+        "id": 11,
+        "start": 51,
+        "end": 53,
+        "text": " No problem. It's John."
+      },
+      {
+        "id": 12,
+        "start": 53,
+        "end": 55,
+        "text": " John. Thanks."
+      },
+      {
+        "id": 13,
+        "start": 55,
+        "end": 58,
+        "text": " Okay. Alan, you're in Saratoga?"
+      },
+      {
+        "id": 14,
+        "start": 58,
+        "end": 61,
+        "text": " Yeah."
+      },
+      {
+        "id": 15,
+        "start": 61,
+        "end": 64,
+        "text": " Okay. Yeah, I do see your order here. That went through successfully."
+      },
+      {
+        "id": 16,
+        "start": 64,
+        "end": 68,
+        "text": " You should have gotten a new customer price of that $49 like you said."
+      },
+      {
+        "id": 17,
+        "start": 68,
+        "end": 72,
+        "text": " So I'll just refund you the difference there of $14.95."
+      },
+      {
+        "id": 18,
+        "start": 72,
+        "end": 77,
+        "text": " Oh, okay. Oh, thanks, man. You're awesome."
+      },
+      {
+        "id": 19,
+        "start": 77,
+        "end": 79,
+        "text": " Yeah, so it'll take a few days. You're welcome, sir."
+      },
+      {
+        "id": 20,
+        "start": 79,
+        "end": 82,
+        "text": " It'll take a few days for you to see it, but I did take care of that for you."
+      },
+      {
+        "id": 21,
+        "start": 82,
+        "end": 85,
+        "text": " And then your order's all set, though."
+      },
+      {
+        "id": 22,
+        "start": 85,
+        "end": 88,
+        "text": " Okay, so I should see it in the next couple weeks?"
+      },
+      {
+        "id": 23,
+        "start": 88,
+        "end": 90,
+        "text": " Probably about a week."
+      },
+      {
+        "id": 24,
+        "start": 90,
+        "end": 94,
+        "text": " Five to seven days is the usual time frame."
+      },
+      {
+        "id": 25,
+        "start": 94,
+        "end": 96,
+        "text": " John, they're not paying you enough, man."
+      },
+      {
+        "id": 26,
+        "start": 96,
+        "end": 98,
+        "text": " I appreciate your help."
+      },
+      {
+        "id": 27,
+        "start": 98,
+        "end": 100,
+        "text": " Of course. Have a good night, sir."
+      },
+      {
+        "id": 28,
+        "start": 100,
+        "end": 103,
+        "text": " Do I tell anybody what a great job you're doing?"
+      },
+      {
+        "id": 29,
+        "start": 103,
+        "end": 105,
+        "text": " I mean, if you want to, I don't know."
+      },
+      {
+        "id": 30,
+        "start": 105,
+        "end": 107,
+        "text": " I guess you could send us an e-mail."
+      },
+      {
+        "id": 31,
+        "start": 107,
+        "end": 113,
+        "text": " But if you want to speak to me going forward, my extension is 0026."
+      },
+      {
+        "id": 32,
+        "start": 113,
+        "end": 115,
+        "text": " 00-what was that?"
+      },
+      {
+        "id": 33,
+        "start": 115,
+        "end": 117,
+        "text": " 26."
+      },
+      {
+        "id": 34,
+        "start": 117,
+        "end": 120,
+        "text": " Okay, man. I didn't have it."
+      },
+      {
+        "id": 35,
+        "start": 120,
+        "end": 122,
+        "text": " Well, you're awesome, dude. Thank you, sir."
+      },
+      {
+        "id": 36,
+        "start": 122,
+        "end": 125,
+        "text": " You're welcome. Of course. Have a good day."
+      },
+      {
+        "id": 37,
+        "start": 125,
+        "end": 127,
+        "text": " You too. Thanks."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8148-a0d8-e0722fd31bb4",
+    "url": "https://www.notion.so/300000001221938-300000001711576-2f711d0a101c8148a0d8e0722fd31bb4"
+  },
+  "processedAt": "2026-01-29T10:08:07.743Z"
+}

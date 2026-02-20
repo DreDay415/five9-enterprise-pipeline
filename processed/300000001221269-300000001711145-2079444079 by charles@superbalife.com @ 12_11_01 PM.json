@@ -1,0 +1,74 @@
+{
+  "recording": {
+    "name": "300000001221269-300000001711145-2079444079 by charles@superbalife.com @ 12_11_01 PM.wav",
+    "size": 90996,
+    "modifyTime": 1769631139000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221269-300000001711145-2079444079 by charles@superbalife.com @ 12_11_01 PM.wav",
+    "uploadDate": "2026-01-28T20:12:19.000Z",
+    "callId": "300000001221269-300000001711145",
+    "agent": "charles",
+    "phoneNumber": "2079444079",
+    "callTimestamp": "2026-01-28T12:11:01.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yes, this is Roger Raymond speaking. I'd like to, I had ordered an order through you a month\n\nSpeaker 2: ago for several pills and blue pills and they sent me another order and I'd only ordered\n\nSpeaker 1: one. So I'd like to cancel that because it didn't work for me. So would you please cancel\n\nSpeaker 2: my order?\n\nSpeaker 1: Okay. I have Roger Raymond in Ocala, Florida.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Gotcha. Okay. This order, I'll cancel everything in the future. This order is on its way. I can't stop it right now.\n\nSpeaker 2: If you don't want it, all you need to do is write return to sender on it, put it back\n\nSpeaker 1: in your mailbox. Mailman will send it back to us for free and then we'll issue the refund\n\nSpeaker 2: for it.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay. I appreciate it. Thank you.\n\nSpeaker 1: Okay. Hope you have a good one.",
+    "duration": 2319,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 11.520000457763672,
+        "text": " Yes, this is Roger Raymond speaking. I'd like to, I had ordered an order through you a month"
+      },
+      {
+        "id": 1,
+        "start": 11.520000457763672,
+        "end": 22.84000015258789,
+        "text": " ago for several pills and blue pills and they sent me another order and I'd only ordered"
+      },
+      {
+        "id": 2,
+        "start": 22.84000015258789,
+        "end": 28,
+        "text": " one. So I'd like to cancel that because it didn't work for me. So would you please cancel"
+      },
+      {
+        "id": 3,
+        "start": 28,
+        "end": 36.31999969482422,
+        "text": " my order? Okay. I have Roger Raymond in Ocala, Florida. Yes. Gotcha. Okay. This order, I'll"
+      },
+      {
+        "id": 4,
+        "start": 36.31999969482422,
+        "end": 40.36000061035156,
+        "text": " cancel everything in the future. This order is on its way. I can't stop it right now."
+      },
+      {
+        "id": 5,
+        "start": 40.36000061035156,
+        "end": 44.040000915527344,
+        "text": " If you don't want it, all you need to do is write return to sender on it, put it back"
+      },
+      {
+        "id": 6,
+        "start": 44.040000915527344,
+        "end": 48.599998474121094,
+        "text": " in your mailbox. Mailman will send it back to us for free and then we'll issue the refund"
+      },
+      {
+        "id": 7,
+        "start": 48.599998474121094,
+        "end": 55.47999954223633,
+        "text": " for it. Okay. Okay. I appreciate it. Thank you. Okay. Hope you have a good one."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81b6-990d-f0277c128c87",
+    "url": "https://www.notion.so/300000001221269-300000001711145-2f611d0a101c81b6990df0277c128c87"
+  },
+  "processedAt": "2026-01-28T23:10:48.850Z"
+}

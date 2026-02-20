@@ -1,0 +1,197 @@
+{
+  "recording": {
+    "name": "300000001241981-300000001731577-2074462500 by gabriela@superbalife.com @ 10_53_00 AM.wav",
+    "size": 151576,
+    "modifyTime": 1771008895000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241981-300000001731577-2074462500 by gabriela@superbalife.com @ 10_53_00 AM.wav",
+    "uploadDate": "2026-02-13T18:54:55.000Z",
+    "callId": "300000001241981-300000001731577",
+    "agent": "gabriela",
+    "phoneNumber": "2074462500",
+    "callTimestamp": "2026-02-13T10:53:00.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_gabriela_300000001241981-300000001731577_2074462500.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_gabriela_300000001241981-300000001731577_2074462500.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Yeah, my name is Charles Schumann, S-H-U-M-A-N.\n\nSpeaker 1: And I'm a customer.\n\nSpeaker 2: And do you need my date of birth or anything?\n\nSpeaker 1: Yes, what's your date of birth, Charlie?\n\nSpeaker 2: 9-27-1946.\n\nSpeaker 1: Thank you. Okay, and you want to reorder yourself?\n\nSpeaker 2: No, I want to tell you a little story.\n\nSpeaker 1: So when I first went with you, the doctor prescribed Viagra AGV, okay?\n\nSpeaker 2: And that's what I got, and it worked fine.\n\nSpeaker 1: Well, as time passed on, you sent me some others, and I didn't even notice it,\n\nSpeaker 2: but those are not AGVs.\n\nSpeaker 1: The last two orders were not AGVs, so I'm wondering why that is.\n\nSpeaker 2: Okay, so they probably sent you the classic Viagra, the last two orders, and not the AGV.\n\nSpeaker 1: Correct.\n\nSpeaker 2: I don't know why, but I can go ahead and adjust that for you.\n\nSpeaker 1: I can notify the pharmacy so that they reship your order at no additional cost, okay,\n\nSpeaker 2: to make up for those orders.\n\nSpeaker 1: Okay, but I definitely want the AGVs, right?\n\nSpeaker 2: Yes, yes, so they would be reshipping your order with the AGVs.\n\nSpeaker 1: Yes, yes, so they would be reshipping your order with the correct Viagra AGV, okay?\n\nSpeaker 2: Okay, that's what you're recommending and that's what you're advertising.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: And they worked fine.\n\nSpeaker 1: Thank you very much, young lady.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Have a good day, Charlie.\n\nSpeaker 2: Bye.",
+    "duration": 3912,
+    "audioDuration": 93.23999786376953,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Yeah, my name is Charles Schumann, S-H-U-M-A-N,"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 10,
+        "text": " and I'm a customer."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 13,
+        "text": " And do you need my date of birth or anything?"
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 15,
+        "text": " Yes, what's your date of birth, Charlie?"
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 20,
+        "text": " 9-27-1946."
+      },
+      {
+        "id": 6,
+        "start": 20,
+        "end": 23,
+        "text": " Thank you. Okay, and you want to reorder yourself?"
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 27,
+        "text": " No, I want to tell you a little story."
+      },
+      {
+        "id": 8,
+        "start": 27,
+        "end": 35,
+        "text": " So when I first went with you, the doctor prescribed Viagra AGV, okay?"
+      },
+      {
+        "id": 9,
+        "start": 35,
+        "end": 38,
+        "text": " And that's what I got, and it worked fine."
+      },
+      {
+        "id": 10,
+        "start": 38,
+        "end": 42,
+        "text": " Well, as time passed on, you sent me some others, and I didn't even notice it,"
+      },
+      {
+        "id": 11,
+        "start": 42,
+        "end": 45,
+        "text": " but those are not AGVs."
+      },
+      {
+        "id": 12,
+        "start": 45,
+        "end": 49,
+        "text": " The last two orders were not AGVs, so I'm wondering why that is."
+      },
+      {
+        "id": 13,
+        "start": 50,
+        "end": 57,
+        "text": " Okay, so they probably sent you the classic Viagra, the last two orders, and not the AGV."
+      },
+      {
+        "id": 14,
+        "start": 57,
+        "end": 59,
+        "text": " Correct."
+      },
+      {
+        "id": 15,
+        "start": 59,
+        "end": 63,
+        "text": " I don't know why, but I can go ahead and adjust that for you."
+      },
+      {
+        "id": 16,
+        "start": 63,
+        "end": 67,
+        "text": " I can notify the pharmacy so that they reship your order at no additional cost, okay,"
+      },
+      {
+        "id": 17,
+        "start": 67,
+        "end": 69,
+        "text": " to make up for those orders."
+      },
+      {
+        "id": 18,
+        "start": 69,
+        "end": 73,
+        "text": " Okay, but I definitely want the AGVs, right?"
+      },
+      {
+        "id": 19,
+        "start": 73,
+        "end": 76,
+        "text": " Yes, yes, so they would be reshipping your order with the AGVs,"
+      },
+      {
+        "id": 20,
+        "start": 76,
+        "end": 81,
+        "text": " Yes, yes, so they would be reshipping your order with the correct Viagra AGV, okay?"
+      },
+      {
+        "id": 21,
+        "start": 81,
+        "end": 85,
+        "text": " Okay, that's what you're recommending and that's what you're advertising."
+      },
+      {
+        "id": 22,
+        "start": 85,
+        "end": 86,
+        "text": " Yeah."
+      },
+      {
+        "id": 23,
+        "start": 86,
+        "end": 88,
+        "text": " And they worked fine."
+      },
+      {
+        "id": 24,
+        "start": 88,
+        "end": 90,
+        "text": " Thank you very much, young lady."
+      },
+      {
+        "id": 25,
+        "start": 90,
+        "end": 91,
+        "text": " You're welcome."
+      },
+      {
+        "id": 26,
+        "start": 91,
+        "end": 92,
+        "text": " Have a good day, Charlie."
+      },
+      {
+        "id": 27,
+        "start": 92,
+        "end": 93,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8132-b4fe-d93ff172781d",
+    "url": "https://www.notion.so/300000001241981-300000001731577-30611d0a101c8132b4fed93ff172781d"
+  },
+  "processedAt": "2026-02-13T19:00:13.303Z"
+}

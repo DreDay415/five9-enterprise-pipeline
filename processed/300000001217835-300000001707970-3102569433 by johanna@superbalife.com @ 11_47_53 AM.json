@@ -1,0 +1,398 @@
+{
+  "recording": {
+    "name": "300000001217835-300000001707970-3102569433 by johanna@superbalife.com @ 11_47_53 AM.wav",
+    "size": 353336,
+    "modifyTime": 1769584932000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217835-300000001707970-3102569433 by johanna@superbalife.com @ 11_47_53 AM.wav",
+    "uploadDate": "2026-01-28T07:22:12.000Z",
+    "callId": "300000001217835-300000001707970",
+    "agent": "johanna",
+    "phoneNumber": "3102569433",
+    "callTimestamp": "2026-01-28T11:47:53.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hello?\n\nSpeaker 2: Hi, Joanna.\n\nSpeaker 1: Hi, Mr. Bolton.\n\nSpeaker 2: How are you?\n\nSpeaker 1: Hey, good.\n\nSpeaker 2: How are you doing?\n\nSpeaker 1: I'm doing great.\n\nSpeaker 2: I got the message that you called this morning.\n\nSpeaker 1: I was just going to give you a call back as soon as our morning rush settled down, so—\n\nSpeaker 2: You beat me to it.\n\nSpeaker 1: How can I help you today?\n\nSpeaker 2: Well, I was just wondering.\n\nSpeaker 1: I remember at one point, you know, I was on the phone with you and you said that you wanted—\n\nSpeaker 2: To talk to me.\n\nSpeaker 1: And I was like, well, I don't know.\n\nSpeaker 2: I don't want to talk to you.\n\nSpeaker 1: I don't want to talk to you.\n\nSpeaker 2: I don't want to talk to you.\n\nSpeaker 1: I don't want to talk to you.\n\nSpeaker 2: I don't want to talk to you.\n\nSpeaker 1: I don't want to talk to you.\n\nSpeaker 2: Instead of a AGV.\n\nSpeaker 1: And I remember it got a whole bunch of them.\n\nSpeaker 2: Can you go back and look at that order and tell me how much I got?\n\nSpeaker 1: Absolutely.\n\nSpeaker 2: I'm looking at your chart now.\n\nSpeaker 1: So let's see how much I got.\n\nSpeaker 2: So that was in July of last year, you got a quantity of 50 D-Alice, 20 milligrams.\n\nSpeaker 1: I'm just curious why, hold on, let me check on the back end.\n\nSpeaker 2: My question is, because I remember that, again, I don't know if it was Angel or John—\n\nSpeaker 1: But they were just really inappropriate in saying, okay, well, you know, if you switch—\n\nSpeaker 2: You can never change back.\n\nSpeaker 1: Are you sure you want to do that?\n\nSpeaker 2: Raise your right hand and swear to God.\n\nSpeaker 1: It's just like, you know, you shouldn't make people feel like that because from my perspective—\n\nSpeaker 2: What I'm thinking is, I remember I was able to get that and it wasn't like I had to wait—\n\nSpeaker 1: A hundred days until I could get another one.\n\nSpeaker 2: It was like I'm now considering the fact of, because it seems like the AGV is in such short—\n\nSpeaker 1: Supply or something that maybe I should go back to C-Alice because at least I can get—\n\nSpeaker 2: You know, a 30-day supply every 30 days or something, you know?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Is that what I feel?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: I'm just reading over your hand.\n\nSpeaker 1: Yeah, it's just not doable on the rations that I'm being given, you know?\n\nSpeaker 2: This is not even a controlled substance, you know?\n\nSpeaker 1: I mean, I'm a physician.\n\nSpeaker 2: I myself prescribe Adderall and things like that, and those are controlled substances—\n\nSpeaker 1: Which require monitoring and checking and, you know, making sure that a person doesn't—\n\nSpeaker 2: But I mean, you know, for everything else I prescribe, this is ridiculous.\n\nSpeaker 1: I'm just being rationed and I'm, it's really affecting me because as I told you with the—\n\nSpeaker 2: Problem with my girlfriend, I have to really guess correctly all the time in order for—\n\nSpeaker 1: Me not to run out, and I can't guess correctly all the time because sometimes I think I'm—\n\nSpeaker 2: Going to get it and I don't, but sometimes, you know, I don't know.\n\nSpeaker 1: So would I be able to get it more frequently if I did the Cialis instead of the AGV?\n\nSpeaker 2: No, I'm sure we can work something out with the AGV.\n\nSpeaker 1: I, again, am going to place you on a brief hold and go speak to one of my supervisors—\n\nSpeaker 2: About this, okay?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thank you.",
+    "duration": 15952,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Hello?"
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2,
+        "text": " Hi, Joanna."
+      },
+      {
+        "id": 2,
+        "start": 2,
+        "end": 3,
+        "text": " Hi, Mr. Bolton."
+      },
+      {
+        "id": 3,
+        "start": 3,
+        "end": 4,
+        "text": " How are you?"
+      },
+      {
+        "id": 4,
+        "start": 4,
+        "end": 5,
+        "text": " Hey, good."
+      },
+      {
+        "id": 5,
+        "start": 5,
+        "end": 6,
+        "text": " How are you doing?"
+      },
+      {
+        "id": 6,
+        "start": 6,
+        "end": 7,
+        "text": " I'm doing great."
+      },
+      {
+        "id": 7,
+        "start": 7,
+        "end": 8,
+        "text": " I got the message that you called this morning."
+      },
+      {
+        "id": 8,
+        "start": 8,
+        "end": 9,
+        "text": " I was just going to give you a call back as soon as our morning rush settled down, so"
+      },
+      {
+        "id": 9,
+        "start": 9,
+        "end": 10,
+        "text": " you beat me to it."
+      },
+      {
+        "id": 10,
+        "start": 10,
+        "end": 11,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 11,
+        "start": 11,
+        "end": 12,
+        "text": " Well, I was just wondering."
+      },
+      {
+        "id": 12,
+        "start": 12,
+        "end": 13,
+        "text": " I remember at one point, you know, I was on the phone with you and you said that you wanted"
+      },
+      {
+        "id": 13,
+        "start": 13,
+        "end": 14,
+        "text": " to talk to me."
+      },
+      {
+        "id": 14,
+        "start": 14,
+        "end": 15,
+        "text": " And I was like, well, I don't know."
+      },
+      {
+        "id": 15,
+        "start": 15,
+        "end": 16,
+        "text": " I don't want to talk to you."
+      },
+      {
+        "id": 16,
+        "start": 16,
+        "end": 17,
+        "text": " I don't want to talk to you."
+      },
+      {
+        "id": 17,
+        "start": 17,
+        "end": 18,
+        "text": " I don't want to talk to you."
+      },
+      {
+        "id": 18,
+        "start": 18,
+        "end": 19,
+        "text": " I don't want to talk to you."
+      },
+      {
+        "id": 19,
+        "start": 19,
+        "end": 20,
+        "text": " I don't want to talk to you."
+      },
+      {
+        "id": 20,
+        "start": 20,
+        "end": 21,
+        "text": " I don't want to talk to you."
+      },
+      {
+        "id": 21,
+        "start": 21.100000381469727,
+        "end": 22.34000015258789,
+        "text": " instead of a AGV."
+      },
+      {
+        "id": 22,
+        "start": 22.34000015258789,
+        "end": 24.459999084472656,
+        "text": " And I remember it got a whole bunch of them."
+      },
+      {
+        "id": 23,
+        "start": 24.459999084472656,
+        "end": 30.959999084472656,
+        "text": " Can you go back and look at that order and tell me how much I got?"
+      },
+      {
+        "id": 24,
+        "start": 30.959999084472656,
+        "end": 31.959999084472656,
+        "text": " Absolutely."
+      },
+      {
+        "id": 25,
+        "start": 31.959999084472656,
+        "end": 36.040000915527344,
+        "text": " I'm looking at your chart now."
+      },
+      {
+        "id": 26,
+        "start": 36.040000915527344,
+        "end": 41.97999954223633,
+        "text": " So let's see how much I got."
+      },
+      {
+        "id": 27,
+        "start": 41.97999954223633,
+        "end": 60.97999954223633,
+        "text": " So that was in July of last year, you got a quantity of 50 D-Alice, 20 milligrams."
+      },
+      {
+        "id": 28,
+        "start": 60.97999954223633,
+        "end": 70.9800033569336,
+        "text": " I'm just curious why, hold on, let me check on the back end."
+      },
+      {
+        "id": 29,
+        "start": 70.9800033569336,
+        "end": 81.58000183105469,
+        "text": " My question is, because I remember that, again, I don't know if it was Angel or John,"
+      },
+      {
+        "id": 30,
+        "start": 81.58000183105469,
+        "end": 87.77999877929688,
+        "text": " but they were just really inappropriate in saying, okay, well, you know, if you switch,"
+      },
+      {
+        "id": 31,
+        "start": 87.77999877929688,
+        "end": 89.45999908447266,
+        "text": " you can never change back."
+      },
+      {
+        "id": 32,
+        "start": 89.45999908447266,
+        "end": 91.0199966430664,
+        "text": " Are you sure you want to do that?"
+      },
+      {
+        "id": 33,
+        "start": 91.0199966430664,
+        "end": 92.69999694824219,
+        "text": " Raise your right hand and swear to God."
+      },
+      {
+        "id": 34,
+        "start": 92.69999694824219,
+        "end": 99.0999984741211,
+        "text": " It's just like, you know, you shouldn't make people feel like that because from my perspective,"
+      },
+      {
+        "id": 35,
+        "start": 99.0999984741211,
+        "end": 105.9800033569336,
+        "text": " what I'm thinking is, I remember I was able to get that and it wasn't like I had to wait"
+      },
+      {
+        "id": 36,
+        "start": 105.9800033569336,
+        "end": 108.37999725341797,
+        "text": " a hundred days until I could get another one."
+      },
+      {
+        "id": 37,
+        "start": 108.37999725341797,
+        "end": 116.9800033569336,
+        "text": " It was like I'm now considering the fact of, because it seems like the AGV is in such short"
+      },
+      {
+        "id": 38,
+        "start": 116.9800033569336,
+        "end": 123.37999725341797,
+        "text": " supply or something that maybe I should go back to C-Alice because at least I can get,"
+      },
+      {
+        "id": 39,
+        "start": 123.37999725341797,
+        "end": 128.10000610351562,
+        "text": " you know, a 30-day supply every 30 days or something, you know?"
+      },
+      {
+        "id": 40,
+        "start": 128.10000610351562,
+        "end": 129.10000610351562,
+        "text": " Yeah."
+      },
+      {
+        "id": 41,
+        "start": 129.10000610351562,
+        "end": 130.10000610351562,
+        "text": " Is that what I feel?"
+      },
+      {
+        "id": 42,
+        "start": 130.10000610351562,
+        "end": 131.10000610351562,
+        "text": " Yeah."
+      },
+      {
+        "id": 43,
+        "start": 131.10000610351562,
+        "end": 132.10000610351562,
+        "text": " Yeah."
+      },
+      {
+        "id": 44,
+        "start": 132.10000610351562,
+        "end": 133.10000610351562,
+        "text": " Yeah."
+      },
+      {
+        "id": 45,
+        "start": 133.10000610351562,
+        "end": 137.10000610351562,
+        "text": " I'm just reading over your hand."
+      },
+      {
+        "id": 46,
+        "start": 137.10000610351562,
+        "end": 144.10000610351562,
+        "text": " Yeah, it's just not doable on the rations that I'm being given, you know?"
+      },
+      {
+        "id": 47,
+        "start": 144.10000610351562,
+        "end": 147.10000610351562,
+        "text": " This is not even a controlled substance, you know?"
+      },
+      {
+        "id": 48,
+        "start": 147.10000610351562,
+        "end": 149.10000610351562,
+        "text": " I mean, I'm a physician."
+      },
+      {
+        "id": 49,
+        "start": 149.10000610351562,
+        "end": 155.10000610351562,
+        "text": " I myself prescribe Adderall and things like that, and those are controlled substances"
+      },
+      {
+        "id": 50,
+        "start": 155.10000610351562,
+        "end": 161.10000610351562,
+        "text": " which require monitoring and checking and, you know, making sure that a person doesn't,"
+      },
+      {
+        "id": 51,
+        "start": 161.10000610351562,
+        "end": 165.10000610351562,
+        "text": " but I mean, you know, for everything else I prescribe, this is ridiculous."
+      },
+      {
+        "id": 52,
+        "start": 165.10000610351562,
+        "end": 172.10000610351562,
+        "text": " I'm just being rationed and I'm, it's really affecting me because as I told you with the"
+      },
+      {
+        "id": 53,
+        "start": 172.10000610351562,
+        "end": 178.10000610351562,
+        "text": " problem with my girlfriend, I have to really guess correctly all the time in order for"
+      },
+      {
+        "id": 54,
+        "start": 178.10000610351562,
+        "end": 183.10000610351562,
+        "text": " me not to run out, and I can't guess correctly all the time because sometimes I think I'm"
+      },
+      {
+        "id": 55,
+        "start": 183.10000610351562,
+        "end": 188.10000610351562,
+        "text": " going to get it and I don't, but sometimes, you know, I don't know."
+      },
+      {
+        "id": 56,
+        "start": 188.10000610351562,
+        "end": 199.10000610351562,
+        "text": " So would I be able to get it more frequently if I did the Cialis instead of the AGV?"
+      },
+      {
+        "id": 57,
+        "start": 199.10000610351562,
+        "end": 203.10000610351562,
+        "text": " No, I'm sure we can work something out with the AGV."
+      },
+      {
+        "id": 58,
+        "start": 203.10000610351562,
+        "end": 211.10000610351562,
+        "text": " I, again, am going to place you on a brief hold and go speak to one of my supervisors"
+      },
+      {
+        "id": 59,
+        "start": 211.10000610351562,
+        "end": 213.10000610351562,
+        "text": " about this, okay?"
+      },
+      {
+        "id": 60,
+        "start": 213.10000610351562,
+        "end": 214.10000610351562,
+        "text": " Okay."
+      },
+      {
+        "id": 61,
+        "start": 214.10000610351562,
+        "end": 216.10000610351562,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8160-a776-ef283b35b0ea",
+    "url": "https://www.notion.so/300000001217835-300000001707970-2f611d0a101c8160a776ef283b35b0ea"
+  },
+  "processedAt": "2026-01-28T14:47:00.017Z"
+}

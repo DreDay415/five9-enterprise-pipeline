@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "name": "300000001223099-300000001712654-3102569433 by josimar@superbalife.com @ 1_57_55 PM.wav",
+    "size": 22096,
+    "modifyTime": 1769723893000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223099-300000001712654-3102569433 by josimar@superbalife.com @ 1_57_55 PM.wav",
+    "uploadDate": "2026-01-29T21:58:13.000Z",
+    "callId": "300000001223099-300000001712654",
+    "agent": "josimar",
+    "phoneNumber": "3102569433",
+    "callTimestamp": "2026-01-29T13:57:55.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for coming by Agra, I couldn't help you today.",
+    "duration": 689,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Thank you for coming by Agra, I couldn't help you today."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8197-80bd-e68b41b7e9b2",
+    "url": "https://www.notion.so/300000001223099-300000001712654-2f711d0a101c819780bde68b41b7e9b2"
+  },
+  "processedAt": "2026-01-29T22:03:00.148Z"
+}

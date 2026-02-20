@@ -1,0 +1,140 @@
+{
+  "recording": {
+    "name": "300000001219610-300000001709630-4786091687 by lucif@superbalife.com @ 12_01_43 PM.wav",
+    "size": 165550,
+    "modifyTime": 1769591533000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219610-300000001709630-4786091687 by lucif@superbalife.com @ 12_01_43 PM.wav",
+    "uploadDate": "2026-01-28T09:12:13.000Z",
+    "callId": "300000001219610-300000001709630",
+    "agent": "lucif",
+    "phoneNumber": "4786091687",
+    "callTimestamp": "2026-01-28T12:01:43.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 2: Yes, sir. I need to cancel my prescription, please.\n\nSpeaker 1: All right. Let me pull up your account.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, sir. Is your last name Gay, Mr. Gay?\n\nSpeaker 2: Yes, Kelton Gay.\n\nSpeaker 1: All right. One moment.\n\nSpeaker 2: All right, sir. So I do see you are a VIP with us here.\n\nSpeaker 1: Do you mind if I ask why it is that you want to cancel?\n\nSpeaker 2: Well, I've kind of come into some heart issues, and I can't take it no more.\n\nSpeaker 1: So there's no need in getting it.\n\nSpeaker 2: Oh, yeah. I'm sorry to hear that.\n\nSpeaker 1: You know, we can just not bill you or ship this to you for a while, sir, even like six months,\n\nSpeaker 2: and give us some time maybe that you're cleared to continue with this down the line.\n\nSpeaker 1: Well, I don't foresee that ever happening anymore, boss, so I guess we might as well shut it down.\n\nSpeaker 2: Okay. I'll do that for you, sir. Anything else that you need?\n\nSpeaker 1: Nope. Is there some way or another you can send me an e-mail or statement that this has been done?\n\nSpeaker 2: Just a verbal confirmation, sir, that your prescription is canceled.\n\nSpeaker 1: Okay. That's all I need. All right. Well, I do appreciate it. Thank you, sir.\n\nSpeaker 2: You're welcome. You have a good day.",
+    "duration": 3169,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Yes, sir. I need to cancel my prescription, please."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 10,
+        "text": " All right. Let me pull up your account."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 15,
+        "text": " Okay."
+      },
+      {
+        "id": 3,
+        "start": 15,
+        "end": 20,
+        "text": " All right, sir. Is your last name Gay, Mr. Gay?"
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 25,
+        "text": " Yes, Kelton Gay."
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 35,
+        "text": " All right. One moment."
+      },
+      {
+        "id": 6,
+        "start": 35,
+        "end": 40,
+        "text": " All right, sir. So I do see you are a VIP with us here."
+      },
+      {
+        "id": 7,
+        "start": 40,
+        "end": 44,
+        "text": " Do you mind if I ask why it is that you want to cancel?"
+      },
+      {
+        "id": 8,
+        "start": 44,
+        "end": 49,
+        "text": " Well, I've kind of come into some heart issues, and I can't take it no more."
+      },
+      {
+        "id": 9,
+        "start": 49,
+        "end": 52,
+        "text": " So there's no need in getting it."
+      },
+      {
+        "id": 10,
+        "start": 52,
+        "end": 55,
+        "text": " Oh, yeah. I'm sorry to hear that."
+      },
+      {
+        "id": 11,
+        "start": 55,
+        "end": 61,
+        "text": " You know, we can just not bill you or ship this to you for a while, sir, even like six months,"
+      },
+      {
+        "id": 12,
+        "start": 61,
+        "end": 66,
+        "text": " and give us some time maybe that you're cleared to continue with this down the line."
+      },
+      {
+        "id": 13,
+        "start": 66,
+        "end": 74,
+        "text": " Well, I don't foresee that ever happening anymore, boss, so I guess we might as well shut it down."
+      },
+      {
+        "id": 14,
+        "start": 74,
+        "end": 79,
+        "text": " Okay. I'll do that for you, sir. Anything else that you need?"
+      },
+      {
+        "id": 15,
+        "start": 79,
+        "end": 89,
+        "text": " Nope. Is there some way or another you can send me an e-mail or statement that this has been done?"
+      },
+      {
+        "id": 16,
+        "start": 89,
+        "end": 94,
+        "text": " Just a verbal confirmation, sir, that your prescription is canceled."
+      },
+      {
+        "id": 17,
+        "start": 94,
+        "end": 98,
+        "text": " Okay. That's all I need. All right. Well, I do appreciate it. Thank you, sir."
+      },
+      {
+        "id": 18,
+        "start": 98,
+        "end": 101,
+        "text": " You're welcome. You have a good day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8112-807b-d570d40c83a0",
+    "url": "https://www.notion.so/300000001219610-300000001709630-2f611d0a101c8112807bd570d40c83a0"
+  },
+  "processedAt": "2026-01-28T11:33:52.514Z"
+}

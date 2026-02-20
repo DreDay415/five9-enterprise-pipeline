@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001215975-300000001705558-6099704251 by  @ 11_26_48 AM_CallStudio.wav",
+    "size": 29180,
+    "modifyTime": 1769196450000,
+    "remotePath": "/five9sftp/recordings/SB CS/1_23_2026/300000001215975-300000001705558-6099704251 by  @ 11_26_48 AM_CallStudio.wav",
+    "uploadDate": "2026-01-23T19:27:30.000Z",
+    "callId": "300000001215975-300000001705558",
+    "phoneNumber": "6099704251",
+    "callTimestamp": "2026-01-23T19:27:30.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para español, marque número nueve.\n\nSpeaker 2: Uh, refill.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1118,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.239999771118164,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.239999771118164,
+        "end": 7.239999771118164,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.239999771118164,
+        "end": 10.239999771118164,
+        "text": " Para espanol, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.239999771118164,
+        "end": 13.239999771118164,
+        "text": " Uh, refill."
+      },
+      {
+        "id": 4,
+        "start": 13.239999771118164,
+        "end": 17.600000381469727,
+        "text": " Thanks, transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f411d0a-101c-81fb-acb2-c03bcdadc698",
+    "url": "https://www.notion.so/300000001215975-300000001705558-2f411d0a101c81fbacb2c03bcdadc698"
+  },
+  "processedAt": "2026-01-26T21:36:17.383Z"
+}

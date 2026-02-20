@@ -1,0 +1,332 @@
+{
+  "recording": {
+    "name": "300000001221124-300000001711043-6027575447 by olivia@superbalife.com @ 11_25_32 AM.wav",
+    "size": 384406,
+    "modifyTime": 1769628592000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221124-300000001711043-6027575447 by olivia@superbalife.com @ 11_25_32 AM.wav",
+    "uploadDate": "2026-01-28T19:29:52.000Z",
+    "callId": "300000001221124-300000001711043",
+    "agent": "olivia",
+    "phoneNumber": "6027575447",
+    "callTimestamp": "2026-01-28T11:25:32.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Thyacra, this is Olivia speaking, who do I have the pleasure of speaking with today?\n\nSpeaker 2: Yes, my name is Travis Lino.\n\nSpeaker 1: Hi, Travis, how are you?\n\nSpeaker 2: I'm doing wonderful.\n\nSpeaker 1: I placed an order with you guys and I got the tracking number stuff and it never showed up.\n\nSpeaker 2: It said it came, let me see, I'll tell you the date.\n\nSpeaker 1: I don't know why it's not coming up right now.\n\nSpeaker 2: Oh, here it is.\n\nSpeaker 1: I have the tracking number.\n\nSpeaker 2: No, that's okay.\n\nSpeaker 1: Can you just confirm your date of birth?\n\nSpeaker 2: I should have everything.\n\nSpeaker 1: Yeah, 8-28-1968.\n\nSpeaker 2: Yeah, okay, and you're located at 39811 North 3rd Street, Phoenix, Arizona, 85086?\n\nSpeaker 1: Yes, ma'am.\n\nSpeaker 2: Okay, and so it shows delivered, but you're saying you didn't receive it?\n\nSpeaker 1: No, no, I never got anything.\n\nSpeaker 2: We have mailboxes, like community mailboxes, that are locked and there's no way to get in there.\n\nSpeaker 1: Yeah, okay, so yeah, it does show USPS with that tracking number that it was delivered January 24th at 10:17 a.m. to the 39811 North 3rd Street, Phoenix, Arizona address?\n\nSpeaker 2: Yes, ma'am.\n\nSpeaker 1: Okay, you're saying the boxes, that your mailboxes are locked, but would the package have been left in the mailbox or at your front door potentially?\n\nSpeaker 2: I don't know how they do it, but we get deliveries here a lot to our house, and there was nothing delivered to the front door for me.\n\nSpeaker 1: Yeah, okay.\n\nSpeaker 2: Did it say it was a mailbox or a front door?\n\nSpeaker 1: It just says it was sent to the 39811 North 3rd Street address.\n\nSpeaker 2: You know, we're not USPS, we're just a company that ships through them.\n\nSpeaker 1: Okay, so I can send you out a one-time replacement, and I can do signature upon delivery.\n\nSpeaker 2: That'd be perfect.\n\nSpeaker 1: Okay, we can just, well, I'm sure it won't be a problem if we do signature upon delivery,\n\nSpeaker 2: but I do have to mention per protocol that we can only do this once, which is totally fine.\n\nSpeaker 1: Okay, so great.\n\nSpeaker 2: This is going to be 25 pills, Viagra HEV, 100 milligrams, shipping to 39811 North 3rd Street,\n\nSpeaker 1: Phoenix, Arizona.\n\nSpeaker 2: All right.\n\nSpeaker 1: Yeah, so these will be out to you probably by next week.\n\nSpeaker 2: I would think next Friday at the latest, probably Tuesday through Thursday.\n\nSpeaker 1: Awesome.\n\nSpeaker 2: All right.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thank you very much.\n\nSpeaker 1: I appreciate it.\n\nSpeaker 2: Thanks, Travis.\n\nSpeaker 1: All right, you have a great day.\n\nSpeaker 2: Yeah, bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 6684,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.239999771118164,
+        "text": " Thank you for calling Thyacra, this is Olivia speaking, who do I have the pleasure of speaking"
+      },
+      {
+        "id": 1,
+        "start": 6.239999771118164,
+        "end": 7.239999771118164,
+        "text": " with today?"
+      },
+      {
+        "id": 2,
+        "start": 7.239999771118164,
+        "end": 10.239999771118164,
+        "text": " Yes, my name is Travis Lino."
+      },
+      {
+        "id": 3,
+        "start": 10.239999771118164,
+        "end": 13.239999771118164,
+        "text": " Hi, Travis, how are you?"
+      },
+      {
+        "id": 4,
+        "start": 13.239999771118164,
+        "end": 15.15999984741211,
+        "text": " I'm doing wonderful."
+      },
+      {
+        "id": 5,
+        "start": 15.15999984741211,
+        "end": 22,
+        "text": " I placed an order with you guys and I got the tracking number stuff and it never showed"
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 23,
+        "text": " up."
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 29,
+        "text": " It said it came, let me see, I'll tell you the date."
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 45,
+        "text": " I don't know why it's not coming up right now."
+      },
+      {
+        "id": 9,
+        "start": 45,
+        "end": 48,
+        "text": " Oh, here it is."
+      },
+      {
+        "id": 10,
+        "start": 48,
+        "end": 51,
+        "text": " I have the tracking number."
+      },
+      {
+        "id": 11,
+        "start": 51,
+        "end": 53,
+        "text": " No, that's okay."
+      },
+      {
+        "id": 12,
+        "start": 53,
+        "end": 56,
+        "text": " Can you just confirm your date of birth?"
+      },
+      {
+        "id": 13,
+        "start": 56,
+        "end": 58,
+        "text": " I should have everything."
+      },
+      {
+        "id": 14,
+        "start": 58,
+        "end": 61,
+        "text": " Yeah, 8-28-1968."
+      },
+      {
+        "id": 15,
+        "start": 61,
+        "end": 72,
+        "text": " Yeah, okay, and you're located at 39811 North 3rd Street, Phoenix, Arizona, 85086?"
+      },
+      {
+        "id": 16,
+        "start": 72,
+        "end": 74,
+        "text": " Yes, ma'am."
+      },
+      {
+        "id": 17,
+        "start": 74,
+        "end": 78,
+        "text": " Okay, and so it shows delivered, but you're saying you didn't receive it?"
+      },
+      {
+        "id": 18,
+        "start": 78,
+        "end": 81,
+        "text": " No, no, I never got anything."
+      },
+      {
+        "id": 19,
+        "start": 82,
+        "end": 90,
+        "text": " We have mailboxes, like community mailboxes, that are locked and there's no way to get"
+      },
+      {
+        "id": 20,
+        "start": 90,
+        "end": 91,
+        "text": " in there."
+      },
+      {
+        "id": 21,
+        "start": 91,
+        "end": 106,
+        "text": " Yeah, okay, so yeah, it does show USPS with that tracking number that it was delivered"
+      },
+      {
+        "id": 22,
+        "start": 106,
+        "end": 117,
+        "text": " January 24th at 1017 a.m. to the 39811 North 3rd Street, Phoenix, Arizona address?"
+      },
+      {
+        "id": 23,
+        "start": 117,
+        "end": 119,
+        "text": " Yes, ma'am."
+      },
+      {
+        "id": 24,
+        "start": 119,
+        "end": 131,
+        "text": " Okay, you're saying the boxes, that your mailboxes are locked, but would the package have been"
+      },
+      {
+        "id": 25,
+        "start": 131,
+        "end": 136,
+        "text": " left in the mailbox or at your front door potentially?"
+      },
+      {
+        "id": 26,
+        "start": 136,
+        "end": 144,
+        "text": " I don't know how they do it, but we get deliveries here a lot to our house, and there was nothing"
+      },
+      {
+        "id": 27,
+        "start": 144,
+        "end": 148,
+        "text": " delivered to the front door for me."
+      },
+      {
+        "id": 28,
+        "start": 148,
+        "end": 152,
+        "text": " Yeah, okay."
+      },
+      {
+        "id": 29,
+        "start": 152,
+        "end": 155,
+        "text": " Did it say it was a mailbox or a front door?"
+      },
+      {
+        "id": 30,
+        "start": 155,
+        "end": 167,
+        "text": " It just says it was sent to the 39811 North 3rd Street address."
+      },
+      {
+        "id": 31,
+        "start": 167,
+        "end": 172,
+        "text": " You know, we're not USPS, we're just a company that ships through them."
+      },
+      {
+        "id": 32,
+        "start": 173,
+        "end": 186,
+        "text": " Okay, so I can send you out a one-time replacement, and I can do signature upon delivery."
+      },
+      {
+        "id": 33,
+        "start": 186,
+        "end": 188,
+        "text": " That'd be perfect."
+      },
+      {
+        "id": 34,
+        "start": 188,
+        "end": 195,
+        "text": " Okay, we can just, well, I'm sure it won't be a problem if we do signature upon delivery,"
+      },
+      {
+        "id": 35,
+        "start": 195,
+        "end": 202,
+        "text": " but I do have to mention per protocol that we can only do this once, which is totally fine."
+      },
+      {
+        "id": 36,
+        "start": 202,
+        "end": 204,
+        "text": " Okay, so great."
+      },
+      {
+        "id": 37,
+        "start": 204,
+        "end": 213,
+        "text": " This is going to be 25 pills, Viagra HEV, 100 milligrams, shipping to 39811 North 3rd Street,"
+      },
+      {
+        "id": 38,
+        "start": 213,
+        "end": 215,
+        "text": " Phoenix, Arizona."
+      },
+      {
+        "id": 39,
+        "start": 215,
+        "end": 216,
+        "text": " All right."
+      },
+      {
+        "id": 40,
+        "start": 216,
+        "end": 221,
+        "text": " Yeah, so these will be out to you probably by next week."
+      },
+      {
+        "id": 41,
+        "start": 221,
+        "end": 226,
+        "text": " I would think next Friday at the latest, probably Tuesday through Thursday."
+      },
+      {
+        "id": 42,
+        "start": 226,
+        "end": 227,
+        "text": " Awesome."
+      },
+      {
+        "id": 43,
+        "start": 227,
+        "end": 228,
+        "text": " All right."
+      },
+      {
+        "id": 44,
+        "start": 228,
+        "end": 229,
+        "text": " Okay."
+      },
+      {
+        "id": 45,
+        "start": 229,
+        "end": 230,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 46,
+        "start": 230,
+        "end": 231,
+        "text": " I appreciate it."
+      },
+      {
+        "id": 47,
+        "start": 231,
+        "end": 232,
+        "text": " Thanks, Travis."
+      },
+      {
+        "id": 48,
+        "start": 232,
+        "end": 234,
+        "text": " All right, you have a great day."
+      },
+      {
+        "id": 49,
+        "start": 234,
+        "end": 235,
+        "text": " Yeah, bye."
+      },
+      {
+        "id": 50,
+        "start": 235,
+        "end": 236,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a5-8da4-c5f98cb6b404",
+    "url": "https://www.notion.so/300000001221124-300000001711043-2f611d0a101c81a58da4c5f98cb6b404"
+  },
+  "processedAt": "2026-01-28T23:49:40.667Z"
+}

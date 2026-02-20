@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001221963-300000001711602-8108585412 by  @ 4_51_27 PM_CallStudio.wav",
+    "size": 27230,
+    "modifyTime": 1769647927000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221963-300000001711602-8108585412 by  @ 4_51_27 PM_CallStudio.wav",
+    "uploadDate": "2026-01-29T00:52:07.000Z",
+    "callId": "300000001221963-300000001711602",
+    "phoneNumber": "8108585412",
+    "callTimestamp": "2026-01-29T00:52:07.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Overcharged.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1547,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.039999961853027,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.179999828338623,
+        "end": 6.639999866485596,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.639999866485596,
+        "end": 8.4399995803833,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 12.5600004196167,
+        "end": 13.380000114440918,
+        "text": " Overcharged."
+      },
+      {
+        "id": 4,
+        "start": 15.15999984741211,
+        "end": 16.3799991607666,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8128-a854-f1e8b5a2a6cd",
+    "url": "https://www.notion.so/300000001221963-300000001711602-2f711d0a101c8128a854f1e8b5a2a6cd"
+  },
+  "processedAt": "2026-01-29T10:04:27.318Z"
+}

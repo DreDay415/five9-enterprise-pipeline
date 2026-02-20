@@ -1,0 +1,350 @@
+{
+  "recording": {
+    "name": "300000001216388-300000001705835-9096336385 by john@superbalife.com @ 1_40_59 PM.wav",
+    "size": 203056,
+    "modifyTime": 1769586431000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216388-300000001705835-9096336385 by john@superbalife.com @ 1_40_59 PM.wav",
+    "uploadDate": "2026-01-28T07:47:11.000Z",
+    "callId": "300000001216388-300000001705835",
+    "agent": "john",
+    "phoneNumber": "9096336385",
+    "callTimestamp": "2026-01-28T13:40:59.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling.\n\nSpeaker 2: This is John.\n\nSpeaker 1: How can I help you?\n\nSpeaker 2: Hey, John.\n\nSpeaker 1: No, this is Mike McCracken.\n\nSpeaker 2: I just called a minute ago, but it sounded like I could hear you guys talking in the\n\nSpeaker 1: background.\n\nSpeaker 2: Oh, okay.\n\nSpeaker 1: It was like a butt dial or something, but your speaker was on.\n\nSpeaker 2: I can help you.\n\nSpeaker 1: Can I get your zip code, too, Mike, just so I can pull up your account?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: 91784.\n\nSpeaker 2: Thanks.\n\nSpeaker 1: And then what were you looking to get help with on the order?\n\nSpeaker 2: Well, I made an order this morning, and I got a call from my bank or a text for a fraud\n\nSpeaker 1: alert, and I just want to make sure that everything is legit.\n\nSpeaker 2: Oh, yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So you're on North First Avenue in Upland?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Yeah, everything is legit.\n\nSpeaker 1: So what happened, that happens a lot because we're an online telehealth.\n\nSpeaker 2: I think it comes with certain risks with these card companies.\n\nSpeaker 1: They're worried about it.\n\nSpeaker 2: But your order went through successfully.\n\nSpeaker 1: You've already been approved for the prescription, actually, too.\n\nSpeaker 2: So this morning, after you filled out that health survey, that was approved.\n\nSpeaker 1: This will ship out.\n\nSpeaker 2: It should ship out on Monday morning.\n\nSpeaker 1: Even though our customer service is based in California, our pharmacy is in Kentucky,\n\nSpeaker 2: so it's already, what, almost 5 o'clock there.\n\nSpeaker 1: But it'll go out Monday, and you'll get a tracking email sent to you.\n\nSpeaker 2: Okay.\n\nSpeaker 1: My next question is, I think it billed me a little bit too much because when I clicked\n\nSpeaker 2: on it, it was $49 with the special, and then I went $29 for the additional.\n\nSpeaker 1: And you guys billed me $63, and then the $29.\n\nSpeaker 2: Yeah, it should have given you – I see that now, yeah.\n\nSpeaker 1: It should have given you the first-time order price, the $49, like you said.\n\nSpeaker 2: So I will refund the $14.95 difference there.\n\nSpeaker 1: Okay, that'd be awesome.\n\nSpeaker 2: I appreciate that.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: I'm going to take a few days to reflect on your side, but I did that.\n\nSpeaker 1: Yeah, I don't know why that happened.\n\nSpeaker 2: Like I said, first-time orders, it is on that special pricing.\n\nSpeaker 1: So I just checked in for you, though.\n\nSpeaker 2: Okay.\n\nSpeaker 1: No worries.\n\nSpeaker 2: Thank you so much.\n\nSpeaker 1: Of course, everyone.\n\nSpeaker 2: Have a great weekend.\n\nSpeaker 1: Bye-bye, sir.",
+    "duration": 8002,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Thank you for calling."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2,
+        "text": " This is John."
+      },
+      {
+        "id": 2,
+        "start": 2,
+        "end": 3,
+        "text": " How can I help you?"
+      },
+      {
+        "id": 3,
+        "start": 3,
+        "end": 4,
+        "text": " Hey, John."
+      },
+      {
+        "id": 4,
+        "start": 4,
+        "end": 5,
+        "text": " No, this is Mike McCracken."
+      },
+      {
+        "id": 5,
+        "start": 5,
+        "end": 10.520000457763672,
+        "text": " I just called a minute ago, but it sounded like I could hear you guys talking in the"
+      },
+      {
+        "id": 6,
+        "start": 10.520000457763672,
+        "end": 11.520000457763672,
+        "text": " background."
+      },
+      {
+        "id": 7,
+        "start": 11.520000457763672,
+        "end": 12.520000457763672,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 8,
+        "start": 12.520000457763672,
+        "end": 17.84000015258789,
+        "text": " It was like a butt dial or something, but your speaker was on."
+      },
+      {
+        "id": 9,
+        "start": 17.84000015258789,
+        "end": 18.84000015258789,
+        "text": " I can help you."
+      },
+      {
+        "id": 10,
+        "start": 18.84000015258789,
+        "end": 22.84000015258789,
+        "text": " Can I get your zip code, too, Mike, just so I can pull up your account?"
+      },
+      {
+        "id": 11,
+        "start": 22.84000015258789,
+        "end": 23.84000015258789,
+        "text": " Yeah."
+      },
+      {
+        "id": 12,
+        "start": 23.84000015258789,
+        "end": 24.84000015258789,
+        "text": " 91784."
+      },
+      {
+        "id": 13,
+        "start": 24.84000015258789,
+        "end": 25.84000015258789,
+        "text": " Thanks."
+      },
+      {
+        "id": 14,
+        "start": 25.84000015258789,
+        "end": 26.84000015258789,
+        "text": " And then what were you looking to get help with on the order?"
+      },
+      {
+        "id": 15,
+        "start": 27.639999389648438,
+        "end": 34.20000076293945,
+        "text": " Well, I made an order this morning, and I got a call from my bank or a text for a fraud"
+      },
+      {
+        "id": 16,
+        "start": 34.20000076293945,
+        "end": 37.959999084472656,
+        "text": " alert, and I just want to make sure that everything is legit."
+      },
+      {
+        "id": 17,
+        "start": 37.959999084472656,
+        "end": 38.959999084472656,
+        "text": " Oh, yeah."
+      },
+      {
+        "id": 18,
+        "start": 38.959999084472656,
+        "end": 39.959999084472656,
+        "text": " Okay."
+      },
+      {
+        "id": 19,
+        "start": 39.959999084472656,
+        "end": 42.15999984741211,
+        "text": " So you're on North First Avenue in Upland?"
+      },
+      {
+        "id": 20,
+        "start": 42.15999984741211,
+        "end": 43.15999984741211,
+        "text": " Yeah."
+      },
+      {
+        "id": 21,
+        "start": 43.15999984741211,
+        "end": 44.15999984741211,
+        "text": " Yeah, everything is legit."
+      },
+      {
+        "id": 22,
+        "start": 44.15999984741211,
+        "end": 47.63999938964844,
+        "text": " So what happened, that happens a lot because we're an online telehealth."
+      },
+      {
+        "id": 23,
+        "start": 47.63999938964844,
+        "end": 50.119998931884766,
+        "text": " I think it comes with certain risks with these card companies."
+      },
+      {
+        "id": 24,
+        "start": 50.119998931884766,
+        "end": 51.47999954223633,
+        "text": " They're worried about it."
+      },
+      {
+        "id": 25,
+        "start": 51.47999954223633,
+        "end": 53.68000030517578,
+        "text": " But your order went through successfully."
+      },
+      {
+        "id": 26,
+        "start": 53.68000030517578,
+        "end": 55.84000015258789,
+        "text": " You've already been approved for the prescription, actually, too."
+      },
+      {
+        "id": 27,
+        "start": 55.84000015258789,
+        "end": 59.279998779296875,
+        "text": " So this morning, after you filled out that health survey, that was approved."
+      },
+      {
+        "id": 28,
+        "start": 59.279998779296875,
+        "end": 60.279998779296875,
+        "text": " This will ship out."
+      },
+      {
+        "id": 29,
+        "start": 60.279998779296875,
+        "end": 62.439998626708984,
+        "text": " It should ship out on Monday morning."
+      },
+      {
+        "id": 30,
+        "start": 62.439998626708984,
+        "end": 67.04000091552734,
+        "text": " Even though our customer service is based in California, our pharmacy is in Kentucky,"
+      },
+      {
+        "id": 31,
+        "start": 67.04000091552734,
+        "end": 69.31999969482422,
+        "text": " so it's already, what, almost 5 o'clock there."
+      },
+      {
+        "id": 32,
+        "start": 69.31999969482422,
+        "end": 72.83999633789062,
+        "text": " But it'll go out Monday, and you'll get a tracking email sent to you."
+      },
+      {
+        "id": 33,
+        "start": 72.83999633789062,
+        "end": 73.83999633789062,
+        "text": " Okay."
+      },
+      {
+        "id": 34,
+        "start": 73.83999633789062,
+        "end": 81.83999633789062,
+        "text": " My next question is, I think it billed me a little bit too much because when I clicked"
+      },
+      {
+        "id": 35,
+        "start": 81.83999633789062,
+        "end": 89.31999969482422,
+        "text": " on it, it was $49 with the special, and then I went $29 for the additional."
+      },
+      {
+        "id": 36,
+        "start": 89.31999969482422,
+        "end": 93.36000061035156,
+        "text": " And you guys billed me $63, and then the $29."
+      },
+      {
+        "id": 37,
+        "start": 93.36000061035156,
+        "end": 95.76000213623047,
+        "text": " Yeah, it should have given you – I see that now, yeah."
+      },
+      {
+        "id": 38,
+        "start": 95.76000213623047,
+        "end": 99.68000030517578,
+        "text": " It should have given you the first-time order price, the $49, like you said."
+      },
+      {
+        "id": 39,
+        "start": 99.68000030517578,
+        "end": 103.95999908447266,
+        "text": " So I will refund the $14.95 difference there."
+      },
+      {
+        "id": 40,
+        "start": 103.95999908447266,
+        "end": 107.5999984741211,
+        "text": " Okay, that'd be awesome."
+      },
+      {
+        "id": 41,
+        "start": 107.5999984741211,
+        "end": 108.5999984741211,
+        "text": " I appreciate that."
+      },
+      {
+        "id": 42,
+        "start": 108.5999984741211,
+        "end": 109.5999984741211,
+        "text": " Yeah."
+      },
+      {
+        "id": 43,
+        "start": 109.5999984741211,
+        "end": 113.08000183105469,
+        "text": " I'm going to take a few days to reflect on your side, but I did that."
+      },
+      {
+        "id": 44,
+        "start": 113.08000183105469,
+        "end": 114.08000183105469,
+        "text": " Yeah, I don't know why that happened."
+      },
+      {
+        "id": 45,
+        "start": 114.08000183105469,
+        "end": 116.44000244140625,
+        "text": " Like I said, first-time orders, it is on that special pricing."
+      },
+      {
+        "id": 46,
+        "start": 116.44000244140625,
+        "end": 118.91999816894531,
+        "text": " So I just checked in for you, though."
+      },
+      {
+        "id": 47,
+        "start": 118.91999816894531,
+        "end": 119.91999816894531,
+        "text": " Okay."
+      },
+      {
+        "id": 48,
+        "start": 119.91999816894531,
+        "end": 120.91999816894531,
+        "text": " No worries."
+      },
+      {
+        "id": 49,
+        "start": 120.91999816894531,
+        "end": 121.91999816894531,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 50,
+        "start": 121.91999816894531,
+        "end": 122.91999816894531,
+        "text": " Of course, everyone."
+      },
+      {
+        "id": 51,
+        "start": 122.91999816894531,
+        "end": 123.91999816894531,
+        "text": " Have a great weekend."
+      },
+      {
+        "id": 52,
+        "start": 123.91999816894531,
+        "end": 124.91999816894531,
+        "text": " Bye-bye, sir."
+      },
+      {
+        "id": 53,
+        "start": 124.91999816894531,
+        "end": 124.91999816894531,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8197-a9f0-c899189a475a",
+    "url": "https://www.notion.so/300000001216388-300000001705835-2f611d0a101c8197a9f0c899189a475a"
+  },
+  "processedAt": "2026-01-28T13:54:23.172Z"
+}

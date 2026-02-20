@@ -1,0 +1,92 @@
+{
+  "recording": {
+    "name": "300000001219351-300000001709444-5416219067 by summer@verifiednutrition.com @ 10_58_54 AM.wav",
+    "size": 114460,
+    "modifyTime": 1769585833000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219351-300000001709444-5416219067 by summer@verifiednutrition.com @ 10_58_54 AM.wav",
+    "uploadDate": "2026-01-28T07:37:13.000Z",
+    "callId": "300000001219351-300000001709444",
+    "agent": "summer",
+    "phoneNumber": "5416219067",
+    "callTimestamp": "2026-01-28T10:58:54.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service. I can help you.\n\nSpeaker 2: Yeah, I just have a question. If I order the Viagra, does that automatically put me on automatic shipments?\n\nSpeaker 1: Let me pull up your account so I can see what kind of account you have. What's your name and birthday?\n\nSpeaker 2: It's Dave Gutschus, G-U-C-H-E-S, 10-18-44.\n\nSpeaker 1: Okay, so if you do it over the phone, you don't have to be on an automatic.\n\nSpeaker 2: Okay, but if I do it on the computer, it's automatic?\n\nSpeaker 1: If you don't uncheck the box, it could possibly be automatic, yes.\n\nSpeaker 2: Okay, well then I need to, I don't have my wallet with me, so I need to change the credit card. So if I call again and order, it's not—and I know I'm repeating myself—but I don't want to get caught up in automatic shipments, if you know what I mean.\n\nSpeaker 1: Okay, thanks for your patience with me. Bye-bye.\n\nSpeaker 2: You're welcome, bye-bye.",
+    "duration": 2272,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.639999866485596,
+        "text": " Thank you for calling customer service I can help you. Yeah I just have a question, if I"
+      },
+      {
+        "id": 1,
+        "start": 6.639999866485596,
+        "end": 12,
+        "text": " order the Viagra, does that automatically put me on automatic"
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 15.800000190734863,
+        "text": " shipments? Let me pull up your account so I can see what kind of account you have. What's"
+      },
+      {
+        "id": 3,
+        "start": 15.800000190734863,
+        "end": 26.1200008392334,
+        "text": " your name and birthday? It's Dave Gutschus, G-U-C-H-E-S, 10-18-44. Okay so if you do it"
+      },
+      {
+        "id": 4,
+        "start": 26.1200008392334,
+        "end": 34.08000183105469,
+        "text": " over the phone you don't have to be on an automatic. Okay but if I do it on the"
+      },
+      {
+        "id": 5,
+        "start": 34.08000183105469,
+        "end": 38.279998779296875,
+        "text": " computer it's automatic? If you don't uncheck the box it could possibly be"
+      },
+      {
+        "id": 6,
+        "start": 38.279998779296875,
+        "end": 46.08000183105469,
+        "text": " automatic, yes. Okay well then I need to, I don't have my wallet with me so I need"
+      },
+      {
+        "id": 7,
+        "start": 46.08000183105469,
+        "end": 51.439998626708984,
+        "text": " to change the credit card so if I call again and order it's not, and I know I'm"
+      },
+      {
+        "id": 8,
+        "start": 51.439998626708984,
+        "end": 56.400001525878906,
+        "text": " repeating myself but I don't want to get, I don't want to get caught up in"
+      },
+      {
+        "id": 9,
+        "start": 56.400001525878906,
+        "end": 64.63999938964844,
+        "text": " automatic shipments if you know what I mean. Okay thanks for your"
+      },
+      {
+        "id": 10,
+        "start": 64.63999938964844,
+        "end": 71.36000061035156,
+        "text": " patience with me. Bye-bye. You're welcome, bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81f3-8d2b-dec379f6fcff",
+    "url": "https://www.notion.so/300000001219351-300000001709444-2f611d0a101c81f38d2bdec379f6fcff"
+  },
+  "processedAt": "2026-01-28T14:11:43.037Z"
+}

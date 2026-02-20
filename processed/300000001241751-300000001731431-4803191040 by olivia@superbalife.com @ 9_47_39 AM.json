@@ -1,0 +1,143 @@
+{
+  "recording": {
+    "name": "300000001241751-300000001731431-4803191040 by olivia@superbalife.com @ 9_47_39 AM.wav",
+    "size": 182256,
+    "modifyTime": 1771004993000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241751-300000001731431-4803191040 by olivia@superbalife.com @ 9_47_39 AM.wav",
+    "uploadDate": "2026-02-13T17:49:53.000Z",
+    "callId": "300000001241751-300000001731431",
+    "agent": "olivia",
+    "phoneNumber": "4803191040",
+    "callTimestamp": "2026-02-13T09:47:39.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivia_300000001241751-300000001731431_4803191040.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivia_300000001241751-300000001731431_4803191040.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Olivia speaking. Who do I have the pleasure of speaking with today?\n\nSpeaker 2: My name is Thomas Heinrich, H-E-I-N-R-I-C-H.\n\nSpeaker 1: Hi, Thomas. How are you?\n\nSpeaker 2: Good.\n\nSpeaker 1: So glad to hear it. How can I help you today, Thomas?\n\nSpeaker 2: Well, I ordered the SCORE Blue back in January, and I thought I was just ordering one month's worth, and I just got another one, and I don't want to be on a subscription where I get this stuff every month.\n\nSpeaker 1: Yeah. Yeah, I can help you with that. Thomas, what is your date of birth?\n\nSpeaker 2: 5-5-47.\n\nSpeaker 1: Great. And you're located at 13235 Palmwood Drive, Sun City, West Arizona?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Yeah, so I see you here. Yeah, so if you don't want to receive those regular monthly refills with your prescription, you certainly don't have to. You always have the option with your prescription to place it on hold for up to six months at a time, just because six months is when the prescription would expire if we didn't refill it.\n\nSpeaker 2: And the way that would work is whenever you are ready to order, if it is before then, you can. You just have to give us a call to place the order yourself.\n\nSpeaker 1: That sounds fine.\n\nSpeaker 2: Okay, great.\n\nSpeaker 1: So yeah, if you need anything before August 13th, just give us a call. We're always here Monday through Friday, 8-5 Pacific.\n\nSpeaker 2: And your prescription is on hold, and I hope you have a great day, Thomas.\n\nSpeaker 1: Okay. Thank you. Bye-bye.\n\nSpeaker 2: Thanks. Bye.",
+    "duration": 5090,
+    "audioDuration": 112.12000274658203,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.199999809265137,
+        "text": " Thank you for calling Viagra. This is Olivia speaking. Who do I have the pleasure of speaking"
+      },
+      {
+        "id": 1,
+        "start": 6.199999809265137,
+        "end": 11.199999809265137,
+        "text": " with today? My name is Thomas Heinrich, H-E-I-N-R-I-C-H."
+      },
+      {
+        "id": 2,
+        "start": 11.199999809265137,
+        "end": 16.200000762939453,
+        "text": " Hi, Thomas. How are you? Okay."
+      },
+      {
+        "id": 3,
+        "start": 16.200000762939453,
+        "end": 21.200000762939453,
+        "text": " Good. So glad to hear it. How can I help you today, Thomas?"
+      },
+      {
+        "id": 4,
+        "start": 21.200000762939453,
+        "end": 28.719999313354492,
+        "text": " Well, I ordered the SCORE Blue back in January, and I thought I was just ordering one month's"
+      },
+      {
+        "id": 5,
+        "start": 28.719999313354492,
+        "end": 33.79999923706055,
+        "text": " worth, and I just got another one, and I don't want to be on a subscription where I"
+      },
+      {
+        "id": 6,
+        "start": 33.79999923706055,
+        "end": 40.79999923706055,
+        "text": " get this stuff every month. Yeah. Yeah, I can help you with that. Thomas,"
+      },
+      {
+        "id": 7,
+        "start": 40.79999923706055,
+        "end": 44.79999923706055,
+        "text": " what is your date of birth? 5-5-47."
+      },
+      {
+        "id": 8,
+        "start": 44.79999923706055,
+        "end": 52.79999923706055,
+        "text": " Great. And you're located at 13235 Palmwood Drive, Sun City, West Arizona?"
+      },
+      {
+        "id": 9,
+        "start": 52.79999923706055,
+        "end": 57.79999923706055,
+        "text": " Correct. Yeah, so I see you here. Yeah, so if you don't"
+      },
+      {
+        "id": 10,
+        "start": 57.79999923706055,
+        "end": 63.79999923706055,
+        "text": " want to receive those regular monthly refills with your prescription, you certainly don't"
+      },
+      {
+        "id": 11,
+        "start": 63.79999923706055,
+        "end": 70.80000305175781,
+        "text": " have to. You always have the option with your prescription to place it on hold for up to"
+      },
+      {
+        "id": 12,
+        "start": 70.80000305175781,
+        "end": 77.80000305175781,
+        "text": " six months at a time, just because six months is when the prescription would expire if we"
+      },
+      {
+        "id": 13,
+        "start": 77.80000305175781,
+        "end": 84.80000305175781,
+        "text": " didn't refill it. And the way that would work is whenever you are ready to order, if it"
+      },
+      {
+        "id": 14,
+        "start": 84.80000305175781,
+        "end": 91.80000305175781,
+        "text": " is before then, you can. You just have to give us a call to place the order yourself."
+      },
+      {
+        "id": 15,
+        "start": 91.80000305175781,
+        "end": 97.80000305175781,
+        "text": " That sounds fine. Okay, great. So yeah, if you need anything"
+      },
+      {
+        "id": 16,
+        "start": 97.80000305175781,
+        "end": 104.80000305175781,
+        "text": " before August 13th, just give us a call. We're always here Monday through Friday, 8-5 Pacific."
+      },
+      {
+        "id": 17,
+        "start": 104.80000305175781,
+        "end": 108.80000305175781,
+        "text": " And your prescription is on hold, and I hope you have a great day, Thomas."
+      },
+      {
+        "id": 18,
+        "start": 108.80000305175781,
+        "end": 111.80000305175781,
+        "text": " Okay. Thank you. Bye-bye. Thanks. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81b4-9ed0-cd54157c9988",
+    "url": "https://www.notion.so/300000001241751-300000001731431-30611d0a101c81b49ed0cd54157c9988"
+  },
+  "processedAt": "2026-02-13T18:08:30.175Z"
+}

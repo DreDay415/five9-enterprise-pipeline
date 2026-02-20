@@ -1,0 +1,43 @@
+{
+  "recording": {
+    "name": "300000001218786-300000001709032-8887955826 by  @ 8_43_19 AM_CallStudio.wav",
+    "size": 69416,
+    "modifyTime": 1769592157000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218786-300000001709032-8887955826 by  @ 8_43_19 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:22:37.000Z",
+    "callId": "300000001218786-300000001709032",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T09:22:37.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto.\n\nSpeaker 2: Y claro. No recibimos respuesta o no pude escuchar su mensaje. Intentémoslo de nuevo.\n\nSpeaker 1: Por favor, indique el motivo de su llamada.",
+    "duration": 2165,
+    "language": "spanish",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 16.8799991607666,
+        "text": " Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto"
+      },
+      {
+        "id": 1,
+        "start": 16.8799991607666,
+        "end": 31.719999313354492,
+        "text": " y claro. No recibimos respuesta o no pude escuchar su mensaje. Intentémoslo de nuevo,"
+      },
+      {
+        "id": 2,
+        "start": 31.719999313354492,
+        "end": 37.119998931884766,
+        "text": " por favor indique el motivo de su llamada."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816a-8c19-f78fcf913985",
+    "url": "https://www.notion.so/300000001218786-300000001709032-2f611d0a101c816a8c19f78fcf913985"
+  },
+  "processedAt": "2026-01-28T10:38:49.759Z"
+}

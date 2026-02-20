@@ -1,0 +1,164 @@
+{
+  "recording": {
+    "name": "300000001219804-300000001709762-9304000369 by nickh@superbalife.com @ 1_02_44 PM.wav",
+    "size": 245826,
+    "modifyTime": 1769592445000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219804-300000001709762-9304000369 by nickh@superbalife.com @ 1_02_44 PM.wav",
+    "uploadDate": "2026-01-28T09:27:25.000Z",
+    "callId": "300000001219804-300000001709762",
+    "agent": "nickh",
+    "phoneNumber": "9304000369",
+    "callTimestamp": "2026-01-28T13:02:44.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra at Score Blue. How can I help you today?\n\nSpeaker 2: Hello, my name is Brett. Can I ask for a refund?\n\nSpeaker 1: Okay, sir. Yeah, I can help you with this.\n\nSpeaker 2: Can you just provide me with the phone number associated with the account?\n\nSpeaker 1: Sure, no problem. My phone number is 765-716-7510.\n\nSpeaker 2: Okay, and can you provide me the full name and date of birth, please?\n\nSpeaker 1: Yes, my full name is Brett Oller and my date of birth is August 21, 1959.\n\nSpeaker 2: So, Brett, your account, it shows here that you called a few weeks ago and you put it on a pause.\n\nSpeaker 1: So, it's currently inactive. Can I ask you what has changed?\n\nSpeaker 2: If I don't remember, like, I just want to completely cancel it, can you help me?\n\nSpeaker 1: I'd like to ask for a refund.\n\nSpeaker 2: Well, you called about two weeks ago and there weren't any issues and then you paused your account.\n\nSpeaker 1: So, no further charges, right?\n\nSpeaker 2: Well, it's paused currently, correct.\n\nSpeaker 1: I just want to completely cancel my subscription rather than pause it because I might be able to be charged soon.\n\nSpeaker 2: No, you're not set to be charged any time soon.\n\nSpeaker 1: Oh, okay. Could you tell me when my service got paused?\n\nSpeaker 2: Yeah, currently right now it's paused all the way until August 1.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Hello?\n\nSpeaker 1: I see, I see. I don't remember, like, the last bill was on December 15, 1985 for $63.95, right?\n\nSpeaker 2: So, that was your last transaction and you called about a month after that to pause it.\n\nSpeaker 1: Yeah, actually, can I change? I don't want to pause it.",
+    "duration": 5007,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Viagra at Score Blue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10,
+        "text": " Hello, my name is Brett. Can I ask for a refund?"
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 13,
+        "text": " Okay, sir. Yeah, I can help you with this."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 17,
+        "text": " Can you just provide me with the phone number associated with the account?"
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 29,
+        "text": " Sure, no problem. My phone number is 765-716-7510."
+      },
+      {
+        "id": 5,
+        "start": 29,
+        "end": 33,
+        "text": " Okay, and can you provide me the full name and date of birth, please?"
+      },
+      {
+        "id": 6,
+        "start": 33,
+        "end": 44,
+        "text": " Yes, my full name is Brett Oller and my date of birth is August 21, 1959."
+      },
+      {
+        "id": 7,
+        "start": 44,
+        "end": 52,
+        "text": " So, Brett, your account, it shows here that you called a few weeks ago and you put it on a pause."
+      },
+      {
+        "id": 8,
+        "start": 52,
+        "end": 57,
+        "text": " So, it's currently inactive. Can I ask you what has changed?"
+      },
+      {
+        "id": 9,
+        "start": 58,
+        "end": 65,
+        "text": " If I don't remember, like, I just want to completely cancel it, can you help me?"
+      },
+      {
+        "id": 10,
+        "start": 65,
+        "end": 67,
+        "text": " I'd like to ask for a refund."
+      },
+      {
+        "id": 11,
+        "start": 67,
+        "end": 77,
+        "text": " Well, you called about two weeks ago and there weren't any issues and then you paused your account."
+      },
+      {
+        "id": 12,
+        "start": 79,
+        "end": 82,
+        "text": " So, no further charges, right?"
+      },
+      {
+        "id": 13,
+        "start": 82,
+        "end": 85,
+        "text": " Well, it's paused currently, correct."
+      },
+      {
+        "id": 14,
+        "start": 88,
+        "end": 98,
+        "text": " I just want to completely cancel my subscription rather than pause it because I might be able to be charged soon."
+      },
+      {
+        "id": 15,
+        "start": 98,
+        "end": 104,
+        "text": " No, you're not set to be charged any time soon."
+      },
+      {
+        "id": 16,
+        "start": 104,
+        "end": 111,
+        "text": " Oh, okay. Could you tell me when my service got paused?"
+      },
+      {
+        "id": 17,
+        "start": 111,
+        "end": 116,
+        "text": " Yeah, currently right now it's paused all the way until August 1."
+      },
+      {
+        "id": 18,
+        "start": 116,
+        "end": 117,
+        "text": " Okay."
+      },
+      {
+        "id": 19,
+        "start": 125,
+        "end": 126,
+        "text": " Hello?"
+      },
+      {
+        "id": 20,
+        "start": 127,
+        "end": 139,
+        "text": " I see, I see. I don't remember, like, the last bill was on December 15, 1985 for $63.95, right?"
+      },
+      {
+        "id": 21,
+        "start": 139,
+        "end": 144,
+        "text": " So, that was your last transaction and you called about a month after that to pause it."
+      },
+      {
+        "id": 22,
+        "start": 144,
+        "end": 151,
+        "text": " Yeah, actually, can I change? I don't want to pause it."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81dd-8a36-cebc8e482014",
+    "url": "https://www.notion.so/300000001219804-300000001709762-2f611d0a101c81dd8a36cebc8e482014"
+  },
+  "processedAt": "2026-01-28T10:18:22.392Z"
+}

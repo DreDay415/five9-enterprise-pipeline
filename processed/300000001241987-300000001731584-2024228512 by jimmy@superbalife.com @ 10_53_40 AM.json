@@ -1,0 +1,341 @@
+{
+  "recording": {
+    "name": "300000001241987-300000001731584-2024228512 by jimmy@superbalife.com @ 10_53_40 AM.wav",
+    "size": 198180,
+    "modifyTime": 1771008964000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241987-300000001731584-2024228512 by jimmy@superbalife.com @ 10_53_40 AM.wav",
+    "uploadDate": "2026-02-13T18:56:04.000Z",
+    "callId": "300000001241987-300000001731584",
+    "agent": "jimmy",
+    "phoneNumber": "2024228512",
+    "callTimestamp": "2026-02-13T10:53:40.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_jimmy_300000001241987-300000001731584_2024228512.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_jimmy_300000001241987-300000001731584_2024228512.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Jimmy. How can I help you today?\n\nSpeaker 2: Oh, I'm calling to cancel my subscription.\n\nSpeaker 1: Okay. Let me see if I can help you with that.\n\nSpeaker 2: I'll try to pull up your account and take care of you.\n\nSpeaker 1: This is Joseph I'm speaking to?\n\nSpeaker 2: Yes.\n\nSpeaker 1: All right, Joseph. I do have you up here.\n\nSpeaker 2: I see you're getting the Viagra, 100 milligrams.\n\nSpeaker 1: It looks like that you're getting 10.\n\nSpeaker 2: Your prescription is getting you 10 every month.\n\nSpeaker 1: Is that too frequently for you?\n\nSpeaker 2: We can pause it out for you.\n\nSpeaker 1: Like I said, again, this happens too often.\n\nSpeaker 2: It's supposed to have been like that, but no.\n\nSpeaker 1: They kept sending it to me every month and charging me $65.\n\nSpeaker 2: If you don't want that, we don't want to do that.\n\nSpeaker 1: I can set it up so it's only happening like twice a year.\n\nSpeaker 2: You want me to go ahead and do that for you so you keep your prescription active on call\n\nSpeaker 1: so you're not getting them every month?\n\nSpeaker 2: I don't want them every month.\n\nSpeaker 1: No, no problem. I can set it up so like once every six months.\n\nSpeaker 2: Would that work for you?\n\nSpeaker 1: No, once every six months.\n\nSpeaker 2: And if that's too frequently, you can still always call and push it back.\n\nSpeaker 1: So, for instance, like I say, again, you were scheduled to get another one on the 17th.\n\nSpeaker 2: I'm going to stop that one right now.\n\nSpeaker 1: And what I'm going to do, I'm going to make it so you only get them like twice a year.\n\nSpeaker 2: But what this does, it allows you to order whenever you want to order,\n\nSpeaker 1: and plus if six months come too soon, you can just call us and say,\n\nSpeaker 2: push me back some more months, I'm still fine.\n\nSpeaker 1: So we're looking at like in the middle of July.\n\nSpeaker 2: But if that's too soon, you can always call and say, push me back another four or five months.\n\nSpeaker 1: Okay, okay, I'll go with that.\n\nSpeaker 2: All right, so I'll just take care of that for you.\n\nSpeaker 1: All right?\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right. You have a great day.\n\nSpeaker 2: So tell me, excuse me.\n\nSpeaker 1: Yes, sir. I'm here. I'm here.\n\nSpeaker 2: So that won't happen until July?\n\nSpeaker 1: July, yes.\n\nSpeaker 2: And then it will be every six months after that.\n\nSpeaker 1: So it won't be every month again.\n\nSpeaker 2: I said so for like twice a year.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Not a problem.\n\nSpeaker 1: All right.\n\nSpeaker 2: Take care.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Bye-bye.",
+    "duration": 5780,
+    "audioDuration": 121.91999816894531,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. This is Jimmy. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 7,
+        "text": " Oh, I'm calling to counsel my subscription."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " Okay. Let me see if I can help you with that."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 11,
+        "text": " I'll try to pull up your account and take care of you."
+      },
+      {
+        "id": 4,
+        "start": 11,
+        "end": 13,
+        "text": " This is Joseph I'm speaking to?"
+      },
+      {
+        "id": 5,
+        "start": 13,
+        "end": 14,
+        "text": " Yes."
+      },
+      {
+        "id": 6,
+        "start": 14,
+        "end": 16,
+        "text": " All right, Joseph. I do have you up here."
+      },
+      {
+        "id": 7,
+        "start": 16,
+        "end": 18,
+        "text": " I see you're getting the Viagra, 100 milligrams."
+      },
+      {
+        "id": 8,
+        "start": 18,
+        "end": 20,
+        "text": " It looks like that you're getting 10."
+      },
+      {
+        "id": 9,
+        "start": 20,
+        "end": 23,
+        "text": " Your prescription is getting you 10 every month."
+      },
+      {
+        "id": 10,
+        "start": 23,
+        "end": 24,
+        "text": " Is that too frequently for you?"
+      },
+      {
+        "id": 11,
+        "start": 24,
+        "end": 25,
+        "text": " We can pause it out for you."
+      },
+      {
+        "id": 12,
+        "start": 25,
+        "end": 27,
+        "text": " Like I said, again, this happens too often."
+      },
+      {
+        "id": 13,
+        "start": 27,
+        "end": 31,
+        "text": " It's supposed to have been like that, but no."
+      },
+      {
+        "id": 14,
+        "start": 31,
+        "end": 35,
+        "text": " They kept sending it to me every month and charging me $65."
+      },
+      {
+        "id": 15,
+        "start": 35,
+        "end": 38,
+        "text": " If you don't want that, we don't want to do that."
+      },
+      {
+        "id": 16,
+        "start": 38,
+        "end": 41,
+        "text": " I can set it up so it's only happening like twice a year."
+      },
+      {
+        "id": 17,
+        "start": 41,
+        "end": 45,
+        "text": " You want me to go ahead and do that for you so you keep your prescription active on call"
+      },
+      {
+        "id": 18,
+        "start": 45,
+        "end": 47,
+        "text": " so you're not getting them every month?"
+      },
+      {
+        "id": 19,
+        "start": 47,
+        "end": 49,
+        "text": " I don't want them every month."
+      },
+      {
+        "id": 20,
+        "start": 49,
+        "end": 52,
+        "text": " No, no problem. I can set it up so like once every six months."
+      },
+      {
+        "id": 21,
+        "start": 52,
+        "end": 55,
+        "text": " Would that work for you?"
+      },
+      {
+        "id": 22,
+        "start": 55,
+        "end": 59,
+        "text": " No, once every six months."
+      },
+      {
+        "id": 23,
+        "start": 59,
+        "end": 63,
+        "text": " And if that's too frequently, you can still always call and push it back."
+      },
+      {
+        "id": 24,
+        "start": 63,
+        "end": 68,
+        "text": " So, for instance, like I say, again, you were scheduled to get another one on the 17th."
+      },
+      {
+        "id": 25,
+        "start": 68,
+        "end": 70,
+        "text": " I'm going to stop that one right now."
+      },
+      {
+        "id": 26,
+        "start": 70,
+        "end": 73,
+        "text": " And what I'm going to do, I'm going to make it so you only get them like twice a year."
+      },
+      {
+        "id": 27,
+        "start": 73,
+        "end": 77,
+        "text": " But what this does, it allows you to order whenever you want to order,"
+      },
+      {
+        "id": 28,
+        "start": 77,
+        "end": 81,
+        "text": " and plus if six months come too soon, you can just call us and say,"
+      },
+      {
+        "id": 29,
+        "start": 81,
+        "end": 83,
+        "text": " push me back some more months, I'm still fine."
+      },
+      {
+        "id": 30,
+        "start": 83,
+        "end": 86,
+        "text": " So we're looking at like in the middle of July."
+      },
+      {
+        "id": 31,
+        "start": 86,
+        "end": 90,
+        "text": " But if that's too soon, you can always call and say, push me back another four or five months."
+      },
+      {
+        "id": 32,
+        "start": 90,
+        "end": 92,
+        "text": " Okay, okay, I'll go with that."
+      },
+      {
+        "id": 33,
+        "start": 92,
+        "end": 94,
+        "text": " All right, so I'll just take care of that for you."
+      },
+      {
+        "id": 34,
+        "start": 94,
+        "end": 95,
+        "text": " All right?"
+      },
+      {
+        "id": 35,
+        "start": 95,
+        "end": 96,
+        "text": " Okay."
+      },
+      {
+        "id": 36,
+        "start": 96,
+        "end": 98,
+        "text": " All right. You have a great day."
+      },
+      {
+        "id": 37,
+        "start": 98,
+        "end": 101,
+        "text": " So tell me, excuse me."
+      },
+      {
+        "id": 38,
+        "start": 101,
+        "end": 104,
+        "text": " Yes, sir. I'm here. I'm here."
+      },
+      {
+        "id": 39,
+        "start": 104,
+        "end": 107,
+        "text": " So that won't happen until July?"
+      },
+      {
+        "id": 40,
+        "start": 107,
+        "end": 109,
+        "text": " July, yes."
+      },
+      {
+        "id": 41,
+        "start": 109,
+        "end": 111,
+        "text": " And then it will be every six months after that."
+      },
+      {
+        "id": 42,
+        "start": 111,
+        "end": 113,
+        "text": " So it won't be every month again."
+      },
+      {
+        "id": 43,
+        "start": 113,
+        "end": 115,
+        "text": " I said so for like twice a year."
+      },
+      {
+        "id": 44,
+        "start": 115,
+        "end": 116,
+        "text": " Okay."
+      },
+      {
+        "id": 45,
+        "start": 116,
+        "end": 117,
+        "text": " Okay."
+      },
+      {
+        "id": 46,
+        "start": 117,
+        "end": 118,
+        "text": " All right."
+      },
+      {
+        "id": 47,
+        "start": 118,
+        "end": 119,
+        "text": " Not a problem."
+      },
+      {
+        "id": 48,
+        "start": 119,
+        "end": 120,
+        "text": " All right."
+      },
+      {
+        "id": 49,
+        "start": 120,
+        "end": 121,
+        "text": " Take care."
+      },
+      {
+        "id": 50,
+        "start": 121,
+        "end": 122,
+        "text": " Thank you."
+      },
+      {
+        "id": 51,
+        "start": 122,
+        "end": 123,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81ce-9a8d-feb885690bc6",
+    "url": "https://www.notion.so/300000001241987-300000001731584-30611d0a101c81ce9a8dfeb885690bc6"
+  },
+  "processedAt": "2026-02-13T18:59:39.675Z"
+}

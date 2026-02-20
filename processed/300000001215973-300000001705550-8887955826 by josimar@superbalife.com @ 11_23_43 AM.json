@@ -1,0 +1,356 @@
+{
+  "recording": {
+    "name": "300000001215973-300000001705550-8887955826 by josimar@superbalife.com @ 11_23_43 AM.wav",
+    "size": 288726,
+    "modifyTime": 1769196423000,
+    "remotePath": "/five9sftp/recordings/SB CS/1_23_2026/300000001215973-300000001705550-8887955826 by josimar@superbalife.com @ 11_23_43 AM.wav",
+    "uploadDate": "2026-01-23T19:27:03.000Z",
+    "callId": "300000001215973-300000001705550",
+    "agent": "josimar",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-23T19:23:43.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, how can I help you today?\n\nSpeaker 2: Yes, this is Richard Gresser.\n\nSpeaker 1: I asked for another medication, a different medication I think.\n\nSpeaker 2: And I've delivered some sodanophyl, AGB.\n\nSpeaker 1: I'd like to take a look to see what's going on with your order.\n\nSpeaker 2: What's your zip code?\n\nSpeaker 1: 60015.\n\nSpeaker 2: All right, so I pulled out your zip code.\n\nSpeaker 1: I'm sorry, what's your first name?\n\nSpeaker 2: Richard.\n\nSpeaker 1: And last name's Gresser?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Got it.\n\nSpeaker 2: So I see that they sent you a new order, sir.\n\nSpeaker 1: What does the marking on the new order say on there?\n\nSpeaker 2: It says, sodanophyl, 100 milligram tablet.\n\nSpeaker 1: One more time, sir, the marking on the pill.\n\nSpeaker 2: The marking on the pill is 100.\n\nSpeaker 1: Got it. That's going to be the AGB, sir.\n\nSpeaker 2: The one that you got previously was the wrong one.\n\nSpeaker 1: That was the generic one that said AC on there and a series of numbers.\n\nSpeaker 2: The second one you receive is going to be the AGB Viagra.\n\nSpeaker 1: Because it has 100 marked on there.\n\nSpeaker 2: But I thought, I asked, you have a couple of others.\n\nSpeaker 1: I asked for one that will last for up to 14 hours.\n\nSpeaker 2: Yeah, it does.\n\nSpeaker 1: It lasts up to 14 hours and it works as fast as 15 minutes.\n\nSpeaker 2: However, on the label, it won't say that because the doctor can't verify\n\nSpeaker 1: that everybody's body's composition is the same.\n\nSpeaker 2: However, the pill that you received was the AGB Viagra.\n\nSpeaker 1: Okay. Now, please tell me a little bit about the subscription that I have.\n\nSpeaker 2: Yeah, right now you have it frozen out.\n\nSpeaker 1: It looks like for half the year.\n\nSpeaker 2: That way you could just try these out, see how well you like these,\n\nSpeaker 1: and then you can call us back once you make a final choice on it to see if you want to keep it.\n\nSpeaker 2: Okay. Now, is there any charge for this?\n\nSpeaker 1: No, that was free.\n\nSpeaker 2: Is there any charge for renewing the prescription?\n\nSpeaker 1: Well, yeah.\n\nSpeaker 2: I mean, if you're going to get another order, you have to pay for it.\n\nSpeaker 1: This one is free because they made a mistake on your first order.\n\nSpeaker 2: I got you.\n\nSpeaker 1: Now, what will the charge be on the, if I decide to?\n\nSpeaker 2: You have a promotion rate of $63.95, sir.\n\nSpeaker 1: $63.95?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: And that's for how many?\n\nSpeaker 2: Ten pills, what you received right now.\n\nSpeaker 1: Well, it's not understood, so I'll get this fixed for you, sir.\n\nSpeaker 2: I do apologize.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thanks for your time.\n\nSpeaker 1: All right.\n\nSpeaker 2: Have a good one.\n\nSpeaker 1: Bye.",
+    "duration": 6385,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.880000114440918,
+        "text": " Viagra, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 6.21999979019165,
+        "end": 8.079999923706055,
+        "text": " Yes, this is Richard Gresser."
+      },
+      {
+        "id": 2,
+        "start": 8.579999923706055,
+        "end": 16.579999923706055,
+        "text": " I asked for another medication, a different medication I think,"
+      },
+      {
+        "id": 3,
+        "start": 17.15999984741211,
+        "end": 20.3799991607666,
+        "text": " and I've delivered some sodanophyl, AGB."
+      },
+      {
+        "id": 4,
+        "start": 20.3799991607666,
+        "end": 24.719999313354492,
+        "text": " I'd like to take a look to see what's going on with your order."
+      },
+      {
+        "id": 5,
+        "start": 24.719999313354492,
+        "end": 25.68000030517578,
+        "text": " What's your zip code?"
+      },
+      {
+        "id": 6,
+        "start": 26.860000610351562,
+        "end": 28.399999618530273,
+        "text": " 60015."
+      },
+      {
+        "id": 7,
+        "start": 28.399999618530273,
+        "end": 48.2400016784668,
+        "text": " All right, so I pulled out your zip code."
+      },
+      {
+        "id": 8,
+        "start": 48.2400016784668,
+        "end": 49.31999969482422,
+        "text": " I'm sorry, what's your first name?"
+      },
+      {
+        "id": 9,
+        "start": 50.31999969482422,
+        "end": 50.86000061035156,
+        "text": " Richard."
+      },
+      {
+        "id": 10,
+        "start": 51.939998626708984,
+        "end": 53.2599983215332,
+        "text": " And last name's Gresser?"
+      },
+      {
+        "id": 11,
+        "start": 54.47999954223633,
+        "end": 54.97999954223633,
+        "text": " Yes."
+      },
+      {
+        "id": 12,
+        "start": 56.47999954223633,
+        "end": 57.13999938964844,
+        "text": " Got it."
+      },
+      {
+        "id": 13,
+        "start": 58,
+        "end": 60.13999938964844,
+        "text": " So I see that they sent you a new order, sir."
+      },
+      {
+        "id": 14,
+        "start": 60.13999938964844,
+        "end": 62.15999984741211,
+        "text": " What does the marking on the new order say on there?"
+      },
+      {
+        "id": 15,
+        "start": 63.7599983215332,
+        "end": 67.4000015258789,
+        "text": " It says, sodanophyl, 100 milligram tablet."
+      },
+      {
+        "id": 16,
+        "start": 67.45999908447266,
+        "end": 69.44000244140625,
+        "text": " One more time, sir, the marking on the pill."
+      },
+      {
+        "id": 17,
+        "start": 70.72000122070312,
+        "end": 73.16000366210938,
+        "text": " The marking on the pill is 100."
+      },
+      {
+        "id": 18,
+        "start": 73.77999877929688,
+        "end": 75.55999755859375,
+        "text": " Got it. That's going to be the AGB, sir."
+      },
+      {
+        "id": 19,
+        "start": 75.55999755859375,
+        "end": 78.73999786376953,
+        "text": " The one that you got previously was the wrong one."
+      },
+      {
+        "id": 20,
+        "start": 78.73999786376953,
+        "end": 82.36000061035156,
+        "text": " That was the generic one that said AC on there and a series of numbers."
+      },
+      {
+        "id": 21,
+        "start": 82.54000091552734,
+        "end": 86.77999877929688,
+        "text": " The second one you receive is going to be the AGB Viagra"
+      },
+      {
+        "id": 22,
+        "start": 86.77999877929688,
+        "end": 88.18000030517578,
+        "text": " because it has 100 marked on there."
+      },
+      {
+        "id": 23,
+        "start": 90.68000030517578,
+        "end": 95.58000183105469,
+        "text": " But I thought, I asked, you have a couple of others."
+      },
+      {
+        "id": 24,
+        "start": 96.0199966430664,
+        "end": 103.08000183105469,
+        "text": " I asked for one that will last for up to 14 hours."
+      },
+      {
+        "id": 25,
+        "start": 103.45999908447266,
+        "end": 104.23999786376953,
+        "text": " Yeah, it does."
+      },
+      {
+        "id": 26,
+        "start": 104.23999786376953,
+        "end": 107.58000183105469,
+        "text": " It lasts up to 14 hours and it works as fast as 15 minutes."
+      },
+      {
+        "id": 27,
+        "start": 107.58000183105469,
+        "end": 110.9800033569336,
+        "text": " However, on the label, it won't say that because the doctor can't verify"
+      },
+      {
+        "id": 28,
+        "start": 111,
+        "end": 112.91999816894531,
+        "text": " that everybody's body's composition is the same."
+      },
+      {
+        "id": 29,
+        "start": 113.5,
+        "end": 116.16000366210938,
+        "text": " However, the pill that you received was the AGB Viagra."
+      },
+      {
+        "id": 30,
+        "start": 117.31999969482422,
+        "end": 123.22000122070312,
+        "text": " Okay. Now, please tell me a little bit about the subscription that I have."
+      },
+      {
+        "id": 31,
+        "start": 123.86000061035156,
+        "end": 125.80000305175781,
+        "text": " Yeah, right now you have it frozen out."
+      },
+      {
+        "id": 32,
+        "start": 125.80000305175781,
+        "end": 127.05999755859375,
+        "text": " It looks like for half the year."
+      },
+      {
+        "id": 33,
+        "start": 127.05999755859375,
+        "end": 129.75999450683594,
+        "text": " That way you could just try these out, see how well you like these,"
+      },
+      {
+        "id": 34,
+        "start": 129.75999450683594,
+        "end": 133.22000122070312,
+        "text": " and then you can call us back once you make a final choice on it to see if you want to keep it."
+      },
+      {
+        "id": 35,
+        "start": 133.22000122070312,
+        "end": 135.44000244140625,
+        "text": " Okay. Now, is there any charge for this?"
+      },
+      {
+        "id": 36,
+        "start": 136.02000427246094,
+        "end": 136.82000732421875,
+        "text": " No, that was free."
+      },
+      {
+        "id": 37,
+        "start": 136.82000732421875,
+        "end": 140.83999633789062,
+        "text": " Is there any charge for renewing the prescription?"
+      },
+      {
+        "id": 38,
+        "start": 141.6999969482422,
+        "end": 142.16000366210938,
+        "text": " Well, yeah."
+      },
+      {
+        "id": 39,
+        "start": 142.16000366210938,
+        "end": 144.52000427246094,
+        "text": " I mean, if you're going to get another order, you have to pay for it."
+      },
+      {
+        "id": 40,
+        "start": 144.52000427246094,
+        "end": 146.86000061035156,
+        "text": " This one is free because they made a mistake on your first order."
+      },
+      {
+        "id": 41,
+        "start": 147.6199951171875,
+        "end": 148.13999938964844,
+        "text": " I got you."
+      },
+      {
+        "id": 42,
+        "start": 148.33999633789062,
+        "end": 152.13999938964844,
+        "text": " Now, what will the charge be on the, if I decide to?"
+      },
+      {
+        "id": 43,
+        "start": 152.13999938964844,
+        "end": 154.39999389648438,
+        "text": " You have a promotion rate of $63.95, sir."
+      },
+      {
+        "id": 44,
+        "start": 155.5800018310547,
+        "end": 156.86000061035156,
+        "text": " $63.95?"
+      },
+      {
+        "id": 45,
+        "start": 157.22000122070312,
+        "end": 157.55999755859375,
+        "text": " Yeah."
+      },
+      {
+        "id": 46,
+        "start": 157.8800048828125,
+        "end": 159.44000244140625,
+        "text": " And that's for how many?"
+      },
+      {
+        "id": 47,
+        "start": 160.27999877929688,
+        "end": 162,
+        "text": " Ten pills, what you received right now."
+      },
+      {
+        "id": 48,
+        "start": 163.32000732421875,
+        "end": 166.17999267578125,
+        "text": " Well, it's not understood, so I'll get this fixed for you, sir."
+      },
+      {
+        "id": 49,
+        "start": 166.17999267578125,
+        "end": 167.3800048828125,
+        "text": " I do apologize."
+      },
+      {
+        "id": 50,
+        "start": 167.3800048828125,
+        "end": 167.8000030517578,
+        "text": " All right."
+      },
+      {
+        "id": 51,
+        "start": 168.10000610351562,
+        "end": 169.0800018310547,
+        "text": " Thanks for your time."
+      },
+      {
+        "id": 52,
+        "start": 169.44000244140625,
+        "end": 171.77999877929688,
+        "text": " All right."
+      },
+      {
+        "id": 53,
+        "start": 171.77999877929688,
+        "end": 172.27999877929688,
+        "text": " Have a good one."
+      },
+      {
+        "id": 54,
+        "start": 173.4600067138672,
+        "end": 173.72000122070312,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f411d0a-101c-8131-ae02-ca713ba48f17",
+    "url": "https://www.notion.so/300000001215973-300000001705550-2f411d0a101c8131ae02ca713ba48f17"
+  },
+  "processedAt": "2026-01-26T21:36:43.495Z"
+}

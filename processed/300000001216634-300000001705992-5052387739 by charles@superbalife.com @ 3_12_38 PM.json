@@ -1,0 +1,176 @@
+{
+  "recording": {
+    "name": "300000001216634-300000001705992-5052387739 by charles@superbalife.com @ 3_12_38 PM.wav",
+    "size": 111016,
+    "modifyTime": 1769591238000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216634-300000001705992-5052387739 by charles@superbalife.com @ 3_12_38 PM.wav",
+    "uploadDate": "2026-01-28T09:07:18.000Z",
+    "callId": "300000001216634-300000001705992",
+    "agent": "charles",
+    "phoneNumber": "5052387739",
+    "callTimestamp": "2026-01-28T15:12:38.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, this is Charles.\n\nSpeaker 2: Yes, this is Gerald Kaiser.\n\nSpeaker 1: I was calling, is this score blue?\n\nSpeaker 2: Yes, sir.\n\nSpeaker 1: Yeah, I ordered a while back and got a prescription\n\nSpeaker 2: for the generic Viagra and I need\n\nSpeaker 1: to cancel any further on that.\n\nSpeaker 2: I think I've got plenty right now and I don't need any more.\n\nSpeaker 1: I think it's on a subscription basis.\n\nSpeaker 2: My name is Gerald Kaiser, K-A-I-S-E-R, Albuquerque,\n\nSpeaker 1: New Mexico.\n\nSpeaker 2: OK, I got you pulled up here.\n\nSpeaker 1: If you'd like, as a VIP member here,\n\nSpeaker 2: Gerald, you do have the opportunity\n\nSpeaker 1: to postpone any future refill for the next five months.\n\nSpeaker 2: That way you have plenty of time to use up what you got.\n\nSpeaker 1: And then if you need them earlier, give us a call.\n\nSpeaker 2: OK, well I'll do that then.\n\nSpeaker 1: That sounds good.\n\nSpeaker 2: Put a hold on it, that'll work fine.\n\nSpeaker 1: Thank you and have a good day.\n\nSpeaker 2: OK, sounds good.\n\nSpeaker 1: OK, good.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 2708,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7.440000057220459,
+        "text": " Thanks for calling Viagra, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 7.440000057220459,
+        "end": 8.960000038146973,
+        "text": " Yes, this is Gerald Kaiser."
+      },
+      {
+        "id": 2,
+        "start": 8.960000038146973,
+        "end": 11.399999618530273,
+        "text": " I was calling, is this score blue?"
+      },
+      {
+        "id": 3,
+        "start": 11.399999618530273,
+        "end": 13.84000015258789,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 4,
+        "start": 13.84000015258789,
+        "end": 19.68000030517578,
+        "text": " Yeah, I ordered a while back and got a prescription"
+      },
+      {
+        "id": 5,
+        "start": 19.68000030517578,
+        "end": 22.920000076293945,
+        "text": " for the generic Viagra and I need"
+      },
+      {
+        "id": 6,
+        "start": 22.920000076293945,
+        "end": 25.079999923706055,
+        "text": " to cancel any further on that."
+      },
+      {
+        "id": 7,
+        "start": 25.079999923706055,
+        "end": 29,
+        "text": " I think I've got plenty right now and I don't need any more."
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 31.959999084472656,
+        "text": " I think it's on a subscription basis."
+      },
+      {
+        "id": 9,
+        "start": 31.959999084472656,
+        "end": 36.7599983215332,
+        "text": " My name is Gerald Kaiser, K-A-I-S-E-R, Albuquerque,"
+      },
+      {
+        "id": 10,
+        "start": 36.7599983215332,
+        "end": 38.7599983215332,
+        "text": " New Mexico."
+      },
+      {
+        "id": 11,
+        "start": 38.7599983215332,
+        "end": 40.599998474121094,
+        "text": " OK, I got you pulled up here."
+      },
+      {
+        "id": 12,
+        "start": 40.599998474121094,
+        "end": 43.400001525878906,
+        "text": " If you'd like, as a VIP member here,"
+      },
+      {
+        "id": 13,
+        "start": 43.400001525878906,
+        "end": 45.119998931884766,
+        "text": " Gerald, you do have the opportunity"
+      },
+      {
+        "id": 14,
+        "start": 45.119998931884766,
+        "end": 49.08000183105469,
+        "text": " to postpone any future refill for the next five months."
+      },
+      {
+        "id": 15,
+        "start": 49.08000183105469,
+        "end": 51.7599983215332,
+        "text": " That way you have plenty of time to use up what you got."
+      },
+      {
+        "id": 16,
+        "start": 51.7599983215332,
+        "end": 55.720001220703125,
+        "text": " And then if you need them earlier, give us a call."
+      },
+      {
+        "id": 17,
+        "start": 55.720001220703125,
+        "end": 57.7599983215332,
+        "text": " OK, well I'll do that then."
+      },
+      {
+        "id": 18,
+        "start": 57.7599983215332,
+        "end": 59.20000076293945,
+        "text": " That sounds good."
+      },
+      {
+        "id": 19,
+        "start": 59.20000076293945,
+        "end": 62.15999984741211,
+        "text": " Put a hold on it, that'll work fine."
+      },
+      {
+        "id": 20,
+        "start": 62.15999984741211,
+        "end": 64.23999786376953,
+        "text": " Thank you and have a good day."
+      },
+      {
+        "id": 21,
+        "start": 64.23999786376953,
+        "end": 64.95999908447266,
+        "text": " OK, sounds good."
+      },
+      {
+        "id": 22,
+        "start": 64.95999908447266,
+        "end": 66.55999755859375,
+        "text": " OK, good."
+      },
+      {
+        "id": 23,
+        "start": 66.55999755859375,
+        "end": 67.63999938964844,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 24,
+        "start": 67.63999938964844,
+        "end": 69.19999694824219,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8176-941a-d8166759b535",
+    "url": "https://www.notion.so/300000001216634-300000001705992-2f611d0a101c8176941ad8166759b535"
+  },
+  "processedAt": "2026-01-28T11:42:13.912Z"
+}

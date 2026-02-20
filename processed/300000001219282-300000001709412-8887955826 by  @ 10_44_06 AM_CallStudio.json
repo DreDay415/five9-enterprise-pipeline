@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001219282-300000001709412-8887955826 by  @ 10_44_06 AM_CallStudio.wav",
+    "size": 21836,
+    "modifyTime": 1769583436000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219282-300000001709412-8887955826 by  @ 10_44_06 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T06:57:16.000Z",
+    "callId": "300000001219282-300000001709412",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T06:57:16.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Cancel.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Transferring to agent.",
+    "duration": 627,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.199999809265137,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.199999809265137,
+        "end": 7.199999809265137,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.199999809265137,
+        "end": 10.199999809265137,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.199999809265137,
+        "end": 11.199999809265137,
+        "text": " Cancel."
+      },
+      {
+        "id": 4,
+        "start": 11.199999809265137,
+        "end": 12.199999809265137,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 12.199999809265137,
+        "end": 13.039999961853027,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8172-adef-f2a66c9887c8",
+    "url": "https://www.notion.so/300000001219282-300000001709412-2f611d0a101c8172adeff2a66c9887c8"
+  },
+  "processedAt": "2026-01-28T16:20:24.897Z"
+}

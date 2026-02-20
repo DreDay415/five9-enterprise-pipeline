@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001220880-300000001710903-3105603217 by  @ 10_20_40 AM_CallStudio.wav",
+    "size": 24046,
+    "modifyTime": 1769624479000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220880-300000001710903-3105603217 by  @ 10_20_40 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T18:21:19.000Z",
+    "callId": "300000001220880-300000001710903",
+    "phoneNumber": "3105603217",
+    "callTimestamp": "2026-01-28T18:21:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I have not received my product.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 689,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.5,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.5,
+        "end": 8,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " I have not received my product."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 14.399999618530273,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8150-bb3e-fe337075915d",
+    "url": "https://www.notion.so/300000001220880-300000001710903-2f711d0a101c8150bb3efe337075915d"
+  },
+  "processedAt": "2026-01-29T00:21:29.434Z"
+}

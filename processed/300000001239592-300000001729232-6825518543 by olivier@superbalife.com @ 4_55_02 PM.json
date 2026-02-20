@@ -1,0 +1,134 @@
+{
+  "recording": {
+    "name": "300000001239592-300000001729232-6825518543 by olivier@superbalife.com @ 4_55_02 PM.wav",
+    "size": 190640,
+    "modifyTime": 1770857834000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239592-300000001729232-6825518543 by olivier@superbalife.com @ 4_55_02 PM.wav",
+    "uploadDate": "2026-02-12T00:57:14.000Z",
+    "callId": "300000001239592-300000001729232",
+    "agent": "olivier",
+    "phoneNumber": "6825518543",
+    "callTimestamp": "2026-02-12T16:55:02.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra. Hello? Hello, how we doing sir? I'm doing good, I'm doing good. I am\n\nSpeaker 2: calling in to cancel my prescription. Mr. Cochran in Fort Worth, Texas? Yes sir. Alright\n\nSpeaker 1: I see that you have a prescription for Viagra, 50mg, 10 tablets and I think they got you\n\nSpeaker 2: on a 30 day refill basis. Any health concerns or you just want to order as needed, you don't\n\nSpeaker 1: want to go based on the 30 day supply? Yeah, I just want to cancel altogether. Okay, any\n\nSpeaker 2: issue or side effect with the Viagra? No sir. Okay because you can pause your prescription\n\nSpeaker 1: and just order as needed. If you don't need it the way they wrote it, I can cancel the\n\nSpeaker 2: initial writing from the doctor, pause the prescription, lock the price in and you just\n\nSpeaker 1: call to reorder as needed. I think they paused you up to half a year and you can just call\n\nSpeaker 2: so you're not on a monthly basis anymore. Yeah, I just prefer to cancel and if I decide\n\nSpeaker 1: to come back I'll call. Okay, just be advised I'm cancelling right now the doctor consultation.\n\nSpeaker 2: The company offered to pause because they don't want to finance the 2-3 time for 10\n\nSpeaker 1: pills so that being said, if you reorder, if the order goes through because some patient\n\nSpeaker 2: reported it doesn't go through, the price will be up because they're going to have to\n\nSpeaker 1: reimburse you which is going to have a cost for them. At first they finance that it's\n\nSpeaker 2: free, it doesn't impact your price but then after when it does do that again for you,\n\nSpeaker 1: they got to charge more. I'll cancel that prescription for you, cancel the VIP account\n\nSpeaker 2: and you're all set, okay? Okay, I appreciate it. Yes, bye-bye. Thank you.",
+    "duration": 5715,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 10.239999771118164,
+        "text": " Hi this is Viagra. Hello? Hello, how we doing sir? I'm doing good, I'm doing good. I am"
+      },
+      {
+        "id": 1,
+        "start": 10.239999771118164,
+        "end": 22.31999969482422,
+        "text": " calling in to cancel my prescription. Mr. Cochran in Fort Worth, Texas? Yes sir. Alright"
+      },
+      {
+        "id": 2,
+        "start": 22.31999969482422,
+        "end": 31.1200008392334,
+        "text": " I see that you have a prescription for Viagra, 50mg, 10 tablets and I think they got you"
+      },
+      {
+        "id": 3,
+        "start": 31.1200008392334,
+        "end": 39.15999984741211,
+        "text": " on a 30 day refill basis. Any health concerns or you just want to order as needed, you don't"
+      },
+      {
+        "id": 4,
+        "start": 39.15999984741211,
+        "end": 47.599998474121094,
+        "text": " want to go based on the 30 day supply? Yeah I just want to cancel altogether. Okay, any"
+      },
+      {
+        "id": 5,
+        "start": 47.599998474121094,
+        "end": 54.959999084472656,
+        "text": " issue or side effect with the Viagra? No sir. Okay because you can pause your prescription"
+      },
+      {
+        "id": 6,
+        "start": 54.959999084472656,
+        "end": 59.040000915527344,
+        "text": " and just order as needed. If you don't need it the way they wrote it, I can cancel the"
+      },
+      {
+        "id": 7,
+        "start": 59.040000915527344,
+        "end": 63.68000030517578,
+        "text": " initial writing from the doctor, pause the prescription, lock the price in and you just"
+      },
+      {
+        "id": 8,
+        "start": 63.68000030517578,
+        "end": 68.4000015258789,
+        "text": " call to reorder as needed. I think they paused you up to half a year and you can just call"
+      },
+      {
+        "id": 9,
+        "start": 68.4000015258789,
+        "end": 74.19999694824219,
+        "text": " so you're not on a monthly basis anymore. Yeah I just prefer to cancel and if I decide"
+      },
+      {
+        "id": 10,
+        "start": 74.19999694824219,
+        "end": 81.44000244140625,
+        "text": " to come back I'll call. Okay, just be advised I'm cancelling right now the doctor consultation."
+      },
+      {
+        "id": 11,
+        "start": 81.44000244140625,
+        "end": 86.63999938964844,
+        "text": " The company offered to pause because they don't want to finance the 2-3 time for 10"
+      },
+      {
+        "id": 12,
+        "start": 86.63999938964844,
+        "end": 91.68000030517578,
+        "text": " pills so that being said, if you reorder, if the order goes through because some patient"
+      },
+      {
+        "id": 13,
+        "start": 91.68000030517578,
+        "end": 95.31999969482422,
+        "text": " reported it doesn't go through, the price will be up because they're going to have to"
+      },
+      {
+        "id": 14,
+        "start": 95.31999969482422,
+        "end": 98.63999938964844,
+        "text": " reimburse you which is going to have a cost for them. At first they finance that it's"
+      },
+      {
+        "id": 15,
+        "start": 98.63999938964844,
+        "end": 103.36000061035156,
+        "text": " free, it doesn't impact your price but then after when it does do that again for you,"
+      },
+      {
+        "id": 16,
+        "start": 103.36000061035156,
+        "end": 109.19999694824219,
+        "text": " they got to charge more. I'll cancel that prescription for you, cancel the VIP account"
+      },
+      {
+        "id": 17,
+        "start": 109.19999694824219,
+        "end": 115.5199966430664,
+        "text": " and you're all set, okay? Okay, I appreciate it. Yes, bye-bye. Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8130-a77a-eda1a2db7463",
+    "url": "https://www.notion.so/300000001239592-300000001729232-30511d0a101c8130a77aeda1a2db7463"
+  },
+  "processedAt": "2026-02-12T01:02:08.936Z"
+}

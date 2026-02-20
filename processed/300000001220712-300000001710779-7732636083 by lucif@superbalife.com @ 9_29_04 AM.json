@@ -1,0 +1,308 @@
+{
+  "recording": {
+    "name": "300000001220712-300000001710779-7732636083 by lucif@superbalife.com @ 9_29_04 AM.wav",
+    "size": 226066,
+    "modifyTime": 1769621504000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220712-300000001710779-7732636083 by lucif@superbalife.com @ 9_29_04 AM.wav",
+    "uploadDate": "2026-01-28T17:31:44.000Z",
+    "callId": "300000001220712-300000001710779",
+    "agent": "lucif",
+    "phoneNumber": "7732636083",
+    "callTimestamp": "2026-01-28T09:29:04.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 2: Thanks, Juan Villagro. Quinn speaking. How can I help you?\n\nSpeaker 1: You're the best, brother. Thank you. I'd like to cancel my monthly delivery.\n\nSpeaker 2: Oh, wow, really? You want to cancel?\n\nSpeaker 1: Okay, let me pull up your account so I can help you out.\n\nSpeaker 2: And what is your zip code, sir?\n\nSpeaker 1: It's 60641.\n\nSpeaker 2: 60641. Amazing. Thank you very much.\n\nSpeaker 1: Is your name Eduardo?\n\nSpeaker 2: Yes.\n\nSpeaker 1: All right, thank you, Eduardo. Oh, I do have you here.\n\nSpeaker 2: I do see you're a VIP customer as well, getting Villagro.\n\nSpeaker 1: Do you mind if I ask why it is you're canceling?\n\nSpeaker 2: I just don't want it anymore.\n\nSpeaker 1: Okay, you like kind of getting it too fast?\n\nSpeaker 2: Because you know you can always order this as needed.\n\nSpeaker 1: You don't have to get it the way you are currently.\n\nSpeaker 2: Yeah, I don't. Again, I forgot I even had monthly whatever.\n\nSpeaker 1: So I'd rather just cancel that automatic withdrawal.\n\nSpeaker 2: Yeah, you don't have to get it automatically, sir.\n\nSpeaker 1: That's what I mean.\n\nSpeaker 2: Basically, we can just keep the prescription available for you\n\nSpeaker 1: for like a six-month period,\n\nSpeaker 2: and then you can call in and order your next orders.\n\nSpeaker 1: Yeah, that's what I want to do is no longer.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, I'll set that up for you now.\n\nSpeaker 2: So it won't be delivered or charged, correct?\n\nSpeaker 1: No, until you call in,\n\nSpeaker 2: but we are going to keep your prescription available to you\n\nSpeaker 1: so you can call in for your next one.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Anything else you need, sir?\n\nSpeaker 1: I am going to do that for you now.\n\nSpeaker 2: No, that's it.\n\nSpeaker 1: What's your name?\n\nSpeaker 2: My name is Quinn.\n\nSpeaker 1: I can also give you an extension as well.\n\nSpeaker 2: Yeah, because you can even call me and place your orders,\n\nSpeaker 1: and I can make sure it stays this way for you also.\n\nSpeaker 2: Okay, and what is that?\n\nSpeaker 1: So it's Quinn, Q-U-I-N-N,\n\nSpeaker 2: and my extension is going to be 0035.\n\nSpeaker 1: All right, great.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: All right, you're welcome.",
+    "duration": 6272,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " You're the best, brother. Thank you."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 5,
+        "text": " Thanks, Juan Villagro. Quinn speaking. How can I help you?"
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 11,
+        "text": " I'd like to cancel my monthly delivery."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 13,
+        "text": " Oh, wow, really? You want to cancel?"
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 19,
+        "text": " Okay, let me pull up your account so I can help you out."
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 22,
+        "text": " And what is your zip code, sir?"
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 25,
+        "text": " It's 60641."
+      },
+      {
+        "id": 7,
+        "start": 25,
+        "end": 31,
+        "text": " 60641. Amazing. Thank you very much."
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 33,
+        "text": " Is your name Eduardo?"
+      },
+      {
+        "id": 9,
+        "start": 33,
+        "end": 39,
+        "text": " Yes."
+      },
+      {
+        "id": 10,
+        "start": 39,
+        "end": 41,
+        "text": " All right, thank you, Eduardo. Oh, I do have you here."
+      },
+      {
+        "id": 11,
+        "start": 41,
+        "end": 44,
+        "text": " I do see you're a VIP customer as well, getting Villagro."
+      },
+      {
+        "id": 12,
+        "start": 44,
+        "end": 48,
+        "text": " Do you mind if I ask why it is you're canceling?"
+      },
+      {
+        "id": 13,
+        "start": 48,
+        "end": 51,
+        "text": " I just don't want it anymore."
+      },
+      {
+        "id": 14,
+        "start": 51,
+        "end": 53,
+        "text": " Okay, you like kind of getting it too fast?"
+      },
+      {
+        "id": 15,
+        "start": 53,
+        "end": 55,
+        "text": " Because you know you can always order this as needed."
+      },
+      {
+        "id": 16,
+        "start": 55,
+        "end": 57,
+        "text": " You don't have to get it the way you are currently."
+      },
+      {
+        "id": 17,
+        "start": 57,
+        "end": 64,
+        "text": " Yeah, I don't. Again, I forgot I even had monthly whatever."
+      },
+      {
+        "id": 18,
+        "start": 64,
+        "end": 70,
+        "text": " So I'd rather just cancel that automatic withdrawal."
+      },
+      {
+        "id": 19,
+        "start": 70,
+        "end": 72,
+        "text": " Yeah, you don't have to get it automatically, sir."
+      },
+      {
+        "id": 20,
+        "start": 72,
+        "end": 73,
+        "text": " That's what I mean."
+      },
+      {
+        "id": 21,
+        "start": 73,
+        "end": 75,
+        "text": " Basically, we can just keep the prescription available for you"
+      },
+      {
+        "id": 22,
+        "start": 75,
+        "end": 77,
+        "text": " for like a six-month period,"
+      },
+      {
+        "id": 23,
+        "start": 77,
+        "end": 80,
+        "text": " and then you can call in and order your next orders."
+      },
+      {
+        "id": 24,
+        "start": 80,
+        "end": 85,
+        "text": " Yeah, that's what I want to do is no longer."
+      },
+      {
+        "id": 25,
+        "start": 85,
+        "end": 87,
+        "text": " Yes."
+      },
+      {
+        "id": 26,
+        "start": 87,
+        "end": 90,
+        "text": " Okay, I'll set that up for you now."
+      },
+      {
+        "id": 27,
+        "start": 90,
+        "end": 94,
+        "text": " So it won't be delivered or charged, correct?"
+      },
+      {
+        "id": 28,
+        "start": 94,
+        "end": 95,
+        "text": " No, until you call in,"
+      },
+      {
+        "id": 29,
+        "start": 95,
+        "end": 98,
+        "text": " but we are going to keep your prescription available to you"
+      },
+      {
+        "id": 30,
+        "start": 98,
+        "end": 100,
+        "text": " so you can call in for your next one."
+      },
+      {
+        "id": 31,
+        "start": 100,
+        "end": 107,
+        "text": " Okay."
+      },
+      {
+        "id": 32,
+        "start": 107,
+        "end": 108,
+        "text": " All right."
+      },
+      {
+        "id": 33,
+        "start": 108,
+        "end": 109,
+        "text": " Anything else you need, sir?"
+      },
+      {
+        "id": 34,
+        "start": 109,
+        "end": 111,
+        "text": " I am going to do that for you now."
+      },
+      {
+        "id": 35,
+        "start": 111,
+        "end": 112,
+        "text": " No, that's it."
+      },
+      {
+        "id": 36,
+        "start": 112,
+        "end": 115,
+        "text": " What's your name?"
+      },
+      {
+        "id": 37,
+        "start": 115,
+        "end": 116,
+        "text": " My name is Quinn."
+      },
+      {
+        "id": 38,
+        "start": 116,
+        "end": 118,
+        "text": " I can also give you an extension as well."
+      },
+      {
+        "id": 39,
+        "start": 118,
+        "end": 120,
+        "text": " Yeah, because you can even call me and place your orders,"
+      },
+      {
+        "id": 40,
+        "start": 120,
+        "end": 123,
+        "text": " and I can make sure it stays this way for you also."
+      },
+      {
+        "id": 41,
+        "start": 123,
+        "end": 126,
+        "text": " Okay, and what is that?"
+      },
+      {
+        "id": 42,
+        "start": 126,
+        "end": 128,
+        "text": " So it's Quinn, Q-U-I-N-N,"
+      },
+      {
+        "id": 43,
+        "start": 128,
+        "end": 132,
+        "text": " and my extension is going to be 0035."
+      },
+      {
+        "id": 44,
+        "start": 132,
+        "end": 133,
+        "text": " All right, great."
+      },
+      {
+        "id": 45,
+        "start": 133,
+        "end": 136,
+        "text": " Thank you."
+      },
+      {
+        "id": 46,
+        "start": 136,
+        "end": 138,
+        "text": " All right, you're welcome."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ed-928b-f41e1d1d9ccd",
+    "url": "https://www.notion.so/300000001220712-300000001710779-2f611d0a101c81ed928bf41e1d1d9ccd"
+  },
+  "processedAt": "2026-01-28T18:25:47.869Z"
+}

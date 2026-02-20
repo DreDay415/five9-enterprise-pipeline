@@ -1,0 +1,79 @@
+{
+  "recording": {
+    "name": "300000001240130-300000001730016-6037703793 by  @ 9_57_24 AM_CallStudio.wav",
+    "size": 45366,
+    "modifyTime": 1770919095000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240130-300000001730016-6037703793 by  @ 9_57_24 AM_CallStudio.wav",
+    "uploadDate": "2026-02-12T17:58:15.000Z",
+    "callId": "300000001240130-300000001730016",
+    "phoneNumber": "6037703793",
+    "callTimestamp": "2026-02-12T17:58:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: I ordered this product and I just don't feel like it's working. So I got another shipment, but I don't need it. I basically threw it out. I'd just like to get a refund and stop this subscription if we can get that done. Thank you.\n\nSpeaker 1: Thanks. Transferring to Agent.",
+    "duration": 2949,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.800000190734863,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.800000190734863,
+        "end": 6.440000057220459,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.440000057220459,
+        "end": 10.199999809265137,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.199999809265137,
+        "end": 15.079999923706055,
+        "text": " I ordered this product and I just don't feel like it's working."
+      },
+      {
+        "id": 4,
+        "start": 15.079999923706055,
+        "end": 17.559999465942383,
+        "text": " So I got another shipment, but I don't need it."
+      },
+      {
+        "id": 5,
+        "start": 17.559999465942383,
+        "end": 18.559999465942383,
+        "text": " I basically threw it out."
+      },
+      {
+        "id": 6,
+        "start": 18.559999465942383,
+        "end": 24,
+        "text": " I'd just like to get a refund and stop this subscription if we can get that done."
+      },
+      {
+        "id": 7,
+        "start": 24,
+        "end": 26.600000381469727,
+        "text": " Thank you."
+      },
+      {
+        "id": 8,
+        "start": 26.600000381469727,
+        "end": 27.559999465942383,
+        "text": " Thanks Transferring to Agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81d0-8b6d-ec28dd821eba",
+    "url": "https://www.notion.so/300000001240130-300000001730016-30511d0a101c81d08b6dec28dd821eba"
+  },
+  "processedAt": "2026-02-12T18:03:17.779Z"
+}

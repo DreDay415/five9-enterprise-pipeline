@@ -1,0 +1,67 @@
+{
+  "recording": {
+    "name": "300000001240074-300000001729982-3474446927 by  @ 9_42_41 AM_CallStudio.wav",
+    "size": 41076,
+    "modifyTime": 1770918190000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240074-300000001729982-3474446927 by  @ 9_42_41 AM_CallStudio.wav",
+    "uploadDate": "2026-02-12T17:43:10.000Z",
+    "callId": "300000001240074-300000001729982",
+    "phoneNumber": "3474446927",
+    "callTimestamp": "2026-02-12T17:43:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: This is a natural language AI.\n\nSpeaker 2: Just say what you would like to do.\n\nSpeaker 1: For example, track an order or send me to the billing department.\n\nSpeaker 2: Let's try again.\n\nSpeaker 1: Please state the reason for your call.",
+    "duration": 1015,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.119999885559082,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.119999885559082,
+        "end": 12,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 14.680000305175781,
+        "text": " This is a natural language AI."
+      },
+      {
+        "id": 3,
+        "start": 14.680000305175781,
+        "end": 16.84000015258789,
+        "text": " Just say what you would like to do."
+      },
+      {
+        "id": 4,
+        "start": 16.84000015258789,
+        "end": 21.559999465942383,
+        "text": " For example, track an order or send me to the billing department."
+      },
+      {
+        "id": 5,
+        "start": 21.559999465942383,
+        "end": 22.559999465942383,
+        "text": " Let's try again."
+      },
+      {
+        "id": 6,
+        "start": 22.559999465942383,
+        "end": 25.479999542236328,
+        "text": " Please state the reason for your call."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8197-b739-e706854b5ea9",
+    "url": "https://www.notion.so/300000001240074-300000001729982-30511d0a101c8197b739e706854b5ea9"
+  },
+  "processedAt": "2026-02-12T18:08:37.782Z"
+}

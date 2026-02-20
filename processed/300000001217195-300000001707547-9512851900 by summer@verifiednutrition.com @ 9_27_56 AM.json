@@ -1,0 +1,104 @@
+{
+  "recording": {
+    "name": "300000001217195-300000001707547-9512851900 by summer@verifiednutrition.com @ 9_27_56 AM.wav",
+    "size": 77410,
+    "modifyTime": 1769584331000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217195-300000001707547-9512851900 by summer@verifiednutrition.com @ 9_27_56 AM.wav",
+    "uploadDate": "2026-01-28T07:12:11.000Z",
+    "callId": "300000001217195-300000001707547",
+    "agent": "summer",
+    "phoneNumber": "9512851900",
+    "callTimestamp": "2026-01-28T09:27:56.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Alrighty, thank you so much for holding. I've refunded the $100, so it's going to be $163.\n\nSpeaker 2: Was there anything else I can assist you with?\n\nSpeaker 1: You said $163?\n\nSpeaker 2: That's correct.\n\nSpeaker 1: Okay. I think that's it. That's something I wanted to ask you, but okay. I guess we're good.\n\nSpeaker 2: Okay.\n\nSpeaker 1: How long will it take, please?\n\nSpeaker 2: By Friday.\n\nSpeaker 1: Friday? Okay. Alrighty. Thank you very much. I appreciate it.\n\nSpeaker 2: You're welcome. Absolutely. Have a wonderful day.\n\nSpeaker 1: You too. Thank you.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 1573,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " Alrighty, thank you so much for holding. I've refunded the $100, so it's going to be $163."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 8,
+        "text": " Was there anything else I can assist you with?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " You said $163?"
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 13,
+        "text": " That's correct."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 28,
+        "text": " Okay. I think that's it. That's something I wanted to ask you, but okay. I guess we're good."
+      },
+      {
+        "id": 5,
+        "start": 28,
+        "end": 29,
+        "text": " Okay."
+      },
+      {
+        "id": 6,
+        "start": 29,
+        "end": 32,
+        "text": " How long will it take, please?"
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 34,
+        "text": " By Friday."
+      },
+      {
+        "id": 8,
+        "start": 34,
+        "end": 39,
+        "text": " Friday? Okay. Alrighty. Thank you very much. I appreciate it."
+      },
+      {
+        "id": 9,
+        "start": 39,
+        "end": 42,
+        "text": " You're welcome. Absolutely. Have a wonderful day."
+      },
+      {
+        "id": 10,
+        "start": 42,
+        "end": 43,
+        "text": " You too. Thank you."
+      },
+      {
+        "id": 11,
+        "start": 43,
+        "end": 44,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 12,
+        "start": 44,
+        "end": 45,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8199-b965-f50d30e10313",
+    "url": "https://www.notion.so/300000001217195-300000001707547-2f611d0a101c8199b965f50d30e10313"
+  },
+  "processedAt": "2026-01-28T15:15:01.647Z"
+}

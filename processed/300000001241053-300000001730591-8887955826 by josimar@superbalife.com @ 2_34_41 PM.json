@@ -1,0 +1,95 @@
+{
+  "recording": {
+    "name": "300000001241053-300000001730591-8887955826 by josimar@superbalife.com @ 2_34_41 PM.wav",
+    "size": 36330,
+    "modifyTime": 1770935706000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241053-300000001730591-8887955826 by josimar@superbalife.com @ 2_34_41 PM.wav",
+    "uploadDate": "2026-02-12T22:35:06.000Z",
+    "callId": "300000001241053-300000001730591",
+    "agent": "josimar",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-02-12T14:34:41.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_josimar_300000001241053-300000001730591_8887955826.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_josimar_300000001241053-300000001730591_8887955826.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you today?\n\nSpeaker 2: Yeah, who's this?\n\nSpeaker 1: Viagra Escorta Blusa, you called us?\n\nSpeaker 2: What's your name?\n\nSpeaker 1: My name is Joe. How can I help you?\n\nSpeaker 2: Yeah, Joe, that's not your name, but...\n\nSpeaker 1: Okay, well...\n\nSpeaker 2: Yeah, my name's Jerry Brown.\n\nSpeaker 1: If you need help, call us down the road.\n\nSpeaker 2: I think you should probably...\n\nSpeaker 1: I need.",
+    "duration": 2000,
+    "audioDuration": 22.31999969482422,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Yeah, who's this?"
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 9,
+        "text": " Viagra Escorta Blusa, you called us?"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 11,
+        "text": " What's your name?"
+      },
+      {
+        "id": 4,
+        "start": 11,
+        "end": 14,
+        "text": " My name is Joe. How can I help you?"
+      },
+      {
+        "id": 5,
+        "start": 14,
+        "end": 16,
+        "text": " Yeah, Joe, that's not your name, but..."
+      },
+      {
+        "id": 6,
+        "start": 16,
+        "end": 17,
+        "text": " Okay, well..."
+      },
+      {
+        "id": 7,
+        "start": 17,
+        "end": 18,
+        "text": " Yeah, my name's Jerry Brown."
+      },
+      {
+        "id": 8,
+        "start": 18,
+        "end": 20,
+        "text": " If you need help, call us down the road."
+      },
+      {
+        "id": 9,
+        "start": 20,
+        "end": 21,
+        "text": " I think you should probably..."
+      },
+      {
+        "id": 10,
+        "start": 21,
+        "end": 22,
+        "text": " I need."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-811f-a06f-ca1029119ef2",
+    "url": "https://www.notion.so/300000001241053-300000001730591-30511d0a101c811fa06fca1029119ef2"
+  },
+  "processedAt": "2026-02-12T22:45:20.460Z"
+}

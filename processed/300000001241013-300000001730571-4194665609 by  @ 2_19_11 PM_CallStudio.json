@@ -1,0 +1,82 @@
+{
+  "recording": {
+    "name": "300000001241013-300000001730571-4194665609 by  @ 2_19_11 PM_CallStudio.wav",
+    "size": 46340,
+    "modifyTime": 1770934802000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241013-300000001730571-4194665609 by  @ 2_19_11 PM_CallStudio.wav",
+    "uploadDate": "2026-02-12T22:20:02.000Z",
+    "callId": "300000001241013-300000001730571",
+    "phoneNumber": "4194665609",
+    "callTimestamp": "2026-02-12T22:20:02.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_unknown_300000001241013-300000001730571_4194665609.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_unknown_300000001241013-300000001730571_4194665609.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: I want to speak to a representative.\n\nSpeaker 1: We didn't receive a response or I couldn't hear you.\n\nSpeaker 2: Let's try again.\n\nSpeaker 1: Please state the reason for your call.\n\nSpeaker 2: I need to speak to a representative.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 2035,
+    "audioDuration": 28.479999542236328,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.21999979019165,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.380000114440918,
+        "end": 5.860000133514404,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.159999847412109,
+        "end": 7.659999847412109,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 15.579999923706055,
+        "text": " I want to speak to a representative."
+      },
+      {
+        "id": 4,
+        "start": 15.579999923706055,
+        "end": 17.920000076293945,
+        "text": " We didn't receive a response or I couldn't hear your."
+      },
+      {
+        "id": 5,
+        "start": 18.6200008392334,
+        "end": 19.540000915527344,
+        "text": " Let's try again."
+      },
+      {
+        "id": 6,
+        "start": 20.15999984741211,
+        "end": 21.780000686645508,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 7,
+        "start": 22.860000610351562,
+        "end": 25.600000381469727,
+        "text": " I need to speak to a representative."
+      },
+      {
+        "id": 8,
+        "start": 27,
+        "end": 28.239999771118164,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81ba-86a3-d5ce9c27aff8",
+    "url": "https://www.notion.so/300000001241013-300000001730571-30511d0a101c81ba86a3d5ce9c27aff8"
+  },
+  "processedAt": "2026-02-12T22:50:20.623Z"
+}

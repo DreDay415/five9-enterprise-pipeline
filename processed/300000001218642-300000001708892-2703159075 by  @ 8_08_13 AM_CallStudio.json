@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001218642-300000001708892-2703159075 by  @ 8_08_13 AM_CallStudio.wav",
+    "size": 28596,
+    "modifyTime": 1769587333000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218642-300000001708892-2703159075 by  @ 8_08_13 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T08:02:13.000Z",
+    "callId": "300000001218642-300000001708892",
+    "phoneNumber": "2703159075",
+    "callTimestamp": "2026-01-28T08:02:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español marque número nueve.\n\nSpeaker 2: Wrong way of sent.",
+    "duration": 785,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.159999847412109,
+        "end": 7.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.159999847412109,
+        "end": 8.15999984741211,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.15999984741211,
+        "end": 9.15999984741211,
+        "text": " Wrong way of sent."
+      },
+      {
+        "id": 4,
+        "start": 9.15999984741211,
+        "end": 9.15999984741211,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81d2-8163-e8ee87d5746e",
+    "url": "https://www.notion.so/300000001218642-300000001708892-2f611d0a101c81d28163e8ee87d5746e"
+  },
+  "processedAt": "2026-01-28T13:23:55.060Z"
+}

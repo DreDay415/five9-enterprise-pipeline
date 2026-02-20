@@ -1,0 +1,79 @@
+{
+  "recording": {
+    "name": "300000001217029-300000001707483-9106109854 by  @ 8_55_25 AM_CallStudio.wav",
+    "size": 44326,
+    "modifyTime": 1769583733000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217029-300000001707483-9106109854 by  @ 8_55_25 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:02:13.000Z",
+    "callId": "300000001217029-300000001707483",
+    "phoneNumber": "9106109854",
+    "callTimestamp": "2026-01-28T07:02:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: Fulfillment of the prescription.\n\nSpeaker 1: I heard you say, fulfillment of the prescription. Say yes or no.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1402,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.239999771118164,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.239999771118164,
+        "end": 7.239999771118164,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.239999771118164,
+        "end": 10.239999771118164,
+        "text": " Para Español Marque Numero Nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.239999771118164,
+        "end": 20,
+        "text": " Fulfillment of the prescription."
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 23.479999542236328,
+        "text": " I heard you say, fulfillment of the prescription."
+      },
+      {
+        "id": 5,
+        "start": 23.479999542236328,
+        "end": 24.479999542236328,
+        "text": " Say yes or no."
+      },
+      {
+        "id": 6,
+        "start": 24.479999542236328,
+        "end": 25.479999542236328,
+        "text": " Yes."
+      },
+      {
+        "id": 7,
+        "start": 25.479999542236328,
+        "end": 26.479999542236328,
+        "text": " Thanks."
+      },
+      {
+        "id": 8,
+        "start": 26.479999542236328,
+        "end": 27,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813e-95cf-e1fdb05a106a",
+    "url": "https://www.notion.so/300000001217029-300000001707483-2f611d0a101c813e95cfe1fdb05a106a"
+  },
+  "processedAt": "2026-01-28T16:09:13.761Z"
+}

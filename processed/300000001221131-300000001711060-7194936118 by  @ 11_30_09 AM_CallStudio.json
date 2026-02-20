@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001221131-300000001711060-7194936118 by  @ 11_30_09 AM_CallStudio.wav",
+    "size": 31520,
+    "modifyTime": 1769628651000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221131-300000001711060-7194936118 by  @ 11_30_09 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T19:30:51.000Z",
+    "callId": "300000001221131-300000001711060",
+    "phoneNumber": "7194936118",
+    "callTimestamp": "2026-01-28T19:30:51.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: I'm wondering where are my stamina pills.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1402,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.28000020980835,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.28000020980835,
+        "end": 7.28000020980835,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.28000020980835,
+        "end": 11.079999923706055,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 11.079999923706055,
+        "end": 17.8799991607666,
+        "text": " I'm wondering where is my stamina pills."
+      },
+      {
+        "id": 4,
+        "start": 17.8799991607666,
+        "end": 19.040000915527344,
+        "text": " Thanks Transferring to Agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8173-9eb8-d173ef6180f2",
+    "url": "https://www.notion.so/300000001221131-300000001711060-2f611d0a101c81739eb8d173ef6180f2"
+  },
+  "processedAt": "2026-01-28T23:48:55.916Z"
+}

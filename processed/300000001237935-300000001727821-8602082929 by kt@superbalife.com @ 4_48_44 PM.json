@@ -1,0 +1,86 @@
+{
+  "recording": {
+    "name": "300000001237935-300000001727821-8602082929 by kt@superbalife.com @ 4_48_44 PM.wav",
+    "size": 41596,
+    "modifyTime": 1770771253000,
+    "remotePath": "/five9sftp/upload/SB CS/2_10_2026/300000001237935-300000001727821-8602082929 by kt@superbalife.com @ 4_48_44 PM.wav",
+    "uploadDate": "2026-02-11T00:54:13.000Z",
+    "callId": "300000001237935-300000001727821",
+    "agent": "kt",
+    "phoneNumber": "8602082929",
+    "callTimestamp": "2026-02-11T16:48:44.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, Brian, Brian, bud, bear with me, bear with me, but I'm going to walk down the hall.\n\nSpeaker 2: Because here in California it's almost five and some guys left, but I'm going to take care of this, but don't worry about it.\n\nSpeaker 1: I'm going to walk down the damn hall and we're going to handle this for you, right, bud?\n\nSpeaker 2: Stand by, you've got three minutes.\n\nSpeaker 1: Of course, but that's how we roll.\n\nSpeaker 2: We're Americans, but we've got to look out for each other, right, Brian?\n\nSpeaker 1: I hear you.\n\nSpeaker 2: Okay, thanks.\n\nSpeaker 1: One moment.",
+    "duration": 2265,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.800000190734863,
+        "text": " Hey, Brian, Brian, bud, bear with me, bear with me, but I'm going to walk down the hall"
+      },
+      {
+        "id": 1,
+        "start": 6.800000190734863,
+        "end": 11.920000076293945,
+        "text": " because here in California it's almost five and some guys left, but I'm going to take"
+      },
+      {
+        "id": 2,
+        "start": 11.920000076293945,
+        "end": 13.399999618530273,
+        "text": " care of this, but don't worry about it."
+      },
+      {
+        "id": 3,
+        "start": 13.399999618530273,
+        "end": 16.68000030517578,
+        "text": " I'm going to walk down the damn hall and we're going to handle this for you, right, bud?"
+      },
+      {
+        "id": 4,
+        "start": 16.68000030517578,
+        "end": 18.280000686645508,
+        "text": " Stand by, you've got three minutes."
+      },
+      {
+        "id": 5,
+        "start": 18.280000686645508,
+        "end": 20.1200008392334,
+        "text": " Of course, but that's how we roll."
+      },
+      {
+        "id": 6,
+        "start": 20.1200008392334,
+        "end": 22.959999084472656,
+        "text": " We're Americans, but we've got to look out for each other, right, Brian?"
+      },
+      {
+        "id": 7,
+        "start": 22.959999084472656,
+        "end": 23.959999084472656,
+        "text": " I hear you."
+      },
+      {
+        "id": 8,
+        "start": 23.959999084472656,
+        "end": 24.959999084472656,
+        "text": " Okay, thanks."
+      },
+      {
+        "id": 9,
+        "start": 24.959999084472656,
+        "end": 25.31999969482422,
+        "text": " One moment."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-8154-8a1e-c59e8ff71886",
+    "url": "https://www.notion.so/300000001237935-300000001727821-30411d0a101c81548a1ec59e8ff71886"
+  },
+  "processedAt": "2026-02-11T10:03:14.393Z"
+}

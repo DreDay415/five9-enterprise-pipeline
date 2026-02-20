@@ -1,0 +1,422 @@
+{
+  "recording": {
+    "name": "300000001216599-300000001705966-5135159490 by olivier@superbalife.com @ 2_50_55 PM.wav",
+    "size": 310500,
+    "modifyTime": 1769590032000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216599-300000001705966-5135159490 by olivier@superbalife.com @ 2_50_55 PM.wav",
+    "uploadDate": "2026-01-28T08:47:12.000Z",
+    "callId": "300000001216599-300000001705966",
+    "agent": "olivier",
+    "phoneNumber": "5135159490",
+    "callTimestamp": "2026-01-28T14:50:55.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Yeah, how do you do?\n\nSpeaker 1: Good.\n\nSpeaker 2: I just bought some pills from you guys, and I used my PayPal.\n\nSpeaker 1: When I went to the PayPal, I noticed that the address, my address it was sending to was wrong,\n\nSpeaker 2: but I adjusted it on your end, so I wanted to make sure you send it to the right address.\n\nSpeaker 1: So P.O. Box 687, Tombstone, Arizona, Sean Swartz?\n\nSpeaker 2: Sean Swartz, yeah, P.O. Box 687, Tombstone, Arizona.\n\nSpeaker 1: Okay, that's the one you got?\n\nSpeaker 2: Okay.\n\nSpeaker 1: I have the P.O. Box at Tombstone, Arizona.\n\nSpeaker 2: Is that correct?\n\nSpeaker 1: Say that again.\n\nSpeaker 2: So it should be Tucson.\n\nSpeaker 1: You said Tombstone, Arizona for the P.O. Box.\n\nSpeaker 2: No, no.\n\nSpeaker 1: Okay, the address it should be going to, because I have two places I stay at.\n\nSpeaker 2: It's P.O. Box 687, Tombstone, Arizona.\n\nSpeaker 1: Yes, that's the one.\n\nSpeaker 2: And that zip code is 85638, I believe?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, that's where it's going to.\n\nSpeaker 1: You're billing the address at Tucson.\n\nSpeaker 2: Okay, 810 South Caldwell Road, Unit 10.\n\nSpeaker 1: Yep.\n\nSpeaker 2: All right.\n\nSpeaker 1: Everything looks great.\n\nSpeaker 2: Okay, good.\n\nSpeaker 1: I just wanted to make sure that was in order.\n\nSpeaker 2: That's good.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Yeah, it is good, and thank you for making time to call.\n\nSpeaker 1: Okay, thank you so much.\n\nSpeaker 2: I'm going to try this and see how it works out for me.\n\nSpeaker 1: Amazing.\n\nSpeaker 2: That's what we want.\n\nSpeaker 1: Yeah, because I took my regular Viagra, and the issue I'm having is keeping the erection.\n\nSpeaker 2: I can get an erection.\n\nSpeaker 1: That's good.\n\nSpeaker 2: But I'm having trouble keeping it.\n\nSpeaker 1: So you don't have a major problem then.\n\nSpeaker 2: That's a what?\n\nSpeaker 1: So you don't have a major problem then.\n\nSpeaker 2: Yeah, I can get an erection.\n\nSpeaker 1: I've used Viagra before.\n\nSpeaker 2: It helps sometimes, and sometimes I have trouble keeping that erection.\n\nSpeaker 1: I was hoping the new version might help me with that.\n\nSpeaker 2: Yeah, no, definitely.\n\nSpeaker 1: And the good thing is you have one at least, but you just want to keep it up.\n\nSpeaker 2: Right.\n\nSpeaker 1: That's at least more easy than not having any at all.\n\nSpeaker 2: Yeah, I can get an erection.\n\nSpeaker 1: That's okay.\n\nSpeaker 2: I may be an older man, but I'm still in good shape.\n\nSpeaker 1: That's good.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Everything looks great, and I'm glad you tried that new formula.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yeah, you're welcome.\n\nSpeaker 1: You have a good one.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Have a great day.\n\nSpeaker 2: You too.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye.",
+    "duration": 6587,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5,
+        "text": " Yeah, how do you do?"
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 7,
+        "text": " Good."
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 13,
+        "text": " I just bought some pills from you guys, and I used my PayPal."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 19,
+        "text": " When I went to the PayPal, I noticed that the address, my address it was sending to was wrong,"
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 26,
+        "text": " but I adjusted it on your end, so I wanted to make sure you send it to the right address."
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 31,
+        "text": " So P.O. Box 687, Tombstone, Arizona, Sean Swartz?"
+      },
+      {
+        "id": 7,
+        "start": 31,
+        "end": 38,
+        "text": " Sean Swartz, yeah, P.O. Box 687, Tombstone, Arizona."
+      },
+      {
+        "id": 8,
+        "start": 38,
+        "end": 40,
+        "text": " Okay, that's the one you got?"
+      },
+      {
+        "id": 9,
+        "start": 40,
+        "end": 41,
+        "text": " Okay."
+      },
+      {
+        "id": 10,
+        "start": 41,
+        "end": 44,
+        "text": " I have the P.O. Box at Tombstone, Arizona."
+      },
+      {
+        "id": 11,
+        "start": 44,
+        "end": 46,
+        "text": " Is that correct?"
+      },
+      {
+        "id": 12,
+        "start": 46,
+        "end": 48,
+        "text": " Say that again."
+      },
+      {
+        "id": 13,
+        "start": 48,
+        "end": 50,
+        "text": " So it should be Tucson."
+      },
+      {
+        "id": 14,
+        "start": 50,
+        "end": 52,
+        "text": " You said Tombstone, Arizona for the P.O. Box."
+      },
+      {
+        "id": 15,
+        "start": 52,
+        "end": 53,
+        "text": " No, no."
+      },
+      {
+        "id": 16,
+        "start": 53,
+        "end": 61,
+        "text": " Okay, the address it should be going to, because I have two places I stay at."
+      },
+      {
+        "id": 17,
+        "start": 61,
+        "end": 69,
+        "text": " It's P.O. Box 687, Tombstone, Arizona."
+      },
+      {
+        "id": 18,
+        "start": 69,
+        "end": 71,
+        "text": " Yes, that's the one."
+      },
+      {
+        "id": 19,
+        "start": 71,
+        "end": 79,
+        "text": " And that zip code is 85638, I believe?"
+      },
+      {
+        "id": 20,
+        "start": 79,
+        "end": 81,
+        "text": " Yes."
+      },
+      {
+        "id": 21,
+        "start": 81,
+        "end": 83,
+        "text": " Okay, that's where it's going to."
+      },
+      {
+        "id": 22,
+        "start": 83,
+        "end": 90,
+        "text": " You're billing the address at Tucson."
+      },
+      {
+        "id": 23,
+        "start": 90,
+        "end": 94,
+        "text": " Okay, 810 South Caldwell Road, Unit 10."
+      },
+      {
+        "id": 24,
+        "start": 94,
+        "end": 95,
+        "text": " Yep."
+      },
+      {
+        "id": 25,
+        "start": 95,
+        "end": 96,
+        "text": " All right."
+      },
+      {
+        "id": 26,
+        "start": 96,
+        "end": 98,
+        "text": " Everything looks great."
+      },
+      {
+        "id": 27,
+        "start": 98,
+        "end": 99,
+        "text": " Okay, good."
+      },
+      {
+        "id": 28,
+        "start": 99,
+        "end": 101,
+        "text": " I just wanted to make sure that was in order."
+      },
+      {
+        "id": 29,
+        "start": 101,
+        "end": 102,
+        "text": " That's good."
+      },
+      {
+        "id": 30,
+        "start": 102,
+        "end": 103,
+        "text": " Thank you."
+      },
+      {
+        "id": 31,
+        "start": 103,
+        "end": 106,
+        "text": " Yeah, it is good, and thank you for making time to call."
+      },
+      {
+        "id": 32,
+        "start": 106,
+        "end": 108,
+        "text": " Okay, thank you so much."
+      },
+      {
+        "id": 33,
+        "start": 108,
+        "end": 111,
+        "text": " I'm going to try this and see how it works out for me."
+      },
+      {
+        "id": 34,
+        "start": 111,
+        "end": 112,
+        "text": " Amazing."
+      },
+      {
+        "id": 35,
+        "start": 112,
+        "end": 114,
+        "text": " That's what we want."
+      },
+      {
+        "id": 36,
+        "start": 114,
+        "end": 125,
+        "text": " Yeah, because I took my regular Viagra, and the issue I'm having is keeping the erection."
+      },
+      {
+        "id": 37,
+        "start": 125,
+        "end": 127,
+        "text": " I can get an erection."
+      },
+      {
+        "id": 38,
+        "start": 127,
+        "end": 128,
+        "text": " That's good."
+      },
+      {
+        "id": 39,
+        "start": 128,
+        "end": 130,
+        "text": " But I'm having trouble keeping it."
+      },
+      {
+        "id": 40,
+        "start": 130,
+        "end": 134,
+        "text": " So you don't have a major problem then."
+      },
+      {
+        "id": 41,
+        "start": 134,
+        "end": 135,
+        "text": " That's a what?"
+      },
+      {
+        "id": 42,
+        "start": 136,
+        "end": 139,
+        "text": " So you don't have a major problem then."
+      },
+      {
+        "id": 43,
+        "start": 139,
+        "end": 142,
+        "text": " Yeah, I can get an erection."
+      },
+      {
+        "id": 44,
+        "start": 142,
+        "end": 147,
+        "text": " I've used Viagra before."
+      },
+      {
+        "id": 45,
+        "start": 147,
+        "end": 153,
+        "text": " It helps sometimes, and sometimes I have trouble keeping that erection."
+      },
+      {
+        "id": 46,
+        "start": 153,
+        "end": 156,
+        "text": " I was hoping the new version might help me with that."
+      },
+      {
+        "id": 47,
+        "start": 156,
+        "end": 157,
+        "text": " Yeah, no, definitely."
+      },
+      {
+        "id": 48,
+        "start": 157,
+        "end": 161,
+        "text": " And the good thing is you have one at least, but you just want to keep it up."
+      },
+      {
+        "id": 49,
+        "start": 161,
+        "end": 162,
+        "text": " Right."
+      },
+      {
+        "id": 50,
+        "start": 163,
+        "end": 167,
+        "text": " That's at least more easy than not having any at all."
+      },
+      {
+        "id": 51,
+        "start": 167,
+        "end": 169,
+        "text": " Yeah, I can get an erection."
+      },
+      {
+        "id": 52,
+        "start": 169,
+        "end": 171,
+        "text": " That's okay."
+      },
+      {
+        "id": 53,
+        "start": 171,
+        "end": 175,
+        "text": " I may be an older man, but I'm still in good shape."
+      },
+      {
+        "id": 54,
+        "start": 175,
+        "end": 177,
+        "text": " That's good."
+      },
+      {
+        "id": 55,
+        "start": 177,
+        "end": 178,
+        "text": " Okay."
+      },
+      {
+        "id": 56,
+        "start": 178,
+        "end": 179,
+        "text": " Okay."
+      },
+      {
+        "id": 57,
+        "start": 179,
+        "end": 182,
+        "text": " Everything looks great, and I'm glad you tried that new formula."
+      },
+      {
+        "id": 58,
+        "start": 182,
+        "end": 183,
+        "text": " Okay."
+      },
+      {
+        "id": 59,
+        "start": 183,
+        "end": 185,
+        "text": " Yeah, you're welcome."
+      },
+      {
+        "id": 60,
+        "start": 185,
+        "end": 186,
+        "text": " You have a good one."
+      },
+      {
+        "id": 61,
+        "start": 186,
+        "end": 187,
+        "text": " Okay."
+      },
+      {
+        "id": 62,
+        "start": 187,
+        "end": 188,
+        "text": " Have a great day."
+      },
+      {
+        "id": 63,
+        "start": 188,
+        "end": 189,
+        "text": " You too."
+      },
+      {
+        "id": 64,
+        "start": 189,
+        "end": 190,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 65,
+        "start": 190,
+        "end": 191,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8148-9dbb-c18038f48544",
+    "url": "https://www.notion.so/300000001216599-300000001705966-2f611d0a101c81489dbbc18038f48544"
+  },
+  "processedAt": "2026-01-28T12:22:58.036Z"
+}

@@ -1,0 +1,92 @@
+{
+  "recording": {
+    "name": "300000001217124-300000001707551-3104358885 by nickh@superbalife.com @ 9_13_27 AM.wav",
+    "size": 60316,
+    "modifyTime": 1769582236000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217124-300000001707551-3104358885 by nickh@superbalife.com @ 9_13_27 AM.wav",
+    "uploadDate": "2026-01-28T06:37:16.000Z",
+    "callId": "300000001217124-300000001707551",
+    "agent": "nickh",
+    "phoneNumber": "3104358885",
+    "callTimestamp": "2026-01-28T09:13:27.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Your call has been forwarded to an automated voice messaging system.\n\nSpeaker 2: Alfred Masioka.\n\nSpeaker 1: Is not available.\n\nSpeaker 2: At the tone, please record your message. When you finish recording, you may hang up or press one for more options.\n\nSpeaker 1: To leave a callback number, press five.\n\nSpeaker 2: Hey Alfred, this is Nick. Just got your voicemail and returning your call.\n\nSpeaker 1: Feel free to call me back.\n\nSpeaker 2: Uh... I was just on the other line at that time.\n\nSpeaker 1: Thank you so much. Bye bye.",
+    "duration": 2251,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.199999809265137,
+        "text": " your call has been forwarded to an automated voice messaging system"
+      },
+      {
+        "id": 1,
+        "start": 6.199999809265137,
+        "end": 8.4399995803833,
+        "text": " Alfred Masioka"
+      },
+      {
+        "id": 2,
+        "start": 8.4399995803833,
+        "end": 10.880000114440918,
+        "text": " is not available"
+      },
+      {
+        "id": 3,
+        "start": 10.880000114440918,
+        "end": 14.4399995803833,
+        "text": " at the tone please record your message when you finish recording you may hang"
+      },
+      {
+        "id": 4,
+        "start": 14.4399995803833,
+        "end": 17.440000534057617,
+        "text": " up or press one for more options"
+      },
+      {
+        "id": 5,
+        "start": 17.440000534057617,
+        "end": 22.68000030517578,
+        "text": " to leave a call back number press five"
+      },
+      {
+        "id": 6,
+        "start": 22.68000030517578,
+        "end": 26.520000457763672,
+        "text": " hey Alfred this is Nick just got your voicemail and returning"
+      },
+      {
+        "id": 7,
+        "start": 26.520000457763672,
+        "end": 27.600000381469727,
+        "text": " your call"
+      },
+      {
+        "id": 8,
+        "start": 27.600000381469727,
+        "end": 29.1200008392334,
+        "text": " feel free to call me back"
+      },
+      {
+        "id": 9,
+        "start": 29.1200008392334,
+        "end": 31.399999618530273,
+        "text": " uh... i was just on the other line at that time"
+      },
+      {
+        "id": 10,
+        "start": 31.399999618530273,
+        "end": 32.08000183105469,
+        "text": " thank you so much bye bye"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-819a-ba2b-fe6190011b36",
+    "url": "https://www.notion.so/300000001217124-300000001707551-2f611d0a101c819aba2bfe6190011b36"
+  },
+  "processedAt": "2026-01-28T17:29:13.361Z"
+}

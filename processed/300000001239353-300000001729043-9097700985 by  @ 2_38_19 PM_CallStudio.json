@@ -1,0 +1,37 @@
+{
+  "recording": {
+    "name": "300000001239353-300000001729043-9097700985 by  @ 2_38_19 PM_CallStudio.wav",
+    "size": 68246,
+    "modifyTime": 1770849563000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239353-300000001729043-9097700985 by  @ 2_38_19 PM_CallStudio.wav",
+    "uploadDate": "2026-02-11T22:39:23.000Z",
+    "callId": "300000001239353-300000001729043",
+    "phoneNumber": "9097700985",
+    "callTimestamp": "2026-02-11T22:39:23.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto.\n\nSpeaker 2: Y claro, para cancelar mi prescripción.",
+    "duration": 1925,
+    "language": "spanish",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 19.8799991607666,
+        "text": " Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto"
+      },
+      {
+        "id": 1,
+        "start": 19.8799991607666,
+        "end": 40.20000076293945,
+        "text": " y claro para cancelar mi prescripción."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-81fd-a9c6-e7bb4a524a4f",
+    "url": "https://www.notion.so/300000001239353-300000001729043-30411d0a101c81fda9c6e7bb4a524a4f"
+  },
+  "processedAt": "2026-02-11T23:08:47.647Z"
+}

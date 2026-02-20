@@ -1,0 +1,161 @@
+{
+  "recording": {
+    "name": "300000001241932-300000001731557-2695017954 by lucif@superbalife.com @ 10_44_45 AM.wav",
+    "size": 128566,
+    "modifyTime": 1771008386000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241932-300000001731557-2695017954 by lucif@superbalife.com @ 10_44_45 AM.wav",
+    "uploadDate": "2026-02-13T18:46:26.000Z",
+    "callId": "300000001241932-300000001731557",
+    "agent": "lucif",
+    "phoneNumber": "2695017954",
+    "callTimestamp": "2026-02-13T10:44:45.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_lucif_300000001241932-300000001731557_2695017954.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_lucif_300000001241932-300000001731557_2695017954.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks Paul Wagner, Quinn speaking. How can I help you?\n\nSpeaker 2: Yeah, my name is Greg Petty. I want to just cancel these automatic orders I have coming.\n\nSpeaker 1: Okay, let me pull up your account so I can help you out with that.\n\nSpeaker 2: Sure.\n\nSpeaker 1: Is your name Gregory?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Alrighty, so I do got you pulled up here man.\n\nSpeaker 1: Do you want to fast forward as you're canceling or do you want to just order as needed?\n\nSpeaker 2: Are you getting in too fast?\n\nSpeaker 1: Yeah, I'm getting in too fast. I have a prostate out. I don't need it anymore, you know.\n\nSpeaker 2: Oh, okay.\n\nSpeaker 1: So you're not looking to order as needed then?\n\nSpeaker 2: No, I mean some came the other day and, you know, it's just like a waste of $160, you know.\n\nSpeaker 1: Well, yeah, you don't have to get this when you're not ready for it.\n\nSpeaker 2: But, you know, you don't have to get it anymore until you're ready or we can just cancel it.\n\nSpeaker 1: Either, you know, you can set us up to order as needed or you want me to just cancel it out?\n\nSpeaker 2: Yeah, you can just cancel it.\n\nSpeaker 1: Okay, I'll take care of it for you.\n\nSpeaker 2: Alright, thanks a lot.\n\nSpeaker 1: You're welcome. Have a good day.\n\nSpeaker 2: You too.",
+    "duration": 4837,
+    "audioDuration": 79.08000183105469,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thanks Paul Wagner, Quinn speaking. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 12,
+        "text": " Yeah, my name is Greg Petty. I want to just cancel these automatic orders I have coming."
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 17,
+        "text": " Okay, let me pull up your account so I can help you out with that."
+      },
+      {
+        "id": 3,
+        "start": 17,
+        "end": 19,
+        "text": " Sure."
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 23,
+        "text": " Is your name Gregory?"
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 25,
+        "text": " Yeah."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 30,
+        "text": " Okay."
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 32,
+        "text": " Alrighty, so I do got you pulled up here man."
+      },
+      {
+        "id": 8,
+        "start": 32,
+        "end": 35,
+        "text": " Do you want to fast forward as you're canceling or do you want to just order as needed?"
+      },
+      {
+        "id": 9,
+        "start": 35,
+        "end": 38,
+        "text": " Are you getting in too fast?"
+      },
+      {
+        "id": 10,
+        "start": 38,
+        "end": 44,
+        "text": " Yeah, I'm getting in too fast. I have a prostate out. I don't need it anymore, you know."
+      },
+      {
+        "id": 11,
+        "start": 44,
+        "end": 46,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 12,
+        "start": 46,
+        "end": 49,
+        "text": " So you're not looking to order as needed then?"
+      },
+      {
+        "id": 13,
+        "start": 49,
+        "end": 55,
+        "text": " No, I mean some came the other day and, you know, it's just like a waste of $160, you know."
+      },
+      {
+        "id": 14,
+        "start": 55,
+        "end": 58,
+        "text": " Well, yeah, you don't have to get this when you're not ready for it."
+      },
+      {
+        "id": 15,
+        "start": 58,
+        "end": 63,
+        "text": " But, you know, you don't have to get it anymore until you're ready or we can just cancel it."
+      },
+      {
+        "id": 16,
+        "start": 63,
+        "end": 68,
+        "text": " Either, you know, you can set us up to order as needed or you want me to just cancel it out?"
+      },
+      {
+        "id": 17,
+        "start": 68,
+        "end": 71,
+        "text": " Yeah, you can just cancel it."
+      },
+      {
+        "id": 18,
+        "start": 71,
+        "end": 73,
+        "text": " Okay, I'll take care of it for you."
+      },
+      {
+        "id": 19,
+        "start": 73,
+        "end": 75,
+        "text": " Alright, thanks a lot."
+      },
+      {
+        "id": 20,
+        "start": 75,
+        "end": 77,
+        "text": " You're welcome. Have a good day."
+      },
+      {
+        "id": 21,
+        "start": 77,
+        "end": 79,
+        "text": " You too."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81fb-a554-e1b3d7f05d81",
+    "url": "https://www.notion.so/300000001241932-300000001731557-30611d0a101c81fba554e1b3d7f05d81"
+  },
+  "processedAt": "2026-02-13T19:04:57.668Z"
+}

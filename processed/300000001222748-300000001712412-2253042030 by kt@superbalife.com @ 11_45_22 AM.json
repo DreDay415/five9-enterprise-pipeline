@@ -1,0 +1,74 @@
+{
+  "recording": {
+    "name": "300000001222748-300000001712412-2253042030 by kt@superbalife.com @ 11_45_22 AM.wav",
+    "size": 52776,
+    "modifyTime": 1769716031000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222748-300000001712412-2253042030 by kt@superbalife.com @ 11_45_22 AM.wav",
+    "uploadDate": "2026-01-29T19:47:11.000Z",
+    "callId": "300000001222748-300000001712412",
+    "agent": "kt",
+    "phoneNumber": "2253042030",
+    "callTimestamp": "2026-01-29T11:45:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, Ronnie, this is KT Dirich again with Pfizer,\n\nSpeaker 2: Score blue, give me a call, 1-800-675-9807.\n\nSpeaker 1: That's 1-800-675-9807, extension 0037.\n\nSpeaker 2: Thanks, Ronnie, looking forward to hearing from you, bye-bye.",
+    "duration": 2206,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.559999942779541,
+        "text": " call has been forwarded to voicemail."
+      },
+      {
+        "id": 1,
+        "start": 2.559999942779541,
+        "end": 5.199999809265137,
+        "text": " The person you're trying to reach is not available."
+      },
+      {
+        "id": 2,
+        "start": 5.199999809265137,
+        "end": 7.71999979019165,
+        "text": " At the tone, please record your message."
+      },
+      {
+        "id": 3,
+        "start": 7.71999979019165,
+        "end": 10.220000267028809,
+        "text": " When you have finished recording, you may hang up."
+      },
+      {
+        "id": 4,
+        "start": 11.920000076293945,
+        "end": 14.479999542236328,
+        "text": " Hey, Ronnie, this is KT Dirich again with Pfizer,"
+      },
+      {
+        "id": 5,
+        "start": 14.479999542236328,
+        "end": 19.479999542236328,
+        "text": " score blue, give me a call, 1-800-675-9807."
+      },
+      {
+        "id": 6,
+        "start": 21.200000762939453,
+        "end": 26.200000762939453,
+        "text": " That's 1-800-675-9807, extension 0037."
+      },
+      {
+        "id": 7,
+        "start": 26.200000762939453,
+        "end": 30.1200008392334,
+        "text": " Thanks, Ronnie, looking forward to hearing from you, bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81c6-a6a1-f1084d8c8d82",
+    "url": "https://www.notion.so/300000001222748-300000001712412-2f711d0a101c81c6a6a1f1084d8c8d82"
+  },
+  "processedAt": "2026-01-29T21:49:35.299Z"
+}

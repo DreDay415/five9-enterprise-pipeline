@@ -1,0 +1,67 @@
+{
+  "recording": {
+    "name": "300000001216313-300000001705796-4086779312 by  @ 1_20_35 PM_CallStudio.wav",
+    "size": 46016,
+    "modifyTime": 1769582546000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216313-300000001705796-4086779312 by  @ 1_20_35 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T06:42:26.000Z",
+    "callId": "300000001216313-300000001705796",
+    "phoneNumber": "4086779312",
+    "callTimestamp": "2026-01-28T06:42:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: We didn't receive a response or I couldn't hear you.\n\nSpeaker 2: Let's try again.\n\nSpeaker 1: Please state the reason for your call.\n\nSpeaker 2: Thanks for transferring me to an agent.",
+    "duration": 2492,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.159999847412109,
+        "end": 15.5600004196167,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 15.5600004196167,
+        "end": 18.84000015258789,
+        "text": " We didn't receive a response or I couldn't hear your."
+      },
+      {
+        "id": 3,
+        "start": 18.84000015258789,
+        "end": 20.3799991607666,
+        "text": " Let's try again."
+      },
+      {
+        "id": 4,
+        "start": 20.3799991607666,
+        "end": 27.040000915527344,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 5,
+        "start": 27.040000915527344,
+        "end": 28.040000915527344,
+        "text": " Thanks for transferring to agent."
+      },
+      {
+        "id": 6,
+        "start": 28.040000915527344,
+        "end": 28.040000915527344,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8142-aabf-ede7a2a9b8a7",
+    "url": "https://www.notion.so/300000001216313-300000001705796-2f611d0a101c8142aabfede7a2a9b8a7"
+  },
+  "processedAt": "2026-01-28T17:05:54.901Z"
+}

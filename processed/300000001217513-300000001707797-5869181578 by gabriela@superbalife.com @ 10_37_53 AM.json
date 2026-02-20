@@ -1,0 +1,146 @@
+{
+  "recording": {
+    "name": "300000001217513-300000001707797-5869181578 by gabriela@superbalife.com @ 10_37_53 AM.wav",
+    "size": 60250,
+    "modifyTime": 1769585238000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217513-300000001707797-5869181578 by gabriela@superbalife.com @ 10_37_53 AM.wav",
+    "uploadDate": "2026-01-28T07:27:18.000Z",
+    "callId": "300000001217513-300000001707797",
+    "agent": "gabriela",
+    "phoneNumber": "5869181578",
+    "callTimestamp": "2026-01-28T10:37:53.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for holding, Michael.\n\nSpeaker 2: Okay, yes, so it looks like they just sent you the generic ones,\n\nSpeaker 1: and then sent you the AGV.\n\nSpeaker 2: So the pharmacy will go ahead and correct that mistake,\n\nSpeaker 1: and they will reship your order at no additional cost.\n\nSpeaker 2: So don't worry about having to ship back the ones that you receive.\n\nSpeaker 1: You can go ahead and keep them or discard them, up to you,\n\nSpeaker 2: but the pharmacy will be reshipping your order, okay?\n\nSpeaker 1: Okay, that'll be fine.\n\nSpeaker 2: These don't help.\n\nSpeaker 1: These don't work.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, yes.\n\nSpeaker 2: I appreciate that.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Of course.\n\nSpeaker 1: You're welcome.\n\nSpeaker 2: Have a good rest of your day, Michael.\n\nSpeaker 1: Thank you.",
+    "duration": 2439,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for holding, Michael."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 5,
+        "text": " Okay, yes, so it looks like they just sent you the generic ones,"
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 7,
+        "text": " and then sent you the AGV."
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 10,
+        "text": " So the pharmacy will go ahead and correct that mistake,"
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 13,
+        "text": " and they will reship your order at no additional cost."
+      },
+      {
+        "id": 5,
+        "start": 13,
+        "end": 17,
+        "text": " So don't worry about having to ship back the ones that you receive."
+      },
+      {
+        "id": 6,
+        "start": 17,
+        "end": 21,
+        "text": " You can go ahead and keep them or discard them up to you,"
+      },
+      {
+        "id": 7,
+        "start": 21,
+        "end": 24,
+        "text": " but the pharmacy will be reshipping your order, okay?"
+      },
+      {
+        "id": 8,
+        "start": 24,
+        "end": 26,
+        "text": " Okay, that'll be fine."
+      },
+      {
+        "id": 9,
+        "start": 26,
+        "end": 28,
+        "text": " These don't help."
+      },
+      {
+        "id": 10,
+        "start": 28,
+        "end": 29,
+        "text": " These don't work."
+      },
+      {
+        "id": 11,
+        "start": 29,
+        "end": 30,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 30,
+        "end": 31,
+        "text": " Okay, yes."
+      },
+      {
+        "id": 13,
+        "start": 31,
+        "end": 32,
+        "text": " I appreciate that."
+      },
+      {
+        "id": 14,
+        "start": 32,
+        "end": 33,
+        "text": " Thank you."
+      },
+      {
+        "id": 15,
+        "start": 33,
+        "end": 34,
+        "text": " Of course."
+      },
+      {
+        "id": 16,
+        "start": 34,
+        "end": 35,
+        "text": " You're welcome."
+      },
+      {
+        "id": 17,
+        "start": 35,
+        "end": 36,
+        "text": " Have a good rest of your day, Michael."
+      },
+      {
+        "id": 18,
+        "start": 36,
+        "end": 37,
+        "text": " Thank you."
+      },
+      {
+        "id": 19,
+        "start": 37,
+        "end": 37,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813e-af51-cc2257af4104",
+    "url": "https://www.notion.so/300000001217513-300000001707797-2f611d0a101c813eaf51cc2257af4104"
+  },
+  "processedAt": "2026-01-28T14:31:07.758Z"
+}

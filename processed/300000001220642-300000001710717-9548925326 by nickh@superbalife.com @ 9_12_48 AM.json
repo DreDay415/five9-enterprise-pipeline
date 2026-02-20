@@ -1,0 +1,416 @@
+{
+  "recording": {
+    "name": "300000001220642-300000001710717-9548925326 by nickh@superbalife.com @ 9_12_48 AM.wav",
+    "size": 236726,
+    "modifyTime": 1769620535000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220642-300000001710717-9548925326 by nickh@superbalife.com @ 9_12_48 AM.wav",
+    "uploadDate": "2026-01-28T17:15:35.000Z",
+    "callId": "300000001220642-300000001710717",
+    "agent": "nickh",
+    "phoneNumber": "9548925326",
+    "callTimestamp": "2026-01-28T09:12:48.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra at ScoreBlue.\n\nSpeaker 2: Good morning. My name's Lawrence Hughes.\n\nSpeaker 1: How can I help you today?\n\nSpeaker 2: This is my third phone call about canceling my prescription, and I just got another one in the mail. Now I want a return label to send it back to you because I don't want it.\n\nSpeaker 1: Okay. So let me pull up your account and see what's going on here, because if it was canceled, you shouldn't be getting these anymore. Could I get the phone number associated with the prescription?\n\nSpeaker 2: Sure. 914-434-5528.\n\nSpeaker 1: So, Lawrence, what they did was, no, you received—they sent you that for free.\n\nSpeaker 2: So they sent you... I'm looking here, that you called to cancel because you were unhappy with the medication.\n\nSpeaker 1: What you received is different, and that was free of charge.\n\nSpeaker 2: I didn't get the AG, whatever, I didn't get that. I got another prescription.\n\nSpeaker 1: Sure. The pills, the bottles look similar, but it is different what you just received.\n\nSpeaker 2: You're saying... because I'm saying—\n\nSpeaker 1: It has like 10 pills in it.\n\nSpeaker 2: Correct.\n\nSpeaker 1: It's what you received yesterday.\n\nSpeaker 2: That is different than the medication you received in the past.\n\nSpeaker 1: And I can show you on the bottle why it's different.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: So if you look at the pills, those will say 100 on it.\n\nSpeaker 2: The ones you had prior had something like AC340.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I'll check them out and see what it says.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: And it—\n\nSpeaker 1: Does it have 100 on it?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Those say 100.\n\nSpeaker 2: The bottle itself will say Greenstone LLC in the bottom right.\n\nSpeaker 1: Okay?\n\nSpeaker 2: And that's to ensure you that's from Pfizer in France.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And then you'll see Sidenafil AGV on the front.\n\nSpeaker 1: So they are different medication.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Now, it is canceled until I call you back, right?\n\nSpeaker 2: So yeah.\n\nSpeaker 1: It is currently paused.\n\nSpeaker 2: Canceling it closes it all together so you don't have access to refills anymore, but—\n\nSpeaker 1: Your account is currently paused.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Very good.\n\nSpeaker 2: So it looks like, yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Very good.\n\nSpeaker 1: Thank you for your help.\n\nSpeaker 2: All right.\n\nSpeaker 1: Of course.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: No problem.\n\nSpeaker 2: Thank you.",
+    "duration": 7436,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.0399999618530273,
+        "text": " Hi, thank you for calling Viagra at ScoreBlue."
+      },
+      {
+        "id": 1,
+        "start": 2.0399999618530273,
+        "end": 3.0399999618530273,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 2,
+        "start": 3.0399999618530273,
+        "end": 4.039999961853027,
+        "text": " Good morning."
+      },
+      {
+        "id": 3,
+        "start": 4.039999961853027,
+        "end": 5.039999961853027,
+        "text": " My name's Lawrence Hughes."
+      },
+      {
+        "id": 4,
+        "start": 5.039999961853027,
+        "end": 6.039999961853027,
+        "text": " I called."
+      },
+      {
+        "id": 5,
+        "start": 6.039999961853027,
+        "end": 15.600000381469727,
+        "text": " This is my third phone call about canceling my prescription, and I just got another one"
+      },
+      {
+        "id": 6,
+        "start": 15.600000381469727,
+        "end": 16.600000381469727,
+        "text": " in the mail."
+      },
+      {
+        "id": 7,
+        "start": 16.600000381469727,
+        "end": 21.31999969482422,
+        "text": " Now I want to return label to send it back to you because I don't want it."
+      },
+      {
+        "id": 8,
+        "start": 21.31999969482422,
+        "end": 22.31999969482422,
+        "text": " Okay."
+      },
+      {
+        "id": 9,
+        "start": 22.31999969482422,
+        "end": 25.239999771118164,
+        "text": " So let me pull up your account and see what's going on here, because if it was canceled,"
+      },
+      {
+        "id": 10,
+        "start": 25.239999771118164,
+        "end": 26.959999084472656,
+        "text": " you shouldn't be getting these anymore."
+      },
+      {
+        "id": 11,
+        "start": 27.479999542236328,
+        "end": 29.8799991607666,
+        "text": " Could I get the phone number associated with the prescription?"
+      },
+      {
+        "id": 12,
+        "start": 29.8799991607666,
+        "end": 30.8799991607666,
+        "text": " Sure."
+      },
+      {
+        "id": 13,
+        "start": 30.8799991607666,
+        "end": 31.8799991607666,
+        "text": " 914-434-5528."
+      },
+      {
+        "id": 14,
+        "start": 31.8799991607666,
+        "end": 32.880001068115234,
+        "text": " So, Lawrence."
+      },
+      {
+        "id": 15,
+        "start": 32.880001068115234,
+        "end": 33.880001068115234,
+        "text": " Yes."
+      },
+      {
+        "id": 16,
+        "start": 33.880001068115234,
+        "end": 34.880001068115234,
+        "text": " What they did was, so, no, you received, they sent you that for free."
+      },
+      {
+        "id": 17,
+        "start": 34.880001068115234,
+        "end": 62.119998931884766,
+        "text": " So they sent you, I'm looking here, that you called to cancel because you were unhappy"
+      },
+      {
+        "id": 18,
+        "start": 62.119998931884766,
+        "end": 63.84000015258789,
+        "text": " with the medication."
+      },
+      {
+        "id": 19,
+        "start": 63.84000015258789,
+        "end": 66.55999755859375,
+        "text": " And so they sent you the AGV to try."
+      },
+      {
+        "id": 20,
+        "start": 66.55999755859375,
+        "end": 70.87999725341797,
+        "text": " What you received is different, and that was free of charge."
+      },
+      {
+        "id": 21,
+        "start": 70.87999725341797,
+        "end": 74.5199966430664,
+        "text": " I didn't get the AG, whatever, I didn't get that."
+      },
+      {
+        "id": 22,
+        "start": 74.5199966430664,
+        "end": 76.36000061035156,
+        "text": " I got another prescription."
+      },
+      {
+        "id": 23,
+        "start": 76.36000061035156,
+        "end": 77.36000061035156,
+        "text": " Sure."
+      },
+      {
+        "id": 24,
+        "start": 77.36000061035156,
+        "end": 82.72000122070312,
+        "text": " The pills, the bottles look similar, but it is different what you just received."
+      },
+      {
+        "id": 25,
+        "start": 82.72000122070312,
+        "end": 84.5199966430664,
+        "text": " You're saying, because I'm saying-"
+      },
+      {
+        "id": 26,
+        "start": 84.5199966430664,
+        "end": 86.76000213623047,
+        "text": " It has like 10 pills in it."
+      },
+      {
+        "id": 27,
+        "start": 86.76000213623047,
+        "end": 87.76000213623047,
+        "text": " Correct."
+      },
+      {
+        "id": 28,
+        "start": 87.76000213623047,
+        "end": 88.76000213623047,
+        "text": " It's what you received yesterday."
+      },
+      {
+        "id": 29,
+        "start": 88.91999816894531,
+        "end": 92.19999694824219,
+        "text": " That is different than the medication you received in the past."
+      },
+      {
+        "id": 30,
+        "start": 92.19999694824219,
+        "end": 94.23999786376953,
+        "text": " And I can show you on the bottle why it's different."
+      },
+      {
+        "id": 31,
+        "start": 94.23999786376953,
+        "end": 95.23999786376953,
+        "text": " Yeah."
+      },
+      {
+        "id": 32,
+        "start": 95.23999786376953,
+        "end": 98.04000091552734,
+        "text": " So if you look at the pills, those will say 100 on it."
+      },
+      {
+        "id": 33,
+        "start": 98.04000091552734,
+        "end": 100.04000091552734,
+        "text": " The ones you had prior had something like AC340."
+      },
+      {
+        "id": 34,
+        "start": 100.04000091552734,
+        "end": 101.04000091552734,
+        "text": " Okay."
+      },
+      {
+        "id": 35,
+        "start": 101.04000091552734,
+        "end": 102.04000091552734,
+        "text": " I'll check them out and see what it says."
+      },
+      {
+        "id": 36,
+        "start": 102.04000091552734,
+        "end": 103.04000091552734,
+        "text": " Yeah."
+      },
+      {
+        "id": 37,
+        "start": 103.04000091552734,
+        "end": 104.04000091552734,
+        "text": " And it-"
+      },
+      {
+        "id": 38,
+        "start": 104.04000091552734,
+        "end": 105.04000091552734,
+        "text": " Does it have 100 on it?"
+      },
+      {
+        "id": 39,
+        "start": 105.04000091552734,
+        "end": 106.04000091552734,
+        "text": " Yes."
+      },
+      {
+        "id": 40,
+        "start": 106.04000091552734,
+        "end": 107.04000091552734,
+        "text": " Those say 100."
+      },
+      {
+        "id": 41,
+        "start": 107.04000091552734,
+        "end": 113.04000091552734,
+        "text": " The bottle itself will say Greenstone LLC in the bottom right."
+      },
+      {
+        "id": 42,
+        "start": 113.04000091552734,
+        "end": 114.04000091552734,
+        "text": " Okay?"
+      },
+      {
+        "id": 43,
+        "start": 114.04000091552734,
+        "end": 118.12000274658203,
+        "text": " And that's to ensure you that's from Pfizer in France."
+      },
+      {
+        "id": 44,
+        "start": 118.4800033569336,
+        "end": 119.4800033569336,
+        "text": " Okay."
+      },
+      {
+        "id": 45,
+        "start": 119.4800033569336,
+        "end": 120.4800033569336,
+        "text": " And then you'll see Sidenafil AGV on the front."
+      },
+      {
+        "id": 46,
+        "start": 120.4800033569336,
+        "end": 122.4800033569336,
+        "text": " So they are different medication."
+      },
+      {
+        "id": 47,
+        "start": 122.4800033569336,
+        "end": 123.4800033569336,
+        "text": " Okay."
+      },
+      {
+        "id": 48,
+        "start": 123.4800033569336,
+        "end": 128.32000732421875,
+        "text": " Now, it is canceled until I call you back, right?"
+      },
+      {
+        "id": 49,
+        "start": 128.32000732421875,
+        "end": 129.32000732421875,
+        "text": " So yeah."
+      },
+      {
+        "id": 50,
+        "start": 129.32000732421875,
+        "end": 130.32000732421875,
+        "text": " It is currently paused."
+      },
+      {
+        "id": 51,
+        "start": 130.32000732421875,
+        "end": 133.67999267578125,
+        "text": " Canceling it closes it all together so you don't have access to refills anymore, but"
+      },
+      {
+        "id": 52,
+        "start": 133.67999267578125,
+        "end": 134.67999267578125,
+        "text": " your account is currently paused."
+      },
+      {
+        "id": 53,
+        "start": 134.67999267578125,
+        "end": 135.67999267578125,
+        "text": " Okay."
+      },
+      {
+        "id": 54,
+        "start": 135.67999267578125,
+        "end": 136.67999267578125,
+        "text": " Very good."
+      },
+      {
+        "id": 55,
+        "start": 136.67999267578125,
+        "end": 137.67999267578125,
+        "text": " So it looks like, yeah."
+      },
+      {
+        "id": 56,
+        "start": 137.67999267578125,
+        "end": 138.67999267578125,
+        "text": " Okay."
+      },
+      {
+        "id": 57,
+        "start": 138.67999267578125,
+        "end": 139.67999267578125,
+        "text": " Very good."
+      },
+      {
+        "id": 58,
+        "start": 139.67999267578125,
+        "end": 140.67999267578125,
+        "text": " Thank you for your help."
+      },
+      {
+        "id": 59,
+        "start": 140.67999267578125,
+        "end": 141.67999267578125,
+        "text": " All right."
+      },
+      {
+        "id": 60,
+        "start": 141.67999267578125,
+        "end": 142.67999267578125,
+        "text": " Of course."
+      },
+      {
+        "id": 61,
+        "start": 142.67999267578125,
+        "end": 143.67999267578125,
+        "text": " Thank you."
+      },
+      {
+        "id": 62,
+        "start": 143.67999267578125,
+        "end": 144.67999267578125,
+        "text": " No problem."
+      },
+      {
+        "id": 63,
+        "start": 144.67999267578125,
+        "end": 145.67999267578125,
+        "text": " Thank you."
+      },
+      {
+        "id": 64,
+        "start": 145.67999267578125,
+        "end": 145.67999267578125,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81bd-8de8-d15f5a75e620",
+    "url": "https://www.notion.so/300000001220642-300000001710717-2f611d0a101c81bd8de8d15f5a75e620"
+  },
+  "processedAt": "2026-01-28T18:37:43.956Z"
+}

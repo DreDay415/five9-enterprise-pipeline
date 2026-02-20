@@ -1,0 +1,371 @@
+{
+  "recording": {
+    "name": "300000001241782-300000001731453-8887955826 by olivia@superbalife.com @ 9_53_43 AM.wav",
+    "size": 266496,
+    "modifyTime": 1771005409000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241782-300000001731453-8887955826 by olivia@superbalife.com @ 9_53_43 AM.wav",
+    "uploadDate": "2026-02-13T17:56:49.000Z",
+    "callId": "300000001241782-300000001731453",
+    "agent": "olivia",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-02-13T09:53:43.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivia_300000001241782-300000001731453_8887955826.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivia_300000001241782-300000001731453_8887955826.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Thiagra, this is Olivia speaking.\n\nSpeaker 2: Who do I have the pleasure of speaking with today?\n\nSpeaker 1: This is Bob Ryan, Robert Ryan.\n\nSpeaker 2: I think it's Bob Ryan on the prescription.\n\nSpeaker 1: Hi Bob, how are you?\n\nSpeaker 2: I'm doing wonderful, Alexa off, I'm doing great.\n\nSpeaker 1: I'm 71 years old and you guys send me a lot of pills\n\nSpeaker 2: and I don't need them because I don't get sex that much\n\nSpeaker 1: but I have plenty.\n\nSpeaker 2: So if you need more, I'll call you back.\n\nSpeaker 1: I like them, they're way better than the regular ones,\n\nSpeaker 2: that's for sure.\n\nSpeaker 1: Oh, I'm so glad to hear that.\n\nSpeaker 2: Okay, what's the phone number associated\n\nSpeaker 1: with your prescription so I can go find you?\n\nSpeaker 2: Okay, 714-350-7860.\n\nSpeaker 1: Perfect, there you are Bob.\n\nSpeaker 2: And what's your date of birth?\n\nSpeaker 1: 9-24-54.\n\nSpeaker 2: Yeah, so if you don't want to receive those monthly refills\n\nSpeaker 1: with the prescription, you certainly don't have to.\n\nSpeaker 2: You always have the option to place your prescription\n\nSpeaker 1: on hold for up to six months at a time\n\nSpeaker 2: just because six months is when the prescription\n\nSpeaker 1: would expire if we didn't refill it.\n\nSpeaker 2: And the way that works is.\n\nSpeaker 1: Oh, I'll get some, okay, go ahead, yeah.\n\nSpeaker 2: Is yeah, whenever you are ready to order before then,\n\nSpeaker 1: you can, you just have to give us a call\n\nSpeaker 2: to place the order yourself.\n\nSpeaker 1: Okay, no problem, no problem.\n\nSpeaker 2: And I've been giving, I've been,\n\nSpeaker 1: because I have so many, I've been giving them out\n\nSpeaker 2: and people really like them.\n\nSpeaker 1: I don't know what to do.\n\nSpeaker 2: Okay.\n\nSpeaker 1: They go, I don't need that shit.\n\nSpeaker 2: I go, yeah, try it, it's pretty cool.\n\nSpeaker 1: All right, well, great.\n\nSpeaker 2: So yeah, if you need anything before the middle of August,\n\nSpeaker 1: just let us know.\n\nSpeaker 2: We're always here Monday through Friday,\n\nSpeaker 1: eight to five Pacific.\n\nSpeaker 2: Yeah, I really appreciate you answering the phone\n\nSpeaker 1: and helping me out instead of being a lost person, you know.\n\nSpeaker 2: Cool. Yeah, of course.\n\nSpeaker 1: I appreciate you.\n\nSpeaker 2: Yeah, thank you, Bob.\n\nSpeaker 1: Yeah, very happy with the product.\n\nSpeaker 2: I just, not using it too much these days.\n\nSpeaker 1: But yeah, I'll call you back.\n\nSpeaker 2: Okay, perfect.\n\nSpeaker 1: Well, thank you.\n\nSpeaker 2: I hope, yeah, your prescription's on hold.\n\nSpeaker 1: I hope you have a great day, Bob.\n\nSpeaker 2: You too, bye.\n\nSpeaker 1: Okay, bye.",
+    "duration": 7090,
+    "audioDuration": 163.9600067138672,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.159999847412109,
+        "text": " Thank you for calling Thiagra, this is Olivia speaking."
+      },
+      {
+        "id": 1,
+        "start": 7.800000190734863,
+        "end": 11.699999809265137,
+        "text": " Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 2,
+        "start": 11.699999809265137,
+        "end": 14.239999771118164,
+        "text": " This is Bob Ryan, Robert Ryan."
+      },
+      {
+        "id": 3,
+        "start": 14.239999771118164,
+        "end": 17.479999542236328,
+        "text": " I think it's Bob Ryan on the prescription."
+      },
+      {
+        "id": 4,
+        "start": 17.479999542236328,
+        "end": 19.139999389648438,
+        "text": " Hi Bob, how are you?"
+      },
+      {
+        "id": 5,
+        "start": 20.479999542236328,
+        "end": 24.079999923706055,
+        "text": " I'm doing wonderful, Alexa off, I'm doing great."
+      },
+      {
+        "id": 6,
+        "start": 24.079999923706055,
+        "end": 27.239999771118164,
+        "text": " I'm 71 years old and you guys send me a lot of pills"
+      },
+      {
+        "id": 7,
+        "start": 28.059999465942383,
+        "end": 30.440000534057617,
+        "text": " and I don't need them because I don't get sex that much"
+      },
+      {
+        "id": 8,
+        "start": 30.440000534057617,
+        "end": 33.29999923706055,
+        "text": " but I have plenty."
+      },
+      {
+        "id": 9,
+        "start": 33.29999923706055,
+        "end": 35.91999816894531,
+        "text": " So if you need more, I'll call you back."
+      },
+      {
+        "id": 10,
+        "start": 35.91999816894531,
+        "end": 38.47999954223633,
+        "text": " I like them, they're way better than the regular ones,"
+      },
+      {
+        "id": 11,
+        "start": 38.47999954223633,
+        "end": 39.959999084472656,
+        "text": " that's for sure."
+      },
+      {
+        "id": 12,
+        "start": 39.959999084472656,
+        "end": 41.47999954223633,
+        "text": " Oh, I'm so glad to hear that."
+      },
+      {
+        "id": 13,
+        "start": 41.47999954223633,
+        "end": 43.79999923706055,
+        "text": " Okay, what's the phone number associated"
+      },
+      {
+        "id": 14,
+        "start": 43.79999923706055,
+        "end": 46.119998931884766,
+        "text": " with your prescription so I can go find you?"
+      },
+      {
+        "id": 15,
+        "start": 47.119998931884766,
+        "end": 52.119998931884766,
+        "text": " Okay, 714-350-7860."
+      },
+      {
+        "id": 16,
+        "start": 54.2400016784668,
+        "end": 56.400001525878906,
+        "text": " Perfect, there you are Bob."
+      },
+      {
+        "id": 17,
+        "start": 56.400001525878906,
+        "end": 57.900001525878906,
+        "text": " And what's your date of birth?"
+      },
+      {
+        "id": 18,
+        "start": 58.959999084472656,
+        "end": 61.439998626708984,
+        "text": " 9-24-54."
+      },
+      {
+        "id": 19,
+        "start": 61.439998626708984,
+        "end": 64.91999816894531,
+        "text": " Yeah, so if you don't want to receive those monthly refills"
+      },
+      {
+        "id": 20,
+        "start": 64.91999816894531,
+        "end": 67.72000122070312,
+        "text": " with the prescription, you certainly don't have to."
+      },
+      {
+        "id": 21,
+        "start": 67.72000122070312,
+        "end": 70.91999816894531,
+        "text": " You always have the option to place your prescription"
+      },
+      {
+        "id": 22,
+        "start": 70.91999816894531,
+        "end": 73.95999908447266,
+        "text": " on hold for up to six months at a time"
+      },
+      {
+        "id": 23,
+        "start": 73.95999908447266,
+        "end": 76.44000244140625,
+        "text": " just because six months is when the prescription"
+      },
+      {
+        "id": 24,
+        "start": 76.44000244140625,
+        "end": 79.83999633789062,
+        "text": " would expire if we didn't refill it."
+      },
+      {
+        "id": 25,
+        "start": 79.83999633789062,
+        "end": 81.44000244140625,
+        "text": " And the way that works is."
+      },
+      {
+        "id": 26,
+        "start": 81.44000244140625,
+        "end": 84.55999755859375,
+        "text": " Oh, I'll get some, okay, go ahead, yeah."
+      },
+      {
+        "id": 27,
+        "start": 84.55999755859375,
+        "end": 88.4800033569336,
+        "text": " Is yeah, whenever you are ready to order before then,"
+      },
+      {
+        "id": 28,
+        "start": 88.4800033569336,
+        "end": 91.4800033569336,
+        "text": " you can, you just have to give us a call"
+      },
+      {
+        "id": 29,
+        "start": 91.4800033569336,
+        "end": 93.36000061035156,
+        "text": " to place the order yourself."
+      },
+      {
+        "id": 30,
+        "start": 94.80000305175781,
+        "end": 98.5999984741211,
+        "text": " Okay, no problem, no problem."
+      },
+      {
+        "id": 31,
+        "start": 98.5999984741211,
+        "end": 100.04000091552734,
+        "text": " And I've been giving, I've been,"
+      },
+      {
+        "id": 32,
+        "start": 100.04000091552734,
+        "end": 102.19999694824219,
+        "text": " because I have so many, I've been giving them out"
+      },
+      {
+        "id": 33,
+        "start": 102.19999694824219,
+        "end": 104.04000091552734,
+        "text": " and people really like them."
+      },
+      {
+        "id": 34,
+        "start": 104.04000091552734,
+        "end": 106.23999786376953,
+        "text": " I don't know what to do."
+      },
+      {
+        "id": 35,
+        "start": 106.23999786376953,
+        "end": 107.08000183105469,
+        "text": " Okay."
+      },
+      {
+        "id": 36,
+        "start": 108.72000122070312,
+        "end": 109.95999908447266,
+        "text": " They go, I don't need that shit."
+      },
+      {
+        "id": 37,
+        "start": 109.95999908447266,
+        "end": 113.04000091552734,
+        "text": " I go, yeah, try it, it's pretty cool."
+      },
+      {
+        "id": 38,
+        "start": 114.04000091552734,
+        "end": 116.16000366210938,
+        "text": " All right, well, great."
+      },
+      {
+        "id": 39,
+        "start": 116.16000366210938,
+        "end": 119.83999633789062,
+        "text": " So yeah, if you need anything before the middle of August,"
+      },
+      {
+        "id": 40,
+        "start": 119.83999633789062,
+        "end": 121.12000274658203,
+        "text": " just let us know."
+      },
+      {
+        "id": 41,
+        "start": 121.12000274658203,
+        "end": 123.44000244140625,
+        "text": " We're always here Monday through Friday,"
+      },
+      {
+        "id": 42,
+        "start": 123.44000244140625,
+        "end": 124.68000030517578,
+        "text": " eight to five Pacific."
+      },
+      {
+        "id": 43,
+        "start": 126.31999969482422,
+        "end": 128.1999969482422,
+        "text": " Yeah, I really appreciate you answering the phone"
+      },
+      {
+        "id": 44,
+        "start": 128.1999969482422,
+        "end": 131.8800048828125,
+        "text": " and helping me out instead of being a lost person, you know."
+      },
+      {
+        "id": 45,
+        "start": 131.8800048828125,
+        "end": 132.9199981689453,
+        "text": " Cool. Yeah, of course."
+      },
+      {
+        "id": 46,
+        "start": 132.9199981689453,
+        "end": 134.47999572753906,
+        "text": " I appreciate you."
+      },
+      {
+        "id": 47,
+        "start": 134.47999572753906,
+        "end": 135.63999938964844,
+        "text": " Yeah, thank you, Bob."
+      },
+      {
+        "id": 48,
+        "start": 135.63999938964844,
+        "end": 137.63999938964844,
+        "text": " Yeah, very happy with the product."
+      },
+      {
+        "id": 49,
+        "start": 137.63999938964844,
+        "end": 140.47999572753906,
+        "text": " I just, not using it too much these days."
+      },
+      {
+        "id": 50,
+        "start": 141.47999572753906,
+        "end": 144.9600067138672,
+        "text": " But yeah, I'll call you back."
+      },
+      {
+        "id": 51,
+        "start": 144.9600067138672,
+        "end": 146.0800018310547,
+        "text": " Okay, perfect."
+      },
+      {
+        "id": 52,
+        "start": 147.44000244140625,
+        "end": 148.27999877929688,
+        "text": " Well, thank you."
+      },
+      {
+        "id": 53,
+        "start": 148.27999877929688,
+        "end": 150.9600067138672,
+        "text": " I hope, yeah, your prescription's on hold."
+      },
+      {
+        "id": 54,
+        "start": 150.9600067138672,
+        "end": 152.60000610351562,
+        "text": " I hope you have a great day, Bob."
+      },
+      {
+        "id": 55,
+        "start": 153.52000427246094,
+        "end": 154.47999572753906,
+        "text": " You too, bye."
+      },
+      {
+        "id": 56,
+        "start": 154.47999572753906,
+        "end": 155.32000732421875,
+        "text": " Okay, bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-819c-a39b-fa8e76e678f4",
+    "url": "https://www.notion.so/300000001241782-300000001731453-30611d0a101c819ca39bfa8e76e678f4"
+  },
+  "processedAt": "2026-02-13T18:05:20.668Z"
+}

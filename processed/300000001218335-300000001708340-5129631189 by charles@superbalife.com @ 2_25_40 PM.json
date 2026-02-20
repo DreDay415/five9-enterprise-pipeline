@@ -1,0 +1,194 @@
+{
+  "recording": {
+    "name": "300000001218335-300000001708340-5129631189 by charles@superbalife.com @ 2_25_40 PM.wav",
+    "size": 148000,
+    "modifyTime": 1769591839000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218335-300000001708340-5129631189 by charles@superbalife.com @ 2_25_40 PM.wav",
+    "uploadDate": "2026-01-28T09:17:19.000Z",
+    "callId": "300000001218335-300000001708340",
+    "agent": "charles",
+    "phoneNumber": "5129631189",
+    "callTimestamp": "2026-01-28T14:25:40.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Biography, this is Charles.\n\nSpeaker 2: Last month I emailed you and called you to end my prescription, and yet again, y'all sent it again and charged my file yet again.\n\nSpeaker 1: James Harvey in Austin, Texas?\n\nSpeaker 2: Yes.\n\nSpeaker 1: You said you emailed and called?\n\nSpeaker 2: I emailed and called last month.\n\nSpeaker 1: Did you accidentally call the pharmacy by mistake?\n\nSpeaker 2: No, I emailed and called last month. And I'm doing it again today.\n\nSpeaker 1: Okay, gotcha. I'm not sure if you actually called the pharmacy by chance, so if you called the pharmacy, all they're going to do is delay the next shipment.\n\nSpeaker 2: Gotcha.\n\nSpeaker 1: So right now, what I could do is cancel any future payments, shipments, and then the one that is on its way, when it arrives, don't touch it.\n\nSpeaker 2: Don't do anything to it other than write return to sender on it with a marker or a pen.\n\nSpeaker 1: Put it back in the mailbox, and the mailman will take it and send it back to us, and we can issue the refund then.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Good enough.\n\nSpeaker 1: All right.\n\nSpeaker 2: Sorry about that.\n\nSpeaker 1: Hope you have a good one.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Bye-bye.",
+    "duration": 3971,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 24,
+        "text": " Thank you for calling Biography, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 24,
+        "end": 31,
+        "text": " Last month I emailed you and called you to end my prescription, and yet again, y'all"
+      },
+      {
+        "id": 2,
+        "start": 31,
+        "end": 35,
+        "text": " sent it again and charged my file yet again."
+      },
+      {
+        "id": 3,
+        "start": 35,
+        "end": 38,
+        "text": " James Harvey in Austin, Texas?"
+      },
+      {
+        "id": 4,
+        "start": 38,
+        "end": 39,
+        "text": " Yes."
+      },
+      {
+        "id": 5,
+        "start": 39,
+        "end": 41,
+        "text": " You said you emailed and called?"
+      },
+      {
+        "id": 6,
+        "start": 41,
+        "end": 44,
+        "text": " Did you accidentally call the pharmacy by mistake?"
+      },
+      {
+        "id": 7,
+        "start": 44,
+        "end": 47,
+        "text": " I emailed and called last month."
+      },
+      {
+        "id": 8,
+        "start": 47,
+        "end": 48,
+        "text": " Okay, gotcha."
+      },
+      {
+        "id": 9,
+        "start": 48,
+        "end": 50,
+        "text": " And I'm doing it again today."
+      },
+      {
+        "id": 10,
+        "start": 50,
+        "end": 52,
+        "text": " I emailed two days ago."
+      },
+      {
+        "id": 11,
+        "start": 52,
+        "end": 53,
+        "text": " Gotcha."
+      },
+      {
+        "id": 12,
+        "start": 53,
+        "end": 57,
+        "text": " I'm not sure if you actually called the pharmacy by chance, so if you called the pharmacy,"
+      },
+      {
+        "id": 13,
+        "start": 57,
+        "end": 59,
+        "text": " all they're going to do is delay the next shipment."
+      },
+      {
+        "id": 14,
+        "start": 59,
+        "end": 67,
+        "text": " So right now, what I could do is cancel any future payments, shipments, and then the one"
+      },
+      {
+        "id": 15,
+        "start": 67,
+        "end": 70,
+        "text": " that is on its way, when it arrives, don't touch it."
+      },
+      {
+        "id": 16,
+        "start": 70,
+        "end": 74,
+        "text": " Don't do anything to it other than write return to sender on it with a marker or a pen."
+      },
+      {
+        "id": 17,
+        "start": 74,
+        "end": 77,
+        "text": " Put it back in the mailbox, and the mailman will take it and send it back to us, and we"
+      },
+      {
+        "id": 18,
+        "start": 77,
+        "end": 79,
+        "text": " can issue the refund then."
+      },
+      {
+        "id": 19,
+        "start": 79,
+        "end": 80,
+        "text": " Okay."
+      },
+      {
+        "id": 20,
+        "start": 80,
+        "end": 81,
+        "text": " All right."
+      },
+      {
+        "id": 21,
+        "start": 81,
+        "end": 82,
+        "text": " Good enough."
+      },
+      {
+        "id": 22,
+        "start": 82,
+        "end": 83,
+        "text": " All right."
+      },
+      {
+        "id": 23,
+        "start": 83,
+        "end": 84,
+        "text": " Sorry about that."
+      },
+      {
+        "id": 24,
+        "start": 84,
+        "end": 85,
+        "text": " Hope you have a good one."
+      },
+      {
+        "id": 25,
+        "start": 85,
+        "end": 86,
+        "text": " All right."
+      },
+      {
+        "id": 26,
+        "start": 86,
+        "end": 87,
+        "text": " Thanks."
+      },
+      {
+        "id": 27,
+        "start": 87,
+        "end": 88,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-819e-b358-f03f87f3b77b",
+    "url": "https://www.notion.so/300000001218335-300000001708340-2f611d0a101c819eb358f03f87f3b77b"
+  },
+  "processedAt": "2026-01-28T11:23:22.065Z"
+}

@@ -1,0 +1,413 @@
+{
+  "recording": {
+    "name": "300000001241791-300000001731443-7867250826 by jessie@superbalife.com @ 9_55_57 AM.wav",
+    "size": 310566,
+    "modifyTime": 1771005566000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241791-300000001731443-7867250826 by jessie@superbalife.com @ 9_55_57 AM.wav",
+    "uploadDate": "2026-02-13T17:59:26.000Z",
+    "callId": "300000001241791-300000001731443",
+    "agent": "jessie",
+    "phoneNumber": "7867250826",
+    "callTimestamp": "2026-02-13T09:55:57.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_jessie_300000001241791-300000001731443_7867250826.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_jessie_300000001241791-300000001731443_7867250826.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you.\n\nSpeaker 2: Hi, thank you so much for holding.\n\nSpeaker 1: My name is Jessie.\n\nSpeaker 2: Am I speaking to Mr. Harding?\n\nSpeaker 1: Yes, you are.\n\nSpeaker 2: Okay, Mr. Harding.\n\nSpeaker 1: I'm so sorry.\n\nSpeaker 2: The post office is giving you a rough time here, so do you want to give me the correct\n\nSpeaker 1: address that it's supposed to go to?\n\nSpeaker 2: No.\n\nSpeaker 1: The address is correct, but I don't know why the post office person said to Zakin when\n\nSpeaker 2: I have already received all the packages there already.\n\nSpeaker 1: Oh, gosh.\n\nSpeaker 2: You understand?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: So before the last person I spoke to just cut me off without trying to let us come\n\nSpeaker 1: up with a...\n\nSpeaker 2: If she's just saying, I want to call the post office, well, I'm just going to call the post\n\nSpeaker 1: office and say.\n\nSpeaker 2: What I was going to suggest to him is that they re-send the item.\n\nSpeaker 1: I'm going to leave a note on my door, right, to let anyone that comes to deliver it.\n\nSpeaker 2: Let them know that someone lives there, because I don't know why they said that no one lives\n\nSpeaker 1: there when in fact there's everything to show that someone lives there, and it's not like\n\nSpeaker 2: they have to go anywhere.\n\nSpeaker 1: I'm happy to re-ship it for you.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yeah, that's not a problem.\n\nSpeaker 2: I can re-ship it.\n\nSpeaker 1: You know what?\n\nSpeaker 2: If you'd like, and I don't know, I'm just going to throw this out there as a possibility,\n\nSpeaker 1: we can just...\n\nSpeaker 2: He was suggesting, and not to say that what he was saying wasn't an option for you as\n\nSpeaker 1: well, I'm happy to re-ship it.\n\nSpeaker 2: If you'd like, I can put signature on delivery so it forces the mailman to come to your front\n\nSpeaker 1: door, right, rather than assume that nobody's there.\n\nSpeaker 2: No, but there's a mailbox on the door, and it's right to the side where you can just\n\nSpeaker 1: put it in there, and it says number two.\n\nSpeaker 2: So I don't know why he wouldn't put, the mail person wouldn't put it there.\n\nSpeaker 1: I have no idea either, sir.\n\nSpeaker 2: I mean, you know, we're all guessing here.\n\nSpeaker 1: It could be somebody new, somebody like misread it, who knows.\n\nSpeaker 2: But you know, I'm just trying, we're just thinking of ways to ensure that the mailman\n\nSpeaker 1: or whoever tried to deliver your mail doesn't, you know, make the same mistake.\n\nSpeaker 2: Does that make sense?\n\nSpeaker 1: I just said before, I'm going to leave, I'm going to leave on like a sign, like on a cardboard\n\nSpeaker 2: or something to say that Winston Harding lives there, please leave package.\n\nSpeaker 1: That's what I'm going to do, big and bold, so you just kindly just re-ship it, and then\n\nSpeaker 2: I'll put a sign out there to say, to let the person know that someone lives there.\n\nSpeaker 1: No problem.\n\nSpeaker 2: So that's eight pills of the 100 milligrams, we'll have it re-shipped, and again, that\n\nSpeaker 1: address is 1477 Northwest 60th Avenue, Apartment 2 in Sunrise, Florida, 33313.\n\nSpeaker 2: Apartment 2, right?\n\nSpeaker 1: Yes, ma'am.\n\nSpeaker 2: All right.\n\nSpeaker 1: We'll go ahead and have it re-shipped.\n\nSpeaker 2: I will put in the notes that you are going to put, you know, some kind of sign on your\n\nSpeaker 1: door, and that's what you prefer that we do, okay?\n\nSpeaker 2: If they lose it again, I'm just letting you know, we can't, you know, I will put that\n\nSpeaker 1: in the notes, okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thanks a lot.\n\nSpeaker 1: Bye-bye.",
+    "duration": 8002,
+    "audioDuration": 191.0800018310547,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Thank you."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2.559999942779541,
+        "text": " Hi, thank you so much for holding."
+      },
+      {
+        "id": 2,
+        "start": 2.559999942779541,
+        "end": 3.559999942779541,
+        "text": " My name is Jessie."
+      },
+      {
+        "id": 3,
+        "start": 3.559999942779541,
+        "end": 4.559999942779541,
+        "text": " Am I speaking to Mr. Harding?"
+      },
+      {
+        "id": 4,
+        "start": 4.559999942779541,
+        "end": 5.559999942779541,
+        "text": " Yes, you are."
+      },
+      {
+        "id": 5,
+        "start": 5.559999942779541,
+        "end": 6.559999942779541,
+        "text": " Okay, Mr. Harding."
+      },
+      {
+        "id": 6,
+        "start": 6.559999942779541,
+        "end": 7.559999942779541,
+        "text": " I'm so sorry."
+      },
+      {
+        "id": 7,
+        "start": 7.559999942779541,
+        "end": 13.520000457763672,
+        "text": " The post office is giving you a rough time here, so do you want to give me the correct"
+      },
+      {
+        "id": 8,
+        "start": 13.520000457763672,
+        "end": 16.040000915527344,
+        "text": " address that it's supposed to go to?"
+      },
+      {
+        "id": 9,
+        "start": 16.040000915527344,
+        "end": 17.040000915527344,
+        "text": " No."
+      },
+      {
+        "id": 10,
+        "start": 17.040000915527344,
+        "end": 24.799999237060547,
+        "text": " The address is correct, but I don't know why the post office person said to Zakin when"
+      },
+      {
+        "id": 11,
+        "start": 24.799999237060547,
+        "end": 28.639999389648438,
+        "text": " I have already received all the packages there already."
+      },
+      {
+        "id": 12,
+        "start": 28.799999237060547,
+        "end": 29.799999237060547,
+        "text": " Oh, gosh."
+      },
+      {
+        "id": 13,
+        "start": 29.799999237060547,
+        "end": 30.799999237060547,
+        "text": " You understand?"
+      },
+      {
+        "id": 14,
+        "start": 30.799999237060547,
+        "end": 31.799999237060547,
+        "text": " Yeah."
+      },
+      {
+        "id": 15,
+        "start": 31.799999237060547,
+        "end": 38.2400016784668,
+        "text": " So before the last person I spoke to just cut me off without trying to let us come"
+      },
+      {
+        "id": 16,
+        "start": 38.2400016784668,
+        "end": 39.2400016784668,
+        "text": " up with a..."
+      },
+      {
+        "id": 17,
+        "start": 39.2400016784668,
+        "end": 42.279998779296875,
+        "text": " If she's just saying, I want to call the post office, well, I'm just going to call the post"
+      },
+      {
+        "id": 18,
+        "start": 42.279998779296875,
+        "end": 44.599998474121094,
+        "text": " office and say."
+      },
+      {
+        "id": 19,
+        "start": 44.599998474121094,
+        "end": 49.84000015258789,
+        "text": " What I was going to suggest to him is that they re-send the item."
+      },
+      {
+        "id": 20,
+        "start": 49.84000015258789,
+        "end": 58.599998474121094,
+        "text": " I'm going to leave a note on my door, right, to let anyone that comes to deliver it."
+      },
+      {
+        "id": 21,
+        "start": 58.599998474121094,
+        "end": 62.400001525878906,
+        "text": " Let them know that someone lives there, because I don't know why they said that no one lives"
+      },
+      {
+        "id": 22,
+        "start": 62.400001525878906,
+        "end": 70.19999694824219,
+        "text": " there when in fact there's everything to show that someone lives there, and it's not like"
+      },
+      {
+        "id": 23,
+        "start": 70.19999694824219,
+        "end": 71.19999694824219,
+        "text": " they have to go anywhere."
+      },
+      {
+        "id": 24,
+        "start": 71.19999694824219,
+        "end": 72.19999694824219,
+        "text": " I'm happy to re-ship it for you."
+      },
+      {
+        "id": 25,
+        "start": 72.19999694824219,
+        "end": 73.19999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 26,
+        "start": 73.19999694824219,
+        "end": 74.19999694824219,
+        "text": " Yeah, that's not a problem."
+      },
+      {
+        "id": 27,
+        "start": 74.19999694824219,
+        "end": 75.19999694824219,
+        "text": " I can re-ship it."
+      },
+      {
+        "id": 28,
+        "start": 75.19999694824219,
+        "end": 76.19999694824219,
+        "text": " You know what?"
+      },
+      {
+        "id": 29,
+        "start": 76.19999694824219,
+        "end": 87,
+        "text": " If you'd like, and I don't know, I'm just going to throw this out there as a possibility,"
+      },
+      {
+        "id": 30,
+        "start": 87,
+        "end": 88,
+        "text": " we can just..."
+      },
+      {
+        "id": 31,
+        "start": 88,
+        "end": 95.08000183105469,
+        "text": " He was suggesting, and not to say that what he was saying wasn't an option for you as"
+      },
+      {
+        "id": 32,
+        "start": 95.08000183105469,
+        "end": 97.95999908447266,
+        "text": " well, I'm happy to re-ship it."
+      },
+      {
+        "id": 33,
+        "start": 97.95999908447266,
+        "end": 102.36000061035156,
+        "text": " If you'd like, I can put signature on delivery so it forces the mailman to come to your front"
+      },
+      {
+        "id": 34,
+        "start": 102.36000061035156,
+        "end": 105.5999984741211,
+        "text": " door, right, rather than assume that nobody's there."
+      },
+      {
+        "id": 35,
+        "start": 105.5999984741211,
+        "end": 110.4800033569336,
+        "text": " No, but there's a mailbox on the door, and it's right to the side where you can just"
+      },
+      {
+        "id": 36,
+        "start": 110.4800033569336,
+        "end": 112.87999725341797,
+        "text": " put it in there, and it says number two."
+      },
+      {
+        "id": 37,
+        "start": 112.87999725341797,
+        "end": 117.5199966430664,
+        "text": " So I don't know why he wouldn't put, the mail person wouldn't put it there."
+      },
+      {
+        "id": 38,
+        "start": 117.5199966430664,
+        "end": 118.91999816894531,
+        "text": " I have no idea either, sir."
+      },
+      {
+        "id": 39,
+        "start": 118.91999816894531,
+        "end": 121.08000183105469,
+        "text": " I mean, you know, we're all guessing here."
+      },
+      {
+        "id": 40,
+        "start": 121.08000183105469,
+        "end": 125.36000061035156,
+        "text": " It could be somebody new, somebody like misread it, who knows."
+      },
+      {
+        "id": 41,
+        "start": 125.36000061035156,
+        "end": 129.0399932861328,
+        "text": " But you know, I'm just trying, we're just thinking of ways to ensure that the mailman"
+      },
+      {
+        "id": 42,
+        "start": 129.0399932861328,
+        "end": 133.47999572753906,
+        "text": " or whoever tried to deliver your mail doesn't, you know, make the same mistake."
+      },
+      {
+        "id": 43,
+        "start": 133.47999572753906,
+        "end": 134.47999572753906,
+        "text": " Does that make sense?"
+      },
+      {
+        "id": 44,
+        "start": 134.47999572753906,
+        "end": 139.39999389648438,
+        "text": " I just said before, I'm going to leave, I'm going to leave on like a sign, like on a cardboard"
+      },
+      {
+        "id": 45,
+        "start": 139.39999389648438,
+        "end": 143.83999633789062,
+        "text": " or something to say that Winston Harding lives there, please leave package."
+      },
+      {
+        "id": 46,
+        "start": 143.83999633789062,
+        "end": 150.27999877929688,
+        "text": " That's what I'm going to do, big and bold, so you just kindly just re-ship it, and then"
+      },
+      {
+        "id": 47,
+        "start": 150.27999877929688,
+        "end": 155.44000244140625,
+        "text": " I'll put a sign out there to say, to let the person know that someone lives there."
+      },
+      {
+        "id": 48,
+        "start": 155.44000244140625,
+        "end": 156.44000244140625,
+        "text": " No problem."
+      },
+      {
+        "id": 49,
+        "start": 156.44000244140625,
+        "end": 160.75999450683594,
+        "text": " So that's eight pills of the 100 milligrams, we'll have it re-shipped, and again, that"
+      },
+      {
+        "id": 50,
+        "start": 160.75999450683594,
+        "end": 169.0399932861328,
+        "text": " address is 1477 Northwest 60th Avenue, Apartment 2 in Sunrise, Florida, 33313."
+      },
+      {
+        "id": 51,
+        "start": 169.0399932861328,
+        "end": 170.0399932861328,
+        "text": " Apartment 2, right?"
+      },
+      {
+        "id": 52,
+        "start": 170.0399932861328,
+        "end": 171.0399932861328,
+        "text": " Yes, ma'am."
+      },
+      {
+        "id": 53,
+        "start": 171.0399932861328,
+        "end": 172.0399932861328,
+        "text": " All right."
+      },
+      {
+        "id": 54,
+        "start": 172.0399932861328,
+        "end": 173.0399932861328,
+        "text": " We'll go ahead and have it re-shipped."
+      },
+      {
+        "id": 55,
+        "start": 173.0399932861328,
+        "end": 176.72000122070312,
+        "text": " I will put in the notes that you are going to put, you know, some kind of sign on your"
+      },
+      {
+        "id": 56,
+        "start": 176.72000122070312,
+        "end": 179.1999969482422,
+        "text": " door, and that's what you prefer that we do, okay?"
+      },
+      {
+        "id": 57,
+        "start": 179.1999969482422,
+        "end": 184.32000732421875,
+        "text": " If they lose it again, I'm just letting you know, we can't, you know, I will put that"
+      },
+      {
+        "id": 58,
+        "start": 184.32000732421875,
+        "end": 187.32000732421875,
+        "text": " in the notes, okay?"
+      },
+      {
+        "id": 59,
+        "start": 187.32000732421875,
+        "end": 188.32000732421875,
+        "text": " Okay."
+      },
+      {
+        "id": 60,
+        "start": 188.32000732421875,
+        "end": 189.32000732421875,
+        "text": " All right."
+      },
+      {
+        "id": 61,
+        "start": 189.32000732421875,
+        "end": 190.32000732421875,
+        "text": " Thanks a lot."
+      },
+      {
+        "id": 62,
+        "start": 190.32000732421875,
+        "end": 191.32000732421875,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 63,
+        "start": 191.32000732421875,
+        "end": 191.32000732421875,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8182-a4e9-e7d3e12c2e88",
+    "url": "https://www.notion.so/300000001241791-300000001731443-30611d0a101c8182a4e9e7d3e12c2e88"
+  },
+  "processedAt": "2026-02-13T18:03:45.519Z"
+}

@@ -1,0 +1,70 @@
+{
+  "recording": {
+    "name": "300000001242358-300000001731841-4239236634 by  @ 12_55_52 PM_CallStudio.wav",
+    "size": 44130,
+    "modifyTime": 1771016201000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242358-300000001731841-4239236634 by  @ 12_55_52 PM_CallStudio.wav",
+    "uploadDate": "2026-02-13T20:56:41.000Z",
+    "callId": "300000001242358-300000001731841",
+    "phoneNumber": "4239236634",
+    "callTimestamp": "2026-02-13T20:56:41.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242358-300000001731841_4239236634.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242358-300000001731841_4239236634.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: You didn't get my order.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 2013,
+    "audioDuration": 27.1200008392334,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 17.84000015258789,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 17.84000015258789,
+        "end": 18.84000015258789,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 18.84000015258789,
+        "end": 19.84000015258789,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 19.84000015258789,
+        "end": 25.84000015258789,
+        "text": " You didn't get my order."
+      },
+      {
+        "id": 4,
+        "start": 25.84000015258789,
+        "end": 26.84000015258789,
+        "text": " Thanks transferring to agent."
+      },
+      {
+        "id": 5,
+        "start": 26.84000015258789,
+        "end": 31.84000015258789,
+        "text": " Para participar de nuestros videos, escríbenoslo en Instagram, Facebook y Twitter."
+      },
+      {
+        "id": 6,
+        "start": 31.84000015258789,
+        "end": 33.84000015258789,
+        "text": " ¡Suscríbete al canal!"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-813c-9fa3-cf383792f01e",
+    "url": "https://www.notion.so/300000001242358-300000001731841-30611d0a101c813c9fa3cf383792f01e"
+  },
+  "processedAt": "2026-02-13T20:57:53.196Z"
+}

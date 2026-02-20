@@ -1,0 +1,326 @@
+{
+  "recording": {
+    "name": "300000001219483-300000001709494-9033357635 by summer@verifiednutrition.com @ 11_25_04 AM.wav",
+    "size": 437510,
+    "modifyTime": 1769589440000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219483-300000001709494-9033357635 by summer@verifiednutrition.com @ 11_25_04 AM.wav",
+    "uploadDate": "2026-01-28T08:37:20.000Z",
+    "callId": "300000001219483-300000001709494",
+    "agent": "summer",
+    "phoneNumber": "9033357635",
+    "callTimestamp": "2026-01-28T11:25:04.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you. Thank you for calling customer service. I can help you.\n\nSpeaker 2: Yes. How can I help you?\n\nSpeaker 1: Yes. I was calling about seeing if I could, what I needed to do to cancel this prescription because I wasn't prepared to pay it every month.\n\nSpeaker 2: Oh, no problem. Let me pull your account up so I can see what's going on. What's your name and birthday?\n\nSpeaker 1: Eric Berry, 2nd, 2066.\n\nSpeaker 2: 2nd, 2066. Oh, February. Okay. Thank you.\n\nSpeaker 1: Yeah, okay. So I'll just pause out your account so that you don't get any monthly prescriptions and you can try the medication out and then you can do whatever you'd like with the frequency with your account, okay?\n\nSpeaker 2: And it looks like you won't be getting any monthly.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I haven't received anything so far.\n\nSpeaker 2: I know. I see. So that's why I'm about to address that next.\n\nSpeaker 1: Uh-huh.\n\nSpeaker 2: Let me see what's going on with your account.\n\nSpeaker 1: The doctor says this is all of your medications you are taking so that I can check for the drug reactions for safety.\n\nSpeaker 2: I also strongly recommend following up with you regarding your uncontrolled blood pressure.\n\nSpeaker 1: Okay. The doctor wants to know what medications you're taking from your doctor. I need those.\n\nSpeaker 2: I've got the names of them?\n\nSpeaker 1: Yep.\n\nSpeaker 2: Okay. Let's see.\n\nSpeaker 1: I've got, oh, I'm about to spell it. A-M-L-O-D.\n\nSpeaker 2: Amilodipine?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay. Yeah, just spell it and if I recognize it, I'll know. If not, it'll pop up as I'm typing it.\n\nSpeaker 1: Okay. L-I-S-I-N-O.\n\nSpeaker 2: Is it real?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: What is this now? S-A-X-A-G-L-I-P-T-I-N.\n\nSpeaker 2: Taxagliptine. Got it. What else?\n\nSpeaker 1: C-I-O-G-L-I-T-A-Z-O.\n\nSpeaker 2: Oh, hold on, hold on. Sorry, sorry, sorry.\n\nSpeaker 1: Okay.\n\nSpeaker 2: C-I-O-G-L-I-T-A-Z-O-N-E?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay. Sorry. Keep going.\n\nSpeaker 1: And G-L-I-M-E-T-I-R-I-D-E?\n\nSpeaker 2: Glymphorite?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: What else?\n\nSpeaker 1: That's it.\n\nSpeaker 2: All righty. Sounds good. This is good. I got this to the doctor and the doctor's going to go ahead and write the prescription and it'll go out today or tomorrow, okay?\n\nSpeaker 1: All right. Thank you.\n\nSpeaker 2: You're welcome. You have a good day, okay?\n\nSpeaker 1: All right. You too.\n\nSpeaker 2: Bye-bye.",
+    "duration": 8539,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you. Thank you for calling customer service. I can help you."
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 10,
+        "text": " Thank you for calling customer service. I can help you."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 31,
+        "text": " This message has been transcribed. One moment while I notify the caller."
+      },
+      {
+        "id": 3,
+        "start": 31,
+        "end": 41,
+        "text": " Can I get your first name first of all?"
+      },
+      {
+        "id": 4,
+        "start": 41,
+        "end": 43,
+        "text": " Hello?"
+      },
+      {
+        "id": 5,
+        "start": 43,
+        "end": 45,
+        "text": " Yes. How can I help you?"
+      },
+      {
+        "id": 6,
+        "start": 45,
+        "end": 58,
+        "text": " Yes. I was calling about seeing if I could, what I needed to do to cancel this prescription because I wasn't prepared to pay it every month."
+      },
+      {
+        "id": 7,
+        "start": 58,
+        "end": 64,
+        "text": " Oh, no problem. Let me pull your account up so I can see what's going on. What's your name and birthday?"
+      },
+      {
+        "id": 8,
+        "start": 64,
+        "end": 70,
+        "text": " Eric Berry, 2nd, 2066."
+      },
+      {
+        "id": 9,
+        "start": 70,
+        "end": 77,
+        "text": " 2nd, 2066. Oh, February. Okay. Thank you."
+      },
+      {
+        "id": 10,
+        "start": 77,
+        "end": 88,
+        "text": " Yeah, okay. So I'll just pause out your account so that you don't get any monthly prescriptions and you can try the medication out and then you can do whatever you'd like with the frequency with your account, okay?"
+      },
+      {
+        "id": 11,
+        "start": 88,
+        "end": 95,
+        "text": " And it looks like you won't be getting any monthly."
+      },
+      {
+        "id": 12,
+        "start": 95,
+        "end": 98,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 98,
+        "end": 99,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 99,
+        "end": 101,
+        "text": " I haven't received anything so far."
+      },
+      {
+        "id": 15,
+        "start": 102,
+        "end": 108,
+        "text": " I know. I see. So that's why I'm about to address that next."
+      },
+      {
+        "id": 16,
+        "start": 108,
+        "end": 109,
+        "text": " Uh-huh."
+      },
+      {
+        "id": 17,
+        "start": 109,
+        "end": 112,
+        "text": " Let me see what's going on with your account."
+      },
+      {
+        "id": 18,
+        "start": 112,
+        "end": 119,
+        "text": " The doctor says this is all of your medications you are taking so that I can check for the drug reactions for safety."
+      },
+      {
+        "id": 19,
+        "start": 119,
+        "end": 123,
+        "text": " I also strongly recommend following up with you regarding your uncontrolled blood pressure."
+      },
+      {
+        "id": 20,
+        "start": 123,
+        "end": 130,
+        "text": " Okay. The doctor wants to know what medications you're taking from your doctor. I need those."
+      },
+      {
+        "id": 21,
+        "start": 130,
+        "end": 139,
+        "text": " I've got the names of them?"
+      },
+      {
+        "id": 22,
+        "start": 139,
+        "end": 142,
+        "text": " Yep."
+      },
+      {
+        "id": 23,
+        "start": 142,
+        "end": 147,
+        "text": " Okay. Let's see."
+      },
+      {
+        "id": 24,
+        "start": 147,
+        "end": 159,
+        "text": " I've got, oh, I'm about to spell it. A-M-L-O-D."
+      },
+      {
+        "id": 25,
+        "start": 159,
+        "end": 160,
+        "text": " Amilodipine?"
+      },
+      {
+        "id": 26,
+        "start": 160,
+        "end": 161,
+        "text": " Yes."
+      },
+      {
+        "id": 27,
+        "start": 161,
+        "end": 167,
+        "text": " Okay. Yeah, just spell it and if I recognize it, I'll know. If not, it'll pop up as I'm typing it."
+      },
+      {
+        "id": 28,
+        "start": 167,
+        "end": 174,
+        "text": " Okay. L-I-S-I-N-O."
+      },
+      {
+        "id": 29,
+        "start": 174,
+        "end": 175,
+        "text": " Is it real?"
+      },
+      {
+        "id": 30,
+        "start": 175,
+        "end": 176,
+        "text": " Yes."
+      },
+      {
+        "id": 31,
+        "start": 176,
+        "end": 183,
+        "text": " Okay."
+      },
+      {
+        "id": 32,
+        "start": 183,
+        "end": 195,
+        "text": " What is this now? S-A-X-A-G-L-I-P-T-I-N."
+      },
+      {
+        "id": 33,
+        "start": 195,
+        "end": 197,
+        "text": " Taxagliptine. Got it. What else?"
+      },
+      {
+        "id": 34,
+        "start": 198,
+        "end": 213,
+        "text": " C-I-O-G-L-I-T-A-Z-O."
+      },
+      {
+        "id": 35,
+        "start": 213,
+        "end": 215,
+        "text": " Oh, hold on, hold on. Sorry, sorry, sorry."
+      },
+      {
+        "id": 36,
+        "start": 215,
+        "end": 217,
+        "text": " Okay."
+      },
+      {
+        "id": 37,
+        "start": 217,
+        "end": 221,
+        "text": " C-I-O-G-L-I-T-A-Z-O-N-E?"
+      },
+      {
+        "id": 38,
+        "start": 221,
+        "end": 222,
+        "text": " Yes."
+      },
+      {
+        "id": 39,
+        "start": 222,
+        "end": 225,
+        "text": " Okay. Sorry. Keep going."
+      },
+      {
+        "id": 40,
+        "start": 226,
+        "end": 236,
+        "text": " And G-L-I-M-E-T-I-R-I-D-E?"
+      },
+      {
+        "id": 41,
+        "start": 236,
+        "end": 238,
+        "text": " Glymphorite?"
+      },
+      {
+        "id": 42,
+        "start": 238,
+        "end": 240,
+        "text": " Yeah."
+      },
+      {
+        "id": 43,
+        "start": 240,
+        "end": 242,
+        "text": " What else?"
+      },
+      {
+        "id": 44,
+        "start": 242,
+        "end": 244,
+        "text": " That's it."
+      },
+      {
+        "id": 45,
+        "start": 244,
+        "end": 253,
+        "text": " All righty. Sounds good. This is good. I got this to the doctor and the doctor's going to go ahead and write the prescription and it'll go out today or tomorrow, okay?"
+      },
+      {
+        "id": 46,
+        "start": 254,
+        "end": 255,
+        "text": " All right. Thank you."
+      },
+      {
+        "id": 47,
+        "start": 255,
+        "end": 257,
+        "text": " You're welcome. You have a good day, okay?"
+      },
+      {
+        "id": 48,
+        "start": 257,
+        "end": 258,
+        "text": " All right. You too."
+      },
+      {
+        "id": 49,
+        "start": 258,
+        "end": 259,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a0-93f9-d43b6511192b",
+    "url": "https://www.notion.so/300000001219483-300000001709494-2f611d0a101c81a093f9d43b6511192b"
+  },
+  "processedAt": "2026-01-28T12:39:53.198Z"
+}

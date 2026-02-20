@@ -1,0 +1,266 @@
+{
+  "recording": {
+    "name": "300000001219788-300000001709751-5625722742 by john@superbalife.com @ 12_58_04 PM.wav",
+    "size": 274296,
+    "modifyTime": 1769592158000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219788-300000001709751-5625722742 by john@superbalife.com @ 12_58_04 PM.wav",
+    "uploadDate": "2026-01-28T09:22:38.000Z",
+    "callId": "300000001219788-300000001709751",
+    "agent": "john",
+    "phoneNumber": "5625722742",
+    "callTimestamp": "2026-01-28T12:58:04.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Yeah, John. My name is Stanley Shaw. I put in an order and I have not got your product.\n\nSpeaker 1: Okay, what's your zip code, Stanley?\n\nSpeaker 2: 90631.\n\nSpeaker 1: Okay.\n\nSpeaker 2: 1031 Creek Lane.\n\nSpeaker 1: That is correct. I'm sorry for the delay, but there—you may not have seen it—but there was a message sent about this.\n\nSpeaker 2: We need to know the actual medications you take, so we need the names and then they can send it.\n\nSpeaker 1: That's all they're waiting on.\n\nSpeaker 2: What are you waiting on?\n\nSpeaker 1: The doctor and pharmacy need to know the names of the medications you take.\n\nSpeaker 2: I take very little medication.\n\nSpeaker 1: Okay, they still need to know what they are.\n\nSpeaker 2: You've already taken my money.\n\nSpeaker 1: Twice, yes. One, you opted to get more pills.\n\nSpeaker 2: That's why you were charged a second time, and then you're paying for the pills opens the doctor's visit.\n\nSpeaker 1: The doctor is okay with this pending seeing what medication you take, same with the pharmacy on sending it out.\n\nSpeaker 2: So if you're not going to share what medication you take, I can cancel it and refund you, but we have to have that medicine.\n\nSpeaker 1: All right, cancel refund.\n\nSpeaker 2: Okay, because you don't—\n\nSpeaker 1: I—\n\nSpeaker 2: Want everything we buy. One, everything we—why won't you just tell me the name of what you take?\n\nSpeaker 1: Sir—\n\nSpeaker 2: Because one, I'm doing this off my phone; my computer is down.\n\nSpeaker 1: And I don't mind doing this on my phone. If you want to do this over the phone, I'll go get my medications.\n\nSpeaker 2: Yes.\n\nSpeaker 1: That's all I'm asking you to do is tell me the medicines you take, and you're telling me to cancel you.\n\nSpeaker 2: Can tell me them and I will relay the information.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I—\n\nSpeaker 1: Take a generic Lipitor, okay. I take a generic—\n\nSpeaker 2: Cozart, and my last medication I take—\n\nSpeaker 1: Is—\n\nSpeaker 2: Also item for my sleep. Those are my medications.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So item is that we said?\n\nSpeaker 1: Yes, with a Z.\n\nSpeaker 2: Okay, I got that. Oh—\n\nSpeaker 1: Lipidm. I got it. So I'm telling both the pharmacy and doctor.\n\nSpeaker 2: I'm going to upgrade you to priority shipping because you've been waiting, so it will get to you faster now.\n\nSpeaker 1: But that's all we needed, sir.\n\nSpeaker 2: Thank you very much. Thank you. Bye. Bye.",
+    "duration": 4977,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 2.5,
+        "end": 8.420000076293945,
+        "text": " Yeah, John. My name is Stanley Shaw. I put in an order in and I have not got your product."
+      },
+      {
+        "id": 2,
+        "start": 9.359999656677246,
+        "end": 11.4399995803833,
+        "text": " Okay, what's your zip code Stanley?"
+      },
+      {
+        "id": 3,
+        "start": 12.279999732971191,
+        "end": 14.279999732971191,
+        "text": " 90631"
+      },
+      {
+        "id": 4,
+        "start": 17.8799991607666,
+        "end": 19.8799991607666,
+        "text": " Okay"
+      },
+      {
+        "id": 5,
+        "start": 20.100000381469727,
+        "end": 21.600000381469727,
+        "text": " 1031 Creek Lane"
+      },
+      {
+        "id": 6,
+        "start": 21.600000381469727,
+        "end": 27.559999465942383,
+        "text": " That is correct. I'm sorry for the delay, but there and you may not have seen it, but there was a message sent to about this"
+      },
+      {
+        "id": 7,
+        "start": 28.079999923706055,
+        "end": 33.599998474121094,
+        "text": " We need to know the actual medications you take so we need the names and then they can send it"
+      },
+      {
+        "id": 8,
+        "start": 33.599998474121094,
+        "end": 34.880001068115234,
+        "text": " That's all they're waiting on"
+      },
+      {
+        "id": 9,
+        "start": 34.880001068115234,
+        "end": 36.880001068115234,
+        "text": " What are you waiting on?"
+      },
+      {
+        "id": 10,
+        "start": 37.040000915527344,
+        "end": 40.560001373291016,
+        "text": " The doctor and pharmacy need to know the names of the medications you take"
+      },
+      {
+        "id": 11,
+        "start": 43.36000061035156,
+        "end": 48.36000061035156,
+        "text": " I take very little medication. Okay, they still need to know what they are"
+      },
+      {
+        "id": 12,
+        "start": 51.08000183105469,
+        "end": 53.08000183105469,
+        "text": " You've already taken my money"
+      },
+      {
+        "id": 13,
+        "start": 53.599998474121094,
+        "end": 58.2400016784668,
+        "text": " Twice yes one we you you you opted to get more pills"
+      },
+      {
+        "id": 14,
+        "start": 58.2400016784668,
+        "end": 62.279998779296875,
+        "text": " That's why you were charged a second time and then you paying for the pills opens the doctor's visit"
+      },
+      {
+        "id": 15,
+        "start": 62.279998779296875,
+        "end": 67.91999816894531,
+        "text": " The doctor is okay with this pending seeing what medication you take same with the pharmacy on sending it out"
+      },
+      {
+        "id": 16,
+        "start": 67.91999816894531,
+        "end": 72.23999786376953,
+        "text": " So if you're not going to share what medication you take I can cancel it and refund you but we have to have that medicine"
+      },
+      {
+        "id": 17,
+        "start": 72.23999786376953,
+        "end": 75.69999694824219,
+        "text": " All right, cancel refund. Okay, because you don't"
+      },
+      {
+        "id": 18,
+        "start": 76.76000213623047,
+        "end": 77.76000213623047,
+        "text": " I"
+      },
+      {
+        "id": 19,
+        "start": 77.76000213623047,
+        "end": 83,
+        "text": " Want everything we buy one everything we why won't you just tell me the name of what you take?"
+      },
+      {
+        "id": 20,
+        "start": 83,
+        "end": 85,
+        "text": " sir"
+      },
+      {
+        "id": 21,
+        "start": 85.27999877929688,
+        "end": 89.72000122070312,
+        "text": " Because one I'm doing this off my phone my computer is down"
+      },
+      {
+        "id": 22,
+        "start": 91.04000091552734,
+        "end": 96.83999633789062,
+        "text": " And I don't put it like doing this on my phone if you want to do this over the phone. I'll go get my medications"
+      },
+      {
+        "id": 23,
+        "start": 96.83999633789062,
+        "end": 97.5199966430664,
+        "text": " Yes"
+      },
+      {
+        "id": 24,
+        "start": 97.5199966430664,
+        "end": 102,
+        "text": " That's all I'm asking you to do is tell me the medicines you take and you're telling me you're telling me to cancel you"
+      },
+      {
+        "id": 25,
+        "start": 102,
+        "end": 104,
+        "text": " Can tell me them and I will relay the information"
+      },
+      {
+        "id": 26,
+        "start": 109.63999938964844,
+        "end": 111.63999938964844,
+        "text": " Okay"
+      },
+      {
+        "id": 27,
+        "start": 113,
+        "end": 115,
+        "text": " I"
+      },
+      {
+        "id": 28,
+        "start": 116.08000183105469,
+        "end": 123.80000305175781,
+        "text": " Take a generic Lipitor, okay. I take a generic"
+      },
+      {
+        "id": 29,
+        "start": 131.16000366210938,
+        "end": 136.27999877929688,
+        "text": " Cozart and my last medication I take"
+      },
+      {
+        "id": 30,
+        "start": 137.24000549316406,
+        "end": 139.24000549316406,
+        "text": " Is"
+      },
+      {
+        "id": 31,
+        "start": 140.55999755859375,
+        "end": 144.60000610351562,
+        "text": " Also item for my sleep, those are my medication"
+      },
+      {
+        "id": 32,
+        "start": 145.47999572753906,
+        "end": 147.44000244140625,
+        "text": " Okay"
+      },
+      {
+        "id": 33,
+        "start": 147.44000244140625,
+        "end": 149.44000244140625,
+        "text": " So item is that we said?"
+      },
+      {
+        "id": 34,
+        "start": 149.47999572753906,
+        "end": 151.47999572753906,
+        "text": " Yes with a Z"
+      },
+      {
+        "id": 35,
+        "start": 153.1999969482422,
+        "end": 155.1999969482422,
+        "text": " Okay, I got that Oh"
+      },
+      {
+        "id": 36,
+        "start": 156.1999969482422,
+        "end": 160.16000366210938,
+        "text": " Lpidm I got it. So I'm telling both the pharmacy and doctor"
+      },
+      {
+        "id": 37,
+        "start": 160.16000366210938,
+        "end": 164.44000244140625,
+        "text": " I'm going to upgrade you to priority shipping because you've been waiting so it will get to you faster now"
+      },
+      {
+        "id": 38,
+        "start": 164.44000244140625,
+        "end": 166.0399932861328,
+        "text": " But that's all we needed sir"
+      },
+      {
+        "id": 39,
+        "start": 166.0399932861328,
+        "end": 168.27999877929688,
+        "text": " Thank you very much. Thank you. Bye. Bye"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8181-88ec-c4e4a27da73f",
+    "url": "https://www.notion.so/300000001219788-300000001709751-2f611d0a101c818188ecc4e4a27da73f"
+  },
+  "processedAt": "2026-01-28T10:37:19.979Z"
+}

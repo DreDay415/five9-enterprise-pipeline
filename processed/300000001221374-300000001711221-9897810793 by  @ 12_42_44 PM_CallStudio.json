@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001221374-300000001711221-9897810793 by  @ 12_42_44 PM_CallStudio.wav",
+    "size": 32886,
+    "modifyTime": 1769633008000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221374-300000001711221-9897810793 by  @ 12_42_44 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T20:43:28.000Z",
+    "callId": "300000001221374-300000001711221",
+    "phoneNumber": "9897810793",
+    "callTimestamp": "2026-01-28T20:43:28.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Para español marquen número nueve.\n\nSpeaker 1: Place an order.\n\nSpeaker 2: I heard you say, place an order.\n\nSpeaker 1: Say yes or press 1 if this is correct.\n\nSpeaker 2: Otherwise, thanks transferring to agent.",
+    "duration": 1617,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 8,
+        "text": " Para español marquen numero nueve."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " Place an order."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 14,
+        "text": " I heard you say, place an order."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 17,
+        "text": " Say yes or press 1 if this is correct."
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 20,
+        "text": " Otherwise, thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8123-a3d5-f341a840f1fd",
+    "url": "https://www.notion.so/300000001221374-300000001711221-2f611d0a101c8123a3d5f341a840f1fd"
+  },
+  "processedAt": "2026-01-28T22:54:46.360Z"
+}

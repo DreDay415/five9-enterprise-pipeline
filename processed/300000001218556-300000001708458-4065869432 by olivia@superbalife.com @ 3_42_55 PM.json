@@ -1,0 +1,290 @@
+{
+  "recording": {
+    "name": "300000001218556-300000001708458-4065869432 by olivia@superbalife.com @ 3_42_55 PM.wav",
+    "size": 222880,
+    "modifyTime": 1769592741000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218556-300000001708458-4065869432 by olivia@superbalife.com @ 3_42_55 PM.wav",
+    "uploadDate": "2026-01-28T09:32:21.000Z",
+    "callId": "300000001218556-300000001708458",
+    "agent": "olivia",
+    "phoneNumber": "4065869432",
+    "callTimestamp": "2026-01-28T15:42:55.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Oh, hello.\n\nSpeaker 2: Hey, Terry.\n\nSpeaker 1: Olivia.\n\nSpeaker 2: So I might have some good news.\n\nSpeaker 1: So,\n\nSpeaker 2: FedEx wanted your account number and we didn't have it,\n\nSpeaker 1: so FedEx sent a link to your email\n\nSpeaker 2: and you can select a local FedEx location\n\nSpeaker 1: where your order can be delivered or picked up,\n\nSpeaker 2: like a local Walgreens with a FedEx inside\n\nSpeaker 1: or whatever the options are.\n\nSpeaker 2: I didn't get it.\n\nSpeaker 1: I'm on my email right now and I didn't get it.\n\nSpeaker 2: What email did you give them?\n\nSpeaker 1: It would be whatever email you have signed up with them.\n\nSpeaker 2: Well, FedEx.\n\nSpeaker 1: I don't have an account with FedEx.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Um, maybe they have some,\n\nSpeaker 2: they probably have some sort of rule then\n\nSpeaker 1: where if you don't have an account with them,\n\nSpeaker 2: then they, maybe they can't offer that.\n\nSpeaker 1: Yeah, I don't have an account with FedEx.\n\nSpeaker 2: So, and then the reason why I asked about my email\n\nSpeaker 1: because that changed over the last year\n\nSpeaker 2: and I made sure,\n\nSpeaker 1: and I've gotten like the last one I got from you,\n\nSpeaker 2: your score blue order is shipped.\n\nSpeaker 1: I'm trying to see the date on that.\n\nSpeaker 2: I think it was the,\n\nSpeaker 1: it shipped, it was 23rd supposedly,\n\nSpeaker 2: so I don't have an account with FedEx.\n\nSpeaker 1: Okay, so the email we have for you\n\nSpeaker 2: is tlcovin1952 at Gmail.\n\nSpeaker 1: That is correct.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Have they located it?\n\nSpeaker 2: I will go to, I'll go tonight if they're open.\n\nSpeaker 1: Have they located it?\n\nSpeaker 2: Well, yeah, they have it.\n\nSpeaker 1: They said they sent a link to your email.\n\nSpeaker 2: I will ask my, the person who contacted them now\n\nSpeaker 1: about that.\n\nSpeaker 2: Give me a moment.",
+    "duration": 3754,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 0.8399999737739563,
+        "text": " Oh, hello."
+      },
+      {
+        "id": 1,
+        "start": 2.0199999809265137,
+        "end": 2.940000057220459,
+        "text": " Hey, Terry."
+      },
+      {
+        "id": 2,
+        "start": 4.559999942779541,
+        "end": 5.400000095367432,
+        "text": " Olivia."
+      },
+      {
+        "id": 3,
+        "start": 5.400000095367432,
+        "end": 8.0600004196167,
+        "text": " So I might have some good news."
+      },
+      {
+        "id": 4,
+        "start": 10.399999618530273,
+        "end": 11.220000267028809,
+        "text": " So,"
+      },
+      {
+        "id": 5,
+        "start": 13.039999961853027,
+        "end": 17.68000030517578,
+        "text": " FedEx wanted your account number and we didn't have it,"
+      },
+      {
+        "id": 6,
+        "start": 17.68000030517578,
+        "end": 20.520000457763672,
+        "text": " so FedEx sent a link to your email"
+      },
+      {
+        "id": 7,
+        "start": 21.799999237060547,
+        "end": 25.219999313354492,
+        "text": " and you can select a local FedEx location"
+      },
+      {
+        "id": 8,
+        "start": 26.600000381469727,
+        "end": 29.479999542236328,
+        "text": " where your order can be delivered or picked up,"
+      },
+      {
+        "id": 9,
+        "start": 29.979999542236328,
+        "end": 33.599998474121094,
+        "text": " like a local Walgreens with a FedEx inside"
+      },
+      {
+        "id": 10,
+        "start": 33.599998474121094,
+        "end": 36.86000061035156,
+        "text": " or whatever the options are."
+      },
+      {
+        "id": 11,
+        "start": 38.15999984741211,
+        "end": 39.040000915527344,
+        "text": " I didn't get it."
+      },
+      {
+        "id": 12,
+        "start": 39.040000915527344,
+        "end": 41.560001373291016,
+        "text": " I'm on my email right now and I didn't get it."
+      },
+      {
+        "id": 13,
+        "start": 41.560001373291016,
+        "end": 43.20000076293945,
+        "text": " What email did you give them?"
+      },
+      {
+        "id": 14,
+        "start": 45.52000045776367,
+        "end": 50.52000045776367,
+        "text": " It would be whatever email you have signed up with them."
+      },
+      {
+        "id": 15,
+        "start": 50.79999923706055,
+        "end": 52.959999084472656,
+        "text": " Well, FedEx."
+      },
+      {
+        "id": 16,
+        "start": 52.959999084472656,
+        "end": 55.63999938964844,
+        "text": " I don't have an account with FedEx."
+      },
+      {
+        "id": 17,
+        "start": 58,
+        "end": 58.900001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 18,
+        "start": 59.47999954223633,
+        "end": 64.4800033569336,
+        "text": " Um, maybe they have some,"
+      },
+      {
+        "id": 19,
+        "start": 65.31999969482422,
+        "end": 68.72000122070312,
+        "text": " they probably have some sort of rule then"
+      },
+      {
+        "id": 20,
+        "start": 68.72000122070312,
+        "end": 71.83999633789062,
+        "text": " where if you don't have an account with them,"
+      },
+      {
+        "id": 21,
+        "start": 71.83999633789062,
+        "end": 75.80000305175781,
+        "text": " then they, maybe they can't offer that."
+      },
+      {
+        "id": 22,
+        "start": 75.80000305175781,
+        "end": 79.5,
+        "text": " Yeah, I don't have an account with FedEx."
+      },
+      {
+        "id": 23,
+        "start": 80.68000030517578,
+        "end": 83.76000213623047,
+        "text": " So, and then the reason why I asked about my email"
+      },
+      {
+        "id": 24,
+        "start": 83.76000213623047,
+        "end": 86.08000183105469,
+        "text": " because that changed over the last year"
+      },
+      {
+        "id": 25,
+        "start": 86.08000183105469,
+        "end": 87.5999984741211,
+        "text": " and I made sure,"
+      },
+      {
+        "id": 26,
+        "start": 87.5999984741211,
+        "end": 91.19999694824219,
+        "text": " and I've gotten like the last one I got from you,"
+      },
+      {
+        "id": 27,
+        "start": 91.19999694824219,
+        "end": 94,
+        "text": " your score blue order is shipped."
+      },
+      {
+        "id": 28,
+        "start": 94,
+        "end": 95.5199966430664,
+        "text": " I'm trying to see the date on that."
+      },
+      {
+        "id": 29,
+        "start": 95.5199966430664,
+        "end": 96.62000274658203,
+        "text": " I think it was the,"
+      },
+      {
+        "id": 30,
+        "start": 98.36000061035156,
+        "end": 100.76000213623047,
+        "text": " it shipped, it was 23rd supposedly,"
+      },
+      {
+        "id": 31,
+        "start": 100.76000213623047,
+        "end": 104.12000274658203,
+        "text": " so I don't have an account with FedEx."
+      },
+      {
+        "id": 32,
+        "start": 104.12000274658203,
+        "end": 106.80000305175781,
+        "text": " Okay, so the email we have for you"
+      },
+      {
+        "id": 33,
+        "start": 106.80000305175781,
+        "end": 111.80000305175781,
+        "text": " is tlcovin1952 at Gmail."
+      },
+      {
+        "id": 34,
+        "start": 111.80000305175781,
+        "end": 112.63999938964844,
+        "text": " That is correct."
+      },
+      {
+        "id": 35,
+        "start": 113.76000213623047,
+        "end": 114.5999984741211,
+        "text": " Okay."
+      },
+      {
+        "id": 36,
+        "start": 114.5999984741211,
+        "end": 115.5999984741211,
+        "text": " Have they located it?"
+      },
+      {
+        "id": 37,
+        "start": 115.5999984741211,
+        "end": 119.08000183105469,
+        "text": " I will go to, I'll go tonight if they're open."
+      },
+      {
+        "id": 38,
+        "start": 119.08000183105469,
+        "end": 120.31999969482422,
+        "text": " Have they located it?"
+      },
+      {
+        "id": 39,
+        "start": 121.5199966430664,
+        "end": 124.12000274658203,
+        "text": " Well, yeah, they have it."
+      },
+      {
+        "id": 40,
+        "start": 124.12000274658203,
+        "end": 128.0800018310547,
+        "text": " They said they sent a link to your email."
+      },
+      {
+        "id": 41,
+        "start": 128.0800018310547,
+        "end": 133.0800018310547,
+        "text": " I will ask my, the person who contacted them now"
+      },
+      {
+        "id": 42,
+        "start": 135,
+        "end": 136.0399932861328,
+        "text": " about that."
+      },
+      {
+        "id": 43,
+        "start": 136.0399932861328,
+        "end": 137.27999877929688,
+        "text": " Give me a moment."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-817f-ac69-d950568b7a3b",
+    "url": "https://www.notion.so/300000001218556-300000001708458-2f611d0a101c817fac69d950568b7a3b"
+  },
+  "processedAt": "2026-01-28T10:11:40.135Z"
+}

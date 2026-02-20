@@ -1,0 +1,404 @@
+{
+  "recording": {
+    "name": "300000001221320-300000001711172-8887955826 by olivia@superbalife.com @ 12_23_40 PM.wav",
+    "size": 348070,
+    "modifyTime": 1769632039000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221320-300000001711172-8887955826 by olivia@superbalife.com @ 12_23_40 PM.wav",
+    "uploadDate": "2026-01-28T20:27:19.000Z",
+    "callId": "300000001221320-300000001711172",
+    "agent": "olivia",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T12:23:40.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viacra, this is Olivia speaking.\n\nSpeaker 2: Who do I have the pleasure of speaking with today?\n\nSpeaker 1: Robert Lovanos.\n\nSpeaker 2: Hi, Robert, how are you?\n\nSpeaker 1: Good.\n\nSpeaker 2: Good.\n\nSpeaker 1: I was calling about my prescription.\n\nSpeaker 2: Oh, I'm sorry.\n\nSpeaker 1: Go ahead.\n\nSpeaker 2: Yeah, how can I help you today?\n\nSpeaker 1: I haven't paid for it yet, but they told me to call Monday.\n\nSpeaker 2: I was supposed to change it from 50 to 100 milligrams.\n\nSpeaker 1: Okay.\n\nSpeaker 2: What is the phone number associated with your prescription?\n\nSpeaker 1: 3266.\n\nSpeaker 2: Sorry, I can't hear you super well.\n\nSpeaker 1: Can you repeat it one more time?\n\nSpeaker 2: 684-3266.\n\nSpeaker 1: And what's the area code?\n\nSpeaker 2: 702.\n\nSpeaker 1: Okay, 702-684-3266.\n\nSpeaker 2: There you are.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Oh, yeah, yeah, you can definitely upgrade.\n\nSpeaker 2: I was concerned because I thought you'd already placed the order,\n\nSpeaker 1: but you didn't upgrade to 100 milligrams, so I was concerned.\n\nSpeaker 2: But, yeah, you can definitely still do that.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So you just want to move up to 100 milligrams?\n\nSpeaker 1: Yeah, that's what it was supposed to be in the beginning.\n\nSpeaker 2: Okay, yeah, we can do that, and I'll just get that up.\n\nSpeaker 1: And then just what time do you guys run the billing?\n\nSpeaker 2: So that's a good question.\n\nSpeaker 1: If you do want to upgrade, you need to call when you're ready to pay in the moment.\n\nSpeaker 2: Just because for us to do that upgrade, like I'd have to do it right now,\n\nSpeaker 1: and then we'd charge you right now, and then the pills would get out to you,\n\nSpeaker 2: usually pretty quick, like, you know, five business days, four business days.\n\nSpeaker 1: So do you want – are you ready to order right now,\n\nSpeaker 2: or do you want to just call me back when you're ready?\n\nSpeaker 1: Yeah, not until, like, after 7 Pacific time?\n\nSpeaker 2: So Pacific time we leave it FAS, but you can call tomorrow morning first thing.\n\nSpeaker 1: Okay, yeah, that's fine.\n\nSpeaker 2: Yeah, we open at 8, and we're here at 05 Pacific.\n\nSpeaker 1: And, yeah, just let whoever you know, whoever you speak with know,\n\nSpeaker 2: hey, I want to place an order.\n\nSpeaker 1: I want to upgrade to 100 milligrams, and I'm ready to order it.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yeah, because we try to bill – we try to do it before the – when you might help.\n\nSpeaker 1: Yeah, that's fine.\n\nSpeaker 2: All right, well, thanks, Robert.\n\nSpeaker 1: Okay, so you open at 5 a.m. tomorrow?\n\nSpeaker 2: Yeah, you can just call whenever you are ready, tomorrow or after, yeah.\n\nSpeaker 1: Like I said, my check doesn't go in until after 7 tonight.\n\nSpeaker 2: Yeah, that's fine.\n\nSpeaker 1: Okay, I'll do it first thing in the morning.\n\nSpeaker 2: Okay, thanks, Robert.\n\nSpeaker 1: I hope you have a great day.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Okay, bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 8806,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you for calling Viacra, this is Olivia speaking."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 8,
+        "text": " Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 10,
+        "text": " Robert Lovanos."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 13,
+        "text": " Hi, Robert, how are you?"
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 15,
+        "text": " Good."
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 16,
+        "text": " Good."
+      },
+      {
+        "id": 6,
+        "start": 16,
+        "end": 18,
+        "text": " I was calling about my prescription."
+      },
+      {
+        "id": 7,
+        "start": 18,
+        "end": 19,
+        "text": " Oh, I'm sorry."
+      },
+      {
+        "id": 8,
+        "start": 19,
+        "end": 20,
+        "text": " Go ahead."
+      },
+      {
+        "id": 9,
+        "start": 20,
+        "end": 22,
+        "text": " Yeah, how can I help you today?"
+      },
+      {
+        "id": 10,
+        "start": 22,
+        "end": 28,
+        "text": " I haven't paid for it yet, but they told me to call Monday."
+      },
+      {
+        "id": 11,
+        "start": 29,
+        "end": 34,
+        "text": " I was supposed to change it from 50 to 100 milligrams."
+      },
+      {
+        "id": 12,
+        "start": 34,
+        "end": 37,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 37,
+        "end": 42,
+        "text": " What is the phone number associated with your prescription?"
+      },
+      {
+        "id": 14,
+        "start": 42,
+        "end": 46,
+        "text": " 3266."
+      },
+      {
+        "id": 15,
+        "start": 46,
+        "end": 48,
+        "text": " Sorry, I can't hear you super well."
+      },
+      {
+        "id": 16,
+        "start": 48,
+        "end": 52,
+        "text": " Can you repeat it one more time?"
+      },
+      {
+        "id": 17,
+        "start": 53,
+        "end": 59,
+        "text": " 684-3266."
+      },
+      {
+        "id": 18,
+        "start": 59,
+        "end": 62,
+        "text": " And what's the area code?"
+      },
+      {
+        "id": 19,
+        "start": 62,
+        "end": 64,
+        "text": " 702."
+      },
+      {
+        "id": 20,
+        "start": 64,
+        "end": 70,
+        "text": " Okay, 702-684-3266."
+      },
+      {
+        "id": 21,
+        "start": 70,
+        "end": 72,
+        "text": " There you are."
+      },
+      {
+        "id": 22,
+        "start": 72,
+        "end": 73,
+        "text": " Yes."
+      },
+      {
+        "id": 23,
+        "start": 73,
+        "end": 74,
+        "text": " Okay."
+      },
+      {
+        "id": 24,
+        "start": 74,
+        "end": 78,
+        "text": " Oh, yeah, yeah, you can definitely upgrade."
+      },
+      {
+        "id": 25,
+        "start": 78,
+        "end": 80,
+        "text": " I was concerned because I thought you'd already placed the order,"
+      },
+      {
+        "id": 26,
+        "start": 80,
+        "end": 84,
+        "text": " but you didn't upgrade to 100 milligrams, so I was concerned."
+      },
+      {
+        "id": 27,
+        "start": 84,
+        "end": 87,
+        "text": " But, yeah, you can definitely still do that."
+      },
+      {
+        "id": 28,
+        "start": 87,
+        "end": 90,
+        "text": " Okay."
+      },
+      {
+        "id": 29,
+        "start": 90,
+        "end": 93,
+        "text": " So you just want to move up to 100 milligrams?"
+      },
+      {
+        "id": 30,
+        "start": 93,
+        "end": 96,
+        "text": " Yeah, that's what it was supposed to be in the beginning."
+      },
+      {
+        "id": 31,
+        "start": 96,
+        "end": 104,
+        "text": " Okay, yeah, we can do that, and I'll just get that up."
+      },
+      {
+        "id": 32,
+        "start": 105,
+        "end": 109,
+        "text": " And then just what time do you guys run the billing?"
+      },
+      {
+        "id": 33,
+        "start": 109,
+        "end": 114,
+        "text": " So that's a good question."
+      },
+      {
+        "id": 34,
+        "start": 114,
+        "end": 123,
+        "text": " If you do want to upgrade, you need to call when you're ready to pay in the moment."
+      },
+      {
+        "id": 35,
+        "start": 123,
+        "end": 127,
+        "text": " Just because for us to do that upgrade, like I'd have to do it right now,"
+      },
+      {
+        "id": 36,
+        "start": 127,
+        "end": 130,
+        "text": " and then we'd charge you right now, and then the pills would get out to you,"
+      },
+      {
+        "id": 37,
+        "start": 131,
+        "end": 136,
+        "text": " usually pretty quick, like, you know, five business days, four business days."
+      },
+      {
+        "id": 38,
+        "start": 136,
+        "end": 139,
+        "text": " So do you want – are you ready to order right now,"
+      },
+      {
+        "id": 39,
+        "start": 139,
+        "end": 142,
+        "text": " or do you want to just call me back when you're ready?"
+      },
+      {
+        "id": 40,
+        "start": 142,
+        "end": 147,
+        "text": " Yeah, not until, like, after 7 Pacific time?"
+      },
+      {
+        "id": 41,
+        "start": 147,
+        "end": 154,
+        "text": " So Pacific time we leave it FAS, but you can call tomorrow morning first thing."
+      },
+      {
+        "id": 42,
+        "start": 154,
+        "end": 156,
+        "text": " Okay, yeah, that's fine."
+      },
+      {
+        "id": 43,
+        "start": 156,
+        "end": 161,
+        "text": " Yeah, we open at 8, and we're here at 05 Pacific."
+      },
+      {
+        "id": 44,
+        "start": 161,
+        "end": 165,
+        "text": " And, yeah, just let whoever you know, whoever you speak with know,"
+      },
+      {
+        "id": 45,
+        "start": 165,
+        "end": 167,
+        "text": " hey, I want to place an order."
+      },
+      {
+        "id": 46,
+        "start": 167,
+        "end": 171,
+        "text": " I want to upgrade to 100 milligrams, and I'm ready to order it."
+      },
+      {
+        "id": 47,
+        "start": 171,
+        "end": 172,
+        "text": " Okay."
+      },
+      {
+        "id": 48,
+        "start": 172,
+        "end": 173,
+        "text": " Okay."
+      },
+      {
+        "id": 49,
+        "start": 173,
+        "end": 179,
+        "text": " Yeah, because we try to bill – we try to do it before the – when you might help."
+      },
+      {
+        "id": 50,
+        "start": 179,
+        "end": 181,
+        "text": " Yeah, that's fine."
+      },
+      {
+        "id": 51,
+        "start": 181,
+        "end": 185,
+        "text": " All right, well, thanks, Robert."
+      },
+      {
+        "id": 52,
+        "start": 185,
+        "end": 189,
+        "text": " Okay, so you open at 5 a.m. tomorrow?"
+      },
+      {
+        "id": 53,
+        "start": 189,
+        "end": 197,
+        "text": " Yeah, you can just call whenever you are ready, tomorrow or after, yeah."
+      },
+      {
+        "id": 54,
+        "start": 197,
+        "end": 201,
+        "text": " Like I said, my check doesn't go in until after 7 tonight."
+      },
+      {
+        "id": 55,
+        "start": 201,
+        "end": 204,
+        "text": " Yeah, that's fine."
+      },
+      {
+        "id": 56,
+        "start": 204,
+        "end": 207,
+        "text": " Okay, I'll do it first thing in the morning."
+      },
+      {
+        "id": 57,
+        "start": 207,
+        "end": 208,
+        "text": " Okay, thanks, Robert."
+      },
+      {
+        "id": 58,
+        "start": 208,
+        "end": 209,
+        "text": " I hope you have a great day."
+      },
+      {
+        "id": 59,
+        "start": 209,
+        "end": 210,
+        "text": " All right."
+      },
+      {
+        "id": 60,
+        "start": 210,
+        "end": 211,
+        "text": " Thank you."
+      },
+      {
+        "id": 61,
+        "start": 211,
+        "end": 213,
+        "text": " Okay, bye."
+      },
+      {
+        "id": 62,
+        "start": 213,
+        "end": 214,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81b8-a978-d5e0ab44a85d",
+    "url": "https://www.notion.so/300000001221320-300000001711172-2f611d0a101c81b8a978d5e0ab44a85d"
+  },
+  "processedAt": "2026-01-28T23:03:42.000Z"
+}

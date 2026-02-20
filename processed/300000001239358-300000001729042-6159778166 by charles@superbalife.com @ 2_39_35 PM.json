@@ -1,0 +1,92 @@
+{
+  "recording": {
+    "name": "300000001239358-300000001729042-6159778166 by charles@superbalife.com @ 2_39_35 PM.wav",
+    "size": 61616,
+    "modifyTime": 1770849634000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239358-300000001729042-6159778166 by charles@superbalife.com @ 2_39_35 PM.wav",
+    "uploadDate": "2026-02-11T22:40:34.000Z",
+    "callId": "300000001239358-300000001729042",
+    "agent": "charles",
+    "phoneNumber": "6159778166",
+    "callTimestamp": "2026-02-11T14:39:35.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hello? Hello?\n\nSpeaker 2: Thanks for calling Viagra. This is Charles.\n\nSpeaker 1: Hi. Yeah. I just noticed my account is being negative because you're trying to send another prescription through, I guess.\n\nSpeaker 2: I need to cancel it. Nobody told me this was like auto shipment stuff.\n\nSpeaker 1: Gotcha. Robert Jones, Nashville, Tennessee?\n\nSpeaker 2: Yep. Yep.\n\nSpeaker 1: Okay. Just reverse that and cancel that right now for me, okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: Reverse that, please. Yeah. And just make sure they don't send me any more because they didn't work for me.\n\nSpeaker 2: Gotcha. All right. Hope you have a great one.\n\nSpeaker 1: All right. Thanks.",
+    "duration": 2766,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Hello? Hello?"
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 9,
+        "text": " Thanks for calling Viagra. This is Charles."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 18,
+        "text": " Hi. Yeah. I just noticed my account is being negative because you're trying to send another prescription through, I guess."
+      },
+      {
+        "id": 3,
+        "start": 18,
+        "end": 22,
+        "text": " I need to cancel it. Nobody told me this was like auto shipment stuff."
+      },
+      {
+        "id": 4,
+        "start": 22,
+        "end": 24,
+        "text": " Gotcha. Robert Jones, Nashville, Tennessee?"
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 25,
+        "text": " Yep. Yep."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 28,
+        "text": " Okay. Just reverse that and cancel that right now for me, okay?"
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 29,
+        "text": " Okay."
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 33,
+        "text": " Reverse that, please. Yeah. And just make sure they don't send me any more because they didn't work for me."
+      },
+      {
+        "id": 9,
+        "start": 33,
+        "end": 35,
+        "text": " Gotcha. All right. Hope you have a great one."
+      },
+      {
+        "id": 10,
+        "start": 35,
+        "end": 37,
+        "text": " All right. Thanks."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-810d-8219-cc078aaaf8cc",
+    "url": "https://www.notion.so/300000001239358-300000001729042-30411d0a101c810d8219cc078aaaf8cc"
+  },
+  "processedAt": "2026-02-11T23:08:27.438Z"
+}

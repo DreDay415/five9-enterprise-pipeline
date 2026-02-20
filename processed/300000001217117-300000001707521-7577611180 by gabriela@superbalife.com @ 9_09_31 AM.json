@@ -1,0 +1,470 @@
+{
+  "recording": {
+    "name": "300000001217117-300000001707521-7577611180 by gabriela@superbalife.com @ 9_09_31 AM.wav",
+    "size": 341960,
+    "modifyTime": 1769582231000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217117-300000001707521-7577611180 by gabriela@superbalife.com @ 9_09_31 AM.wav",
+    "uploadDate": "2026-01-28T06:37:11.000Z",
+    "callId": "300000001217117-300000001707521",
+    "agent": "gabriela",
+    "phoneNumber": "7577611180",
+    "callTimestamp": "2026-01-28T09:09:31.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi.\n\nSpeaker 2: Thank you for calling Niagara.\n\nSpeaker 1: How can I assist you?\n\nSpeaker 2: How are you today?\n\nSpeaker 1: Good, and yourself?\n\nSpeaker 2: OK.\n\nSpeaker 1: I placed an order yesterday.\n\nSpeaker 2: And when I received my final total for everything,\n\nSpeaker 1: that was fine.\n\nSpeaker 2: But there was also a notation for an automatic refill.\n\nSpeaker 1: I do not want an automatic refill.\n\nSpeaker 2: OK.\n\nSpeaker 1: Yeah, so we give you, this is a prescription.\n\nSpeaker 2: So we give you a whole month for you to be able to try it\n\nSpeaker 1: and see how you like it.\n\nSpeaker 2: And you're always able to modify also your monthly interval\n\nSpeaker 1: to your preference.\n\nSpeaker 2: So usually a quantity of 10 is good for a month.\n\nSpeaker 1: However, you can always go ahead and adjust it\n\nSpeaker 2: to every two months or every three months.\n\nSpeaker 1: But we do give you a whole month in the beginning\n\nSpeaker 2: for you to be able to try it and see how you want to move forward,\n\nSpeaker 1: whether you end up keeping it.\n\nSpeaker 2: OK, I'm going to tell you right now, I do not\n\nSpeaker 1: want an automatic refill.\n\nSpeaker 2: If I decide to buy more, I will order more.\n\nSpeaker 1: OK, so like I said, we do give you a whole month for you\n\nSpeaker 2: to try it.\n\nSpeaker 1: So I want you to cancel the automatic refill right now.\n\nSpeaker 2: So that would be canceling the order\n\nSpeaker 1: and you wouldn't receive anything.\n\nSpeaker 2: Because it's a prescription.\n\nSpeaker 1: Why is that?\n\nSpeaker 2: We pay for that prescription, not the customer.\n\nSpeaker 1: This is a prescription of over $300 that we paid for.\n\nSpeaker 2: This is a prescription that gets approved by a doctor,\n\nSpeaker 1: a certified physician.\n\nSpeaker 2: So when do I cancel?\n\nSpeaker 1: That's what I said.\n\nSpeaker 2: Once you receive it, once you receive your order,\n\nSpeaker 1: you have a whole month to try it and see\n\nSpeaker 2: whether you want to continue keeping it, ordering it,\n\nSpeaker 1: or whether you want to cancel the prescription, which\n\nSpeaker 2: for most of the part, our customers\n\nSpeaker 1: love to keep the prescription because they\n\nSpeaker 2: love how the pill works.\n\nSpeaker 1: So what is my status right now?\n\nSpeaker 2: So right now, you are a customer of ours.\n\nSpeaker 1: You placed this order.\n\nSpeaker 2: So like I said, you have a whole month to try it.\n\nSpeaker 1: And if you want to make any changes,\n\nSpeaker 2: you just have to give us a call before February 25th.\n\nSpeaker 1: Before when?\n\nSpeaker 2: February 25th.\n\nSpeaker 1: Yes, you got it.\n\nSpeaker 2: OK, thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Give me a minute.\n\nSpeaker 2: February 25th, you said?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: You call this number?\n\nSpeaker 1: Mm-hmm.\n\nSpeaker 2: Call this number.\n\nSpeaker 1: And at that point in time, I can cancel?\n\nSpeaker 2: Yeah, you can cancel or you can decide\n\nSpeaker 1: to keep your prescription as is.\n\nSpeaker 2: Or you can adjust the monthly interval to your preference.\n\nSpeaker 1: OK, thank you.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Have a good day.\n\nSpeaker 2: Bye.",
+    "duration": 6562,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 0.5,
+        "text": " Hi."
+      },
+      {
+        "id": 1,
+        "start": 0.5,
+        "end": 2.0799999237060547,
+        "text": " Thank you for calling Niagara."
+      },
+      {
+        "id": 2,
+        "start": 2.0799999237060547,
+        "end": 4.159999847412109,
+        "text": " How can I assist you?"
+      },
+      {
+        "id": 3,
+        "start": 4.159999847412109,
+        "end": 5.639999866485596,
+        "text": " How are you today?"
+      },
+      {
+        "id": 4,
+        "start": 5.639999866485596,
+        "end": 7.360000133514404,
+        "text": " Good, and yourself?"
+      },
+      {
+        "id": 5,
+        "start": 7.360000133514404,
+        "end": 9.319999694824219,
+        "text": " OK."
+      },
+      {
+        "id": 6,
+        "start": 9.319999694824219,
+        "end": 12.479999542236328,
+        "text": " I placed an order yesterday."
+      },
+      {
+        "id": 7,
+        "start": 12.479999542236328,
+        "end": 19.920000076293945,
+        "text": " And when I received my final total for everything,"
+      },
+      {
+        "id": 8,
+        "start": 19.920000076293945,
+        "end": 21.31999969482422,
+        "text": " that was fine."
+      },
+      {
+        "id": 9,
+        "start": 21.31999969482422,
+        "end": 28.84000015258789,
+        "text": " But there was also a notation for an automatic refill."
+      },
+      {
+        "id": 10,
+        "start": 28.84000015258789,
+        "end": 31.200000762939453,
+        "text": " I do not want an automatic refill."
+      },
+      {
+        "id": 11,
+        "start": 35.15999984741211,
+        "end": 36.08000183105469,
+        "text": " OK."
+      },
+      {
+        "id": 12,
+        "start": 36.08000183105469,
+        "end": 39.959999084472656,
+        "text": " Yeah, so we give you, this is a prescription."
+      },
+      {
+        "id": 13,
+        "start": 39.959999084472656,
+        "end": 43.31999969482422,
+        "text": " So we give you a whole month for you to be able to try it"
+      },
+      {
+        "id": 14,
+        "start": 43.31999969482422,
+        "end": 46.20000076293945,
+        "text": " and see how you like it."
+      },
+      {
+        "id": 15,
+        "start": 46.20000076293945,
+        "end": 49.84000015258789,
+        "text": " And you're always able to modify also your monthly interval"
+      },
+      {
+        "id": 16,
+        "start": 49.84000015258789,
+        "end": 51.439998626708984,
+        "text": " to your preference."
+      },
+      {
+        "id": 17,
+        "start": 51.439998626708984,
+        "end": 57.08000183105469,
+        "text": " So usually a quantity of 10 is good for a month."
+      },
+      {
+        "id": 18,
+        "start": 57.08000183105469,
+        "end": 59.36000061035156,
+        "text": " However, you can always go ahead and adjust it"
+      },
+      {
+        "id": 19,
+        "start": 59.36000061035156,
+        "end": 61.36000061035156,
+        "text": " to every two months or every three months."
+      },
+      {
+        "id": 20,
+        "start": 61.36000061035156,
+        "end": 63.439998626708984,
+        "text": " But we do give you a whole month in the beginning"
+      },
+      {
+        "id": 21,
+        "start": 63.439998626708984,
+        "end": 67.04000091552734,
+        "text": " for you to be able to try it and see how you want to move forward,"
+      },
+      {
+        "id": 22,
+        "start": 67.04000091552734,
+        "end": 70.5199966430664,
+        "text": " whether you end up keeping it."
+      },
+      {
+        "id": 23,
+        "start": 70.5199966430664,
+        "end": 72.76000213623047,
+        "text": " OK, I'm going to tell you right now, I do not"
+      },
+      {
+        "id": 24,
+        "start": 72.76000213623047,
+        "end": 78,
+        "text": " want an automatic refill."
+      },
+      {
+        "id": 25,
+        "start": 78,
+        "end": 81.55999755859375,
+        "text": " If I decide to buy more, I will order more."
+      },
+      {
+        "id": 26,
+        "start": 81.55999755859375,
+        "end": 84.44000244140625,
+        "text": " OK, so like I said, we do give you a whole month for you"
+      },
+      {
+        "id": 27,
+        "start": 84.44000244140625,
+        "end": 86.08000183105469,
+        "text": " to try it."
+      },
+      {
+        "id": 28,
+        "start": 86.08000183105469,
+        "end": 95.23999786376953,
+        "text": " So I want you to cancel the automatic refill right now."
+      },
+      {
+        "id": 29,
+        "start": 95.23999786376953,
+        "end": 97.5199966430664,
+        "text": " So that would be canceling the order"
+      },
+      {
+        "id": 30,
+        "start": 97.5199966430664,
+        "end": 99.76000213623047,
+        "text": " and you wouldn't receive anything."
+      },
+      {
+        "id": 31,
+        "start": 99.76000213623047,
+        "end": 101.04000091552734,
+        "text": " Because it's a prescription."
+      },
+      {
+        "id": 32,
+        "start": 101.04000091552734,
+        "end": 102.04000091552734,
+        "text": " Why is that?"
+      },
+      {
+        "id": 33,
+        "start": 102.04000091552734,
+        "end": 104.83999633789062,
+        "text": " We pay for that prescription, not the customer."
+      },
+      {
+        "id": 34,
+        "start": 104.83999633789062,
+        "end": 109.12000274658203,
+        "text": " This is a prescription of over $300 that we paid for."
+      },
+      {
+        "id": 35,
+        "start": 109.12000274658203,
+        "end": 112.4000015258789,
+        "text": " This is a prescription that gets approved by a doctor,"
+      },
+      {
+        "id": 36,
+        "start": 112.4000015258789,
+        "end": 115.4800033569336,
+        "text": " a certified physician."
+      },
+      {
+        "id": 37,
+        "start": 115.4800033569336,
+        "end": 117.91999816894531,
+        "text": " So when do I cancel?"
+      },
+      {
+        "id": 38,
+        "start": 117.91999816894531,
+        "end": 118.72000122070312,
+        "text": " That's what I said."
+      },
+      {
+        "id": 39,
+        "start": 118.72000122070312,
+        "end": 121.23999786376953,
+        "text": " Once you receive it, once you receive your order,"
+      },
+      {
+        "id": 40,
+        "start": 121.23999786376953,
+        "end": 125.19999694824219,
+        "text": " you have a whole month to try it and see"
+      },
+      {
+        "id": 41,
+        "start": 125.19999694824219,
+        "end": 128.39999389648438,
+        "text": " whether you want to continue keeping it, ordering it,"
+      },
+      {
+        "id": 42,
+        "start": 128.39999389648438,
+        "end": 131.8800048828125,
+        "text": " or whether you want to cancel the prescription, which"
+      },
+      {
+        "id": 43,
+        "start": 131.8800048828125,
+        "end": 134.67999267578125,
+        "text": " for most of the part, our customers"
+      },
+      {
+        "id": 44,
+        "start": 134.67999267578125,
+        "end": 136.47999572753906,
+        "text": " love to keep the prescription because they"
+      },
+      {
+        "id": 45,
+        "start": 136.47999572753906,
+        "end": 137.52000427246094,
+        "text": " love how the pill works."
+      },
+      {
+        "id": 46,
+        "start": 138.52000427246094,
+        "end": 141.27999877929688,
+        "text": " So what is my status right now?"
+      },
+      {
+        "id": 47,
+        "start": 144.60000610351562,
+        "end": 147.44000244140625,
+        "text": " So right now, you are a customer of ours."
+      },
+      {
+        "id": 48,
+        "start": 147.44000244140625,
+        "end": 149.1999969482422,
+        "text": " You placed this order."
+      },
+      {
+        "id": 49,
+        "start": 149.1999969482422,
+        "end": 152,
+        "text": " So like I said, you have a whole month to try it."
+      },
+      {
+        "id": 50,
+        "start": 152,
+        "end": 153.52000427246094,
+        "text": " And if you want to make any changes,"
+      },
+      {
+        "id": 51,
+        "start": 153.52000427246094,
+        "end": 157.52000427246094,
+        "text": " you just have to give us a call before February 25th."
+      },
+      {
+        "id": 52,
+        "start": 157.52000427246094,
+        "end": 159.0399932861328,
+        "text": " Before when?"
+      },
+      {
+        "id": 53,
+        "start": 159.0399932861328,
+        "end": 160.0399932861328,
+        "text": " February 25th."
+      },
+      {
+        "id": 54,
+        "start": 160.0399932861328,
+        "end": 161.52000427246094,
+        "text": " Yes, you got it."
+      },
+      {
+        "id": 55,
+        "start": 161.52000427246094,
+        "end": 162.52000427246094,
+        "text": " OK, thank you."
+      },
+      {
+        "id": 56,
+        "start": 162.52000427246094,
+        "end": 163.52000427246094,
+        "text": " Thank you."
+      },
+      {
+        "id": 57,
+        "start": 163.52000427246094,
+        "end": 164.52000427246094,
+        "text": " Thank you."
+      },
+      {
+        "id": 58,
+        "start": 164.52000427246094,
+        "end": 165.52000427246094,
+        "text": " Thank you."
+      },
+      {
+        "id": 59,
+        "start": 165.52000427246094,
+        "end": 166.52000427246094,
+        "text": " Thank you."
+      },
+      {
+        "id": 60,
+        "start": 167.52000427246094,
+        "end": 170.52000427246094,
+        "text": " Give me a minute."
+      },
+      {
+        "id": 61,
+        "start": 170.52000427246094,
+        "end": 172.52000427246094,
+        "text": " February 25th, you said?"
+      },
+      {
+        "id": 62,
+        "start": 172.52000427246094,
+        "end": 173.52000427246094,
+        "text": " Yeah."
+      },
+      {
+        "id": 63,
+        "start": 176.52000427246094,
+        "end": 178.52000427246094,
+        "text": " You call this number?"
+      },
+      {
+        "id": 64,
+        "start": 178.52000427246094,
+        "end": 181.52000427246094,
+        "text": " Mm-hmm."
+      },
+      {
+        "id": 65,
+        "start": 181.52000427246094,
+        "end": 182.52000427246094,
+        "text": " Call this number."
+      },
+      {
+        "id": 66,
+        "start": 186.52000427246094,
+        "end": 190.52000427246094,
+        "text": " And at that point in time, I can cancel?"
+      },
+      {
+        "id": 67,
+        "start": 190.52000427246094,
+        "end": 192.52000427246094,
+        "text": " Yeah, you can cancel or you can decide"
+      },
+      {
+        "id": 68,
+        "start": 192.52000427246094,
+        "end": 195.52000427246094,
+        "text": " to keep your prescription as is."
+      },
+      {
+        "id": 69,
+        "start": 195.52000427246094,
+        "end": 200.52000427246094,
+        "text": " Or you can adjust the monthly interval to your preference."
+      },
+      {
+        "id": 70,
+        "start": 205.52000427246094,
+        "end": 206.52000427246094,
+        "text": " OK, thank you."
+      },
+      {
+        "id": 71,
+        "start": 206.52000427246094,
+        "end": 207.52000427246094,
+        "text": " You're welcome."
+      },
+      {
+        "id": 72,
+        "start": 207.52000427246094,
+        "end": 208.52000427246094,
+        "text": " Have a good day."
+      },
+      {
+        "id": 73,
+        "start": 208.52000427246094,
+        "end": 210.0800018310547,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8173-ac16-c708ce9580b6",
+    "url": "https://www.notion.so/300000001217117-300000001707521-2f611d0a101c8173ac16c708ce9580b6"
+  },
+  "processedAt": "2026-01-28T17:33:48.625Z"
+}

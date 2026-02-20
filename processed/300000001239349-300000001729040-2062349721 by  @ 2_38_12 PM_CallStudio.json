@@ -1,0 +1,67 @@
+{
+  "recording": {
+    "name": "300000001239349-300000001729040-2062349721 by  @ 2_38_12 PM_CallStudio.wav",
+    "size": 49396,
+    "modifyTime": 1770849544000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239349-300000001729040-2062349721 by  @ 2_38_12 PM_CallStudio.wav",
+    "uploadDate": "2026-02-11T22:39:04.000Z",
+    "callId": "300000001239349-300000001729040",
+    "phoneNumber": "2062349721",
+    "callTimestamp": "2026-02-11T22:39:04.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: We didn't receive a response or I couldn't hear you.\n\nSpeaker 1: Let's try again.\n\nSpeaker 2: Please state the reason for your call.\n\nSpeaker 1: Para Español, marque numero nueve.",
+    "duration": 1351,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.199999809265137,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.199999809265137,
+        "end": 6.800000190734863,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.800000190734863,
+        "end": 8.600000381469727,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.600000381469727,
+        "end": 19,
+        "text": " We didn't receive a response or I couldn't hear your."
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 20.600000381469727,
+        "text": " Let's try again."
+      },
+      {
+        "id": 5,
+        "start": 20.600000381469727,
+        "end": 22.799999237060547,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 6,
+        "start": 22.799999237060547,
+        "end": 28.799999237060547,
+        "text": " Para Español, marque numero nueve."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-8116-8ef7-ffb9dd0fd9df",
+    "url": "https://www.notion.so/300000001239349-300000001729040-30411d0a101c81168ef7ffb9dd0fd9df"
+  },
+  "processedAt": "2026-02-11T23:09:05.688Z"
+}

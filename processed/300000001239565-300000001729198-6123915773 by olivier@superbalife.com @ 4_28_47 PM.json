@@ -1,0 +1,266 @@
+{
+  "recording": {
+    "name": "300000001239565-300000001729198-6123915773 by olivier@superbalife.com @ 4_28_47 PM.wav",
+    "size": 225480,
+    "modifyTime": 1770856274000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239565-300000001729198-6123915773 by olivier@superbalife.com @ 4_28_47 PM.wav",
+    "uploadDate": "2026-02-12T00:31:14.000Z",
+    "callId": "300000001239565-300000001729198",
+    "agent": "olivier",
+    "phoneNumber": "6123915773",
+    "callTimestamp": "2026-02-12T16:28:47.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Hello.\n\nSpeaker 1: How are you doing?\n\nSpeaker 2: I'm pretty good. This is Mike Kern calling in.\n\nSpeaker 1: I'd like to place an order.\n\nSpeaker 2: Okay. First time or you already have an account?\n\nSpeaker 1: I already have an account, but I got a new card, so I wanted you to give me information.\n\nSpeaker 2: Okay. Yeah, may I have the phone number used for your current account so I can locate you in the system?\n\nSpeaker 1: 612-479-0117.\n\nSpeaker 2: Mr. Michael Kern?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay. You want to update your payment information. I'm ready when you are.\n\nSpeaker 1: 4190-0240-0413-5739.\n\nSpeaker 2: Expiration date?\n\nSpeaker 1: 02-31.\n\nSpeaker 2: And the code in the back?\n\nSpeaker 1: 354.\n\nSpeaker 2: All right. So here, let me go back.\n\nSpeaker 1: So I have 4190-0240-4413?\n\nSpeaker 2: Nope. 0413.\n\nSpeaker 1: 0413.\n\nSpeaker 2: 5739?\n\nSpeaker 1: Correct.\n\nSpeaker 2: 02-31 and 354. That's the rest, right?\n\nSpeaker 1: Yep.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right. I'm updating that now.\n\nSpeaker 2: And you want to order 10 PL50mg-AGV?\n\nSpeaker 1: Yes.\n\nSpeaker 2: All right. Let me try to place the order.\n\nSpeaker 1: All right.\n\nSpeaker 2: All right.\n\nSpeaker 1: All right. I was successfully able to place your refill order and update your payment information. Okay?\n\nSpeaker 2: All right.\n\nSpeaker 1: You are all set.\n\nSpeaker 2: All right. Thank you very much.\n\nSpeaker 1: Okay. Thank you.\n\nSpeaker 2: All right.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye.",
+    "duration": 4989,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 4,
+        "text": " Hello."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 6,
+        "text": " How are you doing?"
+      },
+      {
+        "id": 3,
+        "start": 6,
+        "end": 9,
+        "text": " I'm pretty good. This is Mike Kern calling in."
+      },
+      {
+        "id": 4,
+        "start": 9,
+        "end": 12,
+        "text": " I'd like to place an order."
+      },
+      {
+        "id": 5,
+        "start": 12,
+        "end": 15,
+        "text": " Okay. First time or you already have an account?"
+      },
+      {
+        "id": 6,
+        "start": 15,
+        "end": 20,
+        "text": " I already have an account, but I got a new card, so I wanted you to give me information."
+      },
+      {
+        "id": 7,
+        "start": 20,
+        "end": 26,
+        "text": " Okay. Yeah, may I have the phone number used for your current account so I can locate you in the system?"
+      },
+      {
+        "id": 8,
+        "start": 26,
+        "end": 33,
+        "text": " 612-479-0117."
+      },
+      {
+        "id": 9,
+        "start": 33,
+        "end": 35,
+        "text": " Mr. Michael Kern?"
+      },
+      {
+        "id": 10,
+        "start": 35,
+        "end": 36,
+        "text": " Yes."
+      },
+      {
+        "id": 11,
+        "start": 36,
+        "end": 40,
+        "text": " Okay. You want to update your payment information. I'm ready when you are."
+      },
+      {
+        "id": 12,
+        "start": 40,
+        "end": 52,
+        "text": " 4190-0240-0413-5739."
+      },
+      {
+        "id": 13,
+        "start": 52,
+        "end": 54,
+        "text": " Expiration date?"
+      },
+      {
+        "id": 14,
+        "start": 54,
+        "end": 58,
+        "text": " 02-31."
+      },
+      {
+        "id": 15,
+        "start": 58,
+        "end": 60,
+        "text": " And the code in the back?"
+      },
+      {
+        "id": 16,
+        "start": 60,
+        "end": 64,
+        "text": " 354."
+      },
+      {
+        "id": 17,
+        "start": 64,
+        "end": 66,
+        "text": " All right. So here, let me go back."
+      },
+      {
+        "id": 18,
+        "start": 66,
+        "end": 75,
+        "text": " So I have 4190-0240-4413?"
+      },
+      {
+        "id": 19,
+        "start": 75,
+        "end": 78,
+        "text": " Nope. 0413."
+      },
+      {
+        "id": 20,
+        "start": 78,
+        "end": 81,
+        "text": " 0413."
+      },
+      {
+        "id": 21,
+        "start": 81,
+        "end": 83,
+        "text": " 5739?"
+      },
+      {
+        "id": 22,
+        "start": 83,
+        "end": 85,
+        "text": " Correct."
+      },
+      {
+        "id": 23,
+        "start": 85,
+        "end": 89,
+        "text": " 02-31 and 354. That's the rest, right?"
+      },
+      {
+        "id": 24,
+        "start": 89,
+        "end": 90,
+        "text": " Yep."
+      },
+      {
+        "id": 25,
+        "start": 90,
+        "end": 92,
+        "text": " Okay."
+      },
+      {
+        "id": 26,
+        "start": 92,
+        "end": 94,
+        "text": " All right. I'm updating that now."
+      },
+      {
+        "id": 27,
+        "start": 94,
+        "end": 99,
+        "text": " And you want to order 10 PL50mg-AGV?"
+      },
+      {
+        "id": 28,
+        "start": 99,
+        "end": 100,
+        "text": " Yes."
+      },
+      {
+        "id": 29,
+        "start": 100,
+        "end": 103,
+        "text": " All right. Let me try to place the order."
+      },
+      {
+        "id": 30,
+        "start": 103,
+        "end": 104,
+        "text": " All right."
+      },
+      {
+        "id": 31,
+        "start": 104,
+        "end": 117,
+        "text": " All right."
+      },
+      {
+        "id": 32,
+        "start": 117,
+        "end": 122,
+        "text": " All right. I was successfully able to place your refill order and update your payment information. Okay?"
+      },
+      {
+        "id": 33,
+        "start": 122,
+        "end": 124,
+        "text": " All right."
+      },
+      {
+        "id": 34,
+        "start": 124,
+        "end": 128,
+        "text": " You are all set."
+      },
+      {
+        "id": 35,
+        "start": 128,
+        "end": 130,
+        "text": " All right. Thank you very much."
+      },
+      {
+        "id": 36,
+        "start": 130,
+        "end": 131,
+        "text": " Okay. Thank you."
+      },
+      {
+        "id": 37,
+        "start": 131,
+        "end": 133,
+        "text": " All right."
+      },
+      {
+        "id": 38,
+        "start": 133,
+        "end": 134,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 39,
+        "start": 134,
+        "end": 135,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-819a-8a66-e993d69f641f",
+    "url": "https://www.notion.so/300000001239565-300000001729198-30511d0a101c819a8a66e993d69f641f"
+  },
+  "processedAt": "2026-02-12T01:07:23.753Z"
+}

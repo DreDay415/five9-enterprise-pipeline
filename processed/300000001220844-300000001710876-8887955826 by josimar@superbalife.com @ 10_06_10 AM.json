@@ -1,0 +1,194 @@
+{
+  "recording": {
+    "name": "300000001220844-300000001710876-8887955826 by josimar@superbalife.com @ 10_06_10 AM.wav",
+    "size": 111600,
+    "modifyTime": 1769623664000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220844-300000001710876-8887955826 by josimar@superbalife.com @ 10_06_10 AM.wav",
+    "uploadDate": "2026-01-28T18:07:44.000Z",
+    "callId": "300000001220844-300000001710876",
+    "agent": "josimar",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T10:06:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. I can help you today.\n\nSpeaker 2: Yeah, I need to cancel the automatic refill y'all got me on.\n\nSpeaker 1: Yeah, what's your zip code?\n\nSpeaker 2: 77565.\n\nSpeaker 1: And what's your last name?\n\nSpeaker 2: Sanders.\n\nSpeaker 1: First name?\n\nSpeaker 2: Larry.\n\nSpeaker 1: Okay, so I did pull up your profile here.\n\nSpeaker 1: I do want to mention, sir, you're currently a VIP member for the Viagra AGV.\n\nSpeaker 1: The moment we cancel you out, the doctor would actually delete the visit as well, sir,\n\nSpeaker 1: and you wouldn't be able to order it.\n\nSpeaker 1: However, did you want to just switch out your frequency to our every six-month plan?\n\nSpeaker 1: That way you can always call us whenever you need it or call us to delay it,\n\nSpeaker 1: but you can still retain access to the prescription for when you need it.\n\nSpeaker 2: No, I just canceled it.\n\nSpeaker 1: Okay, just keep in mind, sir, moving forward you wouldn't be able to access this anymore\n\nSpeaker 1: because the doctor would delete the visit from his end.\n\nSpeaker 1: But if we freeze it, you can still retain access to it.\n\nSpeaker 2: I don't need it.\n\nSpeaker 1: No problem.\n\nSpeaker 2: So I'll close it off for you then.\n\nSpeaker 1: You're all set.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Yeah, no problem.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye.",
+    "duration": 3462,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. I can help you today."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 8,
+        "text": " Yeah, I need to cancel the automatic refill y'all got me on."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " Yeah, what's your zip code?"
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 14,
+        "text": " 77565."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 17,
+        "text": " And what's your last name?"
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 19,
+        "text": " Sanders."
+      },
+      {
+        "id": 6,
+        "start": 19,
+        "end": 21,
+        "text": " First name?"
+      },
+      {
+        "id": 7,
+        "start": 21,
+        "end": 23,
+        "text": " Larry."
+      },
+      {
+        "id": 8,
+        "start": 23,
+        "end": 27,
+        "text": " Okay, so I did pull up your profile here."
+      },
+      {
+        "id": 9,
+        "start": 27,
+        "end": 31,
+        "text": " I do want to mention, sir, you're currently a VIP member for the Viagra AGV."
+      },
+      {
+        "id": 10,
+        "start": 31,
+        "end": 34,
+        "text": " The moment we cancel you out, the doctor would actually delete the visit as well, sir,"
+      },
+      {
+        "id": 11,
+        "start": 34,
+        "end": 36,
+        "text": " and you wouldn't be able to order it."
+      },
+      {
+        "id": 12,
+        "start": 36,
+        "end": 40,
+        "text": " However, did you want to just switch out your frequency to our every six-month plan?"
+      },
+      {
+        "id": 13,
+        "start": 40,
+        "end": 44,
+        "text": " That way you can always call us whenever you need it or call us to delay it,"
+      },
+      {
+        "id": 14,
+        "start": 44,
+        "end": 46,
+        "text": " but you can still retain access to the prescription for when you need it."
+      },
+      {
+        "id": 15,
+        "start": 46,
+        "end": 49,
+        "text": " No, I just canceled it."
+      },
+      {
+        "id": 16,
+        "start": 49,
+        "end": 53,
+        "text": " Okay, just keep in mind, sir, moving forward you wouldn't be able to access this anymore"
+      },
+      {
+        "id": 17,
+        "start": 53,
+        "end": 55,
+        "text": " because the doctor would delete the visit from his end."
+      },
+      {
+        "id": 18,
+        "start": 55,
+        "end": 60,
+        "text": " But if we freeze it, you can still retain access to it."
+      },
+      {
+        "id": 19,
+        "start": 60,
+        "end": 62,
+        "text": " I don't need it."
+      },
+      {
+        "id": 20,
+        "start": 62,
+        "end": 63,
+        "text": " No problem."
+      },
+      {
+        "id": 21,
+        "start": 63,
+        "end": 64,
+        "text": " So I'll close it off for you then."
+      },
+      {
+        "id": 22,
+        "start": 64,
+        "end": 65,
+        "text": " You're all set."
+      },
+      {
+        "id": 23,
+        "start": 65,
+        "end": 66,
+        "text": " All right."
+      },
+      {
+        "id": 24,
+        "start": 66,
+        "end": 67,
+        "text": " Thank you."
+      },
+      {
+        "id": 25,
+        "start": 67,
+        "end": 68,
+        "text": " Yeah, no problem."
+      },
+      {
+        "id": 26,
+        "start": 68,
+        "end": 69,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 27,
+        "start": 69,
+        "end": 70,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8148-bfe4-f81654b1e15f",
+    "url": "https://www.notion.so/300000001220844-300000001710876-2f711d0a101c8148bfe4f81654b1e15f"
+  },
+  "processedAt": "2026-01-29T00:24:21.129Z"
+}

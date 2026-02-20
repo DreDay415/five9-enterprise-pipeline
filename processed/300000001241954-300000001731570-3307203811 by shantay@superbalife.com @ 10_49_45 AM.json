@@ -1,0 +1,41 @@
+{
+  "recording": {
+    "name": "300000001241954-300000001731570-3307203811 by shantay@superbalife.com @ 10_49_45 AM.wav",
+    "size": 2466,
+    "modifyTime": 1771008712000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241954-300000001731570-3307203811 by shantay@superbalife.com @ 10_49_45 AM.wav",
+    "uploadDate": "2026-02-13T18:51:52.000Z",
+    "callId": "300000001241954-300000001731570",
+    "agent": "shantay",
+    "phoneNumber": "3307203811",
+    "callTimestamp": "2026-02-13T10:49:45.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_shantay_300000001241954-300000001731570_3307203811.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_shantay_300000001241954-300000001731570_3307203811.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you.",
+    "duration": 1248,
+    "audioDuration": 1.4800000190734863,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Thank you."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 1,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-812c-b165-f5314e5cf7e6",
+    "url": "https://www.notion.so/300000001241954-300000001731570-30611d0a101c812cb165f5314e5cf7e6"
+  },
+  "processedAt": "2026-02-13T19:02:21.077Z"
+}

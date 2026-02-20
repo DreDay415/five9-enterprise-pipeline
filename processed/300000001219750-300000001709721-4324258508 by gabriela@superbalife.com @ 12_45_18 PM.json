@@ -1,0 +1,194 @@
+{
+  "recording": {
+    "name": "300000001219750-300000001709721-4324258508 by gabriela@superbalife.com @ 12_45_18 PM.wav",
+    "size": 163016,
+    "modifyTime": 1769591539000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219750-300000001709721-4324258508 by gabriela@superbalife.com @ 12_45_18 PM.wav",
+    "uploadDate": "2026-01-28T09:12:19.000Z",
+    "callId": "300000001219750-300000001709721",
+    "agent": "gabriela",
+    "phoneNumber": "4324258508",
+    "callTimestamp": "2026-01-28T12:45:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling DIAGRA, how can I assist you?\n\nSpeaker 2: Hey, I keep getting bills for it, but I never get nothing sent to me.\n\nSpeaker 1: It was supposed to cancel my order, and then the girl decided she was going to send me like nine free pills or something.\n\nSpeaker 2: But I've gotten billed four times for this thing.\n\nSpeaker 1: What is your name and date of birth?\n\nSpeaker 2: It's Henry Billis, October 10, 1963.\n\nSpeaker 1: Thank you, Henry.\n\nSpeaker 2: Okay, yeah, so it looks like you are a VIP with us, so you do have a prescription with us,\n\nSpeaker 1: which is why you continue to receive orders.\n\nSpeaker 2: So you are – you do have a prescription for DIAGRA, and you receive a quantity of ten.\n\nSpeaker 1: I haven't received – I've only received one, and I've been billed four times already for this thing.\n\nSpeaker 2: Yeah, but you've been refunded for the other time.\n\nSpeaker 1: Well, I've only been refunded one time.\n\nSpeaker 2: I've only been refunded once.\n\nSpeaker 1: I only see one that was odd.\n\nSpeaker 2: I'm looking at my credit card statement right here.\n\nSpeaker 1: I was refunded odd.\n\nSpeaker 2: Let's see, I'll tell you the date.\n\nSpeaker 1: Well, I mean, last time you called in to pause your prescription for half a year, so it's been paused.\n\nSpeaker 2: So I don't want to pause it.\n\nSpeaker 1: I want to just stop it.\n\nSpeaker 2: I don't want to get billed anymore for this.\n\nSpeaker 1: It doesn't work anymore.\n\nSpeaker 2: Okay, well, just be aware that you're not going to be able to reorder with us in the future, okay?\n\nSpeaker 1: Well, that's fine.\n\nSpeaker 2: Okay, you're all set.\n\nSpeaker 1: Have a nice day, Henry.\n\nSpeaker 2: Bye.",
+    "duration": 5461,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi, thank you for calling DIAGRA, how can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 10,
+        "text": " Hey, I keep getting bills for it, but I never get nothing sent to me."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 17,
+        "text": " It was supposed to cancel my order, and then the girl decided she was going to send me like nine free pills or something."
+      },
+      {
+        "id": 3,
+        "start": 17,
+        "end": 20,
+        "text": " But I've gotten billed four times for this thing."
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 23,
+        "text": " What is your name and date of birth?"
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 27,
+        "text": " It's Henry Billis, October 10, 1963."
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 29,
+        "text": " Thank you, Henry."
+      },
+      {
+        "id": 7,
+        "start": 29,
+        "end": 37,
+        "text": " Okay, yeah, so it looks like you are a VIP with us, so you do have a prescription with us,"
+      },
+      {
+        "id": 8,
+        "start": 37,
+        "end": 40,
+        "text": " which is why you continue to receive orders."
+      },
+      {
+        "id": 9,
+        "start": 40,
+        "end": 45,
+        "text": " So you are – you do have a prescription for DIAGRA, and you receive a quantity of ten."
+      },
+      {
+        "id": 10,
+        "start": 45,
+        "end": 50,
+        "text": " I haven't received – I've only received one, and I've been billed four times already for this thing."
+      },
+      {
+        "id": 11,
+        "start": 50,
+        "end": 54,
+        "text": " Yeah, but you've been refunded for the other time."
+      },
+      {
+        "id": 12,
+        "start": 54,
+        "end": 57,
+        "text": " Well, I've only been refunded one time."
+      },
+      {
+        "id": 13,
+        "start": 57,
+        "end": 60,
+        "text": " I've only been refunded once."
+      },
+      {
+        "id": 14,
+        "start": 60,
+        "end": 62,
+        "text": " I only see one that was odd."
+      },
+      {
+        "id": 15,
+        "start": 62,
+        "end": 65,
+        "text": " I'm looking at my credit card statement right here."
+      },
+      {
+        "id": 16,
+        "start": 65,
+        "end": 67,
+        "text": " I was refunded odd."
+      },
+      {
+        "id": 17,
+        "start": 67,
+        "end": 80,
+        "text": " Let's see, I'll tell you the date."
+      },
+      {
+        "id": 18,
+        "start": 80,
+        "end": 87,
+        "text": " Well, I mean, last time you called in to pause your prescription for half a year, so it's been paused."
+      },
+      {
+        "id": 19,
+        "start": 87,
+        "end": 88,
+        "text": " So I don't want to pause it."
+      },
+      {
+        "id": 20,
+        "start": 88,
+        "end": 89,
+        "text": " I want to just stop it."
+      },
+      {
+        "id": 21,
+        "start": 89,
+        "end": 91,
+        "text": " I don't want to get billed anymore for this."
+      },
+      {
+        "id": 22,
+        "start": 91,
+        "end": 92,
+        "text": " It doesn't work anymore."
+      },
+      {
+        "id": 23,
+        "start": 92,
+        "end": 96,
+        "text": " Okay, well, just be aware that you're not going to be able to reorder with us in the future, okay?"
+      },
+      {
+        "id": 24,
+        "start": 96,
+        "end": 97,
+        "text": " Well, that's fine."
+      },
+      {
+        "id": 25,
+        "start": 97,
+        "end": 98,
+        "text": " Okay, you're all set."
+      },
+      {
+        "id": 26,
+        "start": 98,
+        "end": 99,
+        "text": " Have a nice day, Henry."
+      },
+      {
+        "id": 27,
+        "start": 99,
+        "end": 100,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ef-8eb9-d93d199e219c",
+    "url": "https://www.notion.so/300000001219750-300000001709721-2f611d0a101c81ef8eb9d93d199e219c"
+  },
+  "processedAt": "2026-01-28T11:30:38.495Z"
+}

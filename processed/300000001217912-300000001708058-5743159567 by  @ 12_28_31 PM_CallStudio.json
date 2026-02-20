@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001217912-300000001708058-5743159567 by  @ 12_28_31 PM_CallStudio.wav",
+    "size": 48096,
+    "modifyTime": 1769592738000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217912-300000001708058-5743159567 by  @ 12_28_31 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:32:18.000Z",
+    "callId": "300000001217912-300000001708058",
+    "phoneNumber": "5743159567",
+    "callTimestamp": "2026-01-28T09:32:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para español, marque número nueve.\n\nSpeaker 2: We didn't receive a response, or I couldn't hear you.\n\nSpeaker 1: Let's try again.\n\nSpeaker 2: Please state the reason for your call.\n\nSpeaker 1: I'm calling about E-D-L.\n\nSpeaker 2: Thanks for answering, agent.",
+    "duration": 1676,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.239999771118164,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.400000095367432,
+        "end": 6.860000133514404,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.860000133514404,
+        "end": 8.680000305175781,
+        "text": " Para español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 18.940000534057617,
+        "text": " We didn't receive a response, or I couldn't hear your."
+      },
+      {
+        "id": 4,
+        "start": 19.6200008392334,
+        "end": 20.520000457763672,
+        "text": " Let's try again."
+      },
+      {
+        "id": 5,
+        "start": 21.15999984741211,
+        "end": 22.760000228881836,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 6,
+        "start": 24.219999313354492,
+        "end": 28.020000457763672,
+        "text": " I'm calling about E-D-L."
+      },
+      {
+        "id": 7,
+        "start": 28.020000457763672,
+        "end": 29.239999771118164,
+        "text": " Thanks for answering to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81f8-ab7b-c28c2afbb577",
+    "url": "https://www.notion.so/300000001217912-300000001708058-2f611d0a101c81f8ab7bc28c2afbb577"
+  },
+  "processedAt": "2026-01-28T10:13:13.953Z"
+}

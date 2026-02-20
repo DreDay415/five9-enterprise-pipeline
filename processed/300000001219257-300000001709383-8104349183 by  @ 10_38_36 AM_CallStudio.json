@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001219257-300000001709383-8104349183 by  @ 10_38_36 AM_CallStudio.wav",
+    "size": 28530,
+    "modifyTime": 1769583737000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219257-300000001709383-8104349183 by  @ 10_38_36 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:02:17.000Z",
+    "callId": "300000001219257-300000001709383",
+    "phoneNumber": "8104349183",
+    "callTimestamp": "2026-01-28T07:02:17.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: I bought some sex pills and they haven't been delivered.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 892,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.28000020980835,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.28000020980835,
+        "end": 6.28000020980835,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.28000020980835,
+        "end": 10.920000076293945,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.920000076293945,
+        "end": 16.040000915527344,
+        "text": " I bought some sex pills and they haven't been delivered."
+      },
+      {
+        "id": 4,
+        "start": 16.040000915527344,
+        "end": 17.239999771118164,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81c1-9ffe-e2445139f39b",
+    "url": "https://www.notion.so/300000001219257-300000001709383-2f611d0a101c81c19ffee2445139f39b"
+  },
+  "processedAt": "2026-01-28T15:51:07.615Z"
+}

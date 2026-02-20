@@ -1,0 +1,362 @@
+{
+  "recording": {
+    "name": "300000001216389-300000001705836-6614965801 by michelleh@superbalife.com @ 1_40_58 PM.wav",
+    "size": 263310,
+    "modifyTime": 1769586434000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216389-300000001705836-6614965801 by michelleh@superbalife.com @ 1_40_58 PM.wav",
+    "uploadDate": "2026-01-28T07:47:14.000Z",
+    "callId": "300000001216389-300000001705836",
+    "agent": "michelleh",
+    "phoneNumber": "6614965801",
+    "callTimestamp": "2026-01-28T13:40:58.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you?\n\nSpeaker 2: How do I get a refund for this?\n\nSpeaker 1: It doesn't work.\n\nSpeaker 2: Okay, let me help you out.\n\nSpeaker 1: Give me one second to pull up your profile.\n\nSpeaker 2: Okay, Jason, can you just confirm your date of birth?\n\nSpeaker 1: 12-9-70.\n\nSpeaker 2: Thank you so much.\n\nSpeaker 1: Do you happen to have the pills on you right now?\n\nSpeaker 2: I have them.\n\nSpeaker 1: Yeah, I mean, I can get to them.\n\nSpeaker 2: Can you tell me what's imprinted on the individual pill?\n\nSpeaker 1: Okay.\n\nSpeaker 2: And they're white.\n\nSpeaker 1: They're not?\n\nSpeaker 2: They're not going to be blue, and they're not going to have AGB on them.\n\nSpeaker 1: I just want to know if you're, say, AC imprinted on them.\n\nSpeaker 2: Yeah, B34.\n\nSpeaker 1: Okay, yeah, go ahead and throw those in the trash.\n\nSpeaker 2: The pharmacy made an error and sent you regular generic Viagra.\n\nSpeaker 1: Sometimes they run out of the AGDs, and they don't tell us,\n\nSpeaker 2: and they send you generics, which causes a problem.\n\nSpeaker 1: Give me a second.\n\nSpeaker 2: I'm going to get you a replacement of the correct medication,\n\nSpeaker 1: and then I'm going to tell you how you can confirm you received the\n\nSpeaker 2: correct medication.\n\nSpeaker 1: All right.\n\nSpeaker 2: Okay, all right, perfect.\n\nSpeaker 1: All right, they'll be shipping that out to you probably today.\n\nSpeaker 2: Okay, so when you get this new bottle in the mail,\n\nSpeaker 1: it's going to say AGB on the bottle, but it's also going to say Greenstone.\n\nSpeaker 2: Greenstone is the name of Pfizer's manufacturer in France.\n\nSpeaker 1: And then on the pill, the only number imprinted on the pill is going to be\n\nSpeaker 2: the number 100 for the milligrams.\n\nSpeaker 1: And that's how you can confirm you received the FDA-approved Pfizer Viagra\n\nSpeaker 2: AGB.\n\nSpeaker 1: Because right now your bottle says, yeah, yours is definitely generics,\n\nSpeaker 2: and your bottle says APCO.\n\nSpeaker 1: And isn't it all just whatever?\n\nSpeaker 2: Well, yeah, Sidenafil is the main ingredient in Viagra,\n\nSpeaker 1: but it's the inactive ingredients in the latest Pfizer's formula of the AGB,\n\nSpeaker 2: the inactive ingredients that make it work more efficiently.\n\nSpeaker 1: So people say they feel it kick in in 11 to 15 minutes,\n\nSpeaker 2: but on the bottle it will say take one hour prior to get the full results.\n\nSpeaker 1: And you want to make sure you take it on an empty stomach,\n\nSpeaker 2: or just don't eat a fatty meal like a burger or a steak,\n\nSpeaker 1: because that will affect the medication breaking down.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, so they'll be sending that out to you.\n\nSpeaker 1: Sorry about that, but we got you taken care of.\n\nSpeaker 2: All right, thank you.\n\nSpeaker 1: No problem.\n\nSpeaker 2: Have a great day.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Bye-bye.",
+    "duration": 7917,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 7,
+        "text": " How do I get a refund for this?"
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " It doesn't work."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 10,
+        "text": " Okay, let me help you out."
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 15,
+        "text": " Give me one second to pull up your profile."
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 18,
+        "text": " Okay, Jason, can you just confirm your date of birth?"
+      },
+      {
+        "id": 6,
+        "start": 18,
+        "end": 22,
+        "text": " 12-9-70."
+      },
+      {
+        "id": 7,
+        "start": 22,
+        "end": 23,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 8,
+        "start": 23,
+        "end": 27,
+        "text": " Do you happen to have the pills on you right now?"
+      },
+      {
+        "id": 9,
+        "start": 27,
+        "end": 28,
+        "text": " I have them."
+      },
+      {
+        "id": 10,
+        "start": 28,
+        "end": 30,
+        "text": " Yeah, I mean, I can get to them."
+      },
+      {
+        "id": 11,
+        "start": 30,
+        "end": 35,
+        "text": " Can you tell me what's imprinted on the individual pill?"
+      },
+      {
+        "id": 12,
+        "start": 35,
+        "end": 38,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 38,
+        "end": 40,
+        "text": " And they're white."
+      },
+      {
+        "id": 14,
+        "start": 40,
+        "end": 42,
+        "text": " They're not?"
+      },
+      {
+        "id": 15,
+        "start": 42,
+        "end": 45,
+        "text": " They're not going to be blue, and they're not going to have AGB on them."
+      },
+      {
+        "id": 16,
+        "start": 45,
+        "end": 49,
+        "text": " I just want to know if you're, say, AC imprinted on them."
+      },
+      {
+        "id": 17,
+        "start": 49,
+        "end": 61,
+        "text": " Yeah, B34."
+      },
+      {
+        "id": 18,
+        "start": 61,
+        "end": 64,
+        "text": " Okay, yeah, go ahead and throw those in the trash."
+      },
+      {
+        "id": 19,
+        "start": 64,
+        "end": 68,
+        "text": " The pharmacy made an error and sent you regular generic Viagra."
+      },
+      {
+        "id": 20,
+        "start": 68,
+        "end": 71,
+        "text": " Sometimes they run out of the AGDs, and they don't tell us,"
+      },
+      {
+        "id": 21,
+        "start": 71,
+        "end": 74,
+        "text": " and they send you generics, which causes a problem."
+      },
+      {
+        "id": 22,
+        "start": 74,
+        "end": 75,
+        "text": " Give me a second."
+      },
+      {
+        "id": 23,
+        "start": 75,
+        "end": 77,
+        "text": " I'm going to get you a replacement of the correct medication,"
+      },
+      {
+        "id": 24,
+        "start": 77,
+        "end": 79,
+        "text": " and then I'm going to tell you how you can confirm you received the"
+      },
+      {
+        "id": 25,
+        "start": 79,
+        "end": 81,
+        "text": " correct medication."
+      },
+      {
+        "id": 26,
+        "start": 81,
+        "end": 82,
+        "text": " All right."
+      },
+      {
+        "id": 27,
+        "start": 82,
+        "end": 85,
+        "text": " Okay, all right, perfect."
+      },
+      {
+        "id": 28,
+        "start": 85,
+        "end": 88,
+        "text": " All right, they'll be shipping that out to you probably today."
+      },
+      {
+        "id": 29,
+        "start": 88,
+        "end": 90,
+        "text": " Okay, so when you get this new bottle in the mail,"
+      },
+      {
+        "id": 30,
+        "start": 90,
+        "end": 94,
+        "text": " it's going to say AGB on the bottle, but it's also going to say Greenstone."
+      },
+      {
+        "id": 31,
+        "start": 94,
+        "end": 97,
+        "text": " Greenstone is the name of Pfizer's manufacturer in France."
+      },
+      {
+        "id": 32,
+        "start": 97,
+        "end": 102,
+        "text": " And then on the pill, the only number imprinted on the pill is going to be"
+      },
+      {
+        "id": 33,
+        "start": 102,
+        "end": 104,
+        "text": " the number 100 for the milligrams."
+      },
+      {
+        "id": 34,
+        "start": 104,
+        "end": 108,
+        "text": " And that's how you can confirm you received the FDA-approved Pfizer Viagra"
+      },
+      {
+        "id": 35,
+        "start": 108,
+        "end": 110,
+        "text": " AGB."
+      },
+      {
+        "id": 36,
+        "start": 110,
+        "end": 113,
+        "text": " Because right now your bottle says, yeah, yours is definitely generics,"
+      },
+      {
+        "id": 37,
+        "start": 113,
+        "end": 115,
+        "text": " and your bottle says APCO."
+      },
+      {
+        "id": 38,
+        "start": 115,
+        "end": 119,
+        "text": " And isn't it all just whatever?"
+      },
+      {
+        "id": 39,
+        "start": 119,
+        "end": 123,
+        "text": " Well, yeah, Sidenafil is the main ingredient in Viagra,"
+      },
+      {
+        "id": 40,
+        "start": 123,
+        "end": 129,
+        "text": " but it's the inactive ingredients in the latest Pfizer's formula of the AGB,"
+      },
+      {
+        "id": 41,
+        "start": 129,
+        "end": 133,
+        "text": " the inactive ingredients that make it work more efficiently."
+      },
+      {
+        "id": 42,
+        "start": 133,
+        "end": 136,
+        "text": " So people say they feel it kick in in 11 to 15 minutes,"
+      },
+      {
+        "id": 43,
+        "start": 136,
+        "end": 139,
+        "text": " but on the bottle it will say take one hour prior to get the full results."
+      },
+      {
+        "id": 44,
+        "start": 139,
+        "end": 142,
+        "text": " And you want to make sure you take it on an empty stomach,"
+      },
+      {
+        "id": 45,
+        "start": 142,
+        "end": 145,
+        "text": " or just don't eat a fatty meal like a burger or a steak,"
+      },
+      {
+        "id": 46,
+        "start": 145,
+        "end": 148,
+        "text": " because that will affect the medication breaking down."
+      },
+      {
+        "id": 47,
+        "start": 148,
+        "end": 149,
+        "text": " Yeah."
+      },
+      {
+        "id": 48,
+        "start": 149,
+        "end": 150,
+        "text": " Okay."
+      },
+      {
+        "id": 49,
+        "start": 150,
+        "end": 152,
+        "text": " All right, so they'll be sending that out to you."
+      },
+      {
+        "id": 50,
+        "start": 152,
+        "end": 155,
+        "text": " Sorry about that, but we got you taken care of."
+      },
+      {
+        "id": 51,
+        "start": 155,
+        "end": 157,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 52,
+        "start": 157,
+        "end": 158,
+        "text": " No problem."
+      },
+      {
+        "id": 53,
+        "start": 158,
+        "end": 159,
+        "text": " Have a great day."
+      },
+      {
+        "id": 54,
+        "start": 159,
+        "end": 160,
+        "text": " Thank you."
+      },
+      {
+        "id": 55,
+        "start": 160,
+        "end": 161,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81df-b936-c9f0bf3e6bc5",
+    "url": "https://www.notion.so/300000001216389-300000001705836-2f611d0a101c81dfb936c9f0bf3e6bc5"
+  },
+  "processedAt": "2026-01-28T13:50:19.162Z"
+}

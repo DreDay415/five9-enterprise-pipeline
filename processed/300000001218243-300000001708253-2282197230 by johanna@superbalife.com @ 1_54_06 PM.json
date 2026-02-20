@@ -1,0 +1,338 @@
+{
+  "recording": {
+    "name": "300000001218243-300000001708253-2282197230 by johanna@superbalife.com @ 1_54_06 PM.wav",
+    "size": 341896,
+    "modifyTime": 1769588829000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218243-300000001708253-2282197230 by johanna@superbalife.com @ 1_54_06 PM.wav",
+    "uploadDate": "2026-01-28T08:27:09.000Z",
+    "callId": "300000001218243-300000001708253",
+    "agent": "johanna",
+    "phoneNumber": "2282197230",
+    "callTimestamp": "2026-01-28T13:54:06.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, Janine speaking, how can I help you?\n\nSpeaker 2: Yes, I'd like to get a refill on a prescription I once had there.\n\nSpeaker 1: Okay, I can assist you.\n\nSpeaker 2: Can I get your name and your date of birth, please?\n\nSpeaker 1: It's James Harris, September 22, 1957.\n\nSpeaker 2: Thank you, Mr. Harris.\n\nSpeaker 1: I have your account pulled up here, and what can I get for you today?\n\nSpeaker 2: Do you have any discounts?\n\nSpeaker 1: I mean, you had the new Viagra come out, I think it was.\n\nSpeaker 2: Yeah, the new AGV.\n\nSpeaker 1: So we have a couple of special offers for the AGV.\n\nSpeaker 2: You could do a quantity of 25 for $99 or a quantity of 40 for $149.\n\nSpeaker 1: I just want to try it first.\n\nSpeaker 2: I mean, could I get like four of them for—\n\nSpeaker 1: Yeah, because you were a previous client, what I can do is I can do a quantity of 10 for $49.\n\nSpeaker 2: That's the lowest amount you can order, though, yeah.\n\nSpeaker 1: Okay, let me do that then.\n\nSpeaker 2: Okay, sir.\n\nSpeaker 1: I'm going to place that order for you.\n\nSpeaker 2: 10 for $49, and you want to do 100 milligrams again?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, and the shipping address is still 2421 Academy Drive?\n\nSpeaker 1: Yes.\n\nSpeaker 2: And I have Visa ending in 1596.\n\nSpeaker 1: Let me see.\n\nSpeaker 2: Okay.\n\nSpeaker 1: No, it would be another one.\n\nSpeaker 2: I got another Visa.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, sir, what's the new card number?\n\nSpeaker 1: 4020870199419783.\n\nSpeaker 2: Okay, that's 4020870199419783.\n\nSpeaker 1: Yes, ma'am.\n\nSpeaker 2: And what's the expiration?\n\nSpeaker 1: 6/29.\n\nSpeaker 2: And a security code on the back?\n\nSpeaker 1: 638.\n\nSpeaker 2: Okay, 6/29 is expiration, and the security code is 638, right?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: I've updated that for you.\n\nSpeaker 1: Now I'm going to place the order.\n\nSpeaker 2: All right, sir, that successfully went through.\n\nSpeaker 1: It's at the pharmacy.\n\nSpeaker 2: You will receive it in five days or less.\n\nSpeaker 1: Okay, and thank you so much.\n\nSpeaker 2: No problem.\n\nSpeaker 1: Thanks for calling in.\n\nSpeaker 2: Have a good one.\n\nSpeaker 1: All right, bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 7850,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra, Janine speaking, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Yes, I'd like to get a refill on a prescription I once had there."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " Okay, I can assist you."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 14,
+        "text": " Can I get your name and your date of birth, please?"
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 24,
+        "text": " It's James Harris, September 22, 1957."
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 26,
+        "text": " Thank you, Mr. Harris."
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 35,
+        "text": " I have your account pulled up here, and what can I get for you today?"
+      },
+      {
+        "id": 7,
+        "start": 35,
+        "end": 37,
+        "text": " Do you have any discounts?"
+      },
+      {
+        "id": 8,
+        "start": 37,
+        "end": 40,
+        "text": " I mean, you had the new Viagra come out, I think it was."
+      },
+      {
+        "id": 9,
+        "start": 40,
+        "end": 42,
+        "text": " Yeah, the new AGV."
+      },
+      {
+        "id": 10,
+        "start": 42,
+        "end": 46,
+        "text": " So we have a couple of special offers for the AGV."
+      },
+      {
+        "id": 11,
+        "start": 46,
+        "end": 55,
+        "text": " You could do a quantity of $25 for $99 or a quantity of $40 for $149."
+      },
+      {
+        "id": 12,
+        "start": 55,
+        "end": 57,
+        "text": " I just want to try it first."
+      },
+      {
+        "id": 13,
+        "start": 57,
+        "end": 64,
+        "text": " I mean, could I get like four of them for?"
+      },
+      {
+        "id": 14,
+        "start": 64,
+        "end": 72,
+        "text": " Yeah, because you were a previous client, what I can do is I can do a quantity of $10 for $49."
+      },
+      {
+        "id": 15,
+        "start": 72,
+        "end": 76,
+        "text": " That's the lowest amount you can order, though, yeah."
+      },
+      {
+        "id": 16,
+        "start": 76,
+        "end": 79,
+        "text": " Okay, let me do that then."
+      },
+      {
+        "id": 17,
+        "start": 79,
+        "end": 81,
+        "text": " Okay, sir."
+      },
+      {
+        "id": 18,
+        "start": 81,
+        "end": 83,
+        "text": " I'm going to place that order for you."
+      },
+      {
+        "id": 19,
+        "start": 83,
+        "end": 86,
+        "text": " $10 for $49, and you want to do 100 milligrams again?"
+      },
+      {
+        "id": 20,
+        "start": 86,
+        "end": 88,
+        "text": " Yes."
+      },
+      {
+        "id": 21,
+        "start": 88,
+        "end": 92,
+        "text": " Okay, and the shipping address is still 2421 Academy Drive?"
+      },
+      {
+        "id": 22,
+        "start": 92,
+        "end": 94,
+        "text": " Yes."
+      },
+      {
+        "id": 23,
+        "start": 94,
+        "end": 102,
+        "text": " And I have Visa ending in 1596."
+      },
+      {
+        "id": 24,
+        "start": 102,
+        "end": 105,
+        "text": " Let me see."
+      },
+      {
+        "id": 25,
+        "start": 105,
+        "end": 107,
+        "text": " Okay."
+      },
+      {
+        "id": 26,
+        "start": 107,
+        "end": 109,
+        "text": " No, it would be another one."
+      },
+      {
+        "id": 27,
+        "start": 109,
+        "end": 111,
+        "text": " I got another Visa."
+      },
+      {
+        "id": 28,
+        "start": 111,
+        "end": 120,
+        "text": " Okay."
+      },
+      {
+        "id": 29,
+        "start": 120,
+        "end": 123,
+        "text": " Okay, sir, what's the new card number?"
+      },
+      {
+        "id": 30,
+        "start": 123,
+        "end": 136,
+        "text": " 4020870199419783."
+      },
+      {
+        "id": 31,
+        "start": 136,
+        "end": 146,
+        "text": " Okay, that's 4020870199419783."
+      },
+      {
+        "id": 32,
+        "start": 146,
+        "end": 148,
+        "text": " Yes, ma'am."
+      },
+      {
+        "id": 33,
+        "start": 148,
+        "end": 150,
+        "text": " And what's the expiration?"
+      },
+      {
+        "id": 34,
+        "start": 150,
+        "end": 154,
+        "text": " $629."
+      },
+      {
+        "id": 35,
+        "start": 154,
+        "end": 157,
+        "text": " And a security code on the back?"
+      },
+      {
+        "id": 36,
+        "start": 157,
+        "end": 160,
+        "text": " 638."
+      },
+      {
+        "id": 37,
+        "start": 161,
+        "end": 165,
+        "text": " Okay, $629 is expiration, and the security code is 638, right?"
+      },
+      {
+        "id": 38,
+        "start": 165,
+        "end": 167,
+        "text": " Yes."
+      },
+      {
+        "id": 39,
+        "start": 167,
+        "end": 169,
+        "text": " Okay."
+      },
+      {
+        "id": 40,
+        "start": 169,
+        "end": 171,
+        "text": " Thank you."
+      },
+      {
+        "id": 41,
+        "start": 171,
+        "end": 173,
+        "text": " I've updated that for you."
+      },
+      {
+        "id": 42,
+        "start": 173,
+        "end": 184,
+        "text": " Now I'm going to place the order."
+      },
+      {
+        "id": 43,
+        "start": 185,
+        "end": 187,
+        "text": " All right, sir, that successfully went through."
+      },
+      {
+        "id": 44,
+        "start": 187,
+        "end": 189,
+        "text": " It's at the pharmacy."
+      },
+      {
+        "id": 45,
+        "start": 189,
+        "end": 192,
+        "text": " You will receive it in five days or less."
+      },
+      {
+        "id": 46,
+        "start": 192,
+        "end": 194,
+        "text": " Okay, and thank you so much."
+      },
+      {
+        "id": 47,
+        "start": 194,
+        "end": 195,
+        "text": " No problem."
+      },
+      {
+        "id": 48,
+        "start": 195,
+        "end": 196,
+        "text": " Thanks for calling in."
+      },
+      {
+        "id": 49,
+        "start": 196,
+        "end": 198,
+        "text": " Have a good one."
+      },
+      {
+        "id": 50,
+        "start": 198,
+        "end": 199,
+        "text": " All right, bye-bye."
+      },
+      {
+        "id": 51,
+        "start": 199,
+        "end": 201,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8189-97bb-c6e196dd06cc",
+    "url": "https://www.notion.so/300000001218243-300000001708253-2f611d0a101c818997bbc6e196dd06cc"
+  },
+  "processedAt": "2026-01-28T13:05:17.109Z"
+}

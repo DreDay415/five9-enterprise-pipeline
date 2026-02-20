@@ -1,0 +1,225 @@
+{
+  "recording": {
+    "name": "300000001240192-300000001730045-6365842575 by shantay@superbalife.com @ 10_14_00 AM.wav",
+    "size": 174390,
+    "modifyTime": 1770920170000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240192-300000001730045-6365842575 by shantay@superbalife.com @ 10_14_00 AM.wav",
+    "uploadDate": "2026-02-12T18:16:10.000Z",
+    "callId": "300000001240192-300000001730045",
+    "agent": "shantay",
+    "phoneNumber": "6365842575",
+    "callTimestamp": "2026-02-12T10:14:00.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I assist you?\n\nSpeaker 2: Yes ma'am, I was calling to see if my order had been shipped.\n\nSpeaker 1: Sure, can I have your name as well as your date of birth?\n\nSpeaker 2: Bill Maxwell, or Billy Maxwell, 1-11-57.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Okay, it looks like your order is actually at the pharmacy ready to be shipped,\n\nSpeaker 1: but the pharmacy needs you to confirm the medication that you're taking.\n\nSpeaker 2: On your medical survey you put that you're taking both tablets,\n\nSpeaker 1: and they need clarification on that.\n\nSpeaker 2: And I clarified it.\n\nSpeaker 1: I sent it back to them I was taking B12 vitamins.\n\nSpeaker 2: And that's the only medication you're taking?\n\nSpeaker 1: Yeah, that and I forgot the other.\n\nSpeaker 2: Oh, it's from my gout.\n\nSpeaker 1: Allopurinol, the B12 vitamin.\n\nSpeaker 2: Oh, a vitamin D once in a while.\n\nSpeaker 1: And I'm taking a cholesterol pill.\n\nSpeaker 2: What's the name of the cholesterol pill?\n\nSpeaker 1: Arvastatin.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Or something like that.\n\nSpeaker 2: Yeah, that's the name of it.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I will let them know that your order will be shipped today.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: And how long will it take me to get it, a couple of days or a week?\n\nSpeaker 1: A couple of days.\n\nSpeaker 2: What state are you located in?\n\nSpeaker 1: You are in Missouri.\n\nSpeaker 2: So to Missouri, usually it takes around three to four days for you to receive it.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Bye.",
+    "duration": 3626,
+    "audioDuration": 107.27999877929688,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra, how can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 7,
+        "text": " Yes ma'am, I was calling to see if my order had been shipped."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 11,
+        "text": " Sure, can I have your name as well as your date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 16,
+        "text": " Bill Maxwell, or Billy Maxwell, 1-11-57."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 21,
+        "text": " Thank you."
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 25,
+        "text": " Okay, it looks like your order is actually at the pharmacy ready to be shipped,"
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 29,
+        "text": " but the pharmacy needs you to confirm the medication that you're taking."
+      },
+      {
+        "id": 7,
+        "start": 29,
+        "end": 34,
+        "text": " On your medical survey you put that you're taking both tablets,"
+      },
+      {
+        "id": 8,
+        "start": 34,
+        "end": 36,
+        "text": " and they need clarification on that."
+      },
+      {
+        "id": 9,
+        "start": 36,
+        "end": 38,
+        "text": " And I clarified it."
+      },
+      {
+        "id": 10,
+        "start": 38,
+        "end": 41,
+        "text": " I sent it back to them I was taking B12 vitamins."
+      },
+      {
+        "id": 11,
+        "start": 41,
+        "end": 44,
+        "text": " And that's the only medication you're taking?"
+      },
+      {
+        "id": 12,
+        "start": 44,
+        "end": 49,
+        "text": " Yeah, that and I forgot the other."
+      },
+      {
+        "id": 13,
+        "start": 49,
+        "end": 53,
+        "text": " Oh, it's from my gout."
+      },
+      {
+        "id": 14,
+        "start": 53,
+        "end": 59,
+        "text": " Allopurinol, the B12 vitamin."
+      },
+      {
+        "id": 15,
+        "start": 59,
+        "end": 62,
+        "text": " Oh, a vitamin D once in a while."
+      },
+      {
+        "id": 16,
+        "start": 62,
+        "end": 66,
+        "text": " And I'm taking a cholesterol pill."
+      },
+      {
+        "id": 17,
+        "start": 66,
+        "end": 69,
+        "text": " What's the name of the cholesterol pill?"
+      },
+      {
+        "id": 18,
+        "start": 69,
+        "end": 72,
+        "text": " Arvastatin."
+      },
+      {
+        "id": 19,
+        "start": 72,
+        "end": 74,
+        "text": " Okay."
+      },
+      {
+        "id": 20,
+        "start": 74,
+        "end": 76,
+        "text": " Or something like that."
+      },
+      {
+        "id": 21,
+        "start": 76,
+        "end": 78,
+        "text": " Yeah, that's the name of it."
+      },
+      {
+        "id": 22,
+        "start": 78,
+        "end": 79,
+        "text": " Okay."
+      },
+      {
+        "id": 23,
+        "start": 79,
+        "end": 82,
+        "text": " I will let them know that your order will be shipped today."
+      },
+      {
+        "id": 24,
+        "start": 82,
+        "end": 83,
+        "text": " Thank you."
+      },
+      {
+        "id": 25,
+        "start": 83,
+        "end": 87,
+        "text": " And how long will it take me to get it, a couple of days or a week?"
+      },
+      {
+        "id": 26,
+        "start": 87,
+        "end": 88,
+        "text": " A couple of days."
+      },
+      {
+        "id": 27,
+        "start": 88,
+        "end": 89,
+        "text": " What state are you located in?"
+      },
+      {
+        "id": 28,
+        "start": 89,
+        "end": 92,
+        "text": " You are in Missouri."
+      },
+      {
+        "id": 29,
+        "start": 92,
+        "end": 101,
+        "text": " So to Missouri, usually it takes around three to four days for you to receive it."
+      },
+      {
+        "id": 30,
+        "start": 101,
+        "end": 104,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 31,
+        "start": 104,
+        "end": 106,
+        "text": " You're welcome."
+      },
+      {
+        "id": 32,
+        "start": 106,
+        "end": 107,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81f8-843e-d561f60b9d87",
+    "url": "https://www.notion.so/300000001240192-300000001730045-30511d0a101c81f8843ed561f60b9d87"
+  },
+  "processedAt": "2026-02-12T18:27:37.069Z"
+}

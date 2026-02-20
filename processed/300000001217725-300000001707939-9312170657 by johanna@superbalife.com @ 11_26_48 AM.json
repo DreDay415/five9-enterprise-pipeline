@@ -1,0 +1,236 @@
+{
+  "recording": {
+    "name": "300000001217725-300000001707939-9312170657 by johanna@superbalife.com @ 11_26_48 AM.wav",
+    "size": 216446,
+    "modifyTime": 1769591838000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217725-300000001707939-9312170657 by johanna@superbalife.com @ 11_26_48 AM.wav",
+    "uploadDate": "2026-01-28T09:17:18.000Z",
+    "callId": "300000001217725-300000001707939",
+    "agent": "johanna",
+    "phoneNumber": "9312170657",
+    "callTimestamp": "2026-01-28T11:26:48.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, Joanna speaking, how can I help you?\n\nSpeaker 2: Yes, I want to get a refill.\n\nSpeaker 1: Okay, I can assist you, sir. Give me a moment.\n\nSpeaker 2: What is the phone number associated with your account?\n\nSpeaker 1: Error code 931-217-0657.\n\nSpeaker 2: Yeah, that's the number you called in from.\n\nSpeaker 1: Nothing pulled up under that account.\n\nSpeaker 2: Do you happen to have...\n\nSpeaker 1: Yeah, I have another number.\n\nSpeaker 2: 931-431-3647.\n\nSpeaker 1: 4637?\n\nSpeaker 2: 3647.\n\nSpeaker 1: 3647.\n\nSpeaker 2: Okay, thank you, Mr. Wright. I have your account pulled up for now.\n\nSpeaker 1: And you wanted to place another order for the AGD?\n\nSpeaker 2: Yes.\n\nSpeaker 1: All right, a quantity of 10?\n\nSpeaker 2: Yes.\n\nSpeaker 1: 100 milligram, is the shipping address still 604 Pembroke Place?\n\nSpeaker 2: Yes.\n\nSpeaker 1: And I have MasterCard ending in 3919?\n\nSpeaker 2: 3919, let me see.\n\nSpeaker 1: MasterCard ending in 39, let me see here.\n\nSpeaker 2: Yeah, 3919, yes.\n\nSpeaker 1: Okay, great.\n\nSpeaker 2: Okay, sir, that order has been placed. It's at the pharmacy.\n\nSpeaker 1: You're going to get it in five days or less.\n\nSpeaker 2: Okay.\n\nSpeaker 1: How much was it?\n\nSpeaker 2: It was 6395.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, you're all set, sir. Thank you so much for calling in.\n\nSpeaker 1: Have a wonderful day.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thank you.",
+    "duration": 4931,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra, Joanna speaking, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " Yes, I want to get a refill."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 13,
+        "text": " Okay, I can assist you, sir. Give me a moment."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 16,
+        "text": " What is the phone number associated with your account?"
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 24,
+        "text": " Error code 931-217-0657."
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 26,
+        "text": " Yeah, that's the number you called in from."
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 29,
+        "text": " Nothing pulled up under that account."
+      },
+      {
+        "id": 7,
+        "start": 29,
+        "end": 31,
+        "text": " Do you happen to have..."
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 33,
+        "text": " Yeah, I have another number."
+      },
+      {
+        "id": 9,
+        "start": 33,
+        "end": 41,
+        "text": " 931-431-3647."
+      },
+      {
+        "id": 10,
+        "start": 41,
+        "end": 44,
+        "text": " 4637?"
+      },
+      {
+        "id": 11,
+        "start": 44,
+        "end": 48,
+        "text": " 3647."
+      },
+      {
+        "id": 12,
+        "start": 48,
+        "end": 55,
+        "text": " 3647."
+      },
+      {
+        "id": 13,
+        "start": 55,
+        "end": 59,
+        "text": " Okay, thank you, Mr. Wright. I have your account pulled up for now."
+      },
+      {
+        "id": 14,
+        "start": 59,
+        "end": 62,
+        "text": " And you wanted to place another order for the AGD?"
+      },
+      {
+        "id": 15,
+        "start": 62,
+        "end": 64,
+        "text": " Yes."
+      },
+      {
+        "id": 16,
+        "start": 64,
+        "end": 68,
+        "text": " All right, a quantity of 10?"
+      },
+      {
+        "id": 17,
+        "start": 68,
+        "end": 70,
+        "text": " Yes."
+      },
+      {
+        "id": 18,
+        "start": 70,
+        "end": 75,
+        "text": " 100 milligram, is the shipping address still 604 Pembroke Place?"
+      },
+      {
+        "id": 19,
+        "start": 75,
+        "end": 77,
+        "text": " Yes."
+      },
+      {
+        "id": 20,
+        "start": 77,
+        "end": 85,
+        "text": " And I have MasterCard ending in 3919?"
+      },
+      {
+        "id": 21,
+        "start": 85,
+        "end": 89,
+        "text": " 3919, let me see."
+      },
+      {
+        "id": 22,
+        "start": 89,
+        "end": 101,
+        "text": " MasterCard ending in 39, let me see here."
+      },
+      {
+        "id": 23,
+        "start": 101,
+        "end": 104,
+        "text": " Yeah, 3919, yes."
+      },
+      {
+        "id": 24,
+        "start": 104,
+        "end": 110,
+        "text": " Okay, great."
+      },
+      {
+        "id": 25,
+        "start": 110,
+        "end": 113,
+        "text": " Okay, sir, that order has been placed. It's at the pharmacy."
+      },
+      {
+        "id": 26,
+        "start": 113,
+        "end": 116,
+        "text": " You're going to get it in five days or less."
+      },
+      {
+        "id": 27,
+        "start": 116,
+        "end": 118,
+        "text": " Okay."
+      },
+      {
+        "id": 28,
+        "start": 118,
+        "end": 120,
+        "text": " How much was it?"
+      },
+      {
+        "id": 29,
+        "start": 120,
+        "end": 124,
+        "text": " It was 6395."
+      },
+      {
+        "id": 30,
+        "start": 124,
+        "end": 126,
+        "text": " Okay."
+      },
+      {
+        "id": 31,
+        "start": 126,
+        "end": 129,
+        "text": " Okay, you're all set, sir. Thank you so much for calling in."
+      },
+      {
+        "id": 32,
+        "start": 129,
+        "end": 130,
+        "text": " Have a wonderful day."
+      },
+      {
+        "id": 33,
+        "start": 130,
+        "end": 132,
+        "text": " All right."
+      },
+      {
+        "id": 34,
+        "start": 132,
+        "end": 133,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8192-b087-ebdce9d12002",
+    "url": "https://www.notion.so/300000001217725-300000001707939-2f611d0a101c8192b087ebdce9d12002"
+  },
+  "processedAt": "2026-01-28T11:23:49.851Z"
+}

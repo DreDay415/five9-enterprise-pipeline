@@ -1,0 +1,386 @@
+{
+  "recording": {
+    "name": "300000001219288-300000001709382-4258024849 by josimar@superbalife.com @ 10_43_06 AM.wav",
+    "size": 314660,
+    "modifyTime": 1769587040000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219288-300000001709382-4258024849 by josimar@superbalife.com @ 10_43_06 AM.wav",
+    "uploadDate": "2026-01-28T07:57:20.000Z",
+    "callId": "300000001219288-300000001709382",
+    "agent": "josimar",
+    "phoneNumber": "4258024849",
+    "callTimestamp": "2026-01-28T10:43:06.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, I had a question for you regarding the prescription that I just received in the last—\n\nSpeaker 2: day or so.\n\nSpeaker 1: I can take a look into your account.\n\nSpeaker 2: What's your last name and a zip code?\n\nSpeaker 1: Last name is Lester, L-E-S-T-E-R, and did you say zip code?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: 98012.\n\nSpeaker 2: Yeah, I pulled up your profile here.\n\nSpeaker 1: I do see your latest prescription was for the Viagra AGV.\n\nSpeaker 2: Did you have a question about it?\n\nSpeaker 1: I did, yeah.\n\nSpeaker 2: I'm hoping you can help me out.\n\nSpeaker 1: I received it, and the quantity is correct.\n\nSpeaker 2: It says 100 milligrams, but I don't see anywhere that the prescription identifies itself as—\n\nSpeaker 1: Viagra AGV.\n\nSpeaker 2: It's not written on the bottle anywhere.\n\nSpeaker 1: It's not written on the pills anywhere, and I know when I, you know, ordered it, the advertisement—\n\nSpeaker 2: that you see, you know, obviously it's a generic advertisement, but the bottle shows that it—\n\nSpeaker 1: identifies itself as AGV, and the pill does as well, but it's not.\n\nSpeaker 2: Yeah, so the AGV won't be on the pill, but what does the marking on your pill say?\n\nSpeaker 1: What should it say for it to be the AGV?\n\nSpeaker 2: Yeah, but what does yours say, so I can just validate here, because I need to see if it—\n\nSpeaker 1: matches to the script that they wrote for you.\n\nSpeaker 2: Hang on a second here.\n\nSpeaker 1: I need to get my glasses.\n\nSpeaker 2: Sure, no worries.\n\nSpeaker 1: It has the letters AC and the numbers 340.\n\nSpeaker 2: Got it.\n\nSpeaker 1: So, I thought I could confirm the pharmacy didn't make a mistake.\n\nSpeaker 2: The only thing you should have seen on yours is 100, and that's it.\n\nSpeaker 1: So, I'm going to notify them, and they're going to send you the correct order.\n\nSpeaker 2: You'll receive this in three to four business days.\n\nSpeaker 1: The one that you have, you're more than welcome to keep or dispose.\n\nSpeaker 2: We'll send you the correct one.\n\nSpeaker 1: So, what is the one that I currently have?\n\nSpeaker 2: It says it on the label right on the bottle, sir.\n\nSpeaker 1: It's a generic Viagra, standard.\n\nSpeaker 2: So, I do not have the AGV?\n\nSpeaker 1: Yeah, that's why I just said that we would send you the correct one, sir.\n\nSpeaker 2: Okay, okay.\n\nSpeaker 1: And what should the new pill say on them to identify them as AGV?\n\nSpeaker 2: 100.\n\nSpeaker 1: That's all it will say is 100?\n\nSpeaker 2: Yeah, exactly.\n\nSpeaker 1: Okay, okay.\n\nSpeaker 2: And so, do I send these—\n\nSpeaker 1: I think you answered that, but do I send these back to you or just wait for them?\n\nSpeaker 2: No, like I mentioned, you can just hold on to them, dispose of them.\n\nSpeaker 1: We'll send you the correct one.\n\nSpeaker 2: Okay, and how long will that take until they arrive?\n\nSpeaker 1: Three to four business days.\n\nSpeaker 2: Okay, wonderful.\n\nSpeaker 1: Anything else you need from me?\n\nSpeaker 2: No, you're all set.\n\nSpeaker 1: Hope you have a good day, sir.\n\nSpeaker 2: I appreciate your time.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: No problem.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 6646,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 10.079999923706055,
+        "text": " Hi, I had a question for you regarding the prescription that I just received in the last"
+      },
+      {
+        "id": 1,
+        "start": 10.079999923706055,
+        "end": 11.079999923706055,
+        "text": " day or so."
+      },
+      {
+        "id": 2,
+        "start": 11.079999923706055,
+        "end": 12.760000228881836,
+        "text": " I can take a look into your account."
+      },
+      {
+        "id": 3,
+        "start": 12.760000228881836,
+        "end": 15.880000114440918,
+        "text": " What's your last name and a zip code?"
+      },
+      {
+        "id": 4,
+        "start": 15.880000114440918,
+        "end": 24,
+        "text": " Last name is Lester, L-E-S-T-E-R, and did you say zip code?"
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 25,
+        "text": " Yeah."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 26,
+        "text": " 98012."
+      },
+      {
+        "id": 7,
+        "start": 26,
+        "end": 31,
+        "text": " Yeah, I pulled up your profile here."
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 34,
+        "text": " I do see your latest prescription was for the Viagra AGV."
+      },
+      {
+        "id": 9,
+        "start": 34,
+        "end": 36.47999954223633,
+        "text": " Did you have a question about it?"
+      },
+      {
+        "id": 10,
+        "start": 36.47999954223633,
+        "end": 37.47999954223633,
+        "text": " I did, yeah."
+      },
+      {
+        "id": 11,
+        "start": 37.47999954223633,
+        "end": 38.7599983215332,
+        "text": " I'm hoping you can help me out."
+      },
+      {
+        "id": 12,
+        "start": 38.7599983215332,
+        "end": 41.91999816894531,
+        "text": " I received it, and the quantity is correct."
+      },
+      {
+        "id": 13,
+        "start": 41.91999816894531,
+        "end": 50.560001373291016,
+        "text": " It says 100 milligrams, but I don't see anywhere that the prescription identifies itself as"
+      },
+      {
+        "id": 14,
+        "start": 50.560001373291016,
+        "end": 52.47999954223633,
+        "text": " Viagra AGV."
+      },
+      {
+        "id": 15,
+        "start": 52.47999954223633,
+        "end": 55.599998474121094,
+        "text": " It's not written on the bottle anywhere."
+      },
+      {
+        "id": 16,
+        "start": 55.599998474121094,
+        "end": 63.560001373291016,
+        "text": " It's not written on the pills anywhere, and I know when I, you know, ordered it, the advertisement"
+      },
+      {
+        "id": 17,
+        "start": 63.560001373291016,
+        "end": 69.83999633789062,
+        "text": " that you see, you know, obviously it's a generic advertisement, but the bottle shows that it"
+      },
+      {
+        "id": 18,
+        "start": 69.83999633789062,
+        "end": 74.83999633789062,
+        "text": " identifies itself as AGV, and the pill does as well, but it's not."
+      },
+      {
+        "id": 19,
+        "start": 74.83999633789062,
+        "end": 82.19999694824219,
+        "text": " Yeah, so the AGV won't be on the pill, but what does the marking on your pill say?"
+      },
+      {
+        "id": 20,
+        "start": 82.19999694824219,
+        "end": 85.04000091552734,
+        "text": " What should it say for it to be the AGV?"
+      },
+      {
+        "id": 21,
+        "start": 85.4800033569336,
+        "end": 89.04000091552734,
+        "text": " Yeah, but what does yours say, so I can just validate here, because I need to see if it"
+      },
+      {
+        "id": 22,
+        "start": 89.04000091552734,
+        "end": 91.04000091552734,
+        "text": " matches to the script that they wrote for you."
+      },
+      {
+        "id": 23,
+        "start": 97.04000091552734,
+        "end": 98.04000091552734,
+        "text": " Hang on a second here."
+      },
+      {
+        "id": 24,
+        "start": 98.04000091552734,
+        "end": 100.04000091552734,
+        "text": " I need to get my glasses."
+      },
+      {
+        "id": 25,
+        "start": 100.04000091552734,
+        "end": 101.04000091552734,
+        "text": " Sure, no worries."
+      },
+      {
+        "id": 26,
+        "start": 101.04000091552734,
+        "end": 118.04000091552734,
+        "text": " It has the letters AC and the numbers 340."
+      },
+      {
+        "id": 27,
+        "start": 118.04000091552734,
+        "end": 119.04000091552734,
+        "text": " Got it."
+      },
+      {
+        "id": 28,
+        "start": 119.04000091552734,
+        "end": 122.04000091552734,
+        "text": " So, I thought I could confirm the pharmacy didn't make a mistake."
+      },
+      {
+        "id": 29,
+        "start": 122.04000091552734,
+        "end": 125.04000091552734,
+        "text": " The only thing you should have seen on yours is 100, and that's it."
+      },
+      {
+        "id": 30,
+        "start": 125.04000091552734,
+        "end": 128.0399932861328,
+        "text": " So, I'm going to notify them, and they're going to send you the correct order."
+      },
+      {
+        "id": 31,
+        "start": 128.0399932861328,
+        "end": 130.0399932861328,
+        "text": " You'll receive this in three to four business days."
+      },
+      {
+        "id": 32,
+        "start": 130.0399932861328,
+        "end": 133.0399932861328,
+        "text": " The one that you have, you're more than welcome to keep user disposable."
+      },
+      {
+        "id": 33,
+        "start": 133.0399932861328,
+        "end": 135.0399932861328,
+        "text": " We'll send you the correct one."
+      },
+      {
+        "id": 34,
+        "start": 135.0399932861328,
+        "end": 138.0399932861328,
+        "text": " So, what is the one that I currently have?"
+      },
+      {
+        "id": 35,
+        "start": 138.0399932861328,
+        "end": 140.0399932861328,
+        "text": " It says it on the label right on the bottle, sir."
+      },
+      {
+        "id": 36,
+        "start": 140.0399932861328,
+        "end": 143.0399932861328,
+        "text": " It's a generic Viagra, standard."
+      },
+      {
+        "id": 37,
+        "start": 143.0399932861328,
+        "end": 146.0399932861328,
+        "text": " So, I do not have the AGV?"
+      },
+      {
+        "id": 38,
+        "start": 146.0399932861328,
+        "end": 149.0399932861328,
+        "text": " Yeah, that's why I just said that we would send you the correct one, sir."
+      },
+      {
+        "id": 39,
+        "start": 149.0399932861328,
+        "end": 152.0399932861328,
+        "text": " Okay, okay."
+      },
+      {
+        "id": 40,
+        "start": 152.0399932861328,
+        "end": 157.0399932861328,
+        "text": " And what should the new pill say on them to identify them as AGV?"
+      },
+      {
+        "id": 41,
+        "start": 157.0399932861328,
+        "end": 160.0399932861328,
+        "text": " 100."
+      },
+      {
+        "id": 42,
+        "start": 160.0399932861328,
+        "end": 162.0399932861328,
+        "text": " That's all it will say is 100?"
+      },
+      {
+        "id": 43,
+        "start": 162.0399932861328,
+        "end": 164.0399932861328,
+        "text": " Yeah, exactly."
+      },
+      {
+        "id": 44,
+        "start": 164.0399932861328,
+        "end": 166.0399932861328,
+        "text": " Okay, okay."
+      },
+      {
+        "id": 45,
+        "start": 166.0399932861328,
+        "end": 168.0399932861328,
+        "text": " And so, do I send these?"
+      },
+      {
+        "id": 46,
+        "start": 168.0399932861328,
+        "end": 172.0399932861328,
+        "text": " I think you answered that, but do I send these back to you or just wait for them?"
+      },
+      {
+        "id": 47,
+        "start": 172.0399932861328,
+        "end": 175.0399932861328,
+        "text": " No, like I mentioned, you can just hold on to them, dispose of them."
+      },
+      {
+        "id": 48,
+        "start": 175.0399932861328,
+        "end": 178.0399932861328,
+        "text": " We'll send you the correct one."
+      },
+      {
+        "id": 49,
+        "start": 178.0399932861328,
+        "end": 181.0399932861328,
+        "text": " Okay, and how long will that take until they arrive?"
+      },
+      {
+        "id": 50,
+        "start": 181.0399932861328,
+        "end": 183.0399932861328,
+        "text": " Three to four business days."
+      },
+      {
+        "id": 51,
+        "start": 183.0399932861328,
+        "end": 184.0399932861328,
+        "text": " Okay, wonderful."
+      },
+      {
+        "id": 52,
+        "start": 184.0399932861328,
+        "end": 186.0399932861328,
+        "text": " Anything else you need from me?"
+      },
+      {
+        "id": 53,
+        "start": 186.0399932861328,
+        "end": 187.0399932861328,
+        "text": " No, you're all set."
+      },
+      {
+        "id": 54,
+        "start": 187.0399932861328,
+        "end": 189.0399932861328,
+        "text": " Hope you have a good day, sir."
+      },
+      {
+        "id": 55,
+        "start": 189.0399932861328,
+        "end": 190.0399932861328,
+        "text": " I appreciate your time."
+      },
+      {
+        "id": 56,
+        "start": 190.0399932861328,
+        "end": 191.0399932861328,
+        "text": " Thank you."
+      },
+      {
+        "id": 57,
+        "start": 191.0399932861328,
+        "end": 192.0399932861328,
+        "text": " No problem."
+      },
+      {
+        "id": 58,
+        "start": 192.0399932861328,
+        "end": 193.0399932861328,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 59,
+        "start": 193.0399932861328,
+        "end": 194.0399932861328,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8188-ab66-dde5e149a002",
+    "url": "https://www.notion.so/300000001219288-300000001709382-2f611d0a101c8188ab66dde5e149a002"
+  },
+  "processedAt": "2026-01-28T13:26:22.642Z"
+}

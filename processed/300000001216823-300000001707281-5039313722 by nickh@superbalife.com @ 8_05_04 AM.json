@@ -1,0 +1,242 @@
+{
+  "recording": {
+    "name": "300000001216823-300000001707281-5039313722 by nickh@superbalife.com @ 8_05_04 AM.wav",
+    "size": 289246,
+    "modifyTime": 1769583131000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216823-300000001707281-5039313722 by nickh@superbalife.com @ 8_05_04 AM.wav",
+    "uploadDate": "2026-01-28T06:52:11.000Z",
+    "callId": "300000001216823-300000001707281",
+    "agent": "nickh",
+    "phoneNumber": "5039313722",
+    "callTimestamp": "2026-01-28T08:05:04.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra. How can I help you today?\n\nSpeaker 2: Hi, uh, I got a text message that I need to verify something.\n\nSpeaker 1: Okay, sir. Let me pull up your account here.\n\nSpeaker 2: Could you just confirm your full name and date of birth?\n\nSpeaker 1: Martin Springman, April 9th, 1965.\n\nSpeaker 2: Thank you, Mr. Springman. Let me take a look.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Bear with me, I'm just messaging the doctor really fast.\n\nSpeaker 1: Oh, no problem.\n\nSpeaker 2: So, did you by chance see the message there,\n\nSpeaker 1: while requesting that you record a quick video to confirm your identity?\n\nSpeaker 2: This is just a requirement with your state, as they just, you know,\n\nSpeaker 1: they're one of the few states that require this method.\n\nSpeaker 2: Are you able to do that? Do you have a smart phone?\n\nSpeaker 1: Or would you prefer a doctor call you?\n\nSpeaker 2: A doctor can call me, yes.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I mean, I tried the video thing, but it just wouldn't connect or anything like that.\n\nSpeaker 1: It just refused to upload.\n\nSpeaker 2: Okay.\n\nSpeaker 1: So what I'm going to do here is I'm going to put a request in for the doctor to call you.\n\nSpeaker 2: They should reach out within the next two hours,\n\nSpeaker 1: and it will be under an unassigned number, okay?\n\nSpeaker 2: Okay, no problem.\n\nSpeaker 1: Question, if everything goes well, is that shipped USPS or?\n\nSpeaker 2: It is shipped USPS, correct.\n\nSpeaker 1: Okay, so it's confidential.\n\nSpeaker 2: Yes, sir.\n\nSpeaker 1: All right.\n\nSpeaker 2: That's what I needed.\n\nSpeaker 1: And she'll call me back in about two hours?\n\nSpeaker 2: Yes, sir.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I appreciate that.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.",
+    "duration": 4498,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, thank you so much for calling Viagra. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 8,
+        "text": " Hi, uh, I got a text message that I need to verify something."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " Okay, sir. Let me pull up your account here."
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 19,
+        "text": " Could you just confirm your full name and date of birth?"
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 25,
+        "text": " Martin Springman, April 9th, 1965."
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 28,
+        "text": " Thank you, Mr. Springman. Let me take a look."
+      },
+      {
+        "id": 6,
+        "start": 30,
+        "end": 32,
+        "text": " Thank you."
+      },
+      {
+        "id": 7,
+        "start": 60,
+        "end": 78,
+        "text": " Bear with me, I'm just messaging the doctor really fast."
+      },
+      {
+        "id": 8,
+        "start": 78,
+        "end": 80,
+        "text": " Oh, no problem."
+      },
+      {
+        "id": 9,
+        "start": 90,
+        "end": 103,
+        "text": " So, did you by chance see the message there,"
+      },
+      {
+        "id": 10,
+        "start": 103,
+        "end": 108,
+        "text": " while requesting that you record a quick video to confirm your identity?"
+      },
+      {
+        "id": 11,
+        "start": 108,
+        "end": 114,
+        "text": " This is just a requirement with your state, as they just, you know,"
+      },
+      {
+        "id": 12,
+        "start": 114,
+        "end": 117,
+        "text": " they're one of the few states that require this method."
+      },
+      {
+        "id": 13,
+        "start": 117,
+        "end": 119,
+        "text": " Are you able to do that? Do you have a smart phone?"
+      },
+      {
+        "id": 14,
+        "start": 119,
+        "end": 122,
+        "text": " Or would you prefer a doctor call you?"
+      },
+      {
+        "id": 15,
+        "start": 122,
+        "end": 125,
+        "text": " A doctor can call me, yes."
+      },
+      {
+        "id": 16,
+        "start": 125,
+        "end": 126,
+        "text": " Okay."
+      },
+      {
+        "id": 17,
+        "start": 126,
+        "end": 133,
+        "text": " I mean, I tried the video thing, but it just wouldn't connect or anything like that."
+      },
+      {
+        "id": 18,
+        "start": 133,
+        "end": 135,
+        "text": " It just refused to upload."
+      },
+      {
+        "id": 19,
+        "start": 135,
+        "end": 136,
+        "text": " Okay."
+      },
+      {
+        "id": 20,
+        "start": 136,
+        "end": 140,
+        "text": " So what I'm going to do here is I'm going to put a request in for the doctor to call you."
+      },
+      {
+        "id": 21,
+        "start": 140,
+        "end": 142,
+        "text": " They should reach out within the next two hours,"
+      },
+      {
+        "id": 22,
+        "start": 142,
+        "end": 145,
+        "text": " and it will be under an unassigned number, okay?"
+      },
+      {
+        "id": 23,
+        "start": 146,
+        "end": 148,
+        "text": " Okay, no problem."
+      },
+      {
+        "id": 24,
+        "start": 148,
+        "end": 157,
+        "text": " Question, if everything goes well, is that shipped USPS or?"
+      },
+      {
+        "id": 25,
+        "start": 157,
+        "end": 160,
+        "text": " It is shipped USPS, correct."
+      },
+      {
+        "id": 26,
+        "start": 160,
+        "end": 162,
+        "text": " Okay, so it's confidential."
+      },
+      {
+        "id": 27,
+        "start": 162,
+        "end": 164,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 28,
+        "start": 164,
+        "end": 165,
+        "text": " All right."
+      },
+      {
+        "id": 29,
+        "start": 165,
+        "end": 166,
+        "text": " That's what I needed."
+      },
+      {
+        "id": 30,
+        "start": 166,
+        "end": 168,
+        "text": " And she'll call me back in about two hours?"
+      },
+      {
+        "id": 31,
+        "start": 168,
+        "end": 170,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 32,
+        "start": 170,
+        "end": 171,
+        "text": " Okay."
+      },
+      {
+        "id": 33,
+        "start": 171,
+        "end": 172,
+        "text": " I appreciate that."
+      },
+      {
+        "id": 34,
+        "start": 172,
+        "end": 173,
+        "text": " Thank you."
+      },
+      {
+        "id": 35,
+        "start": 173,
+        "end": 178,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816b-850b-f381f71dacf1",
+    "url": "https://www.notion.so/300000001216823-300000001707281-2f611d0a101c816b850bf381f71dacf1"
+  },
+  "processedAt": "2026-01-28T16:40:40.805Z"
+}

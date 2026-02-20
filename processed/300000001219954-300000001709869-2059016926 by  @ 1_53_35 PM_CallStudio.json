@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001219954-300000001709869-2059016926 by  @ 1_53_35 PM_CallStudio.wav",
+    "size": 48290,
+    "modifyTime": 1769550874000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219954-300000001709869-2059016926 by  @ 1_53_35 PM_CallStudio.wav",
+    "uploadDate": "2026-01-27T21:54:34.000Z",
+    "callId": "300000001219954-300000001709869",
+    "phoneNumber": "2059016926",
+    "callTimestamp": "2026-01-27T21:54:34.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: This is a natural language AI.\n\nSpeaker 2: Just say what you would like to do.\n\nSpeaker 1: For example, track an order or send me to the billing department.\n\nSpeaker 2: Let's try again.\n\nSpeaker 1: Please state the reason for your call.\n\nSpeaker 2: It's transferring to agent.",
+    "duration": 1205,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.800000190734863,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.800000190734863,
+        "end": 12.180000305175781,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 12.180000305175781,
+        "end": 14.920000076293945,
+        "text": " This is a natural language AI."
+      },
+      {
+        "id": 3,
+        "start": 14.920000076293945,
+        "end": 17.040000915527344,
+        "text": " Just say what you would like to do."
+      },
+      {
+        "id": 4,
+        "start": 17.040000915527344,
+        "end": 21.600000381469727,
+        "text": " For example, track an order or send me to the billing department."
+      },
+      {
+        "id": 5,
+        "start": 21.600000381469727,
+        "end": 23.15999984741211,
+        "text": " Let's try again."
+      },
+      {
+        "id": 6,
+        "start": 23.15999984741211,
+        "end": 28.360000610351562,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 7,
+        "start": 28.360000610351562,
+        "end": 29.31999969482422,
+        "text": " It's transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8135-86c6-f87627c31200",
+    "url": "https://www.notion.so/300000001219954-300000001709869-2f511d0a101c813586c6f87627c31200"
+  },
+  "processedAt": "2026-01-27T23:22:14.995Z"
+}

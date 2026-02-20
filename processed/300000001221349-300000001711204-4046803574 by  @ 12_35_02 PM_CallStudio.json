@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001221349-300000001711204-4046803574 by  @ 12_35_02 PM_CallStudio.wav",
+    "size": 46276,
+    "modifyTime": 1769632559000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221349-300000001711204-4046803574 by  @ 12_35_02 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T20:35:59.000Z",
+    "callId": "300000001221349-300000001711204",
+    "phoneNumber": "4046803574",
+    "callTimestamp": "2026-01-28T20:35:59.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para español marquen número nueve.\n\nSpeaker 2: We didn't receive a response or I couldn't hear you.\n\nSpeaker 1: Let's try again.\n\nSpeaker 2: Please state the reason for your call.\n\nSpeaker 1: Cancel prescription.\n\nSpeaker 2: Thanks, transferring to agent.",
+    "duration": 1351,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.179999828338623,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.179999828338623,
+        "end": 7.179999828338623,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.179999828338623,
+        "end": 16.600000381469727,
+        "text": " Para español marquen numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 16.600000381469727,
+        "end": 19.8799991607666,
+        "text": " We didn't receive a response or I couldn't hear your."
+      },
+      {
+        "id": 4,
+        "start": 19.8799991607666,
+        "end": 21.440000534057617,
+        "text": " Let's try again."
+      },
+      {
+        "id": 5,
+        "start": 21.440000534057617,
+        "end": 24.360000610351562,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 6,
+        "start": 24.360000610351562,
+        "end": 26.959999084472656,
+        "text": " Cancel prescription."
+      },
+      {
+        "id": 7,
+        "start": 26.959999084472656,
+        "end": 28.15999984741211,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-818a-80bc-e30a61f3d7df",
+    "url": "https://www.notion.so/300000001221349-300000001711204-2f611d0a101c818a80bce30a61f3d7df"
+  },
+  "processedAt": "2026-01-28T22:59:04.361Z"
+}

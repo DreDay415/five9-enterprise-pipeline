@@ -1,0 +1,164 @@
+{
+  "recording": {
+    "name": "300000001218272-300000001708302-5058604256 by nickh@superbalife.com @ 2_06_13 PM.wav",
+    "size": 185180,
+    "modifyTime": 1769591533000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218272-300000001708302-5058604256 by nickh@superbalife.com @ 2_06_13 PM.wav",
+    "uploadDate": "2026-01-28T09:12:13.000Z",
+    "callId": "300000001218272-300000001708302",
+    "agent": "nickh",
+    "phoneNumber": "5058604256",
+    "callTimestamp": "2026-01-28T14:06:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra. How can I help you today?\n\nSpeaker 2: Well, I need a new supply.\n\nSpeaker 1: All righty. I can help you with this. Can I get your full name and date of birth, please?\n\nSpeaker 2: Marion Wells, 5-15-48.\n\nSpeaker 1: All right, Mr. Wells, I see your last prescription was for a quantity of 10 of the 50 mg Viagra AGV. Is that accurate?\n\nSpeaker 2: Yes, it is.\n\nSpeaker 1: And is that the refill you would like to do this time around?\n\nSpeaker 2: It is.\n\nSpeaker 1: Okay, so going to PO Box 407, Kirtland, New Mexico?\n\nSpeaker 2: 87417.\n\nSpeaker 1: All righty. And do you want me to run the same card we have on file?\n\nSpeaker 2: No.\n\nSpeaker 1: Okay. You can erase that because I've deleted that card.\n\nSpeaker 2: All righty. I can take the new card from you then when you're ready.\n\nSpeaker 1: PO Box 4037-6627-6963-0340, expiration 1-30.\n\nSpeaker 2: And then the three-digit security code?\n\nSpeaker 1: 0-1-6.\n\nSpeaker 2: I can put this through for you.\n\nSpeaker 1: All right, Mr. Wells, that went through and you're all set.\n\nSpeaker 2: Okay. Appreciate it.\n\nSpeaker 1: You're very welcome. Happy to help.\n\nSpeaker 2: Have a good day.\n\nSpeaker 1: You too. Bye-bye.",
+    "duration": 4090,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi, thank you so much for calling Viagra. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 8,
+        "text": " Well, I need a new supply."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 13,
+        "text": " All righty. I can help you with this. Can I get your full name and date of birth, please?"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 25,
+        "text": " Marion Wells, 5-15-48."
+      },
+      {
+        "id": 4,
+        "start": 25,
+        "end": 33,
+        "text": " All right, Mr. Wells, I see your last prescription was for a quantity of 10 of the 50 mg Viagra AGV. Is that accurate?"
+      },
+      {
+        "id": 5,
+        "start": 33,
+        "end": 35,
+        "text": " Yes, it is."
+      },
+      {
+        "id": 6,
+        "start": 35,
+        "end": 38,
+        "text": " And is that the refill you would like to do this time around?"
+      },
+      {
+        "id": 7,
+        "start": 38,
+        "end": 39,
+        "text": " It is."
+      },
+      {
+        "id": 8,
+        "start": 39,
+        "end": 45,
+        "text": " Okay, so going to PO Box 407, Kirtland, New Mexico?"
+      },
+      {
+        "id": 9,
+        "start": 45,
+        "end": 47,
+        "text": " 87417."
+      },
+      {
+        "id": 10,
+        "start": 47,
+        "end": 52,
+        "text": " All righty. And do you want me to run the same card we have on file?"
+      },
+      {
+        "id": 11,
+        "start": 52,
+        "end": 54,
+        "text": " No."
+      },
+      {
+        "id": 12,
+        "start": 54,
+        "end": 61,
+        "text": " Okay. You can erase that because I've deleted that card."
+      },
+      {
+        "id": 13,
+        "start": 61,
+        "end": 66,
+        "text": " All righty. I can take the new card from you then when you're ready."
+      },
+      {
+        "id": 14,
+        "start": 66,
+        "end": 84,
+        "text": " PO Box 4037-6627-6963-0340, expiration 1-30."
+      },
+      {
+        "id": 15,
+        "start": 84,
+        "end": 87,
+        "text": " And then the three-digit security code?"
+      },
+      {
+        "id": 16,
+        "start": 87,
+        "end": 94,
+        "text": " 0-1-6."
+      },
+      {
+        "id": 17,
+        "start": 94,
+        "end": 100,
+        "text": " I can put this through for you."
+      },
+      {
+        "id": 18,
+        "start": 100,
+        "end": 104,
+        "text": " All right, Mr. Wells, that went through and you're all set."
+      },
+      {
+        "id": 19,
+        "start": 104,
+        "end": 106,
+        "text": " Okay. Appreciate it."
+      },
+      {
+        "id": 20,
+        "start": 106,
+        "end": 109,
+        "text": " You're very welcome. Happy to help."
+      },
+      {
+        "id": 21,
+        "start": 109,
+        "end": 110,
+        "text": " Have a good day."
+      },
+      {
+        "id": 22,
+        "start": 110,
+        "end": 114,
+        "text": " You too. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81f0-ac66-d6b9f12bb39e",
+    "url": "https://www.notion.so/300000001218272-300000001708302-2f611d0a101c81f0ac66d6b9f12bb39e"
+  },
+  "processedAt": "2026-01-28T11:34:55.622Z"
+}

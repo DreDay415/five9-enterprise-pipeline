@@ -1,0 +1,98 @@
+{
+  "recording": {
+    "name": "300000001216748-300000001706071-6052614840 by john@superbalife.com @ 4_36_35 PM.wav",
+    "size": 72406,
+    "modifyTime": 1769586434000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216748-300000001706071-6052614840 by john@superbalife.com @ 4_36_35 PM.wav",
+    "uploadDate": "2026-01-28T07:47:14.000Z",
+    "callId": "300000001216748-300000001706071",
+    "agent": "john",
+    "phoneNumber": "6052614840",
+    "callTimestamp": "2026-01-28T16:36:35.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling, this is John, how can I help you today?\n\nSpeaker 2: Yeah, I'm going to cancel my order that I just placed.\n\nSpeaker 1: Okay, I need your name and zip code.\n\nSpeaker 2: Uh, Glenn Roth, uh, it's, um, um, 57029.\n\nSpeaker 1: 421 South Poplar Street?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, Glenn, so I see you logged into the account today and you updated the credit card on the account, but you did not actually order anything.\n\nSpeaker 2: So you were not billed and there's nothing for me to cancel.\n\nSpeaker 1: Okay. Okay.\n\nSpeaker 2: Yeah, thank you then.\n\nSpeaker 1: Have a good weekend.\n\nSpeaker 2: You too. Bye now.",
+    "duration": 1602,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.5,
+        "text": " Thank you for calling, this is John, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 2.5,
+        "end": 7.5,
+        "text": " Yeah, I'm going to cancel my order that I just placed."
+      },
+      {
+        "id": 2,
+        "start": 7.5,
+        "end": 10,
+        "text": " Okay, I need your name and zip code."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 22.5,
+        "text": " Uh, Glenn Roth, uh, it's, um, um, 57029."
+      },
+      {
+        "id": 4,
+        "start": 22.5,
+        "end": 25.5,
+        "text": " 421 South Poplar Street?"
+      },
+      {
+        "id": 5,
+        "start": 25.5,
+        "end": 26.5,
+        "text": " Yes."
+      },
+      {
+        "id": 6,
+        "start": 26.5,
+        "end": 32.5,
+        "text": " Okay, Glenn, so I see you logged into the account today and you updated the credit card on the account, but you did not actually order anything."
+      },
+      {
+        "id": 7,
+        "start": 32.5,
+        "end": 35.5,
+        "text": " So you were not billed and there's nothing for me to cancel."
+      },
+      {
+        "id": 8,
+        "start": 35.5,
+        "end": 38.5,
+        "text": " Okay. Okay."
+      },
+      {
+        "id": 9,
+        "start": 38.5,
+        "end": 41.5,
+        "text": " Yeah, thank you then."
+      },
+      {
+        "id": 10,
+        "start": 41.5,
+        "end": 42.5,
+        "text": " Have a good weekend."
+      },
+      {
+        "id": 11,
+        "start": 42.5,
+        "end": 44.5,
+        "text": " You too. Bye now."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8171-a852-e00de315c000",
+    "url": "https://www.notion.so/300000001216748-300000001706071-2f611d0a101c8171a852e00de315c000"
+  },
+  "processedAt": "2026-01-28T13:48:33.872Z"
+}

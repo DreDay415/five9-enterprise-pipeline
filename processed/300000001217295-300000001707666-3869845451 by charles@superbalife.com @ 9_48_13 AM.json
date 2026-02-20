@@ -1,0 +1,494 @@
+{
+  "recording": {
+    "name": "300000001217295-300000001707666-3869845451 by charles@superbalife.com @ 9_48_13 AM.wav",
+    "size": 255706,
+    "modifyTime": 1769582257000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217295-300000001707666-3869845451 by charles@superbalife.com @ 9_48_13 AM.wav",
+    "uploadDate": "2026-01-28T06:37:37.000Z",
+    "callId": "300000001217295-300000001707666",
+    "agent": "charles",
+    "phoneNumber": "3869845451",
+    "callTimestamp": "2026-01-28T09:48:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I guess I'm trying to cancel my prescription.\n\nSpeaker 2: All right.\n\nSpeaker 1: Jimmy Woods in Live Oak, Florida.\n\nSpeaker 2: Yes, that's correct.\n\nSpeaker 1: All right.\n\nSpeaker 2: All right, Jimmy.\n\nSpeaker 1: It looks like you barely became part of the family here.\n\nSpeaker 2: Any particular reason?\n\nSpeaker 1: Yeah, I tried it.\n\nSpeaker 2: Yeah, I tried it, and I had some side effects, and I was like, no, I'm done.\n\nSpeaker 1: I'm just going to talk to my doctor.\n\nSpeaker 2: Yeah, I'm just going to go talk to my doctor about it.\n\nSpeaker 1: So I just want to go ahead and just cancel it.\n\nSpeaker 2: If you don't mind me asking, Jimmy, what did you experience?\n\nSpeaker 1: What side effects?\n\nSpeaker 2: Like dizziness, which, you know, sometimes it causes that, blurriness.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: You know, and so I was just like, you know, no.\n\nSpeaker 1: I'm good.\n\nSpeaker 2: I was just like.\n\nSpeaker 1: Right.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Right.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: If you'd like, I'm just throwing this out there.\n\nSpeaker 1: So it's always very disappointing whenever we hear that our product has either side effects or just doesn't work.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: I don't want to sell you anything, Jimmy.\n\nSpeaker 2: I want to see if anything that we have can fit the bill for you without any side effects.\n\nSpeaker 1: I can send you another variation of the Viagra AGV that's made in the France factory.\n\nSpeaker 2: It's already FDA approved.\n\nSpeaker 1: I want to roll the dice with it.\n\nSpeaker 2: If you want to roll the dice as well, we definitely can.\n\nSpeaker 1: I can send 10 pills to you completely for free.\n\nSpeaker 2: And then pause everything for the next six months.\n\nSpeaker 1: That way you have time to talk to the doctor and then see if this one, this pill that I sent you is the right fit for you.\n\nSpeaker 2: And then work things out with the doctor.\n\nSpeaker 1: Call us back and let us know what's what after that.\n\nSpeaker 2: I mean, yeah, I guess I could try it.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Sounds good.\n\nSpeaker 1: It won't hurt.\n\nSpeaker 2: You know what I'm saying?\n\nSpeaker 1: Exactly.\n\nSpeaker 2: And like I said, our stuff is FDA approved.\n\nSpeaker 1: So these things should be doing the job without any type of repercussions.\n\nSpeaker 2: I'll message the pharmacy right now for you, Jimmy.\n\nSpeaker 1: I'll have them send it out by today.\n\nSpeaker 2: I'd expect it by maybe Friday or Saturday.\n\nSpeaker 1: And then don't expect anything for about the next five to six months.\n\nSpeaker 2: That way it gives you time to talk to the doctor.\n\nSpeaker 1: Call us back and let us know what the deal is.\n\nSpeaker 2: Okay?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Alrighty.\n\nSpeaker 1: Sounds good.\n\nSpeaker 2: I hope you have a great one.\n\nSpeaker 1: If you ever need me back, Jimmy, my extension is 0040.\n\nSpeaker 2: And what is it again?\n\nSpeaker 1: Zero what?\n\nSpeaker 2: 0040.\n\nSpeaker 1: 0040.\n\nSpeaker 2: 0040.\n\nSpeaker 1: Okay.\n\nSpeaker 2: 0040.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yes, sir.\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: Okay, Jimmy.\n\nSpeaker 1: I hope you have a great rest of your day.\n\nSpeaker 2: All right?\n\nSpeaker 1: All right.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Absolutely.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: All right.",
+    "duration": 6626,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " I guess I'm trying to cancel my prescription."
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 8,
+        "text": " All right."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " Jimmy Woods in Live Oak, Florida."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 12,
+        "text": " Yes, that's correct."
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 13,
+        "text": " All right."
+      },
+      {
+        "id": 5,
+        "start": 13,
+        "end": 14,
+        "text": " All right, Jimmy."
+      },
+      {
+        "id": 6,
+        "start": 14,
+        "end": 19,
+        "text": " It looks like you barely became part of the family here."
+      },
+      {
+        "id": 7,
+        "start": 19,
+        "end": 20,
+        "text": " Any particular reason?"
+      },
+      {
+        "id": 8,
+        "start": 20,
+        "end": 21,
+        "text": " Yeah, I tried it."
+      },
+      {
+        "id": 9,
+        "start": 21,
+        "end": 26,
+        "text": " Yeah, I tried it, and I had some side effects, and I was like, no, I'm done."
+      },
+      {
+        "id": 10,
+        "start": 26,
+        "end": 28,
+        "text": " I'm just going to talk to my doctor."
+      },
+      {
+        "id": 11,
+        "start": 28,
+        "end": 31,
+        "text": " Yeah, I'm just going to go talk to my doctor about it."
+      },
+      {
+        "id": 12,
+        "start": 31,
+        "end": 33,
+        "text": " So I just want to go ahead and just cancel it."
+      },
+      {
+        "id": 13,
+        "start": 33,
+        "end": 36,
+        "text": " If you don't mind me asking, Jimmy, what did you experience?"
+      },
+      {
+        "id": 14,
+        "start": 36,
+        "end": 37,
+        "text": " What side effects?"
+      },
+      {
+        "id": 15,
+        "start": 37,
+        "end": 42,
+        "text": " Like dizziness, which, you know, sometimes it causes that, blurriness."
+      },
+      {
+        "id": 16,
+        "start": 42,
+        "end": 43,
+        "text": " Yeah."
+      },
+      {
+        "id": 17,
+        "start": 43,
+        "end": 47,
+        "text": " You know, and so I was just like, you know, no."
+      },
+      {
+        "id": 18,
+        "start": 47,
+        "end": 48,
+        "text": " I'm good."
+      },
+      {
+        "id": 19,
+        "start": 48,
+        "end": 49,
+        "text": " I was just like."
+      },
+      {
+        "id": 20,
+        "start": 49,
+        "end": 50,
+        "text": " Right."
+      },
+      {
+        "id": 21,
+        "start": 50,
+        "end": 51,
+        "text": " Yeah."
+      },
+      {
+        "id": 22,
+        "start": 51,
+        "end": 52,
+        "text": " Right."
+      },
+      {
+        "id": 23,
+        "start": 52,
+        "end": 53,
+        "text": " Yeah."
+      },
+      {
+        "id": 24,
+        "start": 53,
+        "end": 54,
+        "text": " Okay."
+      },
+      {
+        "id": 25,
+        "start": 54,
+        "end": 55,
+        "text": " If you'd like, I'm just throwing this out there."
+      },
+      {
+        "id": 26,
+        "start": 56,
+        "end": 61,
+        "text": " So it's always very disappointing whenever we hear that our product has either side effects or just doesn't work."
+      },
+      {
+        "id": 27,
+        "start": 61,
+        "end": 62,
+        "text": " Yeah."
+      },
+      {
+        "id": 28,
+        "start": 62,
+        "end": 64,
+        "text": " I don't want to sell you anything, Jimmy."
+      },
+      {
+        "id": 29,
+        "start": 64,
+        "end": 69,
+        "text": " I want to see if anything that we have can fit the bill for you without any side effects."
+      },
+      {
+        "id": 30,
+        "start": 69,
+        "end": 74,
+        "text": " I can send you another variation of the Viagra AGV that's made in the France factory."
+      },
+      {
+        "id": 31,
+        "start": 74,
+        "end": 76,
+        "text": " It's already FDA approved."
+      },
+      {
+        "id": 32,
+        "start": 76,
+        "end": 78,
+        "text": " I want to roll the dice with it."
+      },
+      {
+        "id": 33,
+        "start": 78,
+        "end": 80,
+        "text": " If you want to roll the dice as well, we definitely can."
+      },
+      {
+        "id": 34,
+        "start": 80,
+        "end": 83,
+        "text": " I can send 10 pills to you completely for free."
+      },
+      {
+        "id": 35,
+        "start": 84,
+        "end": 86,
+        "text": " And then pause everything for the next six months."
+      },
+      {
+        "id": 36,
+        "start": 86,
+        "end": 93,
+        "text": " That way you have time to talk to the doctor and then see if this one, this pill that I sent you is the right fit for you."
+      },
+      {
+        "id": 37,
+        "start": 93,
+        "end": 95,
+        "text": " And then work things out with the doctor."
+      },
+      {
+        "id": 38,
+        "start": 95,
+        "end": 97,
+        "text": " Call us back and let us know what's what after that."
+      },
+      {
+        "id": 39,
+        "start": 97,
+        "end": 100,
+        "text": " I mean, yeah, I guess I could try it."
+      },
+      {
+        "id": 40,
+        "start": 100,
+        "end": 101,
+        "text": " Okay."
+      },
+      {
+        "id": 41,
+        "start": 101,
+        "end": 102,
+        "text": " Sounds good."
+      },
+      {
+        "id": 42,
+        "start": 102,
+        "end": 103,
+        "text": " It won't hurt."
+      },
+      {
+        "id": 43,
+        "start": 103,
+        "end": 104,
+        "text": " You know what I'm saying?"
+      },
+      {
+        "id": 44,
+        "start": 104,
+        "end": 105,
+        "text": " Exactly."
+      },
+      {
+        "id": 45,
+        "start": 105,
+        "end": 107,
+        "text": " And like I said, our stuff is FDA approved."
+      },
+      {
+        "id": 46,
+        "start": 107,
+        "end": 110,
+        "text": " So these things should be doing the job without any type of repercussions."
+      },
+      {
+        "id": 47,
+        "start": 111,
+        "end": 113,
+        "text": " I'll message the pharmacy right now for you, Jimmy."
+      },
+      {
+        "id": 48,
+        "start": 113,
+        "end": 115,
+        "text": " I'll have them send it out by today."
+      },
+      {
+        "id": 49,
+        "start": 115,
+        "end": 118,
+        "text": " I'd expect it by maybe Friday or Saturday."
+      },
+      {
+        "id": 50,
+        "start": 118,
+        "end": 121,
+        "text": " And then don't expect anything for about the next five to six months."
+      },
+      {
+        "id": 51,
+        "start": 121,
+        "end": 123,
+        "text": " That way it gives you time to talk to the doctor."
+      },
+      {
+        "id": 52,
+        "start": 123,
+        "end": 126,
+        "text": " Call us back and let us know what the deal is."
+      },
+      {
+        "id": 53,
+        "start": 126,
+        "end": 127,
+        "text": " Okay?"
+      },
+      {
+        "id": 54,
+        "start": 127,
+        "end": 128,
+        "text": " Okay."
+      },
+      {
+        "id": 55,
+        "start": 128,
+        "end": 129,
+        "text": " Alrighty."
+      },
+      {
+        "id": 56,
+        "start": 129,
+        "end": 130,
+        "text": " Sounds good."
+      },
+      {
+        "id": 57,
+        "start": 130,
+        "end": 131,
+        "text": " I hope you have a great one."
+      },
+      {
+        "id": 58,
+        "start": 131,
+        "end": 135,
+        "text": " If you ever need me back, Jimmy, my extension is 0040."
+      },
+      {
+        "id": 59,
+        "start": 135,
+        "end": 137,
+        "text": " And what is it again?"
+      },
+      {
+        "id": 60,
+        "start": 137,
+        "end": 138,
+        "text": " Zero what?"
+      },
+      {
+        "id": 61,
+        "start": 139,
+        "end": 140,
+        "text": " 0040."
+      },
+      {
+        "id": 62,
+        "start": 140,
+        "end": 141,
+        "text": " 0040."
+      },
+      {
+        "id": 63,
+        "start": 141,
+        "end": 142,
+        "text": " 0040."
+      },
+      {
+        "id": 64,
+        "start": 142,
+        "end": 143,
+        "text": " Okay."
+      },
+      {
+        "id": 65,
+        "start": 143,
+        "end": 144,
+        "text": " 0040."
+      },
+      {
+        "id": 66,
+        "start": 144,
+        "end": 145,
+        "text": " Okay."
+      },
+      {
+        "id": 67,
+        "start": 145,
+        "end": 146,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 68,
+        "start": 146,
+        "end": 147,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 69,
+        "start": 147,
+        "end": 148,
+        "text": " Okay, Jimmy."
+      },
+      {
+        "id": 70,
+        "start": 148,
+        "end": 150,
+        "text": " I hope you have a great rest of your day."
+      },
+      {
+        "id": 71,
+        "start": 150,
+        "end": 151,
+        "text": " All right?"
+      },
+      {
+        "id": 72,
+        "start": 151,
+        "end": 152,
+        "text": " All right."
+      },
+      {
+        "id": 73,
+        "start": 152,
+        "end": 153,
+        "text": " Thank you."
+      },
+      {
+        "id": 74,
+        "start": 153,
+        "end": 154,
+        "text": " Absolutely."
+      },
+      {
+        "id": 75,
+        "start": 154,
+        "end": 155,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 76,
+        "start": 155,
+        "end": 156,
+        "text": " All right."
+      },
+      {
+        "id": 77,
+        "start": 156,
+        "end": 156,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81df-86ad-e43ab2717730",
+    "url": "https://www.notion.so/300000001217295-300000001707666-2f611d0a101c81df86ade43ab2717730"
+  },
+  "processedAt": "2026-01-28T17:14:36.460Z"
+}

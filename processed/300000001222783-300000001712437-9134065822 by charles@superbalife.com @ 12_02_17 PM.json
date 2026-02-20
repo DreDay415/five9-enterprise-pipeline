@@ -1,0 +1,254 @@
+{
+  "recording": {
+    "name": "300000001222783-300000001712437-9134065822 by charles@superbalife.com @ 12_02_17 PM.wav",
+    "size": 177770,
+    "modifyTime": 1769717068000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222783-300000001712437-9134065822 by charles@superbalife.com @ 12_02_17 PM.wav",
+    "uploadDate": "2026-01-29T20:04:28.000Z",
+    "callId": "300000001222783-300000001712437",
+    "agent": "charles",
+    "phoneNumber": "9134065822",
+    "callTimestamp": "2026-01-29T12:02:17.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra. This is Charles.\n\nSpeaker 2: Hey, how's it going?\n\nSpeaker 1: Pretty good. How about yourself?\n\nSpeaker 2: Okay, I guess. How do we cancel this stuff?\n\nSpeaker 1: I can help you out. Timothy went in Ottawa, Kansas.\n\nSpeaker 2: Correct.\n\nSpeaker 1: All right. Okay, Timothy, it does look like you are a VIP member here.\n\nSpeaker 2: Do you just not need the pills as often as every single month?\n\nSpeaker 1: And need to pump the brakes for a while?\n\nSpeaker 2: What did you say again, please?\n\nSpeaker 1: Do you need to pump the brakes for a while on receiving anything?\n\nSpeaker 2: Do you just not need them every month?\n\nSpeaker 1: No, I don't need them very much.\n\nSpeaker 2: We're getting older, and the wife is not interested that much.\n\nSpeaker 1: Oh, man. I got you.\n\nSpeaker 2: If you want, what we can do is pause everything for six months at a time.\n\nSpeaker 1: That way, it doesn't come every month.\n\nSpeaker 2: It would be like once or twice a year,\n\nSpeaker 1: and then you're able to call in and request them as needed.\n\nSpeaker 2: I'll make sure this is the last one you get for a while.\n\nSpeaker 1: So what are you going to do? Say it again.\n\nSpeaker 2: I'm going to pause any future refill.\n\nSpeaker 1: We're not going to charge you or send you anything for six months at a time.\n\nSpeaker 2: Okay? It will only come once or twice a year,\n\nSpeaker 1: and then if you need them earlier,\n\nSpeaker 2: you can call in and request them as needed as well.\n\nSpeaker 1: Okay, so twice a year basically, right?\n\nSpeaker 2: Exactly.\n\nSpeaker 1: If she gets in the mood, I'll give you a call.\n\nSpeaker 2: Exactly. Exactly. All right.\n\nSpeaker 1: Okay. Sounds good, Timothy. I will set that up for you right now.\n\nSpeaker 2: Nothing else to worry about. Just give us a call if you need them earlier.\n\nSpeaker 1: Is there one underway now, though?\n\nSpeaker 2: Yeah. I'm going to make sure that's the last one for a while, okay?\n\nSpeaker 1: I'll take that. I'll be all right.\n\nSpeaker 2: Okay. Sounds good. All right, Timothy. Hope you have a great one.\n\nSpeaker 1: All right. Thank you very much. Bye.\n\nSpeaker 2: Take care. Bye-bye.",
+    "duration": 6278,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thanks for calling Viagra. This is Charles."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " Hey, how's it going?"
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " Pretty good. How about yourself?"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 16,
+        "text": " Okay, I guess. How do we cancel this stuff?"
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 20,
+        "text": " I can help you out. Timothy went in Ottawa, Kansas."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 22,
+        "text": " Correct."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 25,
+        "text": " All right. Okay, Timothy, it does look like you are a VIP member here."
+      },
+      {
+        "id": 7,
+        "start": 25,
+        "end": 27,
+        "text": " Do you just not need the pills as often as every single month"
+      },
+      {
+        "id": 8,
+        "start": 27,
+        "end": 31,
+        "text": " and need to pump the brakes for a while?"
+      },
+      {
+        "id": 9,
+        "start": 31,
+        "end": 33,
+        "text": " What did you say again, please?"
+      },
+      {
+        "id": 10,
+        "start": 33,
+        "end": 35,
+        "text": " Do you need to pump the brakes for a while on receiving anything?"
+      },
+      {
+        "id": 11,
+        "start": 35,
+        "end": 38,
+        "text": " Do you just not need them every month?"
+      },
+      {
+        "id": 12,
+        "start": 38,
+        "end": 40,
+        "text": " No, I don't need them very much."
+      },
+      {
+        "id": 13,
+        "start": 40,
+        "end": 43,
+        "text": " We're getting older, and the wife is not interested that much."
+      },
+      {
+        "id": 14,
+        "start": 43,
+        "end": 46,
+        "text": " Oh, man. I got you."
+      },
+      {
+        "id": 15,
+        "start": 46,
+        "end": 50,
+        "text": " If you want, what we can do is pause everything for six months at a time."
+      },
+      {
+        "id": 16,
+        "start": 50,
+        "end": 52,
+        "text": " That way, it doesn't come every month."
+      },
+      {
+        "id": 17,
+        "start": 52,
+        "end": 54,
+        "text": " It would be like once or twice a year,"
+      },
+      {
+        "id": 18,
+        "start": 54,
+        "end": 56,
+        "text": " and then you're able to call in and request them as needed."
+      },
+      {
+        "id": 19,
+        "start": 56,
+        "end": 60,
+        "text": " I'll make sure this is the last one you get for a while."
+      },
+      {
+        "id": 20,
+        "start": 60,
+        "end": 63,
+        "text": " So what are you going to do? Say it again."
+      },
+      {
+        "id": 21,
+        "start": 63,
+        "end": 66,
+        "text": " I'm going to pause any future refill."
+      },
+      {
+        "id": 22,
+        "start": 66,
+        "end": 69,
+        "text": " We're not going to charge you or send you anything for six months at a time."
+      },
+      {
+        "id": 23,
+        "start": 69,
+        "end": 72,
+        "text": " Okay? It will only come once or twice a year,"
+      },
+      {
+        "id": 24,
+        "start": 72,
+        "end": 74,
+        "text": " and then if you need them earlier,"
+      },
+      {
+        "id": 25,
+        "start": 74,
+        "end": 78,
+        "text": " you can call in and request them as needed as well."
+      },
+      {
+        "id": 26,
+        "start": 78,
+        "end": 81,
+        "text": " Okay, so twice a year basically, right?"
+      },
+      {
+        "id": 27,
+        "start": 81,
+        "end": 83,
+        "text": " Exactly."
+      },
+      {
+        "id": 28,
+        "start": 83,
+        "end": 87,
+        "text": " If she gets in the mood, I'll give you a call."
+      },
+      {
+        "id": 29,
+        "start": 87,
+        "end": 90,
+        "text": " Exactly. Exactly. All right."
+      },
+      {
+        "id": 30,
+        "start": 90,
+        "end": 93,
+        "text": " Okay. Sounds good, Timothy. I will set that up for you right now."
+      },
+      {
+        "id": 31,
+        "start": 93,
+        "end": 96,
+        "text": " Nothing else to worry about. Just give us a call if you need them earlier."
+      },
+      {
+        "id": 32,
+        "start": 96,
+        "end": 98,
+        "text": " Is there one underway now, though?"
+      },
+      {
+        "id": 33,
+        "start": 98,
+        "end": 101,
+        "text": " Yeah. I'm going to make sure that's the last one for a while, okay?"
+      },
+      {
+        "id": 34,
+        "start": 101,
+        "end": 103,
+        "text": " I'll take that. I'll be all right."
+      },
+      {
+        "id": 35,
+        "start": 103,
+        "end": 106,
+        "text": " Okay. Sounds good. All right, Timothy. Hope you have a great one."
+      },
+      {
+        "id": 36,
+        "start": 106,
+        "end": 108,
+        "text": " All right. Thank you very much. Bye."
+      },
+      {
+        "id": 37,
+        "start": 108,
+        "end": 110,
+        "text": " Take care. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81f9-90e7-fd40a9feb314",
+    "url": "https://www.notion.so/300000001222783-300000001712437-2f711d0a101c81f990e7fd40a9feb314"
+  },
+  "processedAt": "2026-01-29T21:37:35.416Z"
+}

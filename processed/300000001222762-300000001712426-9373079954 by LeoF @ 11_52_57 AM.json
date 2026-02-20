@@ -1,0 +1,121 @@
+{
+  "recording": {
+    "name": "300000001222762-300000001712426-9373079954 by LeoF @ 11_52_57 AM.wav",
+    "size": 98470,
+    "modifyTime": 1769716459000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222762-300000001712426-9373079954 by LeoF @ 11_52_57 AM.wav",
+    "uploadDate": "2026-01-29T19:54:19.000Z",
+    "callId": "300000001222762-300000001712426",
+    "phoneNumber": "9373079954",
+    "callTimestamp": "2026-01-29T11:52:57.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, thanks for calling Viagra, how can I help you?\n\nSpeaker 2: Yes, hi, I need to pause my account for a while, please.\n\nSpeaker 1: Yeah, I can help you out with that, sir. What was your first and last name, please?\n\nSpeaker 2: It's Scott, S-T-O-T-T, Griffith, G-R-I-F-F-I-T-H.\n\nSpeaker 1: And your zip code, Scott?\n\nSpeaker 2: 43026.\n\nSpeaker 1: Okay, perfect. Yeah, I can push that 2, 3, 4, 5, even 6 months into the future, Mr. Griffith.\n\nSpeaker 2: When did you want me to set that for?\n\nSpeaker 1: I don't want to cancel it, but can you just make it as long as possible?\n\nSpeaker 2: Yeah, so I'll do that until July.\n\nSpeaker 1: If anything, if you need to call back before then, you can always push it further or get it sooner.\n\nSpeaker 2: All right, thank you. So I get charged again when, in July, you said?\n\nSpeaker 1: July 24th, if you don't call us to change anything.\n\nSpeaker 2: Got it. That's perfect. Thank you so much.\n\nSpeaker 1: Thank you, and enjoy the rest of your day. Bye now.\n\nSpeaker 2: You too. Bye.",
+    "duration": 3301,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hey, thanks for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Yes, hi, I need to pause my account for a while, please."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " Yeah, I can help you out with that, sir. What was your first and last name, please?"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 19,
+        "text": " It's Scott, S-T-O-T-T, Griffith, G-R-I-F-F-I-T-H."
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 22,
+        "text": " And your zip code, Scott?"
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 25,
+        "text": " 43026."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 34,
+        "text": " Okay, perfect. Yeah, I can push that 2, 3, 4, 5, even 6 months into the future, Mr. Griffith."
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 36,
+        "text": " When did you want me to set that for?"
+      },
+      {
+        "id": 8,
+        "start": 36,
+        "end": 40,
+        "text": " I don't want to cancel it, but can you just make it as long as possible?"
+      },
+      {
+        "id": 9,
+        "start": 40,
+        "end": 42,
+        "text": " Yeah, so I'll do that until July."
+      },
+      {
+        "id": 10,
+        "start": 42,
+        "end": 46,
+        "text": " If anything, if you need to call back before then, you can always push it further or get it sooner."
+      },
+      {
+        "id": 11,
+        "start": 46,
+        "end": 50,
+        "text": " All right, thank you. So I get charged again when, in July, you said?"
+      },
+      {
+        "id": 12,
+        "start": 50,
+        "end": 54,
+        "text": " July 24th, if you don't call us to change anything."
+      },
+      {
+        "id": 13,
+        "start": 54,
+        "end": 57,
+        "text": " Got it. That's perfect. Thank you so much."
+      },
+      {
+        "id": 14,
+        "start": 57,
+        "end": 59,
+        "text": " Thank you, and enjoy the rest of your day. Bye now."
+      },
+      {
+        "id": 15,
+        "start": 59,
+        "end": 61,
+        "text": " You too. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8165-836c-edd47f8fe94f",
+    "url": "https://www.notion.so/300000001222762-300000001712426-2f711d0a101c8165836cedd47f8fe94f"
+  },
+  "processedAt": "2026-01-29T21:39:34.640Z"
+}

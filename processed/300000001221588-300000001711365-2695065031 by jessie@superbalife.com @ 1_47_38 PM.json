@@ -1,0 +1,524 @@
+{
+  "recording": {
+    "name": "300000001221588-300000001711365-2695065031 by jessie@superbalife.com @ 1_47_38 PM.wav",
+    "size": 344496,
+    "modifyTime": 1769637088000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221588-300000001711365-2695065031 by jessie@superbalife.com @ 1_47_38 PM.wav",
+    "uploadDate": "2026-01-28T21:51:28.000Z",
+    "callId": "300000001221588-300000001711365",
+    "agent": "jessie",
+    "phoneNumber": "2695065031",
+    "callTimestamp": "2026-01-28T13:47:38.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra.\n\nSpeaker 2: My name is Jessie.\n\nSpeaker 1: May I get your first and last name?\n\nSpeaker 2: So Joe Levendusky, L-E-V as in Victor,\n\nSpeaker 1: A-N-D as in David, O-S-K-I.\n\nSpeaker 2: Okay, perfect.\n\nSpeaker 1: And Mr. Levendusky, can I get your zip code?\n\nSpeaker 2: It's 33472.\n\nSpeaker 1: Just a moment.\n\nSpeaker 2: Great, thank you so much.\n\nSpeaker 1: I have you at 8092 Cassia Drive in Long Beach, Florida.\n\nSpeaker 2: Yes, that's correct.\n\nSpeaker 1: So what can I help you with?\n\nSpeaker 2: I'm calling in reference to canceling my subscription\n\nSpeaker 1: and I go online and it's impossible to do.\n\nSpeaker 2: All it does is let you update orders and all that hoo-ha.\n\nSpeaker 1: And I saw that yesterday I had a charge to my account\n\nSpeaker 2: for a reorder, which is fine.\n\nSpeaker 1: That's there, it'll come.\n\nSpeaker 2: But moving forward, I need to cancel\n\nSpeaker 1: any other subscriptions at this time.\n\nSpeaker 2: Bear with me just a second,\n\nSpeaker 1: because I only see one order here, Mr. Levendusky.\n\nSpeaker 2: Let me see if you have more than one account.\n\nSpeaker 1: Yeah, they charged me for another one yesterday\n\nSpeaker 2: for another order.\n\nSpeaker 1: I got the one for December and then they charged me\n\nSpeaker 2: every 30 days, obviously, it looks like.\n\nSpeaker 1: Yeah, because you have more than one account.\n\nSpeaker 2: Hold on one second.\n\nSpeaker 1: Well, I shouldn't, it's score blue.\n\nSpeaker 2: It's the one that was just set up.\n\nSpeaker 1: I don't know how I can get two.\n\nSpeaker 2: No, actually, you don't have two.\n\nSpeaker 1: Your name is not John.\n\nSpeaker 2: Your name is Joe, right?\n\nSpeaker 1: Yeah, yes.\n\nSpeaker 2: No.\n\nSpeaker 1: The only charge that I see here\n\nSpeaker 2: was on January 10th.\n\nSpeaker 1: Okay.\n\nSpeaker 2: What is the date of this other charge?\n\nSpeaker 1: Just let me bring this stuff up a second here.\n\nSpeaker 2: Yeah, if you could, that'd be great,\n\nSpeaker 1: because I don't have more than,\n\nSpeaker 2: unless somebody screwed up your name.\n\nSpeaker 1: Hold on one second.\n\nSpeaker 2: Well, that's a possibility.\n\nSpeaker 1: It comes under Zenith,\n\nSpeaker 2: in Utah.\n\nSpeaker 1: No, that's not us.\n\nSpeaker 2: We are not in Zenith, Utah.\n\nSpeaker 1: And then there was another one that was.\n\nSpeaker 2: Well, that's not us.\n\nSpeaker 1: And for 49, because it's $49.99.\n\nSpeaker 2: That's not us.\n\nSpeaker 1: First off, we're in Sandy, Utah.\n\nSpeaker 2: That alone and the fact that it doesn't say\n\nSpeaker 1: score blue on it is not us.\n\nSpeaker 2: Yep, you might want to call them.\n\nSpeaker 1: Just so you know, because with ours,\n\nSpeaker 2: this one here,\n\nSpeaker 1: you've got at will,\n\nSpeaker 2: which means you can order whenever you want to.\n\nSpeaker 1: It's not monthly.\n\nSpeaker 2: That's why I was just like, what's going on here?\n\nSpeaker 1: The way this one's set up is your prescription is active.\n\nSpeaker 2: Your refills are active.\n\nSpeaker 1: You can order whenever you feel like it.\n\nSpeaker 2: You won't get anything in the mail.\n\nSpeaker 1: However, if you don't order anything in six months time,\n\nSpeaker 2: you do get one refill to keep your prescription active,\n\nSpeaker 1: and that's it.\n\nSpeaker 2: Otherwise-\n\nSpeaker 1: So I won't get charged for anything\n\nSpeaker 2: they won't send me automatically?\n\nSpeaker 1: No, it's just you only get one refill.\n\nSpeaker 2: All right, good.\n\nSpeaker 1: If you don't order anything in six months, okay?\n\nSpeaker 2: All right, let me check out what else is going on here.\n\nSpeaker 1: All right, I appreciate it.\n\nSpeaker 2: No problem. Thank you.\n\nSpeaker 1: Bye-bye.",
+    "duration": 9676,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.119999885559082,
+        "text": " Hi, thank you so much for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 2.119999885559082,
+        "end": 3.0399999618530273,
+        "text": " My name is Jessie."
+      },
+      {
+        "id": 2,
+        "start": 3.0399999618530273,
+        "end": 5.480000019073486,
+        "text": " May I get your first and last name?"
+      },
+      {
+        "id": 3,
+        "start": 5.480000019073486,
+        "end": 9.640000343322754,
+        "text": " So Joe Levendusky, L-E-V as in Victor,"
+      },
+      {
+        "id": 4,
+        "start": 9.640000343322754,
+        "end": 12.520000457763672,
+        "text": " A-N-D as in David, O-S-K-I."
+      },
+      {
+        "id": 5,
+        "start": 12.520000457763672,
+        "end": 13.779999732971191,
+        "text": " Okay, perfect."
+      },
+      {
+        "id": 6,
+        "start": 13.779999732971191,
+        "end": 16.31999969482422,
+        "text": " And Mr. Levendusky, can I get your zip code?"
+      },
+      {
+        "id": 7,
+        "start": 17.31999969482422,
+        "end": 21.860000610351562,
+        "text": " It's 33472."
+      },
+      {
+        "id": 8,
+        "start": 23,
+        "end": 24.079999923706055,
+        "text": " Just a moment."
+      },
+      {
+        "id": 9,
+        "start": 24.079999923706055,
+        "end": 29.079999923706055,
+        "text": " Great, thank you so much."
+      },
+      {
+        "id": 10,
+        "start": 30.31999969482422,
+        "end": 33.47999954223633,
+        "text": " I have you at 8092 Cassia Drive in Long Beach, Florida."
+      },
+      {
+        "id": 11,
+        "start": 33.47999954223633,
+        "end": 35.31999969482422,
+        "text": " Yes, that's correct."
+      },
+      {
+        "id": 12,
+        "start": 35.31999969482422,
+        "end": 36.959999084472656,
+        "text": " So what can I help you with?"
+      },
+      {
+        "id": 13,
+        "start": 36.959999084472656,
+        "end": 39.84000015258789,
+        "text": " I'm calling in reference to canceling my subscription"
+      },
+      {
+        "id": 14,
+        "start": 39.84000015258789,
+        "end": 43.15999984741211,
+        "text": " and I go online and it's impossible to do."
+      },
+      {
+        "id": 15,
+        "start": 43.15999984741211,
+        "end": 46.63999938964844,
+        "text": " All it does is let you update orders and all that hoo-ha."
+      },
+      {
+        "id": 16,
+        "start": 46.63999938964844,
+        "end": 50.36000061035156,
+        "text": " And I saw that yesterday I had a charge to my account"
+      },
+      {
+        "id": 17,
+        "start": 51.31999969482422,
+        "end": 53.31999969482422,
+        "text": " for a reorder, which is fine."
+      },
+      {
+        "id": 18,
+        "start": 53.31999969482422,
+        "end": 55.31999969482422,
+        "text": " That's there, it'll come."
+      },
+      {
+        "id": 19,
+        "start": 55.31999969482422,
+        "end": 57.400001525878906,
+        "text": " But moving forward, I need to cancel"
+      },
+      {
+        "id": 20,
+        "start": 57.400001525878906,
+        "end": 59.7400016784668,
+        "text": " any other subscriptions at this time."
+      },
+      {
+        "id": 21,
+        "start": 60.79999923706055,
+        "end": 61.7599983215332,
+        "text": " Bear with me just a second,"
+      },
+      {
+        "id": 22,
+        "start": 61.7599983215332,
+        "end": 64.04000091552734,
+        "text": " because I only see one order here, Mr. Levendusky."
+      },
+      {
+        "id": 23,
+        "start": 64.04000091552734,
+        "end": 64.87999725341797,
+        "text": " Let me see if you have more than one account."
+      },
+      {
+        "id": 24,
+        "start": 64.87999725341797,
+        "end": 67.83999633789062,
+        "text": " Yeah, they charged me for another one yesterday"
+      },
+      {
+        "id": 25,
+        "start": 67.83999633789062,
+        "end": 69.44000244140625,
+        "text": " for another order."
+      },
+      {
+        "id": 26,
+        "start": 69.44000244140625,
+        "end": 71.80000305175781,
+        "text": " I got the one for December and then they charged me"
+      },
+      {
+        "id": 27,
+        "start": 71.80000305175781,
+        "end": 74.5999984741211,
+        "text": " every 30 days, obviously, it looks like."
+      },
+      {
+        "id": 28,
+        "start": 74.5999984741211,
+        "end": 76.83999633789062,
+        "text": " Yeah, because you have more than one account."
+      },
+      {
+        "id": 29,
+        "start": 79.95999908447266,
+        "end": 81.12000274658203,
+        "text": " Hold on one second."
+      },
+      {
+        "id": 30,
+        "start": 82.12000274658203,
+        "end": 83.4800033569336,
+        "text": " Well, I shouldn't, it's score blue."
+      },
+      {
+        "id": 31,
+        "start": 83.4800033569336,
+        "end": 86.76000213623047,
+        "text": " It's the one that was just set up."
+      },
+      {
+        "id": 32,
+        "start": 86.76000213623047,
+        "end": 88.31999969482422,
+        "text": " I don't know how I can get two."
+      },
+      {
+        "id": 33,
+        "start": 90,
+        "end": 91.5199966430664,
+        "text": " No, actually, you don't have two."
+      },
+      {
+        "id": 34,
+        "start": 91.5199966430664,
+        "end": 92.76000213623047,
+        "text": " Your name is not John."
+      },
+      {
+        "id": 35,
+        "start": 92.76000213623047,
+        "end": 94.44000244140625,
+        "text": " Your name is Joe, right?"
+      },
+      {
+        "id": 36,
+        "start": 94.44000244140625,
+        "end": 95.63999938964844,
+        "text": " Yeah, yes."
+      },
+      {
+        "id": 37,
+        "start": 96.4800033569336,
+        "end": 97.31999969482422,
+        "text": " No."
+      },
+      {
+        "id": 38,
+        "start": 99.19999694824219,
+        "end": 102.19999694824219,
+        "text": " The only charge that I see here"
+      },
+      {
+        "id": 39,
+        "start": 103.23999786376953,
+        "end": 106.04000091552734,
+        "text": " was on January 10th."
+      },
+      {
+        "id": 40,
+        "start": 106.04000091552734,
+        "end": 106.87999725341797,
+        "text": " Okay."
+      },
+      {
+        "id": 41,
+        "start": 108.95999908447266,
+        "end": 112.4800033569336,
+        "text": " What is the date of this other charge?"
+      },
+      {
+        "id": 42,
+        "start": 112.4800033569336,
+        "end": 115.16000366210938,
+        "text": " Just let me bring this stuff up a second here."
+      },
+      {
+        "id": 43,
+        "start": 115.16000366210938,
+        "end": 116.91999816894531,
+        "text": " Yeah, if you could, that'd be great,"
+      },
+      {
+        "id": 44,
+        "start": 116.91999816894531,
+        "end": 118.5999984741211,
+        "text": " because I don't have more than,"
+      },
+      {
+        "id": 45,
+        "start": 118.5999984741211,
+        "end": 120.4000015258789,
+        "text": " unless somebody screwed up your name."
+      },
+      {
+        "id": 46,
+        "start": 120.4000015258789,
+        "end": 122.44000244140625,
+        "text": " Hold on one second."
+      },
+      {
+        "id": 47,
+        "start": 122.44000244140625,
+        "end": 125.04000091552734,
+        "text": " Well, that's a possibility."
+      },
+      {
+        "id": 48,
+        "start": 125.04000091552734,
+        "end": 127.91999816894531,
+        "text": " It comes under Zenith,"
+      },
+      {
+        "id": 49,
+        "start": 129.1199951171875,
+        "end": 129.9600067138672,
+        "text": " in Utah."
+      },
+      {
+        "id": 50,
+        "start": 129.9600067138672,
+        "end": 131.1999969482422,
+        "text": " No, that's not us."
+      },
+      {
+        "id": 51,
+        "start": 131.1999969482422,
+        "end": 134.36000061035156,
+        "text": " We are not in Zenith, Utah."
+      },
+      {
+        "id": 52,
+        "start": 134.36000061035156,
+        "end": 136.36000061035156,
+        "text": " And then there was another one that was."
+      },
+      {
+        "id": 53,
+        "start": 140,
+        "end": 141.0800018310547,
+        "text": " Well, that's not us."
+      },
+      {
+        "id": 54,
+        "start": 142.60000610351562,
+        "end": 145.75999450683594,
+        "text": " And for 49, because it's $49.99."
+      },
+      {
+        "id": 55,
+        "start": 145.75999450683594,
+        "end": 146.8800048828125,
+        "text": " That's not us."
+      },
+      {
+        "id": 56,
+        "start": 147.9600067138672,
+        "end": 149.63999938964844,
+        "text": " First off, we're in Sandy, Utah."
+      },
+      {
+        "id": 57,
+        "start": 150.8800048828125,
+        "end": 152.8800048828125,
+        "text": " That alone and the fact that it doesn't say"
+      },
+      {
+        "id": 58,
+        "start": 152.8800048828125,
+        "end": 155.16000366210938,
+        "text": " score blue on it is not us."
+      },
+      {
+        "id": 59,
+        "start": 158.47999572753906,
+        "end": 160.83999633789062,
+        "text": " Yep, you might want to call them."
+      },
+      {
+        "id": 60,
+        "start": 160.83999633789062,
+        "end": 163.1999969482422,
+        "text": " Just so you know, because with ours,"
+      },
+      {
+        "id": 61,
+        "start": 164.8000030517578,
+        "end": 166.1999969482422,
+        "text": " this one here,"
+      },
+      {
+        "id": 62,
+        "start": 167.8000030517578,
+        "end": 170.47999572753906,
+        "text": " you've got at will,"
+      },
+      {
+        "id": 63,
+        "start": 170.47999572753906,
+        "end": 173.32000732421875,
+        "text": " which means you can order whenever you want to."
+      },
+      {
+        "id": 64,
+        "start": 173.32000732421875,
+        "end": 174.47999572753906,
+        "text": " It's not monthly."
+      },
+      {
+        "id": 65,
+        "start": 175.36000061035156,
+        "end": 178.27999877929688,
+        "text": " That's why I was just like, what's going on here?"
+      },
+      {
+        "id": 66,
+        "start": 178.27999877929688,
+        "end": 183.27999877929688,
+        "text": " The way this one's set up is your prescription is active."
+      },
+      {
+        "id": 67,
+        "start": 184.1199951171875,
+        "end": 185.60000610351562,
+        "text": " Your refills are active."
+      },
+      {
+        "id": 68,
+        "start": 185.60000610351562,
+        "end": 187.44000244140625,
+        "text": " You can order whenever you feel like it."
+      },
+      {
+        "id": 69,
+        "start": 187.44000244140625,
+        "end": 189.47999572753906,
+        "text": " You won't get anything in the mail."
+      },
+      {
+        "id": 70,
+        "start": 189.47999572753906,
+        "end": 193.16000366210938,
+        "text": " However, if you don't order anything in six months time,"
+      },
+      {
+        "id": 71,
+        "start": 193.16000366210938,
+        "end": 196,
+        "text": " you do get one refill to keep your prescription active,"
+      },
+      {
+        "id": 72,
+        "start": 196,
+        "end": 196.83999633789062,
+        "text": " and that's it."
+      },
+      {
+        "id": 73,
+        "start": 196.83999633789062,
+        "end": 197.67999267578125,
+        "text": " Otherwise-"
+      },
+      {
+        "id": 74,
+        "start": 197.67999267578125,
+        "end": 198.52000427246094,
+        "text": " So I won't get charged for anything"
+      },
+      {
+        "id": 75,
+        "start": 198.52000427246094,
+        "end": 201,
+        "text": " they won't send me automatically?"
+      },
+      {
+        "id": 76,
+        "start": 201,
+        "end": 202.8000030517578,
+        "text": " No, it's just you only get one refill."
+      },
+      {
+        "id": 77,
+        "start": 202.8000030517578,
+        "end": 203.75999450683594,
+        "text": " All right, good."
+      },
+      {
+        "id": 78,
+        "start": 203.75999450683594,
+        "end": 206.67999267578125,
+        "text": " If you don't order anything in six months, okay?"
+      },
+      {
+        "id": 79,
+        "start": 206.67999267578125,
+        "end": 208.63999938964844,
+        "text": " All right, let me check out what else is going on here."
+      },
+      {
+        "id": 80,
+        "start": 208.63999938964844,
+        "end": 210.36000061035156,
+        "text": " All right, I appreciate it."
+      },
+      {
+        "id": 81,
+        "start": 210.36000061035156,
+        "end": 211.67999267578125,
+        "text": " No problem. Thank you."
+      },
+      {
+        "id": 82,
+        "start": 211.67999267578125,
+        "end": 212.52000427246094,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-811b-a7ae-c31959a18bf2",
+    "url": "https://www.notion.so/300000001221588-300000001711365-2f611d0a101c811ba7aec31959a18bf2"
+  },
+  "processedAt": "2026-01-28T22:27:48.759Z"
+}

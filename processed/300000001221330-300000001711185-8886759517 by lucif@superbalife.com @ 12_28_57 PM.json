@@ -1,0 +1,176 @@
+{
+  "recording": {
+    "name": "300000001221330-300000001711185-8886759517 by lucif@superbalife.com @ 12_28_57 PM.wav",
+    "size": 124340,
+    "modifyTime": 1769632235000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221330-300000001711185-8886759517 by lucif@superbalife.com @ 12_28_57 PM.wav",
+    "uploadDate": "2026-01-28T20:30:35.000Z",
+    "callId": "300000001221330-300000001711185",
+    "agent": "lucif",
+    "phoneNumber": "8886759517",
+    "callTimestamp": "2026-01-28T12:28:57.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, Clint speaking, how can I help you?\n\nSpeaker 2: I was calling to cancel a prescription.\n\nSpeaker 1: What's your zip code?\n\nSpeaker 2: 89143.\n\nSpeaker 1: Alrighty, and what's your first and last name?\n\nSpeaker 2: Delmar Miller.\n\nSpeaker 1: Alrighty, I do see you are a VIP here with us, sir.\n\nSpeaker 2: Do you mind if I ask why you are cancelling the Viagra today?\n\nSpeaker 1: Don't need it.\n\nSpeaker 2: Oh, okay.\n\nSpeaker 1: Well, are you kind of like getting it too fast or is it not working, or?\n\nSpeaker 2: No, I no longer need the medication.\n\nSpeaker 1: Oh, okay.\n\nSpeaker 2: So it's not that you want to order as needed or anything like that, right?\n\nSpeaker 1: No, no, I'm good to go.\n\nSpeaker 2: Alright, we'll go ahead and cancel it for you, sir.\n\nSpeaker 1: What was your name again?\n\nSpeaker 2: Glenn.\n\nSpeaker 1: Glenn?\n\nSpeaker 2: Uh-huh.\n\nSpeaker 1: Okay, that's all I need to do then?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Alright, appreciate it.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Have a good one.",
+    "duration": 3266,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.519999980926514,
+        "text": " Thanks for calling Viagra, Clint speaking, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 6.519999980926514,
+        "end": 9.520000457763672,
+        "text": " I was calling to cancel a prescription."
+      },
+      {
+        "id": 2,
+        "start": 9.520000457763672,
+        "end": 12.520000457763672,
+        "text": " What's your zip code?"
+      },
+      {
+        "id": 3,
+        "start": 12.520000457763672,
+        "end": 13.520000457763672,
+        "text": " 89143."
+      },
+      {
+        "id": 4,
+        "start": 13.520000457763672,
+        "end": 20.520000457763672,
+        "text": " Alrighty, and what's your first and last name?"
+      },
+      {
+        "id": 5,
+        "start": 20.520000457763672,
+        "end": 21.520000457763672,
+        "text": " Delmar Miller."
+      },
+      {
+        "id": 6,
+        "start": 21.520000457763672,
+        "end": 28.040000915527344,
+        "text": " Alrighty, I do see you are a VIP here with us, sir."
+      },
+      {
+        "id": 7,
+        "start": 28.040000915527344,
+        "end": 32.279998779296875,
+        "text": " Do you mind if I ask why you are cancelling the Viagra today?"
+      },
+      {
+        "id": 8,
+        "start": 32.279998779296875,
+        "end": 33.279998779296875,
+        "text": " Don't need it."
+      },
+      {
+        "id": 9,
+        "start": 33.279998779296875,
+        "end": 34.279998779296875,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 10,
+        "start": 34.279998779296875,
+        "end": 42.279998779296875,
+        "text": " Well, are you kind of like getting it too fast or is it not working, or?"
+      },
+      {
+        "id": 11,
+        "start": 42.279998779296875,
+        "end": 45.279998779296875,
+        "text": " No, I no longer need the medication."
+      },
+      {
+        "id": 12,
+        "start": 45.279998779296875,
+        "end": 46.279998779296875,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 13,
+        "start": 46.279998779296875,
+        "end": 52.279998779296875,
+        "text": " So it's not that you want to order as needed or anything like that, right?"
+      },
+      {
+        "id": 14,
+        "start": 52.279998779296875,
+        "end": 55.279998779296875,
+        "text": " No, no, I'm good to go."
+      },
+      {
+        "id": 15,
+        "start": 55.52000045776367,
+        "end": 60.52000045776367,
+        "text": " Alright, we'll go ahead and cancel it for you, sir."
+      },
+      {
+        "id": 16,
+        "start": 60.52000045776367,
+        "end": 62.52000045776367,
+        "text": " What was your name again?"
+      },
+      {
+        "id": 17,
+        "start": 62.52000045776367,
+        "end": 63.52000045776367,
+        "text": " Glenn."
+      },
+      {
+        "id": 18,
+        "start": 63.52000045776367,
+        "end": 64.5199966430664,
+        "text": " Glenn?"
+      },
+      {
+        "id": 19,
+        "start": 64.5199966430664,
+        "end": 65.5199966430664,
+        "text": " Uh-huh."
+      },
+      {
+        "id": 20,
+        "start": 65.5199966430664,
+        "end": 69.5199966430664,
+        "text": " Okay, that's all I need to do then?"
+      },
+      {
+        "id": 21,
+        "start": 69.5199966430664,
+        "end": 70.5199966430664,
+        "text": " Yeah."
+      },
+      {
+        "id": 22,
+        "start": 70.5199966430664,
+        "end": 72.5199966430664,
+        "text": " Alright, appreciate it."
+      },
+      {
+        "id": 23,
+        "start": 72.5199966430664,
+        "end": 73.5199966430664,
+        "text": " You're welcome."
+      },
+      {
+        "id": 24,
+        "start": 73.5199966430664,
+        "end": 76.5199966430664,
+        "text": " Have a good one."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813e-8d63-e66f7eef554b",
+    "url": "https://www.notion.so/300000001221330-300000001711185-2f611d0a101c813e8d63e66f7eef554b"
+  },
+  "processedAt": "2026-01-28T23:02:30.302Z"
+}

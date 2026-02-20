@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "name": "300000001216348-300000001705816-8632590134 by kt@superbalife.com @ 1_30_59 PM.wav",
+    "size": 39060,
+    "modifyTime": 1769582835000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216348-300000001705816-8632590134 by kt@superbalife.com @ 1_30_59 PM.wav",
+    "uploadDate": "2026-01-28T06:47:15.000Z",
+    "callId": "300000001216348-300000001705816",
+    "agent": "kt",
+    "phoneNumber": "8632590134",
+    "callTimestamp": "2026-01-28T13:30:59.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you.",
+    "duration": 996,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 19,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8101-9023-ecec6e54ecf4",
+    "url": "https://www.notion.so/300000001216348-300000001705816-2f611d0a101c81019023ecec6e54ecf4"
+  },
+  "processedAt": "2026-01-28T16:52:37.525Z"
+}

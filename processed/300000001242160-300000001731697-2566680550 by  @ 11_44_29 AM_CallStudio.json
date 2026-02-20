@@ -1,0 +1,58 @@
+{
+  "recording": {
+    "name": "300000001242160-300000001731697-2566680550 by  @ 11_44_29 AM_CallStudio.wav",
+    "size": 27946,
+    "modifyTime": 1771011908000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242160-300000001731697-2566680550 by  @ 11_44_29 AM_CallStudio.wav",
+    "uploadDate": "2026-02-13T19:45:08.000Z",
+    "callId": "300000001242160-300000001731697",
+    "phoneNumber": "2566680550",
+    "callTimestamp": "2026-02-13T19:45:08.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242160-300000001731697_2566680550.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242160-300000001731697_2566680550.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Cancel prescription.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 2246,
+    "audioDuration": 17.15999984741211,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.320000171661377,
+        "end": 6.78000020980835,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.099999904632568,
+        "end": 11.300000190734863,
+        "text": " Para Español, Marque Número Nueve."
+      },
+      {
+        "id": 3,
+        "start": 11.300000190734863,
+        "end": 14.680000305175781,
+        "text": " Cancel prescription."
+      },
+      {
+        "id": 4,
+        "start": 15.5600004196167,
+        "end": 16.780000686645508,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-810f-804d-e633ba4ad2fe",
+    "url": "https://www.notion.so/300000001242160-300000001731697-30611d0a101c810f804de633ba4ad2fe"
+  },
+  "processedAt": "2026-02-13T20:08:39.286Z"
+}

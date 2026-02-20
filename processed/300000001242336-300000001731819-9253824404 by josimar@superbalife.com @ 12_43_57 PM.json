@@ -1,0 +1,167 @@
+{
+  "recording": {
+    "name": "300000001242336-300000001731819-9253824404 by josimar@superbalife.com @ 12_43_57 PM.wav",
+    "size": 97300,
+    "modifyTime": 1771015519000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242336-300000001731819-9253824404 by josimar@superbalife.com @ 12_43_57 PM.wav",
+    "uploadDate": "2026-02-13T20:45:19.000Z",
+    "callId": "300000001242336-300000001731819",
+    "agent": "josimar",
+    "phoneNumber": "9253824404",
+    "callTimestamp": "2026-02-13T12:43:57.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_josimar_300000001242336-300000001731819_9253824404.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_josimar_300000001242336-300000001731819_9253824404.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you today?\n\nSpeaker 2: Yeah, my name is Bill Lenson, and I've been buying the Blue Scores pills for a while, and I want to cancel the order. I've got too many pills and haven't used them.\n\nSpeaker 1: Yeah, I can help you with that, sir. What is your last name and zip code?\n\nSpeaker 2: Lenson, L-E-N-S-O-N, 85298.\n\nSpeaker 1: Alrighty, so you're currently a VIP member for the Viagra AGV, sir. The moment I cancel out these orders, you won't be able to access this in the future.\n\nSpeaker 2: Are you sure you didn't want to just freeze your account out?\n\nSpeaker 1: We can always freeze it out for you, that way you can retain access to the script and not lose it.\n\nSpeaker 2: Well, what I don't want is the next order sent to me, that's all.\n\nSpeaker 1: Okay, no worries.\n\nSpeaker 2: If you want to freeze it, that's fine.\n\nSpeaker 1: I'll go ahead and freeze it out for you.\n\nSpeaker 2: Maybe I can freeze it for half a year.\n\nSpeaker 1: Call us up when you're ready to order it again, though. I'll be more than happy to help you.\n\nSpeaker 2: Alright, appreciate it. Thanks very much.\n\nSpeaker 1: Have a great day, then.\n\nSpeaker 2: Of course, bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 3069,
+    "audioDuration": 59.84000015258789,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 11,
+        "text": " Yeah, my name is Bill Lenson, and I've been buying the Blue Scores pills for a while,"
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 13,
+        "text": " and I want to cancel the order."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 16,
+        "text": " I've got too many pills and haven't used them."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 18,
+        "text": " Yeah, I can help you with that, sir."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 20,
+        "text": " What is your last name and zip code?"
+      },
+      {
+        "id": 6,
+        "start": 20,
+        "end": 27,
+        "text": " Lenson, L-E-N-S-O-N, 85298."
+      },
+      {
+        "id": 7,
+        "start": 27,
+        "end": 31,
+        "text": " Alrighty, so you're currently a VIP member for the Viagra AGV, sir."
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 35,
+        "text": " The moment I cancel out these orders, you won't be able to access this in the future."
+      },
+      {
+        "id": 9,
+        "start": 35,
+        "end": 38,
+        "text": " Are you sure you didn't want to just freeze your account out?"
+      },
+      {
+        "id": 10,
+        "start": 38,
+        "end": 42,
+        "text": " We can always freeze it out for you, that way you can retain access to the script and not lose it."
+      },
+      {
+        "id": 11,
+        "start": 42,
+        "end": 46,
+        "text": " Well, what I don't want is the next order sent to me, that's all."
+      },
+      {
+        "id": 12,
+        "start": 46,
+        "end": 47,
+        "text": " Okay, no worries."
+      },
+      {
+        "id": 13,
+        "start": 47,
+        "end": 48,
+        "text": " If you want to freeze it, that's fine."
+      },
+      {
+        "id": 14,
+        "start": 48,
+        "end": 49,
+        "text": " I'll go ahead and freeze it out for you."
+      },
+      {
+        "id": 15,
+        "start": 49,
+        "end": 51,
+        "text": " Maybe I can freeze it for half a year."
+      },
+      {
+        "id": 16,
+        "start": 51,
+        "end": 53,
+        "text": " Call us up when you're ready to order it again, though."
+      },
+      {
+        "id": 17,
+        "start": 53,
+        "end": 54,
+        "text": " I'll be more than happy to help you."
+      },
+      {
+        "id": 18,
+        "start": 54,
+        "end": 56,
+        "text": " Alright, appreciate it."
+      },
+      {
+        "id": 19,
+        "start": 56,
+        "end": 57,
+        "text": " Thanks very much."
+      },
+      {
+        "id": 20,
+        "start": 57,
+        "end": 58,
+        "text": " Have a great day, then."
+      },
+      {
+        "id": 21,
+        "start": 58,
+        "end": 59,
+        "text": " Of course, bye-bye."
+      },
+      {
+        "id": 22,
+        "start": 59,
+        "end": 60,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8105-b5ef-ffc54171d395",
+    "url": "https://www.notion.so/300000001242336-300000001731819-30611d0a101c8105b5efffc54171d395"
+  },
+  "processedAt": "2026-02-13T20:59:55.665Z"
+}

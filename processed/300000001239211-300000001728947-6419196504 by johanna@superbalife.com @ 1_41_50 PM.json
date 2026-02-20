@@ -1,0 +1,434 @@
+{
+  "recording": {
+    "name": "300000001239211-300000001728947-6419196504 by johanna@superbalife.com @ 1_41_50 PM.wav",
+    "size": 298476,
+    "modifyTime": 1770846317000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239211-300000001728947-6419196504 by johanna@superbalife.com @ 1_41_50 PM.wav",
+    "uploadDate": "2026-02-11T21:45:17.000Z",
+    "callId": "300000001239211-300000001728947",
+    "agent": "johanna",
+    "phoneNumber": "6419196504",
+    "callTimestamp": "2026-02-11T13:41:50.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. Joanna speaking. How can I help you?\n\nSpeaker 2: I need to cancel my prescription.\n\nSpeaker 1: Can I get your name and date of birth, please?\n\nSpeaker 2: Tony Hoffman, 11-12-57.\n\nSpeaker 1: Okay, Mr. Hoffman.\n\nSpeaker 2: All right. I have your account pulled up here, sir.\n\nSpeaker 1: I am seeing that you are a VIP status customer\n\nSpeaker 2: and you've been with us for quite some time.\n\nSpeaker 1: What was the reason for the cancellation today?\n\nSpeaker 2: The increased cost.\n\nSpeaker 1: Okay. Let me see what you've been getting.\n\nSpeaker 2: So you've been getting 24 of the AGV for $53.95.\n\nSpeaker 1: And you're a VIP customer,\n\nSpeaker 2: so we've really given you a great price here for 24 of them.\n\nSpeaker 1: Now for 25 of them, it's $113.\n\nSpeaker 2: Yeah, I can get it cheaper through my own doctor.\n\nSpeaker 1: That makes sense.\n\nSpeaker 2: Have you tried the new AGV, Viagra?\n\nSpeaker 1: Have you heard of it?\n\nSpeaker 2: No, but I'm not interested. Thanks.\n\nSpeaker 1: No, of course.\n\nSpeaker 2: And I wasn't trying to sell you on anything.\n\nSpeaker 1: I know it sounded like I was.\n\nSpeaker 2: And as a matter of fact,\n\nSpeaker 1: because you've been such a loyal customer for so many years\n\nSpeaker 2: and you're a VIP,\n\nSpeaker 1: I wanted to send you a sample of 10 of them to try\n\nSpeaker 2: because it's the new and improved Viagra through Pfizer.\n\nSpeaker 1: So they just released it.\n\nSpeaker 2: So Viagra's been around for many years, as you know.\n\nSpeaker 1: And over time,\n\nSpeaker 2: they have made modifications primarily to the inactive ingredient,\n\nSpeaker 1: which affects the delivery mechanism.\n\nSpeaker 2: So it's more direct.\n\nSpeaker 1: It works faster.\n\nSpeaker 2: They've eliminated the common side effects people used to get.\n\nSpeaker 1: So our customers are really happy with it.\n\nSpeaker 2: And since you're a VIP customer,\n\nSpeaker 1: I can send you a sample of 10 of them to try and see what you think.\n\nSpeaker 2: This isn't something that you would be able to get from a doctor.\n\nSpeaker 1: It's exclusively through ScoreBlue.\n\nSpeaker 2: So I highly recommend you try it.\n\nSpeaker 1: It's got no risk, no cost to you.\n\nSpeaker 2: I can put your account on a hold for five months,\n\nSpeaker 1: and that way you can decide how you want to move forward.\n\nSpeaker 2: Okay, I'll try it.\n\nSpeaker 1: What's the cost of it?\n\nSpeaker 2: Well, this is going to be a courtesy,\n\nSpeaker 1: so obviously there's going to be a fair cost.\n\nSpeaker 2: I know, but beyond that.\n\nSpeaker 1: Ten of them would be $49.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yeah, I'll try the sample.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I'll get that sent out to you,\n\nSpeaker 2: and you should get it in five days or less, okay?\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: All right, sir.\n\nSpeaker 1: And my extension is 0024.\n\nSpeaker 2: I'm placing your account on a five-month hold\n\nSpeaker 1: and removing the monthly recurring refills,\n\nSpeaker 2: so you have an opportunity to really try out the HEV\n\nSpeaker 1: and then determine for yourself, okay?\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: All right, thank you.\n\nSpeaker 2: Have a great day.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Yep, you too.",
+    "duration": 9298,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra. Joanna speaking. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " I need to cancel my prescription."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 10,
+        "text": " Can I get your name and date of birth, please?"
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 15,
+        "text": " Tony Hoffman, 11-12-57."
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 23,
+        "text": " Okay, Mr. Hoffman."
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 25,
+        "text": " All right. I have your account pulled up here, sir."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 28,
+        "text": " I am seeing that you are a VIP status customer"
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 30,
+        "text": " and you've been with us for quite some time."
+      },
+      {
+        "id": 8,
+        "start": 30,
+        "end": 32,
+        "text": " What was the reason for the cancellation today?"
+      },
+      {
+        "id": 9,
+        "start": 32,
+        "end": 36,
+        "text": " The increased cost."
+      },
+      {
+        "id": 10,
+        "start": 36,
+        "end": 38,
+        "text": " Okay. Let me see what you've been getting."
+      },
+      {
+        "id": 11,
+        "start": 38,
+        "end": 46,
+        "text": " So you've been getting 24 of the AGV for $53.95."
+      },
+      {
+        "id": 12,
+        "start": 46,
+        "end": 49,
+        "text": " And you're a VIP customer,"
+      },
+      {
+        "id": 13,
+        "start": 49,
+        "end": 56,
+        "text": " so we've really given you a great price here for 24 of them."
+      },
+      {
+        "id": 14,
+        "start": 56,
+        "end": 61,
+        "text": " Now for 25 of them, it's $113."
+      },
+      {
+        "id": 15,
+        "start": 61,
+        "end": 66,
+        "text": " Yeah, I can get it cheaper through my own doctor."
+      },
+      {
+        "id": 16,
+        "start": 66,
+        "end": 68,
+        "text": " That makes sense."
+      },
+      {
+        "id": 17,
+        "start": 68,
+        "end": 70,
+        "text": " Have you tried the new AGV, Viagra?"
+      },
+      {
+        "id": 18,
+        "start": 70,
+        "end": 72,
+        "text": " Have you heard of it?"
+      },
+      {
+        "id": 19,
+        "start": 72,
+        "end": 74,
+        "text": " No, but I'm not interested. Thanks."
+      },
+      {
+        "id": 20,
+        "start": 74,
+        "end": 75,
+        "text": " No, of course."
+      },
+      {
+        "id": 21,
+        "start": 75,
+        "end": 77,
+        "text": " And I wasn't trying to sell you on anything."
+      },
+      {
+        "id": 22,
+        "start": 77,
+        "end": 78,
+        "text": " I know it sounded like I was."
+      },
+      {
+        "id": 23,
+        "start": 78,
+        "end": 79,
+        "text": " And as a matter of fact,"
+      },
+      {
+        "id": 24,
+        "start": 79,
+        "end": 83,
+        "text": " because you've been such a loyal customer for so many years"
+      },
+      {
+        "id": 25,
+        "start": 83,
+        "end": 84,
+        "text": " and you're a VIP,"
+      },
+      {
+        "id": 26,
+        "start": 84,
+        "end": 87,
+        "text": " I wanted to send you a sample of 10 of them to try"
+      },
+      {
+        "id": 27,
+        "start": 87,
+        "end": 91,
+        "text": " because it's the new and improved Viagra through Pfizer."
+      },
+      {
+        "id": 28,
+        "start": 91,
+        "end": 92,
+        "text": " So they just released it."
+      },
+      {
+        "id": 29,
+        "start": 92,
+        "end": 95,
+        "text": " So Viagra's been around for many years, as you know."
+      },
+      {
+        "id": 30,
+        "start": 95,
+        "end": 96,
+        "text": " And over time,"
+      },
+      {
+        "id": 31,
+        "start": 96,
+        "end": 100,
+        "text": " they have made modifications primarily to the inactive ingredient,"
+      },
+      {
+        "id": 32,
+        "start": 100,
+        "end": 103,
+        "text": " which affects the delivery mechanism."
+      },
+      {
+        "id": 33,
+        "start": 103,
+        "end": 104,
+        "text": " So it's more direct."
+      },
+      {
+        "id": 34,
+        "start": 104,
+        "end": 106,
+        "text": " It works faster."
+      },
+      {
+        "id": 35,
+        "start": 106,
+        "end": 110,
+        "text": " They've eliminated the common side effects people used to get."
+      },
+      {
+        "id": 36,
+        "start": 111,
+        "end": 114,
+        "text": " So our customers are really happy with it."
+      },
+      {
+        "id": 37,
+        "start": 114,
+        "end": 115,
+        "text": " And since you're a VIP customer,"
+      },
+      {
+        "id": 38,
+        "start": 115,
+        "end": 119,
+        "text": " I can send you a sample of 10 of them to try and see what you think."
+      },
+      {
+        "id": 39,
+        "start": 119,
+        "end": 122,
+        "text": " This isn't something that you would be able to get from a doctor."
+      },
+      {
+        "id": 40,
+        "start": 122,
+        "end": 125,
+        "text": " It's exclusively through ScoreBlue."
+      },
+      {
+        "id": 41,
+        "start": 125,
+        "end": 127,
+        "text": " So I highly recommend you try it."
+      },
+      {
+        "id": 42,
+        "start": 127,
+        "end": 129,
+        "text": " It's got no risk, no cost to you."
+      },
+      {
+        "id": 43,
+        "start": 129,
+        "end": 133,
+        "text": " I can put your account on a hold for five months,"
+      },
+      {
+        "id": 44,
+        "start": 133,
+        "end": 137,
+        "text": " and that way you can decide how you want to move forward."
+      },
+      {
+        "id": 45,
+        "start": 137,
+        "end": 139,
+        "text": " Okay, I'll try it."
+      },
+      {
+        "id": 46,
+        "start": 139,
+        "end": 140,
+        "text": " What's the cost of it?"
+      },
+      {
+        "id": 47,
+        "start": 142,
+        "end": 144,
+        "text": " Well, this is going to be a courtesy,"
+      },
+      {
+        "id": 48,
+        "start": 144,
+        "end": 146,
+        "text": " so obviously there's going to be a fair cost."
+      },
+      {
+        "id": 49,
+        "start": 146,
+        "end": 148,
+        "text": " I know, but beyond that."
+      },
+      {
+        "id": 50,
+        "start": 148,
+        "end": 150,
+        "text": " Ten of them would be $49."
+      },
+      {
+        "id": 51,
+        "start": 151,
+        "end": 152,
+        "text": " Okay."
+      },
+      {
+        "id": 52,
+        "start": 152,
+        "end": 154,
+        "text": " Yeah, I'll try the sample."
+      },
+      {
+        "id": 53,
+        "start": 154,
+        "end": 155,
+        "text": " Okay."
+      },
+      {
+        "id": 54,
+        "start": 155,
+        "end": 157,
+        "text": " I'll get that sent out to you,"
+      },
+      {
+        "id": 55,
+        "start": 157,
+        "end": 159,
+        "text": " and you should get it in five days or less, okay?"
+      },
+      {
+        "id": 56,
+        "start": 160,
+        "end": 161,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 57,
+        "start": 161,
+        "end": 162,
+        "text": " All right, sir."
+      },
+      {
+        "id": 58,
+        "start": 162,
+        "end": 165,
+        "text": " And my extension is 0024."
+      },
+      {
+        "id": 59,
+        "start": 165,
+        "end": 168,
+        "text": " I'm placing your account on a five-month hold"
+      },
+      {
+        "id": 60,
+        "start": 168,
+        "end": 171,
+        "text": " and removing the monthly reoccurring refills,"
+      },
+      {
+        "id": 61,
+        "start": 171,
+        "end": 175,
+        "text": " so you have an opportunity to really try out the HEV"
+      },
+      {
+        "id": 62,
+        "start": 175,
+        "end": 177,
+        "text": " and then determine for yourself, okay?"
+      },
+      {
+        "id": 63,
+        "start": 177,
+        "end": 179,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 64,
+        "start": 179,
+        "end": 180,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 65,
+        "start": 180,
+        "end": 181,
+        "text": " Have a great day."
+      },
+      {
+        "id": 66,
+        "start": 181,
+        "end": 182,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 67,
+        "start": 182,
+        "end": 183,
+        "text": " Yep, you too."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-8115-89a7-ccee2fea627c",
+    "url": "https://www.notion.so/300000001239211-300000001728947-30411d0a101c811589a7ccee2fea627c"
+  },
+  "processedAt": "2026-02-11T22:05:35.521Z"
+}

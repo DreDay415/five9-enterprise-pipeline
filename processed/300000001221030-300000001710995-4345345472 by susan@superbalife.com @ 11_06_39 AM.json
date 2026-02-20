@@ -1,0 +1,140 @@
+{
+  "recording": {
+    "name": "300000001221030-300000001710995-4345345472 by susan@superbalife.com @ 11_06_39 AM.wav",
+    "size": 37436,
+    "modifyTime": 1769627243000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221030-300000001710995-4345345472 by susan@superbalife.com @ 11_06_39 AM.wav",
+    "uploadDate": "2026-01-28T19:07:23.000Z",
+    "callId": "300000001221030-300000001710995",
+    "agent": "susan",
+    "phoneNumber": "4345345472",
+    "callTimestamp": "2026-01-28T11:06:39.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: High score blue, I'm going to get you over there right now.\n\nSpeaker 2: Choose score blue.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: Okay?\n\nSpeaker 1: You're welcome sir.\n\nSpeaker 2: Alright.\n\nSpeaker 1: Just a second.\n\nSpeaker 2: Just a second.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I'm going to do that.\n\nSpeaker 1: Get you over there right now.\n\nSpeaker 2: Hello.\n\nSpeaker 1: Hello.\n\nSpeaker 2: I'm going to get you over there right now.\n\nSpeaker 1: Here.\n\nSpeaker 2: And here you go.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thank you.",
+    "duration": 1447,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.4800000190734863,
+        "text": " High score blue, I'm going to get you over there right now."
+      },
+      {
+        "id": 1,
+        "start": 3.4800000190734863,
+        "end": 4.480000019073486,
+        "text": " Choose score blue."
+      },
+      {
+        "id": 2,
+        "start": 4.480000019073486,
+        "end": 5.480000019073486,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 3,
+        "start": 5.480000019073486,
+        "end": 6.480000019073486,
+        "text": " Okay?"
+      },
+      {
+        "id": 4,
+        "start": 6.480000019073486,
+        "end": 7.480000019073486,
+        "text": " You're welcome sir."
+      },
+      {
+        "id": 5,
+        "start": 7.480000019073486,
+        "end": 8.479999542236328,
+        "text": " Alright."
+      },
+      {
+        "id": 6,
+        "start": 8.479999542236328,
+        "end": 9.479999542236328,
+        "text": " Just a second."
+      },
+      {
+        "id": 7,
+        "start": 9.479999542236328,
+        "end": 10.479999542236328,
+        "text": " Just a second."
+      },
+      {
+        "id": 8,
+        "start": 10.479999542236328,
+        "end": 11.479999542236328,
+        "text": " Okay."
+      },
+      {
+        "id": 9,
+        "start": 11.479999542236328,
+        "end": 12.479999542236328,
+        "text": " I'm going to do that."
+      },
+      {
+        "id": 10,
+        "start": 12.479999542236328,
+        "end": 13.479999542236328,
+        "text": " Get you over there right now."
+      },
+      {
+        "id": 11,
+        "start": 13.479999542236328,
+        "end": 14.479999542236328,
+        "text": " Hello."
+      },
+      {
+        "id": 12,
+        "start": 14.479999542236328,
+        "end": 15.479999542236328,
+        "text": " Hello."
+      },
+      {
+        "id": 13,
+        "start": 15.479999542236328,
+        "end": 16.479999542236328,
+        "text": " I'm going to get you over there right now."
+      },
+      {
+        "id": 14,
+        "start": 16.479999542236328,
+        "end": 17.479999542236328,
+        "text": " Here."
+      },
+      {
+        "id": 15,
+        "start": 17.479999542236328,
+        "end": 18.479999542236328,
+        "text": " And here you go."
+      },
+      {
+        "id": 16,
+        "start": 18.479999542236328,
+        "end": 19.479999542236328,
+        "text": " Okay."
+      },
+      {
+        "id": 17,
+        "start": 19.479999542236328,
+        "end": 20.479999542236328,
+        "text": " Thank you."
+      },
+      {
+        "id": 18,
+        "start": 20.479999542236328,
+        "end": 20.479999542236328,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-815f-a435-f5b56bf34ed4",
+    "url": "https://www.notion.so/300000001221030-300000001710995-2f711d0a101c815fa435f5b56bf34ed4"
+  },
+  "processedAt": "2026-01-29T00:00:47.263Z"
+}

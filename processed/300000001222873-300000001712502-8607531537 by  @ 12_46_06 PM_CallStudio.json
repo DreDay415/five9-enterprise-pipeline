@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001222873-300000001712502-8607531537 by  @ 12_46_06 PM_CallStudio.wav",
+    "size": 45170,
+    "modifyTime": 1769719618000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222873-300000001712502-8607531537 by  @ 12_46_06 PM_CallStudio.wav",
+    "uploadDate": "2026-01-29T20:46:58.000Z",
+    "callId": "300000001222873-300000001712502",
+    "phoneNumber": "8607531537",
+    "callTimestamp": "2026-01-29T20:46:58.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: We didn't receive a response, or I couldn't hear you.\n\nSpeaker 1: Let's try again.\n\nSpeaker 2: Please state the reason for your call.\n\nSpeaker 1: Change of address.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 1864,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.28000020980835,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.440000057220459,
+        "end": 5.920000076293945,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.239999771118164,
+        "end": 7.71999979019165,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 15.479999542236328,
+        "end": 17.979999542236328,
+        "text": " We didn't receive a response, or I couldn't hear your."
+      },
+      {
+        "id": 4,
+        "start": 18.639999389648438,
+        "end": 19.559999465942383,
+        "text": " Let's try again."
+      },
+      {
+        "id": 5,
+        "start": 20.18000030517578,
+        "end": 21.780000686645508,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 6,
+        "start": 23.059999465942383,
+        "end": 24.579999923706055,
+        "text": " Change of address."
+      },
+      {
+        "id": 7,
+        "start": 26.239999771118164,
+        "end": 27.459999084472656,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8142-a8e2-d7b6c1e5e64f",
+    "url": "https://www.notion.so/300000001222873-300000001712502-2f711d0a101c8142a8e2d7b6c1e5e64f"
+  },
+  "processedAt": "2026-01-29T21:27:42.387Z"
+}

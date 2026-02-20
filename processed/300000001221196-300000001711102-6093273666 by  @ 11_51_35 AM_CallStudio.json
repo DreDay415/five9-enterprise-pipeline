@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001221196-300000001711102-6093273666 by  @ 11_51_35 AM_CallStudio.wav",
+    "size": 23070,
+    "modifyTime": 1769629933000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221196-300000001711102-6093273666 by  @ 11_51_35 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T19:52:13.000Z",
+    "callId": "300000001221196-300000001711102",
+    "phoneNumber": "6093273666",
+    "callTimestamp": "2026-01-28T19:52:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Para Español, marque número nueve.\n\nSpeaker 1: Credit card fail.\n\nSpeaker 2: Thanks, transferring to agent.",
+    "duration": 722,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 8,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 11,
+        "text": " Credit card fail."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 14,
+        "text": " Thanks, transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81fa-8a8a-da14e9dbd1a7",
+    "url": "https://www.notion.so/300000001221196-300000001711102-2f611d0a101c81fa8a8ada14e9dbd1a7"
+  },
+  "processedAt": "2026-01-28T23:19:47.312Z"
+}

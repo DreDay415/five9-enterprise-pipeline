@@ -1,0 +1,35 @@
+{
+  "recording": {
+    "name": "300000001241543-300000001731274-7043013494 by michelleh@superbalife.com @ 8_58_00 AM.wav",
+    "size": 15076,
+    "modifyTime": 1771001892000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241543-300000001731274-7043013494 by michelleh@superbalife.com @ 8_58_00 AM.wav",
+    "uploadDate": "2026-02-13T16:58:12.000Z",
+    "callId": "300000001241543-300000001731274",
+    "agent": "michelleh",
+    "phoneNumber": "7043013494",
+    "callTimestamp": "2026-02-13T08:58:00.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_michelleh_300000001241543-300000001731274_7043013494.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_michelleh_300000001241543-300000001731274_7043013494.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you?",
+    "duration": 1440,
+    "audioDuration": 9.239999771118164,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.5,
+        "text": " Thank you for calling Viagra, how can I help you?"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8133-a415-cd7f1047e564",
+    "url": "https://www.notion.so/300000001241543-300000001731274-30611d0a101c8133a415cd7f1047e564"
+  },
+  "processedAt": "2026-02-13T17:03:34.255Z"
+}

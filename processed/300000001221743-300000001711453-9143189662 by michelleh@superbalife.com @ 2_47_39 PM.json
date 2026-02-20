@@ -1,0 +1,164 @@
+{
+  "recording": {
+    "name": "300000001221743-300000001711453-9143189662 by michelleh@superbalife.com @ 2_47_39 PM.wav",
+    "size": 147090,
+    "modifyTime": 1769640556000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221743-300000001711453-9143189662 by michelleh@superbalife.com @ 2_47_39 PM.wav",
+    "uploadDate": "2026-01-28T22:49:16.000Z",
+    "callId": "300000001221743-300000001711453",
+    "agent": "michelleh",
+    "phoneNumber": "9143189662",
+    "callTimestamp": "2026-01-28T14:47:39.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Yeah, I just received a bill on my Amex for a shipment. I never ordered, I never signed up for a subscription.\n\nSpeaker 1: Okay, give me a second. I'm going to pull up your profile and get you help. All right, Jeffrey, can you just confirm your date of birth?\n\nSpeaker 2: 9-10-48.\n\nSpeaker 1: Thank you so much. Is your VIP status customer? Oh, I see you on, they put you on automatic refills on a monthly basis.\n\nSpeaker 2: Give me a second. I'm going to cancel that out for you.\n\nSpeaker 1: All right, perfect. Jeffrey, I was able to cancel out that refill.\n\nSpeaker 2: So you'll be seeing $63.95 back on your credit card in about five business days or less.\n\nSpeaker 1: And then how is the medication working out for you?\n\nSpeaker 2: I haven't tried it yet.\n\nSpeaker 1: Oh, okay. Yeah, so with your VIP status, you don't have to have your refills on a monthly basis.\n\nSpeaker 2: What a lot of people like to do is just go ahead and pause that for six months.\n\nSpeaker 1: That way it keeps your prescription active and just allows you to call in anytime you need a refill. And it keeps your price rate locked in.\n\nSpeaker 2: So prices go up, yours stays the same.\n\nSpeaker 1: I could pause that for you until July 31st.\n\nSpeaker 2: That's okay, if they'll notify me in advance.\n\nSpeaker 1: No, that's the only thing, they don't.\n\nSpeaker 2: All right, then I don't want to freeze it, no.\n\nSpeaker 1: All right, no problem.\n\nSpeaker 2: I went ahead and canceled you out. You're all set.\n\nSpeaker 1: Very good. Thanks very much.\n\nSpeaker 2: No problem. Have a great evening. Bye.",
+    "duration": 4526,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.319999933242798,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3.5199999809265137,
+        "end": 5.079999923706055,
+        "text": " Yeah, I"
+      },
+      {
+        "id": 2,
+        "start": 5.079999923706055,
+        "end": 6.28000020980835,
+        "text": " just"
+      },
+      {
+        "id": 3,
+        "start": 6.28000020980835,
+        "end": 10.319999694824219,
+        "text": " received a bill on my Amex for a"
+      },
+      {
+        "id": 4,
+        "start": 11.199999809265137,
+        "end": 13.800000190734863,
+        "text": " shipment. I never ordered, I never signed up for a subscription."
+      },
+      {
+        "id": 5,
+        "start": 14.640000343322754,
+        "end": 19.8799991607666,
+        "text": " Okay, give me a second. I'm going to pull up your profile and get you help. All right, Jeffrey, can you just confirm your date of birth?"
+      },
+      {
+        "id": 6,
+        "start": 21.239999771118164,
+        "end": 22.31999969482422,
+        "text": " 9-10-48."
+      },
+      {
+        "id": 7,
+        "start": 22.31999969482422,
+        "end": 28.520000457763672,
+        "text": " Thank you so much. Is your VIP status customer? Oh, I see you on, they put you on automatic refills on a monthly basis."
+      },
+      {
+        "id": 8,
+        "start": 28.520000457763672,
+        "end": 30.520000457763672,
+        "text": " Give me a second. I'm going to cancel that out for you."
+      },
+      {
+        "id": 9,
+        "start": 34.79999923706055,
+        "end": 38.68000030517578,
+        "text": " All right, perfect. Jeffrey, I was able to cancel out that refill."
+      },
+      {
+        "id": 10,
+        "start": 38.68000030517578,
+        "end": 43.47999954223633,
+        "text": " So you'll be seeing $63.95 back on your credit card in about five business days or less."
+      },
+      {
+        "id": 11,
+        "start": 43.47999954223633,
+        "end": 46,
+        "text": " And then how is the medication working out for you?"
+      },
+      {
+        "id": 12,
+        "start": 48,
+        "end": 52.720001220703125,
+        "text": " I haven't tried it yet. Oh, okay. Yeah, so with your VIP status,"
+      },
+      {
+        "id": 13,
+        "start": 52.720001220703125,
+        "end": 54.84000015258789,
+        "text": " you don't have to have your refills on a monthly basis."
+      },
+      {
+        "id": 14,
+        "start": 54.91999816894531,
+        "end": 58.20000076293945,
+        "text": " What a lot of people like to do is just go ahead and pause that for six months."
+      },
+      {
+        "id": 15,
+        "start": 58.47999954223633,
+        "end": 65,
+        "text": " That way it keeps your prescription active and just allows you to call in anytime you need a refill. And it keeps your price"
+      },
+      {
+        "id": 16,
+        "start": 65.16000366210938,
+        "end": 66.80000305175781,
+        "text": " rate locked in."
+      },
+      {
+        "id": 17,
+        "start": 66.80000305175781,
+        "end": 69.36000061035156,
+        "text": " So prices go up, yours stays the same."
+      },
+      {
+        "id": 18,
+        "start": 70.80000305175781,
+        "end": 73.83999633789062,
+        "text": " I could pause that for you until July 31st."
+      },
+      {
+        "id": 19,
+        "start": 74.4800033569336,
+        "end": 77.12000274658203,
+        "text": " That's okay, if they'll notify me in advance."
+      },
+      {
+        "id": 20,
+        "start": 77.87999725341797,
+        "end": 83.27999877929688,
+        "text": " No, that's the only thing, they don't. All right, then I don't want to freeze it, no. All right, no problem."
+      },
+      {
+        "id": 21,
+        "start": 83.4000015258789,
+        "end": 85.4000015258789,
+        "text": " I went ahead and canceled you out. You're all set."
+      },
+      {
+        "id": 22,
+        "start": 86.04000091552734,
+        "end": 89.68000030517578,
+        "text": " Very good. Thanks very much. No problem. Have a great evening. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8186-bd7b-c21f2f17b927",
+    "url": "https://www.notion.so/300000001221743-300000001711453-2f611d0a101c8186bd7bc21f2f17b927"
+  },
+  "processedAt": "2026-01-28T23:30:48.253Z"
+}

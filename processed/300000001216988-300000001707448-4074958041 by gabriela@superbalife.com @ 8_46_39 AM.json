@@ -1,0 +1,56 @@
+{
+  "recording": {
+    "name": "300000001216988-300000001707448-4074958041 by gabriela@superbalife.com @ 8_46_39 AM.wav",
+    "size": 29830,
+    "modifyTime": 1769587038000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216988-300000001707448-4074958041 by gabriela@superbalife.com @ 8_46_39 AM.wav",
+    "uploadDate": "2026-01-28T07:57:18.000Z",
+    "callId": "300000001216988-300000001707448",
+    "agent": "gabriela",
+    "phoneNumber": "4074958041",
+    "callTimestamp": "2026-01-28T08:46:39.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Muchas gracias por el maravilloso, ¿cómo lo puedo ayudar?\n\nSpeaker 2: ¿Bueno?\n\nSpeaker 1: ¿Bueno?\n\nSpeaker 2: ¿Puedo escuchar?\n\nSpeaker 1: ¡Hola!",
+    "duration": 1332,
+    "language": "spanish",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " Muchas gracias por el maravillado, ¿cómo lo puedo ayudar?"
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 9,
+        "text": " ¿Bueno?"
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 12,
+        "text": " ¿Bueno?"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 15,
+        "text": " ¿Puedo escuchar?"
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 18,
+        "text": " ¡Hola!"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ee-9144-c1336c9cfa58",
+    "url": "https://www.notion.so/300000001216988-300000001707448-2f611d0a101c81ee9144c1336c9cfa58"
+  },
+  "processedAt": "2026-01-28T13:29:03.206Z"
+}

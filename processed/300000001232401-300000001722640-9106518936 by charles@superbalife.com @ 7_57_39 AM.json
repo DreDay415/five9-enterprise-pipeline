@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "name": "300000001232401-300000001722640-9106518936 by charles@superbalife.com @ 7_57_39 AM.wav",
+    "size": 15920,
+    "modifyTime": 1770393474000,
+    "remotePath": "/five9sftp/upload/SB CS/2_6_2026/300000001232401-300000001722640-9106518936 by charles@superbalife.com @ 7_57_39 AM.wav",
+    "uploadDate": "2026-02-06T15:57:54.000Z",
+    "callId": "300000001232401-300000001722640",
+    "agent": "charles",
+    "phoneNumber": "9106518936",
+    "callTimestamp": "2026-02-06T07:57:39.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Please leave your message for Bobby Stewart.",
+    "duration": 1044,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 9.760000228881836,
+        "text": " Please leave your message for Bobby Stewart."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2ff11d0a-101c-8157-af30-d33a80c38bf7",
+    "url": "https://www.notion.so/300000001232401-300000001722640-2ff11d0a101c8157af30d33a80c38bf7"
+  },
+  "processedAt": "2026-02-06T16:02:33.325Z"
+}

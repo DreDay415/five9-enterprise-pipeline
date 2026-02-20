@@ -1,0 +1,194 @@
+{
+  "recording": {
+    "name": "300000001219938-300000001709854-9183513343 by jessie@superbalife.com @ 1_46_49 PM.wav",
+    "size": 165876,
+    "modifyTime": 1769550530000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219938-300000001709854-9183513343 by jessie@superbalife.com @ 1_46_49 PM.wav",
+    "uploadDate": "2026-01-27T21:48:50.000Z",
+    "callId": "300000001219938-300000001709854",
+    "agent": "jessie",
+    "phoneNumber": "9183513343",
+    "callTimestamp": "2026-01-27T13:46:49.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi. Thank you so much for calling Viagra. My name is Jessie. Can I get your first and\n\nSpeaker 2: last name?\n\nSpeaker 1: Jeff Alexander.\n\nSpeaker 2: Perfect. And Mr. Alexander, bear with me one second.\n\nSpeaker 1: Pardon me?\n\nSpeaker 2: Bear with me one moment, sir.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay. Great. And can I get your zip code?\n\nSpeaker 1: Do I know?\n\nSpeaker 2: Can I get your zip code?\n\nSpeaker 1: Yes. 74470.\n\nSpeaker 2: Okay. One moment.\n\nSpeaker 1: All right. And the address that I have you at is 24395 South 145th Street East in Webbers\n\nSpeaker 2: Falls, Oklahoma. Does that sound right?\n\nSpeaker 1: Yes.\n\nSpeaker 2: And what can I help you with? Oh, you wanted to cancel your refills. Is that right? Or\n\nSpeaker 1: just stop getting monthlies?\n\nSpeaker 2: Yes. I need to stop getting them.\n\nSpeaker 1: Okay. I can go ahead and cancel that for you. So what I can do is this. We can just switch\n\nSpeaker 2: this to on demand. So that way you can order whenever you want to and you won't get random\n\nSpeaker 1: stuff in the mail. All right?\n\nSpeaker 2: Okay.\n\nSpeaker 1: And then just to keep your prescription active, if you don't order anything in six months,\n\nSpeaker 2: you will get one refill in the mail just for 10 pills. That's just to keep your prescription\n\nSpeaker 1: active. But otherwise, you just order as you go. Okay?\n\nSpeaker 2: Okay. Thank you.\n\nSpeaker 1: You're welcome. Have a good day. Bye-bye.\n\nSpeaker 2: Have a good day.",
+    "duration": 4217,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.519999980926514,
+        "text": " Hi. Thank you so much for calling Viagra. My name is Jessie. Can I get your first and"
+      },
+      {
+        "id": 1,
+        "start": 4.519999980926514,
+        "end": 5.519999980926514,
+        "text": " last name?"
+      },
+      {
+        "id": 2,
+        "start": 5.519999980926514,
+        "end": 6.519999980926514,
+        "text": " Jeff Alexander."
+      },
+      {
+        "id": 3,
+        "start": 6.519999980926514,
+        "end": 13.119999885559082,
+        "text": " Perfect. And Mr. Alexander, bear with me one second."
+      },
+      {
+        "id": 4,
+        "start": 13.119999885559082,
+        "end": 15.119999885559082,
+        "text": " Pardon me?"
+      },
+      {
+        "id": 5,
+        "start": 15.119999885559082,
+        "end": 20.1200008392334,
+        "text": " Bear with me one moment, sir."
+      },
+      {
+        "id": 6,
+        "start": 20.1200008392334,
+        "end": 21.1200008392334,
+        "text": " Okay."
+      },
+      {
+        "id": 7,
+        "start": 21.1200008392334,
+        "end": 29.1200008392334,
+        "text": " Okay. Great. And can I get your zip code?"
+      },
+      {
+        "id": 8,
+        "start": 29.239999771118164,
+        "end": 31.239999771118164,
+        "text": " Do I know?"
+      },
+      {
+        "id": 9,
+        "start": 31.239999771118164,
+        "end": 34.2400016784668,
+        "text": " Can I get your zip code?"
+      },
+      {
+        "id": 10,
+        "start": 34.2400016784668,
+        "end": 37.2400016784668,
+        "text": " Yes. 74470."
+      },
+      {
+        "id": 11,
+        "start": 37.2400016784668,
+        "end": 40.2400016784668,
+        "text": " Okay. One moment."
+      },
+      {
+        "id": 12,
+        "start": 45.2400016784668,
+        "end": 52.2400016784668,
+        "text": " All right. And the address that I have you at is 24395 South 145th Street East in Webbers"
+      },
+      {
+        "id": 13,
+        "start": 52.2400016784668,
+        "end": 55.2400016784668,
+        "text": " Falls, Oklahoma. Does that sound right?"
+      },
+      {
+        "id": 14,
+        "start": 55.2400016784668,
+        "end": 57.2400016784668,
+        "text": " Yes."
+      },
+      {
+        "id": 15,
+        "start": 57.36000061035156,
+        "end": 63.2400016784668,
+        "text": " And what can I help you with? Oh, you wanted to cancel your refills. Is that right? Or"
+      },
+      {
+        "id": 16,
+        "start": 63.2400016784668,
+        "end": 65.23999786376953,
+        "text": " just stop getting monthlies?"
+      },
+      {
+        "id": 17,
+        "start": 65.23999786376953,
+        "end": 68.23999786376953,
+        "text": " Yes. I need to stop getting them."
+      },
+      {
+        "id": 18,
+        "start": 68.23999786376953,
+        "end": 75.23999786376953,
+        "text": " Okay. I can go ahead and cancel that for you. So what I can do is this. We can just switch"
+      },
+      {
+        "id": 19,
+        "start": 75.23999786376953,
+        "end": 80.23999786376953,
+        "text": " this to on demand. So that way you can order whenever you want to and you won't get random"
+      },
+      {
+        "id": 20,
+        "start": 80.23999786376953,
+        "end": 83.23999786376953,
+        "text": " stuff in the mail. All right?"
+      },
+      {
+        "id": 21,
+        "start": 83.23999786376953,
+        "end": 84.23999786376953,
+        "text": " Okay."
+      },
+      {
+        "id": 22,
+        "start": 84.23999786376953,
+        "end": 89.23999786376953,
+        "text": " And then just to keep your prescription active, if you don't order anything in six months,"
+      },
+      {
+        "id": 23,
+        "start": 89.23999786376953,
+        "end": 93.23999786376953,
+        "text": " you will get one refill in the mail just for 10 pills. That's just to keep your prescription"
+      },
+      {
+        "id": 24,
+        "start": 93.23999786376953,
+        "end": 96.23999786376953,
+        "text": " active. But otherwise, you just order as you go. Okay?"
+      },
+      {
+        "id": 25,
+        "start": 96.23999786376953,
+        "end": 98.23999786376953,
+        "text": " Okay. Thank you."
+      },
+      {
+        "id": 26,
+        "start": 98.23999786376953,
+        "end": 100.23999786376953,
+        "text": " You're welcome. Have a good day. Bye-bye."
+      },
+      {
+        "id": 27,
+        "start": 100.23999786376953,
+        "end": 102.23999786376953,
+        "text": " Have a good day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-817e-8503-d5ef992ca664",
+    "url": "https://www.notion.so/300000001219938-300000001709854-2f511d0a101c817e8503d5ef992ca664"
+  },
+  "processedAt": "2026-01-27T23:24:32.352Z"
+}

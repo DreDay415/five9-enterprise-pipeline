@@ -1,0 +1,200 @@
+{
+  "recording": {
+    "name": "300000001221088-300000001711024-6102958845 by olivia@superbalife.com @ 11_18_23 AM.wav",
+    "size": 214430,
+    "modifyTime": 1769628057000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221088-300000001711024-6102958845 by olivia@superbalife.com @ 11_18_23 AM.wav",
+    "uploadDate": "2026-01-28T19:20:57.000Z",
+    "callId": "300000001221088-300000001711024",
+    "agent": "olivia",
+    "phoneNumber": "6102958845",
+    "callTimestamp": "2026-01-28T11:18:23.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Olivia speaking. Who do I have the pleasure of speaking with today?\n\nSpeaker 2: Brad.\n\nSpeaker 1: Hi, Brad. How are you?\n\nSpeaker 2: Good. How are you?\n\nSpeaker 1: Good. Good. Thank you for asking. How can I help you today, Brad?\n\nSpeaker 2: I would just call to cancel my order so that it doesn't keep renewing.\n\nSpeaker 1: Yeah, I can definitely help you with that. Okay. What is your date of birth, Brad?\n\nSpeaker 2: 5-23-70.\n\nSpeaker 1: Great. And you're located at 450 Innsbrook Drive, Lee Heighton, Pennsylvania, 1-8-2-3-5?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Great. Yeah, so I do see you here. Yeah, so if you don't want to receive regular refills,\n\nSpeaker 2: those monthly refills with your prescription, you certainly don't have to.\n\nSpeaker 1: You always have the option to place your prescription on hold for up to six months at a time,\n\nSpeaker 2: just because six months is when the prescription would expire.\n\nSpeaker 1: If we didn't refill it, and the way that would work is if you wanted to place it on hold today,\n\nSpeaker 2: that's fine. And if you did need anything or need to order anything before July 28th, you could.\n\nSpeaker 1: You just have to give us a call to place the order yourself whenever you are ready.\n\nSpeaker 2: Okay. Yeah, for now I just want to, because I got plenty of them, so I don't need any.\n\nSpeaker 1: I don't want them to keep coming, in other words.\n\nSpeaker 2: Totally. Yeah, completely understandable.\n\nSpeaker 1: Okay, yeah, so yeah, your prescription is on hold, but if you need anything in the next six months,\n\nSpeaker 2: like I mentioned, or before July 28th, just give us a call at this number,\n\nSpeaker 1: Monday through Friday, 8-5 Pacific. We're always here.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, great.\n\nSpeaker 2: All right, well, thank you.\n\nSpeaker 1: Thank you, Brad. I hope you have a great day.\n\nSpeaker 2: Okay, you too. Bye.\n\nSpeaker 1: Bye.",
+    "duration": 6608,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8,
+        "text": " Thank you for calling Viagra. This is Olivia speaking. Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 1,
+        "start": 8,
+        "end": 11,
+        "text": " Brad."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 13,
+        "text": " Hi, Brad. How are you?"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 15,
+        "text": " Good. How are you?"
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 20,
+        "text": " Good. Good. Thank you for asking. How can I help you today, Brad?"
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 28,
+        "text": " I would just call to cancel my order so that it doesn't keep renewing."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 34,
+        "text": " Yeah, I can definitely help you with that. Okay. What is your date of birth, Brad?"
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 37,
+        "text": " 5-23-70."
+      },
+      {
+        "id": 8,
+        "start": 37,
+        "end": 46,
+        "text": " Great. And you're located at 450 Innsbrook Drive, Lee Heighton, Pennsylvania, 1-8-2-3-5?"
+      },
+      {
+        "id": 9,
+        "start": 46,
+        "end": 48,
+        "text": " Yeah."
+      },
+      {
+        "id": 10,
+        "start": 48,
+        "end": 55,
+        "text": " Great. Yeah, so I do see you here. Yeah, so if you don't want to receive regular refills,"
+      },
+      {
+        "id": 11,
+        "start": 55,
+        "end": 60,
+        "text": " those monthly refills with your prescription, you certainly don't have to."
+      },
+      {
+        "id": 12,
+        "start": 60,
+        "end": 66,
+        "text": " You always have the option to place your prescription on hold for up to six months at a time,"
+      },
+      {
+        "id": 13,
+        "start": 66,
+        "end": 69,
+        "text": " just because six months is when the prescription would expire."
+      },
+      {
+        "id": 14,
+        "start": 69,
+        "end": 77,
+        "text": " If we didn't refill it, and the way that would work is if you wanted to place it on hold today,"
+      },
+      {
+        "id": 15,
+        "start": 77,
+        "end": 85,
+        "text": " that's fine. And if you did need anything or need to order anything before July 28th, you could."
+      },
+      {
+        "id": 16,
+        "start": 85,
+        "end": 91,
+        "text": " You just have to give us a call to place the order yourself whenever you are ready."
+      },
+      {
+        "id": 17,
+        "start": 91,
+        "end": 96,
+        "text": " Okay. Yeah, for now I just want to, because I got plenty of them, so I don't need any."
+      },
+      {
+        "id": 18,
+        "start": 96,
+        "end": 98,
+        "text": " I don't want them to keep coming, in other words."
+      },
+      {
+        "id": 19,
+        "start": 98,
+        "end": 101,
+        "text": " Totally. Yeah, completely understandable."
+      },
+      {
+        "id": 20,
+        "start": 101,
+        "end": 110,
+        "text": " Okay, yeah, so yeah, your prescription is on hold, but if you need anything in the next six months,"
+      },
+      {
+        "id": 21,
+        "start": 110,
+        "end": 115,
+        "text": " like I mentioned, or before July 28th, just give us a call at this number,"
+      },
+      {
+        "id": 22,
+        "start": 115,
+        "end": 119,
+        "text": " Monday through Friday, 8-5 Pacific. We're always here."
+      },
+      {
+        "id": 23,
+        "start": 119,
+        "end": 121,
+        "text": " Okay."
+      },
+      {
+        "id": 24,
+        "start": 121,
+        "end": 124,
+        "text": " Okay, great."
+      },
+      {
+        "id": 25,
+        "start": 124,
+        "end": 126,
+        "text": " All right, well, thank you."
+      },
+      {
+        "id": 26,
+        "start": 126,
+        "end": 128,
+        "text": " Thank you, Brad. I hope you have a great day."
+      },
+      {
+        "id": 27,
+        "start": 128,
+        "end": 130,
+        "text": " Okay, you too. Bye."
+      },
+      {
+        "id": 28,
+        "start": 130,
+        "end": 132,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81be-9bc0-e1e1d32ddc68",
+    "url": "https://www.notion.so/300000001221088-300000001711024-2f611d0a101c81be9bc0e1e1d32ddc68"
+  },
+  "processedAt": "2026-01-28T23:53:46.882Z"
+}

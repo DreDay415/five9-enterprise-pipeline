@@ -1,0 +1,209 @@
+{
+  "recording": {
+    "name": "300000001242360-300000001731836-3087605578 by jessie@superbalife.com @ 12_54_58 PM.wav",
+    "size": 155086,
+    "modifyTime": 1771016212000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242360-300000001731836-3087605578 by jessie@superbalife.com @ 12_54_58 PM.wav",
+    "uploadDate": "2026-02-13T20:56:52.000Z",
+    "callId": "300000001242360-300000001731836",
+    "agent": "jessie",
+    "phoneNumber": "3087605578",
+    "callTimestamp": "2026-02-13T12:54:58.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_jessie_300000001242360-300000001731836_3087605578.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_jessie_300000001242360-300000001731836_3087605578.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling, hello, thank you for calling, my name is Jessamine.\n\nSpeaker 2: Hi, this is Mark Luger and I ordered some Cialis on Monday and I was wondering if you could track my order.\n\nSpeaker 1: Can you tell me where it's at or if it's arrived or whatever, or what it's going to?\n\nSpeaker 2: Of course, Mr. Luger.\n\nSpeaker 1: Of course, one moment.\n\nSpeaker 2: If you don't mind, can you just verify your zip code for me, your shipping zip code?\n\nSpeaker 1: Yeah, 68521, 68521, Lincoln, Nebraska.\n\nSpeaker 2: Okay, I have you at 6320 Northwest 2nd Circle in Lincoln, Nebraska, 68521.\n\nSpeaker 1: 6320.\n\nSpeaker 2: And that's apartment 288.\n\nSpeaker 1: 288, yep.\n\nSpeaker 2: Okay, it was just delivered today at about 9 a.m.?\n\nSpeaker 1: Okay, perfect, perfect.\n\nSpeaker 2: I'll be looking for it then.\n\nSpeaker 1: Thanks a lot.\n\nSpeaker 2: Yeah, just, sure, just really quick, it's in a white kind of plasticky type of envelope.\n\nSpeaker 1: It's extremely discreet, so it does not say Viagra or score blue on it.\n\nSpeaker 2: It just says shipping department from Alexandria, Kentucky with your name on it, okay?\n\nSpeaker 1: Nice, okay, I'll be looking for it.\n\nSpeaker 2: Hopefully it's in my box, my mailbox, but I'll look for it.\n\nSpeaker 1: That is what it says, it's delivered in or at mailbox.\n\nSpeaker 2: Okay, awesome.\n\nSpeaker 1: Thanks a lot.\n\nSpeaker 2: Have a great weekend.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: You too.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: All right, bye.",
+    "duration": 3909,
+    "audioDuration": 95.4000015258789,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 11,
+        "text": " Hi, thank you so much for calling, hello, thank you for calling, my name is Jessamine."
+      },
+      {
+        "id": 1,
+        "start": 11,
+        "end": 18.5,
+        "text": " Hi, this is Mark Luger and I ordered some Cialis on Monday and I was wondering if you"
+      },
+      {
+        "id": 2,
+        "start": 18.5,
+        "end": 19.5,
+        "text": " could track my order."
+      },
+      {
+        "id": 3,
+        "start": 19.5,
+        "end": 20.5,
+        "text": " Yeah."
+      },
+      {
+        "id": 4,
+        "start": 20.5,
+        "end": 26,
+        "text": " Can you tell me where it's at or if it's arrived or whatever, or what it's going to?"
+      },
+      {
+        "id": 5,
+        "start": 26,
+        "end": 27,
+        "text": " Of course, Mr. Luger."
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 28,
+        "text": " Of course, one moment."
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 32,
+        "text": " If you don't mind, can you just verify your zip code for me, your shipping zip code?"
+      },
+      {
+        "id": 8,
+        "start": 32,
+        "end": 37,
+        "text": " Yeah, 68521, 68521, Lincoln, Nebraska."
+      },
+      {
+        "id": 9,
+        "start": 37,
+        "end": 43,
+        "text": " Okay, I have you at 6320 Northwest 2nd Circle in Lincoln, Nebraska, 68521."
+      },
+      {
+        "id": 10,
+        "start": 43,
+        "end": 49,
+        "text": " 6320."
+      },
+      {
+        "id": 11,
+        "start": 49,
+        "end": 52,
+        "text": " And that's apartment 288."
+      },
+      {
+        "id": 12,
+        "start": 52,
+        "end": 54,
+        "text": " 288, yep."
+      },
+      {
+        "id": 13,
+        "start": 54,
+        "end": 57,
+        "text": " Okay, it was just delivered today at about 9 a.m.?"
+      },
+      {
+        "id": 14,
+        "start": 58,
+        "end": 60,
+        "text": " Okay, perfect, perfect."
+      },
+      {
+        "id": 15,
+        "start": 60,
+        "end": 62,
+        "text": " I'll be looking for it then."
+      },
+      {
+        "id": 16,
+        "start": 62,
+        "end": 63,
+        "text": " Thanks a lot."
+      },
+      {
+        "id": 17,
+        "start": 63,
+        "end": 68,
+        "text": " Yeah, just, sure, just really quick, it's in a white kind of plasticky type of envelope."
+      },
+      {
+        "id": 18,
+        "start": 68,
+        "end": 73,
+        "text": " It's extremely discreet, so it does not say Viagra or score blue on it."
+      },
+      {
+        "id": 19,
+        "start": 73,
+        "end": 77,
+        "text": " It just says shipping department from Alexandria, Kentucky with your name on it, okay?"
+      },
+      {
+        "id": 20,
+        "start": 77,
+        "end": 80,
+        "text": " Nice, okay, I'll be looking for it."
+      },
+      {
+        "id": 21,
+        "start": 80,
+        "end": 84,
+        "text": " Hopefully it's in my box, my mailbox, but I'll look for it."
+      },
+      {
+        "id": 22,
+        "start": 84,
+        "end": 88,
+        "text": " That is what it says, it's delivered in or at mailbox."
+      },
+      {
+        "id": 23,
+        "start": 88,
+        "end": 90,
+        "text": " Okay, awesome."
+      },
+      {
+        "id": 24,
+        "start": 90,
+        "end": 91,
+        "text": " Thanks a lot."
+      },
+      {
+        "id": 25,
+        "start": 91,
+        "end": 92,
+        "text": " Have a great weekend."
+      },
+      {
+        "id": 26,
+        "start": 92,
+        "end": 93,
+        "text": " Thank you."
+      },
+      {
+        "id": 27,
+        "start": 93,
+        "end": 94,
+        "text": " You too."
+      },
+      {
+        "id": 28,
+        "start": 94,
+        "end": 95,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 29,
+        "start": 95,
+        "end": 96,
+        "text": " All right, bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-815d-8acb-d9dbfb699b50",
+    "url": "https://www.notion.so/300000001242360-300000001731836-30611d0a101c815d8acbd9dbfb699b50"
+  },
+  "processedAt": "2026-02-13T20:57:31.747Z"
+}

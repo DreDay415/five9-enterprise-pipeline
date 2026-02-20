@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001240135-300000001730020-5155530659 by  @ 9_59_07 AM_CallStudio.wav",
+    "size": 28270,
+    "modifyTime": 1770919186000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240135-300000001730020-5155530659 by  @ 9_59_07 AM_CallStudio.wav",
+    "uploadDate": "2026-02-12T17:59:46.000Z",
+    "callId": "300000001240135-300000001730020",
+    "phoneNumber": "5155530659",
+    "callTimestamp": "2026-02-12T17:59:46.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Yes, sign in to the telehealth setting.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 2197,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.199999809265137,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.360000133514404,
+        "end": 6.840000152587891,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.159999847412109,
+        "end": 8.640000343322754,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 12.039999961853027,
+        "end": 15.9399995803833,
+        "text": " Yes, sign in to the telehealth setting."
+      },
+      {
+        "id": 4,
+        "start": 15.9399995803833,
+        "end": 17.020000457763672,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-813b-a297-e089ad7290df",
+    "url": "https://www.notion.so/300000001240135-300000001730020-30511d0a101c813ba297e089ad7290df"
+  },
+  "processedAt": "2026-02-12T18:02:00.441Z"
+}

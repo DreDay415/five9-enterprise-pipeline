@@ -1,0 +1,44 @@
+{
+  "recording": {
+    "name": "300000001217663-300000001707905-7142225927 by summer@verifiednutrition.com @ 11_15_05 AM.wav",
+    "size": 13320,
+    "modifyTime": 1769586734000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217663-300000001707905-7142225927 by summer@verifiednutrition.com @ 11_15_05 AM.wav",
+    "uploadDate": "2026-01-28T07:52:14.000Z",
+    "callId": "300000001217663-300000001707905",
+    "agent": "summer",
+    "phoneNumber": "7142225927",
+    "callTimestamp": "2026-01-28T11:15:05.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Customer Service, how can I help you?\n\nSpeaker 2: Hi, is this Michelle?\n\nSpeaker 1: Nope, let me get you to Michelle.",
+    "duration": 1323,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Customers Service, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Hi, is this Michelle?"
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 8,
+        "text": " Nope, let me get you to Michelle."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-818f-b6aa-f42d4e3ee61f",
+    "url": "https://www.notion.so/300000001217663-300000001707905-2f611d0a101c818fb6aaf42d4e3ee61f"
+  },
+  "processedAt": "2026-01-28T13:39:26.702Z"
+}

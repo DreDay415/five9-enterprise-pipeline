@@ -1,0 +1,128 @@
+{
+  "recording": {
+    "name": "300000001221478-300000001711286-2532221149 by johanna@superbalife.com @ 1_10_57 PM.wav",
+    "size": 306470,
+    "modifyTime": 1769634867000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221478-300000001711286-2532221149 by johanna@superbalife.com @ 1_10_57 PM.wav",
+    "uploadDate": "2026-01-28T21:14:27.000Z",
+    "callId": "300000001221478-300000001711286",
+    "agent": "johanna",
+    "phoneNumber": "2532221149",
+    "callTimestamp": "2026-01-28T13:10:57.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hello?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Is there anyone there?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?",
+    "duration": 2603,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 10,
+        "text": " Hello?"
+      },
+      {
+        "id": 1,
+        "start": 10,
+        "end": 20,
+        "text": " Hello?"
+      },
+      {
+        "id": 2,
+        "start": 20,
+        "end": 30,
+        "text": " Hello?"
+      },
+      {
+        "id": 3,
+        "start": 30,
+        "end": 48,
+        "text": " Hello?"
+      },
+      {
+        "id": 4,
+        "start": 48,
+        "end": 56,
+        "text": " Hello?"
+      },
+      {
+        "id": 5,
+        "start": 56,
+        "end": 70,
+        "text": " Hello?"
+      },
+      {
+        "id": 6,
+        "start": 70,
+        "end": 80,
+        "text": " Hello?"
+      },
+      {
+        "id": 7,
+        "start": 80,
+        "end": 102,
+        "text": " Hello?"
+      },
+      {
+        "id": 8,
+        "start": 102,
+        "end": 112,
+        "text": " Hello?"
+      },
+      {
+        "id": 9,
+        "start": 112,
+        "end": 132,
+        "text": " Hello?"
+      },
+      {
+        "id": 10,
+        "start": 132,
+        "end": 142,
+        "text": " Hello?"
+      },
+      {
+        "id": 11,
+        "start": 142,
+        "end": 152,
+        "text": " Hello?"
+      },
+      {
+        "id": 12,
+        "start": 152,
+        "end": 164,
+        "text": " Hello?"
+      },
+      {
+        "id": 13,
+        "start": 164,
+        "end": 172,
+        "text": " Is there anyone there?"
+      },
+      {
+        "id": 14,
+        "start": 172,
+        "end": 175,
+        "text": " Hello?"
+      },
+      {
+        "id": 15,
+        "start": 175,
+        "end": 184,
+        "text": " Hello?"
+      },
+      {
+        "id": 16,
+        "start": 184,
+        "end": 188,
+        "text": " Hello?"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81c5-9280-e98e3cdd119b",
+    "url": "https://www.notion.so/300000001221478-300000001711286-2f611d0a101c81c59280e98e3cdd119b"
+  },
+  "processedAt": "2026-01-28T22:40:59.728Z"
+}

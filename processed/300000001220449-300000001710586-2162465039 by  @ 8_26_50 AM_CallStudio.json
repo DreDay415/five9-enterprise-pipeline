@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001220449-300000001710586-2162465039 by  @ 8_26_50 AM_CallStudio.wav",
+    "size": 27490,
+    "modifyTime": 1769617649000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220449-300000001710586-2162465039 by  @ 8_26_50 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T16:27:29.000Z",
+    "callId": "300000001220449-300000001710586",
+    "phoneNumber": "2162465039",
+    "callTimestamp": "2026-01-28T16:27:29.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: A charge for, I got a charge for something I didn't charge.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Transferring to agent.",
+    "duration": 996,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.28000020980835,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.28000020980835,
+        "end": 7.28000020980835,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.28000020980835,
+        "end": 8.960000038146973,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.960000038146973,
+        "end": 15.319999694824219,
+        "text": " A charge for, I got a charge for something I didn't charge."
+      },
+      {
+        "id": 4,
+        "start": 15.319999694824219,
+        "end": 16.31999969482422,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 16.31999969482422,
+        "end": 16.559999465942383,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e1-bb3e-d132289ee645",
+    "url": "https://www.notion.so/300000001220449-300000001710586-2f611d0a101c81e1bb3ed132289ee645"
+  },
+  "processedAt": "2026-01-28T19:02:31.945Z"
+}

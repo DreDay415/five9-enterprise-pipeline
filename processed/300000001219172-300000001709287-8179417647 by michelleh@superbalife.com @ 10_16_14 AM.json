@@ -1,0 +1,50 @@
+{
+  "recording": {
+    "name": "300000001219172-300000001709287-8179417647 by michelleh@superbalife.com @ 10_16_14 AM.wav",
+    "size": 18976,
+    "modifyTime": 1769586740000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219172-300000001709287-8179417647 by michelleh@superbalife.com @ 10_16_14 AM.wav",
+    "uploadDate": "2026-01-28T07:52:20.000Z",
+    "callId": "300000001219172-300000001709287",
+    "agent": "michelleh",
+    "phoneNumber": "8179417647",
+    "callTimestamp": "2026-01-28T10:16:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Hello?",
+    "duration": 865,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 7,
+        "text": " Hello?"
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " Hello?"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 11,
+        "text": " Hello?"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81f1-b12a-d1cb93e04ac9",
+    "url": "https://www.notion.so/300000001219172-300000001709287-2f611d0a101c81f1b12ad1cb93e04ac9"
+  },
+  "processedAt": "2026-01-28T13:35:20.775Z"
+}

@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001216795-300000001707286-9497357463 by  @ 8_01_12 AM_CallStudio.wav",
+    "size": 26580,
+    "modifyTime": 1769592733000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216795-300000001707286-9497357463 by  @ 8_01_12 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:32:13.000Z",
+    "callId": "300000001216795-300000001707286",
+    "phoneNumber": "9497357463",
+    "callTimestamp": "2026-01-28T09:32:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Question about my order, I'm not sure I received what I...",
+    "duration": 1592,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.800000190734863,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.800000190734863,
+        "end": 6.440000057220459,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.440000057220459,
+        "end": 10.880000114440918,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.880000114440918,
+        "end": 15.079999923706055,
+        "text": " Question about my order, I'm not sure I received what I..."
+      },
+      {
+        "id": 4,
+        "start": 15.079999923706055,
+        "end": 16.079999923706055,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 16.079999923706055,
+        "end": 16.079999923706055,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a5-8dda-c5467c00a128",
+    "url": "https://www.notion.so/300000001216795-300000001707286-2f611d0a101c81a58ddac5467c00a128"
+  },
+  "processedAt": "2026-01-28T10:15:27.145Z"
+}

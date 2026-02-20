@@ -1,0 +1,224 @@
+{
+  "recording": {
+    "name": "300000001219230-300000001709337-8568826708 by olivier@superbalife.com @ 10_28_52 AM.wav",
+    "size": 311216,
+    "modifyTime": 1769583437000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219230-300000001709337-8568826708 by olivier@superbalife.com @ 10_28_52 AM.wav",
+    "uploadDate": "2026-01-28T06:57:17.000Z",
+    "callId": "300000001219230-300000001709337",
+    "agent": "olivier",
+    "phoneNumber": "8568826708",
+    "callTimestamp": "2026-01-28T10:28:52.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra. Hello, how are you? Good, thank you for asking. Mr. Keith Elton? Yes.\n\nSpeaker 2: All right, let me pull your prescription. Can you verify your date of birth?\n\nSpeaker 1: June 22, 63. Oh, you're in New Jersey, right? Yes.\n\nSpeaker 2: And then I see that you have a prescription. You have a VIP account with Score Blue for\n\nSpeaker 1: prescription, 100 milligrams, Viagra, 10 tablets every 30 days. How can I help you, Mr. Elton?\n\nSpeaker 2: I want to cancel that. You just don't need the refill? You want to order as needed yourself?\n\nSpeaker 1: No, I want to be able to handle it myself. Okay, okay, that's fair enough.\n\nSpeaker 2: A couple things. The reason you had your refill is because the doctor initially wrote\n\nSpeaker 1: the prescription because you get 10 tablets. There are 30 days in a month,\n\nSpeaker 2: so most patients are active, so they assume you need the Viagra, but if that's not your case,\n\nSpeaker 1: you're not required to get it every 30 days. So what I'm going to do, I'm going to advise the pharmacy\n\nSpeaker 2: to stop the initial 30 days frequency. They're going to pause the prescription up to half a year\n\nSpeaker 1: and you can just order as needed, okay? To lock your price in, you can get your refill 10 pills\n\nSpeaker 2: once or twice a year, okay? And if you need it more often, you let us know. We'd be happy to\n\nSpeaker 1: serve you as well, okay? Okay, so that won't be coming out of my account anymore, right?\n\nSpeaker 2: Yes, they're going to pause the prescription, okay? But you can reorder. It's still going to\n\nSpeaker 1: be available. We're going to lock the price in. Like I said, you don't have to get it every\n\nSpeaker 2: month. You can get it once or twice a year, okay? Okay. Give me one moment.\n\nSpeaker 1: You can even call at some point if you feel like you're active. You can call and be like,\n\nSpeaker 2: hey, Mr. Elton, can you send me 10 pills every 90 days, every 60 days? And then after you pause\n\nSpeaker 1: it again if you don't need it. You see what I'm saying? They give you the option to manage\n\nSpeaker 2: your prescription at your liking because they give you a VIP status.\n\nSpeaker 1: Okay, so I'm in charge when the money's coming out of my account or I send the money, right?\n\nSpeaker 2: Yeah, you can call us, okay? They're going to pause you and then you just call.\n\nSpeaker 1: You log into your account. You press the quick refill button.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, you answered, Mr. Elton, okay? I've updated your account, okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: But thank you for calling and you have a good week.\n\nSpeaker 2: You do the same.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 8386,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8.399999618530273,
+        "text": " Hi this is Viagra. Hello, how are you? Good, thank you for asking. Mr. Keith Elton? Yes."
+      },
+      {
+        "id": 1,
+        "start": 9.199999809265137,
+        "end": 13.520000457763672,
+        "text": " All right, let me pull your prescription. Can you verify me your date of birth?"
+      },
+      {
+        "id": 2,
+        "start": 14.399999618530273,
+        "end": 19.360000610351562,
+        "text": " June 22, 63. Oh, you're in New Jersey, right? Yes."
+      },
+      {
+        "id": 3,
+        "start": 22.719999313354492,
+        "end": 26.31999969482422,
+        "text": " And then I see that you have a prescription. You have a VIP account with score blue for"
+      },
+      {
+        "id": 4,
+        "start": 26.31999969482422,
+        "end": 31.440000534057617,
+        "text": " prescription, 100 milligrams, Viagra, 10 tablets every 30 days. How can I help you, Mr. Elton?"
+      },
+      {
+        "id": 5,
+        "start": 31.440000534057617,
+        "end": 37.439998626708984,
+        "text": " I want to cancel that. You just don't need the refill? You want to order as needed yourself?"
+      },
+      {
+        "id": 6,
+        "start": 39.439998626708984,
+        "end": 45.439998626708984,
+        "text": " No, I want to be able to handle it myself. Okay, okay, that's fair enough."
+      },
+      {
+        "id": 7,
+        "start": 47.68000030517578,
+        "end": 51.599998474121094,
+        "text": " A couple things. The reason you had your refill because the doctor initially wrote"
+      },
+      {
+        "id": 8,
+        "start": 51.599998474121094,
+        "end": 54.959999084472656,
+        "text": " the prescription because you get 10 tablets. There is 30 days in a month,"
+      },
+      {
+        "id": 9,
+        "start": 54.959999084472656,
+        "end": 59.439998626708984,
+        "text": " so most patients are active, so they assume you need the Viagra, but if that's not your case,"
+      },
+      {
+        "id": 10,
+        "start": 59.439998626708984,
+        "end": 63.599998474121094,
+        "text": " you're not required to get every 30 days. So what I'm going to do, I'm going to advise the pharmacy"
+      },
+      {
+        "id": 11,
+        "start": 63.599998474121094,
+        "end": 69.5999984741211,
+        "text": " to stop the initial 30 days frequency. They're going to pause the prescription up to half a year"
+      },
+      {
+        "id": 12,
+        "start": 69.5999984741211,
+        "end": 74.72000122070312,
+        "text": " and you can just order as needed, okay? To lock your price in, you can get your refill 10 pills"
+      },
+      {
+        "id": 13,
+        "start": 74.72000122070312,
+        "end": 79.27999877929688,
+        "text": " once or twice a year, okay? And if you need it more often, you let us know. We'd be happy to"
+      },
+      {
+        "id": 14,
+        "start": 79.27999877929688,
+        "end": 86.16000366210938,
+        "text": " serve you as well, okay? Okay, so that won't be coming out of my account anymore, right?"
+      },
+      {
+        "id": 15,
+        "start": 86.16000366210938,
+        "end": 89.83999633789062,
+        "text": " Yes, they're going to pause the prescription, okay? But you can reorder. It's still going to"
+      },
+      {
+        "id": 16,
+        "start": 89.83999633789062,
+        "end": 93.5199966430664,
+        "text": " be available. We're going to lock the price in. Like I said, you don't have to get it every"
+      },
+      {
+        "id": 17,
+        "start": 93.5199966430664,
+        "end": 98.72000122070312,
+        "text": " month. You can get it once or twice a year, okay? Okay. Give me one moment."
+      },
+      {
+        "id": 18,
+        "start": 109.5199966430664,
+        "end": 116.55999755859375,
+        "text": " You can even call at some point if you feel like you're active. You can call and be like,"
+      },
+      {
+        "id": 19,
+        "start": 116.55999755859375,
+        "end": 122.16000366210938,
+        "text": " hey, Mr. Hilton, can you send me 10 pills every 90 days, every 60 days? And then after you pause"
+      },
+      {
+        "id": 20,
+        "start": 122.16000366210938,
+        "end": 125.76000213623047,
+        "text": " it again if you don't need it. You see what I'm saying? They give you the option to manage"
+      },
+      {
+        "id": 21,
+        "start": 126.63999938964844,
+        "end": 129.75999450683594,
+        "text": " your prescription at your liking because they give you a VIP status."
+      },
+      {
+        "id": 22,
+        "start": 131.1199951171875,
+        "end": 137.36000061035156,
+        "text": " Okay, so I'm in charge when the money's coming out of my account or I send the money, right?"
+      },
+      {
+        "id": 23,
+        "start": 137.36000061035156,
+        "end": 140.8000030517578,
+        "text": " Yeah, you can call us, okay? They're going to pause you and then you just call."
+      },
+      {
+        "id": 24,
+        "start": 140.8000030517578,
+        "end": 143.36000061035156,
+        "text": " You log into your account. You press the quick refill button."
+      },
+      {
+        "id": 25,
+        "start": 144.8000030517578,
+        "end": 145.83999633789062,
+        "text": " Okay."
+      },
+      {
+        "id": 26,
+        "start": 168.32000732421875,
+        "end": 173.36000061035156,
+        "text": " All right, you answered, Mr. Hilton, okay? I've updated your account, okay?"
+      },
+      {
+        "id": 27,
+        "start": 174.0800018310547,
+        "end": 174.5800018310547,
+        "text": " Okay."
+      },
+      {
+        "id": 28,
+        "start": 175.83999633789062,
+        "end": 178.24000549316406,
+        "text": " But thank you for calling and you have a good week."
+      },
+      {
+        "id": 29,
+        "start": 178.24000549316406,
+        "end": 178.9600067138672,
+        "text": " You do the same."
+      },
+      {
+        "id": 30,
+        "start": 179.67999267578125,
+        "end": 180.47999572753906,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 31,
+        "start": 182.39999389648438,
+        "end": 183.44000244140625,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 32,
+        "start": 183.44000244140625,
+        "end": 189.83999633789062,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81df-b8cc-d115018cbd85",
+    "url": "https://www.notion.so/300000001219230-300000001709337-2f611d0a101c81dfb8ccd115018cbd85"
+  },
+  "processedAt": "2026-01-28T16:18:40.075Z"
+}

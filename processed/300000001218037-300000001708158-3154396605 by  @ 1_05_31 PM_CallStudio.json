@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001218037-300000001708158-3154396605 by  @ 1_05_31 PM_CallStudio.wav",
+    "size": 47186,
+    "modifyTime": 1769582231000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218037-300000001708158-3154396605 by  @ 1_05_31 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T06:37:11.000Z",
+    "callId": "300000001218037-300000001708158",
+    "phoneNumber": "3154396605",
+    "callTimestamp": "2026-01-28T06:37:11.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: We didn't receive a response, or I couldn't hear you.\n\nSpeaker 1: Let's try again.\n\nSpeaker 2: Please state the reason for your call.\n\nSpeaker 1: Received the wrong medication.\n\nSpeaker 2: Thanks, transferring to agent.",
+    "duration": 1736,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.300000190734863,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.300000190734863,
+        "end": 6,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 8,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 15,
+        "end": 18,
+        "text": " We didn't receive a response, or I couldn't hear your."
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 20,
+        "text": " Let's try again."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 22,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 6,
+        "start": 23,
+        "end": 26,
+        "text": " Received the wrong medication."
+      },
+      {
+        "id": 7,
+        "start": 27,
+        "end": 29,
+        "text": " Thanks, transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813c-a785-e815a41a7597",
+    "url": "https://www.notion.so/300000001218037-300000001708158-2f611d0a101c813ca785e815a41a7597"
+  },
+  "processedAt": "2026-01-28T17:33:52.780Z"
+}

@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "name": "300000001219584-300000001709596-8887955826 by olivia@superbalife.com @ 11_47_40 AM.wav",
+    "size": 5196,
+    "modifyTime": 1769589135000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219584-300000001709596-8887955826 by olivia@superbalife.com @ 11_47_40 AM.wav",
+    "uploadDate": "2026-01-28T08:32:15.000Z",
+    "callId": "300000001219584-300000001709596",
+    "agent": "olivia",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T11:47:40.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hold one moment.",
+    "duration": 667,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.1600000858306885,
+        "text": " Hold one moment."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81fd-865f-e3560c812601",
+    "url": "https://www.notion.so/300000001219584-300000001709596-2f611d0a101c81fd865fe3560c812601"
+  },
+  "processedAt": "2026-01-28T12:55:02.798Z"
+}

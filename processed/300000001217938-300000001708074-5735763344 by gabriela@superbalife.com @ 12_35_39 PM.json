@@ -1,0 +1,200 @@
+{
+  "recording": {
+    "name": "300000001217938-300000001708074-5735763344 by gabriela@superbalife.com @ 12_35_39 PM.wav",
+    "size": 202666,
+    "modifyTime": 1769582840000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217938-300000001708074-5735763344 by gabriela@superbalife.com @ 12_35_39 PM.wav",
+    "uploadDate": "2026-01-28T06:47:20.000Z",
+    "callId": "300000001217938-300000001708074",
+    "agent": "gabriela",
+    "phoneNumber": "5735763344",
+    "callTimestamp": "2026-01-28T12:35:39.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Diagra. How can I assist you?\n\nSpeaker 2: Hi, I have a problem with your company there.\n\nSpeaker 1: And I haven't, I've already canceled this once and I don't want any more\n\nSpeaker 2: billings on this Diagra thing, okay?\n\nSpeaker 1: And I want to give you, you keep sending me this score blue\n\nSpeaker 2: and I don't know, I've ordered it once but you keep billing me and sending it to me.\n\nSpeaker 1: Okay, what's going on? Is it that you have enough supply at this time?\n\nSpeaker 2: What's that?\n\nSpeaker 1: What's going on? Is it that you have enough supply at this time?\n\nSpeaker 2: I've got plenty of it, I can tell you that, yeah.\n\nSpeaker 1: Okay, yeah, no worries.\n\nSpeaker 2: I don't need all that and I don't want to be billed anymore for it.\n\nSpeaker 1: Yeah, that's totally understandable, Roger.\n\nSpeaker 2: So if you have enough supply, what I can go ahead and do for you is that I can pause your prescription.\n\nSpeaker 1: That way you wouldn't be getting billed at the moment, okay?\n\nSpeaker 2: Well, I don't want to be paused, I want to be canceled completely.\n\nSpeaker 1: I'm going to give you my RX number, okay?\n\nSpeaker 2: I mean, how are you liking the Diagra? How is it working for you?\n\nSpeaker 1: Well, I don't know. It's okay, but I don't need to get a whole bottle every month or whatever.\n\nSpeaker 2: Yeah, you don't need it every month.\n\nSpeaker 1: That's totally understandable, Roger.\n\nSpeaker 2: So what I can go ahead and do for you, so that you don't receive it so often,\n\nSpeaker 1: is that I can go ahead and just adjust your prescription where you receive it only every six months.\n\nSpeaker 2: So that means you would only receive it twice a year.\n\nSpeaker 1: I don't want that. Ma'am, here, let me explain this.\n\nSpeaker 2: I do not want any more.\n\nSpeaker 1: And here's my RX number, 9799374.\n\nSpeaker 2: Okay, well you're all set. It's been canceled going forward, okay?\n\nSpeaker 1: Thank you.",
+    "duration": 4187,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Diagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10,
+        "text": " Hi, I have a problem with your company there."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 16,
+        "text": " And I haven't, I've already canceled this once and I don't want any more"
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 21,
+        "text": " billings on this Diagra thing, okay?"
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 26,
+        "text": " And I want to give you, you keep sending me this score blue"
+      },
+      {
+        "id": 5,
+        "start": 26,
+        "end": 33,
+        "text": " and I don't know, I've ordered it once but you keep billing me and sending it to me."
+      },
+      {
+        "id": 6,
+        "start": 33,
+        "end": 37,
+        "text": " Okay, what's going on? Is it that you have enough supply at this time?"
+      },
+      {
+        "id": 7,
+        "start": 37,
+        "end": 39,
+        "text": " What's that?"
+      },
+      {
+        "id": 8,
+        "start": 39,
+        "end": 43,
+        "text": " What's going on? Is it that you have enough supply at this time?"
+      },
+      {
+        "id": 9,
+        "start": 43,
+        "end": 46,
+        "text": " I've got plenty of it, I can tell you that, yeah."
+      },
+      {
+        "id": 10,
+        "start": 46,
+        "end": 47,
+        "text": " Okay, yeah, no worries."
+      },
+      {
+        "id": 11,
+        "start": 47,
+        "end": 52,
+        "text": " I don't need all that and I don't want to be billed anymore for it."
+      },
+      {
+        "id": 12,
+        "start": 52,
+        "end": 54,
+        "text": " Yeah, that's totally understandable, Roger."
+      },
+      {
+        "id": 13,
+        "start": 54,
+        "end": 59,
+        "text": " So if you have enough supply, what I can go ahead and do for you is that I can pause your prescription."
+      },
+      {
+        "id": 14,
+        "start": 59,
+        "end": 63,
+        "text": " That way you wouldn't be getting billed at the moment, okay?"
+      },
+      {
+        "id": 15,
+        "start": 63,
+        "end": 67,
+        "text": " Well, I don't want to be paused, I want to be canceled completely."
+      },
+      {
+        "id": 16,
+        "start": 67,
+        "end": 70,
+        "text": " I'm going to give you my RX number, okay?"
+      },
+      {
+        "id": 17,
+        "start": 70,
+        "end": 75,
+        "text": " I mean, how are you liking the Diagra? How is it working for you?"
+      },
+      {
+        "id": 18,
+        "start": 75,
+        "end": 87,
+        "text": " Well, I don't know. It's okay, but I don't need to get a whole bottle every month or whatever."
+      },
+      {
+        "id": 19,
+        "start": 87,
+        "end": 90,
+        "text": " Yeah, you don't need it every month."
+      },
+      {
+        "id": 20,
+        "start": 90,
+        "end": 92,
+        "text": " That's totally understandable, Roger."
+      },
+      {
+        "id": 21,
+        "start": 92,
+        "end": 96,
+        "text": " So what I can go ahead and do for you, so that you don't receive it so often,"
+      },
+      {
+        "id": 22,
+        "start": 96,
+        "end": 102,
+        "text": " is that I can go ahead and just adjust your prescription where you receive it only every six months."
+      },
+      {
+        "id": 23,
+        "start": 102,
+        "end": 104,
+        "text": " So that means you would only receive it twice a year."
+      },
+      {
+        "id": 24,
+        "start": 104,
+        "end": 107,
+        "text": " I don't want that. Ma'am, here, let me explain this."
+      },
+      {
+        "id": 25,
+        "start": 107,
+        "end": 110,
+        "text": " I do not want any more."
+      },
+      {
+        "id": 26,
+        "start": 110,
+        "end": 119,
+        "text": " And here's my RX number, 9799374."
+      },
+      {
+        "id": 27,
+        "start": 119,
+        "end": 123,
+        "text": " Okay, well you're all set. It's been canceled going forward, okay?"
+      },
+      {
+        "id": 28,
+        "start": 123,
+        "end": 125,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8108-a9d0-c7f7f0172078",
+    "url": "https://www.notion.so/300000001217938-300000001708074-2f611d0a101c8108a9d0c7f7f0172078"
+  },
+  "processedAt": "2026-01-28T16:44:25.660Z"
+}

@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001219404-300000001709491-8557194751 by  @ 11_11_02 AM_CallStudio.wav",
+    "size": 26450,
+    "modifyTime": 1769586739000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219404-300000001709491-8557194751 by  @ 11_11_02 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:52:19.000Z",
+    "callId": "300000001219404-300000001709491",
+    "phoneNumber": "8557194751",
+    "callTimestamp": "2026-01-28T07:52:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I need a refill.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 835,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.360000133514404,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.360000133514404,
+        "end": 7.840000152587891,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.840000152587891,
+        "end": 13.600000381469727,
+        "text": " I need a refill."
+      },
+      {
+        "id": 3,
+        "start": 13.600000381469727,
+        "end": 16,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81fa-a498-fbe4b60452ff",
+    "url": "https://www.notion.so/300000001219404-300000001709491-2f611d0a101c81faa498fbe4b60452ff"
+  },
+  "processedAt": "2026-01-28T13:36:02.008Z"
+}

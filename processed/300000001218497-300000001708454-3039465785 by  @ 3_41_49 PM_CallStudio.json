@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001218497-300000001708454-3039465785 by  @ 3_41_49 PM_CallStudio.wav",
+    "size": 20470,
+    "modifyTime": 1769582531000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218497-300000001708454-3039465785 by  @ 3_41_49 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T06:42:11.000Z",
+    "callId": "300000001218497-300000001708454",
+    "phoneNumber": "3039465785",
+    "callTimestamp": "2026-01-28T06:42:11.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Wrong medicine.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 876,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 8,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 10,
+        "text": " Wrong medicine."
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 12,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8193-bb2a-f456f51625c5",
+    "url": "https://www.notion.so/300000001218497-300000001708454-2f611d0a101c8193bb2af456f51625c5"
+  },
+  "processedAt": "2026-01-28T17:10:34.748Z"
+}

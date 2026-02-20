@@ -1,0 +1,374 @@
+{
+  "recording": {
+    "name": "300000001239892-300000001729828-2513216811 by lucif@superbalife.com @ 8_57_43 AM.wav",
+    "size": 231720,
+    "modifyTime": 1770915619000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001239892-300000001729828-2513216811 by lucif@superbalife.com @ 8_57_43 AM.wav",
+    "uploadDate": "2026-02-12T17:00:19.000Z",
+    "callId": "300000001239892-300000001729828",
+    "agent": "lucif",
+    "phoneNumber": "2513216811",
+    "callTimestamp": "2026-02-12T08:57:43.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks, Paul Viagra, Quinn speaking, how can I help you?\n\nSpeaker 2: Yeah, hi, I tried the new SCORE Blue and it didn't work for me. It worked exactly like the old Sidenafil.\n\nSpeaker 1: Okay, let's pull up your account. We can help you out. That is why we carry others.\n\nSpeaker 2: You know, it's just a real body chemistry type of medication.\n\nSpeaker 1: Is your name Stan White?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay, one moment.\n\nSpeaker 2: All right, and you're saying you tried that newest Viagra that we sent out to you?\n\nSpeaker 1: Yeah, why does it work exactly the same as the old one?\n\nSpeaker 2: It should not at all.\n\nSpeaker 1: It's a completely different pill.\n\nSpeaker 2: If you look at the bottles, you can see that for yourself.\n\nSpeaker 1: If you actually tried it, you should know that it.\n\nSpeaker 2: No, the bottles I ordered, I got the first shipment I got, they said it was wrong. They sent me generic Viagra and the second bottle I got was exactly the same.\n\nSpeaker 1: So did you try it or you just think they look the same?\n\nSpeaker 2: No, no, I tried it. I tried it for a week, for more than a week.\n\nSpeaker 1: They're completely different.\n\nSpeaker 2: So on the second bottle we sent you, it does say ATV on the bottle.\n\nSpeaker 1: Yeah, it does. It's from a completely different manufacturer.\n\nSpeaker 2: So they're completely two different.\n\nSpeaker 1: Yeah, it worked exactly the same though.\n\nSpeaker 2: Yeah, I got you, but it didn't do it for me.\n\nSpeaker 1: That's a good indication. It's probably something in your body that's blocking any kind of other releases of the medication.\n\nSpeaker 2: That's probably what that is then because there's no way that they'd be activating the same way.\n\nSpeaker 1: One has a new vasodynamic delivery system that does allow it to activate a lot faster, which it does for most men.\n\nSpeaker 2: So that could be the case.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Well, I'd like to-\n\nSpeaker 1: You are taking this on an empty stomach, correct?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, yeah, go ahead and return it, sir.\n\nSpeaker 1: We'll give you a refund.\n\nSpeaker 2: Okay, how do I, will you send me a label?\n\nSpeaker 1: No, we don't. You can just send it back to the same address that's on that pill bottle.\n\nSpeaker 2: Okay, will do.\n\nSpeaker 1: Have a good day.\n\nSpeaker 2: Okay, thank you.",
+    "duration": 7804,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.039999961853027,
+        "text": " Thanks, Paul Viagra, Quinn speaking, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4.039999961853027,
+        "end": 7.960000038146973,
+        "text": " Yeah, hi, I tried the new SCORE Blue"
+      },
+      {
+        "id": 2,
+        "start": 7.960000038146973,
+        "end": 9.279999732971191,
+        "text": " and it didn't work for me."
+      },
+      {
+        "id": 3,
+        "start": 9.279999732971191,
+        "end": 13.359999656677246,
+        "text": " It worked exactly like the old Sidenafil."
+      },
+      {
+        "id": 4,
+        "start": 13.359999656677246,
+        "end": 15.84000015258789,
+        "text": " Okay, let's pull up your account."
+      },
+      {
+        "id": 5,
+        "start": 15.84000015258789,
+        "end": 17.079999923706055,
+        "text": " We can help you out."
+      },
+      {
+        "id": 6,
+        "start": 17.079999923706055,
+        "end": 19.1200008392334,
+        "text": " That is why we carry others."
+      },
+      {
+        "id": 7,
+        "start": 19.1200008392334,
+        "end": 20.600000381469727,
+        "text": " You know, it's just a real body chemistry"
+      },
+      {
+        "id": 8,
+        "start": 20.600000381469727,
+        "end": 22,
+        "text": " type of medication."
+      },
+      {
+        "id": 9,
+        "start": 22,
+        "end": 23.8799991607666,
+        "text": " Is your name Stan White?"
+      },
+      {
+        "id": 10,
+        "start": 23.8799991607666,
+        "end": 24.719999313354492,
+        "text": " Yeah."
+      },
+      {
+        "id": 11,
+        "start": 26.479999542236328,
+        "end": 27.31999969482422,
+        "text": " Okay, one moment."
+      },
+      {
+        "id": 12,
+        "start": 30,
+        "end": 35,
+        "text": " All right, and you're saying you tried that newest Viagra"
+      },
+      {
+        "id": 13,
+        "start": 36.439998626708984,
+        "end": 38.439998626708984,
+        "text": " that we sent out to you?"
+      },
+      {
+        "id": 14,
+        "start": 38.439998626708984,
+        "end": 42.91999816894531,
+        "text": " Yeah, why does it work exactly the same as the old one?"
+      },
+      {
+        "id": 15,
+        "start": 42.91999816894531,
+        "end": 44.720001220703125,
+        "text": " It should not at all."
+      },
+      {
+        "id": 16,
+        "start": 44.720001220703125,
+        "end": 46.52000045776367,
+        "text": " It's a completely different pill."
+      },
+      {
+        "id": 17,
+        "start": 46.52000045776367,
+        "end": 50.040000915527344,
+        "text": " If you look at the bottles, you can see that for yourself."
+      },
+      {
+        "id": 18,
+        "start": 50.040000915527344,
+        "end": 52.15999984741211,
+        "text": " If you actually tried it, you should know that it."
+      },
+      {
+        "id": 19,
+        "start": 52.15999984741211,
+        "end": 57.15999984741211,
+        "text": " No, the bottles I ordered, I got the first shipment I got,"
+      },
+      {
+        "id": 20,
+        "start": 58.36000061035156,
+        "end": 59.720001220703125,
+        "text": " they said it was wrong."
+      },
+      {
+        "id": 21,
+        "start": 60.68000030517578,
+        "end": 62.959999084472656,
+        "text": " They sent me generic Viagra"
+      },
+      {
+        "id": 22,
+        "start": 62.959999084472656,
+        "end": 66.12000274658203,
+        "text": " and the second bottle I got was exactly the same."
+      },
+      {
+        "id": 23,
+        "start": 66.12000274658203,
+        "end": 68.68000030517578,
+        "text": " So did you try it or you just think they look the same?"
+      },
+      {
+        "id": 24,
+        "start": 68.68000030517578,
+        "end": 69.87999725341797,
+        "text": " No, no, I tried it."
+      },
+      {
+        "id": 25,
+        "start": 69.87999725341797,
+        "end": 72,
+        "text": " I tried it for a week for more than a week."
+      },
+      {
+        "id": 26,
+        "start": 72,
+        "end": 73.04000091552734,
+        "text": " They're completely different."
+      },
+      {
+        "id": 27,
+        "start": 73.04000091552734,
+        "end": 74.87999725341797,
+        "text": " So on the second bottle we sent you,"
+      },
+      {
+        "id": 28,
+        "start": 74.87999725341797,
+        "end": 78,
+        "text": " it does say ATV on the bottle."
+      },
+      {
+        "id": 29,
+        "start": 78.83999633789062,
+        "end": 79.68000030517578,
+        "text": " Yeah, it does."
+      },
+      {
+        "id": 30,
+        "start": 79.68000030517578,
+        "end": 81.4000015258789,
+        "text": " It's from a completely different manufacturer."
+      },
+      {
+        "id": 31,
+        "start": 81.4000015258789,
+        "end": 82.5999984741211,
+        "text": " So they're completely two different."
+      },
+      {
+        "id": 32,
+        "start": 82.5999984741211,
+        "end": 85.44000244140625,
+        "text": " Yeah, it worked exactly the same though."
+      },
+      {
+        "id": 33,
+        "start": 85.44000244140625,
+        "end": 88.63999938964844,
+        "text": " Yeah, I got you, but it didn't do it for me."
+      },
+      {
+        "id": 34,
+        "start": 88.63999938964844,
+        "end": 89.68000030517578,
+        "text": " That's a good indication."
+      },
+      {
+        "id": 35,
+        "start": 89.68000030517578,
+        "end": 91,
+        "text": " It's probably something in your body"
+      },
+      {
+        "id": 36,
+        "start": 91,
+        "end": 95.4800033569336,
+        "text": " that's blocking any kind of other releases of the medication."
+      },
+      {
+        "id": 37,
+        "start": 95.4800033569336,
+        "end": 97.31999969482422,
+        "text": " That's probably what that is then"
+      },
+      {
+        "id": 38,
+        "start": 97.31999969482422,
+        "end": 100.08000183105469,
+        "text": " because there's no way that they'd be activating"
+      },
+      {
+        "id": 39,
+        "start": 100.08000183105469,
+        "end": 100.91999816894531,
+        "text": " the same way."
+      },
+      {
+        "id": 40,
+        "start": 100.91999816894531,
+        "end": 103.27999877929688,
+        "text": " One has a new vasodynamic delivery system"
+      },
+      {
+        "id": 41,
+        "start": 103.27999877929688,
+        "end": 105.55999755859375,
+        "text": " that does allow it to activate a lot faster,"
+      },
+      {
+        "id": 42,
+        "start": 105.55999755859375,
+        "end": 106.83999633789062,
+        "text": " which it does most men."
+      },
+      {
+        "id": 43,
+        "start": 108.16000366210938,
+        "end": 109.5199966430664,
+        "text": " So that could be the case."
+      },
+      {
+        "id": 44,
+        "start": 110.95999908447266,
+        "end": 111.80000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 45,
+        "start": 113.16000366210938,
+        "end": 114,
+        "text": " Well, I'd like to-"
+      },
+      {
+        "id": 46,
+        "start": 114,
+        "end": 116.5999984741211,
+        "text": " You are taking this on an empty stomach, correct?"
+      },
+      {
+        "id": 47,
+        "start": 116.5999984741211,
+        "end": 117.44000244140625,
+        "text": " Correct."
+      },
+      {
+        "id": 48,
+        "start": 119.23999786376953,
+        "end": 120.08000183105469,
+        "text": " Okay."
+      },
+      {
+        "id": 49,
+        "start": 120.91999816894531,
+        "end": 122.08000183105469,
+        "text": " All right, yeah, go ahead and return it, sir."
+      },
+      {
+        "id": 50,
+        "start": 122.08000183105469,
+        "end": 123.23999786376953,
+        "text": " We'll give you a refund."
+      },
+      {
+        "id": 51,
+        "start": 124.5199966430664,
+        "end": 127.31999969482422,
+        "text": " Okay, how do I, will you send me a label?"
+      },
+      {
+        "id": 52,
+        "start": 127.31999969482422,
+        "end": 128.72000122070312,
+        "text": " No, we don't."
+      },
+      {
+        "id": 53,
+        "start": 128.72000122070312,
+        "end": 132.24000549316406,
+        "text": " You can just send it back to the same address"
+      },
+      {
+        "id": 54,
+        "start": 132.24000549316406,
+        "end": 133.60000610351562,
+        "text": " that's on that pill bottle."
+      },
+      {
+        "id": 55,
+        "start": 134.8000030517578,
+        "end": 135.9600067138672,
+        "text": " Okay, will do."
+      },
+      {
+        "id": 56,
+        "start": 138.27999877929688,
+        "end": 139.67999267578125,
+        "text": " Have a good day."
+      },
+      {
+        "id": 57,
+        "start": 139.67999267578125,
+        "end": 140.52000427246094,
+        "text": " Okay, thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81f6-8863-f2c1fe24ad68",
+    "url": "https://www.notion.so/300000001239892-300000001729828-30511d0a101c81f68863f2c1fe24ad68"
+  },
+  "processedAt": "2026-02-12T17:01:37.145Z"
+}

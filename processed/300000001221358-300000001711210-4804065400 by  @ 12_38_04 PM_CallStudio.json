@@ -1,0 +1,67 @@
+{
+  "recording": {
+    "name": "300000001221358-300000001711210-4804065400 by  @ 12_38_04 PM_CallStudio.wav",
+    "size": 33080,
+    "modifyTime": 1769632732000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221358-300000001711210-4804065400 by  @ 12_38_04 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T20:38:52.000Z",
+    "callId": "300000001221358-300000001711210",
+    "phoneNumber": "4804065400",
+    "callTimestamp": "2026-01-28T20:38:52.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Orders.\n\nSpeaker 2: I heard you say, orders.\n\nSpeaker 1: Say yes or press 1 if this is correct.\n\nSpeaker 2: Otherwise, say no.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1614,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 10,
+        "text": " Orders."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 13,
+        "text": " I heard you say, orders."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 16,
+        "text": " Say yes or press 1 if this is correct."
+      },
+      {
+        "id": 5,
+        "start": 16,
+        "end": 18,
+        "text": " Otherwise, say no."
+      },
+      {
+        "id": 6,
+        "start": 18,
+        "end": 20,
+        "text": " Thanks, transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81bf-b408-eb9783a40274",
+    "url": "https://www.notion.so/300000001221358-300000001711210-2f611d0a101c81bfb408eb9783a40274"
+  },
+  "processedAt": "2026-01-28T22:57:10.559Z"
+}

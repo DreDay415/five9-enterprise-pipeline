@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001216905-300000001707388-4046178567 by  @ 8_26_15 AM_CallStudio.wav",
+    "size": 27036,
+    "modifyTime": 1769584336000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216905-300000001707388-4046178567 by  @ 8_26_15 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:12:16.000Z",
+    "callId": "300000001216905-300000001707388",
+    "phoneNumber": "4046178567",
+    "callTimestamp": "2026-01-28T07:12:16.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: A clinician left me a message, but I can't log in.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1558,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.440000057220459,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.440000057220459,
+        "end": 6.440000057220459,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.440000057220459,
+        "end": 10.399999618530273,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.399999618530273,
+        "end": 15.119999885559082,
+        "text": " A clinician left me a message, but I can't log in."
+      },
+      {
+        "id": 4,
+        "start": 15.119999885559082,
+        "end": 16.31999969482422,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81b4-b658-c1f3cdaf9922",
+    "url": "https://www.notion.so/300000001216905-300000001707388-2f611d0a101c81b4b658c1f3cdaf9922"
+  },
+  "processedAt": "2026-01-28T15:10:31.228Z"
+}

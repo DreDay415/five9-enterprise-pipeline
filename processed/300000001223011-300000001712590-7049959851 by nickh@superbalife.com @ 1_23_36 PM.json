@@ -1,0 +1,200 @@
+{
+  "recording": {
+    "name": "300000001223011-300000001712590-7049959851 by nickh@superbalife.com @ 1_23_36 PM.wav",
+    "size": 210206,
+    "modifyTime": 1769721968000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223011-300000001712590-7049959851 by nickh@superbalife.com @ 1_23_36 PM.wav",
+    "uploadDate": "2026-01-29T21:26:08.000Z",
+    "callId": "300000001223011-300000001712590",
+    "agent": "nickh",
+    "phoneNumber": "7049959851",
+    "callTimestamp": "2026-01-29T13:23:36.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi. Thank you for calling Viagra at Score Blue. How can I help you today?\n\nSpeaker 2: Hi. I keep getting shipments and charges that I didn't really intend to do.\n\nSpeaker 1: I want to make sure that gets canceled and you don't get any more charges.\n\nSpeaker 2: Okay. Sure. Yeah. Let's take a look at your prescription and see how it's organized.\n\nSpeaker 1: Could you please provide me with your full name and date of birth?\n\nSpeaker 2: Yeah. It's Michael Wilson, April 1, 1953.\n\nSpeaker 1: Okay. Mr. Wilson, I see your address as 3720 Blue Sky Drive. Is that correct?\n\nSpeaker 2: That's right. Yep.\n\nSpeaker 1: And the prescription looks like it was written on September 19.\n\nSpeaker 2: And this was for the 50-milligram Viagra, a quantity of 25 each fulfillment. Is that accurate?\n\nSpeaker 1: Yes.\n\nSpeaker 2: All right. Looking at the notes from the doctor here, it shows it was written with refills bimonthly.\n\nSpeaker 1: Okay. So this was done because of the low milligram dosage.\n\nSpeaker 2: Sometimes the doctors will do this for convenience, but it's not necessarily required.\n\nSpeaker 1: So if you wanted, this is not a subscription. This is a prescription with refills.\n\nSpeaker 2: So you could pause it, and that would allow you to call in and place orders as needed.\n\nSpeaker 1: I do see here you have nine refills left under the script.\n\nSpeaker 2: So if you want those accessible to you, I usually recommend doing a pause.\n\nSpeaker 1: Okay. As long as that won't automatically restart?\n\nSpeaker 2: Correct. So this would not be on a monthly or bimonthly refill schedule.\n\nSpeaker 1: This would be paused up to six months, so I can pause it all the way to August 1st for you.\n\nSpeaker 2: So if you want to refill before that date, you could just give us a call.\n\nSpeaker 1: If you want to push it back at any time, you can do that as well.\n\nSpeaker 2: Okay. Yeah, that'll be fine.\n\nSpeaker 1: Okay. So I went ahead and made those adjustments, and you're all set?\n\nSpeaker 2: Okay. All right. Thanks for your help.\n\nSpeaker 1: Of course. Happy to help. Thank you.\n\nSpeaker 2: All right. Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 5736,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi. Thank you for calling Viagra at score blue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 14,
+        "text": " Hi. I keep getting shipments and charges that I not really didn't intend to do."
+      },
+      {
+        "id": 2,
+        "start": 14,
+        "end": 18,
+        "text": " I want to make sure that gets canceled and don't get any more charges."
+      },
+      {
+        "id": 3,
+        "start": 18,
+        "end": 22,
+        "text": " Okay. Sure. Yeah. Let's take a look at your prescription and see how it's organized."
+      },
+      {
+        "id": 4,
+        "start": 22,
+        "end": 26,
+        "text": " Could you please provide me with your full name and date of birth?"
+      },
+      {
+        "id": 5,
+        "start": 27,
+        "end": 33,
+        "text": " Yeah. It's Michael Wilson, April 1, 1953."
+      },
+      {
+        "id": 6,
+        "start": 33,
+        "end": 38,
+        "text": " Okay. Mr. Wilson, I see your address as 3720 Blue Sky Drive. Is that correct?"
+      },
+      {
+        "id": 7,
+        "start": 38,
+        "end": 40,
+        "text": " That's right. Yep."
+      },
+      {
+        "id": 8,
+        "start": 40,
+        "end": 44,
+        "text": " And the prescription looks like it was written on September 19,"
+      },
+      {
+        "id": 9,
+        "start": 44,
+        "end": 50,
+        "text": " and this was for the 50-milligram Viagra, a quantity of 25 each fulfillment. Is that accurate?"
+      },
+      {
+        "id": 10,
+        "start": 50,
+        "end": 51,
+        "text": " Yes."
+      },
+      {
+        "id": 11,
+        "start": 52,
+        "end": 57,
+        "text": " All right. Looking at the notes from the doctor here, it shows it was written with refills bimonthly."
+      },
+      {
+        "id": 12,
+        "start": 57,
+        "end": 61,
+        "text": " Okay. So this was done because of the low milligram dosage."
+      },
+      {
+        "id": 13,
+        "start": 61,
+        "end": 66,
+        "text": " Sometimes the doctors will do this for convenience, but it's not necessarily required."
+      },
+      {
+        "id": 14,
+        "start": 66,
+        "end": 71,
+        "text": " So if you wanted, this is not a subscription. This is a prescription with refills."
+      },
+      {
+        "id": 15,
+        "start": 71,
+        "end": 75,
+        "text": " So you could pause it, and that would allow you to call in and place orders as needed."
+      },
+      {
+        "id": 16,
+        "start": 75,
+        "end": 80,
+        "text": " I do see here you have nine refills left under the script."
+      },
+      {
+        "id": 17,
+        "start": 80,
+        "end": 84,
+        "text": " So if you want those accessible to you, I usually recommend doing a pause."
+      },
+      {
+        "id": 18,
+        "start": 86,
+        "end": 90,
+        "text": " Okay. As long as that won't automatically restart?"
+      },
+      {
+        "id": 19,
+        "start": 91,
+        "end": 96,
+        "text": " Correct. So this would not be on a monthly or bimonthly refill schedule."
+      },
+      {
+        "id": 20,
+        "start": 96,
+        "end": 102,
+        "text": " This would be paused up to six months, so I can pause it all the way to August 1st for you."
+      },
+      {
+        "id": 21,
+        "start": 102,
+        "end": 105,
+        "text": " So if you want to refill before that date, you could just give us a call."
+      },
+      {
+        "id": 22,
+        "start": 105,
+        "end": 107,
+        "text": " If you want to push it back at any time, you can do that as well."
+      },
+      {
+        "id": 23,
+        "start": 108,
+        "end": 110,
+        "text": " Okay. Yeah, that'll be fine."
+      },
+      {
+        "id": 24,
+        "start": 118,
+        "end": 121,
+        "text": " Okay. So I went ahead and made those adjustments, and you're all set?"
+      },
+      {
+        "id": 25,
+        "start": 122,
+        "end": 124,
+        "text": " Okay. All right. Thanks for your help."
+      },
+      {
+        "id": 26,
+        "start": 124,
+        "end": 126,
+        "text": " Of course. Happy to help. Thank you."
+      },
+      {
+        "id": 27,
+        "start": 126,
+        "end": 128,
+        "text": " All right. Bye-bye."
+      },
+      {
+        "id": 28,
+        "start": 128,
+        "end": 129,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81c6-bc93-f643b60ca22c",
+    "url": "https://www.notion.so/300000001223011-300000001712590-2f711d0a101c81c6bc93f643b60ca22c"
+  },
+  "processedAt": "2026-01-29T21:45:41.031Z"
+}

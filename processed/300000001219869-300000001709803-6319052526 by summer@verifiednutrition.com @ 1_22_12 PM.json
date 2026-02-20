@@ -1,0 +1,386 @@
+{
+  "recording": {
+    "name": "300000001219869-300000001709803-6319052526 by summer@verifiednutrition.com @ 1_22_12 PM.wav",
+    "size": 308746,
+    "modifyTime": 1769549144000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219869-300000001709803-6319052526 by summer@verifiednutrition.com @ 1_22_12 PM.wav",
+    "uploadDate": "2026-01-27T21:25:44.000Z",
+    "callId": "300000001219869-300000001709803",
+    "agent": "summer",
+    "phoneNumber": "6319052526",
+    "callTimestamp": "2026-01-27T13:22:12.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service, how can I help you?\n\nSpeaker 2: Hi, my name is Reginald Warren.\n\nSpeaker 1: I had an order put in, but I want to check the package.\n\nSpeaker 2: Because I think it's been over five business days already.\n\nSpeaker 1: Okay, let me have a look.\n\nSpeaker 2: What's your name and birthday?\n\nSpeaker 1: My name is Reginald Joe Warren, Reginald J. Warren.\n\nSpeaker 2: My date of birth is 03-31-1936.\n\nSpeaker 1: Doctor is changing to 25 milligrams.\n\nSpeaker 2: Confirm with patient.\n\nSpeaker 1: It says the doctor is changing you to 25 milligrams.\n\nSpeaker 2: Huh?\n\nSpeaker 1: It says the doctor was trying to change you to 25 milligrams.\n\nSpeaker 2: Let me see why.\n\nSpeaker 1: Why? Why would he want to change me?\n\nSpeaker 2: I have no idea. Let me see.\n\nSpeaker 1: Okay, so I just want to make sure this is everything.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: He paid for 100 milligrams.\n\nSpeaker 2: Needs max 25 milligrams.\n\nSpeaker 1: Don't smell me.\n\nSpeaker 2: What I said to you was,\n\nSpeaker 1: Do you have the only thing I can write for you?\n\nSpeaker 2: If you didn't pick any one of the drugs?\n\nSpeaker 1: Are you okay with that?\n\nSpeaker 2: I'm not going to put you on any type of monthly prescription.\n\nSpeaker 1: I said to you,\n\nSpeaker 2: I can't write you.\n\nSpeaker 1: It says that the doctor gave you 25 milligrams before.\n\nSpeaker 2: It was not a prescription for 25 milligrams.\n\nSpeaker 1: I never got a previous prescription from you.\n\nSpeaker 2: Huh?\n\nSpeaker 1: I never got a previous prescription from you anywhere.\n\nSpeaker 2: It says in 2023.\n\nSpeaker 1: I never received that.\n\nSpeaker 2: Oh, you didn't.\n\nSpeaker 1: I'm so confused.\n\nSpeaker 2: No, no, no, no, no.\n\nSpeaker 1: Oh, because they didn't properly change it.\n\nSpeaker 2: I don't know what's going on.\n\nSpeaker 1: I wanted 100 milligrams.\n\nSpeaker 2: No, no, no, no.\n\nSpeaker 1: It says, let me tell you what it says.\n\nSpeaker 2: It says the doctor said,\n\nSpeaker 1: Due to your CKD-5,\n\nSpeaker 2: I'm not sure what that is,\n\nSpeaker 1: But it says due to your CKD-5,\n\nSpeaker 2: The only thing I can write for you is 25 milligram tablets.\n\nSpeaker 1: Are you okay with that?\n\nSpeaker 2: And it says back in 2023 you agreed to it.\n\nSpeaker 1: And then the doctor was supposed to change your medication.\n\nSpeaker 2: So you submitted 400 milligrams again,\n\nSpeaker 1: But this doctor as well is saying the same thing,\n\nSpeaker 2: That they can only give you 25 milligram tablets.\n\nSpeaker 1: So when am I going to get the tablets anyway?\n\nSpeaker 2: You're going to get them.\n\nSpeaker 1: I just need to let them know that you're okay with getting 25 milligrams,\n\nSpeaker 2: And I'm going to have the doctor change it.\n\nSpeaker 1: I mean, I agreed on the phone with the lady for 100 milligram tablets.\n\nSpeaker 2: Okay, give me one second.",
+    "duration": 8831,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling customer service, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5,
+        "text": " Hi, my name is Reginald Warren."
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 8,
+        "text": " I had an order put in, but I want to check the package"
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 12,
+        "text": " because I think it's been over five business days already."
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 14,
+        "text": " Okay, let me have a look."
+      },
+      {
+        "id": 5,
+        "start": 14,
+        "end": 17,
+        "text": " What's your name and birthday?"
+      },
+      {
+        "id": 6,
+        "start": 17,
+        "end": 20,
+        "text": " My name is Reginald Joe Warren, Reginald J. Warren."
+      },
+      {
+        "id": 7,
+        "start": 20,
+        "end": 24,
+        "text": " My date of birth is 03-31-1936."
+      },
+      {
+        "id": 8,
+        "start": 25,
+        "end": 29,
+        "text": " Doctor is changing to 25 milligrams."
+      },
+      {
+        "id": 9,
+        "start": 29,
+        "end": 31,
+        "text": " Confirm with patient."
+      },
+      {
+        "id": 10,
+        "start": 31,
+        "end": 35,
+        "text": " It says the doctor is changing you to 25 milligrams."
+      },
+      {
+        "id": 11,
+        "start": 35,
+        "end": 36,
+        "text": " Huh?"
+      },
+      {
+        "id": 12,
+        "start": 36,
+        "end": 39,
+        "text": " It says the doctor was trying to change you to 25 milligrams."
+      },
+      {
+        "id": 13,
+        "start": 39,
+        "end": 41,
+        "text": " Let me see why."
+      },
+      {
+        "id": 14,
+        "start": 41,
+        "end": 43,
+        "text": " Why? Why would he want to change me?"
+      },
+      {
+        "id": 15,
+        "start": 43,
+        "end": 49,
+        "text": " I have no idea. Let me see."
+      },
+      {
+        "id": 16,
+        "start": 49,
+        "end": 51,
+        "text": " Okay, so I just want to make sure this is everything."
+      },
+      {
+        "id": 17,
+        "start": 51,
+        "end": 53,
+        "text": " Yeah."
+      },
+      {
+        "id": 18,
+        "start": 53,
+        "end": 55,
+        "text": " He paid for 100 milligrams."
+      },
+      {
+        "id": 19,
+        "start": 55,
+        "end": 58,
+        "text": " Needs max 25 milligrams."
+      },
+      {
+        "id": 20,
+        "start": 58,
+        "end": 60,
+        "text": " Don't smell me."
+      },
+      {
+        "id": 21,
+        "start": 60,
+        "end": 62,
+        "text": " What I said to you was,"
+      },
+      {
+        "id": 22,
+        "start": 62,
+        "end": 65,
+        "text": " do you have the only thing I can write for you"
+      },
+      {
+        "id": 23,
+        "start": 65,
+        "end": 67,
+        "text": " if you didn't pick any one of the drugs?"
+      },
+      {
+        "id": 24,
+        "start": 67,
+        "end": 69,
+        "text": " Are you okay with that?"
+      },
+      {
+        "id": 25,
+        "start": 69,
+        "end": 72,
+        "text": " I'm not going to put you on any type of monthly prescription."
+      },
+      {
+        "id": 26,
+        "start": 72,
+        "end": 74,
+        "text": " I said to you,"
+      },
+      {
+        "id": 27,
+        "start": 74,
+        "end": 77,
+        "text": " I can't write you."
+      },
+      {
+        "id": 28,
+        "start": 78,
+        "end": 85,
+        "text": " It says that the doctor gave you 25 milligrams before."
+      },
+      {
+        "id": 29,
+        "start": 85,
+        "end": 89,
+        "text": " It was not a prescription for 25 milligrams."
+      },
+      {
+        "id": 30,
+        "start": 89,
+        "end": 92,
+        "text": " I never got a previous prescription from you."
+      },
+      {
+        "id": 31,
+        "start": 92,
+        "end": 94,
+        "text": " Huh?"
+      },
+      {
+        "id": 32,
+        "start": 94,
+        "end": 98,
+        "text": " I never got a previous prescription from you anywhere."
+      },
+      {
+        "id": 33,
+        "start": 98,
+        "end": 103,
+        "text": " It says in 2023."
+      },
+      {
+        "id": 34,
+        "start": 103,
+        "end": 106,
+        "text": " I never received that."
+      },
+      {
+        "id": 35,
+        "start": 107,
+        "end": 110,
+        "text": " Oh, you didn't."
+      },
+      {
+        "id": 36,
+        "start": 110,
+        "end": 112,
+        "text": " I'm so confused."
+      },
+      {
+        "id": 37,
+        "start": 112,
+        "end": 114,
+        "text": " No, no, no, no, no."
+      },
+      {
+        "id": 38,
+        "start": 114,
+        "end": 117,
+        "text": " Oh, because they didn't properly change it."
+      },
+      {
+        "id": 39,
+        "start": 117,
+        "end": 121,
+        "text": " I don't know what's going on."
+      },
+      {
+        "id": 40,
+        "start": 121,
+        "end": 123,
+        "text": " I wanted 100 milligrams."
+      },
+      {
+        "id": 41,
+        "start": 123,
+        "end": 125,
+        "text": " No, no, no, no."
+      },
+      {
+        "id": 42,
+        "start": 125,
+        "end": 127,
+        "text": " It says, let me tell you what it says."
+      },
+      {
+        "id": 43,
+        "start": 127,
+        "end": 129,
+        "text": " It says the doctor said,"
+      },
+      {
+        "id": 44,
+        "start": 129,
+        "end": 131,
+        "text": " due to your CKD-5,"
+      },
+      {
+        "id": 45,
+        "start": 131,
+        "end": 133,
+        "text": " I'm not sure what that is,"
+      },
+      {
+        "id": 46,
+        "start": 133,
+        "end": 135,
+        "text": " but it says due to your CKD-5,"
+      },
+      {
+        "id": 47,
+        "start": 135,
+        "end": 139,
+        "text": " the only thing I can write for you is 25 milligram tablets."
+      },
+      {
+        "id": 48,
+        "start": 139,
+        "end": 141,
+        "text": " Are you okay with that?"
+      },
+      {
+        "id": 49,
+        "start": 141,
+        "end": 144,
+        "text": " And it says back in 2023 you agreed to it."
+      },
+      {
+        "id": 50,
+        "start": 144,
+        "end": 147,
+        "text": " And then the doctor was supposed to change your medication."
+      },
+      {
+        "id": 51,
+        "start": 147,
+        "end": 155,
+        "text": " So you submitted 400 milligrams again,"
+      },
+      {
+        "id": 52,
+        "start": 155,
+        "end": 161,
+        "text": " but this doctor as well is saying the same thing,"
+      },
+      {
+        "id": 53,
+        "start": 161,
+        "end": 166,
+        "text": " that they can only give you 25 milligram tablets."
+      },
+      {
+        "id": 54,
+        "start": 166,
+        "end": 170,
+        "text": " So when am I going to get the tablets anyway?"
+      },
+      {
+        "id": 55,
+        "start": 170,
+        "end": 172,
+        "text": " You're going to get them."
+      },
+      {
+        "id": 56,
+        "start": 172,
+        "end": 175,
+        "text": " I just need to let them know that you're okay with getting 25 milligrams,"
+      },
+      {
+        "id": 57,
+        "start": 175,
+        "end": 178,
+        "text": " and I'm going to have the doctor change it."
+      },
+      {
+        "id": 58,
+        "start": 178,
+        "end": 186,
+        "text": " I mean, I agreed on the phone with the lady for 100 milligram tablets."
+      },
+      {
+        "id": 59,
+        "start": 186,
+        "end": 189,
+        "text": " Okay, give me one second."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8198-ab5d-e40691113c0c",
+    "url": "https://www.notion.so/300000001219869-300000001709803-2f511d0a101c8198ab5de40691113c0c"
+  },
+  "processedAt": "2026-01-27T23:32:00.980Z"
+}

@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001220946-300000001710946-5202662264 by  @ 10_42_36 AM_CallStudio.wav",
+    "size": 44326,
+    "modifyTime": 1769625806000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220946-300000001710946-5202662264 by  @ 10_42_36 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T18:43:26.000Z",
+    "callId": "300000001220946-300000001710946",
+    "phoneNumber": "5202662264",
+    "callTimestamp": "2026-01-28T18:43:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: New order.\n\nSpeaker 1: Order.\n\nSpeaker 2: We didn't receive a response or I couldn't hear you.\n\nSpeaker 1: Let's try again.\n\nSpeaker 2: Please state the reason for your call.\n\nSpeaker 1: New order.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 1177,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 15,
+        "text": " New order."
+      },
+      {
+        "id": 2,
+        "start": 15,
+        "end": 16,
+        "text": " Order."
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 18,
+        "text": " We didn't receive a response or I couldn't hear your."
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 20,
+        "text": " Let's try again."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 22,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 25,
+        "text": " New order."
+      },
+      {
+        "id": 7,
+        "start": 25,
+        "end": 28,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81a0-a2e7-f7d5bed0ad26",
+    "url": "https://www.notion.so/300000001220946-300000001710946-2f711d0a101c81a0a2e7f7d5bed0ad26"
+  },
+  "processedAt": "2026-01-29T00:11:41.023Z"
+}

@@ -1,0 +1,40 @@
+{
+  "recording": {
+    "name": "300000001242189-300000001731722-2105528928 by  @ 11_53_13 AM_CallStudio.wav",
+    "size": 37696,
+    "modifyTime": 1771012438000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242189-300000001731722-2105528928 by  @ 11_53_13 AM_CallStudio.wav",
+    "uploadDate": "2026-02-13T19:53:58.000Z",
+    "callId": "300000001242189-300000001731722",
+    "phoneNumber": "2105528928",
+    "callTimestamp": "2026-02-13T19:53:58.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242189-300000001731722_2105528928.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242189-300000001731722_2105528928.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto y claro.\n\nSpeaker 2: Preguntar por mi orden.",
+    "duration": 711,
+    "audioDuration": 23.15999984741211,
+    "language": "spanish",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 17,
+        "text": " Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto y claro."
+      },
+      {
+        "id": 1,
+        "start": 19,
+        "end": 21,
+        "text": " Preguntar por mi orden."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81b0-ae97-cd6c65a0fe90",
+    "url": "https://www.notion.so/300000001242189-300000001731722-30611d0a101c81b0ae97cd6c65a0fe90"
+  },
+  "processedAt": "2026-02-13T20:05:14.101Z"
+}

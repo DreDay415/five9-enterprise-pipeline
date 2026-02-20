@@ -1,0 +1,37 @@
+{
+  "recording": {
+    "name": "300000001218701-300000001708955-2404265672 by  @ 8_20_55 AM_CallStudio.wav",
+    "size": 2140,
+    "modifyTime": 1769591841000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218701-300000001708955-2404265672 by  @ 8_20_55 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:17:21.000Z",
+    "callId": "300000001218701-300000001708955",
+    "phoneNumber": "2404265672",
+    "callTimestamp": "2026-01-28T09:17:21.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you.",
+    "duration": 612,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Thank you."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 1,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-819e-9c45-d0d30ed540dd",
+    "url": "https://www.notion.so/300000001218701-300000001708955-2f611d0a101c819e9c45d0d30ed540dd"
+  },
+  "processedAt": "2026-01-28T11:19:11.241Z"
+}

@@ -1,0 +1,188 @@
+{
+  "recording": {
+    "name": "300000001239078-300000001728857-4695832686 by gabriela@superbalife.com @ 12_58_13 PM.wav",
+    "size": 132986,
+    "modifyTime": 1770843598000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239078-300000001728857-4695832686 by gabriela@superbalife.com @ 12_58_13 PM.wav",
+    "uploadDate": "2026-02-11T20:59:58.000Z",
+    "callId": "300000001239078-300000001728857",
+    "agent": "gabriela",
+    "phoneNumber": "4695832686",
+    "callTimestamp": "2026-02-11T12:58:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hola, gracias, soy Maravillara. ¿Cómo lo puedo ayudar?\n\nSpeaker 2: Hola, buenas tardes.\n\nSpeaker 1: Buenas tardes.\n\nSpeaker 2: Hablamos porque quería cancelar las...\n\nSpeaker 1: Ojalá se suscribió como una...\n\nSpeaker 2: como el medicamento que se mandara a ciertas fechas.\n\nSpeaker 1: ¿Cuál es su nombre y fecha de nacimiento?\n\nSpeaker 2: Rogelio García.\n\nSpeaker 1: Gracias.\n\nSpeaker 2: Ok.\n\nSpeaker 1: Sí, ahorita miro que tienes tu prescripción cada mes.\n\nSpeaker 2: Si no la ocupas cada mes, podemos modificarlo a tu...\n\nSpeaker 1: a algo que pues...\n\nSpeaker 2: que ya...\n\nSpeaker 1: que pues funcione contigo, ¿no?\n\nSpeaker 2: Con lo que pasa que el producto lo había encargado uno de mis hermanos y pues ya no...\n\nSpeaker 1: él ya no está aquí.\n\nSpeaker 2: Pero yo quería cancelar la suscripción.\n\nSpeaker 1: Ok, ¿no quieres cambiar la frecuencia?\n\nSpeaker 2: No.\n\nSpeaker 1: No, ya quería cancelar la suscripción.\n\nSpeaker 2: Ok, solamente...\n\nSpeaker 1: sé que no vas a poder ordenar en el futuro, ¿ok?\n\nSpeaker 2: Ah, sí, está bien.\n\nSpeaker 1: Ok, pues ya se canceló. Que tengas un buen día. Adiós.\n\nSpeaker 2: Ok, gracias.\n\nSpeaker 1: De nada.",
+    "duration": 4724,
+    "language": "spanish",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hola, gracias, soy Maravillara. ¿Cómo lo puedo ayudar?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Hola, buenas tardes."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 8,
+        "text": " Buenas tardes."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 11,
+        "text": " Hablamos porque quería cancelar las..."
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 15,
+        "text": " Ojalá se suscribió como una..."
+      },
+      {
+        "id": 5,
+        "start": 16,
+        "end": 20,
+        "text": " como el medicamento que se mandara a ciertas fechas."
+      },
+      {
+        "id": 6,
+        "start": 21,
+        "end": 24,
+        "text": " ¿Cuál es su nombre y fecha de nacimiento?"
+      },
+      {
+        "id": 7,
+        "start": 25,
+        "end": 27,
+        "text": " Rogelio García."
+      },
+      {
+        "id": 8,
+        "start": 28,
+        "end": 29,
+        "text": " Gracias."
+      },
+      {
+        "id": 9,
+        "start": 30,
+        "end": 31,
+        "text": " Ok."
+      },
+      {
+        "id": 10,
+        "start": 31,
+        "end": 34,
+        "text": " Sí, ahorita miro que tienes tu prescripción cada mes."
+      },
+      {
+        "id": 11,
+        "start": 34,
+        "end": 37,
+        "text": " Si no la ocupas cada mes, podemos modificarlo a tu..."
+      },
+      {
+        "id": 12,
+        "start": 38,
+        "end": 40,
+        "text": " a algo que pues..."
+      },
+      {
+        "id": 13,
+        "start": 41,
+        "end": 42,
+        "text": " que ya..."
+      },
+      {
+        "id": 14,
+        "start": 43,
+        "end": 44,
+        "text": " que pues funcione contigo, ¿no?"
+      },
+      {
+        "id": 15,
+        "start": 45,
+        "end": 50,
+        "text": " Con lo que pasa que el producto lo había encargado uno de mis hermanos y pues ya no..."
+      },
+      {
+        "id": 16,
+        "start": 50,
+        "end": 51,
+        "text": " él ya no está aquí."
+      },
+      {
+        "id": 17,
+        "start": 52,
+        "end": 55,
+        "text": " Pero yo quería cancelar la suscripción."
+      },
+      {
+        "id": 18,
+        "start": 58,
+        "end": 60,
+        "text": " Ok, ¿no quieres cambiar la frecuencia?"
+      },
+      {
+        "id": 19,
+        "start": 61,
+        "end": 62,
+        "text": " No."
+      },
+      {
+        "id": 20,
+        "start": 63,
+        "end": 66,
+        "text": " No, ya quería cancelar la suscripción."
+      },
+      {
+        "id": 21,
+        "start": 68,
+        "end": 69,
+        "text": " Ok, solamente..."
+      },
+      {
+        "id": 22,
+        "start": 71,
+        "end": 74,
+        "text": " sé que no vas a poder ordenar en el futuro, ¿ok?"
+      },
+      {
+        "id": 23,
+        "start": 75,
+        "end": 76,
+        "text": " Ah, sí, está bien."
+      },
+      {
+        "id": 24,
+        "start": 76,
+        "end": 79,
+        "text": " Ok, pues ya se canceló. Que tengas un buen día. Adiós."
+      },
+      {
+        "id": 25,
+        "start": 79,
+        "end": 80,
+        "text": " Ok, gracias."
+      },
+      {
+        "id": 26,
+        "start": 81,
+        "end": 82,
+        "text": " De nada."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-81ca-bff6-ded6600c6a8c",
+    "url": "https://www.notion.so/300000001239078-300000001728857-30411d0a101c81cabff6ded6600c6a8c"
+  },
+  "processedAt": "2026-02-11T21:32:25.777Z"
+}

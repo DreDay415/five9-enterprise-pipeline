@@ -1,0 +1,110 @@
+{
+  "recording": {
+    "name": "300000001219320-300000001709404-7409743893 by josimar@superbalife.com @ 10_50_27 AM.wav",
+    "size": 109000,
+    "modifyTime": 1769582237000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219320-300000001709404-7409743893 by josimar@superbalife.com @ 10_50_27 AM.wav",
+    "uploadDate": "2026-01-28T06:37:17.000Z",
+    "callId": "300000001219320-300000001709404",
+    "agent": "josimar",
+    "phoneNumber": "7409743893",
+    "callTimestamp": "2026-01-28T10:50:27.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 2: Yes, I'm just checking on my order.\n\nSpeaker 1: Yeah, I can take a look into that for you in a moment.\n\nSpeaker 2: Okay, what is your zip code, sir, one more time?\n\nSpeaker 1: Got it. And his first name is Matt?\n\nSpeaker 2: Yes, sir.\n\nSpeaker 1: Got it. So I do see there's an order currently at the pharmacy. Let me just review it to make sure everything's all set.\n\nSpeaker 2: Yes, sir, you were approved recently and the order's actually going to ship out. You'll receive this in about three to five business days.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I hope you have a great day, though, sir. Bye-bye.\n\nSpeaker 1: Will they send me an email letting me know it's been shipped so I can track it?\n\nSpeaker 2: Yeah, get a tracking number, send through email.\n\nSpeaker 1: All right. Thank you.\n\nSpeaker 2: Of course. Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 1913,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " Yes, I'm just checking on my order."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 18,
+        "text": " Yeah, I can take a look into that for you in a moment."
+      },
+      {
+        "id": 2,
+        "start": 18,
+        "end": 28,
+        "text": " Okay, what is your zip code, sir, one more time?"
+      },
+      {
+        "id": 3,
+        "start": 29,
+        "end": 32,
+        "text": " Got it. And his first name is Matt?"
+      },
+      {
+        "id": 4,
+        "start": 32,
+        "end": 33,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 5,
+        "start": 33,
+        "end": 42,
+        "text": " Got it. So I do see there's an order currently at the pharmacy. Let me just review it to make sure everything's all set."
+      },
+      {
+        "id": 6,
+        "start": 42,
+        "end": 50,
+        "text": " Yes, sir, you were approved recently and the order's actually going to ship out. You'll receive this in about three to five business days."
+      },
+      {
+        "id": 7,
+        "start": 50,
+        "end": 52,
+        "text": " Okay."
+      },
+      {
+        "id": 8,
+        "start": 52,
+        "end": 54,
+        "text": " I hope you have a great day, though, sir. Bye-bye."
+      },
+      {
+        "id": 9,
+        "start": 54,
+        "end": 59,
+        "text": " Will they send me an email letting me know it's been shipped so I can track it?"
+      },
+      {
+        "id": 10,
+        "start": 59,
+        "end": 62,
+        "text": " Yeah, get a tracking number, send through email."
+      },
+      {
+        "id": 11,
+        "start": 62,
+        "end": 63,
+        "text": " All right. Thank you."
+      },
+      {
+        "id": 12,
+        "start": 63,
+        "end": 65,
+        "text": " Of course. Bye-bye."
+      },
+      {
+        "id": 13,
+        "start": 65,
+        "end": 67,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8112-b951-d740495a5c6c",
+    "url": "https://www.notion.so/300000001219320-300000001709404-2f611d0a101c8112b951d740495a5c6c"
+  },
+  "processedAt": "2026-01-28T17:25:49.648Z"
+}

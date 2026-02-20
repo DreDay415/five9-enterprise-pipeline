@@ -1,0 +1,98 @@
+{
+  "recording": {
+    "name": "300000001239464-300000001729120-7146126647 by josimar@superbalife.com @ 3_26_16 PM.wav",
+    "size": 60316,
+    "modifyTime": 1770852435000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239464-300000001729120-7146126647 by josimar@superbalife.com @ 3_26_16 PM.wav",
+    "uploadDate": "2026-02-11T23:27:15.000Z",
+    "callId": "300000001239464-300000001729120",
+    "agent": "josimar",
+    "phoneNumber": "7146126647",
+    "callTimestamp": "2026-02-11T15:26:16.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you today?\n\nSpeaker 2: Yes, this is Barry Ford, I want to check on my order and make sure it's going to the right address.\n\nSpeaker 1: Yeah, let me pull you up here, what's your zip code?\n\nSpeaker 2: 9703.\n\nSpeaker 1: Got it, so the address it's going to is 1906 West 4th Street, Santa Ana, California.\n\nSpeaker 2: Yes, okay.\n\nSpeaker 1: Alright, you're all set.\n\nSpeaker 2: What time is it supposed to arrive, estimated time?\n\nSpeaker 1: There's no estimated time, it typically takes three to five business days for it to arrive.\n\nSpeaker 2: Okay, alright, thank you.\n\nSpeaker 1: Of course, have a great day.\n\nSpeaker 2: Bye-bye.",
+    "duration": 2878,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 8,
+        "text": " Yes, this is Barry Ford, I want to check on my order and make sure it's going to the right address."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " Yeah, let me pull you up here, what's your zip code?"
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 14,
+        "text": " 9703."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 20,
+        "text": " Got it, so the address it's going to is 1906 West 4th Street, Santa Ana, California."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 22,
+        "text": " Yes, okay."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 23,
+        "text": " Alright, you're all set."
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 26,
+        "text": " What time is it supposed to arrive, estimated time?"
+      },
+      {
+        "id": 8,
+        "start": 26,
+        "end": 31,
+        "text": " There's no estimated time, it typically takes three to five business days for it to arrive."
+      },
+      {
+        "id": 9,
+        "start": 31,
+        "end": 33,
+        "text": " Okay, alright, thank you."
+      },
+      {
+        "id": 10,
+        "start": 33,
+        "end": 34,
+        "text": " Of course, have a great day."
+      },
+      {
+        "id": 11,
+        "start": 34,
+        "end": 37,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81ff-bae7-c7bf9fa1ed01",
+    "url": "https://www.notion.so/300000001239464-300000001729120-30511d0a101c81ffbae7c7bf9fa1ed01"
+  },
+  "processedAt": "2026-02-12T00:10:59.167Z"
+}

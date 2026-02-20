@@ -1,0 +1,191 @@
+{
+  "recording": {
+    "name": "300000001241955-300000001731570-3307203811 by shantay@superbalife.com @ 10_50_07 AM.wav",
+    "size": 135586,
+    "modifyTime": 1771008712000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241955-300000001731570-3307203811 by shantay@superbalife.com @ 10_50_07 AM.wav",
+    "uploadDate": "2026-02-13T18:51:52.000Z",
+    "callId": "300000001241955-300000001731570",
+    "agent": "shantay",
+    "phoneNumber": "3307203811",
+    "callTimestamp": "2026-02-13T10:50:07.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_shantay_300000001241955-300000001731570_3307203811.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_shantay_300000001241955-300000001731570_3307203811.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I assist you?\n\nSpeaker 2: Yeah, this is Bob Yossi calling. I called in to get the new Super Viagra and when it came, all I got is the generic one.\n\nSpeaker 1: Is it not matching?\n\nSpeaker 2: It had no markings on it, all it did was say generic.\n\nSpeaker 1: So I can...\n\nSpeaker 2: Do you have the pill in front of you so I can go over it with you?\n\nSpeaker 1: Yes, I do.\n\nSpeaker 2: Okay, so there's two ways we can determine if you got the Viagra AGB.\n\nSpeaker 1: First thing on the label, it's going to have the word identification, which you can find\n\nSpeaker 2: it towards the right bottom of the label.\n\nSpeaker 1: Alright.\n\nSpeaker 2: It's going to say identification and it should say Greenstone LLC.\n\nSpeaker 1: It says Greenstone LLC, yes.\n\nSpeaker 2: Okay, and then, so that's one way, that's the manufacturer of AGB.\n\nSpeaker 1: And then the second will be, if you look at the pill, it should be a white diamond\n\nSpeaker 2: shaped pill and it should have 100.\n\nSpeaker 1: Yep.\n\nSpeaker 2: Sounds like we have it.\n\nSpeaker 1: I just wanted to get a regular one and I'm going, wait a second here.\n\nSpeaker 2: Alrighty.\n\nSpeaker 1: Thank you very much.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Have a good day.\n\nSpeaker 2: You too.\n\nSpeaker 1: Bye now.",
+    "duration": 4714,
+    "audioDuration": 83.4000015258789,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.320000171661377,
+        "text": " Thank you for calling Viagra, how can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 4.320000171661377,
+        "end": 6.800000190734863,
+        "text": " Yeah, this is Bob Yossi calling."
+      },
+      {
+        "id": 2,
+        "start": 6.800000190734863,
+        "end": 17.799999237060547,
+        "text": " I called in to get the new Super Viagra and when it came, all I got is the generic one."
+      },
+      {
+        "id": 3,
+        "start": 17.799999237060547,
+        "end": 19.600000381469727,
+        "text": " Is it not marching?"
+      },
+      {
+        "id": 4,
+        "start": 19.600000381469727,
+        "end": 24.200000762939453,
+        "text": " It had no markings on it, all it did was say generic."
+      },
+      {
+        "id": 5,
+        "start": 24.200000762939453,
+        "end": 25.200000762939453,
+        "text": " So I can..."
+      },
+      {
+        "id": 6,
+        "start": 25.200000762939453,
+        "end": 28.600000381469727,
+        "text": " Do you have the ball in front of you so I can go over it with you?"
+      },
+      {
+        "id": 7,
+        "start": 28.600000381469727,
+        "end": 29.600000381469727,
+        "text": " Yes, I do."
+      },
+      {
+        "id": 8,
+        "start": 30,
+        "end": 35.599998474121094,
+        "text": " Okay, so there's two ways we can determine if you got the Viagra AGB."
+      },
+      {
+        "id": 9,
+        "start": 35.599998474121094,
+        "end": 40.79999923706055,
+        "text": " First thing on the label, it's going to have the word identification, which you can find"
+      },
+      {
+        "id": 10,
+        "start": 40.79999923706055,
+        "end": 43.400001525878906,
+        "text": " it towards the right bottom of the label."
+      },
+      {
+        "id": 11,
+        "start": 43.400001525878906,
+        "end": 44.400001525878906,
+        "text": " Alright."
+      },
+      {
+        "id": 12,
+        "start": 44.400001525878906,
+        "end": 50,
+        "text": " It's going to say identification and it should say Greenstone LLC."
+      },
+      {
+        "id": 13,
+        "start": 50,
+        "end": 52.79999923706055,
+        "text": " It says Greenstone LLC, yes."
+      },
+      {
+        "id": 14,
+        "start": 52.79999923706055,
+        "end": 56.79999923706055,
+        "text": " Okay, and then, so that's one way, that's the manufacturer of AGB."
+      },
+      {
+        "id": 15,
+        "start": 56.79999923706055,
+        "end": 61,
+        "text": " And then the second will be, if you look at the pill, it should be a white diamond"
+      },
+      {
+        "id": 16,
+        "start": 61,
+        "end": 63.599998474121094,
+        "text": " shaped pill and it should have 100."
+      },
+      {
+        "id": 17,
+        "start": 63.599998474121094,
+        "end": 64.5999984741211,
+        "text": " Yep."
+      },
+      {
+        "id": 18,
+        "start": 64.5999984741211,
+        "end": 67.5999984741211,
+        "text": " Sounds like we have it."
+      },
+      {
+        "id": 19,
+        "start": 67.5999984741211,
+        "end": 74.5999984741211,
+        "text": " I just wanted to get a regular one and I'm going, wait a second here."
+      },
+      {
+        "id": 20,
+        "start": 74.5999984741211,
+        "end": 75.5999984741211,
+        "text": " Alrighty."
+      },
+      {
+        "id": 21,
+        "start": 75.5999984741211,
+        "end": 76.5999984741211,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 22,
+        "start": 76.5999984741211,
+        "end": 77.5999984741211,
+        "text": " You're welcome."
+      },
+      {
+        "id": 23,
+        "start": 77.5999984741211,
+        "end": 78.5999984741211,
+        "text": " Have a good day."
+      },
+      {
+        "id": 24,
+        "start": 78.5999984741211,
+        "end": 79.5999984741211,
+        "text": " You too."
+      },
+      {
+        "id": 25,
+        "start": 79.5999984741211,
+        "end": 80.5999984741211,
+        "text": " Bye now."
+      },
+      {
+        "id": 26,
+        "start": 80.5999984741211,
+        "end": 80.5999984741211,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-815c-9829-d1f2532677e5",
+    "url": "https://www.notion.so/300000001241955-300000001731570-30611d0a101c815c9829d1f2532677e5"
+  },
+  "processedAt": "2026-02-13T19:02:31.639Z"
+}

@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001216658-300000001706009-8182699099 by  @ 3_23_29 PM_CallStudio.wav",
+    "size": 25736,
+    "modifyTime": 1769591235000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216658-300000001706009-8182699099 by  @ 3_23_29 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:07:15.000Z",
+    "callId": "300000001216658-300000001706009",
+    "phoneNumber": "8182699099",
+    "callTimestamp": "2026-01-28T09:07:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: I have not gotten my medicine.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1794,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.039999961853027,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.039999961853027,
+        "end": 6.039999961853027,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.039999961853027,
+        "end": 9,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 14.319999694824219,
+        "text": " I have not gotten my medicine."
+      },
+      {
+        "id": 4,
+        "start": 14.319999694824219,
+        "end": 15.520000457763672,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-810b-b8d3-e7b568cff8e7",
+    "url": "https://www.notion.so/300000001216658-300000001706009-2f611d0a101c810bb8d3e7b568cff8e7"
+  },
+  "processedAt": "2026-01-28T11:44:47.453Z"
+}

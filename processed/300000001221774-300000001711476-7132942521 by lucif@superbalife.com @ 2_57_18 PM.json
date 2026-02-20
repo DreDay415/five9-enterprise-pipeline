@@ -1,0 +1,230 @@
+{
+  "recording": {
+    "name": "300000001221774-300000001711476-7132942521 by lucif@superbalife.com @ 2_57_18 PM.wav",
+    "size": 120830,
+    "modifyTime": 1769641134000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221774-300000001711476-7132942521 by lucif@superbalife.com @ 2_57_18 PM.wav",
+    "uploadDate": "2026-01-28T22:58:54.000Z",
+    "callId": "300000001221774-300000001711476",
+    "agent": "lucif",
+    "phoneNumber": "7132942521",
+    "callTimestamp": "2026-01-28T14:57:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I just got a shipment of my prescription, and I need to put a hold on it or cancel it.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I'm sorry?\n\nSpeaker 2: All righty.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: So, yeah, we can just postpone it for you.\n\nSpeaker 1: How about stop billing, won't send anything for about five months.\n\nSpeaker 2: Would that help you out?\n\nSpeaker 1: Five months.\n\nSpeaker 2: Well, see, the only thing is, y'all don't let me know when you're going to do it.\n\nSpeaker 1: Well, you can call for your own order in that five-month period.\n\nSpeaker 2: We don't have to send it to you automatically.\n\nSpeaker 1: You can call for your own order.\n\nSpeaker 2: Five months.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Let's do five months.\n\nSpeaker 1: I'll tell you what.\n\nSpeaker 2: Make it six months.\n\nSpeaker 1: I got plenty.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Well, next six months, you'll have to call us for your next order.\n\nSpeaker 2: We're not going to send it, okay?\n\nSpeaker 1: We'll set that up for you.\n\nSpeaker 2: Perfect.\n\nSpeaker 1: Do you know who?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Randy Patrick.\n\nSpeaker 2: Yep.\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: I just edited that for you.\n\nSpeaker 1: Cool.\n\nSpeaker 2: Thank you very much.\n\nSpeaker 1: You're very welcome, sir.\n\nSpeaker 2: Have a good day.",
+    "duration": 4463,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 11,
+        "text": " I just got a shipment of my prescription, and I need to put a hold on it or cancel it."
+      },
+      {
+        "id": 1,
+        "start": 11,
+        "end": 12,
+        "text": " Okay."
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 13,
+        "text": " I'm sorry?"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 14,
+        "text": " All righty."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 15,
+        "text": " Yeah."
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 18,
+        "text": " So, yeah, we can just postpone it for you."
+      },
+      {
+        "id": 6,
+        "start": 18,
+        "end": 23,
+        "text": " How about stop billing, won't send anything for about five months."
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 28,
+        "text": " Would that help you out?"
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 30,
+        "text": " Five months."
+      },
+      {
+        "id": 9,
+        "start": 30,
+        "end": 34,
+        "text": " Well, see, the only thing is, y'all don't let me know when you're going to do it."
+      },
+      {
+        "id": 10,
+        "start": 34,
+        "end": 37,
+        "text": " Well, you can call for your own order in that five-month period."
+      },
+      {
+        "id": 11,
+        "start": 37,
+        "end": 39,
+        "text": " We don't have to send it to you automatically."
+      },
+      {
+        "id": 12,
+        "start": 39,
+        "end": 42,
+        "text": " You can call for your own order."
+      },
+      {
+        "id": 13,
+        "start": 42,
+        "end": 43,
+        "text": " Five months."
+      },
+      {
+        "id": 14,
+        "start": 43,
+        "end": 44,
+        "text": " Okay."
+      },
+      {
+        "id": 15,
+        "start": 44,
+        "end": 45,
+        "text": " Let's do five months."
+      },
+      {
+        "id": 16,
+        "start": 45,
+        "end": 46,
+        "text": " I'll tell you what."
+      },
+      {
+        "id": 17,
+        "start": 46,
+        "end": 47,
+        "text": " Make it six months."
+      },
+      {
+        "id": 18,
+        "start": 47,
+        "end": 48,
+        "text": " I got plenty."
+      },
+      {
+        "id": 19,
+        "start": 48,
+        "end": 49,
+        "text": " Okay."
+      },
+      {
+        "id": 20,
+        "start": 49,
+        "end": 51,
+        "text": " Well, next six months, you'll have to call us for your next order."
+      },
+      {
+        "id": 21,
+        "start": 51,
+        "end": 53,
+        "text": " We're not going to send it, okay?"
+      },
+      {
+        "id": 22,
+        "start": 53,
+        "end": 54,
+        "text": " We'll set that up for you."
+      },
+      {
+        "id": 23,
+        "start": 54,
+        "end": 55,
+        "text": " Perfect."
+      },
+      {
+        "id": 24,
+        "start": 56,
+        "end": 58,
+        "text": " Do you know who?"
+      },
+      {
+        "id": 25,
+        "start": 58,
+        "end": 59,
+        "text": " Yes."
+      },
+      {
+        "id": 26,
+        "start": 59,
+        "end": 60,
+        "text": " Randy Patrick."
+      },
+      {
+        "id": 27,
+        "start": 60,
+        "end": 61,
+        "text": " Yep."
+      },
+      {
+        "id": 28,
+        "start": 64,
+        "end": 65,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 29,
+        "start": 65,
+        "end": 67,
+        "text": " I just edited that for you."
+      },
+      {
+        "id": 30,
+        "start": 67,
+        "end": 68,
+        "text": " Cool."
+      },
+      {
+        "id": 31,
+        "start": 68,
+        "end": 70,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 32,
+        "start": 70,
+        "end": 71,
+        "text": " You're very welcome, sir."
+      },
+      {
+        "id": 33,
+        "start": 71,
+        "end": 72,
+        "text": " Have a good day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8152-81fe-d52e37576e91",
+    "url": "https://www.notion.so/300000001221774-300000001711476-2f611d0a101c815281fed52e37576e91"
+  },
+  "processedAt": "2026-01-28T23:27:39.852Z"
+}

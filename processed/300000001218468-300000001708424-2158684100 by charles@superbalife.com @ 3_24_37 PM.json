@@ -1,0 +1,206 @@
+{
+  "recording": {
+    "name": "300000001218468-300000001708424-2158684100 by charles@superbalife.com @ 3_24_37 PM.wav",
+    "size": 120506,
+    "modifyTime": 1769582839000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218468-300000001708424-2158684100 by charles@superbalife.com @ 3_24_37 PM.wav",
+    "uploadDate": "2026-01-28T06:47:19.000Z",
+    "callId": "300000001218468-300000001708424",
+    "agent": "charles",
+    "phoneNumber": "2158684100",
+    "callTimestamp": "2026-01-28T15:24:37.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey Charles, this is Rich Godfrey calling.\n\nSpeaker 2: I want to cancel my orders of a score blue.\n\nSpeaker 1: Can you cancel me?\n\nSpeaker 2: Okay, Richard Godfrey in Havertown, Pennsylvania?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Gotcha.\n\nSpeaker 1: Are you just not ready for this next batch sent to you just yet?\n\nSpeaker 2: No, I'm not.\n\nSpeaker 1: And yeah, can we cancel until I say pick it back up?\n\nSpeaker 2: Right.\n\nSpeaker 1: What I could do for you, I just reversed this charge right here, so you should get that\n\nSpeaker 2: money back by this week, by the end of this week.\n\nSpeaker 1: What I could do, Richard, is pause everything for half a year, we won't charge you or send\n\nSpeaker 2: you anything, and then whenever you need them between now and then, just give us a call.\n\nSpeaker 1: Okay, while we do that, I appreciate that.\n\nSpeaker 2: Yeah, sounds good.\n\nSpeaker 1: We'll set that up right now for you, and then just give us a holler, okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: That simple?\n\nSpeaker 2: That simple.\n\nSpeaker 1: We're very customer friendly.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Wonderful.\n\nSpeaker 2: Thank you so much.\n\nSpeaker 1: Yeah, absolutely.\n\nSpeaker 2: Hope you have a great day.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: All right.",
+    "duration": 3819,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 9.359999656677246,
+        "text": " Hey Charles, this is Rich Godfrey calling."
+      },
+      {
+        "id": 1,
+        "start": 9.359999656677246,
+        "end": 13.119999885559082,
+        "text": " I want to cancel my orders of a score blue."
+      },
+      {
+        "id": 2,
+        "start": 13.119999885559082,
+        "end": 16.040000915527344,
+        "text": " Can you cancel me?"
+      },
+      {
+        "id": 3,
+        "start": 16.040000915527344,
+        "end": 20,
+        "text": " Okay, Richard Godfrey in Havertown, Pennsylvania?"
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 21,
+        "text": " Yes."
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 22,
+        "text": " Gotcha."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 26,
+        "text": " Are you just not ready for this next batch sent to you just yet?"
+      },
+      {
+        "id": 7,
+        "start": 26,
+        "end": 29.200000762939453,
+        "text": " No, I'm not."
+      },
+      {
+        "id": 8,
+        "start": 29.200000762939453,
+        "end": 39.20000076293945,
+        "text": " And yeah, can we cancel until I say pick it back up?"
+      },
+      {
+        "id": 9,
+        "start": 39.20000076293945,
+        "end": 40.20000076293945,
+        "text": " Right."
+      },
+      {
+        "id": 10,
+        "start": 40.20000076293945,
+        "end": 44.08000183105469,
+        "text": " What I could do for you, I just reversed this charge right here, so you should get that"
+      },
+      {
+        "id": 11,
+        "start": 44.08000183105469,
+        "end": 47.52000045776367,
+        "text": " money back by this week, by the end of this week."
+      },
+      {
+        "id": 12,
+        "start": 47.52000045776367,
+        "end": 51.040000915527344,
+        "text": " What I could do, Richard, is pause everything for half a year, we won't charge you or send"
+      },
+      {
+        "id": 13,
+        "start": 51.040000915527344,
+        "end": 55.20000076293945,
+        "text": " you anything, and then whenever you need them between now and then, just give us a call."
+      },
+      {
+        "id": 14,
+        "start": 55.20000076293945,
+        "end": 57.52000045776367,
+        "text": " Okay, while we do that, I appreciate that."
+      },
+      {
+        "id": 15,
+        "start": 57.52000045776367,
+        "end": 58.52000045776367,
+        "text": " Yeah, sounds good."
+      },
+      {
+        "id": 16,
+        "start": 58.52000045776367,
+        "end": 62.20000076293945,
+        "text": " We'll set that up right now for you, and then just give us a holler, okay?"
+      },
+      {
+        "id": 17,
+        "start": 62.20000076293945,
+        "end": 63.20000076293945,
+        "text": " Okay."
+      },
+      {
+        "id": 18,
+        "start": 63.20000076293945,
+        "end": 64.19999694824219,
+        "text": " That simple?"
+      },
+      {
+        "id": 19,
+        "start": 64.19999694824219,
+        "end": 65.19999694824219,
+        "text": " That simple."
+      },
+      {
+        "id": 20,
+        "start": 65.19999694824219,
+        "end": 66.19999694824219,
+        "text": " We're very customer friendly."
+      },
+      {
+        "id": 21,
+        "start": 66.19999694824219,
+        "end": 67.19999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 22,
+        "start": 67.19999694824219,
+        "end": 68.19999694824219,
+        "text": " Wonderful."
+      },
+      {
+        "id": 23,
+        "start": 68.19999694824219,
+        "end": 69.19999694824219,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 24,
+        "start": 69.19999694824219,
+        "end": 70.19999694824219,
+        "text": " Yeah, absolutely."
+      },
+      {
+        "id": 25,
+        "start": 70.19999694824219,
+        "end": 71.19999694824219,
+        "text": " Hope you have a great day."
+      },
+      {
+        "id": 26,
+        "start": 71.19999694824219,
+        "end": 72.19999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 27,
+        "start": 72.19999694824219,
+        "end": 73.19999694824219,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 28,
+        "start": 73.19999694824219,
+        "end": 74.19999694824219,
+        "text": " All right."
+      },
+      {
+        "id": 29,
+        "start": 74.19999694824219,
+        "end": 74.19999694824219,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8139-8e29-f9f80adaa71f",
+    "url": "https://www.notion.so/300000001218468-300000001708424-2f611d0a101c81398e29f9f80adaa71f"
+  },
+  "processedAt": "2026-01-28T16:47:36.770Z"
+}

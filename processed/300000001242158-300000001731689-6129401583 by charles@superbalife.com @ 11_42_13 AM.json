@@ -1,0 +1,329 @@
+{
+  "recording": {
+    "name": "300000001242158-300000001731689-6129401583 by charles@superbalife.com @ 11_42_13 AM.wav",
+    "size": 221450,
+    "modifyTime": 1771011892000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242158-300000001731689-6129401583 by charles@superbalife.com @ 11_42_13 AM.wav",
+    "uploadDate": "2026-02-13T19:44:52.000Z",
+    "callId": "300000001242158-300000001731689",
+    "agent": "charles",
+    "phoneNumber": "6129401583",
+    "callTimestamp": "2026-02-13T11:42:13.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_charles_300000001242158-300000001731689_6129401583.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_charles_300000001242158-300000001731689_6129401583.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, this is Charles.\n\nSpeaker 2: Hey Charles, calling to cancel my subscription.\n\nSpeaker 1: Okay, I've got David Jackson in Cross Lake, Minnesota?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Looks like you're a VIP member here, David.\n\nSpeaker 1: I'm assuming you're just still working on that first order from November, right?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Right, okay.\n\nSpeaker 2: Yeah, I'd imagine so.\n\nSpeaker 1: This pill bottle that was charged the other day is already on its way, if you don't want it.\n\nSpeaker 2: I get it.\n\nSpeaker 1: Yeah, no, I get it.\n\nSpeaker 2: I didn't go through the hassle of everything else with it, but we need to cancel it from here on out.\n\nSpeaker 1: Okay, sounds good.\n\nSpeaker 2: I'm just throwing this out there.\n\nSpeaker 1: Another option that you do have with us, because we are very customer service friendly for the meantime,\n\nSpeaker 2: so that you don't get charged anything or sent anything within the next three months or whatever,\n\nSpeaker 1: we could pause everything for half a year at a time.\n\nSpeaker 2: That way it only comes basically once or twice a year.\n\nSpeaker 1: That way it gives you some time to use up what you have and then still be able to call in and request them as needed.\n\nSpeaker 2: That's typically what our VIP members will do here, just so that they have the prescription in their back pocket.\n\nSpeaker 1: So that's an option that you have on the table with us as well.\n\nSpeaker 2: Oh, okay.\n\nSpeaker 1: So you put the pause on, and then how do you reactivate it?\n\nSpeaker 2: Either call us in, so pause it.\n\nSpeaker 1: We basically pause everything from now until August 24th.\n\nSpeaker 2: That would be the next day that you get charged and sent a refill.\n\nSpeaker 1: That would be the only time for the rest of the year that you would get charged for anything else,\n\nSpeaker 2: unless if you call in and request it as needed or order it online.\n\nSpeaker 1: Gotcha.\n\nSpeaker 2: Boy, then I've got to remember to call again.\n\nSpeaker 1: I always tell everybody to write the next refill date on the prescription bottle.\n\nSpeaker 2: When you take it, you see the next time you should call in.\n\nSpeaker 1: And then if you call in before then, we can extend the pause as well if you're still not ready for that one hour.\n\nSpeaker 2: Oh, okay.\n\nSpeaker 1: Yeah, no, let's do that then.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Put it on pause.\n\nSpeaker 2: Yep.\n\nSpeaker 1: All right.\n\nSpeaker 2: Sounds good.\n\nSpeaker 1: Always best to know your options.\n\nSpeaker 2: So I'll set that up right now for you, David.\n\nSpeaker 1: I hope you have a great Valentine's Day, brother.\n\nSpeaker 2: Hey, thanks, man.\n\nSpeaker 1: Appreciate it.\n\nSpeaker 2: Absolutely.\n\nSpeaker 1: Take care.\n\nSpeaker 2: Take care.",
+    "duration": 8169,
+    "audioDuration": 136.24000549316406,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thanks for calling Viagra, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 9,
+        "text": " Hey Charles, calling to cancel my subscription."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 14,
+        "text": " Okay, I've got David Jackson in Cross Lake, Minnesota?"
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 16,
+        "text": " Correct."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 18,
+        "text": " Okay."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 20,
+        "text": " Looks like you're a VIP member here, David."
+      },
+      {
+        "id": 6,
+        "start": 20,
+        "end": 24,
+        "text": " I'm assuming you're just still working on that first order from November, right?"
+      },
+      {
+        "id": 7,
+        "start": 24,
+        "end": 26,
+        "text": " Correct."
+      },
+      {
+        "id": 8,
+        "start": 26,
+        "end": 28,
+        "text": " Right, okay."
+      },
+      {
+        "id": 9,
+        "start": 28,
+        "end": 30,
+        "text": " Yeah, I'd imagine so."
+      },
+      {
+        "id": 10,
+        "start": 30,
+        "end": 36,
+        "text": " This pill bottle that was charged the other day is already on its way, if you don't want it."
+      },
+      {
+        "id": 11,
+        "start": 36,
+        "end": 38,
+        "text": " I get it."
+      },
+      {
+        "id": 12,
+        "start": 38,
+        "end": 40,
+        "text": " Yeah, no, I get it."
+      },
+      {
+        "id": 13,
+        "start": 40,
+        "end": 44,
+        "text": " I didn't go through the hassle of everything else with it, but we need to cancel it from here on out."
+      },
+      {
+        "id": 14,
+        "start": 44,
+        "end": 46,
+        "text": " Okay, sounds good."
+      },
+      {
+        "id": 15,
+        "start": 46,
+        "end": 48,
+        "text": " I'm just throwing this out there."
+      },
+      {
+        "id": 16,
+        "start": 48,
+        "end": 52,
+        "text": " Another option that you do have with us, because we are very customer service friendly for the meantime,"
+      },
+      {
+        "id": 17,
+        "start": 52,
+        "end": 56,
+        "text": " so that you don't get charged anything or sent anything within the next three months or whatever,"
+      },
+      {
+        "id": 18,
+        "start": 56,
+        "end": 58,
+        "text": " we could pause everything for half a year at a time."
+      },
+      {
+        "id": 19,
+        "start": 58,
+        "end": 61,
+        "text": " That way it only comes basically once or twice a year."
+      },
+      {
+        "id": 20,
+        "start": 61,
+        "end": 66,
+        "text": " That way it gives you some time to use up what you have and then still be able to call in and request them as needed."
+      },
+      {
+        "id": 21,
+        "start": 66,
+        "end": 71,
+        "text": " That's typically what our VIP members will do here, just so that they have the prescription in their back pocket."
+      },
+      {
+        "id": 22,
+        "start": 71,
+        "end": 73,
+        "text": " So that's an option that you have on the table with us as well."
+      },
+      {
+        "id": 23,
+        "start": 73,
+        "end": 75,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 24,
+        "start": 75,
+        "end": 78,
+        "text": " So you put the pause on, and then how do you reactivate it?"
+      },
+      {
+        "id": 25,
+        "start": 78,
+        "end": 81,
+        "text": " Either call us in, so pause it."
+      },
+      {
+        "id": 26,
+        "start": 81,
+        "end": 84,
+        "text": " We basically pause everything from now until August 24th."
+      },
+      {
+        "id": 27,
+        "start": 85,
+        "end": 88,
+        "text": " That would be the next day that you get charged and sent a refill."
+      },
+      {
+        "id": 28,
+        "start": 88,
+        "end": 92,
+        "text": " That would be the only time for the rest of the year that you would get charged for anything else,"
+      },
+      {
+        "id": 29,
+        "start": 92,
+        "end": 96,
+        "text": " unless if you call in and request it as needed or order it online."
+      },
+      {
+        "id": 30,
+        "start": 96,
+        "end": 101,
+        "text": " Gotcha."
+      },
+      {
+        "id": 31,
+        "start": 101,
+        "end": 105,
+        "text": " Boy, then I've got to remember to call again."
+      },
+      {
+        "id": 32,
+        "start": 105,
+        "end": 111,
+        "text": " I always tell everybody to write the next refill date on the prescription bottle."
+      },
+      {
+        "id": 33,
+        "start": 111,
+        "end": 114,
+        "text": " When you take it, you see the next time you should call in."
+      },
+      {
+        "id": 34,
+        "start": 114,
+        "end": 119,
+        "text": " And then if you call in before then, we can extend the pause as well if you're still not ready for that one hour."
+      },
+      {
+        "id": 35,
+        "start": 119,
+        "end": 120,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 36,
+        "start": 120,
+        "end": 122,
+        "text": " Yeah, no, let's do that then."
+      },
+      {
+        "id": 37,
+        "start": 122,
+        "end": 123,
+        "text": " Okay."
+      },
+      {
+        "id": 38,
+        "start": 123,
+        "end": 124,
+        "text": " Put it on pause."
+      },
+      {
+        "id": 39,
+        "start": 124,
+        "end": 125,
+        "text": " Yep."
+      },
+      {
+        "id": 40,
+        "start": 125,
+        "end": 126,
+        "text": " All right."
+      },
+      {
+        "id": 41,
+        "start": 126,
+        "end": 127,
+        "text": " Sounds good."
+      },
+      {
+        "id": 42,
+        "start": 127,
+        "end": 128,
+        "text": " Always best to know your options."
+      },
+      {
+        "id": 43,
+        "start": 128,
+        "end": 130,
+        "text": " So I'll set that up right now for you, David."
+      },
+      {
+        "id": 44,
+        "start": 130,
+        "end": 132,
+        "text": " I hope you have a great Valentine's Day, brother."
+      },
+      {
+        "id": 45,
+        "start": 132,
+        "end": 133,
+        "text": " Hey, thanks, man."
+      },
+      {
+        "id": 46,
+        "start": 133,
+        "end": 134,
+        "text": " Appreciate it."
+      },
+      {
+        "id": 47,
+        "start": 134,
+        "end": 135,
+        "text": " Absolutely."
+      },
+      {
+        "id": 48,
+        "start": 135,
+        "end": 136,
+        "text": " Take care."
+      },
+      {
+        "id": 49,
+        "start": 136,
+        "end": 137,
+        "text": " Take care."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8185-820a-caa47a6851c2",
+    "url": "https://www.notion.so/300000001242158-300000001731689-30611d0a101c8185820acaa47a6851c2"
+  },
+  "processedAt": "2026-02-13T20:09:18.347Z"
+}

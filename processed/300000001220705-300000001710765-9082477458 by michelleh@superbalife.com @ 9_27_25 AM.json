@@ -1,0 +1,308 @@
+{
+  "recording": {
+    "name": "300000001220705-300000001710765-9082477458 by michelleh@superbalife.com @ 9_27_25 AM.wav",
+    "size": 190380,
+    "modifyTime": 1769621369000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220705-300000001710765-9082477458 by michelleh@superbalife.com @ 9_27_25 AM.wav",
+    "uploadDate": "2026-01-28T17:29:29.000Z",
+    "callId": "300000001220705-300000001710765",
+    "agent": "michelleh",
+    "phoneNumber": "9082477458",
+    "callTimestamp": "2026-01-28T09:27:25.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you?\n\nSpeaker 2: Howdy, how are you?\n\nSpeaker 1: Good, how are you doing?\n\nSpeaker 2: I placed an order on my, um, um,\n\nSpeaker 1: When I actually did it, it looked like it was...\n\nSpeaker 2: Oh my gosh, what happened?\n\nSpeaker 1: Can you just confirm your date of birth?\n\nSpeaker 2: Yeah, 10-3-1960.\n\nSpeaker 1: Thank you so much, Edward.\n\nSpeaker 2: Ed, okay, well you placed three orders.\n\nSpeaker 1: Okay, let me cancel.\n\nSpeaker 2: You want to keep one of them?\n\nSpeaker 1: Yeah, just one.\n\nSpeaker 2: Oh my God, you placed four.\n\nSpeaker 1: Holy shit.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: I don't know how that happened.\n\nSpeaker 2: Yeah, hold on.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, all right, cancel that one, cancel this one.\n\nSpeaker 1: I don't know how that happened, dear.\n\nSpeaker 2: I don't know how that happened either, it's crazy.\n\nSpeaker 1: Okay, hold on, I need to cancel a third one.\n\nSpeaker 2: Okay, perfect.\n\nSpeaker 1: So I canceled out three of your orders for $2,639.95 each.\n\nSpeaker 2: Usually takes five, sometimes it takes up to 10 business days\n\nSpeaker 1: to go back on your card, but usually when it comes out\n\nSpeaker 2: the same day, usually it goes back in the same day.\n\nSpeaker 1: And then we can...\n\nSpeaker 2: That is the amount.\n\nSpeaker 1: Yeah, so I'm thinking it should go back in today.\n\nSpeaker 2: And then I kept one of your orders for a quantity\n\nSpeaker 1: of 50 20 milligram Cialis, and it's at the pharmacy,\n\nSpeaker 2: so it'll be shipping out to you today.\n\nSpeaker 1: All right, dear, I'm sorry, I don't really know\n\nSpeaker 2: how that happened.\n\nSpeaker 1: I know, I'm surprised that the credit card\n\nSpeaker 2: or accounting software let it run that many times.\n\nSpeaker 1: It's usually one charge only.\n\nSpeaker 2: No problem, but I went ahead and canceled it out,\n\nSpeaker 1: so you'll be getting a lot, yeah,\n\nSpeaker 2: your money back on your card.\n\nSpeaker 1: Okay, dear, I really appreciate it.\n\nSpeaker 2: Yeah, no problem.\n\nSpeaker 1: Thank you so much, bye-bye.\n\nSpeaker 2: No problem.\n\nSpeaker 1: Bye.",
+    "duration": 5925,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.240000009536743,
+        "text": " Thank you for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3.240000009536743,
+        "end": 4.71999979019165,
+        "text": " Howdy, how are you?"
+      },
+      {
+        "id": 2,
+        "start": 4.71999979019165,
+        "end": 6.960000038146973,
+        "text": " Good, how are you doing?"
+      },
+      {
+        "id": 3,
+        "start": 6.960000038146973,
+        "end": 10.4399995803833,
+        "text": " I placed an order on my, um, um,"
+      },
+      {
+        "id": 4,
+        "start": 10.4399995803833,
+        "end": 11.880000114440918,
+        "text": " when I actually did it, it looked like it was..."
+      },
+      {
+        "id": 5,
+        "start": 11.880000114440918,
+        "end": 13.079999923706055,
+        "text": " Oh my gosh, what happened?"
+      },
+      {
+        "id": 6,
+        "start": 13.079999923706055,
+        "end": 15.4399995803833,
+        "text": " Can you just confirm your date of birth?"
+      },
+      {
+        "id": 7,
+        "start": 15.4399995803833,
+        "end": 18.15999984741211,
+        "text": " Yeah, 10-3-1960."
+      },
+      {
+        "id": 8,
+        "start": 18.15999984741211,
+        "end": 20.280000686645508,
+        "text": " Thank you so much, Edward."
+      },
+      {
+        "id": 9,
+        "start": 20.280000686645508,
+        "end": 22.639999389648438,
+        "text": " Ed, okay, well you placed three orders."
+      },
+      {
+        "id": 10,
+        "start": 22.639999389648438,
+        "end": 23.799999237060547,
+        "text": " Okay, let me cancel."
+      },
+      {
+        "id": 11,
+        "start": 23.799999237060547,
+        "end": 25.760000228881836,
+        "text": " You want to keep one of them?"
+      },
+      {
+        "id": 12,
+        "start": 25.760000228881836,
+        "end": 26.600000381469727,
+        "text": " Yeah, just one."
+      },
+      {
+        "id": 13,
+        "start": 26.600000381469727,
+        "end": 27.799999237060547,
+        "text": " Oh my God, you placed four."
+      },
+      {
+        "id": 14,
+        "start": 27.799999237060547,
+        "end": 28.639999389648438,
+        "text": " Holy shit."
+      },
+      {
+        "id": 15,
+        "start": 28.639999389648438,
+        "end": 29.479999542236328,
+        "text": " Yeah."
+      },
+      {
+        "id": 16,
+        "start": 29.959999084472656,
+        "end": 31.520000457763672,
+        "text": " I don't know how that happened."
+      },
+      {
+        "id": 17,
+        "start": 31.520000457763672,
+        "end": 32.599998474121094,
+        "text": " Yeah, hold on."
+      },
+      {
+        "id": 18,
+        "start": 33.84000015258789,
+        "end": 34.68000030517578,
+        "text": " Okay."
+      },
+      {
+        "id": 19,
+        "start": 36,
+        "end": 39.959999084472656,
+        "text": " All right, all right, cancel that one, cancel this one."
+      },
+      {
+        "id": 20,
+        "start": 42.119998931884766,
+        "end": 44.439998626708984,
+        "text": " I don't know how that happened, dear."
+      },
+      {
+        "id": 21,
+        "start": 44.439998626708984,
+        "end": 46.68000030517578,
+        "text": " I don't know how that happened either, it's crazy."
+      },
+      {
+        "id": 22,
+        "start": 46.68000030517578,
+        "end": 49.119998931884766,
+        "text": " Okay, hold on, I need to cancel a third one."
+      },
+      {
+        "id": 23,
+        "start": 57,
+        "end": 57.84000015258789,
+        "text": " Okay, perfect."
+      },
+      {
+        "id": 24,
+        "start": 57.84000015258789,
+        "end": 62.79999923706055,
+        "text": " So I canceled out three of your orders for $2.63.95 each."
+      },
+      {
+        "id": 25,
+        "start": 63.959999084472656,
+        "end": 67.12000274658203,
+        "text": " Usually takes five, sometimes it takes up to 10 business days"
+      },
+      {
+        "id": 26,
+        "start": 67.12000274658203,
+        "end": 70.5999984741211,
+        "text": " to go back on your card, but usually when it comes out"
+      },
+      {
+        "id": 27,
+        "start": 70.5999984741211,
+        "end": 73.19999694824219,
+        "text": " the same day, usually it goes back in the same day."
+      },
+      {
+        "id": 28,
+        "start": 74.44000244140625,
+        "end": 75.27999877929688,
+        "text": " And then we can..."
+      },
+      {
+        "id": 29,
+        "start": 75.27999877929688,
+        "end": 77.5199966430664,
+        "text": " That is the amount."
+      },
+      {
+        "id": 30,
+        "start": 77.5199966430664,
+        "end": 80.31999969482422,
+        "text": " Yeah, so I'm thinking it should go back in today."
+      },
+      {
+        "id": 31,
+        "start": 81.80000305175781,
+        "end": 84.04000091552734,
+        "text": " And then I kept one of your orders for a quantity"
+      },
+      {
+        "id": 32,
+        "start": 84.04000091552734,
+        "end": 87.68000030517578,
+        "text": " of 50 20 milligram Cialis, and it's at the pharmacy,"
+      },
+      {
+        "id": 33,
+        "start": 88.5199966430664,
+        "end": 90.36000061035156,
+        "text": " so it'll be shipping out to you today."
+      },
+      {
+        "id": 34,
+        "start": 90.36000061035156,
+        "end": 92.19999694824219,
+        "text": " All right, dear, I'm sorry, I don't really know"
+      },
+      {
+        "id": 35,
+        "start": 92.19999694824219,
+        "end": 93.23999786376953,
+        "text": " how that happened."
+      },
+      {
+        "id": 36,
+        "start": 93.23999786376953,
+        "end": 96.27999877929688,
+        "text": " I know, I'm surprised that the credit card"
+      },
+      {
+        "id": 37,
+        "start": 96.27999877929688,
+        "end": 99.55999755859375,
+        "text": " or accounting software let it run that many times."
+      },
+      {
+        "id": 38,
+        "start": 99.55999755859375,
+        "end": 101.54000091552734,
+        "text": " It's usually one charge only."
+      },
+      {
+        "id": 39,
+        "start": 102.68000030517578,
+        "end": 104.55999755859375,
+        "text": " No problem, but I went ahead and canceled it out,"
+      },
+      {
+        "id": 40,
+        "start": 104.55999755859375,
+        "end": 106.36000061035156,
+        "text": " so you'll be getting a lot, yeah,"
+      },
+      {
+        "id": 41,
+        "start": 106.36000061035156,
+        "end": 108.31999969482422,
+        "text": " your money back on your card."
+      },
+      {
+        "id": 42,
+        "start": 108.31999969482422,
+        "end": 110.31999969482422,
+        "text": " Okay, dear, I really appreciate it."
+      },
+      {
+        "id": 43,
+        "start": 110.31999969482422,
+        "end": 111.44000244140625,
+        "text": " Yeah, no problem."
+      },
+      {
+        "id": 44,
+        "start": 113.55999755859375,
+        "end": 114.68000030517578,
+        "text": " Thank you so much, bye-bye."
+      },
+      {
+        "id": 45,
+        "start": 114.68000030517578,
+        "end": 115.68000030517578,
+        "text": " No problem."
+      },
+      {
+        "id": 46,
+        "start": 115.68000030517578,
+        "end": 116.5199966430664,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8194-a477-dbcc38af613e",
+    "url": "https://www.notion.so/300000001220705-300000001710765-2f611d0a101c8194a477dbcc38af613e"
+  },
+  "processedAt": "2026-01-28T18:26:58.895Z"
+}

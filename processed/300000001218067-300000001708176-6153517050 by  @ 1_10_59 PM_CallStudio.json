@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001218067-300000001708176-6153517050 by  @ 1_10_59 PM_CallStudio.wav",
+    "size": 28920,
+    "modifyTime": 1769590641000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218067-300000001708176-6153517050 by  @ 1_10_59 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T08:57:21.000Z",
+    "callId": "300000001218067-300000001708176",
+    "phoneNumber": "6153517050",
+    "callTimestamp": "2026-01-28T08:57:21.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: I'm trying to cancel an order that I placed on Friday.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1811,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.159999847412109,
+        "end": 6.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.159999847412109,
+        "end": 10.680000305175781,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.680000305175781,
+        "end": 16.31999969482422,
+        "text": " I'm trying to cancel an order that I placed on Friday."
+      },
+      {
+        "id": 4,
+        "start": 16.31999969482422,
+        "end": 17.520000457763672,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81d7-8e39-c127532dffca",
+    "url": "https://www.notion.so/300000001218067-300000001708176-2f611d0a101c81d78e39c127532dffca"
+  },
+  "processedAt": "2026-01-28T12:00:07.939Z"
+}

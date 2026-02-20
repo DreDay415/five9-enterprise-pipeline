@@ -1,0 +1,242 @@
+{
+  "recording": {
+    "name": "300000001220168-300000001710005-3102569433 by josimar@superbalife.com @ 3_15_45 PM.wav",
+    "size": 145726,
+    "modifyTime": 1769555857000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220168-300000001710005-3102569433 by josimar@superbalife.com @ 3_15_45 PM.wav",
+    "uploadDate": "2026-01-27T23:17:37.000Z",
+    "callId": "300000001220168-300000001710005",
+    "agent": "josimar",
+    "phoneNumber": "3102569433",
+    "callTimestamp": "2026-01-27T15:15:45.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you today?\n\nSpeaker 2: Yeah, hi, I just wanted to call and see if Joanna is still there.\n\nSpeaker 1: No, not available at the moment, but you can give us a call back tomorrow from 8 to 3, and then you'll be able to reach out to her.\n\nSpeaker 2: Who am I speaking with?\n\nSpeaker 1: My name is Joe, J-O.\n\nSpeaker 2: Oh, Joe, can you check on a tracking for me? I had an order with her yesterday, and they were supposed to be overnight shipped. Can you check on that?\n\nSpeaker 1: Yeah, I can take a look into that. What's your last name and zip code?\n\nSpeaker 2: B-O-L-T-O-N, and it's 93105.\n\nSpeaker 1: Okay, so it was too late in the day for yesterday to try to be shipped out overnight today. It'll just be arriving tomorrow.\n\nSpeaker 2: Okay, so could you email me the tracking number, please?\n\nSpeaker 1: Yeah, I'll just have it re-sent. Just keep an eye out for the span of Matagon Day.\n\nSpeaker 2: Okay, thanks.\n\nSpeaker 1: No problem.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: We're done, bye-bye.",
+    "duration": 5059,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.680000066757202,
+        "text": " Thank you for calling Viagra, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3.680000066757202,
+        "end": 8.359999656677246,
+        "text": " Yeah, hi, is, I just wanted to call and see"
+      },
+      {
+        "id": 2,
+        "start": 8.359999656677246,
+        "end": 10.4399995803833,
+        "text": " if Joanna is still there."
+      },
+      {
+        "id": 3,
+        "start": 11.359999656677246,
+        "end": 12.760000228881836,
+        "text": " No, not available at the moment,"
+      },
+      {
+        "id": 4,
+        "start": 12.760000228881836,
+        "end": 15.760000228881836,
+        "text": " but you can give us a call back tomorrow from 8 to 3,"
+      },
+      {
+        "id": 5,
+        "start": 15.760000228881836,
+        "end": 17.959999084472656,
+        "text": " and then you'll be able to reach out to her."
+      },
+      {
+        "id": 6,
+        "start": 19.8799991607666,
+        "end": 21.520000457763672,
+        "text": " Who am I speaking with?"
+      },
+      {
+        "id": 7,
+        "start": 21.520000457763672,
+        "end": 22.84000015258789,
+        "text": " My name is Joe, J-O."
+      },
+      {
+        "id": 8,
+        "start": 24.040000915527344,
+        "end": 27.639999389648438,
+        "text": " Oh, Joe, can you check on a tracking for me?"
+      },
+      {
+        "id": 9,
+        "start": 27.639999389648438,
+        "end": 31.959999084472656,
+        "text": " I had a order with her yesterday,"
+      },
+      {
+        "id": 10,
+        "start": 31.959999084472656,
+        "end": 36.63999938964844,
+        "text": " and they were supposed to be overnight shipped."
+      },
+      {
+        "id": 11,
+        "start": 36.63999938964844,
+        "end": 38.279998779296875,
+        "text": " Can you check on that?"
+      },
+      {
+        "id": 12,
+        "start": 38.279998779296875,
+        "end": 40,
+        "text": " Yeah, I can take a look into that."
+      },
+      {
+        "id": 13,
+        "start": 40,
+        "end": 41.84000015258789,
+        "text": " What's your last name and zip code?"
+      },
+      {
+        "id": 14,
+        "start": 43.2400016784668,
+        "end": 48.2400016784668,
+        "text": " B-O-L-T-O-N, and it's 93105."
+      },
+      {
+        "id": 15,
+        "start": 58.20000076293945,
+        "end": 61.20000076293945,
+        "text": " Okay, so it was too late in the day for yesterday"
+      },
+      {
+        "id": 16,
+        "start": 61.20000076293945,
+        "end": 62.79999923706055,
+        "text": " to try to be shipped out overnight today."
+      },
+      {
+        "id": 17,
+        "start": 62.79999923706055,
+        "end": 64.4000015258789,
+        "text": " It'll just be arriving tomorrow."
+      },
+      {
+        "id": 18,
+        "start": 66.55999755859375,
+        "end": 69.04000091552734,
+        "text": " Okay, so you did, could you email me"
+      },
+      {
+        "id": 19,
+        "start": 69.04000091552734,
+        "end": 70.4800033569336,
+        "text": " the tracking number, please?"
+      },
+      {
+        "id": 20,
+        "start": 70.4800033569336,
+        "end": 71.80000305175781,
+        "text": " Yeah, I'll just have it re-sent."
+      },
+      {
+        "id": 21,
+        "start": 71.80000305175781,
+        "end": 74.19999694824219,
+        "text": " Just keep an eye out for the span of Matagon Day."
+      },
+      {
+        "id": 22,
+        "start": 75.27999877929688,
+        "end": 76.5999984741211,
+        "text": " Okay, thanks."
+      },
+      {
+        "id": 23,
+        "start": 76.5999984741211,
+        "end": 77.91999816894531,
+        "text": " No problem."
+      },
+      {
+        "id": 24,
+        "start": 77.91999816894531,
+        "end": 78.76000213623047,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 25,
+        "start": 78.76000213623047,
+        "end": 79.5999984741211,
+        "text": " Thank you."
+      },
+      {
+        "id": 26,
+        "start": 79.5999984741211,
+        "end": 80.44000244140625,
+        "text": " Thank you."
+      },
+      {
+        "id": 27,
+        "start": 80.44000244140625,
+        "end": 81.27999877929688,
+        "text": " Thank you."
+      },
+      {
+        "id": 28,
+        "start": 81.27999877929688,
+        "end": 82.12000274658203,
+        "text": " Thank you."
+      },
+      {
+        "id": 29,
+        "start": 82.12000274658203,
+        "end": 82.95999908447266,
+        "text": " Thank you."
+      },
+      {
+        "id": 30,
+        "start": 82.95999908447266,
+        "end": 83.80000305175781,
+        "text": " Thank you."
+      },
+      {
+        "id": 31,
+        "start": 83.80000305175781,
+        "end": 84.63999938964844,
+        "text": " Thank you."
+      },
+      {
+        "id": 32,
+        "start": 84.63999938964844,
+        "end": 85.4800033569336,
+        "text": " Thank you."
+      },
+      {
+        "id": 33,
+        "start": 85.4800033569336,
+        "end": 86.31999969482422,
+        "text": " Thank you."
+      },
+      {
+        "id": 34,
+        "start": 86.31999969482422,
+        "end": 87.16000366210938,
+        "text": " Thank you."
+      },
+      {
+        "id": 35,
+        "start": 87.16000366210938,
+        "end": 89.36000061035156,
+        "text": " We're done, bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ab-8514-eb3d8d1dfe16",
+    "url": "https://www.notion.so/300000001220168-300000001710005-2f611d0a101c81ab8514eb3d8d1dfe16"
+  },
+  "processedAt": "2026-01-28T17:58:12.097Z"
+}

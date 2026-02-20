@@ -1,0 +1,8 @@
+[Unit]
+Description=Five9 SFTP ingest pipeline
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/flock -n /srv/five9/logs/ingest.lock /srv/five9/ingest.sh
+StandardOutput=journal
+StandardError=journal

@@ -1,0 +1,356 @@
+{
+  "recording": {
+    "name": "300000001217845-300000001708009-8018977646 by nickh@superbalife.com @ 12_05_41 PM.wav",
+    "size": 282616,
+    "modifyTime": 1769591837000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217845-300000001708009-8018977646 by nickh@superbalife.com @ 12_05_41 PM.wav",
+    "uploadDate": "2026-01-28T09:17:17.000Z",
+    "callId": "300000001217845-300000001708009",
+    "agent": "nickh",
+    "phoneNumber": "8018977646",
+    "callTimestamp": "2026-01-28T12:05:41.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra at Score Blue.\n\nSpeaker 2: How can I help you today?\n\nSpeaker 1: Yes, I just need to cancel my subscription.\n\nSpeaker 2: Okay, sir, I can help you with this.\n\nSpeaker 1: Could you provide me with your full name and date of birth?\n\nSpeaker 2: Rick Spohn, S-P-O-H-N, 4-21-61.\n\nSpeaker 1: Thanks, Rick.\n\nSpeaker 2: All right, I see your prescription here,\n\nSpeaker 1: initially written back in May of 2025.\n\nSpeaker 2: Your current prescription is for the 100 milligram Viagra.\n\nSpeaker 1: Now, Rick, I'm not sure if you saw\n\nSpeaker 2: on the notes here initially, this would be back in May.\n\nSpeaker 1: This is not a subscription.\n\nSpeaker 2: You're not required or obligated to get these monthly.\n\nSpeaker 1: If you wanted, you could simply pause it,\n\nSpeaker 2: and that would allow you to call in\n\nSpeaker 1: and place orders as needed,\n\nSpeaker 2: and still keep your access\n\nSpeaker 1: to the remaining refills available.\n\nSpeaker 2: Yeah, no, I just decided to just move on at this time.\n\nSpeaker 1: So I guess when you say it's not a subscription,\n\nSpeaker 2: well, it shows up every month,\n\nSpeaker 1: and it's a direct auto-pay.\n\nSpeaker 2: That seems like a subscription to me.\n\nSpeaker 1: That's how your account was initially set up\n\nSpeaker 2: by the doctor with those low quantity\n\nSpeaker 1: of the 10 and the 100 milligrams.\n\nSpeaker 2: But you can, like I said, you can adjust it.\n\nSpeaker 1: So some patients do bi-monthly.\n\nSpeaker 2: Some patients do every three months.\n\nSpeaker 1: Some patients, like I said, do the pause.\n\nSpeaker 2: So then they can just call in\n\nSpeaker 1: and place orders when they're low.\n\nSpeaker 2: Yeah, I think just today,\n\nSpeaker 1: let's just go ahead and completely just cancel this.\n\nSpeaker 2: Okay, and so upon cancellation,\n\nSpeaker 1: would close out the prescription altogether.\n\nSpeaker 2: What that means is potentially now in 2026,\n\nSpeaker 1: if you place an order, you might see a price increase, okay?\n\nSpeaker 2: And then if the AGV comes back,\n\nSpeaker 1: or there might be a slight delay\n\nSpeaker 2: when they can fulfill your order, okay?\n\nSpeaker 1: Right now, you do have access to it by pausing it,\n\nSpeaker 2: but if you wanna cancel it, we can do that as well.\n\nSpeaker 1: Yeah, I'd like to just cancel it, thank you.\n\nSpeaker 2: Okay, okay, you got it.\n\nSpeaker 1: Just give me one moment.\n\nSpeaker 2: I'm gonna mess with the pharmacy here\n\nSpeaker 1: to confirm cancellation.\n\nSpeaker 2: Okay, you're all set.\n\nSpeaker 1: Okay, will I receive a notice or anything?\n\nSpeaker 2: Yes, sir, you will get a confirmation email.\n\nSpeaker 1: Okay, then there you go, I appreciate it.\n\nSpeaker 2: Of course, happy to help.\n\nSpeaker 1: Thank you, bye-bye.",
+    "duration": 8298,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.5199999809265137,
+        "text": " Hi, thank you so much for calling Viagra at score blue."
+      },
+      {
+        "id": 1,
+        "start": 2.5199999809265137,
+        "end": 3.759999990463257,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 2,
+        "start": 5.079999923706055,
+        "end": 9.220000267028809,
+        "text": " Yes, I just need to cancel my subscription."
+      },
+      {
+        "id": 3,
+        "start": 10.479999542236328,
+        "end": 12.5600004196167,
+        "text": " Okay, sir, I can help you with this."
+      },
+      {
+        "id": 4,
+        "start": 12.5600004196167,
+        "end": 15.319999694824219,
+        "text": " Could you provide me with your full name and date of birth?"
+      },
+      {
+        "id": 5,
+        "start": 16.360000610351562,
+        "end": 21.360000610351562,
+        "text": " Rick Spohn, S-P-O-H-N, 4-21-61."
+      },
+      {
+        "id": 6,
+        "start": 25.8799991607666,
+        "end": 27.520000457763672,
+        "text": " Thanks, Rick."
+      },
+      {
+        "id": 7,
+        "start": 27.520000457763672,
+        "end": 28.959999084472656,
+        "text": " All right, I see your prescription here,"
+      },
+      {
+        "id": 8,
+        "start": 28.959999084472656,
+        "end": 31.959999084472656,
+        "text": " initially written back in May of 2025."
+      },
+      {
+        "id": 9,
+        "start": 33.08000183105469,
+        "end": 35.97999954223633,
+        "text": " Your current prescription is for the 100 milligram Viagra."
+      },
+      {
+        "id": 10,
+        "start": 39.84000015258789,
+        "end": 41.040000915527344,
+        "text": " Now, Rick, I'm not sure if you saw"
+      },
+      {
+        "id": 11,
+        "start": 41.040000915527344,
+        "end": 45.619998931884766,
+        "text": " on the notes here initially, this would be back in May."
+      },
+      {
+        "id": 12,
+        "start": 47,
+        "end": 48.279998779296875,
+        "text": " This is not a subscription."
+      },
+      {
+        "id": 13,
+        "start": 48.279998779296875,
+        "end": 51.599998474121094,
+        "text": " You're not required or obligated to get these monthly."
+      },
+      {
+        "id": 14,
+        "start": 51.599998474121094,
+        "end": 53.880001068115234,
+        "text": " If you wanted, you could simply pause it,"
+      },
+      {
+        "id": 15,
+        "start": 53.880001068115234,
+        "end": 55.279998779296875,
+        "text": " and that would allow you to call in"
+      },
+      {
+        "id": 16,
+        "start": 55.279998779296875,
+        "end": 56.47999954223633,
+        "text": " and place orders as needed,"
+      },
+      {
+        "id": 17,
+        "start": 56.52000045776367,
+        "end": 58.599998474121094,
+        "text": " and still keep your access"
+      },
+      {
+        "id": 18,
+        "start": 58.599998474121094,
+        "end": 60.720001220703125,
+        "text": " to the remaining refills available."
+      },
+      {
+        "id": 19,
+        "start": 63,
+        "end": 68,
+        "text": " Yeah, no, I just decided to just move on at this time."
+      },
+      {
+        "id": 20,
+        "start": 69.68000030517578,
+        "end": 73.80000305175781,
+        "text": " So I guess when you say it's not a subscription,"
+      },
+      {
+        "id": 21,
+        "start": 73.80000305175781,
+        "end": 76.76000213623047,
+        "text": " well, it shows up every month,"
+      },
+      {
+        "id": 22,
+        "start": 76.76000213623047,
+        "end": 78.55999755859375,
+        "text": " and it's a direct auto-pay."
+      },
+      {
+        "id": 23,
+        "start": 78.55999755859375,
+        "end": 81.69999694824219,
+        "text": " That seems like a subscription to me."
+      },
+      {
+        "id": 24,
+        "start": 82.72000122070312,
+        "end": 85.27999877929688,
+        "text": " That's how your account was initially set up"
+      },
+      {
+        "id": 25,
+        "start": 85.27999877929688,
+        "end": 87.19999694824219,
+        "text": " by the doctor with those low quantity"
+      },
+      {
+        "id": 26,
+        "start": 87.19999694824219,
+        "end": 89.63999938964844,
+        "text": " of the 10 and the 100 milligrams."
+      },
+      {
+        "id": 27,
+        "start": 89.63999938964844,
+        "end": 91.83999633789062,
+        "text": " But you can, like I said, you can adjust it."
+      },
+      {
+        "id": 28,
+        "start": 91.83999633789062,
+        "end": 94.27999877929688,
+        "text": " So some patients do bi-monthly."
+      },
+      {
+        "id": 29,
+        "start": 94.27999877929688,
+        "end": 96.72000122070312,
+        "text": " Some patients do every three months."
+      },
+      {
+        "id": 30,
+        "start": 96.72000122070312,
+        "end": 99.16000366210938,
+        "text": " Some patients, like I said, do the pause."
+      },
+      {
+        "id": 31,
+        "start": 99.16000366210938,
+        "end": 101.04000091552734,
+        "text": " So then they can just call in"
+      },
+      {
+        "id": 32,
+        "start": 101.04000091552734,
+        "end": 102.73999786376953,
+        "text": " and place orders when they're low."
+      },
+      {
+        "id": 33,
+        "start": 105.16000366210938,
+        "end": 107.26000213623047,
+        "text": " Yeah, I think just today,"
+      },
+      {
+        "id": 34,
+        "start": 107.26000213623047,
+        "end": 111.36000061035156,
+        "text": " let's just go ahead and completely just cancel this."
+      },
+      {
+        "id": 35,
+        "start": 111.91999816894531,
+        "end": 114.63999938964844,
+        "text": " Okay, and so upon cancellation,"
+      },
+      {
+        "id": 36,
+        "start": 114.63999938964844,
+        "end": 117.04000091552734,
+        "text": " would close out the prescription altogether."
+      },
+      {
+        "id": 37,
+        "start": 117.04000091552734,
+        "end": 120.27999877929688,
+        "text": " What that means is potentially now in 2026,"
+      },
+      {
+        "id": 38,
+        "start": 120.27999877929688,
+        "end": 123.4800033569336,
+        "text": " if you place an order, you might see a price increase, okay?"
+      },
+      {
+        "id": 39,
+        "start": 124.4000015258789,
+        "end": 125.76000213623047,
+        "text": " And then if the AGV comes back,"
+      },
+      {
+        "id": 40,
+        "start": 125.76000213623047,
+        "end": 127.16000366210938,
+        "text": " or there might be a slight delay"
+      },
+      {
+        "id": 41,
+        "start": 127.16000366210938,
+        "end": 129.67999267578125,
+        "text": " when they can fulfill your order, okay?"
+      },
+      {
+        "id": 42,
+        "start": 129.67999267578125,
+        "end": 132.60000610351562,
+        "text": " Right now, you do have access to it by pausing it,"
+      },
+      {
+        "id": 43,
+        "start": 132.60000610351562,
+        "end": 135,
+        "text": " but if you wanna cancel it, we can do that as well."
+      },
+      {
+        "id": 44,
+        "start": 137.44000244140625,
+        "end": 140.1199951171875,
+        "text": " Yeah, I'd like to just cancel it, thank you."
+      },
+      {
+        "id": 45,
+        "start": 140.1199951171875,
+        "end": 142.1999969482422,
+        "text": " Okay, okay, you got it."
+      },
+      {
+        "id": 46,
+        "start": 142.1999969482422,
+        "end": 143.0399932861328,
+        "text": " Just give me one moment."
+      },
+      {
+        "id": 47,
+        "start": 143.0399932861328,
+        "end": 144.24000549316406,
+        "text": " I'm gonna mess with the pharmacy here"
+      },
+      {
+        "id": 48,
+        "start": 144.24000549316406,
+        "end": 145.8000030517578,
+        "text": " to confirm cancellation."
+      },
+      {
+        "id": 49,
+        "start": 155.24000549316406,
+        "end": 156.27999877929688,
+        "text": " Okay, you're all set."
+      },
+      {
+        "id": 50,
+        "start": 158.0800018310547,
+        "end": 160.72000122070312,
+        "text": " Okay, will I receive a notice or anything?"
+      },
+      {
+        "id": 51,
+        "start": 160.72000122070312,
+        "end": 162.9600067138672,
+        "text": " Yes, sir, you will get a confirmation email."
+      },
+      {
+        "id": 52,
+        "start": 164.24000549316406,
+        "end": 168.0399932861328,
+        "text": " Okay, then there you go, I appreciate it."
+      },
+      {
+        "id": 53,
+        "start": 168.0399932861328,
+        "end": 170.0800018310547,
+        "text": " Of course, happy to help."
+      },
+      {
+        "id": 54,
+        "start": 170.0800018310547,
+        "end": 172.8800048828125,
+        "text": " Thank you, bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8126-9636-e7651601e41b",
+    "url": "https://www.notion.so/300000001217845-300000001708009-2f611d0a101c81269636e7651601e41b"
+  },
+  "processedAt": "2026-01-28T11:24:24.416Z"
+}

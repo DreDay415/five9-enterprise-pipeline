@@ -1,0 +1,38 @@
+{
+  "recording": {
+    "name": "300000001221221-300000001711118-8887955826 by josimar@superbalife.com @ 11_58_52 AM.wav",
+    "size": 12670,
+    "modifyTime": 1769630346000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221221-300000001711118-8887955826 by josimar@superbalife.com @ 11_58_52 AM.wav",
+    "uploadDate": "2026-01-28T19:59:06.000Z",
+    "callId": "300000001221221-300000001711118",
+    "agent": "josimar",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T11:58:52.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: This message has been transcribed.\n\nSpeaker 2: One moment while...",
+    "duration": 538,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.800000190734863,
+        "text": " This message has been transcribed."
+      },
+      {
+        "id": 1,
+        "start": 6.800000190734863,
+        "end": 7.480000019073486,
+        "text": " One moment while..."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81fb-bf88-d2b3c2208f72",
+    "url": "https://www.notion.so/300000001221221-300000001711118-2f611d0a101c81fbbf88d2b3c2208f72"
+  },
+  "processedAt": "2026-01-28T23:17:43.649Z"
+}

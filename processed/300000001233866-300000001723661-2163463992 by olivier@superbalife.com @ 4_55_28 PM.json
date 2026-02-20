@@ -1,0 +1,194 @@
+{
+  "recording": {
+    "name": "300000001233866-300000001723661-2163463992 by olivier@superbalife.com @ 4_55_28 PM.wav",
+    "size": 181476,
+    "modifyTime": 1770425861000,
+    "remotePath": "/five9sftp/upload/SB CS/2_6_2026/300000001233866-300000001723661-2163463992 by olivier@superbalife.com @ 4_55_28 PM.wav",
+    "uploadDate": "2026-02-07T00:57:41.000Z",
+    "callId": "300000001233866-300000001723661",
+    "agent": "olivier",
+    "phoneNumber": "2163463992",
+    "callTimestamp": "2026-02-07T16:55:28.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Yes.\n\nSpeaker 1: How are we doing, sir?\n\nSpeaker 2: Okay. I'm trying to cancel any future prescriptions being sent to me.\n\nSpeaker 1: Mr. Ronald?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Any health concerns, or you just don't need it for a while? You want to hold it as needed? You have a lot left.\n\nSpeaker 2: I don't want any more. Period. I want it canceled.\n\nSpeaker 1: Okay. Yeah. I was asking because they offer you to pause so you can keep your price and reorder it.\n\nSpeaker 2: They don't have to pay a new doctor consultation.\n\nSpeaker 1: But if you want, I can cancel the one they finance for you.\n\nSpeaker 2: The only thing, if anything changes in the future, your price will be higher, obviously, because they're going to have to reinvest for a new doctor.\n\nSpeaker 1: That's fine. Your product doesn't work, so I want it canceled. I don't want any more ties.\n\nSpeaker 2: Okay. Yeah. I wish you would have told us that before so we would have given you something better.\n\nSpeaker 1: But I cancel everything for you here.\n\nSpeaker 2: Usually, it's better to communicate your issues so we can fix it, offer you a better solution, a better fit.\n\nSpeaker 1: But when we don't know, we can help, sir.\n\nSpeaker 2: Well, I called and talked to people two deliveries ago and told them to cancel.\n\nSpeaker 1: I just got a new prescription in the mail. I want it canceled.\n\nSpeaker 2: Everything will be canceled, sir. Fully canceled. You're fully canceled here already.\n\nSpeaker 1: I cancel everything for you.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Nothing to worry about, okay?\n\nSpeaker 2: All right.\n\nSpeaker 1: You're all set.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 3913,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5,
+        "text": " Yes."
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 7,
+        "text": " How are we doing, sir?"
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 14,
+        "text": " Okay. I'm trying to cancel any future prescriptions being sent to me."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 16,
+        "text": " Mr. Ronald?"
+      },
+      {
+        "id": 5,
+        "start": 16,
+        "end": 17,
+        "text": " Yes."
+      },
+      {
+        "id": 6,
+        "start": 17,
+        "end": 26,
+        "text": " Any health concerns, or you just don't need it for a while? You want to hold it as needed? You have a lot left."
+      },
+      {
+        "id": 7,
+        "start": 27,
+        "end": 31,
+        "text": " I don't want any more. Period. I want it canceled."
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 38,
+        "text": " Okay. Yeah. I was asking because they offer you to pause so you can keep your price and reorder it."
+      },
+      {
+        "id": 9,
+        "start": 38,
+        "end": 40,
+        "text": " They don't have to pay a new doctor consultation."
+      },
+      {
+        "id": 10,
+        "start": 40,
+        "end": 44,
+        "text": " But if you want, I can cancel the one they finance for you."
+      },
+      {
+        "id": 11,
+        "start": 44,
+        "end": 52,
+        "text": " The only thing, if anything changes in the future, your price will be higher, obviously, because they're going to have to reinvest for a new doctor."
+      },
+      {
+        "id": 12,
+        "start": 52,
+        "end": 58,
+        "text": " That's fine. Your product doesn't work, so I want it canceled. I don't want any more ties."
+      },
+      {
+        "id": 13,
+        "start": 58,
+        "end": 65,
+        "text": " Okay. Yeah. I wish you would have told us that before so we would have given you something better."
+      },
+      {
+        "id": 14,
+        "start": 65,
+        "end": 69,
+        "text": " But I cancel everything for you here."
+      },
+      {
+        "id": 15,
+        "start": 69,
+        "end": 75,
+        "text": " Usually, it's better to communicate your issues so we can fix it, offer you a better solution, a better fit."
+      },
+      {
+        "id": 16,
+        "start": 75,
+        "end": 78,
+        "text": " But when we don't know, we can help, sir."
+      },
+      {
+        "id": 17,
+        "start": 79,
+        "end": 85,
+        "text": " Well, I called and talked to people two deliveries ago and told them to cancel."
+      },
+      {
+        "id": 18,
+        "start": 85,
+        "end": 90,
+        "text": " I just got a new prescription in the mail. I want it canceled."
+      },
+      {
+        "id": 19,
+        "start": 90,
+        "end": 94,
+        "text": " Everything will be canceled, sir. Fully canceled. You're fully canceled here already."
+      },
+      {
+        "id": 20,
+        "start": 94,
+        "end": 96,
+        "text": " I cancel everything for you."
+      },
+      {
+        "id": 21,
+        "start": 96,
+        "end": 98,
+        "text": " Okay."
+      },
+      {
+        "id": 22,
+        "start": 98,
+        "end": 101,
+        "text": " Nothing to worry about, okay?"
+      },
+      {
+        "id": 23,
+        "start": 101,
+        "end": 103,
+        "text": " All right."
+      },
+      {
+        "id": 24,
+        "start": 103,
+        "end": 104,
+        "text": " You're all set."
+      },
+      {
+        "id": 25,
+        "start": 104,
+        "end": 105,
+        "text": " Thank you."
+      },
+      {
+        "id": 26,
+        "start": 105,
+        "end": 106,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 27,
+        "start": 108,
+        "end": 109,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30211d0a-101c-81df-a18a-c3b95c57fd91",
+    "url": "https://www.notion.so/300000001233866-300000001723661-30211d0a101c81dfa18ac3b95c57fd91"
+  },
+  "processedAt": "2026-02-09T16:02:19.574Z"
+}

@@ -1,0 +1,260 @@
+{
+  "recording": {
+    "name": "300000001219888-300000001709814-9378769535 by jimmy@superbalife.com @ 1_29_41 PM.wav",
+    "size": 154826,
+    "modifyTime": 1769549485000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219888-300000001709814-9378769535 by jimmy@superbalife.com @ 1_29_41 PM.wav",
+    "uploadDate": "2026-01-27T21:31:25.000Z",
+    "callId": "300000001219888-300000001709814",
+    "agent": "jimmy",
+    "phoneNumber": "9378769535",
+    "callTimestamp": "2026-01-27T13:29:41.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, this is Jimmy, how can I help you today?\n\nSpeaker 2: Yes, I need to place an order.\n\nSpeaker 1: Okay, I can help you with that.\n\nSpeaker 2: My name's Mike.\n\nSpeaker 1: Hey, Mike, I'm going to try to pull you up with the number that you're calling from.\n\nSpeaker 2: Yeah, Mike Pryor?\n\nSpeaker 1: Yes.\n\nSpeaker 2: How are you, Mike? All right.\n\nSpeaker 1: It looks like that you're getting this dental fill,\n\nSpeaker 2: so you just want to get a refill of what you've been getting, basically?\n\nSpeaker 1: Yes.\n\nSpeaker 2: All right, I'm going to take care of that for you.\n\nSpeaker 1: All right, Mike, I just went ahead and took care of that.\n\nSpeaker 2: It's at the pharmacy.\n\nSpeaker 1: Hopefully you get that within the next seven to 10 business days.\n\nSpeaker 2: It'll probably be a lot faster than that, but, you know,\n\nSpeaker 1: I'm going to tell you it's going to take longer and you'll get it sooner.\n\nSpeaker 2: Okay?\n\nSpeaker 1: Okay.\n\nSpeaker 2: What card did you put that on?\n\nSpeaker 1: It was the same one you used last time because it went through\n\nSpeaker 2: and I can say that right now if you need me to.\n\nSpeaker 1: Give me one second.\n\nSpeaker 2: I'll pull it up for you.\n\nSpeaker 1: Let me go ahead and put your information for the credit card to see what card that was used.\n\nSpeaker 2: Last four, 6558.\n\nSpeaker 1: Give me one second.\n\nSpeaker 2: I can let you know for sure because, like I said, again,\n\nSpeaker 1: if it didn't go through, it'll kick that out to me, but since it went through.\n\nSpeaker 2: Yeah, 6558.\n\nSpeaker 1: That's your master card?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Not a problem.\n\nSpeaker 2: Have a good one.\n\nSpeaker 1: Bye-bye.",
+    "duration": 3987,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra, this is Jimmy, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " Yes, I need to place an order."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 10,
+        "text": " Okay, I can help you with that."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 12,
+        "text": " My name's Mike."
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 16,
+        "text": " Hey, Mike, I'm going to try to pull you up with the number that you're calling from."
+      },
+      {
+        "id": 5,
+        "start": 16,
+        "end": 18,
+        "text": " Yeah, Mike Pryor?"
+      },
+      {
+        "id": 6,
+        "start": 18,
+        "end": 19,
+        "text": " Yes."
+      },
+      {
+        "id": 7,
+        "start": 19,
+        "end": 21,
+        "text": " How are you, Mike? All right."
+      },
+      {
+        "id": 8,
+        "start": 21,
+        "end": 23,
+        "text": " It looks like that you're getting this dental fill,"
+      },
+      {
+        "id": 9,
+        "start": 23,
+        "end": 27,
+        "text": " so you just want to get a refill of what you've been getting, basically?"
+      },
+      {
+        "id": 10,
+        "start": 27,
+        "end": 29,
+        "text": " Yes."
+      },
+      {
+        "id": 11,
+        "start": 29,
+        "end": 41,
+        "text": " All right, I'm going to take care of that for you."
+      },
+      {
+        "id": 12,
+        "start": 41,
+        "end": 43,
+        "text": " All right, Mike, I just went ahead and took care of that."
+      },
+      {
+        "id": 13,
+        "start": 43,
+        "end": 44,
+        "text": " It's at the pharmacy."
+      },
+      {
+        "id": 14,
+        "start": 44,
+        "end": 47,
+        "text": " Hopefully you get that within the next seven to 10 business days."
+      },
+      {
+        "id": 15,
+        "start": 47,
+        "end": 49,
+        "text": " It'll probably be a lot faster than that, but, you know,"
+      },
+      {
+        "id": 16,
+        "start": 49,
+        "end": 51,
+        "text": " I'm going to tell you it's going to take longer and you'll get it sooner."
+      },
+      {
+        "id": 17,
+        "start": 51,
+        "end": 52,
+        "text": " Okay?"
+      },
+      {
+        "id": 18,
+        "start": 52,
+        "end": 53,
+        "text": " Okay."
+      },
+      {
+        "id": 19,
+        "start": 53,
+        "end": 55,
+        "text": " What card did you put that on?"
+      },
+      {
+        "id": 20,
+        "start": 55,
+        "end": 58,
+        "text": " It was the same one you used last time because it went through"
+      },
+      {
+        "id": 21,
+        "start": 58,
+        "end": 61,
+        "text": " and I can say that right now if you need me to."
+      },
+      {
+        "id": 22,
+        "start": 61,
+        "end": 62,
+        "text": " Give me one second."
+      },
+      {
+        "id": 23,
+        "start": 62,
+        "end": 68,
+        "text": " I'll pull it up for you."
+      },
+      {
+        "id": 24,
+        "start": 68,
+        "end": 76,
+        "text": " Let me go ahead and put your information for the credit card to see what card that was used."
+      },
+      {
+        "id": 25,
+        "start": 76,
+        "end": 79,
+        "text": " Last four, 6558."
+      },
+      {
+        "id": 26,
+        "start": 79,
+        "end": 80,
+        "text": " Give me one second."
+      },
+      {
+        "id": 27,
+        "start": 80,
+        "end": 82,
+        "text": " I can let you know for sure because, like I said, again,"
+      },
+      {
+        "id": 28,
+        "start": 82,
+        "end": 85,
+        "text": " if it didn't go through, it'll kick that out to me, but since it went through."
+      },
+      {
+        "id": 29,
+        "start": 85,
+        "end": 87,
+        "text": " Yeah, 6558."
+      },
+      {
+        "id": 30,
+        "start": 87,
+        "end": 88,
+        "text": " That's your master card?"
+      },
+      {
+        "id": 31,
+        "start": 88,
+        "end": 89,
+        "text": " Yes."
+      },
+      {
+        "id": 32,
+        "start": 89,
+        "end": 90,
+        "text": " Yes."
+      },
+      {
+        "id": 33,
+        "start": 90,
+        "end": 91,
+        "text": " Okay."
+      },
+      {
+        "id": 34,
+        "start": 91,
+        "end": 92,
+        "text": " All right."
+      },
+      {
+        "id": 35,
+        "start": 92,
+        "end": 93,
+        "text": " Thank you."
+      },
+      {
+        "id": 36,
+        "start": 93,
+        "end": 94,
+        "text": " Not a problem."
+      },
+      {
+        "id": 37,
+        "start": 94,
+        "end": 95,
+        "text": " Have a good one."
+      },
+      {
+        "id": 38,
+        "start": 95,
+        "end": 96,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8145-a30e-c6fcd287b0a6",
+    "url": "https://www.notion.so/300000001219888-300000001709814-2f511d0a101c8145a30ec6fcd287b0a6"
+  },
+  "processedAt": "2026-01-27T23:29:30.098Z"
+}

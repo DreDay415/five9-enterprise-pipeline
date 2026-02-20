@@ -1,0 +1,68 @@
+{
+  "recording": {
+    "name": "300000001216371-300000001705817-9542968283 by jessie@superbalife.com @ 1_30_59 PM.wav",
+    "size": 54466,
+    "modifyTime": 1769584032000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216371-300000001705817-9542968283 by jessie@superbalife.com @ 1_30_59 PM.wav",
+    "uploadDate": "2026-01-28T07:07:12.000Z",
+    "callId": "300000001216371-300000001705817",
+    "agent": "jessie",
+    "phoneNumber": "9542968283",
+    "callTimestamp": "2026-01-28T13:30:59.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra, my name is Jessie, can I get your first and\n\nSpeaker 2: last name?\n\nSpeaker 1: Al Maloney.\n\nSpeaker 2: Listen, I was just talking with John, they're going to correct the error in my medication.\n\nSpeaker 1: Okay, bear with me just a second, did you want to continue speaking with John?\n\nSpeaker 2: Is he there?\n\nSpeaker 1: Let me check, bear with me a moment.",
+    "duration": 7949,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Hi, thank you so much for calling Viagra, my name is Jessie, can I get your first and"
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 8,
+        "text": " last name?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 9,
+        "text": " Al Maloney."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 16,
+        "text": " Listen, I was just talking with John, they're going to correct the error in my medication."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 25,
+        "text": " Okay, bear with me just a second, did you want to continue speaking with John?"
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 26,
+        "text": " Is he there?"
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 27,
+        "text": " Let me check, bear with me a moment."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81fa-b24a-c3a264ec9349",
+    "url": "https://www.notion.so/300000001216371-300000001705817-2f611d0a101c81fab24ac3a264ec9349"
+  },
+  "processedAt": "2026-01-28T15:44:58.359Z"
+}

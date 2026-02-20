@@ -1,0 +1,404 @@
+{
+  "recording": {
+    "name": "300000001220145-300000001709990-5157799582 by olivia@superbalife.com @ 3_01_17 PM.wav",
+    "size": 453696,
+    "modifyTime": 1769555177000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220145-300000001709990-5157799582 by olivia@superbalife.com @ 3_01_17 PM.wav",
+    "uploadDate": "2026-01-27T23:06:17.000Z",
+    "callId": "300000001220145-300000001709990",
+    "agent": "olivia",
+    "phoneNumber": "5157799582",
+    "callTimestamp": "2026-01-27T15:01:17.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Olivia speaking. Who do I have the pleasure of speaking with today?\n\nSpeaker 2: Hi, Lou. This is Greg Bentley.\n\nSpeaker 1: Hi, Greg. How are you?\n\nSpeaker 2: I'm fine, thank you.\n\nSpeaker 1: Great. How can I help you today, Greg?\n\nSpeaker 2: I wanted to make sure that there was not a subscription on my order. I want it to be a one-time order.\n\nSpeaker 1: I can look into this for you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Yeah, so we don't place one-time orders, but if you don't want to receive regular refills, you certainly don't have to. You always have the option with your prescription to place it on hold for up to six months at a time, just because six months is when the prescription would expire if we didn't refill it. And the way that works is whenever you are ready to order, you can, you just would have to give us a call before then. So that would be before July 27th.\n\nSpeaker 2: So how do I put, that's what I want to do then. I want to put it on hold.\n\nSpeaker 1: Okay, great. So yeah, anything you need before July 27th, just give us a call at December Monday through Friday 8 to 5 to place the order yourself.\n\nSpeaker 2: So I'm not, I'm not automatically going to receive something. They're not automatically going to charge me, charge my account, correct?\n\nSpeaker 1: Right. The prescription, yeah, is on hold the next six months. So if you need anything, just let us know.\n\nSpeaker 2: All right. Thank you, Olivia. I appreciate that.\n\nSpeaker 1: Yeah, I hope you have a great day, Greg.\n\nSpeaker 2: Thank you. Hey, Olivia?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Olivia?\n\nSpeaker 1: Yes.\n\nSpeaker 2: So I tried one. It was, I don't know if it worked. Maybe it's just me. But I, anyway, I'll try it another couple times. We'll see if it works or not. Thank you, Olivia.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Appreciate all your help.\n\nSpeaker 1: Well, I will mention to you, yeah, if you have any issues, just let us know because we do have an even newer product that we are sending out a free sample of. If you, if anything, if you were interested in trying that, I could, I could send that out to you. So yeah, try them a few more times and yeah, just call us back and let us know. Also, my extension is 0016 if you ever want to reach me. But yeah, just let us know.\n\nSpeaker 2: All right. What's the new one? Is it a combination then or?\n\nSpeaker 1: No, it's just, so it's still Viagra, right? But it comes directly from the Pfizer labs in France and it is the fastest acting, longest lasting stuff we've ever made. But my favorite thing about it is that we've specifically formulated it to cut out the side effects of sinus agitation and headache.\n\nSpeaker 2: So isn't that what I ordered?\n\nSpeaker 1: So the prescription, I, the reason I brought it up is the prescription I see for you is American stuff. But if you want to try our newest, our French stuff, our AGB, I'd be happy to send you out a free sample.\n\nSpeaker 2: Yeah, I'd like to do that if you don't mind.\n\nSpeaker 1: Yeah, of course. Okay, so I'll send it to you at 50 milligrams because that's what you're already approved for. It's going to be 10 pills. Can I ship it to 7134 Dakota Drive, West Des Moines, Iowa 50266?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Okay, perfect. So yeah, these will be out to you probably by the end of the week or because of that winter storm, maybe midweek at the very latest of next week. And then just a reminder, Greg, take the pills on an empty stomach. That piece is really important.\n\nSpeaker 2: And then you want to, you also want to avoid alcohol the day you take them just because alcohol restricts blood flow.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right. I appreciate that.\n\nSpeaker 1: All righty. Well, thank you so much, Greg.\n\nSpeaker 2: Thank you, Olivia.\n\nSpeaker 1: Yeah, I hope you appreciate it.\n\nSpeaker 2: Appreciate your help. You too. Bye.\n\nSpeaker 1: Okay, bye.",
+    "duration": 8631,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 12.640000343322754,
+        "text": " Thank you for calling Viagra. This is Olivia speaking. Who do I have the pleasure of speaking"
+      },
+      {
+        "id": 1,
+        "start": 12.640000343322754,
+        "end": 13.640000343322754,
+        "text": " with today?"
+      },
+      {
+        "id": 2,
+        "start": 13.640000343322754,
+        "end": 15.640000343322754,
+        "text": " Hi, Lou. This is Greg Bentley."
+      },
+      {
+        "id": 3,
+        "start": 15.640000343322754,
+        "end": 18.639999389648438,
+        "text": " Hi, Greg. How are you?"
+      },
+      {
+        "id": 4,
+        "start": 18.639999389648438,
+        "end": 20.639999389648438,
+        "text": " I'm fine, thank you."
+      },
+      {
+        "id": 5,
+        "start": 20.639999389648438,
+        "end": 23.639999389648438,
+        "text": " Great. How can I help you today, Greg?"
+      },
+      {
+        "id": 6,
+        "start": 24.280000686645508,
+        "end": 31.280000686645508,
+        "text": " I wanted to make sure that there was not a subscription on my order. I want it to be"
+      },
+      {
+        "id": 7,
+        "start": 31.280000686645508,
+        "end": 33.279998779296875,
+        "text": " a one-time order."
+      },
+      {
+        "id": 8,
+        "start": 33.279998779296875,
+        "end": 35.279998779296875,
+        "text": " I can look into this for you."
+      },
+      {
+        "id": 9,
+        "start": 35.279998779296875,
+        "end": 37.279998779296875,
+        "text": " Thank you."
+      },
+      {
+        "id": 10,
+        "start": 37.279998779296875,
+        "end": 49.279998779296875,
+        "text": " Yeah, so we don't place one-time orders, but if you don't want to receive regular refills,"
+      },
+      {
+        "id": 11,
+        "start": 49.91999816894531,
+        "end": 56.91999816894531,
+        "text": " you certainly don't have to. You always have the option with your prescription to place"
+      },
+      {
+        "id": 12,
+        "start": 56.91999816894531,
+        "end": 61.91999816894531,
+        "text": " it on hold for up to six months at a time, just because six months is when the prescription"
+      },
+      {
+        "id": 13,
+        "start": 61.91999816894531,
+        "end": 68.91999816894531,
+        "text": " would expire if we didn't refill it. And the way that works is whenever you are ready to"
+      },
+      {
+        "id": 14,
+        "start": 68.91999816894531,
+        "end": 75.91999816894531,
+        "text": " order, you can, you just would have to give us a call before then. So that would be before"
+      },
+      {
+        "id": 15,
+        "start": 75.91999816894531,
+        "end": 76.91999816894531,
+        "text": " July 27th."
+      },
+      {
+        "id": 16,
+        "start": 77.55999755859375,
+        "end": 82.55999755859375,
+        "text": " So how do I put, that's what I want to do then. I want to put it on hold."
+      },
+      {
+        "id": 17,
+        "start": 82.55999755859375,
+        "end": 90.55999755859375,
+        "text": " Okay, great. So yeah, anything you need before July 27th, just give us a call at December"
+      },
+      {
+        "id": 18,
+        "start": 90.55999755859375,
+        "end": 94.55999755859375,
+        "text": " Monday through Friday 8 to 5 to place the order yourself."
+      },
+      {
+        "id": 19,
+        "start": 94.55999755859375,
+        "end": 99.55999755859375,
+        "text": " So I'm not, I'm not automatically going to receive something. They're not automatically"
+      },
+      {
+        "id": 20,
+        "start": 99.55999755859375,
+        "end": 102.55999755859375,
+        "text": " going to charge me, charge my account, correct?"
+      },
+      {
+        "id": 21,
+        "start": 103.19999694824219,
+        "end": 108.19999694824219,
+        "text": " Right. The prescription, yeah, is on hold the next six months. So if you need anything,"
+      },
+      {
+        "id": 22,
+        "start": 108.19999694824219,
+        "end": 109.19999694824219,
+        "text": " just let us know."
+      },
+      {
+        "id": 23,
+        "start": 109.19999694824219,
+        "end": 112.19999694824219,
+        "text": " All right. Thank you, Olivia. I appreciate that."
+      },
+      {
+        "id": 24,
+        "start": 112.19999694824219,
+        "end": 114.19999694824219,
+        "text": " Yeah, I hope you have a great day, Greg."
+      },
+      {
+        "id": 25,
+        "start": 114.19999694824219,
+        "end": 116.19999694824219,
+        "text": " Thank you. Hey, Olivia?"
+      },
+      {
+        "id": 26,
+        "start": 116.19999694824219,
+        "end": 117.19999694824219,
+        "text": " Yeah."
+      },
+      {
+        "id": 27,
+        "start": 117.19999694824219,
+        "end": 118.19999694824219,
+        "text": " Olivia?"
+      },
+      {
+        "id": 28,
+        "start": 118.19999694824219,
+        "end": 119.19999694824219,
+        "text": " Yes."
+      },
+      {
+        "id": 29,
+        "start": 119.19999694824219,
+        "end": 129.1999969482422,
+        "text": " So I tried one. It was, I don't know if it worked. Maybe it's just me. But I, anyway,"
+      },
+      {
+        "id": 30,
+        "start": 129.83999633789062,
+        "end": 133.83999633789062,
+        "text": " I'll try it another couple times. We'll see if it works or not. Thank you, Olivia."
+      },
+      {
+        "id": 31,
+        "start": 133.83999633789062,
+        "end": 134.83999633789062,
+        "text": " Okay."
+      },
+      {
+        "id": 32,
+        "start": 134.83999633789062,
+        "end": 135.83999633789062,
+        "text": " Appreciate all your help."
+      },
+      {
+        "id": 33,
+        "start": 135.83999633789062,
+        "end": 145.83999633789062,
+        "text": " Well, I will mention to you, yeah, if you have any issues, just let us know because"
+      },
+      {
+        "id": 34,
+        "start": 145.83999633789062,
+        "end": 157.83999633789062,
+        "text": " we do have an even newer product that we are sending out a free sample of. If you, if anything,"
+      },
+      {
+        "id": 35,
+        "start": 158.47999572753906,
+        "end": 162.47999572753906,
+        "text": " if you were interested in trying that, I could, I could send that out to you. So yeah, try"
+      },
+      {
+        "id": 36,
+        "start": 162.47999572753906,
+        "end": 168.47999572753906,
+        "text": " them a few more times and yeah, just call us back and let us know. Also, my extension"
+      },
+      {
+        "id": 37,
+        "start": 168.47999572753906,
+        "end": 174.47999572753906,
+        "text": " is 0016 if you ever want to reach me. But yeah, just let us know."
+      },
+      {
+        "id": 38,
+        "start": 174.47999572753906,
+        "end": 179.47999572753906,
+        "text": " All right. What's the new one? Is it a combination then or?"
+      },
+      {
+        "id": 39,
+        "start": 179.47999572753906,
+        "end": 185.47999572753906,
+        "text": " No, it's just, so it's still Viagra, right? But it comes directly from the Pfizer labs"
+      },
+      {
+        "id": 40,
+        "start": 186.1199951171875,
+        "end": 192.1199951171875,
+        "text": " in France and it is the fastest acting, longest lasting stuff we've ever made. But my favorite"
+      },
+      {
+        "id": 41,
+        "start": 192.1199951171875,
+        "end": 198.1199951171875,
+        "text": " thing about it is that we've specifically formulated it to cut out the side effects"
+      },
+      {
+        "id": 42,
+        "start": 198.1199951171875,
+        "end": 200.1199951171875,
+        "text": " of sinus agitation and headache."
+      },
+      {
+        "id": 43,
+        "start": 200.1199951171875,
+        "end": 204.1199951171875,
+        "text": " So isn't that what I ordered?"
+      },
+      {
+        "id": 44,
+        "start": 204.1199951171875,
+        "end": 212.1199951171875,
+        "text": " So the prescription, I, the reason I brought it up is the prescription I see for you is"
+      },
+      {
+        "id": 45,
+        "start": 212.75999450683594,
+        "end": 218.75999450683594,
+        "text": " American stuff. But if you want to try our newest, our French stuff, our AGB, I'd be"
+      },
+      {
+        "id": 46,
+        "start": 218.75999450683594,
+        "end": 222.75999450683594,
+        "text": " happy to send you out a free sample."
+      },
+      {
+        "id": 47,
+        "start": 222.75999450683594,
+        "end": 224.75999450683594,
+        "text": " Yeah, I'd like to do that if you don't mind."
+      },
+      {
+        "id": 48,
+        "start": 224.75999450683594,
+        "end": 230.75999450683594,
+        "text": " Yeah, of course. Okay, so I'll send it to you at 50 milligrams because that's what you're"
+      },
+      {
+        "id": 49,
+        "start": 230.75999450683594,
+        "end": 236.75999450683594,
+        "text": " already approved for. It's going to be 10 pills. Can I ship it to 7134 Dakota Drive,"
+      },
+      {
+        "id": 50,
+        "start": 236.75999450683594,
+        "end": 240.75999450683594,
+        "text": " West Des Moines, Iowa 50266?"
+      },
+      {
+        "id": 51,
+        "start": 241.39999389648438,
+        "end": 243.39999389648438,
+        "text": " Correct."
+      },
+      {
+        "id": 52,
+        "start": 243.39999389648438,
+        "end": 249.39999389648438,
+        "text": " Okay, perfect. So yeah, these will be out to you probably by the end of the week or"
+      },
+      {
+        "id": 53,
+        "start": 249.39999389648438,
+        "end": 255.39999389648438,
+        "text": " because of that winter storm, maybe midweek at the very latest of next week. And then"
+      },
+      {
+        "id": 54,
+        "start": 255.39999389648438,
+        "end": 261.3999938964844,
+        "text": " just a reminder, Greg, take the pills on an empty stomach. That piece is really important."
+      },
+      {
+        "id": 55,
+        "start": 261.3999938964844,
+        "end": 267.3999938964844,
+        "text": " And then you want to, you also want to avoid alcohol the day you take them just because"
+      },
+      {
+        "id": 56,
+        "start": 267.3999938964844,
+        "end": 269.3999938964844,
+        "text": " alcohol restricts blood flow."
+      },
+      {
+        "id": 57,
+        "start": 270.0400085449219,
+        "end": 272.0400085449219,
+        "text": " Okay. All right. I appreciate that."
+      },
+      {
+        "id": 58,
+        "start": 272.0400085449219,
+        "end": 274.0400085449219,
+        "text": " All righty. Well, thank you so much, Greg."
+      },
+      {
+        "id": 59,
+        "start": 274.0400085449219,
+        "end": 276.0400085449219,
+        "text": " Thank you, Olivia."
+      },
+      {
+        "id": 60,
+        "start": 276.0400085449219,
+        "end": 278.0400085449219,
+        "text": " Yeah, I hope you appreciate it."
+      },
+      {
+        "id": 61,
+        "start": 278.0400085449219,
+        "end": 280.0400085449219,
+        "text": " Appreciate your help. You too. Bye."
+      },
+      {
+        "id": 62,
+        "start": 280.0400085449219,
+        "end": 282.0400085449219,
+        "text": " Okay, bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ee-a793-cf39c9363d6c",
+    "url": "https://www.notion.so/300000001220145-300000001709990-2f611d0a101c81eea793cf39c9363d6c"
+  },
+  "processedAt": "2026-01-28T18:02:52.534Z"
+}

@@ -1,0 +1,137 @@
+{
+  "recording": {
+    "name": "300000001241767-300000001731444-6143162236 by lucif@superbalife.com @ 9_50_17 AM.wav",
+    "size": 187196,
+    "modifyTime": 1771005155000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241767-300000001731444-6143162236 by lucif@superbalife.com @ 9_50_17 AM.wav",
+    "uploadDate": "2026-02-13T17:52:35.000Z",
+    "callId": "300000001241767-300000001731444",
+    "agent": "lucif",
+    "phoneNumber": "6143162236",
+    "callTimestamp": "2026-02-13T09:50:17.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_lucif_300000001241767-300000001731444_6143162236.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_lucif_300000001241767-300000001731444_6143162236.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yes, hello. Good afternoon or good morning wherever you're at there. I want to cancel\n\nSpeaker 2: my subscription. Okay, let me pull up your account. What is your zip code?\n\nSpeaker 1: My zip code is 43229. And your first and last name?\n\nSpeaker 2: My first name is Michael, last name is McLaughlin, that is M-C-L-O-U-G-H-L-I-N.\n\nSpeaker 1: Alrighty, and I do see a VIP customer here with a certain\n\nSpeaker 2: mind if I ask why you're canceling?\n\nSpeaker 1: Because I want to cancel it, number one, all I did\n\nSpeaker 2: was I only did one order. I didn't know that I was going to be paying for additional orders\n\nSpeaker 1: for the last two months.\n\nSpeaker 2: Yes, that's up to you, sir. You can get your refills when you\n\nSpeaker 1: want or order as needed. It's totally up to you.\n\nSpeaker 2: Well, I understand that, but I've got\n\nSpeaker 1: 30 pills of Viagra and I don't have sex that much anyway. So all I wanted was one bottle\n\nSpeaker 2: and now I've been sent two more bottles and I've been charged twice. I want to cancel\n\nSpeaker 1: my subscription, please.\n\nSpeaker 2: Okay, so you don't want to order as needed so you can get this\n\nSpeaker 1: when you want it, if you have too much right now?\n\nSpeaker 2: No, ma'am, or yes, sir, I've had too\n\nSpeaker 1: much. It'll probably take me six months to go through those things.\n\nSpeaker 2: I mean, we can give you six months. No. You're not billed or sent anything.\n\nSpeaker 1: No, I want to cancel the subscription.\n\nSpeaker 2: Yes, no, I heard you the first time, sir. I'm just trying to see if there's any other\n\nSpeaker 1: way we can help you out here so you don't have to lose out on receiving.\n\nSpeaker 2: Trust me, I'm not losing out. I just want to cancel those subscriptions, please.\n\nSpeaker 1: All right, you're canceled, sir. You have a good day.\n\nSpeaker 2: All right. Thank you very much.",
+    "duration": 4383,
+    "audioDuration": 115.16000366210938,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 16.040000915527344,
+        "text": " Yes, hello. Good afternoon or good morning wherever you're at there. I want to cancel"
+      },
+      {
+        "id": 1,
+        "start": 16.040000915527344,
+        "end": 25.360000610351562,
+        "text": " my subscription. Okay, let me pull up your account. What is your zip code? My zip code"
+      },
+      {
+        "id": 2,
+        "start": 25.360000610351562,
+        "end": 34.720001220703125,
+        "text": " is 43229. And your first and last name? My first name is Michael, last name is McLaughlin,"
+      },
+      {
+        "id": 3,
+        "start": 34.720001220703125,
+        "end": 43,
+        "text": " that is M-C-L-O-U-G-H-L-I-N. Alrighty, and I do see a VIP customer here with a certain"
+      },
+      {
+        "id": 4,
+        "start": 43,
+        "end": 50.31999969482422,
+        "text": " mind if I ask why you're canceling? Because I want to cancel it, number one, all I did"
+      },
+      {
+        "id": 5,
+        "start": 50.31999969482422,
+        "end": 55.279998779296875,
+        "text": " was I only did one order. I didn't know that I was going to be paying for additional orders"
+      },
+      {
+        "id": 6,
+        "start": 55.279998779296875,
+        "end": 59.720001220703125,
+        "text": " for the last two months. Yes, that's up to you, sir. You can get your refills when you"
+      },
+      {
+        "id": 7,
+        "start": 59.720001220703125,
+        "end": 64.36000061035156,
+        "text": " want or order as needed. It's totally up to you. Well, I understand that, but I've got"
+      },
+      {
+        "id": 8,
+        "start": 64.36000061035156,
+        "end": 70.31999969482422,
+        "text": " 30 pills of Viagra and I don't have sex that much anyway. So all I wanted was one bottle"
+      },
+      {
+        "id": 9,
+        "start": 70.31999969482422,
+        "end": 75.5199966430664,
+        "text": " and now I've been sent two more bottles and I've been charged twice. I want to cancel"
+      },
+      {
+        "id": 10,
+        "start": 75.5199966430664,
+        "end": 80.04000091552734,
+        "text": " my subscription, please. Okay, so you don't want to order as needed so you can get this"
+      },
+      {
+        "id": 11,
+        "start": 80.04000091552734,
+        "end": 85.27999877929688,
+        "text": " when you want it, if you have too much right now? No, ma'am, or yes, sir, I've had too"
+      },
+      {
+        "id": 12,
+        "start": 85.27999877929688,
+        "end": 90.5999984741211,
+        "text": " much. It'll probably take me six months to go through those things. I mean, we can give"
+      },
+      {
+        "id": 13,
+        "start": 90.5999984741211,
+        "end": 97.91999816894531,
+        "text": " you six months. No. You're not billed or sent anything. No, I want to cancel the subscription."
+      },
+      {
+        "id": 14,
+        "start": 97.91999816894531,
+        "end": 102.16000366210938,
+        "text": " Yes, no, I heard you the first time, sir. I'm just trying to see if there's any other"
+      },
+      {
+        "id": 15,
+        "start": 102.16000366210938,
+        "end": 106.4800033569336,
+        "text": " way we can help you out here so you don't have to lose out on receiving. Trust me, I'm"
+      },
+      {
+        "id": 16,
+        "start": 106.4800033569336,
+        "end": 112.36000061035156,
+        "text": " not losing out. I just want to cancel those subscriptions, please. All right, you're canceled,"
+      },
+      {
+        "id": 17,
+        "start": 112.36000061035156,
+        "end": 115.19999694824219,
+        "text": " sir. You have a good day. All right. Thank you very much."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-815a-ab79-da9909075cff",
+    "url": "https://www.notion.so/300000001241767-300000001731444-30611d0a101c815aab79da9909075cff"
+  },
+  "processedAt": "2026-02-13T18:07:05.342Z"
+}

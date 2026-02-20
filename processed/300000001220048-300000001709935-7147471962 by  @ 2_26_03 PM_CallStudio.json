@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001220048-300000001709935-7147471962 by  @ 2_26_03 PM_CallStudio.wav",
+    "size": 22290,
+    "modifyTime": 1769552800000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220048-300000001709935-7147471962 by  @ 2_26_03 PM_CallStudio.wav",
+    "uploadDate": "2026-01-27T22:26:40.000Z",
+    "callId": "300000001220048-300000001709935",
+    "phoneNumber": "7147471962",
+    "callTimestamp": "2026-01-27T22:26:40.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: Cancellation.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1372,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 7,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 10,
+        "text": " Para Español Marquina Leda Lueve."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 11,
+        "text": " Cancellation."
+      },
+      {
+        "id": 4,
+        "start": 11,
+        "end": 12,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 12,
+        "end": 13.399999618530273,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8138-bf60-fa01d34c3fae",
+    "url": "https://www.notion.so/300000001220048-300000001709935-2f511d0a101c8138bf60fa01d34c3fae"
+  },
+  "processedAt": "2026-01-27T23:01:51.286Z"
+}

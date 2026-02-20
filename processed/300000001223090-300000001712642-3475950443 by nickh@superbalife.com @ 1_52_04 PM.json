@@ -1,0 +1,338 @@
+{
+  "recording": {
+    "name": "300000001223090-300000001712642-3475950443 by nickh@superbalife.com @ 1_52_04 PM.wav",
+    "size": 317910,
+    "modifyTime": 1769723742000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223090-300000001712642-3475950443 by nickh@superbalife.com @ 1_52_04 PM.wav",
+    "uploadDate": "2026-01-29T21:55:42.000Z",
+    "callId": "300000001223090-300000001712642",
+    "agent": "nickh",
+    "phoneNumber": "3475950443",
+    "callTimestamp": "2026-01-29T13:52:04.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I help you today?\n\nSpeaker 2: How are you doing? I just checked my bank, right,\n\nSpeaker 1: and there was a withdrawal from you guys for 169,\n\nSpeaker 2: or I guess it would be A-G-E-D.\n\nSpeaker 1: Can you check that for me?\n\nSpeaker 2: Of course I can. Yeah, of course, of course.\n\nSpeaker 1: Did I just get your full name, sir, and date of birth?\n\nSpeaker 2: Henry Jenkins, 1-20-49.\n\nSpeaker 1: So Mr. Jenkins, I see your prescription was for the quantity of 40 of the 100 mg Viagra A-G-V.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: All right.\n\nSpeaker 2: It looks like the doctor has you on refills, and yeah.\n\nSpeaker 1: So it looks like a refill went through on the 28th, and that's why you were charged that.\n\nSpeaker 2: You have a few options here, whatever you'd like to do.\n\nSpeaker 1: Normally, what I recommend for patients who really don't want these to come monthly,\n\nSpeaker 2: or in their case, tri-monthly, we put an extended pause on it.\n\nSpeaker 1: That allows you to kind of just call in and place orders as needed.\n\nSpeaker 2: Yeah, so I could adjust your prescription for any future refills to be like that.\n\nSpeaker 1: Okay, but hold on.\n\nSpeaker 2: So you're sent it out, right?\n\nSpeaker 1: Correct.\n\nSpeaker 2: So it has been assigned a tracking number.\n\nSpeaker 1: Okay, okay, because I haven't gotten any information about that.\n\nSpeaker 2: When I heard that you took the money out of the bank, I went and checked my mail,\n\nSpeaker 1: and I didn't see nothing there.\n\nSpeaker 2: So it hasn't arrived yet, put it that way.\n\nSpeaker 1: Exactly, correct.\n\nSpeaker 2: Okay, okay.\n\nSpeaker 1: So when it's getting ready to arrive, you're going to send out a tracking number for me?\n\nSpeaker 2: Exactly, yep, and then you'll know when to expect it.\n\nSpeaker 1: Okay, okay.\n\nSpeaker 2: Now, like you said before, yeah, I would like to do that instead of just checking it out.\n\nSpeaker 1: When I need it, I can call you guys and, you know, kind of order it like that.\n\nSpeaker 2: Okay, great.\n\nSpeaker 1: So I'll put that pause under your account here.\n\nSpeaker 2: Okay, sir, I went ahead and did that for you.\n\nSpeaker 1: You're all set.\n\nSpeaker 2: Okay, good, good.\n\nSpeaker 1: Another question.\n\nSpeaker 2: 100 milligrams is the highest, right?\n\nSpeaker 1: Yes, 100 milligrams are the highest prescription medication you can get of the Viagra.\n\nSpeaker 2: Okay, all right.\n\nSpeaker 1: Oh, the AHGV.\n\nSpeaker 2: Exactly, yeah.\n\nSpeaker 1: Okay, all right.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: I'll be looking forward for that then, okay?\n\nSpeaker 2: Happy to help.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 7920,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi, thank you for calling Viagra. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 11,
+        "text": " How are you doing? I just checked my bank, right,"
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 17,
+        "text": " and there was a withdrawal from you guys for 169,"
+      },
+      {
+        "id": 3,
+        "start": 17,
+        "end": 25,
+        "text": " or I guess it would be A-G-E-D."
+      },
+      {
+        "id": 4,
+        "start": 25,
+        "end": 28,
+        "text": " Can you check that for me?"
+      },
+      {
+        "id": 5,
+        "start": 28,
+        "end": 31,
+        "text": " Of course I can. Yeah, of course, of course."
+      },
+      {
+        "id": 6,
+        "start": 31,
+        "end": 35,
+        "text": " Did I just get your full name, sir, and date of birth?"
+      },
+      {
+        "id": 7,
+        "start": 35,
+        "end": 40,
+        "text": " Henry Jenkins, 1-20-49."
+      },
+      {
+        "id": 8,
+        "start": 40,
+        "end": 62,
+        "text": " So Mr. Jenkins, I see your prescription was for the quantity of 40 of the 100 mg Viagra A-G-V."
+      },
+      {
+        "id": 9,
+        "start": 62,
+        "end": 64,
+        "text": " Thank you."
+      },
+      {
+        "id": 10,
+        "start": 64,
+        "end": 67,
+        "text": " All right."
+      },
+      {
+        "id": 11,
+        "start": 67,
+        "end": 70,
+        "text": " It looks like the doctor has you on refills, and yeah."
+      },
+      {
+        "id": 12,
+        "start": 70,
+        "end": 75,
+        "text": " So it looks like a refill went through on the 28th, and that's why you were charged that."
+      },
+      {
+        "id": 13,
+        "start": 75,
+        "end": 79,
+        "text": " You have a few options here, whatever you'd like to do."
+      },
+      {
+        "id": 14,
+        "start": 79,
+        "end": 83,
+        "text": " Normally, what I recommend for patients who really don't want these to come monthly,"
+      },
+      {
+        "id": 15,
+        "start": 83,
+        "end": 87,
+        "text": " or in their case, tri-monthly, we put an extended pause on it."
+      },
+      {
+        "id": 16,
+        "start": 87,
+        "end": 92,
+        "text": " That allows you to kind of just call in and place orders as needed."
+      },
+      {
+        "id": 17,
+        "start": 93,
+        "end": 98,
+        "text": " Yeah, so I could adjust your prescription for any future refills to be like that."
+      },
+      {
+        "id": 18,
+        "start": 98,
+        "end": 99,
+        "text": " Okay, but hold on."
+      },
+      {
+        "id": 19,
+        "start": 99,
+        "end": 102,
+        "text": " So you're sent it out, right?"
+      },
+      {
+        "id": 20,
+        "start": 102,
+        "end": 103,
+        "text": " Correct."
+      },
+      {
+        "id": 21,
+        "start": 103,
+        "end": 106,
+        "text": " So it has been assigned a tracking number."
+      },
+      {
+        "id": 22,
+        "start": 106,
+        "end": 110,
+        "text": " Okay, okay, because I haven't gotten any information about that."
+      },
+      {
+        "id": 23,
+        "start": 110,
+        "end": 115,
+        "text": " When I heard that you took the money out of the bank, I went and checked my mail,"
+      },
+      {
+        "id": 24,
+        "start": 115,
+        "end": 116,
+        "text": " and I didn't see nothing there."
+      },
+      {
+        "id": 25,
+        "start": 116,
+        "end": 120,
+        "text": " So it hasn't arrived yet, put it that way."
+      },
+      {
+        "id": 26,
+        "start": 120,
+        "end": 122,
+        "text": " Exactly, correct."
+      },
+      {
+        "id": 27,
+        "start": 122,
+        "end": 123,
+        "text": " Okay, okay."
+      },
+      {
+        "id": 28,
+        "start": 123,
+        "end": 128,
+        "text": " So when it's getting ready to arrive, you're going to send out a tracking number for me?"
+      },
+      {
+        "id": 29,
+        "start": 128,
+        "end": 133,
+        "text": " Exactly, yep, and then you'll know when to expect it."
+      },
+      {
+        "id": 30,
+        "start": 133,
+        "end": 134,
+        "text": " Okay, okay."
+      },
+      {
+        "id": 31,
+        "start": 134,
+        "end": 138,
+        "text": " Now, like you said before, yeah, I would like to do that instead of just checking it out."
+      },
+      {
+        "id": 32,
+        "start": 138,
+        "end": 142,
+        "text": " When I need it, I can call you guys and, you know, kind of order it like that."
+      },
+      {
+        "id": 33,
+        "start": 142,
+        "end": 143,
+        "text": " Okay, great."
+      },
+      {
+        "id": 34,
+        "start": 143,
+        "end": 146,
+        "text": " So I'll put that pause under your account here."
+      },
+      {
+        "id": 35,
+        "start": 150,
+        "end": 160,
+        "text": " Okay, sir, I went ahead and did that for you."
+      },
+      {
+        "id": 36,
+        "start": 160,
+        "end": 161,
+        "text": " You're all set."
+      },
+      {
+        "id": 37,
+        "start": 161,
+        "end": 163,
+        "text": " Okay, good, good."
+      },
+      {
+        "id": 38,
+        "start": 163,
+        "end": 165,
+        "text": " Another question."
+      },
+      {
+        "id": 39,
+        "start": 165,
+        "end": 168,
+        "text": " 100 milligrams is the highest, right?"
+      },
+      {
+        "id": 40,
+        "start": 168,
+        "end": 174,
+        "text": " Yes, 100 milligrams are the highest prescription medication you can get of the Viagra."
+      },
+      {
+        "id": 41,
+        "start": 174,
+        "end": 176,
+        "text": " Okay, all right."
+      },
+      {
+        "id": 42,
+        "start": 177,
+        "end": 181,
+        "text": " Oh, the AHGV."
+      },
+      {
+        "id": 43,
+        "start": 181,
+        "end": 183,
+        "text": " Exactly, yeah."
+      },
+      {
+        "id": 44,
+        "start": 183,
+        "end": 185,
+        "text": " Okay, all right."
+      },
+      {
+        "id": 45,
+        "start": 185,
+        "end": 186,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 46,
+        "start": 186,
+        "end": 188,
+        "text": " I'll be looking forward for that then, okay?"
+      },
+      {
+        "id": 47,
+        "start": 188,
+        "end": 189,
+        "text": " Happy to help."
+      },
+      {
+        "id": 48,
+        "start": 189,
+        "end": 190,
+        "text": " Thank you."
+      },
+      {
+        "id": 49,
+        "start": 190,
+        "end": 191,
+        "text": " Thank you."
+      },
+      {
+        "id": 50,
+        "start": 191,
+        "end": 192,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 51,
+        "start": 192,
+        "end": 193,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8156-9a41-fda14530be8e",
+    "url": "https://www.notion.so/300000001223090-300000001712642-2f711d0a101c81569a41fda14530be8e"
+  },
+  "processedAt": "2026-01-29T22:06:04.233Z"
+}

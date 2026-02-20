@@ -1,0 +1,506 @@
+{
+  "recording": {
+    "name": "300000001219135-300000001709259-8282698432 by johanna@superbalife.com @ 10_07_36 AM.wav",
+    "size": 233800,
+    "modifyTime": 1769592435000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219135-300000001709259-8282698432 by johanna@superbalife.com @ 10_07_36 AM.wav",
+    "uploadDate": "2026-01-28T09:27:15.000Z",
+    "callId": "300000001219135-300000001709259",
+    "agent": "johanna",
+    "phoneNumber": "8282698432",
+    "callTimestamp": "2026-01-28T10:07:36.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Mr. Black, thank you so much for your patience.\n\nSpeaker 2: I have your account pulled up here.\n\nSpeaker 1: And you wanted to place another order for the AGV Viagra?\n\nSpeaker 2: My normal retail.\n\nSpeaker 1: I'm just normal retail.\n\nSpeaker 2: Okay.\n\nSpeaker 1: You got it, sir.\n\nSpeaker 2: So you wanted to get the same thing as before, right?\n\nSpeaker 1: The Viagra 100 milligram, a quantity of 30?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Excellent.\n\nSpeaker 2: Right.\n\nSpeaker 1: Exactly.\n\nSpeaker 2: I've got shipping address is 3029 Heathgate Court.\n\nSpeaker 1: Exactly.\n\nSpeaker 2: And I've got the visa ending in 7362.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And how much are you charging me for that?\n\nSpeaker 1: Let me see what we were...\n\nSpeaker 2: Okay.\n\nSpeaker 1: So the total for that would be 6395.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: That's correct.\n\nSpeaker 1: Sure.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Let me get that for you.\n\nSpeaker 2: Okay, sir.\n\nSpeaker 1: For some reason, it said the transaction was declined.\n\nSpeaker 2: What?\n\nSpeaker 1: The total would be 6395.\n\nSpeaker 2: And again, the card I have on file is visa ending in 7362 expires on 7-28.\n\nSpeaker 1: Hold on.\n\nSpeaker 2: Hold on.\n\nSpeaker 1: Hold on.\n\nSpeaker 2: Hold on.\n\nSpeaker 1: Hold on.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Let me make sure.\n\nSpeaker 2: Because I know I've got enough money in there to cover that.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Visa ending in 7362.\n\nSpeaker 1: Correct.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Let me see.\n\nSpeaker 2: Did you try that again?\n\nSpeaker 1: I guess I'm going to try that again.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, sir.\n\nSpeaker 2: It went through.\n\nSpeaker 1: I don't know why the system did it.\n\nSpeaker 2: I was about to say, what are you doing?\n\nSpeaker 1: I'm sorry, I did a quick refill and it didn't, but then I did it manually and it went through.\n\nSpeaker 2: So you're all set.\n\nSpeaker 1: That's at the pharmacy.\n\nSpeaker 2: You'll get it in five days or less.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay, and I'm going to go ahead and close the call.\n\nSpeaker 2: I'm going to go ahead and call my number.\n\nSpeaker 1: I'll be right back.\n\nSpeaker 2: Good.",
+    "duration": 19199,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.9600000381469727,
+        "text": " Mr. Black, thank you so much for your patience."
+      },
+      {
+        "id": 1,
+        "start": 3.9600000381469727,
+        "end": 6.119999885559082,
+        "text": " I have your account pulled up here."
+      },
+      {
+        "id": 2,
+        "start": 6.119999885559082,
+        "end": 12.300000190734863,
+        "text": " And you wanted to place another order for the AGV Viagra?"
+      },
+      {
+        "id": 3,
+        "start": 12.300000190734863,
+        "end": 13.300000190734863,
+        "text": " My normal retail."
+      },
+      {
+        "id": 4,
+        "start": 13.300000190734863,
+        "end": 14.300000190734863,
+        "text": " I'm just normal retail."
+      },
+      {
+        "id": 5,
+        "start": 14.300000190734863,
+        "end": 15.300000190734863,
+        "text": " Okay."
+      },
+      {
+        "id": 6,
+        "start": 15.300000190734863,
+        "end": 16.299999237060547,
+        "text": " You got it, sir."
+      },
+      {
+        "id": 7,
+        "start": 16.299999237060547,
+        "end": 17.299999237060547,
+        "text": " So you wanted to get the same thing as before, right?"
+      },
+      {
+        "id": 8,
+        "start": 17.299999237060547,
+        "end": 18.299999237060547,
+        "text": " The Viagra 100 milligram, a quantity of 30?"
+      },
+      {
+        "id": 9,
+        "start": 18.299999237060547,
+        "end": 19.299999237060547,
+        "text": " Yeah."
+      },
+      {
+        "id": 10,
+        "start": 19.299999237060547,
+        "end": 20.299999237060547,
+        "text": " Excellent."
+      },
+      {
+        "id": 11,
+        "start": 20.299999237060547,
+        "end": 21.299999237060547,
+        "text": " Right."
+      },
+      {
+        "id": 12,
+        "start": 21.299999237060547,
+        "end": 22.299999237060547,
+        "text": " Exactly."
+      },
+      {
+        "id": 13,
+        "start": 22.299999237060547,
+        "end": 23.299999237060547,
+        "text": " I've got shipping address is 3029 Heathgate Court."
+      },
+      {
+        "id": 14,
+        "start": 23.299999237060547,
+        "end": 24.299999237060547,
+        "text": " Exactly."
+      },
+      {
+        "id": 15,
+        "start": 25.299999237060547,
+        "end": 34.29999923706055,
+        "text": " And I've got the visa ending in 7362."
+      },
+      {
+        "id": 16,
+        "start": 34.29999923706055,
+        "end": 35.29999923706055,
+        "text": " Okay."
+      },
+      {
+        "id": 17,
+        "start": 35.29999923706055,
+        "end": 38.29999923706055,
+        "text": " And how much are you charging me for that?"
+      },
+      {
+        "id": 18,
+        "start": 38.29999923706055,
+        "end": 40.29999923706055,
+        "text": " Let me see what we were..."
+      },
+      {
+        "id": 19,
+        "start": 40.29999923706055,
+        "end": 41.29999923706055,
+        "text": " Okay."
+      },
+      {
+        "id": 20,
+        "start": 41.29999923706055,
+        "end": 44.29999923706055,
+        "text": " So the total for that would be 6395."
+      },
+      {
+        "id": 21,
+        "start": 44.29999923706055,
+        "end": 45.29999923706055,
+        "text": " Okay."
+      },
+      {
+        "id": 22,
+        "start": 45.29999923706055,
+        "end": 46.29999923706055,
+        "text": " Thank you."
+      },
+      {
+        "id": 23,
+        "start": 46.29999923706055,
+        "end": 47.29999923706055,
+        "text": " That's correct."
+      },
+      {
+        "id": 24,
+        "start": 47.29999923706055,
+        "end": 48.29999923706055,
+        "text": " Sure."
+      },
+      {
+        "id": 25,
+        "start": 48.29999923706055,
+        "end": 49.29999923706055,
+        "text": " Okay."
+      },
+      {
+        "id": 26,
+        "start": 49.29999923706055,
+        "end": 50.29999923706055,
+        "text": " Let me get that for you."
+      },
+      {
+        "id": 27,
+        "start": 50.29999923706055,
+        "end": 51.29999923706055,
+        "text": " Okay, sir."
+      },
+      {
+        "id": 28,
+        "start": 51.29999923706055,
+        "end": 52.29999923706055,
+        "text": " For some reason, it said the transaction was declined."
+      },
+      {
+        "id": 29,
+        "start": 52.29999923706055,
+        "end": 53.29999923706055,
+        "text": " What?"
+      },
+      {
+        "id": 30,
+        "start": 53.29999923706055,
+        "end": 54.29999923706055,
+        "text": " The total would be 6395."
+      },
+      {
+        "id": 31,
+        "start": 54.29999923706055,
+        "end": 55.29999923706055,
+        "text": " And again, the card I have on file is visa ending in 7362 expires on 7-28."
+      },
+      {
+        "id": 32,
+        "start": 55.29999923706055,
+        "end": 56.29999923706055,
+        "text": " Hold on."
+      },
+      {
+        "id": 33,
+        "start": 56.29999923706055,
+        "end": 57.29999923706055,
+        "text": " Hold on."
+      },
+      {
+        "id": 34,
+        "start": 57.29999923706055,
+        "end": 58.29999923706055,
+        "text": " Hold on."
+      },
+      {
+        "id": 35,
+        "start": 58.29999923706055,
+        "end": 59.29999923706055,
+        "text": " Hold on."
+      },
+      {
+        "id": 36,
+        "start": 59.29999923706055,
+        "end": 60.29999923706055,
+        "text": " Hold on."
+      },
+      {
+        "id": 37,
+        "start": 60.29999923706055,
+        "end": 61.29999923706055,
+        "text": " Okay."
+      },
+      {
+        "id": 38,
+        "start": 61.29999923706055,
+        "end": 62.29999923706055,
+        "text": " Let me make sure."
+      },
+      {
+        "id": 39,
+        "start": 62.29999923706055,
+        "end": 63.29999923706055,
+        "text": " Because I know I've got enough money in there to cover that."
+      },
+      {
+        "id": 40,
+        "start": 63.29999923706055,
+        "end": 64.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 41,
+        "start": 64.30000305175781,
+        "end": 65.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 42,
+        "start": 65.30000305175781,
+        "end": 66.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 43,
+        "start": 66.30000305175781,
+        "end": 67.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 44,
+        "start": 67.30000305175781,
+        "end": 68.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 45,
+        "start": 68.30000305175781,
+        "end": 69.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 46,
+        "start": 69.30000305175781,
+        "end": 70.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 47,
+        "start": 70.30000305175781,
+        "end": 71.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 48,
+        "start": 71.30000305175781,
+        "end": 72.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 49,
+        "start": 72.30000305175781,
+        "end": 73.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 50,
+        "start": 73.30000305175781,
+        "end": 74.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 51,
+        "start": 74.30000305175781,
+        "end": 75.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 52,
+        "start": 75.30000305175781,
+        "end": 76.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 53,
+        "start": 76.30000305175781,
+        "end": 77.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 54,
+        "start": 77.30000305175781,
+        "end": 78.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 55,
+        "start": 78.30000305175781,
+        "end": 79.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 56,
+        "start": 79.30000305175781,
+        "end": 80.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 57,
+        "start": 80.30000305175781,
+        "end": 81.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 58,
+        "start": 81.30000305175781,
+        "end": 82.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 59,
+        "start": 82.30000305175781,
+        "end": 83.30000305175781,
+        "text": " Visa ending in 7362."
+      },
+      {
+        "id": 60,
+        "start": 83.30000305175781,
+        "end": 84.30000305175781,
+        "text": " Correct."
+      },
+      {
+        "id": 61,
+        "start": 84.30000305175781,
+        "end": 85.30000305175781,
+        "text": " Yeah."
+      },
+      {
+        "id": 62,
+        "start": 85.30000305175781,
+        "end": 86.30000305175781,
+        "text": " Let me see."
+      },
+      {
+        "id": 63,
+        "start": 86.30000305175781,
+        "end": 87.30000305175781,
+        "text": " Did you try that again?"
+      },
+      {
+        "id": 64,
+        "start": 87.30000305175781,
+        "end": 106.30000305175781,
+        "text": " I guess I'm going to try that again."
+      },
+      {
+        "id": 65,
+        "start": 106.30000305175781,
+        "end": 108.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 66,
+        "start": 109.30000305175781,
+        "end": 122.30000305175781,
+        "text": " Okay, sir."
+      },
+      {
+        "id": 67,
+        "start": 122.30000305175781,
+        "end": 123.30000305175781,
+        "text": " It went through."
+      },
+      {
+        "id": 68,
+        "start": 123.30000305175781,
+        "end": 124.30000305175781,
+        "text": " I don't know why the system did it."
+      },
+      {
+        "id": 69,
+        "start": 124.30000305175781,
+        "end": 125.30000305175781,
+        "text": " I was about to say, what are you doing?"
+      },
+      {
+        "id": 70,
+        "start": 125.30000305175781,
+        "end": 126.30000305175781,
+        "text": " I'm sorry, I did a quick refill and it didn't, but then I did it manually and it went through."
+      },
+      {
+        "id": 71,
+        "start": 126.30000305175781,
+        "end": 127.30000305175781,
+        "text": " So you're all set."
+      },
+      {
+        "id": 72,
+        "start": 127.30000305175781,
+        "end": 128.3000030517578,
+        "text": " That's at the pharmacy."
+      },
+      {
+        "id": 73,
+        "start": 128.3000030517578,
+        "end": 129.3000030517578,
+        "text": " You'll get it in five days or less."
+      },
+      {
+        "id": 74,
+        "start": 129.3000030517578,
+        "end": 130.3000030517578,
+        "text": " All right."
+      },
+      {
+        "id": 75,
+        "start": 130.3000030517578,
+        "end": 131.3000030517578,
+        "text": " Thank you."
+      },
+      {
+        "id": 76,
+        "start": 131.3000030517578,
+        "end": 132.3000030517578,
+        "text": " Okay, and I'm going to go ahead and close the call."
+      },
+      {
+        "id": 77,
+        "start": 132.3000030517578,
+        "end": 133.3000030517578,
+        "text": " I'm going to go ahead and call my number."
+      },
+      {
+        "id": 78,
+        "start": 133.3000030517578,
+        "end": 134.3000030517578,
+        "text": " I'll be right back."
+      },
+      {
+        "id": 79,
+        "start": 134.3000030517578,
+        "end": 135.3000030517578,
+        "text": " Good."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-812b-b8ce-f1eadea9b98f",
+    "url": "https://www.notion.so/300000001219135-300000001709259-2f611d0a101c812bb8cef1eadea9b98f"
+  },
+  "processedAt": "2026-01-28T10:36:20.667Z"
+}

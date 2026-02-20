@@ -1,0 +1,97 @@
+{
+  "recording": {
+    "name": "300000001239484-300000001729137-5016721608 by  @ 3_34_07 PM_CallStudio.wav",
+    "size": 60576,
+    "modifyTime": 1770852906000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239484-300000001729137-5016721608 by  @ 3_34_07 PM_CallStudio.wav",
+    "uploadDate": "2026-02-11T23:35:06.000Z",
+    "callId": "300000001239484-300000001729137",
+    "phoneNumber": "5016721608",
+    "callTimestamp": "2026-02-11T23:35:06.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: This is a natural language AI.\n\nSpeaker 2: Just say what you would like to do.\n\nSpeaker 1: For example, track an order or send me to the billing department.\n\nSpeaker 2: Let's try again.\n\nSpeaker 1: Please state the reason for your call.\n\nSpeaker 2: Order.\n\nSpeaker 1: I heard you say order.\n\nSpeaker 2: Say yes or press 1 if this is correct.\n\nSpeaker 1: Otherwise say no.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 1510,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 14,
+        "text": " This is a natural language AI."
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 16,
+        "text": " Just say what you would like to do."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 20,
+        "text": " For example, track an order or send me to the billing department."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 22,
+        "text": " Let's try again."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 24,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 7,
+        "start": 25,
+        "end": 26,
+        "text": " Order."
+      },
+      {
+        "id": 8,
+        "start": 28,
+        "end": 30,
+        "text": " I heard you say order."
+      },
+      {
+        "id": 9,
+        "start": 30,
+        "end": 33,
+        "text": " Say yes or press 1 if this is correct."
+      },
+      {
+        "id": 10,
+        "start": 33,
+        "end": 35,
+        "text": " Otherwise say no."
+      },
+      {
+        "id": 11,
+        "start": 35,
+        "end": 37,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-812e-93ae-c76350428cba",
+    "url": "https://www.notion.so/300000001239484-300000001729137-30511d0a101c812e93aec76350428cba"
+  },
+  "processedAt": "2026-02-12T00:09:06.597Z"
+}

@@ -1,0 +1,233 @@
+{
+  "recording": {
+    "name": "300000001241956-300000001731569-7169350442 by josimar@superbalife.com @ 10_49_42 AM.wav",
+    "size": 200846,
+    "modifyTime": 1771008729000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241956-300000001731569-7169350442 by josimar@superbalife.com @ 10_49_42 AM.wav",
+    "uploadDate": "2026-02-13T18:52:09.000Z",
+    "callId": "300000001241956-300000001731569",
+    "agent": "josimar",
+    "phoneNumber": "7169350442",
+    "callTimestamp": "2026-02-13T10:49:42.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_josimar_300000001241956-300000001731569_7169350442.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_josimar_300000001241956-300000001731569_7169350442.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yes, I just took my money off my card, you know what I mean, my name is Art Swain, you\n\nSpeaker 2: need me no information or nothing.\n\nSpeaker 1: So were you calling to take a look at your refill or did you put an order in?\n\nSpeaker 2: I put an order in.\n\nSpeaker 1: Yeah, so if you put an order in, you purchased a product, meaning that they had to take the\n\nSpeaker 2: funds out of the card, but it takes 24 hours to get your notification and 24 hours to adopt\n\nSpeaker 1: it.\n\nSpeaker 2: But you didn't tell me how much it was.\n\nSpeaker 1: You didn't tell me how much it was when I pushed the button.\n\nSpeaker 2: Well, I can review that for you now since you're calling us.\n\nSpeaker 1: What's your last name and a zip code?\n\nSpeaker 2: Swain, S-W-A-I-N, zip code 14211.\n\nSpeaker 1: Okay, one moment.\n\nSpeaker 2: Okay, so your total is $63.95 for 10 pills of the Viagra AGV.\n\nSpeaker 1: 63?\n\nSpeaker 2: Yeah, correct.\n\nSpeaker 1: That's the price for the AGV Viagra.\n\nSpeaker 2: It says, it definitely says $45, man.\n\nSpeaker 1: It's 49 or the pharmacy fee of $14 comes out to the total of 63, sir.\n\nSpeaker 2: So you took the money off my card already?\n\nSpeaker 1: Well, correct.\n\nSpeaker 2: I just confirmed to you what we billed.\n\nSpeaker 1: Okay, all right, all right.\n\nSpeaker 2: So how long will it be before I get it?\n\nSpeaker 1: Three to five business days.\n\nSpeaker 2: Three to five business days.\n\nSpeaker 1: Okay, could you do this for me?\n\nSpeaker 2: Okay, I want that order, but I'm not ordering for you all no more,\n\nSpeaker 1: so after that just tell my card, okay?\n\nSpeaker 2: Well, you have to contact us after you receive the order to cancel it.\n\nSpeaker 1: So once you receive the order, just contact us.\n\nSpeaker 2: All right, thank you.\n\nSpeaker 1: No problem.\n\nSpeaker 2: Bye-bye.",
+    "duration": 4423,
+    "audioDuration": 123.55999755859375,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 12.760000228881836,
+        "text": " Yes, I just took my money off my card, you know what I mean, my name is Art Swain, you"
+      },
+      {
+        "id": 1,
+        "start": 12.760000228881836,
+        "end": 16.239999771118164,
+        "text": " need me no information or nothing."
+      },
+      {
+        "id": 2,
+        "start": 16.239999771118164,
+        "end": 20.68000030517578,
+        "text": " So were you calling to take a look at your refill or did you put an order in?"
+      },
+      {
+        "id": 3,
+        "start": 20.68000030517578,
+        "end": 21.68000030517578,
+        "text": " I put an order in."
+      },
+      {
+        "id": 4,
+        "start": 21.68000030517578,
+        "end": 26.68000030517578,
+        "text": " Yeah, so if you put an order in, you purchased a product, meaning that they had to take the"
+      },
+      {
+        "id": 5,
+        "start": 26.68000030517578,
+        "end": 32.7599983215332,
+        "text": " funds out of the card, but it takes 24 hours to get your notification and 24 hours to adopt"
+      },
+      {
+        "id": 6,
+        "start": 32.7599983215332,
+        "end": 33.7599983215332,
+        "text": " it."
+      },
+      {
+        "id": 7,
+        "start": 33.7599983215332,
+        "end": 34.7599983215332,
+        "text": " But you didn't tell me how much it was."
+      },
+      {
+        "id": 8,
+        "start": 34.7599983215332,
+        "end": 37.08000183105469,
+        "text": " You didn't tell me how much it was when I pushed the button."
+      },
+      {
+        "id": 9,
+        "start": 37.08000183105469,
+        "end": 40.400001525878906,
+        "text": " Well, I can review that for you now since you're calling us."
+      },
+      {
+        "id": 10,
+        "start": 40.400001525878906,
+        "end": 43.560001373291016,
+        "text": " What's your last name and a zip code?"
+      },
+      {
+        "id": 11,
+        "start": 43.560001373291016,
+        "end": 47.560001373291016,
+        "text": " Swain, S-W-A-I-N, zip code 14211."
+      },
+      {
+        "id": 12,
+        "start": 47.560001373291016,
+        "end": 52.560001373291016,
+        "text": " Okay, one moment."
+      },
+      {
+        "id": 13,
+        "start": 52.560001373291016,
+        "end": 72.55999755859375,
+        "text": " Okay, so your total is $63.95 for 10 pills of the Viagra AGV."
+      },
+      {
+        "id": 14,
+        "start": 72.55999755859375,
+        "end": 73.55999755859375,
+        "text": " 63?"
+      },
+      {
+        "id": 15,
+        "start": 73.55999755859375,
+        "end": 74.55999755859375,
+        "text": " Yeah, correct."
+      },
+      {
+        "id": 16,
+        "start": 74.55999755859375,
+        "end": 77.55999755859375,
+        "text": " That's the price for the AGV Viagra."
+      },
+      {
+        "id": 17,
+        "start": 77.55999755859375,
+        "end": 80.55999755859375,
+        "text": " It says, it definitely says $45, man."
+      },
+      {
+        "id": 18,
+        "start": 80.55999755859375,
+        "end": 85.55999755859375,
+        "text": " It's 49 or the pharmacy fee of $14 comes out to the total of 63, sir."
+      },
+      {
+        "id": 19,
+        "start": 85.55999755859375,
+        "end": 93.55999755859375,
+        "text": " So you took the money off my card already?"
+      },
+      {
+        "id": 20,
+        "start": 93.55999755859375,
+        "end": 95.55999755859375,
+        "text": " Well, correct."
+      },
+      {
+        "id": 21,
+        "start": 95.55999755859375,
+        "end": 97.55999755859375,
+        "text": " I just confirmed to you what we billed."
+      },
+      {
+        "id": 22,
+        "start": 97.55999755859375,
+        "end": 98.55999755859375,
+        "text": " Okay, all right, all right."
+      },
+      {
+        "id": 23,
+        "start": 98.55999755859375,
+        "end": 100.55999755859375,
+        "text": " So how long will it be before I get it?"
+      },
+      {
+        "id": 24,
+        "start": 100.55999755859375,
+        "end": 102.55999755859375,
+        "text": " Three to five business days."
+      },
+      {
+        "id": 25,
+        "start": 102.55999755859375,
+        "end": 104.55999755859375,
+        "text": " Three to five business days."
+      },
+      {
+        "id": 26,
+        "start": 104.55999755859375,
+        "end": 106.55999755859375,
+        "text": " Okay, could you do this for me?"
+      },
+      {
+        "id": 27,
+        "start": 106.55999755859375,
+        "end": 109.55999755859375,
+        "text": " Okay, I want that order, but I'm not ordering for you all no more,"
+      },
+      {
+        "id": 28,
+        "start": 109.55999755859375,
+        "end": 112.55999755859375,
+        "text": " so after that just tell my card, okay?"
+      },
+      {
+        "id": 29,
+        "start": 112.55999755859375,
+        "end": 116.55999755859375,
+        "text": " Well, you have to contact us after you receive the order to cancel it."
+      },
+      {
+        "id": 30,
+        "start": 116.55999755859375,
+        "end": 119.55999755859375,
+        "text": " So once you receive the order, just contact us."
+      },
+      {
+        "id": 31,
+        "start": 119.55999755859375,
+        "end": 120.55999755859375,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 32,
+        "start": 120.55999755859375,
+        "end": 121.55999755859375,
+        "text": " No problem."
+      },
+      {
+        "id": 33,
+        "start": 121.55999755859375,
+        "end": 122.55999755859375,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8168-85c3-f2d2a9bc3972",
+    "url": "https://www.notion.so/300000001241956-300000001731569-30611d0a101c816885c3f2d2a9bc3972"
+  },
+  "processedAt": "2026-02-13T19:02:18.512Z"
+}

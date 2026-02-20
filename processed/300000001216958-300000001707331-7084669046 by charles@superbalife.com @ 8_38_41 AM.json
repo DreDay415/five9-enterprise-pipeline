@@ -1,0 +1,182 @@
+{
+  "recording": {
+    "name": "300000001216958-300000001707331-7084669046 by charles@superbalife.com @ 8_38_41 AM.wav",
+    "size": 133376,
+    "modifyTime": 1769586733000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216958-300000001707331-7084669046 by charles@superbalife.com @ 8_38_41 AM.wav",
+    "uploadDate": "2026-01-28T07:52:13.000Z",
+    "callId": "300000001216958-300000001707331",
+    "agent": "charles",
+    "phoneNumber": "7084669046",
+    "callTimestamp": "2026-01-28T08:38:41.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra. This is Charles.\n\nSpeaker 2: Hi.\n\nSpeaker 1: How are we doing?\n\nSpeaker 2: Okay. I'm calling about my account and the order you sent Staten Island.\n\nSpeaker 1: I've been trying to cancel it since 4-27 when I first received it.\n\nSpeaker 2: Okay. Antonio Lewis in Lafayette, Louisiana?\n\nSpeaker 1: Correct.\n\nSpeaker 2: Gotcha. Okay. So, Antonio, it looks like you did call in on the 28th.\n\nSpeaker 1: You are a VIP member here.\n\nSpeaker 2: I believe the last gentleman you spoke with mentioned that you're able to pause everything for six months at a time.\n\nSpeaker 1: So, back then, that would have been six months as of today.\n\nSpeaker 2: Are you still just not ready for any product at the moment?\n\nSpeaker 1: I'm no longer using those products.\n\nSpeaker 2: You're not using them? Okay. Was there an issue with them?\n\nSpeaker 1: No, just medical reasons.\n\nSpeaker 2: Just medical issues? Okay. Gotcha.\n\nSpeaker 1: Okay. Boom. Okay. So, this hasn't gone out yet.\n\nSpeaker 2: Let me reverse it right now.\n\nSpeaker 1: And then everything else is canceled.\n\nSpeaker 2: Good luck with your health, okay?\n\nSpeaker 1: I appreciate it. So, I would no longer be getting charged for anything.\n\nSpeaker 2: Yeah, nothing. And then this one just got reversed.\n\nSpeaker 1: So, it should hit your account in a couple of days, all right?\n\nSpeaker 2: I appreciate it. Thank you.\n\nSpeaker 1: Absolutely. Take care.\n\nSpeaker 2: Thank you.",
+    "duration": 3204,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thanks for calling Viagra. This is Charles."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 4,
+        "text": " Hi."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 6,
+        "text": " How are we doing?"
+      },
+      {
+        "id": 3,
+        "start": 6,
+        "end": 13,
+        "text": " Okay. I'm calling about my account and the order you sent Staten Island."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 19,
+        "text": " I've been trying to cancel it since 4-27 when I first received it."
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 23,
+        "text": " Okay. Antonio Lewis in Lafayette, Louisiana?"
+      },
+      {
+        "id": 6,
+        "start": 23,
+        "end": 25,
+        "text": " Correct."
+      },
+      {
+        "id": 7,
+        "start": 25,
+        "end": 29,
+        "text": " Gotcha. Okay. So, Antonio, it looks like you did call in on the 28th."
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 31,
+        "text": " You are a VIP member here."
+      },
+      {
+        "id": 9,
+        "start": 31,
+        "end": 36,
+        "text": " I believe the last gentleman you spoke with mentioned that you're able to pause everything for six months at a time."
+      },
+      {
+        "id": 10,
+        "start": 36,
+        "end": 40,
+        "text": " So, back then, that would have been six months as of today."
+      },
+      {
+        "id": 11,
+        "start": 40,
+        "end": 44,
+        "text": " Are you still just not ready for any product at the moment?"
+      },
+      {
+        "id": 12,
+        "start": 44,
+        "end": 46,
+        "text": " I'm no longer using those products."
+      },
+      {
+        "id": 13,
+        "start": 46,
+        "end": 50,
+        "text": " You're not using them? Okay. Was there an issue with them?"
+      },
+      {
+        "id": 14,
+        "start": 50,
+        "end": 53,
+        "text": " No, just medical reasons."
+      },
+      {
+        "id": 15,
+        "start": 53,
+        "end": 57,
+        "text": " Just medical issues? Okay. Gotcha."
+      },
+      {
+        "id": 16,
+        "start": 57,
+        "end": 61,
+        "text": " Okay. Boom. Okay. So, this hasn't gone out yet."
+      },
+      {
+        "id": 17,
+        "start": 61,
+        "end": 63,
+        "text": " Let me reverse it right now."
+      },
+      {
+        "id": 18,
+        "start": 63,
+        "end": 66,
+        "text": " And then everything else is canceled."
+      },
+      {
+        "id": 19,
+        "start": 66,
+        "end": 68,
+        "text": " Good luck with your health, okay?"
+      },
+      {
+        "id": 20,
+        "start": 68,
+        "end": 72,
+        "text": " I appreciate it. So, I would no longer be getting charged for anything."
+      },
+      {
+        "id": 21,
+        "start": 72,
+        "end": 74,
+        "text": " Yeah, nothing. And then this one just got reversed."
+      },
+      {
+        "id": 22,
+        "start": 74,
+        "end": 77,
+        "text": " So, it should hit your account in a couple of days, all right?"
+      },
+      {
+        "id": 23,
+        "start": 77,
+        "end": 79,
+        "text": " I appreciate it. Thank you."
+      },
+      {
+        "id": 24,
+        "start": 79,
+        "end": 81,
+        "text": " Absolutely. Take care."
+      },
+      {
+        "id": 25,
+        "start": 81,
+        "end": 82,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-819a-89cf-f33e3bc9f4f9",
+    "url": "https://www.notion.so/300000001216958-300000001707331-2f611d0a101c819a89cff33e3bc9f4f9"
+  },
+  "processedAt": "2026-01-28T13:39:41.841Z"
+}

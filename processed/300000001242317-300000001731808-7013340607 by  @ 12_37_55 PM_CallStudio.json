@@ -1,0 +1,58 @@
+{
+  "recording": {
+    "name": "300000001242317-300000001731808-7013340607 by  @ 12_37_55 PM_CallStudio.wav",
+    "size": 25866,
+    "modifyTime": 1771015115000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242317-300000001731808-7013340607 by  @ 12_37_55 PM_CallStudio.wav",
+    "uploadDate": "2026-02-13T20:38:35.000Z",
+    "callId": "300000001242317-300000001731808",
+    "phoneNumber": "7013340607",
+    "callTimestamp": "2026-02-13T20:38:35.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242317-300000001731808_7013340607.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242317-300000001731808_7013340607.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para español, marque número nueve.\n\nSpeaker 2: You charged my credit card $63 and I did not order anything.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1471,
+    "audioDuration": 15.880000114440918,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.119999885559082,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.119999885559082,
+        "end": 6.119999885559082,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.119999885559082,
+        "end": 9.399999618530273,
+        "text": " Para español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.399999618530273,
+        "end": 14.399999618530273,
+        "text": " You charged my credit card $63 and I did not order anything."
+      },
+      {
+        "id": 4,
+        "start": 14.399999618530273,
+        "end": 15.5600004196167,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-812c-a18b-e2c076e8b570",
+    "url": "https://www.notion.so/300000001242317-300000001731808-30611d0a101c812ca18be2c076e8b570"
+  },
+  "processedAt": "2026-02-13T21:01:23.884Z"
+}

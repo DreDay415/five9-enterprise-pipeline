@@ -1,0 +1,92 @@
+{
+  "recording": {
+    "name": "300000001239366-300000001729046-3134575121 by josimar@superbalife.com @ 2_42_43 PM.wav",
+    "size": 68376,
+    "modifyTime": 1770849827000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239366-300000001729046-3134575121 by josimar@superbalife.com @ 2_42_43 PM.wav",
+    "uploadDate": "2026-02-11T22:43:47.000Z",
+    "callId": "300000001239366-300000001729046",
+    "agent": "josimar",
+    "phoneNumber": "3134575121",
+    "callTimestamp": "2026-02-11T14:42:43.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, can I help you today?\n\nSpeaker 2: Yes, I placed an order days ago, and I haven't received anything yet.\n\nSpeaker 1: Yeah, I can see where your package is then, sir.\n\nSpeaker 2: What's your last name and a zip code?\n\nSpeaker 1: My last name is Evertz, and the zip code is 48209.\n\nSpeaker 2: Okay, your package will arrive Friday the 13th, sir.\n\nSpeaker 1: Okay, Friday the 13th?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Alrighty. Okay, that's all I needed to know.\n\nSpeaker 2: Well, you have a great day now. Bye-bye.\n\nSpeaker 1: And you too. Thank you so much.",
+    "duration": 1539,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Viagra, can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 9,
+        "text": " Yes, I placed an order days ago, and I haven't received anything yet."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 11,
+        "text": " Yeah, I can see where your package is then, sir."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 14,
+        "text": " What's your last name and a zip code?"
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 26,
+        "text": " My last name is Evertz, and the zip code is 48209."
+      },
+      {
+        "id": 5,
+        "start": 26,
+        "end": 30,
+        "text": " Okay, your package will arrive Friday the 13th, sir."
+      },
+      {
+        "id": 6,
+        "start": 30,
+        "end": 32,
+        "text": " Okay, Friday the 13th?"
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 33,
+        "text": " Yeah."
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 36,
+        "text": " Alrighty. Okay, that's all I needed to know."
+      },
+      {
+        "id": 9,
+        "start": 36,
+        "end": 38,
+        "text": " Well, you have a great day now. Bye-bye."
+      },
+      {
+        "id": 10,
+        "start": 38,
+        "end": 40,
+        "text": " And you too. Thank you so much."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-81c4-809c-f9ca772d2d1f",
+    "url": "https://www.notion.so/300000001239366-300000001729046-30411d0a101c81c4809cf9ca772d2d1f"
+  },
+  "processedAt": "2026-02-11T23:07:27.945Z"
+}

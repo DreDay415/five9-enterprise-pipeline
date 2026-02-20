@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001217413-300000001707760-6784718611 by  @ 10_17_26 AM_CallStudio.wav",
+    "size": 31780,
+    "modifyTime": 1769582833000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217413-300000001707760-6784718611 by  @ 10_17_26 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T06:47:13.000Z",
+    "callId": "300000001217413-300000001707760",
+    "phoneNumber": "6784718611",
+    "callTimestamp": "2026-01-28T06:47:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Free find.\n\nSpeaker 2: Para Español marque numero nueve.\n\nSpeaker 1: Free find.\n\nSpeaker 2: I heard you say, free find.\n\nSpeaker 1: Say yes or press the button.",
+    "duration": 1165,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.239999771118164,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.239999771118164,
+        "end": 7.239999771118164,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.239999771118164,
+        "end": 8.239999771118164,
+        "text": " Free find."
+      },
+      {
+        "id": 3,
+        "start": 8.239999771118164,
+        "end": 9.239999771118164,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 4,
+        "start": 9.239999771118164,
+        "end": 10.239999771118164,
+        "text": " Free find."
+      },
+      {
+        "id": 5,
+        "start": 10.239999771118164,
+        "end": 11.239999771118164,
+        "text": " I heard you say, free find."
+      },
+      {
+        "id": 6,
+        "start": 11.239999771118164,
+        "end": 12.239999771118164,
+        "text": " Say yes or press the button."
+      },
+      {
+        "id": 7,
+        "start": 12.239999771118164,
+        "end": 12.239999771118164,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a0-99d1-e48182c39554",
+    "url": "https://www.notion.so/300000001217413-300000001707760-2f611d0a101c81a099d1e48182c39554"
+  },
+  "processedAt": "2026-01-28T16:56:56.643Z"
+}

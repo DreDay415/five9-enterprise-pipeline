@@ -1,0 +1,59 @@
+{
+  "recording": {
+    "name": "300000001241992-300000001731593-7658938030 by josimar@superbalife.com @ 10_55_53 AM.wav",
+    "size": 27946,
+    "modifyTime": 1771008991000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241992-300000001731593-7658938030 by josimar@superbalife.com @ 10_55_53 AM.wav",
+    "uploadDate": "2026-02-13T18:56:31.000Z",
+    "callId": "300000001241992-300000001731593",
+    "agent": "josimar",
+    "phoneNumber": "7658938030",
+    "callTimestamp": "2026-02-13T10:55:53.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_josimar_300000001241992-300000001731593_7658938030.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_josimar_300000001241992-300000001731593_7658938030.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you today?\n\nSpeaker 2: Uh, Mr. Goodrich?\n\nSpeaker 1: Yeah, let me send you over.\n\nSpeaker 2: One moment.\n\nSpeaker 1: Okay.",
+    "duration": 820,
+    "audioDuration": 17.15999984741211,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling Viagra, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5,
+        "text": " Uh, Mr. Goodrich?"
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 7,
+        "text": " Yeah, let me send you over."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 11,
+        "text": " One moment."
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 13,
+        "text": " Okay."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-811f-b35a-f74d99558a27",
+    "url": "https://www.notion.so/300000001241992-300000001731593-30611d0a101c811fb35af74d99558a27"
+  },
+  "processedAt": "2026-02-13T18:58:54.283Z"
+}

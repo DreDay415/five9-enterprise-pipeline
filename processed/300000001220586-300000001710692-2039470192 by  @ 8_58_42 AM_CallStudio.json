@@ -1,0 +1,97 @@
+{
+  "recording": {
+    "name": "300000001220586-300000001710692-2039470192 by  @ 8_58_42 AM_CallStudio.wav",
+    "size": 131036,
+    "modifyTime": 1769619624000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220586-300000001710692-2039470192 by  @ 8_58_42 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T17:00:24.000Z",
+    "callId": "300000001220586-300000001710692",
+    "phoneNumber": "2039470192",
+    "callTimestamp": "2026-01-28T17:00:24.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Para español, marque número nueve.\n\nSpeaker 1: Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto y claro.\n\nSpeaker 2: For English, press nine.\n\nSpeaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Para español, marque número nueve.\n\nSpeaker 1: Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto y claro.\n\nSpeaker 2: For English, press nine.\n\nSpeaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Para español, marque número nueve.\n\nSpeaker 1: We didn't receive a response or I couldn't hear you. Let's try again.\n\nSpeaker 1: Please state the reason for your call.",
+    "duration": 4149,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 13,
+        "text": " Para español, marque número nueve."
+      },
+      {
+        "id": 2,
+        "start": 13,
+        "end": 19,
+        "text": " Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto y claro."
+      },
+      {
+        "id": 3,
+        "start": 19,
+        "end": 26,
+        "text": " For English, press nine."
+      },
+      {
+        "id": 4,
+        "start": 26,
+        "end": 31,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 5,
+        "start": 31,
+        "end": 39,
+        "text": " Para español, marque número nueve."
+      },
+      {
+        "id": 6,
+        "start": 39,
+        "end": 44,
+        "text": " Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto y claro."
+      },
+      {
+        "id": 7,
+        "start": 44,
+        "end": 51,
+        "text": " For English, press nine."
+      },
+      {
+        "id": 8,
+        "start": 51,
+        "end": 56,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 9,
+        "start": 56,
+        "end": 66,
+        "text": " Para español, marque número nueve."
+      },
+      {
+        "id": 10,
+        "start": 66,
+        "end": 71,
+        "text": " We didn't receive a response or I couldn't hear your. Let's try again."
+      },
+      {
+        "id": 11,
+        "start": 71,
+        "end": 81,
+        "text": " Please state the reason for your call."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ae-848c-e5f8aa5e8b39",
+    "url": "https://www.notion.so/300000001220586-300000001710692-2f611d0a101c81ae848ce5f8aa5e8b39"
+  },
+  "processedAt": "2026-01-28T18:45:13.960Z"
+}

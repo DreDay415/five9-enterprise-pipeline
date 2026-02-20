@@ -1,0 +1,116 @@
+{
+  "recording": {
+    "name": "300000001219211-300000001709322-5302236280 by summer@verifiednutrition.com @ 10_26_00 AM.wav",
+    "size": 72536,
+    "modifyTime": 1769584040000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219211-300000001709322-5302236280 by summer@verifiednutrition.com @ 10_26_00 AM.wav",
+    "uploadDate": "2026-01-28T07:07:20.000Z",
+    "callId": "300000001219211-300000001709322",
+    "agent": "summer",
+    "phoneNumber": "5302236280",
+    "callTimestamp": "2026-01-28T10:26:00.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service. I can help you.\n\nSpeaker 2: Yes, hi. I'd like to cancel a prescription, please.\n\nSpeaker 1: Sure. Let me pull up your account. Can I have your name, please?\n\nSpeaker 2: Wayne Barney, B-A-R-N-Y.\n\nSpeaker 1: What's your zip code?\n\nSpeaker 2: 9602.\n\nSpeaker 1: Wayne Barney, okay.\n\nSpeaker 1: All right, Wayne, I'm going to go ahead and just pause your account so you don't get any monthlies.\n\nSpeaker 1: And whenever you decide to place an order for this medication or any of the other medications we offer, you can call in and place the order, or you can do it online with our doctor that's assigned to you.\n\nSpeaker 2: Very good. Thank you for helping.\n\nSpeaker 1: You're welcome. Absolutely. Have a wonderful day.",
+    "duration": 1808,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling customer service. I can help you."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 6,
+        "text": " Yes, hi. I'd like to cancel a prescription, please."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 9,
+        "text": " Sure. Let me pull up your account. Can I have your name, please?"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 13,
+        "text": " Wayne Barney, B-A-R-N-Y."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 15,
+        "text": " What's your zip code?"
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 21,
+        "text": " 9602."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 25,
+        "text": " Wayne Barney, okay."
+      },
+      {
+        "id": 7,
+        "start": 25,
+        "end": 29,
+        "text": " All right, Wayne, I'm going to go ahead and just pause your account"
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 30,
+        "text": " so you don't get any monthlies."
+      },
+      {
+        "id": 9,
+        "start": 30,
+        "end": 32,
+        "text": " And whenever you decide to place an order for this medication"
+      },
+      {
+        "id": 10,
+        "start": 32,
+        "end": 34,
+        "text": " or any of the other medications we offer,"
+      },
+      {
+        "id": 11,
+        "start": 34,
+        "end": 36,
+        "text": " you can call in and place the order,"
+      },
+      {
+        "id": 12,
+        "start": 36,
+        "end": 38,
+        "text": " or you can do it online with our doctor that's assigned to you."
+      },
+      {
+        "id": 13,
+        "start": 38,
+        "end": 40,
+        "text": " Very good. Thank you for helping."
+      },
+      {
+        "id": 14,
+        "start": 40,
+        "end": 42,
+        "text": " You're welcome. Absolutely. Have a wonderful day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813c-aa37-ee2b30cdaeb8",
+    "url": "https://www.notion.so/300000001219211-300000001709322-2f611d0a101c813caa37ee2b30cdaeb8"
+  },
+  "processedAt": "2026-01-28T15:27:38.910Z"
+}

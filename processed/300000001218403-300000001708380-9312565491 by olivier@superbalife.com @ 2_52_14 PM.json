@@ -1,0 +1,344 @@
+{
+  "recording": {
+    "name": "300000001218403-300000001708380-9312565491 by olivier@superbalife.com @ 2_52_14 PM.wav",
+    "size": 240756,
+    "modifyTime": 1769582238000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218403-300000001708380-9312565491 by olivier@superbalife.com @ 2_52_14 PM.wav",
+    "uploadDate": "2026-01-28T06:37:18.000Z",
+    "callId": "300000001218403-300000001708380",
+    "agent": "olivier",
+    "phoneNumber": "9312565491",
+    "callTimestamp": "2026-01-28T14:52:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Vagra.\n\nSpeaker 2: Yes, I need a can of Mops, it's good. My name's Paul Atkinson.\n\nSpeaker 1: Yeah, I'm pulling your prescription.\n\nSpeaker 2: All right, Mr. Paul, yes, you have a prescription for Vagra, 50 mg, 10 tablets from Dr. Olcom.\n\nSpeaker 1: You just don't need the refill? You want an order as needed?\n\nSpeaker 2: No, I want to cancel everything. I don't want no one sending me no more of them.\n\nSpeaker 1: Okay. Yeah, you have the option to pose an order as needed to save the prescription, but if you're sure that you will not need Vagra in the future, we're not going to cancel the prescription.\n\nSpeaker 2: Yeah, but they already sent me another bottle that I did not order. It's $60,000 out of my bank account. I don't want no more.\n\nSpeaker 1: I got you, but I just want to clarify what happened was you got 10 tablets, so the doctor wrote it on a 30-day basis because you get 10, assuming that you're active.\n\nSpeaker 2: But when you're not active, you call to say, I'm not active.\n\nSpeaker 1: We're advising the pharmacy to pause, and you can just order as needed. That was just the initial prescription, assuming that you're active.\n\nSpeaker 2: You just got 10 pills, you know what I mean?\n\nSpeaker 1: Most people get, you know, more than that for the month, you know what I mean?\n\nSpeaker 2: But if you're not active, you can pause the account and order as needed. That's the option you have.\n\nSpeaker 1: You're not required to get it every month. This is not Netflix.\n\nSpeaker 2: It's a prescription.\n\nSpeaker 1: So if you say you don't need pills, you don't need pills, and to lock your price, you pause up to half a year.\n\nSpeaker 2: You get it once or twice a year, and that locks your price in as well, and you can reorder at any time.\n\nSpeaker 1: You just don't get monthly refills, basically.\n\nSpeaker 2: I'm just going to cancel it now if I could, please.\n\nSpeaker 1: Okay, okay. I'll do that for you.\n\nSpeaker 2: Just keep in mind, you know, if anything's changed, your price will be different because I just canceled a doctor consultation.\n\nSpeaker 1: And to serve you legally, Viagra, they need a prescription, so you're going to have to finance another one, which is going to impact your price.\n\nSpeaker 2: Just keep that in mind.\n\nSpeaker 1: That's why sometimes you want to pause if you need Viagra in the future.\n\nSpeaker 2: But I canceled everything, Mr. Atkinson.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Yeah, okay.\n\nSpeaker 1: You have a good one.\n\nSpeaker 2: You too.\n\nSpeaker 1: Bye-bye.",
+    "duration": 8481,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Vagra."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 5,
+        "text": " Yes, I need a can of Mops, it's good."
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 7,
+        "text": " Uh-huh."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 11,
+        "text": " My name's Paul Atkinson."
+      },
+      {
+        "id": 4,
+        "start": 11,
+        "end": 14,
+        "text": " Yeah, I'm pulling your prescription."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 26,
+        "text": " All right, Mr. Paul, yes, you have a prescription for Vagra, 50 mg,"
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 28,
+        "text": " 10 tablets from Dr. Olcom."
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 33,
+        "text": " You just don't need the refill? You want an order as needed?"
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 35,
+        "text": " No, I want to cancel everything."
+      },
+      {
+        "id": 9,
+        "start": 35,
+        "end": 37,
+        "text": " I don't want no one sending me no more of them."
+      },
+      {
+        "id": 10,
+        "start": 37,
+        "end": 39,
+        "text": " Okay."
+      },
+      {
+        "id": 11,
+        "start": 39,
+        "end": 42,
+        "text": " Yeah, you have the option to pose an order as needed to save the prescription,"
+      },
+      {
+        "id": 12,
+        "start": 42,
+        "end": 46,
+        "text": " but if you're sure that you will not need Vagra in the future,"
+      },
+      {
+        "id": 13,
+        "start": 46,
+        "end": 49,
+        "text": " we're not going to cancel the prescription."
+      },
+      {
+        "id": 14,
+        "start": 49,
+        "end": 52,
+        "text": " Yeah, but they already sent me another bottle that I did not order."
+      },
+      {
+        "id": 15,
+        "start": 52,
+        "end": 55,
+        "text": " It's $60,000 out of my bank account."
+      },
+      {
+        "id": 16,
+        "start": 55,
+        "end": 56,
+        "text": " I don't want no more."
+      },
+      {
+        "id": 17,
+        "start": 57,
+        "end": 61,
+        "text": " I got you, but I just want to clarify."
+      },
+      {
+        "id": 18,
+        "start": 61,
+        "end": 63,
+        "text": " What happened was you got 10 tablets,"
+      },
+      {
+        "id": 19,
+        "start": 63,
+        "end": 68,
+        "text": " so the doctor wrote it on a 30-day basis because you get 10,"
+      },
+      {
+        "id": 20,
+        "start": 68,
+        "end": 70,
+        "text": " assuming that you're active."
+      },
+      {
+        "id": 21,
+        "start": 70,
+        "end": 73,
+        "text": " But when you're not active, you call to say, I'm not active."
+      },
+      {
+        "id": 22,
+        "start": 73,
+        "end": 77,
+        "text": " We're advising the pharmacy to pause, and you can just order as needed."
+      },
+      {
+        "id": 23,
+        "start": 77,
+        "end": 80,
+        "text": " That was just the initial prescription, assuming that you're active."
+      },
+      {
+        "id": 24,
+        "start": 80,
+        "end": 82,
+        "text": " You just got 10 pills, you know what I mean?"
+      },
+      {
+        "id": 25,
+        "start": 82,
+        "end": 85,
+        "text": " Most people get, you know, more than that for the month,"
+      },
+      {
+        "id": 26,
+        "start": 85,
+        "end": 86,
+        "text": " you know what I mean?"
+      },
+      {
+        "id": 27,
+        "start": 86,
+        "end": 90,
+        "text": " But if you're not active, you can pause the account and order as needed."
+      },
+      {
+        "id": 28,
+        "start": 90,
+        "end": 91,
+        "text": " That's the option you have."
+      },
+      {
+        "id": 29,
+        "start": 91,
+        "end": 93,
+        "text": " You're not required to get it every month."
+      },
+      {
+        "id": 30,
+        "start": 93,
+        "end": 95,
+        "text": " This is not Netflix."
+      },
+      {
+        "id": 31,
+        "start": 95,
+        "end": 97,
+        "text": " It's a prescription."
+      },
+      {
+        "id": 32,
+        "start": 97,
+        "end": 99,
+        "text": " So if you say you don't need pills, you don't need pills,"
+      },
+      {
+        "id": 33,
+        "start": 99,
+        "end": 102,
+        "text": " and to lock your price, you pause up to half a year."
+      },
+      {
+        "id": 34,
+        "start": 102,
+        "end": 106,
+        "text": " You get it once or twice a year, and that locks your price in as well,"
+      },
+      {
+        "id": 35,
+        "start": 106,
+        "end": 107,
+        "text": " and you can reorder at any time."
+      },
+      {
+        "id": 36,
+        "start": 107,
+        "end": 110,
+        "text": " You just don't get monthly refills, basically."
+      },
+      {
+        "id": 37,
+        "start": 111,
+        "end": 115,
+        "text": " I'm just going to cancel it now if I could, please."
+      },
+      {
+        "id": 38,
+        "start": 115,
+        "end": 116,
+        "text": " Okay, okay."
+      },
+      {
+        "id": 39,
+        "start": 116,
+        "end": 120,
+        "text": " I'll do that for you."
+      },
+      {
+        "id": 40,
+        "start": 120,
+        "end": 123,
+        "text": " Just keep in mind, you know, if anything's changed,"
+      },
+      {
+        "id": 41,
+        "start": 123,
+        "end": 127,
+        "text": " your price will be different because I just canceled a doctor consultation,"
+      },
+      {
+        "id": 42,
+        "start": 127,
+        "end": 130,
+        "text": " and to serve you legally, Viagra, they need a prescription,"
+      },
+      {
+        "id": 43,
+        "start": 130,
+        "end": 132,
+        "text": " so you're going to have to finance another one,"
+      },
+      {
+        "id": 44,
+        "start": 132,
+        "end": 134,
+        "text": " which is going to impact your price."
+      },
+      {
+        "id": 45,
+        "start": 134,
+        "end": 135,
+        "text": " Just keep that in mind."
+      },
+      {
+        "id": 46,
+        "start": 135,
+        "end": 139,
+        "text": " That's why sometimes you want to pause if you need Viagra in the future."
+      },
+      {
+        "id": 47,
+        "start": 139,
+        "end": 141,
+        "text": " But I canceled everything, Mr. Atkinson."
+      },
+      {
+        "id": 48,
+        "start": 141,
+        "end": 143,
+        "text": " Thank you."
+      },
+      {
+        "id": 49,
+        "start": 143,
+        "end": 144,
+        "text": " Yeah, okay."
+      },
+      {
+        "id": 50,
+        "start": 144,
+        "end": 145,
+        "text": " You have a good one."
+      },
+      {
+        "id": 51,
+        "start": 145,
+        "end": 146,
+        "text": " You too."
+      },
+      {
+        "id": 52,
+        "start": 146,
+        "end": 148,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8197-903c-eb017ae933bc",
+    "url": "https://www.notion.so/300000001218403-300000001708380-2f611d0a101c8197903ceb017ae933bc"
+  },
+  "processedAt": "2026-01-28T17:23:11.540Z"
+}

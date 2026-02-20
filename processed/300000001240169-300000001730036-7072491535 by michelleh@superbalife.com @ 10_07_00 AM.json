@@ -1,0 +1,207 @@
+{
+  "recording": {
+    "name": "300000001240169-300000001730036-7072491535 by michelleh@superbalife.com @ 10_07_00 AM.wav",
+    "size": 187196,
+    "modifyTime": 1770919757000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240169-300000001730036-7072491535 by michelleh@superbalife.com @ 10_07_00 AM.wav",
+    "uploadDate": "2026-02-12T18:09:17.000Z",
+    "callId": "300000001240169-300000001730036",
+    "agent": "michelleh",
+    "phoneNumber": "7072491535",
+    "callTimestamp": "2026-02-12T10:07:00.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Yes, I was calling to cancel my subscription.\n\nSpeaker 1: Sure, no problem. I can help you out with that. Give me one second.\n\nSpeaker 2: All right, Stephen, can you just confirm your date of birth?\n\nSpeaker 1: 12-27-1955.\n\nSpeaker 2: Thank you so much. I see you're a VIP status customer.\n\nSpeaker 1: And how's the medication working out for you?\n\nSpeaker 2: You know, I actually haven't begun yet because I have other medication that I'm trying to get through with.\n\nSpeaker 1: So I just don't need it anymore.\n\nSpeaker 2: Sure. So yeah, with your VIP status, you don't have to have your refills on a monthly basis.\n\nSpeaker 1: What a lot of people like to do is just go ahead and pause that for six months.\n\nSpeaker 2: That way it keeps your prescription active and just allows you to call in whenever you need a refill.\n\nSpeaker 1: I could pause that for you until August 1st of 2026.\n\nSpeaker 2: You know, if you can do that, that would be okay.\n\nSpeaker 1: All right, perfect. Yeah. Yeah, you don't have to have your refills on a monthly basis.\n\nSpeaker 2: And then if you don't need a refill by August 1st, just give us a call and you can pause it further.\n\nSpeaker 1: That way it also keeps you locked in at your price rate because if prices go up, yours would stay the same.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, you're all set.\n\nSpeaker 2: There's another one that's already been initiated.\n\nSpeaker 1: Is there any way to stop that?\n\nSpeaker 2: Okay, it's already been shipped. Let me see.\n\nSpeaker 1: Okay, it's going to be delivered. It's not giving me an exact delivery date.\n\nSpeaker 2: But if you don't need that one, just go ahead and write on the package, return to sender,\n\nSpeaker 1: pop it back in your mailbox, and that way we can issue you a refund.\n\nSpeaker 2: Okay, well, I'll decide that when I get it.\n\nSpeaker 1: But I appreciate your cooperation. Thank you.\n\nSpeaker 2: Sure, not a problem. Have a great day.\n\nSpeaker 1: Okay, bye.\n\nSpeaker 2: Bye.",
+    "duration": 5293,
+    "audioDuration": 115.16000366210938,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 9,
+        "text": " Yes, I was calling to cancel my subscription."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 13,
+        "text": " Sure, no problem. I can help you out with that. Give me one second."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 16,
+        "text": " All right, Stephen, can you just confirm your date of birth?"
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 20,
+        "text": " 12-27-1955."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 23,
+        "text": " Thank you so much. I see you're a VIP status customer."
+      },
+      {
+        "id": 6,
+        "start": 23,
+        "end": 26,
+        "text": " And how's the medication working out for you?"
+      },
+      {
+        "id": 7,
+        "start": 26,
+        "end": 33,
+        "text": " You know, I actually haven't begun yet because I have other medication that I'm trying to get through with."
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 38,
+        "text": " So I just don't need it anymore."
+      },
+      {
+        "id": 9,
+        "start": 38,
+        "end": 43,
+        "text": " Sure. So yeah, with your VIP status, you don't have to have your refills on a monthly basis."
+      },
+      {
+        "id": 10,
+        "start": 43,
+        "end": 47,
+        "text": " What a lot of people like to do is just go ahead and pause that for six months."
+      },
+      {
+        "id": 11,
+        "start": 47,
+        "end": 51,
+        "text": " That way it keeps your prescription active and just allows you to call in whenever you need a refill."
+      },
+      {
+        "id": 12,
+        "start": 51,
+        "end": 55,
+        "text": " I could pause that for you until August 1st of 2026."
+      },
+      {
+        "id": 13,
+        "start": 55,
+        "end": 59,
+        "text": " You know, if you can do that, that would be okay."
+      },
+      {
+        "id": 14,
+        "start": 59,
+        "end": 64,
+        "text": " All right, perfect. Yeah. Yeah, you don't have to have your refills on a monthly basis."
+      },
+      {
+        "id": 15,
+        "start": 64,
+        "end": 68,
+        "text": " And then if you don't need a refill by August 1st, just give us a call and you can pause it further."
+      },
+      {
+        "id": 16,
+        "start": 68,
+        "end": 73,
+        "text": " That way it also keeps you locked in at your price rate because if prices go up, yours would stay the same."
+      },
+      {
+        "id": 17,
+        "start": 73,
+        "end": 75,
+        "text": " Okay."
+      },
+      {
+        "id": 18,
+        "start": 75,
+        "end": 77,
+        "text": " All right, you're all set."
+      },
+      {
+        "id": 19,
+        "start": 78,
+        "end": 85,
+        "text": " There's another one that's already been initiated."
+      },
+      {
+        "id": 20,
+        "start": 85,
+        "end": 88,
+        "text": " Is there any way to stop that?"
+      },
+      {
+        "id": 21,
+        "start": 88,
+        "end": 91,
+        "text": " Okay, it's already been shipped. Let me see."
+      },
+      {
+        "id": 22,
+        "start": 91,
+        "end": 96,
+        "text": " Okay, it's going to be delivered. It's not giving me an exact delivery date."
+      },
+      {
+        "id": 23,
+        "start": 96,
+        "end": 100,
+        "text": " But if you don't need that one, just go ahead and write on the package, return to sender,"
+      },
+      {
+        "id": 24,
+        "start": 100,
+        "end": 104,
+        "text": " pop it back in your mailbox, and that way we can issue you a refund."
+      },
+      {
+        "id": 25,
+        "start": 104,
+        "end": 107,
+        "text": " Okay, well, I'll decide that when I get it."
+      },
+      {
+        "id": 26,
+        "start": 107,
+        "end": 110,
+        "text": " But I appreciate your cooperation. Thank you."
+      },
+      {
+        "id": 27,
+        "start": 110,
+        "end": 112,
+        "text": " Sure, not a problem. Have a great day."
+      },
+      {
+        "id": 28,
+        "start": 112,
+        "end": 114,
+        "text": " Okay, bye."
+      },
+      {
+        "id": 29,
+        "start": 114,
+        "end": 115,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8146-b479-cafb930a6e37",
+    "url": "https://www.notion.so/300000001240169-300000001730036-30511d0a101c8146b479cafb930a6e37"
+  },
+  "processedAt": "2026-02-12T18:31:42.746Z"
+}

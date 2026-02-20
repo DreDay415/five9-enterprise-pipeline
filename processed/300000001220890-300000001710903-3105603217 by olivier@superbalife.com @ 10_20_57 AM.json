@@ -1,0 +1,170 @@
+{
+  "recording": {
+    "name": "300000001220890-300000001710903-3105603217 by olivier@superbalife.com @ 10_20_57 AM.wav",
+    "size": 331756,
+    "modifyTime": 1769624686000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220890-300000001710903-3105603217 by olivier@superbalife.com @ 10_20_57 AM.wav",
+    "uploadDate": "2026-01-28T18:24:46.000Z",
+    "callId": "300000001220890-300000001710903",
+    "agent": "olivier",
+    "phoneNumber": "3105603217",
+    "callTimestamp": "2026-01-28T10:20:57.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hello? Hello? Hello, Mr. Lee Thomas? Yes, sir. How we doing, sir? All right, and you?\n\nSpeaker 2: Good, thank you for asking. I'm pulling your prescription. Yes, I have received it.\n\nSpeaker 1: Okay. You did? No, I haven't. Yeah, you placed, oh, wow, you placed an order on a nine. That's, uh... Right.\n\nSpeaker 2: Why, why would that, let me, let me see what's going on. Did you receive any message from the doctor by chance that you may have no answer or something like that?\n\nSpeaker 1: I, yeah, I read that. I listened to it and said I was okay.\n\nSpeaker 2: Okay, let's see what's going on. Okay.\n\nSpeaker 1: Yeah, your prescription was written by doctor. Yeah, your prescription is available.\n\nSpeaker 2: That's interesting. I'm just going to resubmit the prescription to the pharmacy because the doctor wrote your prescription. It should have went out.\n\nSpeaker 1: Yeah. Resubmit to... And I'm going to message the pharmacy to, uh... To mail it to me?\n\nSpeaker 2: Yes, yes. I don't know why. That's, that's unusual. We're pretty fast, though.\n\nSpeaker 1: Yeah, because you are approved by the doctor and everything's, uh... Okay, let me message the pharmacy.\n\nSpeaker 2: Okay. That's too much of a long time now. Yeah, I was saying, wow, what happened?\n\nSpeaker 1: Yeah, let me, let me message them. I'm going to have them sending it up a priority mail.\n\nSpeaker 2: Please. Thanks.\n\nSpeaker 1: Um...\n\nSpeaker 2: Oh.\n\nSpeaker 1: All right, you also, Mr. Thomas, I requested the pharmacy send a priority mail. Uh, yes, because I see the prescription was here. I don't know why it was.\n\nSpeaker 2: It took some time, usually two to five business days, but they're going to try to expedite that for you, okay?\n\nSpeaker 1: Okay, thank you. What's your name?\n\nSpeaker 2: Ollie.\n\nSpeaker 1: Ollie. Thank you, Ollie.\n\nSpeaker 2: Thank you. You have a good one.\n\nSpeaker 1: You too. Bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 5195,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 19,
+        "text": " Hello? Hello? Hello, Mr. Lee Thomas? Yes, sir. How we doing, sir? All right, and you?"
+      },
+      {
+        "id": 1,
+        "start": 19,
+        "end": 25,
+        "text": " Good, thank you for asking. I'm pulling your prescription. Yes, I have received it."
+      },
+      {
+        "id": 2,
+        "start": 25,
+        "end": 34,
+        "text": " Okay. You did? No, I haven't. Yeah, you placed, oh, wow, you placed an order on a nine. That's, uh... Right."
+      },
+      {
+        "id": 3,
+        "start": 34,
+        "end": 43,
+        "text": " Why, why would that, let me, let me see what's going on. Did you receive any message from the doctor by chance that you may have no answer or something like that?"
+      },
+      {
+        "id": 4,
+        "start": 43,
+        "end": 48,
+        "text": " I, yeah, I read that. I listened to it and said I was okay."
+      },
+      {
+        "id": 5,
+        "start": 48,
+        "end": 60,
+        "text": " Okay, let's see what's going on. Okay."
+      },
+      {
+        "id": 6,
+        "start": 60,
+        "end": 68,
+        "text": " Yeah, your prescription was written by doctor. Yeah, your prescription is available."
+      },
+      {
+        "id": 7,
+        "start": 68,
+        "end": 75,
+        "text": " That's interesting. I'm just going to resubmit the prescription to the pharmacy because the doctor wrote your prescription. It should have went out."
+      },
+      {
+        "id": 8,
+        "start": 75,
+        "end": 86,
+        "text": " Yeah. Resubmit to... And I'm going to message the pharmacy to, uh... To mail it to me?"
+      },
+      {
+        "id": 9,
+        "start": 86,
+        "end": 91,
+        "text": " Yes, yes. I don't know why. That's, that's unusual. We're pretty fast, though."
+      },
+      {
+        "id": 10,
+        "start": 91,
+        "end": 100,
+        "text": " Yeah, because you are approved by the doctor and everything's, uh... Okay, let me message the pharmacy."
+      },
+      {
+        "id": 11,
+        "start": 101,
+        "end": 107,
+        "text": " Okay. That's too much of a long time now. Yeah, I was saying, wow, what happened?"
+      },
+      {
+        "id": 12,
+        "start": 107,
+        "end": 115,
+        "text": " Yeah, let me, let me message them. I'm going to have them sending it up a priority mail."
+      },
+      {
+        "id": 13,
+        "start": 115,
+        "end": 118,
+        "text": " Please. Thanks."
+      },
+      {
+        "id": 14,
+        "start": 146,
+        "end": 148,
+        "text": " Um..."
+      },
+      {
+        "id": 15,
+        "start": 157,
+        "end": 159,
+        "text": " Oh."
+      },
+      {
+        "id": 16,
+        "start": 175,
+        "end": 184,
+        "text": " All right, you also, Mr. Thomas, I requested the pharmacy send a priority mail. Uh, yes, because I see the prescription was here. I don't know why it was."
+      },
+      {
+        "id": 17,
+        "start": 184,
+        "end": 191,
+        "text": " It took some time, usually two to five business days, but they're going to try to expedite that for you, okay?"
+      },
+      {
+        "id": 18,
+        "start": 191,
+        "end": 193,
+        "text": " Okay, thank you. What's your name?"
+      },
+      {
+        "id": 19,
+        "start": 193,
+        "end": 195,
+        "text": " Ollie."
+      },
+      {
+        "id": 20,
+        "start": 195,
+        "end": 197,
+        "text": " Ollie. Thank you, Ollie."
+      },
+      {
+        "id": 21,
+        "start": 197,
+        "end": 199,
+        "text": " Thank you. You have a good one."
+      },
+      {
+        "id": 22,
+        "start": 199,
+        "end": 201,
+        "text": " You too. Bye."
+      },
+      {
+        "id": 23,
+        "start": 201,
+        "end": 203,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8156-b059-db952df83f63",
+    "url": "https://www.notion.so/300000001220890-300000001710903-2f711d0a101c8156b059db952df83f63"
+  },
+  "processedAt": "2026-01-29T00:20:22.362Z"
+}

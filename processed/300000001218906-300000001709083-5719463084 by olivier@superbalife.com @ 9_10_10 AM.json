@@ -1,0 +1,164 @@
+{
+  "recording": {
+    "name": "300000001218906-300000001709083-5719463084 by olivier@superbalife.com @ 9_10_10 AM.wav",
+    "size": 200586,
+    "modifyTime": 1769591231000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218906-300000001709083-5719463084 by olivier@superbalife.com @ 9_10_10 AM.wav",
+    "uploadDate": "2026-01-28T09:07:11.000Z",
+    "callId": "300000001218906-300000001709083",
+    "agent": "olivier",
+    "phoneNumber": "5719463084",
+    "callTimestamp": "2026-01-28T09:10:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Hello, this is Richard. I would like to, you know, locate the charges of my account.\n\nSpeaker 1: If there is an existing or active subscription, it will be much appreciated if you could help me.\n\nSpeaker 2: Okay. May I have the phone number you used for your prescription?\n\nSpeaker 1: Yeah, of course. It's 951-973-9387.\n\nSpeaker 2: And what's your name, sir?\n\nSpeaker 1: Yeah, name's Richard Najjar.\n\nSpeaker 2: And what is your date of birth?\n\nSpeaker 1: Why would you need my date of birth?\n\nSpeaker 2: That's one of the criteria to verify an account for a patient.\n\nSpeaker 1: Because you provide your date of birth that we need to verify for your account.\n\nSpeaker 2: Oh, is that too personal?\n\nSpeaker 1: No, because we have it, sir. I'm not asking you to provide something we don't have.\n\nSpeaker 2: We have it. I just got to confirm.\n\nSpeaker 1: Oh, really? Is there any way that you can let me know if you just wanted to check if it's active or not?\n\nSpeaker 2: Like I said, I need to verify because, you know, it's medical information, sir. It's telehealth.\n\nSpeaker 1: I need to verify and make sure I'm talking to the patient in order to provide personal information of the account.\n\nSpeaker 2: Oh, okay. There's no other way, right?\n\nSpeaker 1: No, that's one of the criteria.\n\nSpeaker 2: Yeah, I'll think about it. Then I'll give it a call back once I have decided.\n\nSpeaker 1: Okay. All right. Bye-bye.\n\nSpeaker 2: Yeah, thank you.\n\nSpeaker 1: Thank you.",
+    "duration": 5541,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 13,
+        "text": " Hello, this is Richard. I would like to, you know, locate the charges of my account."
+      },
+      {
+        "id": 2,
+        "start": 13,
+        "end": 18,
+        "text": " If there is an existing or active subscription, it will be much appreciated if you could help me."
+      },
+      {
+        "id": 3,
+        "start": 19,
+        "end": 24,
+        "text": " Okay. May I have the phone number you used for your prescription?"
+      },
+      {
+        "id": 4,
+        "start": 25,
+        "end": 31,
+        "text": " Yeah, of course. It's 951-973-9387."
+      },
+      {
+        "id": 5,
+        "start": 35,
+        "end": 37,
+        "text": " And what's your name, sir?"
+      },
+      {
+        "id": 6,
+        "start": 38,
+        "end": 41,
+        "text": " Yeah, name's Richard Najjar."
+      },
+      {
+        "id": 7,
+        "start": 42,
+        "end": 44,
+        "text": " And what is your date of birth?"
+      },
+      {
+        "id": 8,
+        "start": 47,
+        "end": 50,
+        "text": " Why would you need my date of birth?"
+      },
+      {
+        "id": 9,
+        "start": 50,
+        "end": 54,
+        "text": " That's one of the criteria to verify an account for a patient."
+      },
+      {
+        "id": 10,
+        "start": 54,
+        "end": 58,
+        "text": " Because you provide your date of birth that we need to verify for your account."
+      },
+      {
+        "id": 11,
+        "start": 62,
+        "end": 65,
+        "text": " Oh, is that too personal?"
+      },
+      {
+        "id": 12,
+        "start": 66,
+        "end": 71,
+        "text": " No, because we have it, sir. I'm not asking you to provide something we don't have."
+      },
+      {
+        "id": 13,
+        "start": 71,
+        "end": 73,
+        "text": " We have it. I just got to confirm."
+      },
+      {
+        "id": 14,
+        "start": 74,
+        "end": 80,
+        "text": " Oh, really? Is there any way that you can let me know if you just wanted to check if it's active or not?"
+      },
+      {
+        "id": 15,
+        "start": 82,
+        "end": 87,
+        "text": " Like I said, I need to verify because, you know, it's medical information, sir. It's telehealth."
+      },
+      {
+        "id": 16,
+        "start": 87,
+        "end": 94,
+        "text": " I need to verify and make sure I'm talking to the patient in order to provide personal information of the account."
+      },
+      {
+        "id": 17,
+        "start": 94,
+        "end": 97,
+        "text": " Oh, okay. There's no other way, right?"
+      },
+      {
+        "id": 18,
+        "start": 98,
+        "end": 100,
+        "text": " No, that's one of the criteria."
+      },
+      {
+        "id": 19,
+        "start": 102,
+        "end": 106,
+        "text": " Yeah, I'll think about it. Then I'll give it a call back once I have decided."
+      },
+      {
+        "id": 20,
+        "start": 107,
+        "end": 111,
+        "text": " Okay. All right. Bye-bye."
+      },
+      {
+        "id": 21,
+        "start": 112,
+        "end": 113,
+        "text": " Yeah, thank you."
+      },
+      {
+        "id": 22,
+        "start": 114,
+        "end": 115,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8176-8e55-d7ef85d2c506",
+    "url": "https://www.notion.so/300000001218906-300000001709083-2f611d0a101c81768e55d7ef85d2c506"
+  },
+  "processedAt": "2026-01-28T11:47:42.058Z"
+}

@@ -1,0 +1,110 @@
+{
+  "recording": {
+    "name": "300000001219624-300000001709648-2529080796 by michelleh@superbalife.com @ 12_06_12 PM.wav",
+    "size": 81766,
+    "modifyTime": 1769590341000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219624-300000001709648-2529080796 by michelleh@superbalife.com @ 12_06_12 PM.wav",
+    "uploadDate": "2026-01-28T08:52:21.000Z",
+    "callId": "300000001219624-300000001709648",
+    "agent": "michelleh",
+    "phoneNumber": "2529080796",
+    "callTimestamp": "2026-01-28T12:06:12.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling, Viagra, how can I help you?\n\nSpeaker 2: Yes, I'm calling, you know, I had a package returned back on January the 2nd. I received it on January the 1st, and the very first part of December is when I contacted ScoreBlue to delay my package because of a stockpile, and it should have been delayed up until June, but then a month later is when I received another package that they also took $113.95 out of my account.\n\nSpeaker 1: Okay, hold on one second, I'm going to transfer you to that agent. Give me one second.\n\nSpeaker 2: Okay, thank you.",
+    "duration": 1605,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.5399999618530273,
+        "text": " Thank you for calling, Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3.5399999618530273,
+        "end": 10.279999732971191,
+        "text": " Yes, I'm calling, you know, I had a package returned"
+      },
+      {
+        "id": 2,
+        "start": 10.279999732971191,
+        "end": 13.420000076293945,
+        "text": " back on January the 2nd."
+      },
+      {
+        "id": 3,
+        "start": 13.420000076293945,
+        "end": 16.920000076293945,
+        "text": " I received it on January the 1st,"
+      },
+      {
+        "id": 4,
+        "start": 16.920000076293945,
+        "end": 20.6200008392334,
+        "text": " and the very first part of December"
+      },
+      {
+        "id": 5,
+        "start": 20.6200008392334,
+        "end": 26.899999618530273,
+        "text": " is when I contacted ScoreBlue to delay my package"
+      },
+      {
+        "id": 6,
+        "start": 26.899999618530273,
+        "end": 29.299999237060547,
+        "text": " because of a stockpile,"
+      },
+      {
+        "id": 7,
+        "start": 29.299999237060547,
+        "end": 33.79999923706055,
+        "text": " and it should have been delayed up until June,"
+      },
+      {
+        "id": 8,
+        "start": 33.79999923706055,
+        "end": 38.040000915527344,
+        "text": " but then a month later is when I received another package"
+      },
+      {
+        "id": 9,
+        "start": 38.040000915527344,
+        "end": 44.939998626708984,
+        "text": " that they also took $113.95 out of my account."
+      },
+      {
+        "id": 10,
+        "start": 44.939998626708984,
+        "end": 46.119998931884766,
+        "text": " Okay, hold on one second,"
+      },
+      {
+        "id": 11,
+        "start": 46.119998931884766,
+        "end": 47.97999954223633,
+        "text": " I'm going to transfer you to that agent."
+      },
+      {
+        "id": 12,
+        "start": 47.97999954223633,
+        "end": 49.58000183105469,
+        "text": " Give me one second."
+      },
+      {
+        "id": 13,
+        "start": 49.58000183105469,
+        "end": 51.58000183105469,
+        "text": " Okay, thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8144-a29f-e0091e6a7c03",
+    "url": "https://www.notion.so/300000001219624-300000001709648-2f611d0a101c8144a29fe0091e6a7c03"
+  },
+  "processedAt": "2026-01-28T12:14:13.972Z"
+}

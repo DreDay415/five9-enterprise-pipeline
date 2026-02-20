@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001216304-300000001705790-8584960411 by  @ 1_18_32 PM_CallStudio.wav",
+    "size": 32820,
+    "modifyTime": 1769583435000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216304-300000001705790-8584960411 by  @ 1_18_32 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T06:57:15.000Z",
+    "callId": "300000001216304-300000001705790",
+    "phoneNumber": "8584960411",
+    "callTimestamp": "2026-01-28T06:57:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call. Speak loudly and clearly.\n\nSpeaker 2: Para español, marque número nueve.\n\nSpeaker 1: Billing.\n\nSpeaker 2: I heard you say, billing. Say yes or press 1 if this is correct.\n\nSpeaker 1: Otherwise, say yes.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 814,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call. Speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 8,
+        "text": " Para español, marque numero nueve."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 10,
+        "text": " Billing."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 16,
+        "text": " I heard you say, billing. Say yes or press 1 if this is correct."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 18,
+        "text": " Otherwise, say yes."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 20,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8188-bbb5-f725d95fd91e",
+    "url": "https://www.notion.so/300000001216304-300000001705790-2f611d0a101c8188bbb5f725d95fd91e"
+  },
+  "processedAt": "2026-01-28T16:20:45.665Z"
+}

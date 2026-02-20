@@ -1,0 +1,290 @@
+{
+  "recording": {
+    "name": "300000001239382-300000001729053-4254432228 by olivier@superbalife.com @ 2_46_28 PM.wav",
+    "size": 345340,
+    "modifyTime": 1770850223000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239382-300000001729053-4254432228 by olivier@superbalife.com @ 2_46_28 PM.wav",
+    "uploadDate": "2026-02-11T22:50:23.000Z",
+    "callId": "300000001239382-300000001729053",
+    "agent": "olivier",
+    "phoneNumber": "4254432228",
+    "callTimestamp": "2026-02-11T14:46:28.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Yes, hello, my name is Alan Torres. How are you?\n\nSpeaker 1: I'm not satisfied with the prescription that was sent to me by Score Blue.\n\nSpeaker 2: Yes.\n\nSpeaker 1: What happened again? Can you repeat that for me, please?\n\nSpeaker 2: I'm not satisfied with the prescription that was sent to me by Score Blue.\n\nSpeaker 1: Okay. Was it your first time taking Viagra, Mr. Torres?\n\nSpeaker 2: I see you got Viagra 15 minutes ago. Was it the first time?\n\nSpeaker 1: No, I didn't get the prescription that I was ordered.\n\nSpeaker 2: Okay. And what are you trying to order?\n\nSpeaker 1: The AGV, the new Viagra. Not the generic, regular Viagra. It was the AGV one.\n\nSpeaker 2: Okay. And do you have the pill in front of you, by any chance?\n\nSpeaker 1: Do I have what?\n\nSpeaker 2: The pills in front of you, by any chance?\n\nSpeaker 1: Yes, I have the pills in front of me.\n\nSpeaker 2: Yeah, what is the code engraved on the pill, if you don't mind me asking?\n\nSpeaker 1: I think it says AC.\n\nSpeaker 2: Okay, so I'm going to have to send you a replacement. It should say 50.\n\nSpeaker 1: 50 is the improved formula, and that would be the code on it, coming from Greenstone.\n\nSpeaker 2: What you have probably said, APCO is regular generic.\n\nSpeaker 1: I don't know why your order came this way. From what I see, it just shows regular generic here.\n\nSpeaker 2: So I'm going to send you the AGV, which is the improved formula, okay?\n\nSpeaker 1: You can keep it as a backup. The FDA approved from Pfizer, made between the U.S. and France.\n\nSpeaker 2: But I'm going to send you a replacement. Of course, you're not going to be charged. You're already paid.\n\nSpeaker 1: But yeah, they're going to be. Don't get them together, because it's two different formulas.\n\nSpeaker 2: Try them separate, so you can see the difference.\n\nSpeaker 1: All right, so I'm going to send you the AGV replacement here.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: All right, give me one moment.\n\nSpeaker 2: All right.\n\nSpeaker 1: Okay, give me one moment.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So if you'd like to try it, I can switch.\n\nSpeaker 1: You want me to stay on the phone?\n\nSpeaker 2: No, you're all set, okay? I just finished that for you, okay?\n\nSpeaker 1: You're going to have a replacement.\n\nSpeaker 2: When will it arrive?\n\nSpeaker 1: I'm sorry?\n\nSpeaker 2: When will it arrive?\n\nSpeaker 1: Two to five business days.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: You're welcome. Bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 6637,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 7,
+        "text": " Yes, hello, my name is Alan Torres. How are you?"
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 13,
+        "text": " I'm not satisfied with the prescription that was sent to me by Score Blue."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 15,
+        "text": " Yes."
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 19,
+        "text": " What happened again? Can you repeat that for me, please?"
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 25,
+        "text": " I'm not satisfied with the prescription that was sent to me by Score Blue."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 28,
+        "text": " Okay. Was it your first time taking Viagra, Mr. Torres?"
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 31,
+        "text": " I see you got Viagra 15 minutes ago. Was it the first time?"
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 35,
+        "text": " No, I didn't get the prescription that I was ordered."
+      },
+      {
+        "id": 9,
+        "start": 35,
+        "end": 39,
+        "text": " Okay. And what are you trying to order?"
+      },
+      {
+        "id": 10,
+        "start": 39,
+        "end": 46,
+        "text": " The AGV, the new Viagra. Not the generic, regular Viagra. It was the AGV one."
+      },
+      {
+        "id": 11,
+        "start": 46,
+        "end": 49,
+        "text": " Okay. And do you have the pill in front of you, by any chance?"
+      },
+      {
+        "id": 12,
+        "start": 49,
+        "end": 51,
+        "text": " Do I have what?"
+      },
+      {
+        "id": 13,
+        "start": 51,
+        "end": 53,
+        "text": " The pills in front of you, by any chance?"
+      },
+      {
+        "id": 14,
+        "start": 53,
+        "end": 55,
+        "text": " Yes, I have the pills in front of me."
+      },
+      {
+        "id": 15,
+        "start": 55,
+        "end": 59,
+        "text": " Yeah, what is the code engraved on the pill, if you don't mind me asking?"
+      },
+      {
+        "id": 16,
+        "start": 59,
+        "end": 62,
+        "text": " I think it says AC."
+      },
+      {
+        "id": 17,
+        "start": 62,
+        "end": 66,
+        "text": " Okay, so I'm going to have to send you a replacement. It should say 50."
+      },
+      {
+        "id": 18,
+        "start": 66,
+        "end": 72,
+        "text": " 50 is the improved formula, and that would be the code on it, coming from Greenstone."
+      },
+      {
+        "id": 19,
+        "start": 72,
+        "end": 75,
+        "text": " What you have probably said, APCO is regular generic."
+      },
+      {
+        "id": 20,
+        "start": 75,
+        "end": 80,
+        "text": " I don't know why your order came this way. From what I see, it just shows regular generic here."
+      },
+      {
+        "id": 21,
+        "start": 80,
+        "end": 83,
+        "text": " So I'm going to send you the AGV, which is the improved formula, okay?"
+      },
+      {
+        "id": 22,
+        "start": 83,
+        "end": 89,
+        "text": " You can keep it as a backup. The FDA approved from Pfizer, made between the U.S. and France."
+      },
+      {
+        "id": 23,
+        "start": 89,
+        "end": 93,
+        "text": " But I'm going to send you a replacement. Of course, you're not going to be charged. You're already paid."
+      },
+      {
+        "id": 24,
+        "start": 93,
+        "end": 98,
+        "text": " But yeah, they're going to be. Don't get them together, because it's two different formulas."
+      },
+      {
+        "id": 25,
+        "start": 98,
+        "end": 101,
+        "text": " Try them separate, so you can see the difference."
+      },
+      {
+        "id": 26,
+        "start": 101,
+        "end": 105,
+        "text": " All right, so I'm going to send you the AGV replacement here."
+      },
+      {
+        "id": 27,
+        "start": 105,
+        "end": 109,
+        "text": " Thank you."
+      },
+      {
+        "id": 28,
+        "start": 109,
+        "end": 115,
+        "text": " All right, give me one moment."
+      },
+      {
+        "id": 29,
+        "start": 115,
+        "end": 125,
+        "text": " All right."
+      },
+      {
+        "id": 30,
+        "start": 125,
+        "end": 128,
+        "text": " Okay, give me one moment."
+      },
+      {
+        "id": 31,
+        "start": 128,
+        "end": 157,
+        "text": " Okay."
+      },
+      {
+        "id": 32,
+        "start": 157,
+        "end": 165,
+        "text": " Okay."
+      },
+      {
+        "id": 33,
+        "start": 165,
+        "end": 177,
+        "text": " So if you'd like to try it, I can switch."
+      },
+      {
+        "id": 34,
+        "start": 177,
+        "end": 179,
+        "text": " You want me to stay on the phone?"
+      },
+      {
+        "id": 35,
+        "start": 179,
+        "end": 182,
+        "text": " No, you're all set, okay? I just finished that for you, okay?"
+      },
+      {
+        "id": 36,
+        "start": 182,
+        "end": 184,
+        "text": " You're going to have a replacement."
+      },
+      {
+        "id": 37,
+        "start": 184,
+        "end": 185,
+        "text": " When will it arrive?"
+      },
+      {
+        "id": 38,
+        "start": 186,
+        "end": 187,
+        "text": " I'm sorry?"
+      },
+      {
+        "id": 39,
+        "start": 187,
+        "end": 188,
+        "text": " When will it arrive?"
+      },
+      {
+        "id": 40,
+        "start": 188,
+        "end": 190,
+        "text": " Two to five business days."
+      },
+      {
+        "id": 41,
+        "start": 190,
+        "end": 192,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 42,
+        "start": 192,
+        "end": 193,
+        "text": " You're welcome. Bye-bye."
+      },
+      {
+        "id": 43,
+        "start": 193,
+        "end": 194,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-819d-886c-d9e63ed0598f",
+    "url": "https://www.notion.so/300000001239382-300000001729053-30411d0a101c819d886cd9e63ed0598f"
+  },
+  "processedAt": "2026-02-11T23:05:32.567Z"
+}

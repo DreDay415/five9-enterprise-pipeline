@@ -1,0 +1,278 @@
+{
+  "recording": {
+    "name": "300000001216232-300000001705733-8327214991 by michelleh@superbalife.com @ 12_49_14 PM.wav",
+    "size": 240886,
+    "modifyTime": 1769592139000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216232-300000001705733-8327214991 by michelleh@superbalife.com @ 12_49_14 PM.wav",
+    "uploadDate": "2026-01-28T09:22:19.000Z",
+    "callId": "300000001216232-300000001705733",
+    "agent": "michelleh",
+    "phoneNumber": "8327214991",
+    "callTimestamp": "2026-01-28T12:49:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Yes, ma'am. I want to order that...\n\nSpeaker 1: AGV?\n\nSpeaker 2: Yeah, AGV.\n\nSpeaker 1: No problem, lad. I can help you out.\n\nSpeaker 2: Can you please confirm your date of birth?\n\nSpeaker 1: 7-25-40.\n\nSpeaker 2: Thank you so much. I have your profile pulled up.\n\nSpeaker 1: Are you still at 12523 Weldstone Drive?\n\nSpeaker 2: Correct, yes. Uh-huh.\n\nSpeaker 1: Okay.\n\nSpeaker 2: What's the cost of that?\n\nSpeaker 1: How many pills are there in our order?\n\nSpeaker 2: Sure. So right now we have a quantity of 40 for $149.\n\nSpeaker 1: And then we have a quantity of 25 for $99 and a quantity of 10 for $49.\n\nSpeaker 2: All right. What's the difference between the regular 100 milligrams?\n\nSpeaker 1: So this is Pfizer's latest formula of Viagra.\n\nSpeaker 2: So it's the inactive ingredients in the latest formula that makes it work faster.\n\nSpeaker 1: People are saying they feel it take in about 11 to 15 minutes.\n\nSpeaker 2: On the bottle it will say take one hour prior to get the full result.\n\nSpeaker 1: And then it lasts longer. It lasts for 14 hours in your system.\n\nSpeaker 2: And people are reporting less side effects, especially less headaches.\n\nSpeaker 1: Okay. Well, send me the one with, I said 20?\n\nSpeaker 2: 25.\n\nSpeaker 1: Yeah, 25. I'm going to try that out, see how it works.\n\nSpeaker 2: Okay, perfect. All right.\n\nSpeaker 1: And now I'm ready for your credit card.\n\nSpeaker 2: Do I have one on file?\n\nSpeaker 1: Oh, is that the Visa ending in 1556?\n\nSpeaker 2: Yes, that's correct.\n\nSpeaker 1: Okay, perfect.\n\nSpeaker 2: Yeah, let me check that number again.\n\nSpeaker 1: Oh, it went through.\n\nSpeaker 2: Yeah, my Visa card, 1556. Hold on a second, okay?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Do you want me to put one on now?\n\nSpeaker 1: No, I'm okay.\n\nSpeaker 2: Yeah, I had some credit cards redone. Yeah, that's the correct number.\n\nSpeaker 1: All right, perfect. That went through, so they'll be shipping out to you today.\n\nSpeaker 2: Okay, thank you so much.\n\nSpeaker 1: No problem. Have a great day.\n\nSpeaker 2: You too. Bye-bye.",
+    "duration": 4955,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 6,
+        "text": " Yes, ma'am. I want to order that..."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 8,
+        "text": " AGV?"
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 10,
+        "text": " Yeah, AGV."
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 12,
+        "text": " No problem, lad. I can help you out."
+      },
+      {
+        "id": 5,
+        "start": 12,
+        "end": 14,
+        "text": " Can you please confirm your date of birth?"
+      },
+      {
+        "id": 6,
+        "start": 14,
+        "end": 17,
+        "text": " 7-25-40."
+      },
+      {
+        "id": 7,
+        "start": 17,
+        "end": 19,
+        "text": " Thank you so much. I have your profile pulled up."
+      },
+      {
+        "id": 8,
+        "start": 19,
+        "end": 23,
+        "text": " Are you still at 12523 Weldstone Drive?"
+      },
+      {
+        "id": 9,
+        "start": 23,
+        "end": 25,
+        "text": " Correct, yes. Uh-huh."
+      },
+      {
+        "id": 10,
+        "start": 25,
+        "end": 26,
+        "text": " Okay."
+      },
+      {
+        "id": 11,
+        "start": 26,
+        "end": 28,
+        "text": " What's the cost of that?"
+      },
+      {
+        "id": 12,
+        "start": 28,
+        "end": 30,
+        "text": " How many pills are there in our order?"
+      },
+      {
+        "id": 13,
+        "start": 30,
+        "end": 35,
+        "text": " Sure. So right now we have a quantity of 40 for $149."
+      },
+      {
+        "id": 14,
+        "start": 35,
+        "end": 42,
+        "text": " And then we have a quantity of 25 for $99 and a quantity of 10 for $49."
+      },
+      {
+        "id": 15,
+        "start": 42,
+        "end": 48,
+        "text": " All right. What's the difference between the regular 100 milligrams?"
+      },
+      {
+        "id": 16,
+        "start": 48,
+        "end": 51,
+        "text": " So this is Pfizer's latest formula of Viagra."
+      },
+      {
+        "id": 17,
+        "start": 51,
+        "end": 56,
+        "text": " So it's the inactive ingredients in the latest formula that makes it work faster."
+      },
+      {
+        "id": 18,
+        "start": 56,
+        "end": 59,
+        "text": " People are saying they feel it take in about 11 to 15 minutes."
+      },
+      {
+        "id": 19,
+        "start": 59,
+        "end": 63,
+        "text": " On the bottle it will say take one hour prior to get the full result."
+      },
+      {
+        "id": 20,
+        "start": 63,
+        "end": 66,
+        "text": " And then it lasts longer. It lasts for 14 hours in your system."
+      },
+      {
+        "id": 21,
+        "start": 66,
+        "end": 70,
+        "text": " And people are reporting less side effects, especially less headaches."
+      },
+      {
+        "id": 22,
+        "start": 70,
+        "end": 76,
+        "text": " Okay. Well, send me the one with, I said 20?"
+      },
+      {
+        "id": 23,
+        "start": 76,
+        "end": 77,
+        "text": " 25."
+      },
+      {
+        "id": 24,
+        "start": 77,
+        "end": 81,
+        "text": " Yeah, 25. I'm going to try that out, see how it works."
+      },
+      {
+        "id": 25,
+        "start": 81,
+        "end": 83,
+        "text": " Okay, perfect. All right."
+      },
+      {
+        "id": 26,
+        "start": 84,
+        "end": 87,
+        "text": " And now I'm ready for your credit card."
+      },
+      {
+        "id": 27,
+        "start": 87,
+        "end": 89,
+        "text": " Do I have one on file?"
+      },
+      {
+        "id": 28,
+        "start": 89,
+        "end": 92,
+        "text": " Oh, is that the Visa ending in 1556?"
+      },
+      {
+        "id": 29,
+        "start": 92,
+        "end": 94,
+        "text": " Yes, that's correct."
+      },
+      {
+        "id": 30,
+        "start": 94,
+        "end": 96,
+        "text": " Okay, perfect."
+      },
+      {
+        "id": 31,
+        "start": 96,
+        "end": 99,
+        "text": " Yeah, let me check that number again."
+      },
+      {
+        "id": 32,
+        "start": 99,
+        "end": 101,
+        "text": " Oh, it went through."
+      },
+      {
+        "id": 33,
+        "start": 101,
+        "end": 106,
+        "text": " Yeah, my Visa card, 1556. Hold on a second, okay?"
+      },
+      {
+        "id": 34,
+        "start": 106,
+        "end": 107,
+        "text": " Okay."
+      },
+      {
+        "id": 35,
+        "start": 113,
+        "end": 124,
+        "text": " Do you want me to put one on now?"
+      },
+      {
+        "id": 36,
+        "start": 124,
+        "end": 127,
+        "text": " No, I'm okay."
+      },
+      {
+        "id": 37,
+        "start": 127,
+        "end": 136,
+        "text": " Yeah, I had some credit cards redone. Yeah, that's the correct number."
+      },
+      {
+        "id": 38,
+        "start": 136,
+        "end": 141,
+        "text": " All right, perfect. That went through, so they'll be shipping out to you today."
+      },
+      {
+        "id": 39,
+        "start": 142,
+        "end": 144,
+        "text": " Okay, thank you so much."
+      },
+      {
+        "id": 40,
+        "start": 144,
+        "end": 146,
+        "text": " No problem. Have a great day."
+      },
+      {
+        "id": 41,
+        "start": 146,
+        "end": 148,
+        "text": " You too. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-819b-bdc8-c16190dba2ae",
+    "url": "https://www.notion.so/300000001216232-300000001705733-2f611d0a101c819bbdc8c16190dba2ae"
+  },
+  "processedAt": "2026-01-28T11:04:51.892Z"
+}

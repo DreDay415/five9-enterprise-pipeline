@@ -1,0 +1,203 @@
+{
+  "recording": {
+    "name": "300000001241959-300000001731575-4092010271 by summer@verifiednutrition.com @ 10_51_14 AM.wav",
+    "size": 99966,
+    "modifyTime": 1771008757000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241959-300000001731575-4092010271 by summer@verifiednutrition.com @ 10_51_14 AM.wav",
+    "uploadDate": "2026-02-13T18:52:37.000Z",
+    "callId": "300000001241959-300000001731575",
+    "agent": "summer",
+    "phoneNumber": "4092010271",
+    "callTimestamp": "2026-02-13T10:51:14.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_summer_300000001241959-300000001731575_4092010271.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_summer_300000001241959-300000001731575_4092010271.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: I think if we're calling customer service, I can help you.\n\nSpeaker 2: Yes, ma'am.\n\nSpeaker 1: My name is Robert Hardy.\n\nSpeaker 2: And online, I just ordered School Blue.\n\nSpeaker 1: But I don't know if my order went through successfully.\n\nSpeaker 2: I have not received email confirmation.\n\nSpeaker 1: So I don't know what to do here.\n\nSpeaker 2: Okay.\n\nSpeaker 1: What's your name and birthday?\n\nSpeaker 2: My name is Robert Hardy.\n\nSpeaker 1: Birthday 6-26-51.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yeah, it went through.\n\nSpeaker 2: You're going to get an email within a couple of hours.\n\nSpeaker 1: You're waiting for the doctor to review your medical chart.\n\nSpeaker 2: Okay.\n\nSpeaker 1: So no one is going to call me, right?\n\nSpeaker 2: The doctor might call you.\n\nSpeaker 1: I can't say if they will or if they won't.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Well, I'll be here.\n\nSpeaker 1: Okay.\n\nSpeaker 2: No problem.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Sure.",
+    "duration": 2214,
+    "audioDuration": 61.47999954223633,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " I think if we're calling customer service, I can help you."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 7,
+        "text": " Yes, ma'am."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " My name is Robert Hardy."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 13,
+        "text": " And online, I just ordered School Blue."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 16,
+        "text": " But I don't know if my order went through successfully."
+      },
+      {
+        "id": 5,
+        "start": 16,
+        "end": 19,
+        "text": " I have not received email confirmation."
+      },
+      {
+        "id": 6,
+        "start": 19,
+        "end": 22,
+        "text": " So I don't know what to do here."
+      },
+      {
+        "id": 7,
+        "start": 22,
+        "end": 23,
+        "text": " Okay."
+      },
+      {
+        "id": 8,
+        "start": 23,
+        "end": 25,
+        "text": " What's your name and birthday?"
+      },
+      {
+        "id": 9,
+        "start": 25,
+        "end": 28,
+        "text": " My name is Robert Hardy."
+      },
+      {
+        "id": 10,
+        "start": 28,
+        "end": 34,
+        "text": " Birthday 6-26-51."
+      },
+      {
+        "id": 11,
+        "start": 34,
+        "end": 35,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 35,
+        "end": 36,
+        "text": " Yeah, it went through."
+      },
+      {
+        "id": 13,
+        "start": 36,
+        "end": 38,
+        "text": " You're going to get an email within a couple of hours."
+      },
+      {
+        "id": 14,
+        "start": 38,
+        "end": 42,
+        "text": " You're waiting for the doctor to review your medical chart."
+      },
+      {
+        "id": 15,
+        "start": 42,
+        "end": 43,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 43,
+        "end": 47,
+        "text": " So no one is going to call me, right?"
+      },
+      {
+        "id": 17,
+        "start": 47,
+        "end": 48,
+        "text": " The doctor might call you."
+      },
+      {
+        "id": 18,
+        "start": 48,
+        "end": 51,
+        "text": " I can't say if they will or if they won't."
+      },
+      {
+        "id": 19,
+        "start": 51,
+        "end": 52,
+        "text": " Okay."
+      },
+      {
+        "id": 20,
+        "start": 52,
+        "end": 53,
+        "text": " All right."
+      },
+      {
+        "id": 21,
+        "start": 53,
+        "end": 54,
+        "text": " Well, I'll be here."
+      },
+      {
+        "id": 22,
+        "start": 54,
+        "end": 55,
+        "text": " Okay."
+      },
+      {
+        "id": 23,
+        "start": 55,
+        "end": 56,
+        "text": " No problem."
+      },
+      {
+        "id": 24,
+        "start": 56,
+        "end": 57,
+        "text": " Thank you."
+      },
+      {
+        "id": 25,
+        "start": 57,
+        "end": 58,
+        "text": " You're welcome."
+      },
+      {
+        "id": 26,
+        "start": 58,
+        "end": 59,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 27,
+        "start": 59,
+        "end": 60,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 28,
+        "start": 60,
+        "end": 61,
+        "text": " Sure."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8159-bfc1-d9bb3e1b3941",
+    "url": "https://www.notion.so/300000001241959-300000001731575-30611d0a101c8159bfc1d9bb3e1b3941"
+  },
+  "processedAt": "2026-02-13T19:02:03.712Z"
+}

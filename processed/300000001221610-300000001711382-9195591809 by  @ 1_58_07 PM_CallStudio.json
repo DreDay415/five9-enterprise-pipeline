@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001221610-300000001711382-9195591809 by  @ 1_58_07 PM_CallStudio.wav",
+    "size": 24890,
+    "modifyTime": 1769637525000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221610-300000001711382-9195591809 by  @ 1_58_07 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T21:58:45.000Z",
+    "callId": "300000001221610-300000001711382",
+    "phoneNumber": "9195591809",
+    "callTimestamp": "2026-01-28T21:58:45.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I'm trying to find out how much my pills cost.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1592,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.300000190734863,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.300000190734863,
+        "end": 6.900000095367432,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.900000095367432,
+        "end": 8.720000267028809,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.720000267028809,
+        "end": 12.100000381469727,
+        "text": " I'm trying to find out how much my pills cost."
+      },
+      {
+        "id": 4,
+        "start": 13.739999771118164,
+        "end": 14.960000038146973,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-811a-9d7f-f8e5ad09b300",
+    "url": "https://www.notion.so/300000001221610-300000001711382-2f611d0a101c811a9d7ff8e5ad09b300"
+  },
+  "processedAt": "2026-01-28T22:23:11.386Z"
+}

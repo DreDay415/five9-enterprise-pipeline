@@ -1,0 +1,67 @@
+{
+  "recording": {
+    "name": "300000001221068-300000001711023-8886759517 by  @ 11_16_45 AM_CallStudio.wav",
+    "size": 31780,
+    "modifyTime": 1769627847000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221068-300000001711023-8886759517 by  @ 11_16_45 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T19:17:27.000Z",
+    "callId": "300000001221068-300000001711023",
+    "phoneNumber": "8886759517",
+    "callTimestamp": "2026-01-28T19:17:27.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Yes, I will check and notice that product called Knockout.\n\nSpeaker 1: Do y'all carry it?\n\nSpeaker 2: Thanks.\n\nSpeaker 1: Transferring to agent.",
+    "duration": 1094,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.239999771118164,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.239999771118164,
+        "end": 6.239999771118164,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.239999771118164,
+        "end": 9.239999771118164,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.239999771118164,
+        "end": 14.5600004196167,
+        "text": " Yes, I will check and notice that product called Knockout."
+      },
+      {
+        "id": 4,
+        "start": 14.5600004196167,
+        "end": 18,
+        "text": " Do y'all carry it?"
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 19,
+        "text": " Thanks."
+      },
+      {
+        "id": 6,
+        "start": 19,
+        "end": 19.200000762939453,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81bd-a008-eb7102aeee06",
+    "url": "https://www.notion.so/300000001221068-300000001711023-2f611d0a101c81bda008eb7102aeee06"
+  },
+  "processedAt": "2026-01-28T23:56:41.919Z"
+}

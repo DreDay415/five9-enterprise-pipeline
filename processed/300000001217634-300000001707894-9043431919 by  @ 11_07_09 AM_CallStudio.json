@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001217634-300000001707894-9043431919 by  @ 11_07_09 AM_CallStudio.wav",
+    "size": 29180,
+    "modifyTime": 1769584930000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217634-300000001707894-9043431919 by  @ 11_07_09 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:22:10.000Z",
+    "callId": "300000001217634-300000001707894",
+    "phoneNumber": "9043431919",
+    "callTimestamp": "2026-01-28T07:22:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque número nueve.\n\nSpeaker 2: Yes, I would like to talk to someone about a recurring subscription that I didn't order.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1456,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.199999809265137,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.199999809265137,
+        "end": 6.199999809265137,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.199999809265137,
+        "end": 8.4399995803833,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.4399995803833,
+        "end": 16.440000534057617,
+        "text": " Yes, I would like to talk to someone about a reoccurring subscription that I didn't order."
+      },
+      {
+        "id": 4,
+        "start": 16.440000534057617,
+        "end": 17.639999389648438,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8164-a128-fbab7cf752da",
+    "url": "https://www.notion.so/300000001217634-300000001707894-2f611d0a101c8164a128fbab7cf752da"
+  },
+  "processedAt": "2026-01-28T14:51:09.959Z"
+}

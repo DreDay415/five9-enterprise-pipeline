@@ -1,0 +1,374 @@
+{
+  "recording": {
+    "name": "300000001220143-300000001709992-2183711649 by charles@superbalife.com @ 3_03_01 PM.wav",
+    "size": 217680,
+    "modifyTime": 1769555137000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220143-300000001709992-2183711649 by charles@superbalife.com @ 3_03_01 PM.wav",
+    "uploadDate": "2026-01-27T23:05:37.000Z",
+    "callId": "300000001220143-300000001709992",
+    "agent": "charles",
+    "phoneNumber": "2183711649",
+    "callTimestamp": "2026-01-27T15:03:01.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: This is Charles.\n\nSpeaker 2: Yes.\n\nSpeaker 1: I had ordered four blue, then I was automatically, a month later, I was automatically sent another—\n\nSpeaker 2: Prescription, and I don't want, I don't want it resent every month.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Michael Malin?\n\nSpeaker 1: Yep.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: It looks like you're a VIP member here, Michael.\n\nSpeaker 1: We completely get it.\n\nSpeaker 2: If you don't necessarily need the pills every single month, we won't hold you to it.\n\nSpeaker 1: If you'd like, so you can have some time to use what you have, I can pause everything—\n\nSpeaker 2: For the next five months.\n\nSpeaker 1: We won't charge you or send you anything.\n\nSpeaker 2: And then if you need them earlier, just give us a call, okay?\n\nSpeaker 1: I don't want it ever.\n\nSpeaker 2: I don't want to pause it, you know, for good, please.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Were you not a fan of the pills?\n\nSpeaker 1: No, they're fine, but I want some more all over.\n\nSpeaker 2: I don't want them automatically sent to me.\n\nSpeaker 1: Gotcha.\n\nSpeaker 2: Okay.\n\nSpeaker 1: So for the prescription, to keep it alive, that's the most important thing, to keep the—\n\nSpeaker 2: Prescription alive for the Viagra.\n\nSpeaker 1: So if you'd like, we can go all the way up to half a year.\n\nSpeaker 2: That way you have the prescription alive and be able to order it whenever you want.\n\nSpeaker 1: It wouldn't come monthly.\n\nSpeaker 2: It'd be like once or twice a year.\n\nSpeaker 1: That's the best that we can do to keep the prescription alive.\n\nSpeaker 2: No, I don't want to keep them alive.\n\nSpeaker 1: Why don't you want to keep it alive?\n\nSpeaker 2: I just don't.\n\nSpeaker 1: I don't want to be responsible for that every so often.\n\nSpeaker 2: I can...\n\nSpeaker 1: Once a year?\n\nSpeaker 2: Well, I'm fine.\n\nSpeaker 1: I don't want it.\n\nSpeaker 2: Okay.\n\nSpeaker 1: What are you going to do when you run out?\n\nSpeaker 2: Oh, fine.\n\nSpeaker 1: I'll order again.\n\nSpeaker 2: If they won't take my order, I won't order it.\n\nSpeaker 1: All right.\n\nSpeaker 2: All right.\n\nSpeaker 1: Good luck in the future.\n\nSpeaker 2: Yep.\n\nSpeaker 1: Take care.\n\nSpeaker 2: How do I know this is canceled?\n\nSpeaker 1: You can go online and see it.\n\nSpeaker 2: Okay.\n\nSpeaker 1: You'll send me an email?\n\nSpeaker 2: Yes, sir.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Take care.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thank you.",
+    "duration": 5084,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " This is Charles."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2,
+        "text": " Yes."
+      },
+      {
+        "id": 2,
+        "start": 2,
+        "end": 7,
+        "text": " I had ordered four blue, then I was automatically, a month later, I was automatically sent another"
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 17,
+        "text": " prescription, and I don't want, I don't want it resent every month."
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 18,
+        "text": " Okay."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 19,
+        "text": " Michael Malin?"
+      },
+      {
+        "id": 6,
+        "start": 19,
+        "end": 20,
+        "text": " Yep."
+      },
+      {
+        "id": 7,
+        "start": 20,
+        "end": 21,
+        "text": " Okay."
+      },
+      {
+        "id": 8,
+        "start": 21,
+        "end": 22,
+        "text": " All right."
+      },
+      {
+        "id": 9,
+        "start": 22,
+        "end": 25,
+        "text": " It looks like you're a VIP member here, Michael."
+      },
+      {
+        "id": 10,
+        "start": 25,
+        "end": 26,
+        "text": " We completely get it."
+      },
+      {
+        "id": 11,
+        "start": 26,
+        "end": 29,
+        "text": " If you don't necessarily need the pills every single month, we won't hold you to it."
+      },
+      {
+        "id": 12,
+        "start": 29,
+        "end": 33,
+        "text": " If you'd like, so you can have some time to use what you have, I can pause everything"
+      },
+      {
+        "id": 13,
+        "start": 33,
+        "end": 34,
+        "text": " for the next five months."
+      },
+      {
+        "id": 14,
+        "start": 34,
+        "end": 36,
+        "text": " We won't charge you or send you anything."
+      },
+      {
+        "id": 15,
+        "start": 36,
+        "end": 39,
+        "text": " And then if you need them earlier, just give us a call, okay?"
+      },
+      {
+        "id": 16,
+        "start": 39,
+        "end": 41,
+        "text": " I don't want it ever."
+      },
+      {
+        "id": 17,
+        "start": 41,
+        "end": 46,
+        "text": " I don't want to pause it, you know, for good, please."
+      },
+      {
+        "id": 18,
+        "start": 46,
+        "end": 47,
+        "text": " Okay."
+      },
+      {
+        "id": 19,
+        "start": 47,
+        "end": 49,
+        "text": " Were you not a fan of the pills?"
+      },
+      {
+        "id": 20,
+        "start": 49,
+        "end": 53,
+        "text": " No, they're fine, but I want some more all over."
+      },
+      {
+        "id": 21,
+        "start": 53,
+        "end": 57,
+        "text": " I don't want them automatically sent to me."
+      },
+      {
+        "id": 22,
+        "start": 58,
+        "end": 59,
+        "text": " Gotcha."
+      },
+      {
+        "id": 23,
+        "start": 59,
+        "end": 60,
+        "text": " Okay."
+      },
+      {
+        "id": 24,
+        "start": 60,
+        "end": 64,
+        "text": " So for the prescription, to keep it alive, that's the most important thing, to keep the"
+      },
+      {
+        "id": 25,
+        "start": 64,
+        "end": 66,
+        "text": " prescription alive for the Viagra."
+      },
+      {
+        "id": 26,
+        "start": 66,
+        "end": 70,
+        "text": " So if you'd like, we can go all the way up to half a year."
+      },
+      {
+        "id": 27,
+        "start": 70,
+        "end": 74,
+        "text": " That way you have the prescription alive and be able to order it whenever you want."
+      },
+      {
+        "id": 28,
+        "start": 74,
+        "end": 75,
+        "text": " It wouldn't come monthly."
+      },
+      {
+        "id": 29,
+        "start": 75,
+        "end": 77,
+        "text": " It'd be like once or twice a year."
+      },
+      {
+        "id": 30,
+        "start": 77,
+        "end": 81,
+        "text": " That's the best that we can do to keep the prescription alive."
+      },
+      {
+        "id": 31,
+        "start": 81,
+        "end": 84,
+        "text": " No, I don't want to keep them alive."
+      },
+      {
+        "id": 32,
+        "start": 85,
+        "end": 87,
+        "text": " Why don't you want to keep it alive?"
+      },
+      {
+        "id": 33,
+        "start": 87,
+        "end": 88,
+        "text": " I just don't."
+      },
+      {
+        "id": 34,
+        "start": 88,
+        "end": 93,
+        "text": " I don't want to be responsible for that every so often."
+      },
+      {
+        "id": 35,
+        "start": 93,
+        "end": 94,
+        "text": " I can..."
+      },
+      {
+        "id": 36,
+        "start": 94,
+        "end": 95,
+        "text": " Once a year?"
+      },
+      {
+        "id": 37,
+        "start": 95,
+        "end": 97,
+        "text": " Well, I'm fine."
+      },
+      {
+        "id": 38,
+        "start": 97,
+        "end": 98,
+        "text": " I don't want it."
+      },
+      {
+        "id": 39,
+        "start": 98,
+        "end": 99,
+        "text": " Okay."
+      },
+      {
+        "id": 40,
+        "start": 99,
+        "end": 101,
+        "text": " What are you going to do when you run out?"
+      },
+      {
+        "id": 41,
+        "start": 101,
+        "end": 102,
+        "text": " Oh, fine."
+      },
+      {
+        "id": 42,
+        "start": 102,
+        "end": 104,
+        "text": " I'll order again."
+      },
+      {
+        "id": 43,
+        "start": 104,
+        "end": 107,
+        "text": " If they won't take my order, I won't order it."
+      },
+      {
+        "id": 44,
+        "start": 107,
+        "end": 108,
+        "text": " All right."
+      },
+      {
+        "id": 45,
+        "start": 108,
+        "end": 109,
+        "text": " All right."
+      },
+      {
+        "id": 46,
+        "start": 109,
+        "end": 110,
+        "text": " Good luck in the future."
+      },
+      {
+        "id": 47,
+        "start": 110,
+        "end": 111,
+        "text": " Yep."
+      },
+      {
+        "id": 48,
+        "start": 115,
+        "end": 116,
+        "text": " Take care."
+      },
+      {
+        "id": 49,
+        "start": 116,
+        "end": 119,
+        "text": " How do I know this is canceled?"
+      },
+      {
+        "id": 50,
+        "start": 119,
+        "end": 122,
+        "text": " You can go online and see it."
+      },
+      {
+        "id": 51,
+        "start": 122,
+        "end": 123,
+        "text": " Okay."
+      },
+      {
+        "id": 52,
+        "start": 123,
+        "end": 124,
+        "text": " You'll send me an email?"
+      },
+      {
+        "id": 53,
+        "start": 124,
+        "end": 125,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 54,
+        "start": 125,
+        "end": 127,
+        "text": " Okay."
+      },
+      {
+        "id": 55,
+        "start": 127,
+        "end": 128,
+        "text": " Take care."
+      },
+      {
+        "id": 56,
+        "start": 128,
+        "end": 129,
+        "text": " Okay."
+      },
+      {
+        "id": 57,
+        "start": 129,
+        "end": 130,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-815a-833b-f6f2e41d2abf",
+    "url": "https://www.notion.so/300000001220143-300000001709992-2f611d0a101c815a833bf6f2e41d2abf"
+  },
+  "processedAt": "2026-01-28T18:03:11.086Z"
+}

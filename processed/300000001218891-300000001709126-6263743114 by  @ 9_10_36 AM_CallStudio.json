@@ -1,0 +1,67 @@
+{
+  "recording": {
+    "name": "300000001218891-300000001709126-6263743114 by  @ 9_10_36 AM_CallStudio.wav",
+    "size": 23526,
+    "modifyTime": 1769591536000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218891-300000001709126-6263743114 by  @ 9_10_36 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:12:16.000Z",
+    "callId": "300000001218891-300000001709126",
+    "phoneNumber": "6263743114",
+    "callTimestamp": "2026-01-28T09:12:16.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: Customer service.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Customer service.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Transferring to agent.",
+    "duration": 1006,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.179999828338623,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.179999828338623,
+        "end": 7.179999828338623,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.179999828338623,
+        "end": 8.180000305175781,
+        "text": " Customer service."
+      },
+      {
+        "id": 3,
+        "start": 8.180000305175781,
+        "end": 9.180000305175781,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 4,
+        "start": 9.180000305175781,
+        "end": 10.180000305175781,
+        "text": " Customer service."
+      },
+      {
+        "id": 5,
+        "start": 10.180000305175781,
+        "end": 11.180000305175781,
+        "text": " Thanks."
+      },
+      {
+        "id": 6,
+        "start": 11.180000305175781,
+        "end": 14.180000305175781,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8117-a96f-c8570da24b75",
+    "url": "https://www.notion.so/300000001218891-300000001709126-2f611d0a101c8117a96fc8570da24b75"
+  },
+  "processedAt": "2026-01-28T11:31:53.024Z"
+}

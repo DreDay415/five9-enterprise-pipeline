@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001218304-300000001708322-5054013972 by  @ 2_16_49 PM_CallStudio.wav",
+    "size": 28790,
+    "modifyTime": 1769583136000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218304-300000001708322-5054013972 by  @ 2_16_49 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T06:52:16.000Z",
+    "callId": "300000001218304-300000001708322",
+    "phoneNumber": "5054013972",
+    "callTimestamp": "2026-01-28T06:52:16.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Transaction declined for a reorder.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 873,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.139999866485596,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.139999866485596,
+        "end": 6.78000020980835,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.78000020980835,
+        "end": 11.279999732971191,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 11.359999656677246,
+        "end": 14.279999732971191,
+        "text": " Transaction declined for a reorder."
+      },
+      {
+        "id": 4,
+        "start": 14.279999732971191,
+        "end": 17.360000610351562,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81c9-bd68-e1fb35a127b8",
+    "url": "https://www.notion.so/300000001218304-300000001708322-2f611d0a101c81c9bd68e1fb35a127b8"
+  },
+  "processedAt": "2026-01-28T16:29:11.234Z"
+}

@@ -1,0 +1,92 @@
+{
+  "recording": {
+    "name": "300000001217640-300000001707892-7244986638 by john@superbalife.com @ 11_07_31 AM.wav",
+    "size": 74030,
+    "modifyTime": 1769584930000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217640-300000001707892-7244986638 by john@superbalife.com @ 11_07_31 AM.wav",
+    "uploadDate": "2026-01-28T07:22:10.000Z",
+    "callId": "300000001217640-300000001707892",
+    "agent": "john",
+    "phoneNumber": "7244986638",
+    "callTimestamp": "2026-01-28T11:07:31.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling, this is John. How can I help you?\n\nSpeaker 2: Yeah, I'd like to refill my prescription. I need your name and zip code.\n\nSpeaker 1: Michael Carvella, one six one zero one. Thank you.\n\nSpeaker 2: 401 Pearson Street.\n\nSpeaker 1: Yes.\n\nSpeaker 2: You want to do the same amount of pills, 54 of them?\n\nSpeaker 1: Yep, and then am I using the same MasterCard, nine three seven four?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Hey Michael, we're all set. Your order went through successfully.\n\nSpeaker 2: I'm gonna get your prescription renewed just because it did expire. But once that happens, we'll mail this out. So you're all set.\n\nSpeaker 1: All right. Thank you. Thank you.",
+    "duration": 2234,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling this is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3.119999885559082,
+        "end": 7.880000114440918,
+        "text": " Yeah, I'd like to refill my prescription. I need your name and zip code"
+      },
+      {
+        "id": 2,
+        "start": 9.359999656677246,
+        "end": 12.680000305175781,
+        "text": " Michael Carvella one six one zero one. Thank you"
+      },
+      {
+        "id": 3,
+        "start": 16.959999084472656,
+        "end": 18.920000076293945,
+        "text": " 401 Pearson Street"
+      },
+      {
+        "id": 4,
+        "start": 18.920000076293945,
+        "end": 20.360000610351562,
+        "text": " Yes"
+      },
+      {
+        "id": 5,
+        "start": 20.360000610351562,
+        "end": 23.100000381469727,
+        "text": " You want to do the same amount of pills 54 of them?"
+      },
+      {
+        "id": 6,
+        "start": 23.8799991607666,
+        "end": 27.799999237060547,
+        "text": " Yep, and then am I using the same MasterCard nine three seven four?"
+      },
+      {
+        "id": 7,
+        "start": 28.68000030517578,
+        "end": 30.68000030517578,
+        "text": " Yes"
+      },
+      {
+        "id": 8,
+        "start": 33.91999816894531,
+        "end": 36.68000030517578,
+        "text": " Hey Michael, we're all set your order went through successfully"
+      },
+      {
+        "id": 9,
+        "start": 36.84000015258789,
+        "end": 41.2400016784668,
+        "text": " I'm gonna get your prescription renewed just because it did expire. But once that happens, we'll mail this out. So you're all set"
+      },
+      {
+        "id": 10,
+        "start": 41.79999923706055,
+        "end": 43.79999923706055,
+        "text": " All right. Thank you. Thank you"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ee-9f50-d82d9def27c0",
+    "url": "https://www.notion.so/300000001217640-300000001707892-2f611d0a101c81ee9f50d82d9def27c0"
+  },
+  "processedAt": "2026-01-28T14:52:17.769Z"
+}

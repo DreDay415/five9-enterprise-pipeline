@@ -1,0 +1,97 @@
+{
+  "recording": {
+    "name": "300000001216955-300000001707425-7708336183 by  @ 8_39_09 AM_CallStudio.wav",
+    "size": 62980,
+    "modifyTime": 1769585239000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216955-300000001707425-7708336183 by  @ 8_39_09 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:27:19.000Z",
+    "callId": "300000001216955-300000001707425",
+    "phoneNumber": "7708336183",
+    "callTimestamp": "2026-01-28T07:27:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para español, marque numero nueve.\n\nSpeaker 2: Google compilation.\n\nSpeaker 1: I heard you say, Google compilation.\n\nSpeaker 2: Say yes or press one if this is correct.\n\nSpeaker 1: Otherwise, say no or press two.\n\nSpeaker 2: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 1: Speak loudly and clearly.\n\nSpeaker 2: Para español, marque numero nueve.\n\nSpeaker 1: Order confirmation.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 2293,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.78000020980835,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.980000019073486,
+        "end": 6.400000095367432,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.760000228881836,
+        "end": 8.220000267028809,
+        "text": " Para español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.84000015258789,
+        "end": 11,
+        "text": " Google compilation."
+      },
+      {
+        "id": 4,
+        "start": 15.079999923706055,
+        "end": 17.239999771118164,
+        "text": " I heard you say, Google compilation."
+      },
+      {
+        "id": 5,
+        "start": 18.079999923706055,
+        "end": 20.31999969482422,
+        "text": " Say yes or press one if this is correct."
+      },
+      {
+        "id": 6,
+        "start": 21.059999465942383,
+        "end": 23.18000030517578,
+        "text": " Otherwise, say no or press two."
+      },
+      {
+        "id": 7,
+        "start": 25.65999984741211,
+        "end": 28.860000610351562,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 8,
+        "start": 29.100000381469727,
+        "end": 30.479999542236328,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 9,
+        "start": 30.84000015258789,
+        "end": 32.2599983215332,
+        "text": " Para español, marque numero nueve."
+      },
+      {
+        "id": 10,
+        "start": 34,
+        "end": 35.18000030517578,
+        "text": " Order confirmation."
+      },
+      {
+        "id": 11,
+        "start": 37.13999938964844,
+        "end": 38.31999969482422,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81f3-b708-e818a90a6851",
+    "url": "https://www.notion.so/300000001216955-300000001707425-2f611d0a101c81f3b708e818a90a6851"
+  },
+  "processedAt": "2026-01-28T14:28:56.709Z"
+}

@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001219643-300000001709666-5305705481 by  @ 12_12_51 PM_CallStudio.wav",
+    "size": 30546,
+    "modifyTime": 1769590942000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219643-300000001709666-5305705481 by  @ 12_12_51 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:02:22.000Z",
+    "callId": "300000001219643-300000001709666",
+    "phoneNumber": "5305705481",
+    "callTimestamp": "2026-01-28T09:02:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español marque numero nueve.\n\nSpeaker 2: I want to decrease the frequency of my shipments.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1556,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.159999847412109,
+        "end": 7.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.159999847412109,
+        "end": 11.039999961853027,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 11.039999961853027,
+        "end": 17.239999771118164,
+        "text": " I want to decrease the frequency of my shipments."
+      },
+      {
+        "id": 4,
+        "start": 17.239999771118164,
+        "end": 18.559999465942383,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816c-a402-cdadd2975beb",
+    "url": "https://www.notion.so/300000001219643-300000001709666-2f611d0a101c816ca402cdadd2975beb"
+  },
+  "processedAt": "2026-01-28T11:49:14.241Z"
+}

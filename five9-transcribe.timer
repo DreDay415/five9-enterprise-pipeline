@@ -1,0 +1,11 @@
+[Unit]
+Description=Run Five9 transcription 4 times daily (10am, 12pm, 2pm, 4pm PT)
+
+[Timer]
+OnCalendar=hourly
+TimeZone=America/Los_Angeles
+Persistent=true
+Unit=five9-transcribe.service
+
+[Install]
+WantedBy=timers.target

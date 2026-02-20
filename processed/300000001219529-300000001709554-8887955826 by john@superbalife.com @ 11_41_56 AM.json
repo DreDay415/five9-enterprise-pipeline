@@ -1,0 +1,50 @@
+{
+  "recording": {
+    "name": "300000001219529-300000001709554-8887955826 by john@superbalife.com @ 11_41_56 AM.wav",
+    "size": 24176,
+    "modifyTime": 1769583435000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219529-300000001709554-8887955826 by john@superbalife.com @ 11_41_56 AM.wav",
+    "uploadDate": "2026-01-28T06:57:15.000Z",
+    "callId": "300000001219529-300000001709554",
+    "agent": "john",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T11:41:56.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Hello?",
+    "duration": 824,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 7,
+        "text": " Hello?"
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 10,
+        "text": " Hello?"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 13,
+        "text": " Hello?"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-819e-808e-c3e2b2209068",
+    "url": "https://www.notion.so/300000001219529-300000001709554-2f611d0a101c819e808ec3e2b2209068"
+  },
+  "processedAt": "2026-01-28T16:20:42.718Z"
+}

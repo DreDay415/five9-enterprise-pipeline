@@ -1,0 +1,146 @@
+{
+  "recording": {
+    "name": "300000001222801-300000001712454-8012019740 by summer@verifiednutrition.com @ 12_16_17 PM.wav",
+    "size": 89436,
+    "modifyTime": 1769717855000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222801-300000001712454-8012019740 by summer@verifiednutrition.com @ 12_16_17 PM.wav",
+    "uploadDate": "2026-01-29T20:17:35.000Z",
+    "callId": "300000001222801-300000001712454",
+    "agent": "summer",
+    "phoneNumber": "8012019740",
+    "callTimestamp": "2026-01-29T12:16:17.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I need to get a refill.\n\nSpeaker 2: Sure.\n\nSpeaker 1: Name and birthday.\n\nSpeaker 2: Dan Moffood, 421-57.\n\nSpeaker 1: Okay, one second.\n\nSpeaker 2: Are you still on Palisades Drive?\n\nSpeaker 1: Yes.\n\nSpeaker 2: You want to get 25 tablets, 50 milligrams?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: You want to use the same card?\n\nSpeaker 2: Yes.\n\nSpeaker 1: All righty.\n\nSpeaker 2: You are good to go.\n\nSpeaker 1: Is there anything else I can assist you with?\n\nSpeaker 2: No, I'll do it.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Okay, bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 2645,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " I need to get a refill."
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 8,
+        "text": " Sure."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 10,
+        "text": " Name and birthday."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 13,
+        "text": " Dan Moffood, 421-57."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 16,
+        "text": " Okay, one second."
+      },
+      {
+        "id": 5,
+        "start": 16,
+        "end": 26,
+        "text": " Are you still on Palisades Drive?"
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 27,
+        "text": " Yes."
+      },
+      {
+        "id": 7,
+        "start": 27,
+        "end": 31,
+        "text": " You want to get 25 tablets, 50 milligrams?"
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 32,
+        "text": " Yes."
+      },
+      {
+        "id": 9,
+        "start": 32,
+        "end": 33,
+        "text": " Okay."
+      },
+      {
+        "id": 10,
+        "start": 33,
+        "end": 37,
+        "text": " You want to use the same cart?"
+      },
+      {
+        "id": 11,
+        "start": 37,
+        "end": 38,
+        "text": " Yes."
+      },
+      {
+        "id": 12,
+        "start": 38,
+        "end": 43,
+        "text": " All righty."
+      },
+      {
+        "id": 13,
+        "start": 43,
+        "end": 46,
+        "text": " You are good to go."
+      },
+      {
+        "id": 14,
+        "start": 46,
+        "end": 48,
+        "text": " Is there anything else I can assist you with?"
+      },
+      {
+        "id": 15,
+        "start": 48,
+        "end": 49,
+        "text": " No, I'll do it."
+      },
+      {
+        "id": 16,
+        "start": 49,
+        "end": 50,
+        "text": " Thank you."
+      },
+      {
+        "id": 17,
+        "start": 50,
+        "end": 51,
+        "text": " You're welcome."
+      },
+      {
+        "id": 18,
+        "start": 51,
+        "end": 52,
+        "text": " Okay, bye."
+      },
+      {
+        "id": 19,
+        "start": 52,
+        "end": 53,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81b4-97e9-fa37d88dbd3f",
+    "url": "https://www.notion.so/300000001222801-300000001712454-2f711d0a101c81b497e9fa37d88dbd3f"
+  },
+  "processedAt": "2026-01-29T21:36:08.230Z"
+}

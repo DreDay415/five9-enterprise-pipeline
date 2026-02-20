@@ -1,0 +1,116 @@
+{
+  "recording": {
+    "name": "300000001217811-300000001707993-7209332472 by michelleh@superbalife.com @ 11_57_02 AM.wav",
+    "size": 82740,
+    "modifyTime": 1769590640000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217811-300000001707993-7209332472 by michelleh@superbalife.com @ 11_57_02 AM.wav",
+    "uploadDate": "2026-01-28T08:57:20.000Z",
+    "callId": "300000001217811-300000001707993",
+    "agent": "michelleh",
+    "phoneNumber": "7209332472",
+    "callTimestamp": "2026-01-28T11:57:02.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Hi. I have an account with you guys. My name is Gerald, J-E-R-R-A-L-D.\n\nSpeaker 1: My last name is Flanagan, F-L-A-N-N-I-G-A-N.\n\nSpeaker 2: Thank you, Gerald. Can you just confirm your date of birth?\n\nSpeaker 1: 5-22-1951.\n\nSpeaker 2: Thank you so much for your VIP status, customer. And how can I help you today?\n\nSpeaker 1: I want to cancel my prescription and not receive or be billed for any more medication.\n\nSpeaker 2: Okay. Yeah, not a problem.\n\nSpeaker 1: Did you want to try out the AGB?\n\nSpeaker 2: No, I just want to cancel everything.\n\nSpeaker 1: Okay. You're all canceled. You're all set.\n\nSpeaker 2: Okay. Thank you so much. Appreciate your help.\n\nSpeaker 1: No problem. Have a great day.\n\nSpeaker 2: You too. Bye-bye.\n\nSpeaker 1: Bye.",
+    "duration": 2701,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 10,
+        "text": " Hi. I have an account with you guys. My name is Gerald, J-E-R-R-A-L-D."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 14,
+        "text": " My last name is Flanagan, F-L-A-N-N-I-G-A-N."
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 17,
+        "text": " Thank you, Gerald. Can you just confirm your date of birth?"
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 21,
+        "text": " 5-22-1951."
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 25,
+        "text": " Thank you so much for your VIP status, customer. And how can I help you today?"
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 32,
+        "text": " I want to cancel my prescription and not receive or be billed for any more medication."
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 35,
+        "text": " Okay. Yeah, not a problem."
+      },
+      {
+        "id": 8,
+        "start": 35,
+        "end": 38,
+        "text": " Did you want to try out the AGB?"
+      },
+      {
+        "id": 9,
+        "start": 38,
+        "end": 41,
+        "text": " No, I just want to cancel everything."
+      },
+      {
+        "id": 10,
+        "start": 41,
+        "end": 45,
+        "text": " Okay. You're all canceled. You're all set."
+      },
+      {
+        "id": 11,
+        "start": 45,
+        "end": 47,
+        "text": " Okay. Thank you so much. Appreciate your help."
+      },
+      {
+        "id": 12,
+        "start": 47,
+        "end": 49,
+        "text": " No problem. Have a great day."
+      },
+      {
+        "id": 13,
+        "start": 49,
+        "end": 50,
+        "text": " You too. Bye-bye."
+      },
+      {
+        "id": 14,
+        "start": 50,
+        "end": 51,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-811d-bccc-c75cf58dd4f6",
+    "url": "https://www.notion.so/300000001217811-300000001707993-2f611d0a101c811dbcccc75cf58dd4f6"
+  },
+  "processedAt": "2026-01-28T12:04:55.785Z"
+}

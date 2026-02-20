@@ -1,0 +1,50 @@
+{
+  "recording": {
+    "name": "300000001217449-300000001707771-2188300658 by johanna@superbalife.com @ 10_26_18 AM.wav",
+    "size": 35940,
+    "modifyTime": 1769585237000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217449-300000001707771-2188300658 by johanna@superbalife.com @ 10_26_18 AM.wav",
+    "uploadDate": "2026-01-28T07:27:17.000Z",
+    "callId": "300000001217449-300000001707771",
+    "agent": "johanna",
+    "phoneNumber": "2188300658",
+    "callTimestamp": "2026-01-28T10:26:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. Joanna speaking. How can I help you?\n\nSpeaker 2: I wanted to continue to suspend my auto ship. I think it's on suspension right now, but I want to go farther with it.\n\nSpeaker 1: Okay. Let me just get your name and date of birth.\n\nSpeaker 2: Brad Wittenberg, 310-64.",
+    "duration": 2026,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you for calling Viagra. Joanna speaking. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 11,
+        "text": " I wanted to continue to suspend my auto ship. I think it's on suspension right now, but I want to go farther with it."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 16,
+        "text": " Okay. Let me just get your name and date of birth."
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 22,
+        "text": " Brad Wittenberg, 310-64."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e8-ae73-c99f1bde3cc7",
+    "url": "https://www.notion.so/300000001217449-300000001707771-2f611d0a101c81e8ae73c99f1bde3cc7"
+  },
+  "processedAt": "2026-01-28T14:31:44.324Z"
+}

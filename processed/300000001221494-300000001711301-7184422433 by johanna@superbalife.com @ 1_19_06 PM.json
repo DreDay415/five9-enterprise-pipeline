@@ -1,0 +1,110 @@
+{
+  "recording": {
+    "name": "300000001221494-300000001711301-7184422433 by johanna@superbalife.com @ 1_19_06 PM.wav",
+    "size": 68180,
+    "modifyTime": 1769635210000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221494-300000001711301-7184422433 by johanna@superbalife.com @ 1_19_06 PM.wav",
+    "uploadDate": "2026-01-28T21:20:10.000Z",
+    "callId": "300000001221494-300000001711301",
+    "agent": "johanna",
+    "phoneNumber": "7184422433",
+    "callTimestamp": "2026-01-28T13:19:06.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hello?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?",
+    "duration": 5210,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Hello?"
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2,
+        "text": " Hello?"
+      },
+      {
+        "id": 2,
+        "start": 2,
+        "end": 3,
+        "text": " Hello?"
+      },
+      {
+        "id": 3,
+        "start": 3,
+        "end": 4,
+        "text": " Hello?"
+      },
+      {
+        "id": 4,
+        "start": 5,
+        "end": 6,
+        "text": " Hello?"
+      },
+      {
+        "id": 5,
+        "start": 6,
+        "end": 7,
+        "text": " Hello?"
+      },
+      {
+        "id": 6,
+        "start": 7,
+        "end": 8,
+        "text": " Hello?"
+      },
+      {
+        "id": 7,
+        "start": 8,
+        "end": 9,
+        "text": " Hello?"
+      },
+      {
+        "id": 8,
+        "start": 9,
+        "end": 10,
+        "text": " Hello?"
+      },
+      {
+        "id": 9,
+        "start": 10,
+        "end": 11,
+        "text": " Hello?"
+      },
+      {
+        "id": 10,
+        "start": 12,
+        "end": 14,
+        "text": " Hello?"
+      },
+      {
+        "id": 11,
+        "start": 18,
+        "end": 19,
+        "text": " Hello?"
+      },
+      {
+        "id": 12,
+        "start": 41,
+        "end": 42,
+        "text": " Hello?"
+      },
+      {
+        "id": 13,
+        "start": 42,
+        "end": 42,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8151-8136-d7a64b61ebcf",
+    "url": "https://www.notion.so/300000001221494-300000001711301-2f611d0a101c81518136d7a64b61ebcf"
+  },
+  "processedAt": "2026-01-28T22:39:13.812Z"
+}

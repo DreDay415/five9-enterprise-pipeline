@@ -1,0 +1,209 @@
+{
+  "recording": {
+    "name": "300000001241522-300000001731294-6232936217 by shantay@superbalife.com @ 8_50_30 AM.wav",
+    "size": 162300,
+    "modifyTime": 1771001552000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241522-300000001731294-6232936217 by shantay@superbalife.com @ 8_50_30 AM.wav",
+    "uploadDate": "2026-02-13T16:52:32.000Z",
+    "callId": "300000001241522-300000001731294",
+    "agent": "shantay",
+    "phoneNumber": "6232936217",
+    "callTimestamp": "2026-02-13T08:50:30.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_shantay_300000001241522-300000001731294_6232936217.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_shantay_300000001241522-300000001731294_6232936217.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I assist you?\n\nSpeaker 2: Yeah, I got a prescription order sent to me yesterday and I never had, I never gave anybody authorization to run my credit card again and send me another prescription.\n\nSpeaker 1: Okay, our service, it does come with prescription refills.\n\nSpeaker 2: What's that?\n\nSpeaker 1: I said our service, the prescription does come with refills, so that's probably why you received another one, but I can help you with your account.\n\nSpeaker 2: What's your name and your date of birth?\n\nSpeaker 1: Barry Devereaux, 226-67.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Yeah, I don't want anybody charging my credit cards anymore without my authorization.\n\nSpeaker 2: Okay, so I see that you have a prescription for the Viagra 100 milligrams.\n\nSpeaker 1: As I mentioned that the service does come with refills, but you're not obligated to get them as often every month.\n\nSpeaker 2: If it is something that you do plan on taking down the line to keep your prescription active, we can adjust your frequency to every six months.\n\nSpeaker 1: Just pause it for right now, I don't need anymore right now.\n\nSpeaker 2: Okay, pause it without a refill date, it's cancelling the prescription, and so if you do decide to order down the line, you'll have to like start all over again and the second time.\n\nSpeaker 1: Well then just do it at six months.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Just do it at six months.\n\nSpeaker 2: Okay, and then you can always reorder before then or delay it if you need to.\n\nSpeaker 1: Okay, so I won't see any more for six months.\n\nSpeaker 2: Right, that is correct.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Have a good day.\n\nSpeaker 2: You too.",
+    "duration": 3631,
+    "audioDuration": 99.83999633789062,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.759999990463257,
+        "text": " Thank you for calling Viagra, how can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 3.759999990463257,
+        "end": 13.899999618530273,
+        "text": " Yeah, I got a prescription order sent to me yesterday and I never had, I never gave anybody"
+      },
+      {
+        "id": 2,
+        "start": 13.899999618530273,
+        "end": 18.799999237060547,
+        "text": " authorization to run my credit card again and send me another prescription."
+      },
+      {
+        "id": 3,
+        "start": 18.799999237060547,
+        "end": 24.68000030517578,
+        "text": " Okay, our service, it does come with prescription refills."
+      },
+      {
+        "id": 4,
+        "start": 24.68000030517578,
+        "end": 25.68000030517578,
+        "text": " What's that?"
+      },
+      {
+        "id": 5,
+        "start": 25.68000030517578,
+        "end": 29.399999618530273,
+        "text": " I said our service, the prescription does come with refills, so that's probably why"
+      },
+      {
+        "id": 6,
+        "start": 29.399999618530273,
+        "end": 31.920000076293945,
+        "text": " you received another one, but I can help you with your account."
+      },
+      {
+        "id": 7,
+        "start": 31.920000076293945,
+        "end": 34.52000045776367,
+        "text": " What's your name and your date of birth?"
+      },
+      {
+        "id": 8,
+        "start": 34.52000045776367,
+        "end": 37.08000183105469,
+        "text": " Barry Devereaux, 226-67."
+      },
+      {
+        "id": 9,
+        "start": 37.08000183105469,
+        "end": 39.400001525878906,
+        "text": " Thank you."
+      },
+      {
+        "id": 10,
+        "start": 39.400001525878906,
+        "end": 46.79999923706055,
+        "text": " Yeah, I don't want anybody charging my credit cards anymore without my authorization."
+      },
+      {
+        "id": 11,
+        "start": 46.79999923706055,
+        "end": 55.36000061035156,
+        "text": " Okay, so I see that you have a prescription for the Viagra 100 milligrams."
+      },
+      {
+        "id": 12,
+        "start": 55.36000061035156,
+        "end": 58.599998474121094,
+        "text": " As I mentioned that the service does come with refills, but you're not obligated to"
+      },
+      {
+        "id": 13,
+        "start": 58.599998474121094,
+        "end": 60.15999984741211,
+        "text": " get them as often every month."
+      },
+      {
+        "id": 14,
+        "start": 60.15999984741211,
+        "end": 64.68000030517578,
+        "text": " If it is something that you do plan on taking down the line to keep your prescription active,"
+      },
+      {
+        "id": 15,
+        "start": 64.68000030517578,
+        "end": 68,
+        "text": " we can adjust your frequency to every six months."
+      },
+      {
+        "id": 16,
+        "start": 68,
+        "end": 72.4000015258789,
+        "text": " Just pause it for right now, I don't need anymore right now."
+      },
+      {
+        "id": 17,
+        "start": 72.4000015258789,
+        "end": 77.4800033569336,
+        "text": " Okay, pause it without a refill date, it's cancelling the prescription, and so if you"
+      },
+      {
+        "id": 18,
+        "start": 77.4800033569336,
+        "end": 81.19999694824219,
+        "text": " do decide to order down the line, you'll have to like start all over again and the second"
+      },
+      {
+        "id": 19,
+        "start": 81.19999694824219,
+        "end": 82.19999694824219,
+        "text": " time."
+      },
+      {
+        "id": 20,
+        "start": 82.19999694824219,
+        "end": 83.19999694824219,
+        "text": " Well then just do it at six months."
+      },
+      {
+        "id": 21,
+        "start": 83.19999694824219,
+        "end": 84.19999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 22,
+        "start": 84.19999694824219,
+        "end": 85.19999694824219,
+        "text": " Just do it at six months."
+      },
+      {
+        "id": 23,
+        "start": 85.19999694824219,
+        "end": 90.4800033569336,
+        "text": " Okay, and then you can always reorder before then or delay it if you need to."
+      },
+      {
+        "id": 24,
+        "start": 90.4800033569336,
+        "end": 93.27999877929688,
+        "text": " Okay, so I won't see any more for six months."
+      },
+      {
+        "id": 25,
+        "start": 93.27999877929688,
+        "end": 95.04000091552734,
+        "text": " Right, that is correct."
+      },
+      {
+        "id": 26,
+        "start": 95.04000091552734,
+        "end": 96.72000122070312,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 27,
+        "start": 96.72000122070312,
+        "end": 97.72000122070312,
+        "text": " You're welcome."
+      },
+      {
+        "id": 28,
+        "start": 97.72000122070312,
+        "end": 98.72000122070312,
+        "text": " Have a good day."
+      },
+      {
+        "id": 29,
+        "start": 98.72000122070312,
+        "end": 99,
+        "text": " You too."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8190-b508-c635b053d892",
+    "url": "https://www.notion.so/300000001241522-300000001731294-30611d0a101c8190b508c635b053d892"
+  },
+  "processedAt": "2026-02-13T17:06:47.262Z"
+}

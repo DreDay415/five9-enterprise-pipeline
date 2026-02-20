@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001239230-300000001728962-6105099352 by  @ 1_54_31 PM_CallStudio.wav",
+    "size": 45950,
+    "modifyTime": 1770846922000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239230-300000001728962-6105099352 by  @ 1_54_31 PM_CallStudio.wav",
+    "uploadDate": "2026-02-11T21:55:22.000Z",
+    "callId": "300000001239230-300000001728962",
+    "phoneNumber": "6105099352",
+    "callTimestamp": "2026-02-11T21:55:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Cancel the order.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1771,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.119999885559082,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.260000228881836,
+        "end": 6.739999771118164,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.739999771118164,
+        "end": 8.539999961853027,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 16.040000915527344,
+        "end": 18.860000610351562,
+        "text": " We didn't receive a response, or I couldn't hear your."
+      },
+      {
+        "id": 4,
+        "start": 19.520000457763672,
+        "end": 20.440000534057617,
+        "text": " Let's try again."
+      },
+      {
+        "id": 5,
+        "start": 21.059999465942383,
+        "end": 22.68000030517578,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 6,
+        "start": 23.959999084472656,
+        "end": 24.899999618530273,
+        "text": " Cancel the order."
+      },
+      {
+        "id": 7,
+        "start": 26.360000610351562,
+        "end": 27.920000076293945,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-8168-9c1f-c5843697f7fa",
+    "url": "https://www.notion.so/300000001239230-300000001728962-30411d0a101c81689c1fc5843697f7fa"
+  },
+  "processedAt": "2026-02-11T22:03:05.716Z"
+}

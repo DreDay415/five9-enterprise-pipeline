@@ -1,0 +1,122 @@
+{
+  "recording": {
+    "name": "300000001220894-300000001710911-3213910325 by john@superbalife.com @ 10_25_41 AM.wav",
+    "size": 79100,
+    "modifyTime": 1769624821000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220894-300000001710911-3213910325 by john@superbalife.com @ 10_25_41 AM.wav",
+    "uploadDate": "2026-01-28T18:27:01.000Z",
+    "callId": "300000001220894-300000001710911",
+    "agent": "john",
+    "phoneNumber": "3213910325",
+    "callTimestamp": "2026-01-28T10:25:41.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling, this is John, how can I help you?\n\nSpeaker 2: Yeah, I was just, I didn't know, I was kind of confused about these emails I got. I ordered something from you guys. I was just curious if everything went through, if it was being shipped out or what.\n\nSpeaker 1: Yeah, I need your name and zip code.\n\nSpeaker 2: Ricky Proctor.\n\nSpeaker 1: And zip code is 32927.\n\nSpeaker 2: Thanks.\n\nSpeaker 1: 600 Camp Road.\n\nSpeaker 2: So, what that most recent one was, was saying that you've been approved for the prescription,\n\nSpeaker 1: so you filled out everything and you got approved.\n\nSpeaker 2: Our pharmacy has processed your order.\n\nSpeaker 1: It doesn't have a shipping, a tracking number yet, but if it doesn't ship today, I'll ship that tomorrow.\n\nSpeaker 2: Okay, alright, cool.\n\nSpeaker 1: Yep, I hope you get one.\n\nSpeaker 2: Yeah, sounds good, bye.",
+    "duration": 2084,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling, this is John, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 7,
+        "text": " Yeah, I was just, I didn't know, I was kind of confused about these emails I got."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " I ordered something from you guys."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 14,
+        "text": " I was just curious if everything went through, if it was being shipped out or what."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 16,
+        "text": " Yeah, I need your name and zip code."
+      },
+      {
+        "id": 5,
+        "start": 16,
+        "end": 18,
+        "text": " Ricky Proctor."
+      },
+      {
+        "id": 6,
+        "start": 18,
+        "end": 21,
+        "text": " And zip code is 32927."
+      },
+      {
+        "id": 7,
+        "start": 21,
+        "end": 23,
+        "text": " Thanks."
+      },
+      {
+        "id": 8,
+        "start": 27,
+        "end": 29,
+        "text": " 600 Camp Road."
+      },
+      {
+        "id": 9,
+        "start": 29,
+        "end": 34,
+        "text": " So, what that most recent one was, was saying that you've been approved for the prescription,"
+      },
+      {
+        "id": 10,
+        "start": 34,
+        "end": 36,
+        "text": " so you filled out everything and you got approved."
+      },
+      {
+        "id": 11,
+        "start": 36,
+        "end": 38,
+        "text": " Our pharmacy has processed your order."
+      },
+      {
+        "id": 12,
+        "start": 38,
+        "end": 43,
+        "text": " It doesn't have a shipping, a tracking number yet, but if it doesn't ship today, I'll ship that tomorrow."
+      },
+      {
+        "id": 13,
+        "start": 43,
+        "end": 45,
+        "text": " Okay, alright, cool."
+      },
+      {
+        "id": 14,
+        "start": 45,
+        "end": 47,
+        "text": " Yep, I hope you get one."
+      },
+      {
+        "id": 15,
+        "start": 47,
+        "end": 49,
+        "text": " Yeah, sounds good, bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81b2-98a3-f6992848c714",
+    "url": "https://www.notion.so/300000001220894-300000001710911-2f711d0a101c81b298a3f6992848c714"
+  },
+  "processedAt": "2026-01-29T00:19:52.353Z"
+}

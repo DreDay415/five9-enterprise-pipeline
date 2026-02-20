@@ -1,0 +1,43 @@
+{
+  "recording": {
+    "name": "300000001216128-300000001705670-5716620260 by  @ 12_16_41 PM_CallStudio.wav",
+    "size": 39580,
+    "modifyTime": 1769589435000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216128-300000001705670-5716620260 by  @ 12_16_41 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T08:37:15.000Z",
+    "callId": "300000001216128-300000001705670",
+    "phoneNumber": "5716620260",
+    "callTimestamp": "2026-01-28T08:37:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto.\n\nSpeaker 2: Y claro.\n\nSpeaker 1: Hablando por un pedido.",
+    "duration": 858,
+    "language": "spanish",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 16.84000015258789,
+        "text": " Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto"
+      },
+      {
+        "id": 1,
+        "start": 16.84000015258789,
+        "end": 17.84000015258789,
+        "text": " y claro."
+      },
+      {
+        "id": 2,
+        "start": 17.84000015258789,
+        "end": 22.239999771118164,
+        "text": " Hablando por un pedido."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8100-8b80-c1fa83763c19",
+    "url": "https://www.notion.so/300000001216128-300000001705670-2f611d0a101c81008b80c1fa83763c19"
+  },
+  "processedAt": "2026-01-28T12:48:46.245Z"
+}

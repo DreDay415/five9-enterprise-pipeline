@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001217963-300000001708095-9125333993 by  @ 12_45_28 PM_CallStudio.wav",
+    "size": 32366,
+    "modifyTime": 1769583134000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217963-300000001708095-9125333993 by  @ 12_45_28 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T06:52:14.000Z",
+    "callId": "300000001217963-300000001708095",
+    "phoneNumber": "9125333993",
+    "callTimestamp": "2026-01-28T06:52:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Yes, I'm calling about the price of one.\n\nSpeaker 1: Thanks.",
+    "duration": 843,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.960000038146973,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.960000038146973,
+        "end": 6.599999904632568,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.599999904632568,
+        "end": 10.600000381469727,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.600000381469727,
+        "end": 18.440000534057617,
+        "text": " Yes, I'm calling about the price of one."
+      },
+      {
+        "id": 4,
+        "start": 18.440000534057617,
+        "end": 19.68000030517578,
+        "text": " Thanks Translator Agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8103-97a2-cea864316090",
+    "url": "https://www.notion.so/300000001217963-300000001708095-2f611d0a101c810397a2cea864316090"
+  },
+  "processedAt": "2026-01-28T16:33:27.683Z"
+}

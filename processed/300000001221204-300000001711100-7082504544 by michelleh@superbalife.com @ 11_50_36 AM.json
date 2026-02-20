@@ -1,0 +1,206 @@
+{
+  "recording": {
+    "name": "300000001221204-300000001711100-7082504544 by michelleh@superbalife.com @ 11_50_36 AM.wav",
+    "size": 193370,
+    "modifyTime": 1769630177000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221204-300000001711100-7082504544 by michelleh@superbalife.com @ 11_50_36 AM.wav",
+    "uploadDate": "2026-01-28T19:56:17.000Z",
+    "callId": "300000001221204-300000001711100",
+    "agent": "michelleh",
+    "phoneNumber": "7082504544",
+    "callTimestamp": "2026-01-28T11:50:36.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Who am I speaking with?\n\nSpeaker 1: My name is Michelle.\n\nSpeaker 2: Michelle, Mark Schneider. How are you?\n\nSpeaker 1: Good. How are you doing, Mark?\n\nSpeaker 2: Good. I'm a little stressed out, but I'm sure I'm going to get some answers here.\n\nSpeaker 1: I had called you guys a week or two ago.\n\nSpeaker 2: I tried to cancel my subscription. You charged me $63.95 again.\n\nSpeaker 1: Okay, Mark. Can you just confirm your date of birth?\n\nSpeaker 2: I'm sure it's March 17, 1961.\n\nSpeaker 1: Thank you so much. Okay, let's see what's going on.\n\nSpeaker 2: When I called to talk to the gentleman, he said he was going to credit me the amount and he was going to send me some new and improved…\n\nSpeaker 1: Why did he only send you $10 and not $30?\n\nSpeaker 2: He wasn't supposed to charge me anything.\n\nSpeaker 1: He says, I'm going to send you this as a trial.\n\nSpeaker 2: He says, I'm not going to charge you because you've been a VIP customer.\n\nSpeaker 1: Yeah, and then I see the notes from our pharmacy. They can't FedEx to a P.O. box.\n\nSpeaker 2: Hold on. I'll refund you right now. Give me a second.\n\nSpeaker 1: Michelle, I need a $63.95 refund. I've canceled this thing.\n\nSpeaker 2: If I just send the product back, it doesn't work for me, so I don't care about that.\n\nSpeaker 1: I'm going to toss it in the garbage.\n\nSpeaker 2: So you received the AGV, right? The replacement from the 16th?\n\nSpeaker 1: Let me double check.\n\nSpeaker 2: Yeah, take out the pill because the AGV, the only number imprinted on the AGV is the number 100.\n\nSpeaker 1: And those aren't working for you either?\n\nSpeaker 2: These aren't the 100. So I just got these.\n\nSpeaker 1: So these I just received. I haven't tried those yet.\n\nSpeaker 2: Can I put you on a brief hold really quick?\n\nSpeaker 1: Yep.\n\nSpeaker 2: Hold on one second. Thank you.",
+    "duration": 6258,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 5,
+        "text": " Who am I speaking with?"
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 7,
+        "text": " My name is Michelle."
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 9,
+        "text": " Michelle, Mark Schneider. How are you?"
+      },
+      {
+        "id": 4,
+        "start": 9,
+        "end": 11,
+        "text": " Good. How are you doing, Mark?"
+      },
+      {
+        "id": 5,
+        "start": 11,
+        "end": 16,
+        "text": " Good. I'm a little stressed out, but I'm sure I'm going to get some answers here."
+      },
+      {
+        "id": 6,
+        "start": 16,
+        "end": 20,
+        "text": " I had called you guys a week or two ago."
+      },
+      {
+        "id": 7,
+        "start": 22,
+        "end": 27,
+        "text": " I tried to cancel my subscription. You charged me $63.95 again."
+      },
+      {
+        "id": 8,
+        "start": 27,
+        "end": 30,
+        "text": " Okay, Mark. Can you just confirm your date of birth?"
+      },
+      {
+        "id": 9,
+        "start": 30,
+        "end": 33,
+        "text": " I'm sure it's March 17, 1961."
+      },
+      {
+        "id": 10,
+        "start": 33,
+        "end": 36,
+        "text": " Thank you so much. Okay, let's see what's going on."
+      },
+      {
+        "id": 11,
+        "start": 36,
+        "end": 45,
+        "text": " When I called to talk to the gentleman, he said he was going to credit me the amount and he was going to send me some new and improved…"
+      },
+      {
+        "id": 12,
+        "start": 45,
+        "end": 49,
+        "text": " Why did he only send you $10 and not $30?"
+      },
+      {
+        "id": 13,
+        "start": 49,
+        "end": 52,
+        "text": " He wasn't supposed to charge me anything."
+      },
+      {
+        "id": 14,
+        "start": 52,
+        "end": 55,
+        "text": " He says, I'm going to send you this as a trial."
+      },
+      {
+        "id": 15,
+        "start": 55,
+        "end": 60,
+        "text": " He says, I'm not going to charge you because you've been a VIP customer."
+      },
+      {
+        "id": 16,
+        "start": 60,
+        "end": 65,
+        "text": " Yeah, and then I see the notes from our pharmacy. They can't FedEx to a P.O. box."
+      },
+      {
+        "id": 17,
+        "start": 65,
+        "end": 68,
+        "text": " Hold on. I'll refund you right now. Give me a second."
+      },
+      {
+        "id": 18,
+        "start": 70,
+        "end": 76,
+        "text": " Michelle, I need a $63.95 refund. I've canceled this thing."
+      },
+      {
+        "id": 19,
+        "start": 76,
+        "end": 81,
+        "text": " If I just send the product back, it doesn't work for me, so I don't care about that."
+      },
+      {
+        "id": 20,
+        "start": 81,
+        "end": 83,
+        "text": " I'm going to toss it in the garbage."
+      },
+      {
+        "id": 21,
+        "start": 83,
+        "end": 90,
+        "text": " So you received the AGV, right? The replacement from the 16th?"
+      },
+      {
+        "id": 22,
+        "start": 90,
+        "end": 93,
+        "text": " Let me double check."
+      },
+      {
+        "id": 23,
+        "start": 93,
+        "end": 101,
+        "text": " Yeah, take out the pill because the AGV, the only number imprinted on the AGV is the number 100."
+      },
+      {
+        "id": 24,
+        "start": 101,
+        "end": 105,
+        "text": " And those aren't working for you either?"
+      },
+      {
+        "id": 25,
+        "start": 106,
+        "end": 110,
+        "text": " These aren't the 100. So I just got these."
+      },
+      {
+        "id": 26,
+        "start": 110,
+        "end": 114,
+        "text": " So these I just received. I haven't tried those yet."
+      },
+      {
+        "id": 27,
+        "start": 114,
+        "end": 117,
+        "text": " Can I put you on a brief hold really quick?"
+      },
+      {
+        "id": 28,
+        "start": 117,
+        "end": 118,
+        "text": " Yep."
+      },
+      {
+        "id": 29,
+        "start": 118,
+        "end": 119,
+        "text": " Hold on one second. Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8157-8ec2-e3cf3659553a",
+    "url": "https://www.notion.so/300000001221204-300000001711100-2f611d0a101c81578ec2e3cf3659553a"
+  },
+  "processedAt": "2026-01-28T23:18:30.478Z"
+}

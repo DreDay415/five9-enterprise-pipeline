@@ -1,0 +1,398 @@
+{
+  "recording": {
+    "name": "300000001216848-300000001707297-6094258869 by nickh@superbalife.com @ 8_09_48 AM.wav",
+    "size": 367570,
+    "modifyTime": 1769583435000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216848-300000001707297-6094258869 by nickh@superbalife.com @ 8_09_48 AM.wav",
+    "uploadDate": "2026-01-28T06:57:15.000Z",
+    "callId": "300000001216848-300000001707297",
+    "agent": "nickh",
+    "phoneNumber": "6094258869",
+    "callTimestamp": "2026-01-28T08:09:48.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra. How can I help you today?\n\nSpeaker 2: Yes, my name is Glenn Smith. I've got a charge for an order that I didn't submit.\n\nSpeaker 1: I was only checking the website. I was trying to find out more about the AGV,\n\nSpeaker 2: but somehow they filled the order that I didn't want.\n\nSpeaker 1: Okay, sure. Let's get this adjusted and fixed for you, okay?\n\nSpeaker 2: Can I get your full date of birth, please, Glenn?\n\nSpeaker 1: 1-16-60.\n\nSpeaker 2: Okay, so I do see the order was placed here online.\n\nSpeaker 1: That's an easy fix. It has not been assigned a tracking number yet,\n\nSpeaker 2: so that means that the order is not being fulfilled.\n\nSpeaker 1: So let me go ahead and cancel that, okay?\n\nSpeaker 2: Once it's confirmed with the pharmacy, you'll see a refund on that order, okay?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Now, regarding the prescription, you were just inquiring about the AGV,\n\nSpeaker 1: or you were looking to place an order for it?\n\nSpeaker 2: I already said I was inquiring about it, see if you had it,\n\nSpeaker 1: because online it doesn't say anything. It just says Vita, but it doesn't say AGV.\n\nSpeaker 2: Yeah, so depending on when you set up your account,\n\nSpeaker 1: sometimes there's going to be limitations online.\n\nSpeaker 2: If you didn't see it there, I can kind of tell you the information\n\nSpeaker 1: if that's what you're looking for.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, so I'm sure you saw online the AGV is the newest formula from Pfizer.\n\nSpeaker 2: It has been proven more effective, longer lasting, and little to no side effects\n\nSpeaker 1: compared to many of its predecessors.\n\nSpeaker 2: That prescription is available in three different quantities.\n\nSpeaker 1: You can do 10 pills for $49, 25 pills for $99, and then 40 pills for $149.\n\nSpeaker 2: Wait a minute, so you do how many pills for 40?\n\nSpeaker 1: So 40 pills is $149.\n\nSpeaker 2: No, no, okay, four pills. What was the lowest one you said?\n\nSpeaker 1: You can do 10 pills for $49.\n\nSpeaker 2: Okay, now I'll try that.\n\nSpeaker 1: Okay.\n\nSpeaker 2: If they can do that, I'm going to want to do 10 for $114.\n\nSpeaker 1: Sure. Let me just go ahead here and make these adjustments.\n\nSpeaker 2: Mm-hmm.\n\nSpeaker 1: Because what I could honestly do for you here is then I can just refund you the difference.\n\nSpeaker 2: Okay, yeah.\n\nSpeaker 1: So you're not going to have a duplicate charge here.\n\nSpeaker 2: Okay, that'll work.\n\nSpeaker 1: I'm going to try and see how it works.\n\nSpeaker 2: You know, they say it's better, so I don't know.\n\nSpeaker 1: Sure, I completely understand.\n\nSpeaker 2: You want to try it?\n\nSpeaker 1: Yeah, just give me one minute.\n\nSpeaker 2: I'm going to reach out to the pharmacy here really fast to confirm everything.\n\nSpeaker 1: I'm on the phone right now.\n\nSpeaker 2: I'm on the phone right now.\n\nSpeaker 1: I'll call you.\n\nSpeaker 2: Oh, they got it cleaned up.\n\nSpeaker 1: The mechanic and all that did it yesterday.\n\nSpeaker 2: So she was surprised, too, when she got in there.\n\nSpeaker 1: So that's why they didn't call nobody.\n\nSpeaker 2: Okay, Glennon, your address is on file here at 4 View Road, Cape May Courthouse, New Jersey.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, I went ahead and put that through for you.\n\nSpeaker 1: And once the pharmacy is able to confirm that cancellation, you'll see that partial refund on your account, okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, anything else I can do for you today?\n\nSpeaker 2: No, that'd be all. Thank you.\n\nSpeaker 1: You're very welcome. Thank you.\n\nSpeaker 2: Thank you.",
+    "duration": 8983,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, thank you so much for calling Viagra. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 8,
+        "text": " Yes, my name is Glenn Smith. I've got a charge for an order that I didn't submit."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " I was only checking the website. I was trying to find out more about the AGV,"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 18,
+        "text": " but somehow they filled the order that I didn't want."
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 21,
+        "text": " Okay, sure. Let's get this adjusted and fixed for you, okay?"
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 24,
+        "text": " Can I get your full date of birth, please, Glenn?"
+      },
+      {
+        "id": 6,
+        "start": 24,
+        "end": 26,
+        "text": " 1-16-60."
+      },
+      {
+        "id": 7,
+        "start": 26,
+        "end": 29,
+        "text": " Okay, so I do see the order was placed here online."
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 37,
+        "text": " That's an easy fix. It has not been assigned a tracking number yet,"
+      },
+      {
+        "id": 9,
+        "start": 37,
+        "end": 39,
+        "text": " so that means that the order is not being fulfilled."
+      },
+      {
+        "id": 10,
+        "start": 39,
+        "end": 41,
+        "text": " So let me go ahead and cancel that, okay?"
+      },
+      {
+        "id": 11,
+        "start": 41,
+        "end": 46,
+        "text": " Once it's confirmed with the pharmacy, you'll see a refund on that order, okay?"
+      },
+      {
+        "id": 12,
+        "start": 46,
+        "end": 48,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 48,
+        "end": 51,
+        "text": " Now, regarding the prescription, you were just inquiring about the AGV,"
+      },
+      {
+        "id": 14,
+        "start": 51,
+        "end": 53,
+        "text": " or you were looking to place an order for it?"
+      },
+      {
+        "id": 15,
+        "start": 53,
+        "end": 57,
+        "text": " I already said I was inquiring about it, see if you had it,"
+      },
+      {
+        "id": 16,
+        "start": 57,
+        "end": 62,
+        "text": " because online it doesn't say anything. It just says Vita, but it doesn't say AGV."
+      },
+      {
+        "id": 17,
+        "start": 62,
+        "end": 65,
+        "text": " Yeah, so depending on when you set up your account,"
+      },
+      {
+        "id": 18,
+        "start": 65,
+        "end": 67,
+        "text": " sometimes there's going to be limitations online."
+      },
+      {
+        "id": 19,
+        "start": 67,
+        "end": 70,
+        "text": " If you didn't see it there, I can kind of tell you the information"
+      },
+      {
+        "id": 20,
+        "start": 70,
+        "end": 72,
+        "text": " if that's what you're looking for."
+      },
+      {
+        "id": 21,
+        "start": 72,
+        "end": 73,
+        "text": " Yes."
+      },
+      {
+        "id": 22,
+        "start": 73,
+        "end": 78,
+        "text": " Okay, so I'm sure you saw online the AGV is the newest formula from Pfizer."
+      },
+      {
+        "id": 23,
+        "start": 78,
+        "end": 81,
+        "text": " It has been proven more effective, longer lasting, and little to no side effects"
+      },
+      {
+        "id": 24,
+        "start": 81,
+        "end": 83,
+        "text": " compared to many of its predecessors."
+      },
+      {
+        "id": 25,
+        "start": 83,
+        "end": 86,
+        "text": " That prescription is available in three different quantities."
+      },
+      {
+        "id": 26,
+        "start": 86,
+        "end": 93,
+        "text": " You can do 10 pills for $49, 25 pills for $99, and then 40 pills for $149."
+      },
+      {
+        "id": 27,
+        "start": 93,
+        "end": 97,
+        "text": " Wait a minute, so you do how many pills for 40?"
+      },
+      {
+        "id": 28,
+        "start": 97,
+        "end": 101,
+        "text": " So 40 pills is $149."
+      },
+      {
+        "id": 29,
+        "start": 101,
+        "end": 104,
+        "text": " No, no, okay, four pills. What was the lowest one you said?"
+      },
+      {
+        "id": 30,
+        "start": 104,
+        "end": 109,
+        "text": " You can do 10 pills for $49."
+      },
+      {
+        "id": 31,
+        "start": 109,
+        "end": 111,
+        "text": " Okay, now I'll try that."
+      },
+      {
+        "id": 32,
+        "start": 111,
+        "end": 112,
+        "text": " Okay."
+      },
+      {
+        "id": 33,
+        "start": 112,
+        "end": 117,
+        "text": " If they can do that, I'm going to want to do 10 for $114."
+      },
+      {
+        "id": 34,
+        "start": 117,
+        "end": 121,
+        "text": " Sure. Let me just go ahead here and make these adjustments."
+      },
+      {
+        "id": 35,
+        "start": 121,
+        "end": 123,
+        "text": " Mm-hmm."
+      },
+      {
+        "id": 36,
+        "start": 123,
+        "end": 129,
+        "text": " Because what I could honestly do for you here is then I can just refund you the difference."
+      },
+      {
+        "id": 37,
+        "start": 129,
+        "end": 130,
+        "text": " Okay, yeah."
+      },
+      {
+        "id": 38,
+        "start": 130,
+        "end": 132,
+        "text": " So you're not going to have a duplicate charge here."
+      },
+      {
+        "id": 39,
+        "start": 132,
+        "end": 134,
+        "text": " Okay, that'll work."
+      },
+      {
+        "id": 40,
+        "start": 135,
+        "end": 137,
+        "text": " I'm going to try and see how it works."
+      },
+      {
+        "id": 41,
+        "start": 137,
+        "end": 139,
+        "text": " You know, they say it's better, so I don't know."
+      },
+      {
+        "id": 42,
+        "start": 139,
+        "end": 141,
+        "text": " Sure, I completely understand."
+      },
+      {
+        "id": 43,
+        "start": 141,
+        "end": 142,
+        "text": " You want to try it?"
+      },
+      {
+        "id": 44,
+        "start": 142,
+        "end": 143,
+        "text": " Yeah, just give me one minute."
+      },
+      {
+        "id": 45,
+        "start": 143,
+        "end": 147,
+        "text": " I'm going to reach out to the pharmacy here really fast to confirm everything."
+      },
+      {
+        "id": 46,
+        "start": 160,
+        "end": 162,
+        "text": " I'm on the phone right now."
+      },
+      {
+        "id": 47,
+        "start": 162,
+        "end": 164,
+        "text": " I'm on the phone right now."
+      },
+      {
+        "id": 48,
+        "start": 164,
+        "end": 165,
+        "text": " I'll call you."
+      },
+      {
+        "id": 49,
+        "start": 165,
+        "end": 166,
+        "text": " Oh, they got it cleaned up."
+      },
+      {
+        "id": 50,
+        "start": 166,
+        "end": 169,
+        "text": " The mechanic and all that did it yesterday."
+      },
+      {
+        "id": 51,
+        "start": 169,
+        "end": 172,
+        "text": " So she was surprised, too, when she got in there."
+      },
+      {
+        "id": 52,
+        "start": 172,
+        "end": 174,
+        "text": " So that's why they didn't call nobody."
+      },
+      {
+        "id": 53,
+        "start": 186,
+        "end": 191,
+        "text": " Okay, Glennon, your address is on file here at 4 View Road, Cape May Courthouse, New Jersey."
+      },
+      {
+        "id": 54,
+        "start": 191,
+        "end": 192,
+        "text": " Yes."
+      },
+      {
+        "id": 55,
+        "start": 201,
+        "end": 203,
+        "text": " Okay, I went ahead and put that through for you."
+      },
+      {
+        "id": 56,
+        "start": 203,
+        "end": 210,
+        "text": " And once the pharmacy is able to confirm that cancellation, you'll see that partial refund on your account, okay?"
+      },
+      {
+        "id": 57,
+        "start": 210,
+        "end": 211,
+        "text": " Okay."
+      },
+      {
+        "id": 58,
+        "start": 213,
+        "end": 215,
+        "text": " All right, anything else I can do for you today?"
+      },
+      {
+        "id": 59,
+        "start": 215,
+        "end": 217,
+        "text": " No, that'd be all. Thank you."
+      },
+      {
+        "id": 60,
+        "start": 217,
+        "end": 219,
+        "text": " You're very welcome. Thank you."
+      },
+      {
+        "id": 61,
+        "start": 221,
+        "end": 222,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81eb-8656-f50e7f3181e1",
+    "url": "https://www.notion.so/300000001216848-300000001707297-2f611d0a101c81eb8656f50e7f3181e1"
+  },
+  "processedAt": "2026-01-28T16:21:26.890Z"
+}

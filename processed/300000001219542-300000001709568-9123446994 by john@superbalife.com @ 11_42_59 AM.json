@@ -1,0 +1,248 @@
+{
+  "recording": {
+    "name": "300000001219542-300000001709568-9123446994 by john@superbalife.com @ 11_42_59 AM.wav",
+    "size": 204096,
+    "modifyTime": 1769591839000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219542-300000001709568-9123446994 by john@superbalife.com @ 11_42_59 AM.wav",
+    "uploadDate": "2026-01-28T09:17:19.000Z",
+    "callId": "300000001219542-300000001709568",
+    "agent": "john",
+    "phoneNumber": "9123446994",
+    "callTimestamp": "2026-01-28T11:42:59.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Hi, this is Kenneth Peters. I had recently, as of today, received an order.\n\nSpeaker 1: It was supposed to be the Viagra AGB, which is what you guys advertise.\n\nSpeaker 2: Uh-huh.\n\nSpeaker 1: And I got sent some generic something.\n\nSpeaker 2: Okay, I can help you.\n\nSpeaker 1: So I was trying to figure out what happened.\n\nSpeaker 2: I'll help you out here. I need your zip code.\n\nSpeaker 1: 28713.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: So we do sell both regular generic and the AGB,\n\nSpeaker 2: so there's a chance that there was a mix-up somewhere in the filling process, and that's what happened.\n\nSpeaker 1: If you got the regular, it is still a safe product, but we will get you the right thing no matter what.\n\nSpeaker 2: Are you on 81 Second Street Road?\n\nSpeaker 1: I am.\n\nSpeaker 2: What I received was the Sildenafil secret ingredient.\n\nSpeaker 1: Well, even the AGB is Sildenafil.\n\nSpeaker 2: That's the active ingredient in any Viagra, but it's the inactive stuff that makes the AGB different.\n\nSpeaker 1: But what can confirm it for me is if you could take out a single pill and tell me what you see stamped on the pill.\n\nSpeaker 2: Oh, okay. Standby.\n\nSpeaker 1: Hang on. I'm on the phone.\n\nSpeaker 2: There's AC333.\n\nSpeaker 1: Okay, yeah, so you got the wrong one.\n\nSpeaker 2: Yours would have said 50, just 50, so I'm going to get you 20 of the right ones, sir.\n\nSpeaker 1: Like I said, those are safe, so if you want them as a backup plan, you can keep them, but you can also toss them if you want.\n\nSpeaker 2: I'm just going to get the pharmacy to send you out 20 of the right ones.\n\nSpeaker 1: Okay, of the actual AGBs, right?\n\nSpeaker 2: Yes, sir, of the actual AGBs.\n\nSpeaker 1: It's not going to cost you anything. You've already been charged.\n\nSpeaker 2: So I'm putting it through as a $0 transaction, so you'll get shipping emailed to you, but it's not going to actually charge you.\n\nSpeaker 1: Okay, sounds great. I appreciate your help.\n\nSpeaker 2: Do you happen to know how much money would be worth if they come in? We've got a trip coming up, that's why I'm asking.\n\nSpeaker 1: I'll ask them to do priority to get it out to you sooner.\n\nSpeaker 2: Awesome. I appreciate you. Thanks so much.\n\nSpeaker 1: Of course, sir. Have a good one.\n\nSpeaker 2: You too. Take care.\n\nSpeaker 1: Bye.",
+    "duration": 5373,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10,
+        "text": " Hi, this is Kenneth Peters. I had recently, as of today, received an order."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 16,
+        "text": " It was supposed to be the Viagra AGB, which is what you guys advertise."
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 17,
+        "text": " Uh-huh."
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 21,
+        "text": " And I got sent some generic something."
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 22,
+        "text": " Okay, I can help you."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 24,
+        "text": " So I was trying to figure out what happened."
+      },
+      {
+        "id": 7,
+        "start": 24,
+        "end": 27,
+        "text": " I'll help you out here. I need your zip code."
+      },
+      {
+        "id": 8,
+        "start": 27,
+        "end": 29,
+        "text": " 28713."
+      },
+      {
+        "id": 9,
+        "start": 29,
+        "end": 30,
+        "text": " Thank you."
+      },
+      {
+        "id": 10,
+        "start": 30,
+        "end": 33,
+        "text": " So we do sell both regular generic and the AGB,"
+      },
+      {
+        "id": 11,
+        "start": 33,
+        "end": 38,
+        "text": " so there's a chance that there was a mix-up somewhere in the filling process, and that's what happened."
+      },
+      {
+        "id": 12,
+        "start": 38,
+        "end": 44,
+        "text": " If you got the regular, it is still a safe product, but we will get you the right thing no matter what."
+      },
+      {
+        "id": 13,
+        "start": 44,
+        "end": 47,
+        "text": " Are you on 81 Second Street Road?"
+      },
+      {
+        "id": 14,
+        "start": 47,
+        "end": 49,
+        "text": " I am."
+      },
+      {
+        "id": 15,
+        "start": 49,
+        "end": 53,
+        "text": " What I received was the Sildenafil secret ingredient."
+      },
+      {
+        "id": 16,
+        "start": 53,
+        "end": 56,
+        "text": " Well, even the AGB is Sildenafil."
+      },
+      {
+        "id": 17,
+        "start": 56,
+        "end": 60,
+        "text": " That's the active ingredient in any Viagra, but it's the inactive stuff that makes the AGB different."
+      },
+      {
+        "id": 18,
+        "start": 60,
+        "end": 67,
+        "text": " But what can confirm it for me is if you could take out a single pill and tell me what you see stamped on the pill."
+      },
+      {
+        "id": 19,
+        "start": 67,
+        "end": 79,
+        "text": " Oh, okay. Standby."
+      },
+      {
+        "id": 20,
+        "start": 79,
+        "end": 81,
+        "text": " Hang on. I'm on the phone."
+      },
+      {
+        "id": 21,
+        "start": 81,
+        "end": 84,
+        "text": " There's AC333."
+      },
+      {
+        "id": 22,
+        "start": 84,
+        "end": 85,
+        "text": " Okay, yeah, so you got the wrong one."
+      },
+      {
+        "id": 23,
+        "start": 85,
+        "end": 89,
+        "text": " Yours would have said 50, just 50, so I'm going to get you 20 of the right ones, sir."
+      },
+      {
+        "id": 24,
+        "start": 89,
+        "end": 93,
+        "text": " Like I said, those are safe, so if you want them as a backup plan, you can keep them, but you can also toss them if you want."
+      },
+      {
+        "id": 25,
+        "start": 93,
+        "end": 97,
+        "text": " I'm just going to get the pharmacy to send you out 20 of the right ones."
+      },
+      {
+        "id": 26,
+        "start": 97,
+        "end": 99,
+        "text": " Okay, of the actual AGBs, right?"
+      },
+      {
+        "id": 27,
+        "start": 99,
+        "end": 101,
+        "text": " Yes, sir, of the actual AGBs."
+      },
+      {
+        "id": 28,
+        "start": 101,
+        "end": 103,
+        "text": " It's not going to cost you anything. You've already been charged."
+      },
+      {
+        "id": 29,
+        "start": 103,
+        "end": 108,
+        "text": " So I'm putting it through as a $0 transaction, so you'll get shipping emailed to you, but it's not going to actually charge you."
+      },
+      {
+        "id": 30,
+        "start": 108,
+        "end": 110,
+        "text": " Okay, sounds great. I appreciate your help."
+      },
+      {
+        "id": 31,
+        "start": 110,
+        "end": 116,
+        "text": " Do you happen to know how much money would be worth if they come in? We've got a trip coming up, that's why I'm asking."
+      },
+      {
+        "id": 32,
+        "start": 116,
+        "end": 119,
+        "text": " I'll ask them to do priority to get it out to you sooner."
+      },
+      {
+        "id": 33,
+        "start": 119,
+        "end": 122,
+        "text": " Awesome. I appreciate you. Thanks so much."
+      },
+      {
+        "id": 34,
+        "start": 122,
+        "end": 124,
+        "text": " Of course, sir. Have a good one."
+      },
+      {
+        "id": 35,
+        "start": 124,
+        "end": 125,
+        "text": " You too. Take care."
+      },
+      {
+        "id": 36,
+        "start": 125,
+        "end": 126,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a0-85b9-fd5b9c3e70aa",
+    "url": "https://www.notion.so/300000001219542-300000001709568-2f611d0a101c81a085b9fd5b9c3e70aa"
+  },
+  "processedAt": "2026-01-28T11:22:06.434Z"
+}

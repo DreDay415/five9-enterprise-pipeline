@@ -1,0 +1,161 @@
+{
+  "recording": {
+    "name": "300000001242288-300000001731786-8052986061 by josimar@superbalife.com @ 12_28_18 PM.wav",
+    "size": 90216,
+    "modifyTime": 1771014579000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242288-300000001731786-8052986061 by josimar@superbalife.com @ 12_28_18 PM.wav",
+    "uploadDate": "2026-02-13T20:29:39.000Z",
+    "callId": "300000001242288-300000001731786",
+    "agent": "josimar",
+    "phoneNumber": "8052986061",
+    "callTimestamp": "2026-02-13T12:28:18.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_josimar_300000001242288-300000001731786_8052986061.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_josimar_300000001242288-300000001731786_8052986061.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, I'm just calling to cancel the subscription that I have with you guys.\n\nSpeaker 2: I see one of my credit cards is being charged.\n\nSpeaker 1: Yeah, I can take a look into your account and see what's going on.\n\nSpeaker 2: What's your last name and a zip code?\n\nSpeaker 1: Last name, Corpino, C-O-R-P-I-N-O, zip code 93065.\n\nSpeaker 2: Okay, I pulled up your profile here, so I do see you're currently one of our members\n\nSpeaker 1: for the Viagra AGV.\n\nSpeaker 2: You're a VIP member.\n\nSpeaker 1: Once I cancel these orders out, you won't be able to order this in the future, sir.\n\nSpeaker 2: That's fine.\n\nSpeaker 1: That's fine.\n\nSpeaker 2: No.\n\nSpeaker 1: I want to cancel.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Just keep in mind, you will lose access to the prescription, sir.\n\nSpeaker 2: Yeah, no problem.\n\nSpeaker 1: Okay, you're all good to go then.\n\nSpeaker 2: Fully canceled out.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I hope you have a good one.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Bye-bye.",
+    "duration": 2464,
+    "audioDuration": 55.47999954223633,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7.599999904632568,
+        "text": " Hey, I'm just calling to cancel the subscription that I have with you guys."
+      },
+      {
+        "id": 1,
+        "start": 7.599999904632568,
+        "end": 10.399999618530273,
+        "text": " I see one of my credit cards is being charged."
+      },
+      {
+        "id": 2,
+        "start": 10.399999618530273,
+        "end": 13.300000190734863,
+        "text": " Yeah, I can take a look into your account and see what's going on."
+      },
+      {
+        "id": 3,
+        "start": 13.300000190734863,
+        "end": 15.100000381469727,
+        "text": " What's your last name and a zip code?"
+      },
+      {
+        "id": 4,
+        "start": 15.100000381469727,
+        "end": 23.700000762939453,
+        "text": " Last name, Corpino, C-O-R-P-I-N-O, zip code 93065."
+      },
+      {
+        "id": 5,
+        "start": 23.700000762939453,
+        "end": 29.899999618530273,
+        "text": " Okay, I pulled up your profile here, so I do see you're currently one of our members"
+      },
+      {
+        "id": 6,
+        "start": 29.899999618530273,
+        "end": 30.899999618530273,
+        "text": " for the Viagra AGV."
+      },
+      {
+        "id": 7,
+        "start": 30.899999618530273,
+        "end": 32.900001525878906,
+        "text": " You're a VIP member."
+      },
+      {
+        "id": 8,
+        "start": 32.900001525878906,
+        "end": 37.099998474121094,
+        "text": " Once I cancel these orders out, you won't be able to order this in the future, sir."
+      },
+      {
+        "id": 9,
+        "start": 37.099998474121094,
+        "end": 38.099998474121094,
+        "text": " That's fine."
+      },
+      {
+        "id": 10,
+        "start": 38.099998474121094,
+        "end": 39.099998474121094,
+        "text": " That's fine."
+      },
+      {
+        "id": 11,
+        "start": 39.099998474121094,
+        "end": 40.099998474121094,
+        "text": " No."
+      },
+      {
+        "id": 12,
+        "start": 40.099998474121094,
+        "end": 41.099998474121094,
+        "text": " I want to cancel."
+      },
+      {
+        "id": 13,
+        "start": 41.099998474121094,
+        "end": 42.099998474121094,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 42.099998474121094,
+        "end": 43.099998474121094,
+        "text": " Just keep in mind, you will lose access to the prescription, sir."
+      },
+      {
+        "id": 15,
+        "start": 43.099998474121094,
+        "end": 44.099998474121094,
+        "text": " Yeah, no problem."
+      },
+      {
+        "id": 16,
+        "start": 44.099998474121094,
+        "end": 45.099998474121094,
+        "text": " Okay, you're all good to go then."
+      },
+      {
+        "id": 17,
+        "start": 45.099998474121094,
+        "end": 46.099998474121094,
+        "text": " Fully canceled out."
+      },
+      {
+        "id": 18,
+        "start": 46.099998474121094,
+        "end": 47.099998474121094,
+        "text": " Okay."
+      },
+      {
+        "id": 19,
+        "start": 47.099998474121094,
+        "end": 48.099998474121094,
+        "text": " I hope you have a good one."
+      },
+      {
+        "id": 20,
+        "start": 48.099998474121094,
+        "end": 49.099998474121094,
+        "text": " Thank you."
+      },
+      {
+        "id": 21,
+        "start": 49.099998474121094,
+        "end": 54.599998474121094,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81da-9cfa-c4bf79a5730b",
+    "url": "https://www.notion.so/300000001242288-300000001731786-30611d0a101c81da9cfac4bf79a5730b"
+  },
+  "processedAt": "2026-02-13T21:03:26.716Z"
+}

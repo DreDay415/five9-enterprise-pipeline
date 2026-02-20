@@ -1,0 +1,59 @@
+{
+  "recording": {
+    "name": "300000001241226-300000001730713-8706661371 by jessie@superbalife.com @ 3_51_40 PM.wav",
+    "size": 29700,
+    "modifyTime": 1770940340000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241226-300000001730713-8706661371 by jessie@superbalife.com @ 3_51_40 PM.wav",
+    "uploadDate": "2026-02-12T23:52:20.000Z",
+    "callId": "300000001241226-300000001730713",
+    "agent": "jessie",
+    "phoneNumber": "8706661371",
+    "callTimestamp": "2026-02-12T15:51:40.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_jessie_300000001241226-300000001730713_8706661371.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_jessie_300000001241226-300000001730713_8706661371.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you so much for calling Viagra.\n\nSpeaker 2: My name is Jessie.\n\nSpeaker 1: Can I get your first and last name?\n\nSpeaker 2: You people are the biggest bunch of woke son-of-a-bitches I've ever seen.\n\nSpeaker 1: You sent me the same thing that I said I wanted.",
+    "duration": 843,
+    "audioDuration": 18.239999771118164,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.380000114440918,
+        "text": " Thank you so much for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 5.380000114440918,
+        "end": 6.380000114440918,
+        "text": " My name is Jessie."
+      },
+      {
+        "id": 2,
+        "start": 6.380000114440918,
+        "end": 8.15999984741211,
+        "text": " Can I get your first and last name?"
+      },
+      {
+        "id": 3,
+        "start": 8.15999984741211,
+        "end": 13.960000038146973,
+        "text": " You people are the biggest bunch of woke son-of-a-bitches I've ever seen."
+      },
+      {
+        "id": 4,
+        "start": 13.960000038146973,
+        "end": 18.1200008392334,
+        "text": " You sent me the same thing that I said I wanted."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81ae-8a23-e95ad950ff85",
+    "url": "https://www.notion.so/300000001241226-300000001730713-30611d0a101c81ae8a23e95ad950ff85"
+  },
+  "processedAt": "2026-02-13T00:03:30.238Z"
+}

@@ -1,0 +1,140 @@
+{
+  "recording": {
+    "name": "300000001221395-300000001711227-6107036244 by olivia@superbalife.com @ 12_47_24 PM.wav",
+    "size": 188560,
+    "modifyTime": 1769633382000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221395-300000001711227-6107036244 by olivia@superbalife.com @ 12_47_24 PM.wav",
+    "uploadDate": "2026-01-28T20:49:42.000Z",
+    "callId": "300000001221395-300000001711227",
+    "agent": "olivia",
+    "phoneNumber": "6107036244",
+    "callTimestamp": "2026-01-28T12:47:24.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Olivia speaking. Who do I have the pleasure of speaking with today?\n\nSpeaker 2: Joel Melendez.\n\nSpeaker 1: Hi, Joel. How are you?\n\nSpeaker 2: How are you doing?\n\nSpeaker 1: Good. Good. How can I help you today?\n\nSpeaker 2: Yes, I'm calling because I'd like to cancel my prescription.\n\nSpeaker 1: Yeah, I can help you with this. Okay. Joel, what is your date of birth?\n\nSpeaker 2: 5-4-77.\n\nSpeaker 1: Great. And you're located at 1466 Black Forest Drive, Allentown, Pennsylvania, 18104?\n\nSpeaker 2: That is correct.\n\nSpeaker 1: Okay, great. Yeah, so if you don't want to receive regular refills with your prescription, you certainly don't have to.\n\nSpeaker 2: You always have the option to place your prescription on hold for up to six months at a time just because six months is when the prescription would expire.\n\nSpeaker 1: If we didn't refill it, and the way that would work is if you did want to order before then you could, you just have to give us a call to place the order yourself before that period.\n\nSpeaker 2: Okay, great. Yeah, so if you need anything before six months from now, it's July 28th, if you need anything before then, just give us a call.\n\nSpeaker 1: We're always here Monday through Friday, 8 to 5 Pacific, and otherwise your prescription is on hold.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: Thank you. I hope you have a great day.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye.",
+    "duration": 4432,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Thank you for calling Viagra. This is Olivia speaking. Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 1,
+        "start": 8,
+        "end": 9,
+        "text": " Joel Melendez."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 12,
+        "text": " Hi, Joel. How are you?"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 14,
+        "text": " How are you doing?"
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 18,
+        "text": " Good. Good. How can I help you today?"
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 23,
+        "text": " Yes, I'm calling because I'd like to cancel my prescription."
+      },
+      {
+        "id": 6,
+        "start": 24,
+        "end": 29,
+        "text": " Yeah, I can help you with this. Okay. Joel, what is your date of birth?"
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 32,
+        "text": " 5-4-77."
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 41,
+        "text": " Great. And you're located at 1466 Black Forest Drive, Allentown, Pennsylvania, 18104?"
+      },
+      {
+        "id": 9,
+        "start": 42,
+        "end": 43,
+        "text": " That is correct."
+      },
+      {
+        "id": 10,
+        "start": 44,
+        "end": 53,
+        "text": " Okay, great. Yeah, so if you don't want to receive regular refills with your prescription, you certainly don't have to."
+      },
+      {
+        "id": 11,
+        "start": 53,
+        "end": 64,
+        "text": " You always have the option to place your prescription on hold for up to six months at a time just because six months is when the prescription would expire."
+      },
+      {
+        "id": 12,
+        "start": 65,
+        "end": 80,
+        "text": " If we didn't refill it, and the way that would work is if you did want to order before then you could, you just have to give us a call to place the order yourself before that period."
+      },
+      {
+        "id": 13,
+        "start": 80,
+        "end": 97,
+        "text": " Okay, great. Yeah, so if you need anything before six months from now, it's July 28th, if you need anything before then, just give us a call."
+      },
+      {
+        "id": 14,
+        "start": 98,
+        "end": 105,
+        "text": " We're always here Monday through Friday, 8 to 5 Pacific, and otherwise your prescription is on hold."
+      },
+      {
+        "id": 15,
+        "start": 106,
+        "end": 107,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 16,
+        "start": 107,
+        "end": 109,
+        "text": " Thank you. I hope you have a great day."
+      },
+      {
+        "id": 17,
+        "start": 110,
+        "end": 111,
+        "text": " Bye."
+      },
+      {
+        "id": 18,
+        "start": 112,
+        "end": 113,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8108-93c2-c4e7a0fa317c",
+    "url": "https://www.notion.so/300000001221395-300000001711227-2f611d0a101c810893c2c4e7a0fa317c"
+  },
+  "processedAt": "2026-01-28T22:50:07.362Z"
+}

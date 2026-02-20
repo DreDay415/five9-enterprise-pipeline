@@ -1,0 +1,44 @@
+{
+  "recording": {
+    "name": "300000001223008-300000001712595-9373138954 by susan@superbalife.com @ 1_24_53 PM.wav",
+    "size": 19560,
+    "modifyTime": 1769721927000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223008-300000001712595-9373138954 by susan@superbalife.com @ 1_24_53 PM.wav",
+    "uploadDate": "2026-01-29T21:25:27.000Z",
+    "callId": "300000001223008-300000001712595",
+    "agent": "susan",
+    "phoneNumber": "9373138954",
+    "callTimestamp": "2026-01-29T13:24:53.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, Score Blue, I'm going to transfer you over there right now, just a moment.\n\nSpeaker 2: You're welcome, sir.\n\nSpeaker 1: All right, here you go, have a great day.",
+    "duration": 1204,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.460000038146973,
+        "text": " High score blue, I'm going to transfer you over there right now, just a moment."
+      },
+      {
+        "id": 1,
+        "start": 4.639999866485596,
+        "end": 6.920000076293945,
+        "text": " You're welcome, sir."
+      },
+      {
+        "id": 2,
+        "start": 6.920000076293945,
+        "end": 11.960000038146973,
+        "text": " All right, here you go, have a great day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-816c-966f-fb1a50f863e2",
+    "url": "https://www.notion.so/300000001223008-300000001712595-2f711d0a101c816c966ffb1a50f863e2"
+  },
+  "processedAt": "2026-01-29T21:46:06.794Z"
+}

@@ -1,0 +1,52 @@
+{
+  "recording": {
+    "name": "300000001242351-300000001731836-3087605578 by  @ 12_51_56 PM_CallStudio.wav",
+    "size": 24566,
+    "modifyTime": 1771015953000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242351-300000001731836-3087605578 by  @ 12_51_56 PM_CallStudio.wav",
+    "uploadDate": "2026-02-13T20:52:33.000Z",
+    "callId": "300000001242351-300000001731836",
+    "phoneNumber": "3087605578",
+    "callTimestamp": "2026-02-13T20:52:33.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242351-300000001731836_3087605578.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242351-300000001731836_3087605578.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Para Español, Martín Número 9.\n\nSpeaker 1: Prescription tracking.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 932,
+    "audioDuration": 15.079999923706055,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 10,
+        "text": " Para Español, Martín Número 9."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 13,
+        "text": " Prescription tracking."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 15,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81a2-aadd-f31194bf81c4",
+    "url": "https://www.notion.so/300000001242351-300000001731836-30611d0a101c81a2aaddf31194bf81c4"
+  },
+  "processedAt": "2026-02-13T20:58:16.177Z"
+}

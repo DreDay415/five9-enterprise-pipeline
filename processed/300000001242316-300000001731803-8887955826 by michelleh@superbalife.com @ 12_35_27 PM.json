@@ -1,0 +1,203 @@
+{
+  "recording": {
+    "name": "300000001242316-300000001731803-8887955826 by michelleh@superbalife.com @ 12_35_27 PM.wav",
+    "size": 208776,
+    "modifyTime": 1771015078000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242316-300000001731803-8887955826 by michelleh@superbalife.com @ 12_35_27 PM.wav",
+    "uploadDate": "2026-02-13T20:37:58.000Z",
+    "callId": "300000001242316-300000001731803",
+    "agent": "michelleh",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-02-13T12:35:27.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_michelleh_300000001242316-300000001731803_8887955826.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_michelleh_300000001242316-300000001731803_8887955826.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Yes, I ordered from you once.\n\nSpeaker 1: I'm probably a month ago or something and I just received another shipment that I didn't order.\n\nSpeaker 2: And I'm hoping I'm not on some automatic refill.\n\nSpeaker 1: Let me check. Can I have your phone number so I can pull up your account?\n\nSpeaker 2: 8 1 7 7 9 3 8 6 6 1.\n\nSpeaker 1: Thank you so much, Patrick. Can you just confirm your date of birth?\n\nSpeaker 2: April 22nd, 1954. Thank you so much. You see your VIP status customer.\n\nSpeaker 1: Okay, it looks like the doctor put you on refills on a monthly basis, which you are not required to have.\n\nSpeaker 2: How's the medication working out for you?\n\nSpeaker 1: Everything's good, but I certainly don't need—\n\nSpeaker 2: Yeah, on a monthly basis, not a problem. So with your VIP status, what a lot of people like to do—\n\nSpeaker 1: You can go ahead and pause your refills for six months.\n\nSpeaker 2: That way it keeps your prescription active and just allows you to call in whenever you need a refill.\n\nSpeaker 1: I could pause that for you until August 1st of 2026.\n\nSpeaker 2: All right. I'll go on that. I just hope that I remember because I'll be inundated with pills if I don't.\n\nSpeaker 1: Yeah, no problem.\n\nSpeaker 2: All right, you're all set. You're paused until August 1st.\n\nSpeaker 1: All right, you're all set. You're paused until August 1st.\n\nSpeaker 2: All right. So in terms of this shipment, I'm paying for it. I got it. So I'm paying for it. Yeah, $63.95.\n\nSpeaker 1: All right, if you don't need it—\n\nSpeaker 2: You can just put on the package \"return to sender,\" pop it back in the mailbox.\n\nSpeaker 1: That way they can issue you a refill once they get that back.\n\nSpeaker 2: Got it. All right, so but all right, I—I'll eat the $63.95 or I'll send it back but—\n\nSpeaker 1: It's not going to happen again. Uh, I'm going to have to make sure I call back by August 1st.\n\nSpeaker 2: Yeah, to uh, either renew it or whatever. Okay. Yeah. Okay, perfect. All right, good.\n\nSpeaker 1: Thank you. All right. Have a great weekend, Michelle.\n\nSpeaker 2: Michelle, thank you, Michelle. No problem. Have a great day.\n\nSpeaker 1: You too. Bye. Bye.",
+    "duration": 5986,
+    "audioDuration": 128.44000244140625,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.319999933242798,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4.119999885559082,
+        "end": 6.400000095367432,
+        "text": " Yes, I ordered from you once"
+      },
+      {
+        "id": 2,
+        "start": 7.519999980926514,
+        "end": 13.479999542236328,
+        "text": " I'm probably a month ago or something and I just received another shipment that I didn't order"
+      },
+      {
+        "id": 3,
+        "start": 13.920000076293945,
+        "end": 16.760000228881836,
+        "text": " And I'm hoping I'm not on some automatic refill"
+      },
+      {
+        "id": 4,
+        "start": 17.280000686645508,
+        "end": 20.079999923706055,
+        "text": " Let me check. Can I have your phone number so I can pull up your account?"
+      },
+      {
+        "id": 5,
+        "start": 21.200000762939453,
+        "end": 26.239999771118164,
+        "text": " 8 1 7 7 9 3 8 6 6 1"
+      },
+      {
+        "id": 6,
+        "start": 26.239999771118164,
+        "end": 28.600000381469727,
+        "text": " Thank you so much Patrick. Can you just confirm your date of birth?"
+      },
+      {
+        "id": 7,
+        "start": 30.239999771118164,
+        "end": 35.68000030517578,
+        "text": " April 22nd 1954. Thank you so much. You see your VIP status customer"
+      },
+      {
+        "id": 8,
+        "start": 35.68000030517578,
+        "end": 40.2400016784668,
+        "text": " Okay, it looks like the doctor put you on refills on a monthly basis, which you are not required to have"
+      },
+      {
+        "id": 9,
+        "start": 41.279998779296875,
+        "end": 43.279998779296875,
+        "text": " How's the medication working out for you?"
+      },
+      {
+        "id": 10,
+        "start": 44,
+        "end": 46.400001525878906,
+        "text": " Everything's good, but I certainly don't need"
+      },
+      {
+        "id": 11,
+        "start": 47.279998779296875,
+        "end": 52.720001220703125,
+        "text": " Yeah, on a monthly basis, not a problem. So with your VIP status, what a lot of people like to do"
+      },
+      {
+        "id": 12,
+        "start": 52.720001220703125,
+        "end": 54.959999084472656,
+        "text": " You can go ahead and pause your refills for six months"
+      },
+      {
+        "id": 13,
+        "start": 55.279998779296875,
+        "end": 59.52000045776367,
+        "text": " That way it keeps your prescription active and just allows you to call in whenever you need a refill"
+      },
+      {
+        "id": 14,
+        "start": 59.84000015258789,
+        "end": 62.63999938964844,
+        "text": " I could pause that for you until August 1st of 2026"
+      },
+      {
+        "id": 15,
+        "start": 64,
+        "end": 70.95999908447266,
+        "text": " All right. I'll go on that. I just hope that I remember because I'll be inundated with pills if I don't"
+      },
+      {
+        "id": 16,
+        "start": 71.5999984741211,
+        "end": 73.5999984741211,
+        "text": " Yeah, no problem"
+      },
+      {
+        "id": 17,
+        "start": 74.16000366210938,
+        "end": 76.55999755859375,
+        "text": " All right, you're all set. You're paused until August 1st"
+      },
+      {
+        "id": 18,
+        "start": 76.95999908447266,
+        "end": 79.27999877929688,
+        "text": " All right, you're all set you're paused until August 1st"
+      },
+      {
+        "id": 19,
+        "start": 80.55999755859375,
+        "end": 87.54000091552734,
+        "text": " All right. So in terms of this shipment, I'm paying for it. I got it. So I'm paying for it. Yeah, $63.95"
+      },
+      {
+        "id": 20,
+        "start": 89.91999816894531,
+        "end": 91.04000091552734,
+        "text": " All right, if you don't need it"
+      },
+      {
+        "id": 21,
+        "start": 91.04000091552734,
+        "end": 94.63999938964844,
+        "text": " You can just put on the package return to sender pop it back in the mailbox"
+      },
+      {
+        "id": 22,
+        "start": 94.63999938964844,
+        "end": 97.12000274658203,
+        "text": " That way they can issue you a refill once they get that back"
+      },
+      {
+        "id": 23,
+        "start": 98.63999938964844,
+        "end": 105.83999633789062,
+        "text": " Got it. All right, so but all right, I I'll eat the $63.95 or I'll send it back but"
+      },
+      {
+        "id": 24,
+        "start": 106.87999725341797,
+        "end": 111.91999816894531,
+        "text": " It's not going to happen again. Uh, i'm going to have to make sure I call back by August 1st"
+      },
+      {
+        "id": 25,
+        "start": 112.55999755859375,
+        "end": 117.5199966430664,
+        "text": " Yeah to uh, either renew it or whatever. Okay. Yeah. Okay, perfect. All right, good"
+      },
+      {
+        "id": 26,
+        "start": 118.23999786376953,
+        "end": 120.31999969482422,
+        "text": " Thank you. All right. Have a great weekend, Michelle"
+      },
+      {
+        "id": 27,
+        "start": 121.5199966430664,
+        "end": 124.4000015258789,
+        "text": " Michelle, thank you, Michelle. No problem. Have a great day"
+      },
+      {
+        "id": 28,
+        "start": 125.5199966430664,
+        "end": 127.5199966430664,
+        "text": " You too. Bye. Bye"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-813a-93e0-fa4fef1d6482",
+    "url": "https://www.notion.so/300000001242316-300000001731803-30611d0a101c813a93e0fa4fef1d6482"
+  },
+  "processedAt": "2026-02-13T21:01:39.664Z"
+}

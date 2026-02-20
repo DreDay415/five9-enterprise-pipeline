@@ -1,0 +1,317 @@
+{
+  "recording": {
+    "name": "300000001241167-300000001730670-9176516323 by olivier@superbalife.com @ 3_19_33 PM.wav",
+    "size": 217030,
+    "modifyTime": 1770938529000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241167-300000001730670-9176516323 by olivier@superbalife.com @ 3_19_33 PM.wav",
+    "uploadDate": "2026-02-12T23:22:09.000Z",
+    "callId": "300000001241167-300000001730670",
+    "agent": "olivier",
+    "phoneNumber": "9176516323",
+    "callTimestamp": "2026-02-12T15:19:33.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_olivier_300000001241167-300000001730670_9176516323.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_olivier_300000001241167-300000001730670_9176516323.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Hello.\n\nSpeaker 1: Hello, how are we doing sir?\n\nSpeaker 2: Hi, good morning, good afternoon, sorry.\n\nSpeaker 1: I'm calling to cancel my subscription.\n\nSpeaker 2: Are you here? Are you there?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, because I hear voices behind you.\n\nSpeaker 1: I'm calling to cancel my subscription.\n\nSpeaker 2: Actually, I never knew I subscribed until I started getting billed.\n\nSpeaker 1: It's been a while now.\n\nSpeaker 2: I sent an email, nothing was done.\n\nSpeaker 1: I just want to call and cancel.\n\nSpeaker 2: Yes, that's fine.\n\nSpeaker 1: Mr. Nosa?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Yes, so you're not on the actual subscription,\n\nSpeaker 2: but just Dr. Jones wrote your prescription with refills.\n\nSpeaker 1: If you don't need refills, you don't need to lose the prescription.\n\nSpeaker 2: What you can do, and I can do that for you,\n\nSpeaker 1: is to pause the prescription so you're not on a monthly basis anymore,\n\nSpeaker 2: and you can call to reorder as needed,\n\nSpeaker 1: which allows you to save the price that you have\n\nSpeaker 2: and not have a more expensive price in the future, basically.\n\nSpeaker 1: You're just not going to get billed every month anymore.\n\nSpeaker 2: You're monthly going to be stopped, basically.\n\nSpeaker 1: Yes, I think I want to cancel everything,\n\nSpeaker 2: the subscription, the monthly billing, just everything.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yes, I'm canceling the prescription here for you.\n\nSpeaker 1: Only thing, if anything changes in the future,\n\nSpeaker 2: because they're going to have to refinance a new doctor prescription for you,\n\nSpeaker 1: your price will be up, okay?\n\nSpeaker 2: But I'll cancel everything for you.\n\nSpeaker 1: You're all set.\n\nSpeaker 2: Okay, but the one that's up, because it just charged me $200 and something.\n\nSpeaker 1: Can I get a refund?\n\nSpeaker 2: Yes, if you want one, you get it, because it has shipped.\n\nSpeaker 1: You're going to see a tracking number in your mail.\n\nSpeaker 2: Just write refuse return to the sender on it for a refund, okay?\n\nSpeaker 1: Once I receive it, send it back?\n\nSpeaker 2: Yes, just write refuse return on the packet when you receive it.\n\nSpeaker 1: Leave it in your mailbox.\n\nSpeaker 2: The mailman is going to take that back to us.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: All right, bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 5873,
+    "audioDuration": 133.52000427246094,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 4,
+        "text": " Hello."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 6,
+        "text": " Hello, how are we doing sir?"
+      },
+      {
+        "id": 3,
+        "start": 6,
+        "end": 9,
+        "text": " Hi, good morning, good afternoon, sorry."
+      },
+      {
+        "id": 4,
+        "start": 9,
+        "end": 13,
+        "text": " I'm calling to cancel my subscription."
+      },
+      {
+        "id": 5,
+        "start": 13,
+        "end": 16,
+        "text": " Are you here? Are you there?"
+      },
+      {
+        "id": 6,
+        "start": 16,
+        "end": 18,
+        "text": " Yes."
+      },
+      {
+        "id": 7,
+        "start": 18,
+        "end": 20,
+        "text": " Okay, because I hear voices behind you."
+      },
+      {
+        "id": 8,
+        "start": 20,
+        "end": 22,
+        "text": " I'm calling to cancel my subscription."
+      },
+      {
+        "id": 9,
+        "start": 22,
+        "end": 27,
+        "text": " Actually, I never knew I subscribed until I started getting billed."
+      },
+      {
+        "id": 10,
+        "start": 27,
+        "end": 29,
+        "text": " It's been a while now."
+      },
+      {
+        "id": 11,
+        "start": 29,
+        "end": 33,
+        "text": " I sent an email, nothing was done."
+      },
+      {
+        "id": 12,
+        "start": 33,
+        "end": 36,
+        "text": " I just want to call and cancel."
+      },
+      {
+        "id": 13,
+        "start": 36,
+        "end": 38,
+        "text": " Yes, that's fine."
+      },
+      {
+        "id": 14,
+        "start": 38,
+        "end": 40,
+        "text": " Mr. Nosa?"
+      },
+      {
+        "id": 15,
+        "start": 40,
+        "end": 41,
+        "text": " Yes."
+      },
+      {
+        "id": 16,
+        "start": 41,
+        "end": 45,
+        "text": " Yes, so you're not on the actual subscription,"
+      },
+      {
+        "id": 17,
+        "start": 45,
+        "end": 49,
+        "text": " but just Dr. Jones wrote your prescription with refills."
+      },
+      {
+        "id": 18,
+        "start": 49,
+        "end": 53,
+        "text": " If you don't need refills, you don't need to lose the prescription."
+      },
+      {
+        "id": 19,
+        "start": 53,
+        "end": 55,
+        "text": " What you can do, and I can do that for you,"
+      },
+      {
+        "id": 20,
+        "start": 55,
+        "end": 59,
+        "text": " is to pause the prescription so you're not on a monthly basis anymore,"
+      },
+      {
+        "id": 21,
+        "start": 59,
+        "end": 61,
+        "text": " and you can call to reorder as needed,"
+      },
+      {
+        "id": 22,
+        "start": 61,
+        "end": 64,
+        "text": " which allows you to save the price that you have"
+      },
+      {
+        "id": 23,
+        "start": 64,
+        "end": 69,
+        "text": " and not have a more expensive price in the future, basically."
+      },
+      {
+        "id": 24,
+        "start": 69,
+        "end": 72,
+        "text": " You're just not going to get billed every month anymore."
+      },
+      {
+        "id": 25,
+        "start": 72,
+        "end": 74,
+        "text": " You're monthly going to be stopped, basically."
+      },
+      {
+        "id": 26,
+        "start": 74,
+        "end": 76,
+        "text": " Yes, I think I want to cancel everything,"
+      },
+      {
+        "id": 27,
+        "start": 76,
+        "end": 80,
+        "text": " the subscription, the monthly billing, just everything."
+      },
+      {
+        "id": 28,
+        "start": 80,
+        "end": 82,
+        "text": " Okay."
+      },
+      {
+        "id": 29,
+        "start": 82,
+        "end": 85,
+        "text": " Yes, I'm canceling the prescription here for you."
+      },
+      {
+        "id": 30,
+        "start": 85,
+        "end": 87,
+        "text": " Only thing, if anything changes in the future,"
+      },
+      {
+        "id": 31,
+        "start": 87,
+        "end": 91,
+        "text": " because they're going to have to refinance a new doctor prescription for you,"
+      },
+      {
+        "id": 32,
+        "start": 91,
+        "end": 93,
+        "text": " your price will be up, okay?"
+      },
+      {
+        "id": 33,
+        "start": 93,
+        "end": 94,
+        "text": " But I'll cancel everything for you."
+      },
+      {
+        "id": 34,
+        "start": 94,
+        "end": 96,
+        "text": " You're all set."
+      },
+      {
+        "id": 35,
+        "start": 96,
+        "end": 102,
+        "text": " Okay, but the one that's up, because it just charged me $200 and something."
+      },
+      {
+        "id": 36,
+        "start": 102,
+        "end": 104,
+        "text": " Can I get a refund?"
+      },
+      {
+        "id": 37,
+        "start": 104,
+        "end": 107,
+        "text": " Yes, if you want one, you get it, because it has shipped."
+      },
+      {
+        "id": 38,
+        "start": 107,
+        "end": 109,
+        "text": " You're going to see a tracking number in your mail."
+      },
+      {
+        "id": 39,
+        "start": 109,
+        "end": 113,
+        "text": " Just write refuse return to the sender on it for a refund, okay?"
+      },
+      {
+        "id": 40,
+        "start": 115,
+        "end": 117,
+        "text": " Once I receive it, send it back?"
+      },
+      {
+        "id": 41,
+        "start": 117,
+        "end": 121,
+        "text": " Yes, just write refuse return on the packet when you receive it."
+      },
+      {
+        "id": 42,
+        "start": 121,
+        "end": 123,
+        "text": " Leave it in your mailbox."
+      },
+      {
+        "id": 43,
+        "start": 123,
+        "end": 125,
+        "text": " The mailman is going to take that back to us."
+      },
+      {
+        "id": 44,
+        "start": 125,
+        "end": 127,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 45,
+        "start": 127,
+        "end": 129,
+        "text": " You're welcome."
+      },
+      {
+        "id": 46,
+        "start": 129,
+        "end": 130,
+        "text": " All right, bye."
+      },
+      {
+        "id": 47,
+        "start": 130,
+        "end": 131,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81fb-979c-e2c294d8585d",
+    "url": "https://www.notion.so/300000001241167-300000001730670-30611d0a101c81fb979ce2c294d8585d"
+  },
+  "processedAt": "2026-02-13T00:08:55.793Z"
+}

@@ -1,0 +1,62 @@
+{
+  "recording": {
+    "name": "300000001216621-300000001705984-7658602910 by charles@superbalife.com @ 3_06_47 PM.wav",
+    "size": 79946,
+    "modifyTime": 1769590939000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216621-300000001705984-7658602910 by charles@superbalife.com @ 3_06_47 PM.wav",
+    "uploadDate": "2026-01-28T09:02:19.000Z",
+    "callId": "300000001216621-300000001705984",
+    "agent": "charles",
+    "phoneNumber": "7658602910",
+    "callTimestamp": "2026-01-28T15:06:47.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra. This is Charles.\n\nSpeaker 2: Yes, I need to cancel a prescription I was documenting. Dairy Kix, Kokomo, Indiana?\n\nSpeaker 1: Yes. Okay, just not needing any product at the moment?\n\nSpeaker 2: Don't need it, yes.\n\nSpeaker 1: Okay, all right. I just did that for you right now, all right?\n\nSpeaker 2: You should get that back soon. And then, if you want, I can pause everything for the next five, four, five months. That way you got some time.\n\nSpeaker 1: No, I want to cancel it. I want to cancel it totally.\n\nSpeaker 2: Okay, all right. Then you're good to go. Thank you.",
+    "duration": 2287,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8.520000457763672,
+        "text": " Thanks for calling Viagra. This is Charles. Yes, I need to cancel a prescription I was"
+      },
+      {
+        "id": 1,
+        "start": 8.520000457763672,
+        "end": 19.920000076293945,
+        "text": " documenting. Dairy Kix, Kokomo, Indiana? Yes. Okay, just not needing any product at the"
+      },
+      {
+        "id": 2,
+        "start": 19.920000076293945,
+        "end": 27.040000915527344,
+        "text": " moment? Don't need it, yes. Okay, all right. I just did that for you right now, all right?"
+      },
+      {
+        "id": 3,
+        "start": 27.040000915527344,
+        "end": 32.560001373291016,
+        "text": " You should get that back soon. And then, if you want, I can pause everything for the next"
+      },
+      {
+        "id": 4,
+        "start": 32.560001373291016,
+        "end": 37.7599983215332,
+        "text": " five, four, five months. That way you got some time. No, I want to cancel it. I want"
+      },
+      {
+        "id": 5,
+        "start": 37.7599983215332,
+        "end": 43.84000015258789,
+        "text": " to cancel it totally. Okay, all right. Then you're good to go. Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8132-bc91-cafc4af5365a",
+    "url": "https://www.notion.so/300000001216621-300000001705984-2f611d0a101c8132bc91cafc4af5365a"
+  },
+  "processedAt": "2026-01-28T11:54:12.731Z"
+}

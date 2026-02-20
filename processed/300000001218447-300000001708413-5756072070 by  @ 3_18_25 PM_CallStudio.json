@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001218447-300000001708413-5756072070 by  @ 3_18_25 PM_CallStudio.wav",
+    "size": 31456,
+    "modifyTime": 1769583737000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218447-300000001708413-5756072070 by  @ 3_18_25 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:02:17.000Z",
+    "callId": "300000001218447-300000001708413",
+    "phoneNumber": "5756072070",
+    "callTimestamp": "2026-01-28T07:02:17.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I'm calling because my order has not been received.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 751,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.079999923706055,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.21999979019165,
+        "end": 6.679999828338623,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.679999828338623,
+        "end": 8.479999542236328,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.479999542236328,
+        "end": 15.5,
+        "text": " I'm calling because my order has been not received."
+      },
+      {
+        "id": 4,
+        "start": 15.5,
+        "end": 19,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8124-9677-d389f26083fd",
+    "url": "https://www.notion.so/300000001218447-300000001708413-2f611d0a101c81249677d389f26083fd"
+  },
+  "processedAt": "2026-01-28T15:54:04.543Z"
+}

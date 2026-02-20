@@ -1,0 +1,140 @@
+{
+  "recording": {
+    "name": "300000001221601-300000001711377-3212907499 by jessie@superbalife.com @ 1_53_52 PM.wav",
+    "size": 134286,
+    "modifyTime": 1769637334000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221601-300000001711377-3212907499 by jessie@superbalife.com @ 1_53_52 PM.wav",
+    "uploadDate": "2026-01-28T21:55:34.000Z",
+    "callId": "300000001221601-300000001711377",
+    "agent": "jessie",
+    "phoneNumber": "3212907499",
+    "callTimestamp": "2026-01-28T13:53:52.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra. My name is Jessie. May I get your first and last name?\n\nSpeaker 2: Yeah, James Holacek. Actually, I'm in my account now. I ordered the ABG a couple days ago.\n\nSpeaker 1: I'm just wondering if the status has already been shipped or not.\n\nSpeaker 2: Sure. If you don't mind, sir, can I get your zip code?\n\nSpeaker 1: Yeah, 32904.\n\nSpeaker 2: Holacek?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay. And your mailing address is 7617 Ellis Road in Melbourne, Florida, 32904?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Yeah, it should show there. It should show the tracking number because it already shipped.\n\nSpeaker 1: Oh, let me ask you this. If I'm in my account, would I see it here?\n\nSpeaker 2: Yeah, you're supposed to see it there. So let me take a look there with me just a second, okay?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: So if you go into your prescription...\n\nSpeaker 1: Yep. Oh, hello, dummy, January 27th. Hello. So that's supposed to be, what, probably three or four days, give or take?\n\nSpeaker 2: Right. So if you click on track, if you just click on that button, it'll show that it's supposed to arrive on the 31st, which is Saturday.\n\nSpeaker 1: Thank you so much. As usual, you guys are the best. Thank you.\n\nSpeaker 2: Thank you. Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 4206,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi, thank you so much for calling Viagra. My name is Jessie. May I get your first and last name?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 17,
+        "text": " Yeah, James Holacek. Actually, I'm in my account now. I ordered the ABG a couple days ago."
+      },
+      {
+        "id": 2,
+        "start": 17,
+        "end": 20,
+        "text": " I'm just wondering if the status has already been shipped or not."
+      },
+      {
+        "id": 3,
+        "start": 20,
+        "end": 24,
+        "text": " Sure. If you don't mind, sir, can I get your zip code?"
+      },
+      {
+        "id": 4,
+        "start": 24,
+        "end": 26,
+        "text": " Yeah, 32904."
+      },
+      {
+        "id": 5,
+        "start": 26,
+        "end": 29,
+        "text": " Holacek?"
+      },
+      {
+        "id": 6,
+        "start": 29,
+        "end": 30,
+        "text": " Yes."
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 38,
+        "text": " Okay. And your mailing address is 7617 Ellis Road in Melbourne, Florida, 32904?"
+      },
+      {
+        "id": 8,
+        "start": 38,
+        "end": 39,
+        "text": " Yes."
+      },
+      {
+        "id": 9,
+        "start": 39,
+        "end": 45,
+        "text": " Yeah, it should show there. It should show the tracking number because it already shipped."
+      },
+      {
+        "id": 10,
+        "start": 45,
+        "end": 49,
+        "text": " Oh, let me ask you this. If I'm in my account, would I see it here?"
+      },
+      {
+        "id": 11,
+        "start": 49,
+        "end": 53,
+        "text": " Yeah, you're supposed to see it there. So let me take a look there with me just a second, okay?"
+      },
+      {
+        "id": 12,
+        "start": 53,
+        "end": 54,
+        "text": " Yeah."
+      },
+      {
+        "id": 13,
+        "start": 54,
+        "end": 60,
+        "text": " So if you go into your prescription..."
+      },
+      {
+        "id": 14,
+        "start": 60,
+        "end": 69,
+        "text": " Yep. Oh, hello, dummy, January 27th. Hello. So that's supposed to be, what, probably three or four days, give or take?"
+      },
+      {
+        "id": 15,
+        "start": 69,
+        "end": 76,
+        "text": " Right. So if you click on track, if you just click on that button, it'll show that it's supposed to arrive on the 31st, which is Saturday."
+      },
+      {
+        "id": 16,
+        "start": 76,
+        "end": 80,
+        "text": " Thank you so much. As usual, you guys are the best. Thank you."
+      },
+      {
+        "id": 17,
+        "start": 80,
+        "end": 82,
+        "text": " Thank you. Bye-bye."
+      },
+      {
+        "id": 18,
+        "start": 82,
+        "end": 83,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8193-a4fb-ddb381ee6988",
+    "url": "https://www.notion.so/300000001221601-300000001711377-2f611d0a101c8193a4fbddb381ee6988"
+  },
+  "processedAt": "2026-01-28T22:26:37.059Z"
+}

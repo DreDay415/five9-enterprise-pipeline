@@ -1,0 +1,245 @@
+{
+  "recording": {
+    "name": "300000001241518-300000001731278-5129405012 by jessie@superbalife.com @ 8_48_17 AM.wav",
+    "size": 273840,
+    "modifyTime": 1771001485000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241518-300000001731278-5129405012 by jessie@superbalife.com @ 8_48_17 AM.wav",
+    "uploadDate": "2026-02-13T16:51:25.000Z",
+    "callId": "300000001241518-300000001731278",
+    "agent": "jessie",
+    "phoneNumber": "5129405012",
+    "callTimestamp": "2026-02-13T08:48:17.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_jessie_300000001241518-300000001731278_5129405012.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_jessie_300000001241518-300000001731278_5129405012.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra. My name is Jessie. May I get your first and last name?\n\nSpeaker 2: Ronnie Bradford.\n\nSpeaker 1: Awesome. And Mr. Bradford, let's take a look. We wanted to call about your order.\n\nSpeaker 2: Can I please get your zip code?\n\nSpeaker 1: 78717.\n\nSpeaker 2: Okay. 78717.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And are you at 16806 Village Oak Loop in Austin, Texas, Mr. Bradford?\n\nSpeaker 1: Yes, ma'am. Sure am.\n\nSpeaker 2: All right. So you're checking up on your order. You placed the order today.\n\nSpeaker 1: Yeah. No, I'm not checking on my order.\n\nSpeaker 2: This ain't on automatic where they send it.\n\nSpeaker 1: Whenever I need it, I just go on and order it from you every time?\n\nSpeaker 2: Yeah, absolutely. So this is as needed.\n\nSpeaker 1: Okay, good. That's why I wanted to make sure I did it right.\n\nSpeaker 2: Right. Just one quick thing, though, Mr. Bradford.\n\nSpeaker 1: To keep your prescription open, because the doctor writes out refills for these, but you get to order whenever you want to.\n\nSpeaker 2: So you, whatever.\n\nSpeaker 1: When you do need to place an order, give us a call.\n\nSpeaker 2: So we can place an order for you.\n\nSpeaker 1: That's the easiest way to do it.\n\nSpeaker 2: However, just bear in mind, if after six months you do not order anything, you get one refill.\n\nSpeaker 1: It does charge you one refill to keep your prescription active.\n\nSpeaker 2: But that's it. Other than that, you don't get anything else.\n\nSpeaker 1: Just order whenever you feel like it.\n\nSpeaker 2: Say that again. What did you say about in six months? What happens?\n\nSpeaker 1: If you do not order anything in six months, after six months, let's say August rolls around, and you've ordered nothing, right,\n\nSpeaker 2: the system will send you one refill to keep your prescription active.\n\nSpeaker 1: Otherwise, you don't get anything else.\n\nSpeaker 2: Only if you do not order anything in six months.\n\nSpeaker 1: If somebody is out of order in six months, I'll call you.\n\nSpeaker 2: I'll probably order one just to keep it active.\n\nSpeaker 1: Okay. Yeah, that's it. That's basically it.\n\nSpeaker 2: Okay. Thank you, ma'am. I appreciate it.\n\nSpeaker 1: Thank you. Have a good day. Bye-bye.\n\nSpeaker 2: You too. Bye-bye.",
+    "duration": 5324,
+    "audioDuration": 168.47999572753906,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi, thank you so much for calling Viagra. My name is Jessie. May I get your first and last name?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 8,
+        "text": " Ronnie Bradford."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 13,
+        "text": " Awesome. And Mr. Bradford, let's take a look. We wanted to call about your order."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 16,
+        "text": " Can I please get your zip code?"
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 18,
+        "text": " 78717."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 21,
+        "text": " Okay. 78717."
+      },
+      {
+        "id": 6,
+        "start": 30,
+        "end": 45,
+        "text": " Okay."
+      },
+      {
+        "id": 7,
+        "start": 45,
+        "end": 51,
+        "text": " And are you at 16806 Village Oak Loop in Austin, Texas, Mr. Bradford?"
+      },
+      {
+        "id": 8,
+        "start": 51,
+        "end": 66,
+        "text": " Yes, ma'am. Sure am."
+      },
+      {
+        "id": 9,
+        "start": 66,
+        "end": 70,
+        "text": " All right. So you're checking up on your order. You placed the order today."
+      },
+      {
+        "id": 10,
+        "start": 70,
+        "end": 74,
+        "text": " Yeah. No, I'm not checking on my order."
+      },
+      {
+        "id": 11,
+        "start": 74,
+        "end": 77,
+        "text": " This ain't on automatic where they send it."
+      },
+      {
+        "id": 12,
+        "start": 77,
+        "end": 81,
+        "text": " Whenever I need it, I just go on and order it from you every time?"
+      },
+      {
+        "id": 13,
+        "start": 81,
+        "end": 84,
+        "text": " Yeah, absolutely. So this is as needed."
+      },
+      {
+        "id": 14,
+        "start": 84,
+        "end": 88,
+        "text": " Okay, good. That's why I wanted to make sure I did it right."
+      },
+      {
+        "id": 15,
+        "start": 88,
+        "end": 93,
+        "text": " Right. Just one quick thing, though, Mr. Bradford."
+      },
+      {
+        "id": 16,
+        "start": 93,
+        "end": 99,
+        "text": " To keep your prescription open, because the doctor writes out refills for these, but you get to order whenever you want to."
+      },
+      {
+        "id": 17,
+        "start": 99,
+        "end": 101,
+        "text": " So you, whatever."
+      },
+      {
+        "id": 18,
+        "start": 101,
+        "end": 104,
+        "text": " When you do need to place an order, give us a call."
+      },
+      {
+        "id": 19,
+        "start": 105,
+        "end": 107,
+        "text": " So we can place an order for you."
+      },
+      {
+        "id": 20,
+        "start": 107,
+        "end": 109,
+        "text": " That's the easiest way to do it."
+      },
+      {
+        "id": 21,
+        "start": 109,
+        "end": 115,
+        "text": " However, just bear in mind, if after six months you do not order anything, you get one refill."
+      },
+      {
+        "id": 22,
+        "start": 115,
+        "end": 119,
+        "text": " It does charge you one refill to keep your prescription active."
+      },
+      {
+        "id": 23,
+        "start": 119,
+        "end": 121,
+        "text": " But that's it. Other than that, you don't get anything else."
+      },
+      {
+        "id": 24,
+        "start": 121,
+        "end": 123,
+        "text": " Just order whenever you feel like it."
+      },
+      {
+        "id": 25,
+        "start": 123,
+        "end": 129,
+        "text": " Say that again. What did you say about in six months? What happens?"
+      },
+      {
+        "id": 26,
+        "start": 129,
+        "end": 139,
+        "text": " If you do not order anything in six months, after six months, let's say August rolls around, and you've ordered nothing, right,"
+      },
+      {
+        "id": 27,
+        "start": 139,
+        "end": 144,
+        "text": " the system will send you one refill to keep your prescription active."
+      },
+      {
+        "id": 28,
+        "start": 144,
+        "end": 148,
+        "text": " Otherwise, you don't get anything else."
+      },
+      {
+        "id": 29,
+        "start": 148,
+        "end": 152,
+        "text": " Only if you do not order anything in six months."
+      },
+      {
+        "id": 30,
+        "start": 153,
+        "end": 156,
+        "text": " If somebody is out of order in six months, I'll call you."
+      },
+      {
+        "id": 31,
+        "start": 156,
+        "end": 159,
+        "text": " I'll probably order one just to keep it active."
+      },
+      {
+        "id": 32,
+        "start": 159,
+        "end": 162,
+        "text": " Okay. Yeah, that's it. That's basically it."
+      },
+      {
+        "id": 33,
+        "start": 162,
+        "end": 165,
+        "text": " Okay. Thank you, ma'am. I appreciate it."
+      },
+      {
+        "id": 34,
+        "start": 165,
+        "end": 167,
+        "text": " Thank you. Have a good day. Bye-bye."
+      },
+      {
+        "id": 35,
+        "start": 167,
+        "end": 168,
+        "text": " You too. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-811c-88db-e26ee4abd27a",
+    "url": "https://www.notion.so/300000001241518-300000001731278-30611d0a101c811c88dbe26ee4abd27a"
+  },
+  "processedAt": "2026-02-13T17:07:10.476Z"
+}

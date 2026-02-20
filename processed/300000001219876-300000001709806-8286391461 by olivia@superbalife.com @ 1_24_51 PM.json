@@ -1,0 +1,404 @@
+{
+  "recording": {
+    "name": "300000001219876-300000001709806-8286391461 by olivia@superbalife.com @ 1_24_51 PM.wav",
+    "size": 311086,
+    "modifyTime": 1769549303000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219876-300000001709806-8286391461 by olivia@superbalife.com @ 1_24_51 PM.wav",
+    "uploadDate": "2026-01-27T21:28:23.000Z",
+    "callId": "300000001219876-300000001709806",
+    "agent": "olivia",
+    "phoneNumber": "8286391461",
+    "callTimestamp": "2026-01-27T13:24:51.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, this is Olivia speaking.\n\nSpeaker 2: Who do I have the pleasure of speaking with today?\n\nSpeaker 1: Yes, Randy Caldwell.\n\nSpeaker 2: Hi, Randy, how are you?\n\nSpeaker 1: Fine.\n\nSpeaker 2: I want to cancel my prescription for blue.\n\nSpeaker 1: I want to cancel.\n\nSpeaker 2: Yeah, I can definitely help you with this.\n\nSpeaker 1: Okay, Randy.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Yeah, of course.\n\nSpeaker 2: What is your date of birth?\n\nSpeaker 1: 8-9-55.\n\nSpeaker 2: Okay, great.\n\nSpeaker 1: And you're located at 243 Raintree Park Road,\n\nSpeaker 2: Hidden Heights, North Carolina, 28636.\n\nSpeaker 1: Yes, I am.\n\nSpeaker 2: Okay, great.\n\nSpeaker 1: Yeah, so I do see your prescription here.\n\nSpeaker 2: All right.\n\nSpeaker 1: Yeah, well, just so you know, Randy,\n\nSpeaker 2: you do not have to receive those regular monthly refills\n\nSpeaker 1: with the prescription if you do not want to.\n\nSpeaker 2: You always have the option with your prescription to place it on hold\n\nSpeaker 1: for up to six months at a time,\n\nSpeaker 2: just because six months is when the prescription would expire\n\nSpeaker 1: if we didn't refill it.\n\nSpeaker 2: And the way that would work, because that would be like the end of July,\n\nSpeaker 1: is if you did need anything before then, you could have it.\n\nSpeaker 2: You just have to give us a call to place the order yourself.\n\nSpeaker 1: That would be great.\n\nSpeaker 2: I don't want to be charged anything whatsoever.\n\nSpeaker 1: Okay, great.\n\nSpeaker 2: So, yeah, if you need anything before the end of July, July 27th,\n\nSpeaker 1: just give us a call at this number, Monday through Friday, 8 to 5 Pacific.\n\nSpeaker 2: We're always here, because otherwise your prescription is placed on hold.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Now I won't be charged this coming month, correct?\n\nSpeaker 1: Correct.\n\nSpeaker 2: No, certainly not.\n\nSpeaker 1: The prescription, yes.\n\nSpeaker 2: Okay, well, thank you so much, and I will make sure I won't be charged.\n\nSpeaker 1: That's correct, yeah.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yeah, yeah.\n\nSpeaker 2: I can even send you an email if you want confirming the prescription is on hold,\n\nSpeaker 1: yeah, the next six months.\n\nSpeaker 2: So the email we have is CaldwellRandy34 at Gmail, is that right?\n\nSpeaker 1: Yes, ma'am.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: There's a Randy Caldwell in my hometown, I feel like.\n\nSpeaker 2: Oh, okay, great.\n\nSpeaker 1: I feel like Appalachian names travel, you know what I mean?\n\nSpeaker 2: Uh-huh, yes.\n\nSpeaker 1: Okay, so I'll send that to you in these next few minutes.\n\nSpeaker 2: Pardon me?\n\nSpeaker 1: I said, so I'll send this email to you in the next few minutes.\n\nSpeaker 2: Okay, well, thank you so much, and have a great day, and thank you for helping me.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: I hope you have a great day.\n\nSpeaker 1: Thank you, and bye-bye.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye.",
+    "duration": 8611,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you for calling Viagra, this is Olivia speaking."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 8,
+        "text": " Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " Yes, Randy Caldwell."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 14,
+        "text": " Hi, Randy, how are you?"
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 15,
+        "text": " Fine."
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 22,
+        "text": " I want to cancel my prescription for blue."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 25,
+        "text": " I want to cancel."
+      },
+      {
+        "id": 7,
+        "start": 25,
+        "end": 29,
+        "text": " Yeah, I can definitely help you with this."
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 30,
+        "text": " Okay, Randy."
+      },
+      {
+        "id": 9,
+        "start": 30,
+        "end": 31,
+        "text": " Thank you."
+      },
+      {
+        "id": 10,
+        "start": 31,
+        "end": 32,
+        "text": " Yeah, of course."
+      },
+      {
+        "id": 11,
+        "start": 32,
+        "end": 34,
+        "text": " What is your date of birth?"
+      },
+      {
+        "id": 12,
+        "start": 34,
+        "end": 37,
+        "text": " 8-9-55."
+      },
+      {
+        "id": 13,
+        "start": 37,
+        "end": 39,
+        "text": " Okay, great."
+      },
+      {
+        "id": 14,
+        "start": 39,
+        "end": 43,
+        "text": " And you're located at 243 Raintree Park Road,"
+      },
+      {
+        "id": 15,
+        "start": 43,
+        "end": 47,
+        "text": " Hidden Heights, North Carolina, 28636."
+      },
+      {
+        "id": 16,
+        "start": 47,
+        "end": 49,
+        "text": " Yes, I am."
+      },
+      {
+        "id": 17,
+        "start": 49,
+        "end": 51,
+        "text": " Okay, great."
+      },
+      {
+        "id": 18,
+        "start": 51,
+        "end": 53,
+        "text": " Yeah, so I do see your prescription here."
+      },
+      {
+        "id": 19,
+        "start": 53,
+        "end": 55,
+        "text": " All right."
+      },
+      {
+        "id": 20,
+        "start": 56,
+        "end": 59,
+        "text": " Yeah, well, just so you know, Randy,"
+      },
+      {
+        "id": 21,
+        "start": 59,
+        "end": 64,
+        "text": " you do not have to receive those regular monthly refills"
+      },
+      {
+        "id": 22,
+        "start": 64,
+        "end": 67,
+        "text": " with the prescription if you do not want to."
+      },
+      {
+        "id": 23,
+        "start": 67,
+        "end": 72,
+        "text": " You always have the option with your prescription to place it on hold"
+      },
+      {
+        "id": 24,
+        "start": 72,
+        "end": 74,
+        "text": " for up to six months at a time,"
+      },
+      {
+        "id": 25,
+        "start": 74,
+        "end": 78,
+        "text": " just because six months is when the prescription would expire"
+      },
+      {
+        "id": 26,
+        "start": 78,
+        "end": 80,
+        "text": " if we didn't refill it."
+      },
+      {
+        "id": 27,
+        "start": 80,
+        "end": 84,
+        "text": " And the way that would work, because that would be like the end of July,"
+      },
+      {
+        "id": 28,
+        "start": 84,
+        "end": 90,
+        "text": " is if you did need anything before then, you could have it."
+      },
+      {
+        "id": 29,
+        "start": 90,
+        "end": 94,
+        "text": " You just have to give us a call to place the order yourself."
+      },
+      {
+        "id": 30,
+        "start": 94,
+        "end": 96,
+        "text": " That would be great."
+      },
+      {
+        "id": 31,
+        "start": 96,
+        "end": 99,
+        "text": " I don't want to be charged anything whatsoever."
+      },
+      {
+        "id": 32,
+        "start": 99,
+        "end": 102,
+        "text": " Okay, great."
+      },
+      {
+        "id": 33,
+        "start": 102,
+        "end": 107,
+        "text": " So, yeah, if you need anything before the end of July, July 27th,"
+      },
+      {
+        "id": 34,
+        "start": 108,
+        "end": 112,
+        "text": " just give us a call at this number, Monday through Friday, 8 to 5 Pacific."
+      },
+      {
+        "id": 35,
+        "start": 112,
+        "end": 117,
+        "text": " We're always here, because otherwise your prescription is placed on hold."
+      },
+      {
+        "id": 36,
+        "start": 117,
+        "end": 118,
+        "text": " Okay."
+      },
+      {
+        "id": 37,
+        "start": 118,
+        "end": 121,
+        "text": " Now I won't be charged this coming month, correct?"
+      },
+      {
+        "id": 38,
+        "start": 121,
+        "end": 122,
+        "text": " Correct."
+      },
+      {
+        "id": 39,
+        "start": 122,
+        "end": 123,
+        "text": " No, certainly not."
+      },
+      {
+        "id": 40,
+        "start": 123,
+        "end": 125,
+        "text": " The prescription, yes."
+      },
+      {
+        "id": 41,
+        "start": 125,
+        "end": 131,
+        "text": " Okay, well, thank you so much, and I will make sure I won't be charged."
+      },
+      {
+        "id": 42,
+        "start": 131,
+        "end": 133,
+        "text": " That's correct, yeah."
+      },
+      {
+        "id": 43,
+        "start": 133,
+        "end": 134,
+        "text": " Okay."
+      },
+      {
+        "id": 44,
+        "start": 134,
+        "end": 137,
+        "text": " Yeah, yeah."
+      },
+      {
+        "id": 45,
+        "start": 137,
+        "end": 142,
+        "text": " I can even send you an email if you want confirming the prescription is on hold,"
+      },
+      {
+        "id": 46,
+        "start": 142,
+        "end": 146,
+        "text": " yeah, the next six months."
+      },
+      {
+        "id": 47,
+        "start": 146,
+        "end": 152,
+        "text": " So the email we have is CaldwellRandy34 at Gmail, is that right?"
+      },
+      {
+        "id": 48,
+        "start": 152,
+        "end": 153,
+        "text": " Yes, ma'am."
+      },
+      {
+        "id": 49,
+        "start": 153,
+        "end": 154,
+        "text": " Yeah."
+      },
+      {
+        "id": 50,
+        "start": 154,
+        "end": 159,
+        "text": " There's a Randy Caldwell in my hometown, I feel like."
+      },
+      {
+        "id": 51,
+        "start": 159,
+        "end": 161,
+        "text": " Oh, okay, great."
+      },
+      {
+        "id": 52,
+        "start": 161,
+        "end": 165,
+        "text": " I feel like Appalachian names travel, you know what I mean?"
+      },
+      {
+        "id": 53,
+        "start": 165,
+        "end": 168,
+        "text": " Uh-huh, yes."
+      },
+      {
+        "id": 54,
+        "start": 168,
+        "end": 173,
+        "text": " Okay, so I'll send that to you in these next few minutes."
+      },
+      {
+        "id": 55,
+        "start": 173,
+        "end": 174,
+        "text": " Pardon me?"
+      },
+      {
+        "id": 56,
+        "start": 174,
+        "end": 178,
+        "text": " I said, so I'll send this email to you in the next few minutes."
+      },
+      {
+        "id": 57,
+        "start": 178,
+        "end": 182,
+        "text": " Okay, well, thank you so much, and have a great day, and thank you for helping me."
+      },
+      {
+        "id": 58,
+        "start": 182,
+        "end": 183,
+        "text": " Thank you."
+      },
+      {
+        "id": 59,
+        "start": 183,
+        "end": 185,
+        "text": " I hope you have a great day."
+      },
+      {
+        "id": 60,
+        "start": 185,
+        "end": 186,
+        "text": " Thank you, and bye-bye."
+      },
+      {
+        "id": 61,
+        "start": 186,
+        "end": 187,
+        "text": " Bye."
+      },
+      {
+        "id": 62,
+        "start": 191,
+        "end": 192,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8129-9570-f2e9120743e7",
+    "url": "https://www.notion.so/300000001219876-300000001709806-2f511d0a101c81299570f2e9120743e7"
+  },
+  "processedAt": "2026-01-27T23:30:19.571Z"
+}

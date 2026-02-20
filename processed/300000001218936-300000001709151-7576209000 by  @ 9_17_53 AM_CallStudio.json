@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001218936-300000001709151-7576209000 by  @ 9_17_53 AM_CallStudio.wav",
+    "size": 36590,
+    "modifyTime": 1769590642000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218936-300000001709151-7576209000 by  @ 9_17_53 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T08:57:22.000Z",
+    "callId": "300000001218936-300000001709151",
+    "phoneNumber": "7576209000",
+    "callTimestamp": "2026-01-28T08:57:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I just received an order from you, and you sent me the wrong stuff.\n\nSpeaker 1: And the first time I ordered it, please call me and talk to me.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 1816,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.360000133514404,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.519999980926514,
+        "end": 6,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.320000171661377,
+        "end": 7.78000020980835,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 15,
+        "text": " I just received an order from you, and you sent me the wrong stuff."
+      },
+      {
+        "id": 4,
+        "start": 15.520000457763672,
+        "end": 18.899999618530273,
+        "text": " And the first time I ordered it, please call me and talk to me."
+      },
+      {
+        "id": 5,
+        "start": 20.959999084472656,
+        "end": 22.15999984741211,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8144-b668-d4ccf16d1a11",
+    "url": "https://www.notion.so/300000001218936-300000001709151-2f611d0a101c8144b668d4ccf16d1a11"
+  },
+  "processedAt": "2026-01-28T11:54:22.933Z"
+}

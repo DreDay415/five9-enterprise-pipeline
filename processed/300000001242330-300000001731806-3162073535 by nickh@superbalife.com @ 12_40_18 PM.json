@@ -1,0 +1,323 @@
+{
+  "recording": {
+    "name": "300000001242330-300000001731806-3162073535 by nickh@superbalife.com @ 12_40_18 PM.wav",
+    "size": 233086,
+    "modifyTime": 1771015367000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242330-300000001731806-3162073535 by nickh@superbalife.com @ 12_40_18 PM.wav",
+    "uploadDate": "2026-02-13T20:42:47.000Z",
+    "callId": "300000001242330-300000001731806",
+    "agent": "nickh",
+    "phoneNumber": "3162073535",
+    "callTimestamp": "2026-02-13T12:40:18.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_nickh_300000001242330-300000001731806_3162073535.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_nickh_300000001242330-300000001731806_3162073535.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra at ScoreBlue. How can I help you today?\n\nSpeaker 2: Hi, it's Frank Hicks. I haven't received my order at all. I was trying to figure out where it's at.\n\nSpeaker 1: All right, Frank, let's do some digging here. Can I get your date of birth so I can pull up your chart?\n\nSpeaker 2: 4-19-64.\n\nSpeaker 1: So, Frank, it looks like it is currently in the Kansas City Distribution Center.\n\nSpeaker 2: You want me to get you set up with notifications?\n\nSpeaker 1: So then they'll get a text message on when it's going to be delivered?\n\nSpeaker 2: Yes.\n\nSpeaker 1: All right, bear with me here.\n\nSpeaker 2: I thought I was set up with that already, but I'm not.\n\nSpeaker 1: Well, normally you get an email when it's shipped.\n\nSpeaker 2: However, I'm going to set you up on the United States Postal Service website, right?\n\nSpeaker 1: Okay.\n\nSpeaker 2: And so then you'll get text notifications whenever it moves.\n\nSpeaker 1: So it's a little bit more detailed.\n\nSpeaker 2: Yeah, that'd be nice.\n\nSpeaker 1: Okay, so you should get a text message to the number ending in 3535 just now?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, so you just need to confirm to receive messages, and then you'll see when that is set to arrive.\n\nSpeaker 1: I'm not sure why it's delayed right now, but it looks like it is in Kansas City.\n\nSpeaker 2: Got to receive a text, so what do I do?\n\nSpeaker 1: Yeah, you can accept it, or I believe it says, like, press 1 to approve messages.\n\nSpeaker 2: Is that what it says there?\n\nSpeaker 1: No, it doesn't say anything.\n\nSpeaker 2: It just gives me a tracking number.\n\nSpeaker 1: That's it.\n\nSpeaker 2: Okay, so if you click that, it'll show your status, and then you will get text messages on any updates for your shipment.\n\nSpeaker 1: Got it.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Is it in Kansas City right now?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So when do you think it is due to arrive?\n\nSpeaker 1: Does it show that?\n\nSpeaker 2: It doesn't.\n\nSpeaker 1: That's the strange thing.\n\nSpeaker 2: Usually, USPS has a little bit more detail.\n\nSpeaker 1: It just says the item is in transit to the destination.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Well, it's in Waketa, actually, right now.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Waketa, Kansas.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, thank you, then.\n\nSpeaker 1: Yeah, thank you.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye.",
+    "duration": 6444,
+    "audioDuration": 143.39999389648438,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, thank you for calling Viagra at ScoreBlue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 8,
+        "text": " Hi, it's Frank Hicks. I haven't received my order at all. I was trying to figure out where it's at."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " All right, Frank, let's do some digging here. Can I get your date of birth so I can pull up your chart?"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 15,
+        "text": " 4-19-64."
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 30,
+        "text": " So, Frank, it looks like it is currently in the Kansas City Distribution Center."
+      },
+      {
+        "id": 5,
+        "start": 30,
+        "end": 35,
+        "text": " You want me to get you set up with notifications?"
+      },
+      {
+        "id": 6,
+        "start": 35,
+        "end": 39,
+        "text": " So then they'll get a text message on when it's going to be delivered?"
+      },
+      {
+        "id": 7,
+        "start": 39,
+        "end": 40,
+        "text": " Yes."
+      },
+      {
+        "id": 8,
+        "start": 40,
+        "end": 42,
+        "text": " All right, bear with me here."
+      },
+      {
+        "id": 9,
+        "start": 42,
+        "end": 44,
+        "text": " I thought I was set up with that already, but I'm not."
+      },
+      {
+        "id": 10,
+        "start": 44,
+        "end": 47,
+        "text": " Well, normally you get an email when it's shipped."
+      },
+      {
+        "id": 11,
+        "start": 47,
+        "end": 53,
+        "text": " However, I'm going to set you up on the United States Postal Service website, right?"
+      },
+      {
+        "id": 12,
+        "start": 53,
+        "end": 54,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 54,
+        "end": 58,
+        "text": " And so then you'll get text notifications whenever it moves."
+      },
+      {
+        "id": 14,
+        "start": 58,
+        "end": 60,
+        "text": " So it's a little bit more detailed."
+      },
+      {
+        "id": 15,
+        "start": 60,
+        "end": 61,
+        "text": " Yeah, that'd be nice."
+      },
+      {
+        "id": 16,
+        "start": 61,
+        "end": 67,
+        "text": " Okay, so you should get a text message to the number ending in 3535 just now?"
+      },
+      {
+        "id": 17,
+        "start": 67,
+        "end": 68,
+        "text": " Yes."
+      },
+      {
+        "id": 18,
+        "start": 68,
+        "end": 69,
+        "text": " Okay."
+      },
+      {
+        "id": 19,
+        "start": 69,
+        "end": 76,
+        "text": " All right, so you just need to confirm to receive messages, and then you'll see when that is set to arrive."
+      },
+      {
+        "id": 20,
+        "start": 76,
+        "end": 81,
+        "text": " I'm not sure why it's delayed right now, but it looks like it is in Kansas City."
+      },
+      {
+        "id": 21,
+        "start": 81,
+        "end": 83,
+        "text": " Got to receive a text, so what do I do?"
+      },
+      {
+        "id": 22,
+        "start": 83,
+        "end": 90,
+        "text": " Yeah, you can accept it, or I believe it says, like, press 1 to approve messages."
+      },
+      {
+        "id": 23,
+        "start": 90,
+        "end": 92,
+        "text": " Is that what it says there?"
+      },
+      {
+        "id": 24,
+        "start": 92,
+        "end": 94,
+        "text": " No, it doesn't say anything."
+      },
+      {
+        "id": 25,
+        "start": 95,
+        "end": 98,
+        "text": " It just gives me a tracking number."
+      },
+      {
+        "id": 26,
+        "start": 98,
+        "end": 99,
+        "text": " That's it."
+      },
+      {
+        "id": 27,
+        "start": 99,
+        "end": 107,
+        "text": " Okay, so if you click that, it'll show your status, and then you will get text messages on any updates for your shipment."
+      },
+      {
+        "id": 28,
+        "start": 107,
+        "end": 108,
+        "text": " Got it."
+      },
+      {
+        "id": 29,
+        "start": 108,
+        "end": 109,
+        "text": " Okay."
+      },
+      {
+        "id": 30,
+        "start": 109,
+        "end": 111,
+        "text": " Is it in Kansas City right now?"
+      },
+      {
+        "id": 31,
+        "start": 111,
+        "end": 112,
+        "text": " Correct."
+      },
+      {
+        "id": 32,
+        "start": 112,
+        "end": 113,
+        "text": " Okay."
+      },
+      {
+        "id": 33,
+        "start": 113,
+        "end": 115,
+        "text": " So when do you think it is due to arrive?"
+      },
+      {
+        "id": 34,
+        "start": 115,
+        "end": 116,
+        "text": " Does it show that?"
+      },
+      {
+        "id": 35,
+        "start": 116,
+        "end": 118,
+        "text": " It doesn't."
+      },
+      {
+        "id": 36,
+        "start": 118,
+        "end": 119,
+        "text": " That's the strange thing."
+      },
+      {
+        "id": 37,
+        "start": 119,
+        "end": 121,
+        "text": " Usually, USPS has a little bit more detail."
+      },
+      {
+        "id": 38,
+        "start": 121,
+        "end": 126,
+        "text": " It just says the item is in transit to the destination."
+      },
+      {
+        "id": 39,
+        "start": 126,
+        "end": 127,
+        "text": " Okay."
+      },
+      {
+        "id": 40,
+        "start": 127,
+        "end": 131,
+        "text": " Well, it's in Waketa, actually, right now."
+      },
+      {
+        "id": 41,
+        "start": 131,
+        "end": 132,
+        "text": " Okay."
+      },
+      {
+        "id": 42,
+        "start": 132,
+        "end": 134,
+        "text": " Waketa, Kansas."
+      },
+      {
+        "id": 43,
+        "start": 134,
+        "end": 135,
+        "text": " Yeah."
+      },
+      {
+        "id": 44,
+        "start": 135,
+        "end": 136,
+        "text": " Okay."
+      },
+      {
+        "id": 45,
+        "start": 136,
+        "end": 138,
+        "text": " All right, thank you, then."
+      },
+      {
+        "id": 46,
+        "start": 138,
+        "end": 139,
+        "text": " Yeah, thank you."
+      },
+      {
+        "id": 47,
+        "start": 139,
+        "end": 140,
+        "text": " Bye."
+      },
+      {
+        "id": 48,
+        "start": 140,
+        "end": 141,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8195-8953-e391c1acf3fb",
+    "url": "https://www.notion.so/300000001242330-300000001731806-30611d0a101c81958953e391c1acf3fb"
+  },
+  "processedAt": "2026-02-13T21:00:45.219Z"
+}

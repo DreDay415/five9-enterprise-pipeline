@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001222993-300000001712583-4084015593 by  @ 1_19_33 PM_CallStudio.wav",
+    "size": 29180,
+    "modifyTime": 1769721613000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222993-300000001712583-4084015593 by  @ 1_19_33 PM_CallStudio.wav",
+    "uploadDate": "2026-01-29T21:20:13.000Z",
+    "callId": "300000001222993-300000001712583",
+    "phoneNumber": "4084015593",
+    "callTimestamp": "2026-01-29T21:20:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: Change frequency of pill refills.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 849,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.119999885559082,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.119999885559082,
+        "end": 6.119999885559082,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.119999885559082,
+        "end": 11.680000305175781,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 11.680000305175781,
+        "end": 16.440000534057617,
+        "text": " Change frequency of pill refills."
+      },
+      {
+        "id": 4,
+        "start": 16.440000534057617,
+        "end": 17.600000381469727,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81bd-987e-e582263583da",
+    "url": "https://www.notion.so/300000001222993-300000001712583-2f711d0a101c81bd987ee582263583da"
+  },
+  "processedAt": "2026-01-29T21:47:16.126Z"
+}

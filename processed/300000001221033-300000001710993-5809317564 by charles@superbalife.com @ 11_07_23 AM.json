@@ -1,0 +1,68 @@
+{
+  "recording": {
+    "name": "300000001221033-300000001710993-5809317564 by charles@superbalife.com @ 11_07_23 AM.wav",
+    "size": 65970,
+    "modifyTime": 1769627305000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221033-300000001710993-5809317564 by charles@superbalife.com @ 11_07_23 AM.wav",
+    "uploadDate": "2026-01-28T19:08:25.000Z",
+    "callId": "300000001221033-300000001710993",
+    "agent": "charles",
+    "phoneNumber": "5809317564",
+    "callTimestamp": "2026-01-28T11:07:23.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra. This is Charles.\n\nSpeaker 2: Yeah, this is Michael Forbus, and I need to cancel my prescription.\n\nSpeaker 1: Gotcha, Michael Forbus in Durant. Yeah, I got an email yesterday saying y'all was sending another one to me, and I don't need another one right now. So I just need to cancel it.\n\nSpeaker 2: Gotcha, everything's canceled. That one is on its way. When it arrives, Michael, don't tear it up, don't do anything to it other than write return to sender on it with a marker or pen and put it back in the mailbox, and the mailman will take it and send it back to us for a refund, okay?\n\nSpeaker 1: Thank you, sir. Take care. Bye-bye.",
+    "duration": 3096,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 10.399999618530273,
+        "text": " Thanks for calling Viagra. This is Charles. Yeah, this is Michael Forbus, and I need to"
+      },
+      {
+        "id": 1,
+        "start": 10.399999618530273,
+        "end": 17.1200008392334,
+        "text": " cancel my prescription. Gotcha, Michael Forbus in Durant. Yeah, I got an email yesterday"
+      },
+      {
+        "id": 2,
+        "start": 17.1200008392334,
+        "end": 20.68000030517578,
+        "text": " saying y'all was sending another one to me, and I don't need another one right now. So"
+      },
+      {
+        "id": 3,
+        "start": 20.68000030517578,
+        "end": 25.719999313354492,
+        "text": " I just need to cancel it. Gotcha, everything's canceled. That one is on its way. When it"
+      },
+      {
+        "id": 4,
+        "start": 25.719999313354492,
+        "end": 30,
+        "text": " arrives, Michael, don't tear it up, don't do anything to it other than write return"
+      },
+      {
+        "id": 5,
+        "start": 30,
+        "end": 33.52000045776367,
+        "text": " to sender on it with a marker or pen and put it back in the mailbox, and the mailman will"
+      },
+      {
+        "id": 6,
+        "start": 33.52000045776367,
+        "end": 38.959999084472656,
+        "text": " take it and send it back to us for a refund, okay? Thank you, sir. Take care. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8160-bbeb-c2e241e78adc",
+    "url": "https://www.notion.so/300000001221033-300000001710993-2f711d0a101c8160bbebc2e241e78adc"
+  },
+  "processedAt": "2026-01-29T00:00:41.321Z"
+}

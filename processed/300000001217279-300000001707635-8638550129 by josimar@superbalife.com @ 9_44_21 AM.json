@@ -1,0 +1,116 @@
+{
+  "recording": {
+    "name": "300000001217279-300000001707635-8638550129 by josimar@superbalife.com @ 9_44_21 AM.wav",
+    "size": 90346,
+    "modifyTime": 1769592144000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217279-300000001707635-8638550129 by josimar@superbalife.com @ 9_44_21 AM.wav",
+    "uploadDate": "2026-01-28T09:22:24.000Z",
+    "callId": "300000001217279-300000001707635",
+    "agent": "josimar",
+    "phoneNumber": "8638550129",
+    "callTimestamp": "2026-01-28T09:44:21.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Are you the client of Viagra? How can I help you today?\n\nSpeaker 2: Yes, sir. I'm calling to cancel my subscription. I no longer need it.\n\nSpeaker 1: Can I take a look into that for you? What's your last name and a zip code?\n\nSpeaker 2: Last name is Trest. T-R-E-S-T. Zip code is 33898.\n\nSpeaker 1: Okay. One quick thing I do want to mention, sir, now that I'm looking at your profile,\n\nSpeaker 2: is that you're currently a VIP member for the Viagra AGV.\n\nSpeaker 1: The moment I cancel these orders out, you wouldn't be able to access this Viagra anymore.\n\nSpeaker 2: Are you sure you didn't want to change it to our six-month freeze plan?\n\nSpeaker 1: No, I did that before. I no longer need them. I want to cancel them altogether.\n\nSpeaker 2: No problem. No worries at all. Just letting you know, because the moment it is canceled,\n\nSpeaker 1: the doctor would delete the prescription as well.\n\nSpeaker 2: Yeah, I'm going to do everything. Cancel everything. I don't want nothing else.\n\nSpeaker 1: Nothing else? Okay. It was already canceled out. So I hope you have a great day.\n\nSpeaker 2: All right, then. I appreciate it, bud.\n\nSpeaker 1: You're no problem. Bye-bye.",
+    "duration": 3292,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Are you the client of Viagra? How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 6,
+        "text": " Yes, sir. I'm calling to cancel my subscription. I no longer need it."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 10,
+        "text": " Can I take a look into that for you? What's your last name and a zip code?"
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 17,
+        "text": " Last name is Trest. T-R-E-S-T. Zip code is 33898."
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 21,
+        "text": " Okay. One quick thing I do want to mention, sir, now that I'm looking at your profile,"
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 24,
+        "text": " is that you're currently a VIP member for the Viagra AGV."
+      },
+      {
+        "id": 6,
+        "start": 24,
+        "end": 28,
+        "text": " The moment I cancel these orders out, you wouldn't be able to access this Viagra anymore."
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 31,
+        "text": " Are you sure you didn't want to change it to our six-month freeze plan?"
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 37,
+        "text": " No, I did that before. I no longer need them. I want to cancel them altogether."
+      },
+      {
+        "id": 9,
+        "start": 37,
+        "end": 41,
+        "text": " No problem. No worries at all. Just letting you know, because the moment it is canceled,"
+      },
+      {
+        "id": 10,
+        "start": 41,
+        "end": 43,
+        "text": " the doctor would delete the prescription as well."
+      },
+      {
+        "id": 11,
+        "start": 43,
+        "end": 48,
+        "text": " Yeah, I'm going to do everything. Cancel everything. I don't want nothing else."
+      },
+      {
+        "id": 12,
+        "start": 48,
+        "end": 52,
+        "text": " Nothing else? Okay. It was already canceled out. So I hope you have a great day."
+      },
+      {
+        "id": 13,
+        "start": 52,
+        "end": 54,
+        "text": " All right, then. I appreciate it, bud."
+      },
+      {
+        "id": 14,
+        "start": 54,
+        "end": 55,
+        "text": " You're no problem. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8134-8ad6-da41df2c3ebd",
+    "url": "https://www.notion.so/300000001217279-300000001707635-2f611d0a101c81348ad6da41df2c3ebd"
+  },
+  "processedAt": "2026-01-28T10:57:57.049Z"
+}

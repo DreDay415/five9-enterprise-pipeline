@@ -1,0 +1,203 @@
+{
+  "recording": {
+    "name": "300000001241991-300000001731591-5165235609 by lucif@superbalife.com @ 10_54_45 AM.wav",
+    "size": 122130,
+    "modifyTime": 1771008982000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241991-300000001731591-5165235609 by lucif@superbalife.com @ 10_54_45 AM.wav",
+    "uploadDate": "2026-02-13T18:56:22.000Z",
+    "callId": "300000001241991-300000001731591",
+    "agent": "lucif",
+    "phoneNumber": "5165235609",
+    "callTimestamp": "2026-02-13T10:54:45.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_lucif_300000001241991-300000001731591_5165235609.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_lucif_300000001241991-300000001731591_5165235609.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, Paul Vaga, Quinn speaking, how can I help you?\n\nSpeaker 2: Hey, how are you doing?\n\nSpeaker 1: I'm calling to cancel the subscription I have.\n\nSpeaker 2: Okay, give me a moment to pull up your account.\n\nSpeaker 1: Sure.\n\nSpeaker 2: It wasn't even supposed to actually ship the most recent one.\n\nSpeaker 1: I just fixed it for the last shipment prior to that.\n\nSpeaker 2: But when there was ever that, they had said it was one thing and it was another.\n\nSpeaker 1: So?\n\nSpeaker 2: Okay.\n\nSpeaker 1: Jason, did you receive the wrong thing or what happened?\n\nSpeaker 2: What's that?\n\nSpeaker 1: Did you receive the wrong pills or?\n\nSpeaker 2: Initially, from the very first time, it was supposed to be the other one.\n\nSpeaker 1: And then they corrected it.\n\nSpeaker 2: But even so, it's still not working for me, so.\n\nSpeaker 1: So it's still not working at all?\n\nSpeaker 2: And have you had a similar reaction with Cialis in the past?\n\nSpeaker 1: I've tried all of them before.\n\nSpeaker 2: And they did this for the last one I delivered, so.\n\nSpeaker 1: Yeah, I'll just pass on everything for now.\n\nSpeaker 2: Okay, all right, we'll cancel you out.\n\nSpeaker 1: Anything else?\n\nSpeaker 2: That's it, buddy, I appreciate it.\n\nSpeaker 1: Thank you so much.\n\nSpeaker 2: You're welcome.",
+    "duration": 3209,
+    "audioDuration": 75.12000274658203,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.7200000286102295,
+        "text": " Hey, Paul Vaga, Quinn speaking, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 2.7200000286102295,
+        "end": 4.679999828338623,
+        "text": " Hey, how are you doing?"
+      },
+      {
+        "id": 2,
+        "start": 4.679999828338623,
+        "end": 9.680000305175781,
+        "text": " I'm calling to cancel the subscription I have."
+      },
+      {
+        "id": 3,
+        "start": 11.720000267028809,
+        "end": 14.520000457763672,
+        "text": " Okay, give me a pull up your account one moment."
+      },
+      {
+        "id": 4,
+        "start": 14.520000457763672,
+        "end": 15.359999656677246,
+        "text": " Sure."
+      },
+      {
+        "id": 5,
+        "start": 17.559999465942383,
+        "end": 18.799999237060547,
+        "text": " It wasn't even supposed to actually ship"
+      },
+      {
+        "id": 6,
+        "start": 18.799999237060547,
+        "end": 21.84000015258789,
+        "text": " the most recent one."
+      },
+      {
+        "id": 7,
+        "start": 21.84000015258789,
+        "end": 24.959999084472656,
+        "text": " I just fixed it for the last shipment prior to that,"
+      },
+      {
+        "id": 8,
+        "start": 24.959999084472656,
+        "end": 27.639999389648438,
+        "text": " but when there was ever that they had said"
+      },
+      {
+        "id": 9,
+        "start": 27.639999389648438,
+        "end": 29.200000762939453,
+        "text": " it was one thing and it was, it was another."
+      },
+      {
+        "id": 10,
+        "start": 29.200000762939453,
+        "end": 30.040000915527344,
+        "text": " So."
+      },
+      {
+        "id": 11,
+        "start": 35,
+        "end": 35.84000015258789,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 37.68000030517578,
+        "end": 41.08000183105469,
+        "text": " Jason, did you receive the wrong thing or what happened?"
+      },
+      {
+        "id": 13,
+        "start": 41.08000183105469,
+        "end": 42.15999984741211,
+        "text": " What's that?"
+      },
+      {
+        "id": 14,
+        "start": 42.15999984741211,
+        "end": 44.959999084472656,
+        "text": " Did you receive the wrong bills or?"
+      },
+      {
+        "id": 15,
+        "start": 44.959999084472656,
+        "end": 46.959999084472656,
+        "text": " Initially, from the very first time,"
+      },
+      {
+        "id": 16,
+        "start": 46.959999084472656,
+        "end": 47.79999923706055,
+        "text": " it was supposed to be the other one"
+      },
+      {
+        "id": 17,
+        "start": 47.79999923706055,
+        "end": 49.63999938964844,
+        "text": " and then they corrected it."
+      },
+      {
+        "id": 18,
+        "start": 49.63999938964844,
+        "end": 52,
+        "text": " But even so, it's still not working for me, so."
+      },
+      {
+        "id": 19,
+        "start": 53.7599983215332,
+        "end": 55.880001068115234,
+        "text": " So it's still not working at all."
+      },
+      {
+        "id": 20,
+        "start": 55.880001068115234,
+        "end": 60.880001068115234,
+        "text": " And have you had a similar reaction with Cialis in the past?"
+      },
+      {
+        "id": 21,
+        "start": 62.2400016784668,
+        "end": 63.2400016784668,
+        "text": " I've tried all of them before"
+      },
+      {
+        "id": 22,
+        "start": 63.2400016784668,
+        "end": 66.16000366210938,
+        "text": " and they did this for the last one I delivered, so."
+      },
+      {
+        "id": 23,
+        "start": 67.23999786376953,
+        "end": 69.36000061035156,
+        "text": " Yeah, I'll just pass on everything for now."
+      },
+      {
+        "id": 24,
+        "start": 69.36000061035156,
+        "end": 71.5999984741211,
+        "text": " Okay, all right, we'll cancel you out."
+      },
+      {
+        "id": 25,
+        "start": 71.5999984741211,
+        "end": 72.95999908447266,
+        "text": " Anything else?"
+      },
+      {
+        "id": 26,
+        "start": 72.95999908447266,
+        "end": 73.91999816894531,
+        "text": " That's it, buddy, I appreciate it."
+      },
+      {
+        "id": 27,
+        "start": 73.91999816894531,
+        "end": 74.76000213623047,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 28,
+        "start": 74.76000213623047,
+        "end": 75.5999984741211,
+        "text": " You're welcome."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-810a-b3a8-e0f000e818a9",
+    "url": "https://www.notion.so/300000001241991-300000001731591-30611d0a101c810ab3a8e0f000e818a9"
+  },
+  "processedAt": "2026-02-13T18:59:02.241Z"
+}

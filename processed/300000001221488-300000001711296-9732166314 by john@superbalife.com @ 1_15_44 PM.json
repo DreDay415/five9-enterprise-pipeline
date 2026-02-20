@@ -1,0 +1,254 @@
+{
+  "recording": {
+    "name": "300000001221488-300000001711296-9732166314 by john@superbalife.com @ 1_15_44 PM.wav",
+    "size": 164120,
+    "modifyTime": 1769635055000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221488-300000001711296-9732166314 by john@superbalife.com @ 1_15_44 PM.wav",
+    "uploadDate": "2026-01-28T21:17:35.000Z",
+    "callId": "300000001221488-300000001711296",
+    "agent": "john",
+    "phoneNumber": "9732166314",
+    "callTimestamp": "2026-01-28T13:15:44.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling, this is John, how can I help you today?\n\nSpeaker 2: Hi, my name is Rocco Nisivachia and I had called before because I have diabetes and I have high blood pressure and my doctor doesn't want me taking these pills.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And you continue sending me the pills and you continue charging my American Express credit card.\n\nSpeaker 1: I mean, would you like me to send you back these pills?\n\nSpeaker 2: I mean, I don't know what to do, but I can't take them.\n\nSpeaker 1: Rocco, yes, you can send them back, we'll refund you.\n\nSpeaker 2: I need your zip code and I'll take care of your account.\n\nSpeaker 1: I don't know what happened.\n\nSpeaker 2: Okay, no problem.\n\nSpeaker 1: You know, like I said, you know, it's unfortunate, I thought they were going to work and everything sounded good and I happened to go for a checkup for my diabetes and he asked me what am I taking and this and that and I have brought them with me and he said he didn't think it was a good idea with the diabetes and the high blood pressure.\n\nSpeaker 2: Okay?\n\nSpeaker 1: Yeah, no, that's fine.\n\nSpeaker 2: That's a totally reasonable reason, so I'm happy to do it.\n\nSpeaker 1: I just need your zip code.\n\nSpeaker 2: Okay.\n\nSpeaker 1: 08753.\n\nSpeaker 2: Channel Road and Tom's River?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, that's closed out, sir.\n\nSpeaker 1: Return the ones that you've gotten, the recent ones and we'll refund you for those.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I didn't even open them.\n\nSpeaker 2: I didn't even touch them.\n\nSpeaker 1: I'll send them back to the shipping manager, shipping department, Alexander Pike in Southgate, Kentucky.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thank you very much.\n\nSpeaker 1: I appreciate your help.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Have a good one.",
+    "duration": 3758,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.320000171661377,
+        "text": " Thank you for calling, this is John, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 4.320000171661377,
+        "end": 14.15999984741211,
+        "text": " Hi, my name is Rocco Nisivachia and I had called before because I have diabetes and"
+      },
+      {
+        "id": 2,
+        "start": 14.15999984741211,
+        "end": 18.84000015258789,
+        "text": " I have high blood pressure and my doctor doesn't want me taking these pills."
+      },
+      {
+        "id": 3,
+        "start": 18.84000015258789,
+        "end": 19.84000015258789,
+        "text": " Okay."
+      },
+      {
+        "id": 4,
+        "start": 19.84000015258789,
+        "end": 25.399999618530273,
+        "text": " And you continue sending me the pills and you continue charging my American Express"
+      },
+      {
+        "id": 5,
+        "start": 25.399999618530273,
+        "end": 26.84000015258789,
+        "text": " credit card."
+      },
+      {
+        "id": 6,
+        "start": 26.84000015258789,
+        "end": 29.84000015258789,
+        "text": " I mean, would you like me to send you back these pills?"
+      },
+      {
+        "id": 7,
+        "start": 29.84000015258789,
+        "end": 33.31999969482422,
+        "text": " I mean, I don't know what to do, but I can't take them."
+      },
+      {
+        "id": 8,
+        "start": 33.31999969482422,
+        "end": 36.040000915527344,
+        "text": " Rocco, yes, you can send them back, we'll refund you."
+      },
+      {
+        "id": 9,
+        "start": 36.040000915527344,
+        "end": 38.08000183105469,
+        "text": " I need your zip code and I'll take care of your account."
+      },
+      {
+        "id": 10,
+        "start": 38.08000183105469,
+        "end": 39.08000183105469,
+        "text": " I don't know what happened."
+      },
+      {
+        "id": 11,
+        "start": 39.08000183105469,
+        "end": 40.08000183105469,
+        "text": " Okay, no problem."
+      },
+      {
+        "id": 12,
+        "start": 40.08000183105469,
+        "end": 44.7599983215332,
+        "text": " You know, like I said, you know, it's unfortunate, I thought they were going to work and everything"
+      },
+      {
+        "id": 13,
+        "start": 44.7599983215332,
+        "end": 50.63999938964844,
+        "text": " sounded good and I happened to go for a checkup for my diabetes and he asked me what am I"
+      },
+      {
+        "id": 14,
+        "start": 50.63999938964844,
+        "end": 54.68000030517578,
+        "text": " taking and this and that and I have brought them with me and he said he didn't think it"
+      },
+      {
+        "id": 15,
+        "start": 54.68000030517578,
+        "end": 57.400001525878906,
+        "text": " was a good idea with the diabetes and the high blood pressure."
+      },
+      {
+        "id": 16,
+        "start": 57.400001525878906,
+        "end": 58.400001525878906,
+        "text": " Okay?"
+      },
+      {
+        "id": 17,
+        "start": 58.400001525878906,
+        "end": 59.400001525878906,
+        "text": " Yeah, no, that's fine."
+      },
+      {
+        "id": 18,
+        "start": 59.400001525878906,
+        "end": 63.400001525878906,
+        "text": " That's a totally reasonable reason, so I'm happy to do it."
+      },
+      {
+        "id": 19,
+        "start": 63.400001525878906,
+        "end": 64.4000015258789,
+        "text": " I just need your zip code."
+      },
+      {
+        "id": 20,
+        "start": 64.4000015258789,
+        "end": 65.4000015258789,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 65.4000015258789,
+        "end": 66.4000015258789,
+        "text": " 08753."
+      },
+      {
+        "id": 22,
+        "start": 66.4000015258789,
+        "end": 67.4000015258789,
+        "text": " Channel Road and Tom's River?"
+      },
+      {
+        "id": 23,
+        "start": 67.4000015258789,
+        "end": 68.4000015258789,
+        "text": " Yes."
+      },
+      {
+        "id": 24,
+        "start": 68.4000015258789,
+        "end": 69.4000015258789,
+        "text": " Okay, that's closed out, sir."
+      },
+      {
+        "id": 25,
+        "start": 69.4000015258789,
+        "end": 82.4000015258789,
+        "text": " Return the ones that you've gotten, the recent ones and we'll refund you for those."
+      },
+      {
+        "id": 26,
+        "start": 82.4000015258789,
+        "end": 83.4000015258789,
+        "text": " Okay."
+      },
+      {
+        "id": 27,
+        "start": 83.4000015258789,
+        "end": 84.4000015258789,
+        "text": " I didn't even open them."
+      },
+      {
+        "id": 28,
+        "start": 85.12000274658203,
+        "end": 86.12000274658203,
+        "text": " I didn't even touch them."
+      },
+      {
+        "id": 29,
+        "start": 86.12000274658203,
+        "end": 92.72000122070312,
+        "text": " I'll send them back to the shipping manager, shipping department, Alexander Pike in Southgate,"
+      },
+      {
+        "id": 30,
+        "start": 92.72000122070312,
+        "end": 93.72000122070312,
+        "text": " Kentucky."
+      },
+      {
+        "id": 31,
+        "start": 93.72000122070312,
+        "end": 94.72000122070312,
+        "text": " Okay."
+      },
+      {
+        "id": 32,
+        "start": 94.72000122070312,
+        "end": 95.72000122070312,
+        "text": " Okay."
+      },
+      {
+        "id": 33,
+        "start": 95.72000122070312,
+        "end": 96.72000122070312,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 34,
+        "start": 96.72000122070312,
+        "end": 97.72000122070312,
+        "text": " I appreciate your help."
+      },
+      {
+        "id": 35,
+        "start": 97.72000122070312,
+        "end": 98.72000122070312,
+        "text": " You're welcome."
+      },
+      {
+        "id": 36,
+        "start": 98.72000122070312,
+        "end": 99.72000122070312,
+        "text": " Have a good one."
+      },
+      {
+        "id": 37,
+        "start": 99.72000122070312,
+        "end": 99.72000122070312,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81c2-b9ae-f7ade852ef1e",
+    "url": "https://www.notion.so/300000001221488-300000001711296-2f611d0a101c81c2b9aef7ade852ef1e"
+  },
+  "processedAt": "2026-01-28T22:39:55.208Z"
+}

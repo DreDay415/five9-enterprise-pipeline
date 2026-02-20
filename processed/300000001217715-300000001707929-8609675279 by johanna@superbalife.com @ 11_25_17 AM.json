@@ -1,0 +1,104 @@
+{
+  "recording": {
+    "name": "300000001217715-300000001707929-8609675279 by johanna@superbalife.com @ 11_25_17 AM.wav",
+    "size": 131556,
+    "modifyTime": 1769590640000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217715-300000001707929-8609675279 by johanna@superbalife.com @ 11_25_17 AM.wav",
+    "uploadDate": "2026-01-28T08:57:20.000Z",
+    "callId": "300000001217715-300000001707929",
+    "agent": "johanna",
+    "phoneNumber": "8609675279",
+    "callTimestamp": "2026-01-28T11:25:17.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Okay, sir. Thank you for holding. I have your account pulled up here. It looks like your\n\nSpeaker 2: account was already canceled.\n\nSpeaker 1: Yeah, so it was canceled, and I sent back two prescriptions to be credited since they\n\nSpeaker 2: didn't work at all. And according to your program, they were guaranteed. So I was refunded\n\nSpeaker 1: for one of the prescriptions, but not the other.\n\nSpeaker 2: Yeah, I do see here that both were refunded to you. So let me check on the date of that\n\nSpeaker 1: a moment.\n\nSpeaker 2: Yeah, there's only been one that's been processed.\n\nSpeaker 1: On our end, both have been processed. It may just be something on the bank side. So this\n\nSpeaker 2: refund was issued. This was issued on the 13th.\n\nSpeaker 1: Correct, and there's only one that's been issued. One was issued on the 13th, and it\n\nSpeaker 2: was for $63. There should be two of them.\n\nSpeaker 1: Okay, one moment.",
+    "duration": 2492,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.119999885559082,
+        "text": " Okay, sir. Thank you for holding. I have your account pulled up here. It looks like your"
+      },
+      {
+        "id": 1,
+        "start": 6.119999885559082,
+        "end": 8.4399995803833,
+        "text": " account was already canceled."
+      },
+      {
+        "id": 2,
+        "start": 8.4399995803833,
+        "end": 17.920000076293945,
+        "text": " Yeah, so it was canceled, and I sent back two prescriptions to be credited since they"
+      },
+      {
+        "id": 3,
+        "start": 17.920000076293945,
+        "end": 26.31999969482422,
+        "text": " didn't work at all. And according to your program, they were guaranteed. So I was refunded"
+      },
+      {
+        "id": 4,
+        "start": 26.31999969482422,
+        "end": 30.31999969482422,
+        "text": " for one of the prescriptions, but not the other."
+      },
+      {
+        "id": 5,
+        "start": 30.31999969482422,
+        "end": 36.91999816894531,
+        "text": " Yeah, I do see here that both were refunded to you. So let me check on the date of that"
+      },
+      {
+        "id": 6,
+        "start": 36.91999816894531,
+        "end": 37.91999816894531,
+        "text": " a moment."
+      },
+      {
+        "id": 7,
+        "start": 37.91999816894531,
+        "end": 42.959999084472656,
+        "text": " Yeah, there's only been one that's been processed."
+      },
+      {
+        "id": 8,
+        "start": 42.959999084472656,
+        "end": 49.68000030517578,
+        "text": " On our end, both have been processed. It may just be something on the bank side. So this"
+      },
+      {
+        "id": 9,
+        "start": 49.68000030517578,
+        "end": 63,
+        "text": " refund was issued. This was issued on the 13th."
+      },
+      {
+        "id": 10,
+        "start": 63,
+        "end": 71.4000015258789,
+        "text": " Correct, and there's only one that's been issued. One was issued on the 13th, and it"
+      },
+      {
+        "id": 11,
+        "start": 71.4000015258789,
+        "end": 77.08000183105469,
+        "text": " was for $63. There should be two of them."
+      },
+      {
+        "id": 12,
+        "start": 77.08000183105469,
+        "end": 80.19999694824219,
+        "text": " Okay, one moment."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8105-931d-f3827713a9c3",
+    "url": "https://www.notion.so/300000001217715-300000001707929-2f611d0a101c8105931df3827713a9c3"
+  },
+  "processedAt": "2026-01-28T12:03:32.067Z"
+}

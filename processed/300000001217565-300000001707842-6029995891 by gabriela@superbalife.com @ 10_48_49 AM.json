@@ -1,0 +1,248 @@
+{
+  "recording": {
+    "name": "300000001217565-300000001707842-6029995891 by gabriela@superbalife.com @ 10_48_49 AM.wav",
+    "size": 313686,
+    "modifyTime": 1769583134000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217565-300000001707842-6029995891 by gabriela@superbalife.com @ 10_48_49 AM.wav",
+    "uploadDate": "2026-01-28T06:52:14.000Z",
+    "callId": "300000001217565-300000001707842",
+    "agent": "gabriela",
+    "phoneNumber": "6029995891",
+    "callTimestamp": "2026-01-28T10:48:49.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: I would like to talk to you about a reorder. I've got your stuff already, so I'm all set.\n\nSpeaker 1: Up with that. The thing about it is, you sent me 50s, and you're charging me like 5-something,\n\nSpeaker 2: 580 or something. You need to do better than that. I mean, at my store, I can get just\n\nSpeaker 1: regular Viagra at the CVS for like 85 cents a pill with the Good X prescription thing.\n\nSpeaker 2: What can you do? I like your pill better, I think, than Viagra, but I'm not willing\n\nSpeaker 1: to pay you 3 times, 4 times, 5 times as much. So, what can you do with the 100-milligram?\n\nSpeaker 2: What's your name and date of birth?\n\nSpeaker 1: Okay, James Campbell and 11-10-47.\n\nSpeaker 2: Okay, thank you, James. So, yes, for the ages, if we do have 3 different packages available,\n\nSpeaker 1: you can either order 10 pills for $49, 25 pills for $99, or 40 pills for $149.\n\nSpeaker 2: That's no deal. I mean, they're still the same price. It's within 10 cents.\n\nSpeaker 1: They're actually way more. So, usually a quantity of 40 is over $300. A quantity of 25 is over\n\nSpeaker 2: $163, and a quantity of 10 is $100. But right now, you can go ahead and get 10 pills for $49.\n\nSpeaker 1: Well, can you do this and make it for 100-milligram and not 50s?\n\nSpeaker 2: Yes, we can definitely update it to 100-milligrams.\n\nSpeaker 1: Because a 50, I can cut the 100s in half and get double the mileage, and that way I can get your price down to 250.\n\nSpeaker 2: It's what a lot of customers do. They'll get the 100-milligrams and cut the pill in half.\n\nSpeaker 1: So, if you want 100-milligrams, I can definitely get you 100-milligrams.\n\nSpeaker 2: Now, what quantities would you like? The 10 pills for $49, the 25 pills for $99, or the 40 pills for $149?\n\nSpeaker 1: So, it's about the same, I think, isn't it?\n\nSpeaker 2: But you'll be getting it in a different quantity because you'll be cutting the pill in half.\n\nSpeaker 1: Yeah, but I'm saying that between the 50 and the 100 and 150, it's pretty much the same price.\n\nSpeaker 2: There's no price difference.\n\nSpeaker 1: The price is the same. The dosage just depends on the preference of the customer.\n\nSpeaker 2: Yeah, well, go ahead and do the $100 one. What is that, 20 of them?\n\nSpeaker 1: 25 pills for $99.\n\nSpeaker 2: Okay, yeah, do that.\n\nSpeaker 1: Okay, so 25 pills, 100 milligrams. And then, James, is your shipping address still the same, 5560 East El Sendero Drive?\n\nSpeaker 2: El Sendero, yep.\n\nSpeaker 1: Arizona 85331, perfect. And I do see here that we do have an Amex card ending in 3005.\n\nSpeaker 2: Can I go ahead and process that card, or would you be using a different card?\n\nSpeaker 1: No, you can use the same card. Go ahead.\n\nSpeaker 2: Same card, okay.\n\nSpeaker 1: Great. You're all set, James. I was able to successfully place in that order for you,\n\nSpeaker 2: so you should be receiving it within the next three to five business days, okay?\n\nSpeaker 1: Okay, thank you very much. Bye-bye.\n\nSpeaker 2: You're welcome. Have a good day.",
+    "duration": 9506,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.679999828338623,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 6.679999828338623,
+        "end": 12.079999923706055,
+        "text": " I would like to talk to you about a reorder. I've got your stuff already, so I'm all set"
+      },
+      {
+        "id": 2,
+        "start": 12.079999923706055,
+        "end": 19.440000534057617,
+        "text": " up with that. The thing about it is, you sent me 50s, and you're charging me like 5-something,"
+      },
+      {
+        "id": 3,
+        "start": 19.440000534057617,
+        "end": 26.200000762939453,
+        "text": " 580 or something. You need to do better than that. I mean, at my store, I can get just"
+      },
+      {
+        "id": 4,
+        "start": 26.200000762939453,
+        "end": 34.63999938964844,
+        "text": " regular Viagra at the CVS for like 85 cents a pill with the Good X prescription thing."
+      },
+      {
+        "id": 5,
+        "start": 34.63999938964844,
+        "end": 40,
+        "text": " What can you do? I like your pill better, I think, than Viagra, but I'm not willing"
+      },
+      {
+        "id": 6,
+        "start": 40,
+        "end": 46.439998626708984,
+        "text": " to pay you 3 times, 4 times, 5 times as much. So, what can you do with the 100-milligram?"
+      },
+      {
+        "id": 7,
+        "start": 46.439998626708984,
+        "end": 52.599998474121094,
+        "text": " What's your name and date of birth? Okay, James Campbell and 11-10-47."
+      },
+      {
+        "id": 8,
+        "start": 52.599998474121094,
+        "end": 59.880001068115234,
+        "text": " Okay, thank you, James. So, yes, for the ages, if we do have 3 different packages available,"
+      },
+      {
+        "id": 9,
+        "start": 59.880001068115234,
+        "end": 68.80000305175781,
+        "text": " you can either order 10 pills for $49, 25 pills for $99, or 40 pills for $149."
+      },
+      {
+        "id": 10,
+        "start": 68.80000305175781,
+        "end": 72.80000305175781,
+        "text": " That's no deal. I mean, they're still the same price. It's within 10 cents."
+      },
+      {
+        "id": 11,
+        "start": 72.80000305175781,
+        "end": 79.23999786376953,
+        "text": " They're actually way more. So, usually a quantity of 40 is over $300. A quantity of 25 is over"
+      },
+      {
+        "id": 12,
+        "start": 80.23999786376953,
+        "end": 87.23999786376953,
+        "text": " $163, and a quantity of 10 is $100. But right now, you can go ahead and get 10 pills for $49."
+      },
+      {
+        "id": 13,
+        "start": 87.23999786376953,
+        "end": 94.23999786376953,
+        "text": " Well, can you do this and make it for 100-milligram and not 50s?"
+      },
+      {
+        "id": 14,
+        "start": 94.23999786376953,
+        "end": 97.23999786376953,
+        "text": " Yes, we can definitely update it to 100-milligrams."
+      },
+      {
+        "id": 15,
+        "start": 97.23999786376953,
+        "end": 103.23999786376953,
+        "text": " Because a 50, I can cut the 100s in half and get double the mileage, and that way I can get your price down to 250."
+      },
+      {
+        "id": 16,
+        "start": 103.23999786376953,
+        "end": 107.23999786376953,
+        "text": " It's what a lot of customers do. They'll get the 100-milligrams and cut the pill in half."
+      },
+      {
+        "id": 17,
+        "start": 107.23999786376953,
+        "end": 111.23999786376953,
+        "text": " So, if you want 100-milligrams, I can definitely get you 100-milligrams."
+      },
+      {
+        "id": 18,
+        "start": 111.23999786376953,
+        "end": 117.23999786376953,
+        "text": " Now, what quantities would you like? The 10 pills for $49, the 25 pills for $99, or the 40 pills for $149?"
+      },
+      {
+        "id": 19,
+        "start": 117.23999786376953,
+        "end": 123.23999786376953,
+        "text": " So, it's about the same, I think, isn't it?"
+      },
+      {
+        "id": 20,
+        "start": 123.23999786376953,
+        "end": 129.24000549316406,
+        "text": " But you'll be getting it in a different quantity because you'll be cutting the pill in half."
+      },
+      {
+        "id": 21,
+        "start": 130.24000549316406,
+        "end": 137.24000549316406,
+        "text": " Yeah, but I'm saying that between the 50 and the 100 and 150, it's pretty much the same price."
+      },
+      {
+        "id": 22,
+        "start": 137.24000549316406,
+        "end": 139.24000549316406,
+        "text": " There's no price difference."
+      },
+      {
+        "id": 23,
+        "start": 139.24000549316406,
+        "end": 143.24000549316406,
+        "text": " The price is the same. The dosage just depends on the preference of the customer."
+      },
+      {
+        "id": 24,
+        "start": 143.24000549316406,
+        "end": 148.24000549316406,
+        "text": " Yeah, well, go ahead and do the $100 one. What is that, 20 of them?"
+      },
+      {
+        "id": 25,
+        "start": 148.24000549316406,
+        "end": 151.24000549316406,
+        "text": " 25 pills for $99."
+      },
+      {
+        "id": 26,
+        "start": 151.24000549316406,
+        "end": 153.24000549316406,
+        "text": " Okay, yeah, do that."
+      },
+      {
+        "id": 27,
+        "start": 153.24000549316406,
+        "end": 162.24000549316406,
+        "text": " Okay, so 25 pills, 100 milligrams. And then, James, is your shipping address still the same, 5560 East El Sendero Drive?"
+      },
+      {
+        "id": 28,
+        "start": 162.24000549316406,
+        "end": 164.24000549316406,
+        "text": " El Sendero, yep."
+      },
+      {
+        "id": 29,
+        "start": 164.24000549316406,
+        "end": 171.24000549316406,
+        "text": " Arizona 85331, perfect. And I do see here that we do have an Amex card ending in 3005."
+      },
+      {
+        "id": 30,
+        "start": 171.24000549316406,
+        "end": 175.24000549316406,
+        "text": " Can I go ahead and process that card, or would you be using a different card?"
+      },
+      {
+        "id": 31,
+        "start": 175.24000549316406,
+        "end": 177.24000549316406,
+        "text": " No, you can use the same card. Go ahead."
+      },
+      {
+        "id": 32,
+        "start": 177.24000549316406,
+        "end": 179.24000549316406,
+        "text": " Same card, okay."
+      },
+      {
+        "id": 33,
+        "start": 180.24000549316406,
+        "end": 184.24000549316406,
+        "text": " Great. You're all set, James. I was able to successfully place in that order for you,"
+      },
+      {
+        "id": 34,
+        "start": 184.24000549316406,
+        "end": 188.24000549316406,
+        "text": " so you should be receiving it within the next three to five business days, okay?"
+      },
+      {
+        "id": 35,
+        "start": 188.24000549316406,
+        "end": 190.24000549316406,
+        "text": " Okay, thank you very much. Bye-bye."
+      },
+      {
+        "id": 36,
+        "start": 190.24000549316406,
+        "end": 192.24000549316406,
+        "text": " You're welcome. Have a good day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8154-97d6-d4fc2fbfb34f",
+    "url": "https://www.notion.so/300000001217565-300000001707842-2f611d0a101c815497d6d4fc2fbfb34f"
+  },
+  "processedAt": "2026-01-28T16:33:50.398Z"
+}

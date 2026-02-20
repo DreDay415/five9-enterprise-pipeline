@@ -1,0 +1,365 @@
+{
+  "recording": {
+    "name": "300000001241024-300000001730576-6162935234 by jimmy@superbalife.com @ 2_23_02 PM.wav",
+    "size": 246540,
+    "modifyTime": 1770935155000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241024-300000001730576-6162935234 by jimmy@superbalife.com @ 2_23_02 PM.wav",
+    "uploadDate": "2026-02-12T22:25:55.000Z",
+    "callId": "300000001241024-300000001730576",
+    "agent": "jimmy",
+    "phoneNumber": "6162935234",
+    "callTimestamp": "2026-02-12T14:23:02.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_jimmy_300000001241024-300000001730576_6162935234.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_jimmy_300000001241024-300000001730576_6162935234.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Jimmy, how can I help you today?\n\nSpeaker 2: Yeah, Jimmy, I did one order of the score blue with you guys, and I actually went through my app, responded to the e-mail, and called you guys to cancel it.\n\nSpeaker 1: And you guys just charged me again the other day in my bank account, and I disputed it with my bank.\n\nSpeaker 2: And I sent another e-mail, and somebody responded to the e-mail and said, you need to call to cancel.\n\nSpeaker 1: I go, well, I did once when I already ordered it the first time back in late December, early January.\n\nSpeaker 2: I go, can you pull me up and make sure that my account is canceled?\n\nSpeaker 1: Okay, I can go and take care of that for you right now.\n\nSpeaker 2: You could have called.\n\nSpeaker 1: Actually, if you called before, it should have been canceled.\n\nSpeaker 2: Yeah, that's what I thought.\n\nSpeaker 1: My apologies.\n\nSpeaker 2: I do see that it was an order just sent out to you on the 8th, but I'm going to make sure I don't get any more at all as far as that's concerned.\n\nSpeaker 1: Yeah, that's when I noticed it.\n\nSpeaker 2: That's when I noticed that I got charged again when I saw it on my account.\n\nSpeaker 1: I'm like, oh, I canceled that.\n\nSpeaker 2: All right, well, I just went ahead and just stopped all future orders and canceled your prescription.\n\nSpeaker 1: Like I said, I'm looking at the account. I don't see any notes that it was canceled.\n\nSpeaker 2: I'm not saying that you didn't do it.\n\nSpeaker 1: Yeah, I called, and I also responded to the e-mail.\n\nSpeaker 2: I actually responded to the e-mail twice.\n\nSpeaker 1: The second time is when they responded back and said, hey, you have to call in.\n\nSpeaker 2: I'm like, well, I did once, and that's why I'm calling again just to make sure.\n\nSpeaker 1: Let me give you the confirmation number that you did it.\n\nSpeaker 2: Okay, perfect.\n\nSpeaker 1: Are you ready?\n\nSpeaker 2: Yeah, I'm ready.\n\nSpeaker 1: D114429C, as in Charlie, 7-8.\n\nSpeaker 2: That's showing that all auto shoots were stopped and your order was canceled.\n\nSpeaker 1: And then the other one that you said, if you want a refund, just send it back to us, and we'll get you a refund.\n\nSpeaker 2: That's not a problem.\n\nSpeaker 1: I mean, we're very niche and legit.\n\nSpeaker 2: You mentioned that you called your bank, so I don't know.\n\nSpeaker 1: That's going to get you the refund, too.\n\nSpeaker 2: But that will put you on a list where you couldn't order in the future from us because you feel like we weren't going to give you your money back.\n\nSpeaker 1: But we definitely will give you your funds back if that's the case, if you don't want the product.\n\nSpeaker 2: Yeah, I just disputed it right away because I knew I had already called and canceled it, and I was concerned that, you know, something was going awry.\n\nSpeaker 1: But that's why I called you again.\n\nSpeaker 2: So I appreciate your help in giving me the confirmation number.\n\nSpeaker 1: Not a problem, sure.\n\nSpeaker 2: That's for the auto shipments for the future.\n\nSpeaker 1: But, like I said, again, the other one was sent out to you just on the 8th.\n\nSpeaker 2: Okay, thank you very much.\n\nSpeaker 1: All right, bye.\n\nSpeaker 2: Thank you.",
+    "duration": 6590,
+    "audioDuration": 151.67999267578125,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Jimmy, how can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 7,
+        "text": " Yeah, Jimmy, I did one order of the score blue with you guys,"
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 11,
+        "text": " and I actually went through my app, responded to the e-mail,"
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 13,
+        "text": " and called you guys to cancel it."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 17,
+        "text": " And you guys just charged me again the other day in my bank account,"
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 19,
+        "text": " and I disputed it with my bank."
+      },
+      {
+        "id": 6,
+        "start": 19,
+        "end": 22,
+        "text": " And I sent another e-mail, and somebody responded to the e-mail"
+      },
+      {
+        "id": 7,
+        "start": 22,
+        "end": 24,
+        "text": " and said, you need to call to cancel."
+      },
+      {
+        "id": 8,
+        "start": 24,
+        "end": 27,
+        "text": " I go, well, I did once when I already ordered it the first time back in late"
+      },
+      {
+        "id": 9,
+        "start": 27,
+        "end": 29,
+        "text": " December, early January."
+      },
+      {
+        "id": 10,
+        "start": 29,
+        "end": 33,
+        "text": " I go, can you pull me up and make sure that my account is canceled?"
+      },
+      {
+        "id": 11,
+        "start": 33,
+        "end": 36,
+        "text": " Okay, I can go and take care of that for you right now."
+      },
+      {
+        "id": 12,
+        "start": 36,
+        "end": 37,
+        "text": " You could have called."
+      },
+      {
+        "id": 13,
+        "start": 37,
+        "end": 40,
+        "text": " Actually, if you called before, it should have been canceled."
+      },
+      {
+        "id": 14,
+        "start": 40,
+        "end": 42,
+        "text": " Yeah, that's what I thought."
+      },
+      {
+        "id": 15,
+        "start": 42,
+        "end": 43,
+        "text": " My apologies."
+      },
+      {
+        "id": 16,
+        "start": 43,
+        "end": 46,
+        "text": " I do see that it was an order just sent out to you on the 8th,"
+      },
+      {
+        "id": 17,
+        "start": 46,
+        "end": 50,
+        "text": " but I'm going to make sure I don't get any more at all as far as that's concerned."
+      },
+      {
+        "id": 18,
+        "start": 50,
+        "end": 52,
+        "text": " Yeah, that's when I noticed it."
+      },
+      {
+        "id": 19,
+        "start": 52,
+        "end": 55,
+        "text": " That's when I noticed that I got charged again when I saw it on my account."
+      },
+      {
+        "id": 20,
+        "start": 55,
+        "end": 57,
+        "text": " I'm like, oh, I canceled that."
+      },
+      {
+        "id": 21,
+        "start": 57,
+        "end": 60,
+        "text": " All right, well, I just went ahead and just stopped all future orders"
+      },
+      {
+        "id": 22,
+        "start": 60,
+        "end": 62,
+        "text": " and canceled your prescription."
+      },
+      {
+        "id": 23,
+        "start": 62,
+        "end": 64,
+        "text": " Like I said, I'm looking at the account."
+      },
+      {
+        "id": 24,
+        "start": 64,
+        "end": 66,
+        "text": " I don't see any notes that it was canceled."
+      },
+      {
+        "id": 25,
+        "start": 66,
+        "end": 68,
+        "text": " I'm not saying that you didn't do it."
+      },
+      {
+        "id": 26,
+        "start": 68,
+        "end": 75,
+        "text": " Yeah, I called, and I also responded to the e-mail."
+      },
+      {
+        "id": 27,
+        "start": 75,
+        "end": 77,
+        "text": " I actually responded to the e-mail twice."
+      },
+      {
+        "id": 28,
+        "start": 77,
+        "end": 80,
+        "text": " The second time is when they responded back and said, hey, you have to call in."
+      },
+      {
+        "id": 29,
+        "start": 80,
+        "end": 84,
+        "text": " I'm like, well, I did once, and that's why I'm calling again just to make sure."
+      },
+      {
+        "id": 30,
+        "start": 84,
+        "end": 86,
+        "text": " Let me give you the confirmation number that you did it."
+      },
+      {
+        "id": 31,
+        "start": 86,
+        "end": 87,
+        "text": " Okay, perfect."
+      },
+      {
+        "id": 32,
+        "start": 87,
+        "end": 89,
+        "text": " Are you ready?"
+      },
+      {
+        "id": 33,
+        "start": 89,
+        "end": 90,
+        "text": " Yeah, I'm ready."
+      },
+      {
+        "id": 34,
+        "start": 90,
+        "end": 99,
+        "text": " D114429C, as in Charlie, 7-8."
+      },
+      {
+        "id": 35,
+        "start": 99,
+        "end": 103,
+        "text": " That's showing that all auto shoots were stopped and your order was canceled."
+      },
+      {
+        "id": 36,
+        "start": 103,
+        "end": 107,
+        "text": " And then the other one that you said, if you want a refund, just send it back to us,"
+      },
+      {
+        "id": 37,
+        "start": 107,
+        "end": 108,
+        "text": " and we'll get you a refund."
+      },
+      {
+        "id": 38,
+        "start": 108,
+        "end": 109,
+        "text": " That's not a problem."
+      },
+      {
+        "id": 39,
+        "start": 109,
+        "end": 112,
+        "text": " I mean, we're very niche and legit."
+      },
+      {
+        "id": 40,
+        "start": 112,
+        "end": 114,
+        "text": " You mentioned that you called your bank, so I don't know."
+      },
+      {
+        "id": 41,
+        "start": 115,
+        "end": 117,
+        "text": " That's going to get you the refund, too."
+      },
+      {
+        "id": 42,
+        "start": 117,
+        "end": 120,
+        "text": " But that will put you on a list where you couldn't order in the future from us"
+      },
+      {
+        "id": 43,
+        "start": 120,
+        "end": 123,
+        "text": " because you feel like we weren't going to give you your money back."
+      },
+      {
+        "id": 44,
+        "start": 123,
+        "end": 126,
+        "text": " But we definitely will give you your funds back if that's the case,"
+      },
+      {
+        "id": 45,
+        "start": 126,
+        "end": 127,
+        "text": " if you don't want the product."
+      },
+      {
+        "id": 46,
+        "start": 127,
+        "end": 130,
+        "text": " Yeah, I just disputed it right away because I knew I had already called"
+      },
+      {
+        "id": 47,
+        "start": 130,
+        "end": 134,
+        "text": " and canceled it, and I was concerned that, you know, something was going awry."
+      },
+      {
+        "id": 48,
+        "start": 134,
+        "end": 135,
+        "text": " But that's why I called you again."
+      },
+      {
+        "id": 49,
+        "start": 135,
+        "end": 138,
+        "text": " So I appreciate your help in giving me the confirmation number."
+      },
+      {
+        "id": 50,
+        "start": 138,
+        "end": 140,
+        "text": " Not a problem, sure."
+      },
+      {
+        "id": 51,
+        "start": 140,
+        "end": 142,
+        "text": " That's for the auto shipments for the future."
+      },
+      {
+        "id": 52,
+        "start": 142,
+        "end": 146,
+        "text": " But, like I said, again, the other one was sent out to you just on the 8th."
+      },
+      {
+        "id": 53,
+        "start": 146,
+        "end": 149,
+        "text": " Okay, thank you very much."
+      },
+      {
+        "id": 54,
+        "start": 149,
+        "end": 150,
+        "text": " All right, bye."
+      },
+      {
+        "id": 55,
+        "start": 150,
+        "end": 151,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8185-9753-ebedf0707229",
+    "url": "https://www.notion.so/300000001241024-300000001730576-30511d0a101c81859753ebedf0707229"
+  },
+  "processedAt": "2026-02-12T22:48:59.752Z"
+}

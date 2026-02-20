@@ -1,0 +1,227 @@
+{
+  "recording": {
+    "name": "300000001241792-300000001731464-3048415960 by lucif@superbalife.com @ 9_57_46 AM.wav",
+    "size": 159310,
+    "modifyTime": 1771005586000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241792-300000001731464-3048415960 by lucif@superbalife.com @ 9_57_46 AM.wav",
+    "uploadDate": "2026-02-13T17:59:46.000Z",
+    "callId": "300000001241792-300000001731464",
+    "agent": "lucif",
+    "phoneNumber": "3048415960",
+    "callTimestamp": "2026-02-13T09:57:46.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_lucif_300000001241792-300000001731464_3048415960.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_lucif_300000001241792-300000001731464_3048415960.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, Quinn speaking. How can I help you?\n\nSpeaker 2: Yes, I'd like to stop my prescription, please.\n\nSpeaker 1: Okay, let me pull up your account.\n\nSpeaker 2: Is your name William, Wilmer, excuse me?\n\nSpeaker 1: Wilmer, yeah, Wilmer.\n\nSpeaker 2: Alrighty, Wilmer, I do see you are a VIP here as well.\n\nSpeaker 1: Do you mind if I ask why you're canceling?\n\nSpeaker 2: Well, I didn't know I was going to get a monthly prescription.\n\nSpeaker 1: I thought I would just try it.\n\nSpeaker 2: Yeah, you don't have to get it monthly, sir.\n\nSpeaker 1: You can order as needed if that's better for you.\n\nSpeaker 2: Well, every month it seems like I'm getting a prescription coming in the mail.\n\nSpeaker 1: Yeah, you don't have to get it monthly, sir.\n\nSpeaker 2: You can choose when you get your deliveries,\n\nSpeaker 1: specifically the day and the month, or you can kind of just order as needed if that works better.\n\nSpeaker 2: Yeah, that's exactly what I want to do.\n\nSpeaker 1: All right, so basically we just keep your prescription open\n\nSpeaker 2: and your refills available to you for the next, like, six months,\n\nSpeaker 1: but you have to call in for your refills, okay?\n\nSpeaker 2: Okay, that sounds good.\n\nSpeaker 1: All righty.\n\nSpeaker 2: Now, what do you mean by keeping it open?\n\nSpeaker 1: You're not going to keep billing me every month, are you?\n\nSpeaker 2: No, no, no.\n\nSpeaker 1: Basically, we just keep your prescription open so you have refills to call in for\n\nSpeaker 2: because you can't get pills from a pharmacy without the prescription.\n\nSpeaker 1: All right.\n\nSpeaker 2: Okay, that sounds good.\n\nSpeaker 1: All righty.\n\nSpeaker 2: Well, I'll make that change for you now, sir.\n\nSpeaker 1: Thank you, sir.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Bye.",
+    "duration": 5519,
+    "audioDuration": 98,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " Thanks for calling Viagra, Quinn speaking. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 10,
+        "text": " Yes, I'd like to stop my prescription, please."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 19,
+        "text": " Okay, let me pull up your account."
+      },
+      {
+        "id": 3,
+        "start": 19,
+        "end": 22,
+        "text": " Is your name William, Wilmer, excuse me?"
+      },
+      {
+        "id": 4,
+        "start": 22,
+        "end": 25,
+        "text": " Wilmer, yeah, Wilmer."
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 28,
+        "text": " Alrighty, Wilmer, I do see you are a VIP here as well."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 31,
+        "text": " Do you mind if I ask why you're canceling?"
+      },
+      {
+        "id": 7,
+        "start": 31,
+        "end": 35,
+        "text": " Well, I didn't know I was going to get a monthly prescription."
+      },
+      {
+        "id": 8,
+        "start": 35,
+        "end": 37,
+        "text": " I thought I would just try it."
+      },
+      {
+        "id": 9,
+        "start": 37,
+        "end": 39,
+        "text": " Yeah, you don't have to get it monthly, sir."
+      },
+      {
+        "id": 10,
+        "start": 39,
+        "end": 44,
+        "text": " You can order as needed if that's better for you."
+      },
+      {
+        "id": 11,
+        "start": 44,
+        "end": 49,
+        "text": " Well, every month it seems like I'm getting a prescription coming in the mail."
+      },
+      {
+        "id": 12,
+        "start": 49,
+        "end": 51,
+        "text": " Yeah, you don't have to get it monthly, sir."
+      },
+      {
+        "id": 13,
+        "start": 51,
+        "end": 53,
+        "text": " You can choose when you get your deliveries,"
+      },
+      {
+        "id": 14,
+        "start": 53,
+        "end": 59,
+        "text": " specifically the day and the month, or you can kind of just order as needed if that works better."
+      },
+      {
+        "id": 15,
+        "start": 59,
+        "end": 62,
+        "text": " Yeah, that's exactly what I want to do."
+      },
+      {
+        "id": 16,
+        "start": 62,
+        "end": 66,
+        "text": " All right, so basically we just keep your prescription open"
+      },
+      {
+        "id": 17,
+        "start": 66,
+        "end": 68,
+        "text": " and your refills available to you for the next, like, six months,"
+      },
+      {
+        "id": 18,
+        "start": 68,
+        "end": 72,
+        "text": " but you have to call in for your refills, okay?"
+      },
+      {
+        "id": 19,
+        "start": 72,
+        "end": 74,
+        "text": " Okay, that sounds good."
+      },
+      {
+        "id": 20,
+        "start": 74,
+        "end": 75,
+        "text": " All righty."
+      },
+      {
+        "id": 21,
+        "start": 75,
+        "end": 77,
+        "text": " Now, what do you mean by keeping it open?"
+      },
+      {
+        "id": 22,
+        "start": 77,
+        "end": 80,
+        "text": " You're not going to keep billing me every month, are you?"
+      },
+      {
+        "id": 23,
+        "start": 80,
+        "end": 81,
+        "text": " No, no, no."
+      },
+      {
+        "id": 24,
+        "start": 81,
+        "end": 85,
+        "text": " Basically, we just keep your prescription open so you have refills to call in for"
+      },
+      {
+        "id": 25,
+        "start": 85,
+        "end": 89,
+        "text": " because you can't get pills from a pharmacy without the prescription."
+      },
+      {
+        "id": 26,
+        "start": 89,
+        "end": 90,
+        "text": " All right."
+      },
+      {
+        "id": 27,
+        "start": 90,
+        "end": 92,
+        "text": " Okay, that sounds good."
+      },
+      {
+        "id": 28,
+        "start": 92,
+        "end": 93,
+        "text": " All righty."
+      },
+      {
+        "id": 29,
+        "start": 93,
+        "end": 95,
+        "text": " Well, I'll make that change for you now, sir."
+      },
+      {
+        "id": 30,
+        "start": 95,
+        "end": 96,
+        "text": " Thank you, sir."
+      },
+      {
+        "id": 31,
+        "start": 96,
+        "end": 97,
+        "text": " You're welcome."
+      },
+      {
+        "id": 32,
+        "start": 97,
+        "end": 98,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81b0-b06c-d2b6249df3fe",
+    "url": "https://www.notion.so/300000001241792-300000001731464-30611d0a101c81b0b06cd2b6249df3fe"
+  },
+  "processedAt": "2026-02-13T18:03:23.258Z"
+}

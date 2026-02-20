@@ -1,0 +1,230 @@
+{
+  "recording": {
+    "name": "300000001216815-300000001707279-3134599683 by jimmy@superbalife.com @ 8_03_02 AM.wav",
+    "size": 132140,
+    "modifyTime": 1769582535000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216815-300000001707279-3134599683 by jimmy@superbalife.com @ 8_03_02 AM.wav",
+    "uploadDate": "2026-01-28T06:42:15.000Z",
+    "callId": "300000001216815-300000001707279",
+    "agent": "jimmy",
+    "phoneNumber": "3134599683",
+    "callTimestamp": "2026-01-28T08:03:02.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, this is Jimmy.\n\nSpeaker 2: How can I help you today?\n\nSpeaker 1: Hey, Jimmy, morning, man.\n\nSpeaker 2: I have a quick question for you.\n\nSpeaker 1: If I make a purchase, right, would I\n\nSpeaker 2: be put on that automatic reordering cycle?\n\nSpeaker 1: Well, we have a situation where the prescription would\n\nSpeaker 2: have you set up to have to make a purchase on the bare minimum\n\nSpeaker 1: at least twice a year.\n\nSpeaker 2: So that's like maybe like once every five months or six\n\nSpeaker 1: months or so.\n\nSpeaker 2: But that would be the minimum.\n\nSpeaker 1: But normally, to keep your prescription active,\n\nSpeaker 2: it does have to be a subscription out there.\n\nSpeaker 1: OK, but you could do it twice a year.\n\nSpeaker 2: Yeah, we can push that out for you.\n\nSpeaker 1: But normally, it would be whatever the quantity of pills\n\nSpeaker 2: you would get based off of that information.\n\nSpeaker 1: But if you make it known that you don't want it that often,\n\nSpeaker 2: we can work with you that way too as well.\n\nSpeaker 1: So that's not a problem.\n\nSpeaker 2: OK, all right, that sounds good.\n\nSpeaker 1: All right, man, yeah, I'll get back to you all then.\n\nSpeaker 2: OK, not a problem.\n\nSpeaker 1: When you do it, make sure you call us.\n\nSpeaker 2: Because if you do it online, it's\n\nSpeaker 1: going to automatically do it on a regular basis\n\nSpeaker 2: without you putting that information out there.\n\nSpeaker 1: OK?\n\nSpeaker 2: All right, I will call.\n\nSpeaker 1: Thank you, Bill.\n\nSpeaker 2: Not a problem.\n\nSpeaker 1: Take care.\n\nSpeaker 2: OK.",
+    "duration": 3587,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.4000000953674316,
+        "text": " Thank you for calling Viagra, this is Jimmy."
+      },
+      {
+        "id": 1,
+        "start": 2.4000000953674316,
+        "end": 4.360000133514404,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 2,
+        "start": 4.360000133514404,
+        "end": 6.360000133514404,
+        "text": " Hey, Jimmy, morning, man."
+      },
+      {
+        "id": 3,
+        "start": 6.360000133514404,
+        "end": 8.960000038146973,
+        "text": " I have a quick question for you."
+      },
+      {
+        "id": 4,
+        "start": 8.960000038146973,
+        "end": 13.600000381469727,
+        "text": " If I make a purchase, right, would I"
+      },
+      {
+        "id": 5,
+        "start": 13.600000381469727,
+        "end": 21.799999237060547,
+        "text": " be put on that automatic reordering cycle?"
+      },
+      {
+        "id": 6,
+        "start": 21.799999237060547,
+        "end": 25.360000610351562,
+        "text": " Well, we have a situation where the prescription would"
+      },
+      {
+        "id": 7,
+        "start": 25.360000610351562,
+        "end": 29.8799991607666,
+        "text": " have you set up to have to make a purchase on the bare minimum"
+      },
+      {
+        "id": 8,
+        "start": 29.8799991607666,
+        "end": 31.520000457763672,
+        "text": " at least twice a year."
+      },
+      {
+        "id": 9,
+        "start": 31.520000457763672,
+        "end": 35.040000915527344,
+        "text": " So that's like maybe like once every five months or six"
+      },
+      {
+        "id": 10,
+        "start": 35.040000915527344,
+        "end": 36,
+        "text": " months or so."
+      },
+      {
+        "id": 11,
+        "start": 36,
+        "end": 37.31999969482422,
+        "text": " But that would be the minimum."
+      },
+      {
+        "id": 12,
+        "start": 37.31999969482422,
+        "end": 40.279998779296875,
+        "text": " But normally, to keep your prescription active,"
+      },
+      {
+        "id": 13,
+        "start": 40.279998779296875,
+        "end": 43.36000061035156,
+        "text": " it does have to be a subscription out there."
+      },
+      {
+        "id": 14,
+        "start": 43.36000061035156,
+        "end": 47.63999938964844,
+        "text": " OK, but you could do it twice a year."
+      },
+      {
+        "id": 15,
+        "start": 47.63999938964844,
+        "end": 49.08000183105469,
+        "text": " Yeah, we can push that out for you."
+      },
+      {
+        "id": 16,
+        "start": 49.08000183105469,
+        "end": 51.7599983215332,
+        "text": " But normally, it would be whatever the quantity of pills"
+      },
+      {
+        "id": 17,
+        "start": 51.7599983215332,
+        "end": 53.599998474121094,
+        "text": " you would get based off of that information."
+      },
+      {
+        "id": 18,
+        "start": 53.599998474121094,
+        "end": 57.040000915527344,
+        "text": " But if you make it known that you don't want it that often,"
+      },
+      {
+        "id": 19,
+        "start": 57.040000915527344,
+        "end": 59.36000061035156,
+        "text": " we can work with you that way too as well."
+      },
+      {
+        "id": 20,
+        "start": 59.36000061035156,
+        "end": 60.959999084472656,
+        "text": " So that's not a problem."
+      },
+      {
+        "id": 21,
+        "start": 60.959999084472656,
+        "end": 63.47999954223633,
+        "text": " OK, all right, that sounds good."
+      },
+      {
+        "id": 22,
+        "start": 63.47999954223633,
+        "end": 66.5999984741211,
+        "text": " All right, man, yeah, I'll get back to you all then."
+      },
+      {
+        "id": 23,
+        "start": 66.5999984741211,
+        "end": 68.5199966430664,
+        "text": " OK, not a problem."
+      },
+      {
+        "id": 24,
+        "start": 68.5199966430664,
+        "end": 70.0999984741211,
+        "text": " When you do it, make sure you call us."
+      },
+      {
+        "id": 25,
+        "start": 70.0999984741211,
+        "end": 71.5199966430664,
+        "text": " Because if you do it online, it's"
+      },
+      {
+        "id": 26,
+        "start": 71.5199966430664,
+        "end": 73.95999908447266,
+        "text": " going to automatically do it on a regular basis"
+      },
+      {
+        "id": 27,
+        "start": 73.95999908447266,
+        "end": 76,
+        "text": " without you putting that information out there."
+      },
+      {
+        "id": 28,
+        "start": 76,
+        "end": 76.5199966430664,
+        "text": " OK?"
+      },
+      {
+        "id": 29,
+        "start": 76.5199966430664,
+        "end": 77.95999908447266,
+        "text": " All right, I will call."
+      },
+      {
+        "id": 30,
+        "start": 77.95999908447266,
+        "end": 79.27999877929688,
+        "text": " Thank you, Bill."
+      },
+      {
+        "id": 31,
+        "start": 79.27999877929688,
+        "end": 79.83999633789062,
+        "text": " Not a problem."
+      },
+      {
+        "id": 32,
+        "start": 79.83999633789062,
+        "end": 80.4800033569336,
+        "text": " Take care."
+      },
+      {
+        "id": 33,
+        "start": 80.4800033569336,
+        "end": 82.04000091552734,
+        "text": " OK."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e7-b1aa-e2456871dd71",
+    "url": "https://www.notion.so/300000001216815-300000001707279-2f611d0a101c81e7b1aae2456871dd71"
+  },
+  "processedAt": "2026-01-28T17:08:26.825Z"
+}

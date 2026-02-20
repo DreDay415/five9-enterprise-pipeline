@@ -1,0 +1,152 @@
+{
+  "recording": {
+    "name": "300000001218116-300000001708189-3152515519 by john@superbalife.com @ 1_20_57 PM.wav",
+    "size": 162366,
+    "modifyTime": 1769585835000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218116-300000001708189-3152515519 by john@superbalife.com @ 1_20_57 PM.wav",
+    "uploadDate": "2026-01-28T07:37:15.000Z",
+    "callId": "300000001218116-300000001708189",
+    "agent": "john",
+    "phoneNumber": "3152515519",
+    "callTimestamp": "2026-01-28T13:20:57.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Yes, hold on one second.\n\nSpeaker 1: Okay, I'm calling because I—\n\nSpeaker 2: I unsubscribed because the pills don't work.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And I got a delivery today of pills.\n\nSpeaker 1: Okay, how did you unsubscribe, sir? Because you have to call, and I don't see you've called us.\n\nSpeaker 2: I did it online.\n\nSpeaker 1: Oh, we don't have a way to do it online. So I need your name and zip code.\n\nSpeaker 2: Ah, it must have been a fake site then because... All right. My name is John Humiston.\n\nSpeaker 1: H-u-m-i-s-t-o-n.\n\nSpeaker 2: Okay, one one three one three five.\n\nSpeaker 1: 71 Oswego River Road.\n\nSpeaker 2: Correct.\n\nSpeaker 1: Okay, I can definitely stop this for you, sir. You said it didn't work?\n\nSpeaker 2: No, not at all.\n\nSpeaker 1: Not a feeling. And you don't want to try the Cialis either? You just want to be done?\n\nSpeaker 2: No, I tried Cialis on my doctor.\n\nSpeaker 1: Yeah, and it didn't work.\n\nSpeaker 2: Okay. Well, it may be—I mean, I'm not a doctor—but it may be something else is going on\n\nSpeaker 1: that's preventing these pills from helping, but I have closed out your account, sir.\n\nSpeaker 2: Thank you very much.\n\nSpeaker 1: You're welcome. Have a good one.\n\nSpeaker 2: You too.",
+    "duration": 4626,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3.2799999713897705,
+        "end": 5.28000020980835,
+        "text": " Yes, hold on one second."
+      },
+      {
+        "id": 2,
+        "start": 8.239999771118164,
+        "end": 10.239999771118164,
+        "text": " Okay, I'm calling because I"
+      },
+      {
+        "id": 3,
+        "start": 13.359999656677246,
+        "end": 15.5600004196167,
+        "text": " unsubscribed because the pills don't work."
+      },
+      {
+        "id": 4,
+        "start": 18.200000762939453,
+        "end": 19.559999465942383,
+        "text": " Okay."
+      },
+      {
+        "id": 5,
+        "start": 19.559999465942383,
+        "end": 22.959999084472656,
+        "text": " And I got a delivery today of pills."
+      },
+      {
+        "id": 6,
+        "start": 23.600000381469727,
+        "end": 28.15999984741211,
+        "text": " Okay, how did you unsubscribe sir? Because you have to call and I don't see you've called us."
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 35,
+        "text": " I did it online. Oh, we don't have a way to do it online. So I need your name and zip code."
+      },
+      {
+        "id": 8,
+        "start": 36.959999084472656,
+        "end": 44.060001373291016,
+        "text": " Ah, it must have been a fake site then because. All right. My name is John Humiston."
+      },
+      {
+        "id": 9,
+        "start": 45.91999816894531,
+        "end": 47.91999816894531,
+        "text": " H-u-m-i-s-t-o-n."
+      },
+      {
+        "id": 10,
+        "start": 50.7599983215332,
+        "end": 53.7599983215332,
+        "text": " Okay, one one three one three five."
+      },
+      {
+        "id": 11,
+        "start": 61,
+        "end": 63,
+        "text": " 71 Oswego River Road."
+      },
+      {
+        "id": 12,
+        "start": 63.439998626708984,
+        "end": 64.68000030517578,
+        "text": " Correct."
+      },
+      {
+        "id": 13,
+        "start": 64.68000030517578,
+        "end": 67.76000213623047,
+        "text": " Okay, I can definitely stop this for you, sir. You said it didn't work?"
+      },
+      {
+        "id": 14,
+        "start": 69,
+        "end": 71,
+        "text": " No, not at all."
+      },
+      {
+        "id": 15,
+        "start": 72,
+        "end": 76.30000305175781,
+        "text": " Not a feeling. And you don't you don't want to try the Cialis either? You just want to be done?"
+      },
+      {
+        "id": 16,
+        "start": 77.04000091552734,
+        "end": 80.19999694824219,
+        "text": " No, I tried Cialis on my doctor."
+      },
+      {
+        "id": 17,
+        "start": 80.87999725341797,
+        "end": 82.87999725341797,
+        "text": " Yeah, and it didn't work."
+      },
+      {
+        "id": 18,
+        "start": 83.36000061035156,
+        "end": 87.91999816894531,
+        "text": " Okay. Well, it may be I mean, I'm not I'm no doctor, but it may be something else is going on"
+      },
+      {
+        "id": 19,
+        "start": 87.91999816894531,
+        "end": 90.95999908447266,
+        "text": " that's preventing these pills from helping, but I have closed out your account, sir."
+      },
+      {
+        "id": 20,
+        "start": 91.80000305175781,
+        "end": 95.63999938964844,
+        "text": " Thank you very much. You're welcome. Have a good one. You too."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8122-8d36-c418c06196e0",
+    "url": "https://www.notion.so/300000001218116-300000001708189-2f611d0a101c81228d36c418c06196e0"
+  },
+  "processedAt": "2026-01-28T14:09:10.249Z"
+}

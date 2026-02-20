@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001219117-300000001709287-8179417647 by  @ 10_04_50 AM_CallStudio.wav",
+    "size": 26710,
+    "modifyTime": 1769584634000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219117-300000001709287-8179417647 by  @ 10_04_50 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:17:14.000Z",
+    "callId": "300000001219117-300000001709287",
+    "phoneNumber": "8179417647",
+    "callTimestamp": "2026-01-28T07:17:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I'm calling to get a refund.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1032,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.440000057220459,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.579999923706055,
+        "end": 7.059999942779541,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.380000114440918,
+        "end": 8.859999656677246,
+        "text": " Para Español Marque Numero Nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.380000114440918,
+        "end": 12.899999618530273,
+        "text": " I'm calling to get a refund."
+      },
+      {
+        "id": 4,
+        "start": 14.819999694824219,
+        "end": 16.040000915527344,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ab-b964-db60814365a3",
+    "url": "https://www.notion.so/300000001219117-300000001709287-2f611d0a101c81abb964db60814365a3"
+  },
+  "processedAt": "2026-01-28T14:56:50.544Z"
+}

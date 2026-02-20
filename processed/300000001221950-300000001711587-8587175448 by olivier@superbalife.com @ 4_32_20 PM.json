@@ -1,0 +1,224 @@
+{
+  "recording": {
+    "name": "300000001221950-300000001711587-8587175448 by olivier@superbalife.com @ 4_32_20 PM.wav",
+    "size": 195126,
+    "modifyTime": 1769646883000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221950-300000001711587-8587175448 by olivier@superbalife.com @ 4_32_20 PM.wav",
+    "uploadDate": "2026-01-29T00:34:43.000Z",
+    "callId": "300000001221950-300000001711587",
+    "agent": "olivier",
+    "phoneNumber": "8587175448",
+    "callTimestamp": "2026-01-29T16:32:20.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: My name is Tim Patterson.\n\nSpeaker 2: I just got charged for a subscription that I never signed up for and I want to make sure that I don't receive any more mailings from your company.\n\nSpeaker 1: Okay, Mr. Tim, I was able to pull your prescription for Viagra, 50 mg.\n\nSpeaker 2: I think what happened was, from what I can see in the account, Dr. Christina Long wrote the prescription with 10 tablets every 30 days, probably due to the count of the tablet,\n\nSpeaker 1: which is 10 tablets, but if you don't need it, you don't have to get it every month as well.\n\nSpeaker 2: That's the initial writing.\n\nSpeaker 1: I can advise the pharmacy for Scalp Blue to pause your prescription and you can order as needed.\n\nSpeaker 2: That's the order option that you have.\n\nSpeaker 1: If you don't need it every 30 days, you don't need it.\n\nSpeaker 2: You don't have to get it every 30 days.\n\nSpeaker 1: I don't want it at all, so I want to make sure that that subscription is canceled.\n\nSpeaker 2: Okay, I'm going to cancel the prescription.\n\nSpeaker 1: Be advised if anything changes, the price might be different because they're going to have to get you a new doctor consultation to provide you any type of medicine.\n\nSpeaker 2: I'm canceling right now the IP account and the prescription.\n\nSpeaker 1: You'll be good to go.\n\nSpeaker 2: Everything has been canceled.\n\nSpeaker 1: You don't have any more prescriptions.\n\nSpeaker 2: Can you send me an email confirming that?\n\nSpeaker 1: Yes, I'm going to send it.\n\nSpeaker 2: You're probably going to receive the email tomorrow because we're closing right now,\n\nSpeaker 1: but I'm going to place the request for your email, for your confirmation, but I can give you a confirmation number as of now for you to receive the email as well.\n\nSpeaker 2: I've got to run right now, but just email me the information.\n\nSpeaker 1: You got it.\n\nSpeaker 2: Everything is canceled and you will have the email tomorrow, okay?\n\nSpeaker 1: Thank you.\n\nSpeaker 2: You got it.\n\nSpeaker 1: Bye-bye.",
+    "duration": 5636,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 9.760000228881836,
+        "text": " My name is Tim Patterson."
+      },
+      {
+        "id": 1,
+        "start": 9.760000228881836,
+        "end": 18.360000610351562,
+        "text": " I just got charged for a subscription that I never signed up for and I want to make sure"
+      },
+      {
+        "id": 2,
+        "start": 18.360000610351562,
+        "end": 24.079999923706055,
+        "text": " that I don't receive any more mailings from your company."
+      },
+      {
+        "id": 3,
+        "start": 25.079999923706055,
+        "end": 31.920000076293945,
+        "text": " Okay, Mr. Tim, I was able to pull your prescription for Viagra, 50 mg."
+      },
+      {
+        "id": 4,
+        "start": 31.920000076293945,
+        "end": 37.439998626708984,
+        "text": " I think what happened was, from what I can see in the account, Dr. Christina Long wrote"
+      },
+      {
+        "id": 5,
+        "start": 37.439998626708984,
+        "end": 43.79999923706055,
+        "text": " the prescription with 10 tablets every 30 days, probably due to the count of the tablet,"
+      },
+      {
+        "id": 6,
+        "start": 43.79999923706055,
+        "end": 48.2400016784668,
+        "text": " which is 10 tablets, but if you don't need it, you don't have to get it every month as"
+      },
+      {
+        "id": 7,
+        "start": 48.2400016784668,
+        "end": 49.2400016784668,
+        "text": " well."
+      },
+      {
+        "id": 8,
+        "start": 49.2400016784668,
+        "end": 51.2400016784668,
+        "text": " That's the initial writing."
+      },
+      {
+        "id": 9,
+        "start": 51.2400016784668,
+        "end": 55.63999938964844,
+        "text": " I can advise the pharmacy for Scalp Blue to pause your prescription and you can order"
+      },
+      {
+        "id": 10,
+        "start": 55.63999938964844,
+        "end": 56.63999938964844,
+        "text": " as needed."
+      },
+      {
+        "id": 11,
+        "start": 56.63999938964844,
+        "end": 58.279998779296875,
+        "text": " That's the order option that you have."
+      },
+      {
+        "id": 12,
+        "start": 58.279998779296875,
+        "end": 60.79999923706055,
+        "text": " If you don't need it every 30 days, you don't need it."
+      },
+      {
+        "id": 13,
+        "start": 60.79999923706055,
+        "end": 63.36000061035156,
+        "text": " You don't have to get it every 30 days."
+      },
+      {
+        "id": 14,
+        "start": 63.36000061035156,
+        "end": 67.44000244140625,
+        "text": " I don't want it at all, so I want to make sure that that subscription is canceled."
+      },
+      {
+        "id": 15,
+        "start": 67.44000244140625,
+        "end": 70.72000122070312,
+        "text": " Okay, I'm going to cancel the prescription."
+      },
+      {
+        "id": 16,
+        "start": 70.72000122070312,
+        "end": 74.63999938964844,
+        "text": " Be advised if anything changes, the price might be different because they're going to"
+      },
+      {
+        "id": 17,
+        "start": 74.63999938964844,
+        "end": 79.63999938964844,
+        "text": " have to get you a new doctor consultation to provide you any type of medicine."
+      },
+      {
+        "id": 18,
+        "start": 79.80000305175781,
+        "end": 84.87999725341797,
+        "text": " I'm canceling right now the IP account and the prescription."
+      },
+      {
+        "id": 19,
+        "start": 84.87999725341797,
+        "end": 85.87999725341797,
+        "text": " You'll be good to go."
+      },
+      {
+        "id": 20,
+        "start": 85.87999725341797,
+        "end": 86.87999725341797,
+        "text": " Everything has been canceled."
+      },
+      {
+        "id": 21,
+        "start": 86.87999725341797,
+        "end": 89.87999725341797,
+        "text": " You don't have any more prescriptions."
+      },
+      {
+        "id": 22,
+        "start": 89.87999725341797,
+        "end": 93.87999725341797,
+        "text": " Can you send me an email confirming that?"
+      },
+      {
+        "id": 23,
+        "start": 93.87999725341797,
+        "end": 95.80000305175781,
+        "text": " Yes, I'm going to send it."
+      },
+      {
+        "id": 24,
+        "start": 95.80000305175781,
+        "end": 99.4800033569336,
+        "text": " You're probably going to receive the email tomorrow because we're closing right now,"
+      },
+      {
+        "id": 25,
+        "start": 99.4800033569336,
+        "end": 104.55999755859375,
+        "text": " but I'm going to place the request for your email, for your confirmation, but I can give"
+      },
+      {
+        "id": 26,
+        "start": 104.55999755859375,
+        "end": 109.23999786376953,
+        "text": " you a confirmation number as of now for you to receive the email as well."
+      },
+      {
+        "id": 27,
+        "start": 109.83999633789062,
+        "end": 112.83999633789062,
+        "text": " I've got to run right now, but just email me the information."
+      },
+      {
+        "id": 28,
+        "start": 112.83999633789062,
+        "end": 113.83999633789062,
+        "text": " You got it."
+      },
+      {
+        "id": 29,
+        "start": 113.83999633789062,
+        "end": 116.83999633789062,
+        "text": " Everything is canceled and you will have the email tomorrow, okay?"
+      },
+      {
+        "id": 30,
+        "start": 116.83999633789062,
+        "end": 117.83999633789062,
+        "text": " Thank you."
+      },
+      {
+        "id": 31,
+        "start": 117.83999633789062,
+        "end": 118.83999633789062,
+        "text": " You got it."
+      },
+      {
+        "id": 32,
+        "start": 118.83999633789062,
+        "end": 119.83999633789062,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8168-a4b0-ee8960d3ceec",
+    "url": "https://www.notion.so/300000001221950-300000001711587-2f711d0a101c8168a4b0ee8960d3ceec"
+  },
+  "processedAt": "2026-01-29T10:05:59.031Z"
+}

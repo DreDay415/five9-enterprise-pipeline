@@ -1,0 +1,115 @@
+{
+  "recording": {
+    "name": "300000001219800-300000001709761-5306363810 by LeoF @ 1_03_03 PM.wav",
+    "size": 72146,
+    "modifyTime": 1769591841000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219800-300000001709761-5306363810 by LeoF @ 1_03_03 PM.wav",
+    "uploadDate": "2026-01-28T09:17:21.000Z",
+    "callId": "300000001219800-300000001709761",
+    "phoneNumber": "5306363810",
+    "callTimestamp": "2026-01-28T13:03:03.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, thanks for calling Viagra, how can I help you?\n\nSpeaker 2: Yeah, my name's Garth Landingham, and I was expecting, uh, uh, Jessica Garth of Viagra.\n\nSpeaker 1: Today.\n\nSpeaker 2: I was wondering what time it would be, did you know?\n\nSpeaker 1: It's at your PO box already, Mr. Landingham, it says at, uh, 1:57 PM, uh, today, so I don't—\n\nSpeaker 2: Know what time it is, where you are.\n\nSpeaker 1: Actually, it was there yesterday, it was there yesterday, actually, they say, it was delivered.\n\nSpeaker 2: I checked today and it wasn't there?\n\nSpeaker 1: No.\n\nSpeaker 2: Yeah, it should be there, it got there a little bit later in the day yesterday, but you should—\n\nSpeaker 1: See it there now, it should be there.\n\nSpeaker 2: Okay, I'll run back by the post office and talk to them.\n\nSpeaker 1: Perfect, thank you, Carl.\n\nSpeaker 2: Alright, bye.\n\nSpeaker 1: Yeah, bye-bye.",
+    "duration": 2322,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hey, thanks for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 12,
+        "text": " Yeah, my name's Garth Landingham, and I was expecting, uh, uh, Jessica Garth of Viagra"
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 13,
+        "text": " today."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 16,
+        "text": " I was wondering what time it would be, did you know?"
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 23,
+        "text": " It's at your PO box already, Mr. Landingham, it says at, uh, 157 PM, uh, today, so I don't"
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 25,
+        "text": " know what time it is, where you are."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 29,
+        "text": " Actually, it was there yesterday, it was there yesterday, actually, they say, it was delivered."
+      },
+      {
+        "id": 7,
+        "start": 29,
+        "end": 31,
+        "text": " I checked today and it wasn't there?"
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 32,
+        "text": " No."
+      },
+      {
+        "id": 9,
+        "start": 32,
+        "end": 35,
+        "text": " Yeah, it should be there, it got there a little bit later in the day yesterday, but you should"
+      },
+      {
+        "id": 10,
+        "start": 35,
+        "end": 37,
+        "text": " see it there, now, it should be there."
+      },
+      {
+        "id": 11,
+        "start": 37,
+        "end": 40,
+        "text": " Okay, I'll run back by the post office and talk to them."
+      },
+      {
+        "id": 12,
+        "start": 40,
+        "end": 41,
+        "text": " Perfect, thank you, Carl."
+      },
+      {
+        "id": 13,
+        "start": 41,
+        "end": 42,
+        "text": " Alright, bye."
+      },
+      {
+        "id": 14,
+        "start": 42,
+        "end": 43,
+        "text": " Yeah, bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-819b-8526-ceb54f2aec55",
+    "url": "https://www.notion.so/300000001219800-300000001709761-2f611d0a101c819b8526ceb54f2aec55"
+  },
+  "processedAt": "2026-01-28T11:19:01.842Z"
+}

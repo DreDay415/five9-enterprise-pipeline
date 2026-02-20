@@ -1,0 +1,197 @@
+{
+  "recording": {
+    "name": "300000001242209-300000001731722-2105528928 by josimar@superbalife.com @ 11_56_54 AM.wav",
+    "size": 193760,
+    "modifyTime": 1771012755000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242209-300000001731722-2105528928 by josimar@superbalife.com @ 11_56_54 AM.wav",
+    "uploadDate": "2026-02-13T19:59:15.000Z",
+    "callId": "300000001242209-300000001731722",
+    "agent": "josimar",
+    "phoneNumber": "2105528928",
+    "callTimestamp": "2026-02-13T11:56:54.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_josimar_300000001242209-300000001731722_2105528928.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_josimar_300000001242209-300000001731722_2105528928.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Vagra, ¿puedo ayudarte hoy?\n\nSpeaker 2: Hola, ¿hablas español?\n\nSpeaker 1: Sí, ¿cómo le puedo ayudar hoy día?\n\nSpeaker 2: Disculpe, es que hice una orden a nombre de mi... de John González.\n\nSpeaker 1: Yo hice la orden, ¿verdad? Pero...\n\nSpeaker 2: su ID y su nombre es John Ensley.\n\nSpeaker 1: No, su nombre no es John González.\n\nSpeaker 2: No, entonces quería preguntarle si al mandarle el ID y la foto, pues, se puede arreglar el apellido.\n\nSpeaker 1: Se tiene que mandar, porque creo que usted hizo la orden y mandó su información de usted.\n\nSpeaker 2: Tiene que mandar su información del señor y él tiene que llamar también.\n\nSpeaker 1: Porque estas medicaciones, como lo ponemos en la página principal,\n\nSpeaker 2: tienen que estar ordenadas por un paciente que es varón.\n\nSpeaker 1: No puede ser usted.\n\nSpeaker 2: Si él los llama y manda su información, podemos ajustar todo.\n\nSpeaker 1: Pero él tiene que contactarlos.\n\nSpeaker 2: Ah, ok. Es que él está trabajando y no tiene tiempo, por eso él le dijo, ¿verdad?\n\nSpeaker 1: Sí, ya entiendo eso, pero tenemos reglas porque somos con medicación por el FDA\n\nSpeaker 2: y necesita llamar al paciente.\n\nSpeaker 1: No podemos conversar con usted sobre esto.\n\nSpeaker 2: Ah, ok.\n\nSpeaker 1: Entonces le digo que él llame.\n\nSpeaker 2: Exacto.\n\nSpeaker 1: Sí, pero si él manda la información, ¿cómo la tiene?\n\nSpeaker 2: Tiene que mandar la información y también tiene que llamar al señor.\n\nSpeaker 1: Ah, ok. Ok.\n\nSpeaker 2: Ok, gracias.\n\nSpeaker 1: Muy bien.\n\nSpeaker 2: Bye.",
+    "duration": 3338,
+    "audioDuration": 119.19999694824219,
+    "language": "spanish",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Vagra, ¿puedo ayudarte hoy?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5,
+        "text": " Hola, ¿hablas español?"
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 8,
+        "text": " Sí, ¿cómo le puedo ayudar hoy día?"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 19,
+        "text": " Disculpe, es que hice una orden a nombre de mi... de John González."
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 24,
+        "text": " Yo hice la orden, ¿verdad? Pero..."
+      },
+      {
+        "id": 5,
+        "start": 27,
+        "end": 32,
+        "text": " su ID y su nombre es John Ensley."
+      },
+      {
+        "id": 6,
+        "start": 34,
+        "end": 36,
+        "text": " No, su nombre no es John González."
+      },
+      {
+        "id": 7,
+        "start": 37,
+        "end": 44,
+        "text": " No, entonces quería preguntarle si al mandarle el ID y la foto, pues, se puede arreglar el apellido."
+      },
+      {
+        "id": 8,
+        "start": 45,
+        "end": 49,
+        "text": " Se tiene que mandar, porque creo que usted hizo la orden y mandó su información de usted."
+      },
+      {
+        "id": 9,
+        "start": 50,
+        "end": 53,
+        "text": " Tiene que mandar su información del señor y él tiene que llamar también."
+      },
+      {
+        "id": 10,
+        "start": 54,
+        "end": 58,
+        "text": " Porque estas medicaciones, como lo ponemos en la página principal,"
+      },
+      {
+        "id": 11,
+        "start": 59,
+        "end": 62,
+        "text": " tienen que estar ordenadas por un paciente que es varón."
+      },
+      {
+        "id": 12,
+        "start": 63,
+        "end": 64,
+        "text": " No puede ser usted."
+      },
+      {
+        "id": 13,
+        "start": 65,
+        "end": 68,
+        "text": " Si él los llama y manda su información, podemos ajustar todo."
+      },
+      {
+        "id": 14,
+        "start": 69,
+        "end": 70,
+        "text": " Pero él tiene que contactarlos."
+      },
+      {
+        "id": 15,
+        "start": 71,
+        "end": 76,
+        "text": " Ah, ok. Es que él está trabajando y no tiene tiempo, por eso él le dijo, ¿verdad?"
+      },
+      {
+        "id": 16,
+        "start": 77,
+        "end": 82,
+        "text": " Sí, ya entiendo eso, pero tenemos reglas porque somos con medicación por el FDA"
+      },
+      {
+        "id": 17,
+        "start": 83,
+        "end": 84,
+        "text": " y necesita llamar al paciente."
+      },
+      {
+        "id": 18,
+        "start": 85,
+        "end": 87,
+        "text": " No podemos conversar con usted sobre esto."
+      },
+      {
+        "id": 19,
+        "start": 88,
+        "end": 89,
+        "text": " Ah, ok."
+      },
+      {
+        "id": 20,
+        "start": 90,
+        "end": 92,
+        "text": " Entonces le digo que él llame."
+      },
+      {
+        "id": 21,
+        "start": 93,
+        "end": 94,
+        "text": " Exacto."
+      },
+      {
+        "id": 22,
+        "start": 95,
+        "end": 100,
+        "text": " Sí, pero si él manda la información, ¿cómo la tiene?"
+      },
+      {
+        "id": 23,
+        "start": 101,
+        "end": 105,
+        "text": " Tiene que mandar la información y también tiene que llamar al señor."
+      },
+      {
+        "id": 24,
+        "start": 106,
+        "end": 108,
+        "text": " Ah, ok. Ok."
+      },
+      {
+        "id": 25,
+        "start": 111,
+        "end": 112,
+        "text": " Ok, gracias."
+      },
+      {
+        "id": 26,
+        "start": 113,
+        "end": 114,
+        "text": " Muy bien."
+      },
+      {
+        "id": 27,
+        "start": 115,
+        "end": 116,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81ad-8867-d9b3e7cbcf50",
+    "url": "https://www.notion.so/300000001242209-300000001731722-30611d0a101c81ad8867d9b3e7cbcf50"
+  },
+  "processedAt": "2026-02-13T20:02:03.729Z"
+}

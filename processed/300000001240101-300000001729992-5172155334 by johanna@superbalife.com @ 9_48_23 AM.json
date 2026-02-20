@@ -1,0 +1,368 @@
+{
+  "recording": {
+    "name": "300000001240101-300000001729992-5172155334 by johanna@superbalife.com @ 9_48_23 AM.wav",
+    "size": 271890,
+    "modifyTime": 1770918692000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240101-300000001729992-5172155334 by johanna@superbalife.com @ 9_48_23 AM.wav",
+    "uploadDate": "2026-02-12T17:51:32.000Z",
+    "callId": "300000001240101-300000001729992",
+    "agent": "johanna",
+    "phoneNumber": "5172155334",
+    "callTimestamp": "2026-02-12T09:48:23.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra.\n\nSpeaker 2: This is Joanna speaking.\n\nSpeaker 1: How can I help you?\n\nSpeaker 2: Yeah, I had prescribed to get something from you guys a while back.\n\nSpeaker 1: And I don't know, it must be you do automatic send out or something?\n\nSpeaker 2: Well, it depends.\n\nSpeaker 1: So we're not a subscription.\n\nSpeaker 2: You can set up your account however you want.\n\nSpeaker 1: Let me access your account so I can better assist you.\n\nSpeaker 2: Can I get your name and date of birth?\n\nSpeaker 1: James Parker, P-A-R-K-E-R, 9-14-57.\n\nSpeaker 2: Okay, thanks, Mr. Parker.\n\nSpeaker 1: I have your account pulled up.\n\nSpeaker 2: So it looks like currently you're set up to receive refills every three months.\n\nSpeaker 1: Now, as a VIP status customer, of course, you can modify the quantity and frequency of your orders at any time or put a pause on your account.\n\nSpeaker 2: So you are getting 40.\n\nSpeaker 1: You can always reduce that to 25 or 10, which, of course, would lower the cost.\n\nSpeaker 2: And you can delay your order or space out the frequency or put a pause on your account.\n\nSpeaker 1: That way you can retain your VIP pricing and still have access to your prescription because otherwise canceling it would cancel any available future refills.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I guess if it's every three months, that's probably good.\n\nSpeaker 2: You want to reduce the quantity, perhaps?\n\nSpeaker 1: You'd be getting 40 every three months.\n\nSpeaker 2: And if you ever say that there's one month where you don't need it quite yet, you can call us.\n\nSpeaker 1: What's the difference in cost between, like, 40 and 25?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: So 40 of them you're getting for $163.95.\n\nSpeaker 2: 25 would be $113.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: I thought probably 25 would be good for me.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So update your future order to 25.\n\nSpeaker 1: And then did you want me to keep it on a three-month reoccurring?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Excellent.\n\nSpeaker 1: So I've gone ahead and updated that.\n\nSpeaker 2: And like I said, if you ever want to modify that or delay an order or say you want to order more before your next refill date, just give us a call and let us know.\n\nSpeaker 1: Okay.\n\nSpeaker 2: That sounds awesome.\n\nSpeaker 1: All right.\n\nSpeaker 2: Well, thank you for being a VIP status questioner.\n\nSpeaker 1: I'm glad I was able to help.\n\nSpeaker 2: Well, thank you very much.\n\nSpeaker 1: You've done just what I needed to do.\n\nSpeaker 2: Usually it seems like it's always more problems than this.\n\nSpeaker 1: It's like, man, I got through to you guys right away and boom, boom, boom.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: So it was perfect.\n\nSpeaker 2: Oh, I'm so happy to hear that.\n\nSpeaker 1: Thanks, Mr. Parker.\n\nSpeaker 2: Have a great rest of your day.\n\nSpeaker 1: You have a super day, too.\n\nSpeaker 2: Take care.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Bye-bye.",
+    "duration": 6025,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 3,
+        "text": " This is Joanna speaking."
+      },
+      {
+        "id": 2,
+        "start": 3,
+        "end": 5,
+        "text": " How can I help you?"
+      },
+      {
+        "id": 3,
+        "start": 5,
+        "end": 11,
+        "text": " Yeah, I had prescribed to get something from you guys a while back."
+      },
+      {
+        "id": 4,
+        "start": 11,
+        "end": 17,
+        "text": " And I don't know, it must be you do automatic send out or something?"
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 19,
+        "text": " Well, it depends."
+      },
+      {
+        "id": 6,
+        "start": 19,
+        "end": 20,
+        "text": " So we're not a subscription."
+      },
+      {
+        "id": 7,
+        "start": 20,
+        "end": 22,
+        "text": " You can set up your account however you want."
+      },
+      {
+        "id": 8,
+        "start": 22,
+        "end": 26,
+        "text": " Let me access your account so I can better assist you."
+      },
+      {
+        "id": 9,
+        "start": 26,
+        "end": 28,
+        "text": " Can I get your name and date of birth?"
+      },
+      {
+        "id": 10,
+        "start": 28,
+        "end": 35,
+        "text": " James Parker, P-A-R-K-E-R, 9-14-57."
+      },
+      {
+        "id": 11,
+        "start": 35,
+        "end": 37,
+        "text": " Okay, thanks, Mr. Parker."
+      },
+      {
+        "id": 12,
+        "start": 37,
+        "end": 38,
+        "text": " I have your account pulled up."
+      },
+      {
+        "id": 13,
+        "start": 38,
+        "end": 42,
+        "text": " So it looks like currently you're set up to receive refills every three months."
+      },
+      {
+        "id": 14,
+        "start": 42,
+        "end": 50,
+        "text": " Now, as a VIP status customer, of course, you can modify the quantity and frequency of your orders at any time or put a pause on your account."
+      },
+      {
+        "id": 15,
+        "start": 50,
+        "end": 53,
+        "text": " So you are getting 40."
+      },
+      {
+        "id": 16,
+        "start": 53,
+        "end": 57,
+        "text": " You can always reduce that to 25 or 10, which, of course, would lower the cost."
+      },
+      {
+        "id": 17,
+        "start": 57,
+        "end": 63,
+        "text": " And you can delay your order or space out the frequency or put a pause on your account."
+      },
+      {
+        "id": 18,
+        "start": 63,
+        "end": 73,
+        "text": " That way you can retain your VIP pricing and still have access to your prescription because otherwise canceling it would cancel any available future refills."
+      },
+      {
+        "id": 19,
+        "start": 74,
+        "end": 77,
+        "text": " Okay."
+      },
+      {
+        "id": 20,
+        "start": 77,
+        "end": 83,
+        "text": " I guess if it's every three months, that's probably good."
+      },
+      {
+        "id": 21,
+        "start": 83,
+        "end": 88,
+        "text": " You want to reduce the quantity, perhaps?"
+      },
+      {
+        "id": 22,
+        "start": 88,
+        "end": 90,
+        "text": " You'd be getting 40 every three months."
+      },
+      {
+        "id": 23,
+        "start": 90,
+        "end": 95,
+        "text": " And if you ever say that there's one month where you don't need it quite yet, you can call us."
+      },
+      {
+        "id": 24,
+        "start": 95,
+        "end": 99,
+        "text": " What's the difference in cost between, like, 40 and 25?"
+      },
+      {
+        "id": 25,
+        "start": 100,
+        "end": 101,
+        "text": " Yeah."
+      },
+      {
+        "id": 26,
+        "start": 101,
+        "end": 104,
+        "text": " So 40 of them you're getting for $163.95."
+      },
+      {
+        "id": 27,
+        "start": 104,
+        "end": 106,
+        "text": " 25 would be $113."
+      },
+      {
+        "id": 28,
+        "start": 108,
+        "end": 109,
+        "text": " Yeah."
+      },
+      {
+        "id": 29,
+        "start": 109,
+        "end": 112,
+        "text": " I thought probably 25 would be good for me."
+      },
+      {
+        "id": 30,
+        "start": 112,
+        "end": 113,
+        "text": " Okay."
+      },
+      {
+        "id": 31,
+        "start": 113,
+        "end": 116,
+        "text": " So update your future order to 25."
+      },
+      {
+        "id": 32,
+        "start": 116,
+        "end": 120,
+        "text": " And then did you want me to keep it on a three-month reoccurring?"
+      },
+      {
+        "id": 33,
+        "start": 120,
+        "end": 121,
+        "text": " Yeah."
+      },
+      {
+        "id": 34,
+        "start": 121,
+        "end": 122,
+        "text": " Yeah."
+      },
+      {
+        "id": 35,
+        "start": 124,
+        "end": 125,
+        "text": " Excellent."
+      },
+      {
+        "id": 36,
+        "start": 125,
+        "end": 126,
+        "text": " So I've gone ahead and updated that."
+      },
+      {
+        "id": 37,
+        "start": 126,
+        "end": 138,
+        "text": " And like I said, if you ever want to modify that or delay an order or say you want to order more before your next refill date, just give us a call and let us know."
+      },
+      {
+        "id": 38,
+        "start": 139,
+        "end": 140,
+        "text": " Okay."
+      },
+      {
+        "id": 39,
+        "start": 140,
+        "end": 141,
+        "text": " That sounds awesome."
+      },
+      {
+        "id": 40,
+        "start": 141,
+        "end": 142,
+        "text": " All right."
+      },
+      {
+        "id": 41,
+        "start": 142,
+        "end": 144,
+        "text": " Well, thank you for being a VIP status questioner."
+      },
+      {
+        "id": 42,
+        "start": 144,
+        "end": 146,
+        "text": " I'm glad I was able to help."
+      },
+      {
+        "id": 43,
+        "start": 146,
+        "end": 148,
+        "text": " Well, thank you very much."
+      },
+      {
+        "id": 44,
+        "start": 148,
+        "end": 150,
+        "text": " You've done just what I needed to do."
+      },
+      {
+        "id": 45,
+        "start": 150,
+        "end": 153,
+        "text": " Usually it seems like it's always more problems than this."
+      },
+      {
+        "id": 46,
+        "start": 153,
+        "end": 156,
+        "text": " It's like, man, I got through to you guys right away and boom, boom, boom."
+      },
+      {
+        "id": 47,
+        "start": 156,
+        "end": 157,
+        "text": " Yeah."
+      },
+      {
+        "id": 48,
+        "start": 157,
+        "end": 158,
+        "text": " So it was perfect."
+      },
+      {
+        "id": 49,
+        "start": 158,
+        "end": 160,
+        "text": " Oh, I'm so happy to hear that."
+      },
+      {
+        "id": 50,
+        "start": 160,
+        "end": 161,
+        "text": " Thanks, Mr. Parker."
+      },
+      {
+        "id": 51,
+        "start": 161,
+        "end": 162,
+        "text": " Have a great rest of your day."
+      },
+      {
+        "id": 52,
+        "start": 162,
+        "end": 164,
+        "text": " You have a super day, too."
+      },
+      {
+        "id": 53,
+        "start": 164,
+        "end": 165,
+        "text": " Take care."
+      },
+      {
+        "id": 54,
+        "start": 165,
+        "end": 166,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 55,
+        "start": 166,
+        "end": 167,
+        "text": " Thank you."
+      },
+      {
+        "id": 56,
+        "start": 167,
+        "end": 168,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8102-a22b-fa328b15a5b3",
+    "url": "https://www.notion.so/300000001240101-300000001729992-30511d0a101c8102a22bfa328b15a5b3"
+  },
+  "processedAt": "2026-02-12T18:06:26.630Z"
+}

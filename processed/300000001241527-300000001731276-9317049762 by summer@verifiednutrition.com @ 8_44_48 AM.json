@@ -1,0 +1,35 @@
+{
+  "recording": {
+    "name": "300000001241527-300000001731276-9317049762 by summer@verifiednutrition.com @ 8_44_48 AM.wav",
+    "size": 4546,
+    "modifyTime": 1771001666000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241527-300000001731276-9317049762 by summer@verifiednutrition.com @ 8_44_48 AM.wav",
+    "uploadDate": "2026-02-13T16:54:26.000Z",
+    "callId": "300000001241527-300000001731276",
+    "agent": "summer",
+    "phoneNumber": "9317049762",
+    "callTimestamp": "2026-02-13T08:44:48.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_summer_300000001241527-300000001731276_9317049762.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_summer_300000001241527-300000001731276_9317049762.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: I'll put you back up on it.",
+    "duration": 1279,
+    "audioDuration": 2.759999990463257,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.680000066757202,
+        "text": " I'll put you back up on it."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8164-a78a-daf303bb4a2c",
+    "url": "https://www.notion.so/300000001241527-300000001731276-30611d0a101c8164a78adaf303bb4a2c"
+  },
+  "processedAt": "2026-02-13T17:06:10.658Z"
+}

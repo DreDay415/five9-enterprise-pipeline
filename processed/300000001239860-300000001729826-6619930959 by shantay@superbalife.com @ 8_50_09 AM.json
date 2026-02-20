@@ -1,0 +1,194 @@
+{
+  "recording": {
+    "name": "300000001239860-300000001729826-6619930959 by shantay@superbalife.com @ 8_50_09 AM.wav",
+    "size": 158010,
+    "modifyTime": 1770915243000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001239860-300000001729826-6619930959 by shantay@superbalife.com @ 8_50_09 AM.wav",
+    "uploadDate": "2026-02-12T16:54:03.000Z",
+    "callId": "300000001239860-300000001729826",
+    "agent": "shantay",
+    "phoneNumber": "6619930959",
+    "callTimestamp": "2026-02-12T08:50:09.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I think if you're calling Viagra, how can I assist you?\n\nSpeaker 2: Yeah, I had a, let's see, a dispute.\n\nSpeaker 1: A couple months ago, I ordered your Viagra.\n\nSpeaker 2: It came, and I only wanted a one-time thing,\n\nSpeaker 1: so they actually had re-sent it,\n\nSpeaker 2: and then charged my account.\n\nSpeaker 1: So I talked to somebody there, and I sent back the PAC,\n\nSpeaker 2: and they said that they were gonna reimburse me\n\nSpeaker 1: through my account, and they never did,\n\nSpeaker 2: so I'm calling to see if we can,\n\nSpeaker 1: what's happening with that?\n\nSpeaker 2: Sure, what's your name and your date of birth?\n\nSpeaker 1: Eric Smith, 120-64.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: And how long ago did you make the return?\n\nSpeaker 2: Let's see, the return was,\n\nSpeaker 1: I'm trying to find the email I got.\n\nSpeaker 2: Let's see.\n\nSpeaker 1: Was it recent, or was it?\n\nSpeaker 2: Yeah, well, it was, I think it was January.\n\nSpeaker 1: I have a couple messages that we did,\n\nSpeaker 2: so they, let me see if I can find the messages really quick.\n\nSpeaker 1: Okay, if it was January,\n\nSpeaker 2: that's all the information I need.\n\nSpeaker 1: Mr. Smith, I'm just gonna place you on a brief hold\n\nSpeaker 2: while I check with our pharmacy on the return order, okay?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, one moment.",
+    "duration": 3422,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.359999895095825,
+        "text": " I think if you're calling Viagra, how can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 3.359999895095825,
+        "end": 8.359999656677246,
+        "text": " Yeah, I had a, let's see, a dispute."
+      },
+      {
+        "id": 2,
+        "start": 9.319999694824219,
+        "end": 14.319999694824219,
+        "text": " A couple months ago, I ordered your Viagra."
+      },
+      {
+        "id": 3,
+        "start": 16.31999969482422,
+        "end": 20.440000534057617,
+        "text": " It came, and I only wanted a one-time thing,"
+      },
+      {
+        "id": 4,
+        "start": 20.440000534057617,
+        "end": 23.479999542236328,
+        "text": " so they actually had re-sent it,"
+      },
+      {
+        "id": 5,
+        "start": 23.479999542236328,
+        "end": 28.479999542236328,
+        "text": " and then charged my account."
+      },
+      {
+        "id": 6,
+        "start": 28.799999237060547,
+        "end": 33.20000076293945,
+        "text": " So I talked to somebody there, and I sent back the PAC,"
+      },
+      {
+        "id": 7,
+        "start": 33.20000076293945,
+        "end": 36.36000061035156,
+        "text": " and they said that they were gonna reimburse me"
+      },
+      {
+        "id": 8,
+        "start": 36.36000061035156,
+        "end": 39.91999816894531,
+        "text": " through my account, and they never did,"
+      },
+      {
+        "id": 9,
+        "start": 39.91999816894531,
+        "end": 43.880001068115234,
+        "text": " so I'm calling to see if we can,"
+      },
+      {
+        "id": 10,
+        "start": 43.880001068115234,
+        "end": 45.91999816894531,
+        "text": " what's happening with that?"
+      },
+      {
+        "id": 11,
+        "start": 45.91999816894531,
+        "end": 49.040000915527344,
+        "text": " Sure, what's your name and your date of birth?"
+      },
+      {
+        "id": 12,
+        "start": 49.040000915527344,
+        "end": 53.119998931884766,
+        "text": " Eric Smith, 120-64."
+      },
+      {
+        "id": 13,
+        "start": 53.119998931884766,
+        "end": 53.959999084472656,
+        "text": " Thank you."
+      },
+      {
+        "id": 14,
+        "start": 53.959999084472656,
+        "end": 58.959999084472656,
+        "text": " And how long ago did you make the return?"
+      },
+      {
+        "id": 15,
+        "start": 59.400001525878906,
+        "end": 64.4000015258789,
+        "text": " Let's see, the return was,"
+      },
+      {
+        "id": 16,
+        "start": 64.83999633789062,
+        "end": 67.08000183105469,
+        "text": " I'm trying to find the email I got."
+      },
+      {
+        "id": 17,
+        "start": 68.95999908447266,
+        "end": 70.5999984741211,
+        "text": " Let's see."
+      },
+      {
+        "id": 18,
+        "start": 70.5999984741211,
+        "end": 72.44000244140625,
+        "text": " Was it recent, or was it?"
+      },
+      {
+        "id": 19,
+        "start": 72.44000244140625,
+        "end": 76.04000091552734,
+        "text": " Yeah, well, it was, I think it was January."
+      },
+      {
+        "id": 20,
+        "start": 76.04000091552734,
+        "end": 78.31999969482422,
+        "text": " I have a couple messages that we did,"
+      },
+      {
+        "id": 21,
+        "start": 78.31999969482422,
+        "end": 82.95999908447266,
+        "text": " so they, let me see if I can find the messages really quick."
+      },
+      {
+        "id": 22,
+        "start": 83.87999725341797,
+        "end": 85.87999725341797,
+        "text": " Okay, if it was January,"
+      },
+      {
+        "id": 23,
+        "start": 85.87999725341797,
+        "end": 88.27999877929688,
+        "text": " that's all the information I need."
+      },
+      {
+        "id": 24,
+        "start": 88.27999877929688,
+        "end": 90.19999694824219,
+        "text": " Mr. Smith, I'm just gonna place you on a brief hold"
+      },
+      {
+        "id": 25,
+        "start": 90.19999694824219,
+        "end": 93.36000061035156,
+        "text": " while I check with our pharmacy on the return order, okay?"
+      },
+      {
+        "id": 26,
+        "start": 93.36000061035156,
+        "end": 94.27999877929688,
+        "text": " Okay."
+      },
+      {
+        "id": 27,
+        "start": 94.27999877929688,
+        "end": 95.4800033569336,
+        "text": " Okay, one moment."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8140-bd09-f1879bdf16f6",
+    "url": "https://www.notion.so/300000001239860-300000001729826-30511d0a101c8140bd09f1879bdf16f6"
+  },
+  "processedAt": "2026-02-12T17:04:11.536Z"
+}

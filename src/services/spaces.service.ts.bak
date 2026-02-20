@@ -1,0 +1,145 @@
+import { S3Client, PutObjectCommand } from '@aws-sdk/client-s3';
+import { createReadStream } from 'fs';
+import { basename } from 'path';
+import { getLogger } from '../utils/logger';
+import { RecordingInfo } from './notion.service';
+
+const logger = getLogger();
+
+export interface SpacesConfig {
+  endpoint: string;
+  bucket: string;
+  accessKey: string;
+  secretKey: string;
+  region: string;
+  folder: string;
+}
+
+export interface SpacesUploadResult {
+  audioUrl: string;
+  transcriptUrl: string;
+}
+
+export class SpacesService {
+  private client: S3Client;
+
+  constructor(private readonly config: SpacesConfig) {
+    this.client = new S3Client({
+      endpoint: this.config.endpoint,
+      region: this.config.region,
+      credentials: {
+        accessKeyId: this.config.accessKey,
+        secretAccessKey: this.config.secretKey,
+      },
+    });
+  }
+
+  /**
+   * Generate standardized filename base
+   * Format: YYYY-MM-DD_agent_call-id_phone
+   */
+  private generateFilenameBase(recording: RecordingInfo, filePath: string): string {
+    const date = (recording.callTimestamp || recording.uploadDate || new Date())
+      .toISOString()
+      .split('T')[0];
+    
+    const agent = recording.agent?.replace(/[^a-zA-Z0-9@._-]/g, '_') || 'unknown';
+    const callId = recording.callId || basename(filePath, '.wav');
+    const phone = recording.phoneNumber?.replace(/[^0-9]/g, '') || 'unknown';
+    
+    return `${date}_${agent}_${callId}_${phone}`;
+  }
+
+  /**
+   * Upload both audio file and transcript to DO Spaces
+   * Returns URLs for both files
+   */
+  async uploadCallFiles(
+    audioFilePath: string,
+    transcriptText: string,
+    recording: RecordingInfo
+  ): Promise<SpacesUploadResult> {
+    const filenameBase = this.generateFilenameBase(recording, audioFilePath);
+    
+    // Upload audio file
+    const audioUrl = await this.uploadFile(
+      audioFilePath,
+      `${filenameBase}.wav`,
+      'audio/wav',
+      'stream'
+    );
+
+    // Upload transcript
+    const transcriptUrl = await this.uploadFile(
+      transcriptText,
+      `${filenameBase}.txt`,
+      'text/plain',
+      'text'
+    );
+
+    logger.info(
+      { audioUrl, transcriptUrl, callId: recording.callId },
+      'Call files uploaded successfully'
+    );
+
+    return { audioUrl, transcriptUrl };
+  }
+
+  /**
+   * Upload a single file to DO Spaces
+   */
+  private async uploadFile(
+    content: string | Buffer,
+    filename: string,
+    contentType: string,
+    type: 'stream' | 'text'
+  ): Promise<string> {
+    try {
+      const key = this.config.folder ? `${this.config.folder}/${filename}` : filename;
+
+      logger.info({ filename, key, type }, 'Uploading file to DO Spaces');
+
+      const body = type === 'stream' 
+        ? createReadStream(content as string)
+        : Buffer.from(content as string, 'utf-8');
+
+      const command = new PutObjectCommand({
+        Bucket: this.config.bucket,
+        Key: key,
+        Body: body,
+        ContentType: contentType,
+        ACL: 'public-read',
+      });
+
+      await this.client.send(command);
+
+      // Construct URL
+      const url = `${this.config.endpoint}/${this.config.bucket}/${key}`;
+
+      logger.info({ url, key }, 'File uploaded successfully');
+
+      return url;
+    } catch (error) {
+      logger.error(
+        { error: error instanceof Error ? error.message : String(error), filename },
+        'Failed to upload file to DO Spaces'
+      );
+      throw error;
+    }
+  }
+
+  /**
+   * Health check
+   */
+  async healthCheck(): Promise<boolean> {
+    try {
+      return true;
+    } catch (error) {
+      logger.warn(
+        { error: error instanceof Error ? error.message : String(error) },
+        'DO Spaces health check failed'
+      );
+      return false;
+    }
+  }
+}

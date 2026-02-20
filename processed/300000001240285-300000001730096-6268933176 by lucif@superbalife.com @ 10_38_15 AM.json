@@ -1,0 +1,213 @@
+{
+  "recording": {
+    "name": "300000001240285-300000001730096-6268933176 by lucif@superbalife.com @ 10_38_15 AM.wav",
+    "size": 202146,
+    "modifyTime": 1770921947000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240285-300000001730096-6268933176 by lucif@superbalife.com @ 10_38_15 AM.wav",
+    "uploadDate": "2026-02-12T18:45:47.000Z",
+    "callId": "300000001240285-300000001730096",
+    "agent": "lucif",
+    "phoneNumber": "6268933176",
+    "callTimestamp": "2026-02-12T10:38:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Next call, Viagra, Quinn speaking, how can I help you?\n\nSpeaker 2: You said Clint?\n\nSpeaker 1: Quinn.\n\nSpeaker 2: Oh, Quinn, I talked to you before.\n\nSpeaker 1: Oh, okay.\n\nSpeaker 2: Remember when they sent me the wrong stuff?\n\nSpeaker 1: Let me pull your account up, one moment.\n\nSpeaker 2: I do remember speaking to you, though.\n\nSpeaker 1: Yes, sir, yes, I do remember that.\n\nSpeaker 2: Okay, well, what happened is they sent me another order,\n\nSpeaker 1: and I called and talked to somebody there,\n\nSpeaker 2: and I told them that my doctor told me that I can't take them.\n\nSpeaker 1: And anyway, I told him that I need that subscription canceled,\n\nSpeaker 2: which he said he did.\n\nSpeaker 1: Okay, and he told me when the order came to send it back to them\n\nSpeaker 2: and I would get a refund for the $63 they charged me.\n\nSpeaker 1: Correct.\n\nSpeaker 2: And I'm just trying to find out,\n\nSpeaker 1: I sent it back five days ago, did you guys receive it?\n\nSpeaker 2: No, looks like we have not received that yet.\n\nSpeaker 1: One moment.\n\nSpeaker 2: Yeah, because usually we get a contact from our pharmacy\n\nSpeaker 1: once we do receive it.\n\nSpeaker 2: You know, the weather has been really bad over there.\n\nSpeaker 1: It could be hindering the process.\n\nSpeaker 2: I'm going to check with the pharmacy right now, though, okay?\n\nSpeaker 1: Give me a moment, I'll put you on hold.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: You're welcome.\n\nSpeaker 2: All right, one moment, sir.\n\nSpeaker 1: Okay.",
+    "duration": 5193,
+    "audioDuration": 124.36000061035156,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Next call, Viagra, Quinn speaking, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 7,
+        "text": " You said Clint?"
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 8,
+        "text": " Quinn."
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 11,
+        "text": " Oh, Quinn, I talked to you before."
+      },
+      {
+        "id": 4,
+        "start": 11,
+        "end": 12,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 5,
+        "start": 12,
+        "end": 15,
+        "text": " Remember when they sent me the wrong stuff?"
+      },
+      {
+        "id": 6,
+        "start": 15,
+        "end": 19,
+        "text": " Let me pull your account up, one moment."
+      },
+      {
+        "id": 7,
+        "start": 19,
+        "end": 24,
+        "text": " I do remember speaking to you, though."
+      },
+      {
+        "id": 8,
+        "start": 24,
+        "end": 27,
+        "text": " Yes, sir, yes, I do remember that."
+      },
+      {
+        "id": 9,
+        "start": 27,
+        "end": 31,
+        "text": " Okay, well, what happened is they sent me another order,"
+      },
+      {
+        "id": 10,
+        "start": 31,
+        "end": 34,
+        "text": " and I called and talked to somebody there,"
+      },
+      {
+        "id": 11,
+        "start": 34,
+        "end": 38,
+        "text": " and I told them that my doctor told me that I can't take them."
+      },
+      {
+        "id": 12,
+        "start": 38,
+        "end": 43,
+        "text": " And anyway, I told him that I need that subscription canceled,"
+      },
+      {
+        "id": 13,
+        "start": 43,
+        "end": 46,
+        "text": " which he said he did."
+      },
+      {
+        "id": 14,
+        "start": 46,
+        "end": 51,
+        "text": " Okay, and he told me when the order came to send it back to them"
+      },
+      {
+        "id": 15,
+        "start": 51,
+        "end": 55,
+        "text": " and I would get a refund for the $63 they charged me."
+      },
+      {
+        "id": 16,
+        "start": 55,
+        "end": 56,
+        "text": " Correct."
+      },
+      {
+        "id": 17,
+        "start": 56,
+        "end": 58,
+        "text": " And I'm just trying to find out,"
+      },
+      {
+        "id": 18,
+        "start": 58,
+        "end": 62,
+        "text": " I sent it back five days ago, did you guys receive it?"
+      },
+      {
+        "id": 19,
+        "start": 62,
+        "end": 70,
+        "text": " No, looks like we have not received that yet."
+      },
+      {
+        "id": 20,
+        "start": 70,
+        "end": 81,
+        "text": " One moment."
+      },
+      {
+        "id": 21,
+        "start": 81,
+        "end": 84,
+        "text": " Yeah, because usually we get a contact from our pharmacy"
+      },
+      {
+        "id": 22,
+        "start": 84,
+        "end": 88,
+        "text": " once we do receive it."
+      },
+      {
+        "id": 23,
+        "start": 88,
+        "end": 91,
+        "text": " You know, the weather has been really bad over there."
+      },
+      {
+        "id": 24,
+        "start": 91,
+        "end": 95,
+        "text": " It could be hindering the process."
+      },
+      {
+        "id": 25,
+        "start": 95,
+        "end": 99,
+        "text": " I'm going to check with the pharmacy right now, though, okay?"
+      },
+      {
+        "id": 26,
+        "start": 99,
+        "end": 101,
+        "text": " Give me a moment, I'll put you on hold."
+      },
+      {
+        "id": 27,
+        "start": 101,
+        "end": 103,
+        "text": " Thank you."
+      },
+      {
+        "id": 28,
+        "start": 103,
+        "end": 122,
+        "text": " You're welcome."
+      },
+      {
+        "id": 29,
+        "start": 122,
+        "end": 124,
+        "text": " All right, one moment, sir."
+      },
+      {
+        "id": 30,
+        "start": 124,
+        "end": 125,
+        "text": " Okay."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8115-96e4-f37f764b6f45",
+    "url": "https://www.notion.so/300000001240285-300000001730096-30511d0a101c811596e4f37f764b6f45"
+  },
+  "processedAt": "2026-02-12T19:08:56.840Z"
+}

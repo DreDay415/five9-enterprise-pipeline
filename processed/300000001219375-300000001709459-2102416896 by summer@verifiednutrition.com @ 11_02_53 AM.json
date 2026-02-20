@@ -1,0 +1,200 @@
+{
+  "recording": {
+    "name": "300000001219375-300000001709459-2102416896 by summer@verifiednutrition.com @ 11_02_53 AM.wav",
+    "size": 153070,
+    "modifyTime": 1769586137000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219375-300000001709459-2102416896 by summer@verifiednutrition.com @ 11_02_53 AM.wav",
+    "uploadDate": "2026-01-28T07:42:17.000Z",
+    "callId": "300000001219375-300000001709459",
+    "agent": "summer",
+    "phoneNumber": "2102416896",
+    "callTimestamp": "2026-01-28T11:02:53.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service, how can I help you?\n\nSpeaker 2: Yes ma'am, I'm curious about the price of the AGB, the Viagra AGB.\n\nSpeaker 1: Sure, so I have 10 pills for $49, 25 for $99, and 40 for $149.\n\nSpeaker 2: 10 was $49?\n\nSpeaker 1: Yes.\n\nSpeaker 2: And that's a Viagra AGB, correct?\n\nSpeaker 1: That's correct.\n\nSpeaker 2: I guess I have to go online and do that.\n\nSpeaker 1: About four or five years ago I did the medical test and had somebody else see Alice,\n\nSpeaker 2: and I wanted to try this one.\n\nSpeaker 1: Do I still need to go back through the medical testing?\n\nSpeaker 2: No.\n\nSpeaker 1: Okay, so go back onto your website and do that thing?\n\nSpeaker 2: Yes, that's correct.\n\nSpeaker 1: Is there different strengths of that AGB?\n\nSpeaker 2: Yes, 25, 50, and 100.\n\nSpeaker 1: And is 100 still $49?\n\nSpeaker 2: That's correct.\n\nSpeaker 1: Okay, so I can get 10 of the AGB and 100 milligrams for $49, correct?\n\nSpeaker 2: That's correct.\n\nSpeaker 1: Thank you so much.\n\nSpeaker 2: Are you still there?\n\nSpeaker 1: Yes, I'm here.\n\nSpeaker 2: You have a wonderful day.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: I appreciate it.\n\nSpeaker 1: You're welcome.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 4521,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling customer service, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 9,
+        "text": " Yes ma'am, I'm curious in the price of the AGB, the Viagra AGB."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 17,
+        "text": " Sure, so I have 10 pills for $49, 25 for $99, and 40 for $149."
+      },
+      {
+        "id": 3,
+        "start": 17,
+        "end": 21,
+        "text": " 10 was $49?"
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 24,
+        "text": " Yes."
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 28,
+        "text": " And that's a Viagra AGB, correct?"
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 30,
+        "text": " That's correct."
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 34,
+        "text": " I guess I have to go online and do that."
+      },
+      {
+        "id": 8,
+        "start": 34,
+        "end": 40,
+        "text": " About four or five years ago I did the medical test and had somebody else see Alice,"
+      },
+      {
+        "id": 9,
+        "start": 40,
+        "end": 42,
+        "text": " and I wanted to try this one."
+      },
+      {
+        "id": 10,
+        "start": 42,
+        "end": 45,
+        "text": " Do I still need to go back through the medical testing?"
+      },
+      {
+        "id": 11,
+        "start": 45,
+        "end": 48,
+        "text": " No."
+      },
+      {
+        "id": 12,
+        "start": 48,
+        "end": 52,
+        "text": " Okay, so go back onto your website and do that thing?"
+      },
+      {
+        "id": 13,
+        "start": 52,
+        "end": 54,
+        "text": " Yes, that's correct."
+      },
+      {
+        "id": 14,
+        "start": 54,
+        "end": 58,
+        "text": " Is there different strengths of that AGB?"
+      },
+      {
+        "id": 15,
+        "start": 58,
+        "end": 62,
+        "text": " Yes, 25, 50, and 100."
+      },
+      {
+        "id": 16,
+        "start": 62,
+        "end": 67,
+        "text": " And is 100 still $49?"
+      },
+      {
+        "id": 17,
+        "start": 67,
+        "end": 69,
+        "text": " That's correct."
+      },
+      {
+        "id": 18,
+        "start": 69,
+        "end": 77,
+        "text": " Okay, so I can get 10 of the AGB and 100 milligrams for $49, correct?"
+      },
+      {
+        "id": 19,
+        "start": 77,
+        "end": 79,
+        "text": " That's correct."
+      },
+      {
+        "id": 20,
+        "start": 79,
+        "end": 86,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 21,
+        "start": 86,
+        "end": 87,
+        "text": " Are you still there?"
+      },
+      {
+        "id": 22,
+        "start": 87,
+        "end": 88,
+        "text": " Yes, I'm here."
+      },
+      {
+        "id": 23,
+        "start": 88,
+        "end": 89,
+        "text": " You have a wonderful day."
+      },
+      {
+        "id": 24,
+        "start": 89,
+        "end": 90,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 25,
+        "start": 90,
+        "end": 91,
+        "text": " I appreciate it."
+      },
+      {
+        "id": 26,
+        "start": 91,
+        "end": 92,
+        "text": " You're welcome."
+      },
+      {
+        "id": 27,
+        "start": 92,
+        "end": 93,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 28,
+        "start": 93,
+        "end": 94,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-818e-85c4-e940574c7f77",
+    "url": "https://www.notion.so/300000001219375-300000001709459-2f611d0a101c818e85c4e940574c7f77"
+  },
+  "processedAt": "2026-01-28T13:58:09.024Z"
+}

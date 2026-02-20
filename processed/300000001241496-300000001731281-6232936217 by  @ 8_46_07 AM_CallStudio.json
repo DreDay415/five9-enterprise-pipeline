@@ -1,0 +1,58 @@
+{
+  "recording": {
+    "name": "300000001241496-300000001731281-6232936217 by  @ 8_46_07 AM_CallStudio.wav",
+    "size": 23526,
+    "modifyTime": 1771001204000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241496-300000001731281-6232936217 by  @ 8_46_07 AM_CallStudio.wav",
+    "uploadDate": "2026-02-13T16:46:44.000Z",
+    "callId": "300000001241496-300000001731281",
+    "phoneNumber": "6232936217",
+    "callTimestamp": "2026-02-13T16:46:44.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241496-300000001731281_6232936217.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241496-300000001731281_6232936217.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: Freeze my membership.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 814,
+    "audioDuration": 14.4399995803833,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.28000020980835,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.28000020980835,
+        "end": 6.28000020980835,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.28000020980835,
+        "end": 9.720000267028809,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.720000267028809,
+        "end": 12.920000076293945,
+        "text": " Freeze my membership."
+      },
+      {
+        "id": 4,
+        "start": 12.920000076293945,
+        "end": 14.079999923706055,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-817f-8db8-f41dbcbc5a37",
+    "url": "https://www.notion.so/300000001241496-300000001731281-30611d0a101c817f8db8f41dbcbc5a37"
+  },
+  "processedAt": "2026-02-13T17:09:20.361Z"
+}

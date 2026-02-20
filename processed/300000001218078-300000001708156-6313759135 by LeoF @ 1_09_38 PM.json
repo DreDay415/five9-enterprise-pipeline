@@ -1,0 +1,313 @@
+{
+  "recording": {
+    "name": "300000001218078-300000001708156-6313759135 by LeoF @ 1_09_38 PM.wav",
+    "size": 313880,
+    "modifyTime": 1769584337000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218078-300000001708156-6313759135 by LeoF @ 1_09_38 PM.wav",
+    "uploadDate": "2026-01-28T07:12:17.000Z",
+    "callId": "300000001218078-300000001708156",
+    "phoneNumber": "6313759135",
+    "callTimestamp": "2026-01-28T13:09:38.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra. How can I help you?\n\nSpeaker 2: Yeah, it seemed like I was placed on a list where\n\nSpeaker 1: It's being sent to me every month. I only bought it one time.\n\nSpeaker 2: What's your first and last name, sir?\n\nSpeaker 1: Everton Muna.\n\nSpeaker 2: Check on this for you, Mr. Muna. See what's going on.\n\nSpeaker 1: Yeah, so it looks like you got set up on our VIP prescription, Mr. Muna.\n\nSpeaker 2: That's why they're sending the refills.\n\nSpeaker 1: I can pause this service for you if you needed time, if you wanted to place the orders manually online or over the phone.\n\nSpeaker 2: That way they won't be automatic.\n\nSpeaker 1: Yeah, how much am I being charged for each of these?\n\nSpeaker 2: So for those pills, it's $63.95 for the 10 pills.\n\nSpeaker 1: Oh man, I need a refund. I mean, if you don't want, you can send them back if you don't want to keep them.\n\nSpeaker 2: All right, I'll do this. So it's a return today with $63.00 taken?\n\nSpeaker 1: Mm-hmm. Yes, sir.\n\nSpeaker 2: Can you tell me what credit card you have on file for me?\n\nSpeaker 1: I can, yes, sir. That's a Discover card that ends in 8027.\n\nSpeaker 2: $63.00. All right, please cancel that.\n\nSpeaker 1: Okay, no problem. You don't want to pause it?\n\nSpeaker 2: No, just cancel it. What does a pause mean?\n\nSpeaker 1: Basically, I can pause this prescription for you for up to six months at a time.\n\nSpeaker 2: That way if you ever want to call, place a refill, tell us you need more time, anything like that,\n\nSpeaker 1: You can just reach out to us and say hey, you know, I want an order.\n\nSpeaker 2: I don't want it yet, and then set a new date or get it sooner.\n\nSpeaker 1: Okay, so nothing would be charged until I've made the call?\n\nSpeaker 2: Exactly, yeah, but if you don't call before July, then it will go out.\n\nSpeaker 1: So you have to call us before then, though, and say hey, I want it or I don't want it.\n\nSpeaker 2: You know, you've got to reach out to us before July.\n\nSpeaker 1: Oh, after July, it would just be canceled?\n\nSpeaker 2: After July, it'll send you ten more pills if you don't call us.\n\nSpeaker 1: All right, that's it. Okay, you can do that.\n\nSpeaker 2: Okay, perfect, perfect. So I'll set that up, and then I'll send you the email.\n\nSpeaker 1: So if you want to send those pills back for a refund, you can, Mr. Muno, that's no problem.\n\nSpeaker 2: I'll send that to your email here, I have rossglobe at yahoo.com.\n\nSpeaker 1: Yeah, and is this the real company?\n\nSpeaker 2: Yeah, so we're the face, I'm the customer service for the company, yeah.\n\nSpeaker 1: So if you call here, this is basically a direct line, yeah, I know the owner, I know the CEO.\n\nSpeaker 2: No, no, I mean the product, is this the real product?\n\nSpeaker 1: Oh, yeah, absolutely, so we get these pills from Pfizer, yeah, that's correct.\n\nSpeaker 2: I thought they were blue.\n\nSpeaker 1: Oh, so we have the blue pills too, but not the Nuvivar AGV, that's not blue.\n\nSpeaker 2: We can't put the blue coating on those, they charge more for that.\n\nSpeaker 1: We sell those blue pills as well, but these ones are not those.\n\nSpeaker 2: All right, so no more till July then, please.\n\nSpeaker 1: Exactly, and then check your email for those return instructions, and you're all set, Mr. Everton.\n\nSpeaker 2: All right, and no billing, I might just keep them.\n\nSpeaker 1: Exactly, yeah, so no billing either, same deal, just give us a call whenever you're ready.\n\nSpeaker 2: All right, thank you.\n\nSpeaker 1: Thank you, bye now.",
+    "duration": 8591,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thanks for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4.199999809265137,
+        "end": 7.800000190734863,
+        "text": " Yeah, it seemed like I was placed on a list where"
+      },
+      {
+        "id": 2,
+        "start": 8.359999656677246,
+        "end": 12.600000381469727,
+        "text": " It's being sent to me every month. I only bought it one time"
+      },
+      {
+        "id": 3,
+        "start": 13.640000343322754,
+        "end": 15.640000343322754,
+        "text": " What's your first and last name, sir?"
+      },
+      {
+        "id": 4,
+        "start": 16.600000381469727,
+        "end": 18.440000534057617,
+        "text": " Everton Muna"
+      },
+      {
+        "id": 5,
+        "start": 18.440000534057617,
+        "end": 20.84000015258789,
+        "text": " Check on this for you, Mr. Muna. See what's going on"
+      },
+      {
+        "id": 6,
+        "start": 22.959999084472656,
+        "end": 26.200000762939453,
+        "text": " Yeah, so it looks like you got set up on our VIP prescription, Mr. Muna"
+      },
+      {
+        "id": 7,
+        "start": 26.200000762939453,
+        "end": 27.520000457763672,
+        "text": " That's why they're sending the refills"
+      },
+      {
+        "id": 8,
+        "start": 27.520000457763672,
+        "end": 32.599998474121094,
+        "text": " I can pause this service for you if you needed time if you wanted to place the orders manually online or over the phone"
+      },
+      {
+        "id": 9,
+        "start": 33.720001220703125,
+        "end": 35.720001220703125,
+        "text": " That way they won't be automatic"
+      },
+      {
+        "id": 10,
+        "start": 36.040000915527344,
+        "end": 42.52000045776367,
+        "text": " Yeah, how much am I being charged for each of these? So for those pills is $63.95 for the 10 pills."
+      },
+      {
+        "id": 11,
+        "start": 43.880001068115234,
+        "end": 49.599998474121094,
+        "text": " Oh man, I need a refund. I mean if you don't want you can send them back if you don't want to keep them"
+      },
+      {
+        "id": 12,
+        "start": 50.599998474121094,
+        "end": 57.599998474121094,
+        "text": " All right, I'll do this. So it's a return today with $63.00 taken?"
+      },
+      {
+        "id": 13,
+        "start": 58.599998474121094,
+        "end": 60.599998474121094,
+        "text": " Mm-hmm. Yes, sir"
+      },
+      {
+        "id": 14,
+        "start": 60.599998474121094,
+        "end": 63.599998474121094,
+        "text": " Can you tell me what credit card you have on file for me?"
+      },
+      {
+        "id": 15,
+        "start": 63.599998474121094,
+        "end": 68.5999984741211,
+        "text": " I can, yes, sir. That's a Discover card that ends in 8027"
+      },
+      {
+        "id": 16,
+        "start": 70.5999984741211,
+        "end": 73.5999984741211,
+        "text": " $63.00. All right, please cancel that"
+      },
+      {
+        "id": 17,
+        "start": 75.5999984741211,
+        "end": 77.5999984741211,
+        "text": " Okay, no problem. You don't want to pause it?"
+      },
+      {
+        "id": 18,
+        "start": 79.5999984741211,
+        "end": 82.5999984741211,
+        "text": " No, just cancel it. What does a pause mean?"
+      },
+      {
+        "id": 19,
+        "start": 83.5999984741211,
+        "end": 87.5999984741211,
+        "text": " Basically, I can pause this prescription for you for up to six months at a time"
+      },
+      {
+        "id": 20,
+        "start": 87.5999984741211,
+        "end": 91.5999984741211,
+        "text": " That way if you ever want to call, place a refill, tell us you need more time, anything like that"
+      },
+      {
+        "id": 21,
+        "start": 91.5999984741211,
+        "end": 94.5999984741211,
+        "text": " You can just reach out to us and say hey, you know, I want an order"
+      },
+      {
+        "id": 22,
+        "start": 94.5999984741211,
+        "end": 97.5999984741211,
+        "text": " I don't want it yet, and then set a new date or get it sooner"
+      },
+      {
+        "id": 23,
+        "start": 100.5999984741211,
+        "end": 104.5999984741211,
+        "text": " Okay, so nothing would be charged until I've made the call?"
+      },
+      {
+        "id": 24,
+        "start": 105.5999984741211,
+        "end": 108.5999984741211,
+        "text": " Exactly, yeah, but if you don't call before July, then it will go out"
+      },
+      {
+        "id": 25,
+        "start": 108.5999984741211,
+        "end": 111.5999984741211,
+        "text": " So you have to call us before then, though, and say hey, I want it or I don't want it"
+      },
+      {
+        "id": 26,
+        "start": 111.5999984741211,
+        "end": 113.5999984741211,
+        "text": " You know, you've got to reach out to us before July"
+      },
+      {
+        "id": 27,
+        "start": 115.5999984741211,
+        "end": 117.5999984741211,
+        "text": " Oh, after July, it would just be canceled?"
+      },
+      {
+        "id": 28,
+        "start": 118.5999984741211,
+        "end": 121.5999984741211,
+        "text": " After July, it'll send you ten more pills, if you don't call us"
+      },
+      {
+        "id": 29,
+        "start": 123.5999984741211,
+        "end": 126.5999984741211,
+        "text": " All right, that's it. Okay, you can do that"
+      },
+      {
+        "id": 30,
+        "start": 126.5999984741211,
+        "end": 130.60000610351562,
+        "text": " Okay, perfect, perfect. So I'll set that up, and then I'll send you the email"
+      },
+      {
+        "id": 31,
+        "start": 130.60000610351562,
+        "end": 134.60000610351562,
+        "text": " So if you want to send those pills back for a refund, you can, Mr. Muno, that's no problem"
+      },
+      {
+        "id": 32,
+        "start": 134.60000610351562,
+        "end": 138.60000610351562,
+        "text": " I'll send that to your email here, I have rossglobe at yahoo.com"
+      },
+      {
+        "id": 33,
+        "start": 139.60000610351562,
+        "end": 142.60000610351562,
+        "text": " Yeah, and is this the real company?"
+      },
+      {
+        "id": 34,
+        "start": 142.60000610351562,
+        "end": 147.60000610351562,
+        "text": " Yeah, so we're the face, I'm the customer service for the company, yeah"
+      },
+      {
+        "id": 35,
+        "start": 147.60000610351562,
+        "end": 151.60000610351562,
+        "text": " So if you call here, this is basically a direct line, yeah, I know the owner, I know the CEO"
+      },
+      {
+        "id": 36,
+        "start": 151.60000610351562,
+        "end": 154.60000610351562,
+        "text": " No, no, I mean the product, is this the real product?"
+      },
+      {
+        "id": 37,
+        "start": 154.60000610351562,
+        "end": 158.60000610351562,
+        "text": " Oh, yeah, absolutely, so we get these pills from Pfizer, yeah, that's correct"
+      },
+      {
+        "id": 38,
+        "start": 159.60000610351562,
+        "end": 161.60000610351562,
+        "text": " I thought they were blue"
+      },
+      {
+        "id": 39,
+        "start": 161.60000610351562,
+        "end": 165.60000610351562,
+        "text": " Oh, so we have the blue pills too, but not the Nuvivar AGV, that's not blue"
+      },
+      {
+        "id": 40,
+        "start": 165.60000610351562,
+        "end": 167.60000610351562,
+        "text": " We can't put the blue coating on those, they charge more for that"
+      },
+      {
+        "id": 41,
+        "start": 167.60000610351562,
+        "end": 170.60000610351562,
+        "text": " We sell those blue pills as well, but these ones are not those"
+      },
+      {
+        "id": 42,
+        "start": 174.60000610351562,
+        "end": 177.60000610351562,
+        "text": " All right, so no more till July then, please"
+      },
+      {
+        "id": 43,
+        "start": 177.60000610351562,
+        "end": 181.60000610351562,
+        "text": " Exactly, and then check your email for those return instructions, and you're all set, Mr. Everton"
+      },
+      {
+        "id": 44,
+        "start": 182.60000610351562,
+        "end": 184.60000610351562,
+        "text": " All right, and no billing, I might just keep them"
+      },
+      {
+        "id": 45,
+        "start": 185.60000610351562,
+        "end": 189.60000610351562,
+        "text": " Exactly, yeah, so no billing either, same deal, just give us a call whenever you're ready"
+      },
+      {
+        "id": 46,
+        "start": 189.60000610351562,
+        "end": 190.60000610351562,
+        "text": " All right, thank you"
+      },
+      {
+        "id": 47,
+        "start": 190.60000610351562,
+        "end": 192.60000610351562,
+        "text": " Thank you, bye now"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e4-a401-dc795cf2ba9e",
+    "url": "https://www.notion.so/300000001218078-300000001708156-2f611d0a101c81e4a401dc795cf2ba9e"
+  },
+  "processedAt": "2026-01-28T15:10:25.255Z"
+}

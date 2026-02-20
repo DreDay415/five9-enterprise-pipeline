@@ -1,0 +1,110 @@
+{
+  "recording": {
+    "name": "300000001222982-300000001712573-3032040423 by summer@verifiednutrition.com @ 1_14_34 PM.wav",
+    "size": 105166,
+    "modifyTime": 1769721361000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222982-300000001712573-3032040423 by summer@verifiednutrition.com @ 1_14_34 PM.wav",
+    "uploadDate": "2026-01-29T21:16:01.000Z",
+    "callId": "300000001222982-300000001712573",
+    "agent": "summer",
+    "phoneNumber": "3032040423",
+    "callTimestamp": "2026-01-29T13:14:34.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service, how can I help you?\n\nSpeaker 2: Yeah, my name is Phil Glover and I'm trying to change my shipment.\n\nSpeaker 1: I would like to go ahead and cancel until I further notify you to reapply the account again.\n\nSpeaker 2: Okay, let me pull your account up. What's your name and birthday?\n\nSpeaker 1: 12-3-57, Phil Glover.\n\nSpeaker 2: Thank you, one second.\n\nSpeaker 1: Looks like you already did it. You don't have an active prescription with us.\n\nSpeaker 2: Okay, that's a few questions that I do have.\n\nSpeaker 1: What I did last time is I did deal of the month and that's what I'm listed at now.\n\nSpeaker 2: Will that be the way I respond to you?\n\nSpeaker 1: In other words, until I do another deal of the month, you won't charge my credit card and send anything to me.\n\nSpeaker 2: That's great. Thanks for your help.\n\nSpeaker 1: You're welcome. Bye-bye.\n\nSpeaker 2: Bye.",
+    "duration": 2944,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Thank you for calling customer service, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 12,
+        "text": " Yeah, my name is Phil Glover and I'm trying to change my shipment."
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 23,
+        "text": " I would like to go ahead and cancel until I further notify you to reapply the account again."
+      },
+      {
+        "id": 3,
+        "start": 23,
+        "end": 26,
+        "text": " Okay, let me pull your account up. What's your name and birthday?"
+      },
+      {
+        "id": 4,
+        "start": 27,
+        "end": 30,
+        "text": " 12-3-57, Phil Glover."
+      },
+      {
+        "id": 5,
+        "start": 30,
+        "end": 33,
+        "text": " Thank you, one second."
+      },
+      {
+        "id": 6,
+        "start": 33,
+        "end": 40,
+        "text": " Looks like you already did it. You don't have an active prescription with us."
+      },
+      {
+        "id": 7,
+        "start": 40,
+        "end": 43,
+        "text": " Okay, that's a few questions that I do have."
+      },
+      {
+        "id": 8,
+        "start": 43,
+        "end": 49,
+        "text": " What I did last time is I did deal of the month and that's what I'm listed at now."
+      },
+      {
+        "id": 9,
+        "start": 49,
+        "end": 52,
+        "text": " Will that be the way I respond to you?"
+      },
+      {
+        "id": 10,
+        "start": 52,
+        "end": 57,
+        "text": " In other words, until I do another deal of the month, you won't charge my credit card and send anything to me."
+      },
+      {
+        "id": 11,
+        "start": 57,
+        "end": 60,
+        "text": " That's great. Thanks for your help."
+      },
+      {
+        "id": 12,
+        "start": 60,
+        "end": 62,
+        "text": " You're welcome. Bye-bye."
+      },
+      {
+        "id": 13,
+        "start": 62,
+        "end": 63,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-815c-8ece-fe68b06ee58a",
+    "url": "https://www.notion.so/300000001222982-300000001712573-2f711d0a101c815c8ecefe68b06ee58a"
+  },
+  "processedAt": "2026-01-29T21:48:15.023Z"
+}

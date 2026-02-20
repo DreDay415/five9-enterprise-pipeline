@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001219296-300000001709421-2059086438 by  @ 10_47_17 AM_CallStudio.wav",
+    "size": 24630,
+    "modifyTime": 1769587040000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219296-300000001709421-2059086438 by  @ 10_47_17 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:57:20.000Z",
+    "callId": "300000001219296-300000001709421",
+    "phoneNumber": "2059086438",
+    "callTimestamp": "2026-01-28T07:57:20.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Unauthorized purchase.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 917,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.480000019073486,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.619999885559082,
+        "end": 7.099999904632568,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.420000076293945,
+        "end": 8.880000114440918,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.579999923706055,
+        "end": 11.680000305175781,
+        "text": " Unauthorized purchase."
+      },
+      {
+        "id": 4,
+        "start": 12.640000343322754,
+        "end": 14.720000267028809,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81dd-8f6b-e3d596beb8ea",
+    "url": "https://www.notion.so/300000001219296-300000001709421-2f611d0a101c81dd8f6be3d596beb8ea"
+  },
+  "processedAt": "2026-01-28T13:27:02.159Z"
+}

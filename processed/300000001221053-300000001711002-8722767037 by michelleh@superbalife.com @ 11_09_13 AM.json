@@ -1,0 +1,320 @@
+{
+  "recording": {
+    "name": "300000001221053-300000001711002-8722767037 by michelleh@superbalife.com @ 11_09_13 AM.wav",
+    "size": 278650,
+    "modifyTime": 1769627543000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221053-300000001711002-8722767037 by michelleh@superbalife.com @ 11_09_13 AM.wav",
+    "uploadDate": "2026-01-28T19:12:23.000Z",
+    "callId": "300000001221053-300000001711002",
+    "agent": "michelleh",
+    "phoneNumber": "8722767037",
+    "callTimestamp": "2026-01-28T11:09:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Hi, I was just calling to see if I could cancel my prescription.\n\nSpeaker 1: Sure, I can help you out with that. Give me one second to pull up your profile.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Alright, Augustine, can you just confirm your date of birth?\n\nSpeaker 2: Yes, it's 12-13-85.\n\nSpeaker 1: Thank you so much. I see you're a VIP status customer.\n\nSpeaker 2: Oh, I see the doctor put you on refills on a monthly basis, which you do not have to have.\n\nSpeaker 1: How's the medication working out for you?\n\nSpeaker 2: It doesn't really work for me.\n\nSpeaker 1: Yeah, that's what I'm asking.\n\nSpeaker 2: Because it looks like here I can see from the pharmacy's notes you did not receive the AGB.\n\nSpeaker 1: They sent you just the regular generic Viagra.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Give me a second. I'm going to get you out of replacement,\n\nSpeaker 2: and then I'm going to tell you how you can confirm you received the correct medication.\n\nSpeaker 1: And I'm going to send you 100 milligrams instead of 50s.\n\nSpeaker 2: Give me one second.\n\nSpeaker 1: 100 milligrams.\n\nSpeaker 2: I'm sending you 25.\n\nSpeaker 1: Okay. Alright, perfect. So that went through.\n\nSpeaker 2: I'm sending you a quantity of 2,500 milligrams instead of 50s.\n\nSpeaker 1: So when you get this new bottle, on the bottle it's going to say AGB,\n\nSpeaker 2: but it's also going to say Greenstone.\n\nSpeaker 1: Greenstone is the name of Pfizer's manufacturer in France.\n\nSpeaker 2: And then on the pill, the only number imprinted is going to be the number 100 for the milligrams.\n\nSpeaker 1: Because right now imprinted on your pills is going to be the letters AC,\n\nSpeaker 2: I think 390 or 340 or something like that.\n\nSpeaker 1: And your bottle will say APCO.\n\nSpeaker 2: So that's just generic.\n\nSpeaker 1: So I'm sending you out the correct medication.\n\nSpeaker 2: And then I'm going to go ahead and pause your refills for six months.\n\nSpeaker 1: I'm going to pause it until July 31st of 2026.\n\nSpeaker 2: And then I'll give you my extension so you can let me know how the AGB works out for you.\n\nSpeaker 1: Okay, sounds good.\n\nSpeaker 2: Okay, perfect. Do you have a pen?\n\nSpeaker 1: Give me a second.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: 0020.\n\nSpeaker 1: And my name is Michelle.\n\nSpeaker 2: No problem. Take your time.\n\nSpeaker 1: 0020 and my name is Michelle.\n\nSpeaker 2: Michelle.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: Yeah, not a problem. Have a great day, Augustine.\n\nSpeaker 2: All right, you too. Thank you.\n\nSpeaker 1: Thanks. Bye.",
+    "duration": 7483,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " Hi, I was just calling to see if I could cancel my prescription."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " Sure, I can help you out with that. Give me one second to pull up your profile."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 13,
+        "text": " Okay."
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 21,
+        "text": " Alright, Augustine, can you just confirm your date of birth?"
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 24,
+        "text": " Yes, it's 12-13-85."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 27,
+        "text": " Thank you so much. I see you're a VIP status customer."
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 31,
+        "text": " Oh, I see the doctor put you on refills on a monthly basis, which you do not have to have."
+      },
+      {
+        "id": 8,
+        "start": 32,
+        "end": 34,
+        "text": " How's the medication working out for you?"
+      },
+      {
+        "id": 9,
+        "start": 37,
+        "end": 39,
+        "text": " It doesn't really work for me."
+      },
+      {
+        "id": 10,
+        "start": 41,
+        "end": 43,
+        "text": " Yeah, that's what I'm asking."
+      },
+      {
+        "id": 11,
+        "start": 44,
+        "end": 48,
+        "text": " Because it looks like here I can see from the pharmacy's notes you did not receive the AGB."
+      },
+      {
+        "id": 12,
+        "start": 49,
+        "end": 51,
+        "text": " They sent you just the regular generic Viagra."
+      },
+      {
+        "id": 13,
+        "start": 52,
+        "end": 53,
+        "text": " Yeah."
+      },
+      {
+        "id": 14,
+        "start": 54,
+        "end": 56,
+        "text": " Give me a second. I'm going to get you out of replacement,"
+      },
+      {
+        "id": 15,
+        "start": 57,
+        "end": 60,
+        "text": " and then I'm going to tell you how you can confirm you received the correct medication."
+      },
+      {
+        "id": 16,
+        "start": 61,
+        "end": 63,
+        "text": " And I'm going to send you 100 milligrams instead of 50s."
+      },
+      {
+        "id": 17,
+        "start": 64,
+        "end": 65,
+        "text": " Give me one second."
+      },
+      {
+        "id": 18,
+        "start": 67,
+        "end": 68,
+        "text": " 100 milligrams."
+      },
+      {
+        "id": 19,
+        "start": 69,
+        "end": 70,
+        "text": " I'm sending you 25."
+      },
+      {
+        "id": 20,
+        "start": 74,
+        "end": 76,
+        "text": " Okay. Alright, perfect. So that went through."
+      },
+      {
+        "id": 21,
+        "start": 77,
+        "end": 81,
+        "text": " I'm sending you a quantity of 2,500 milligrams instead of 50s."
+      },
+      {
+        "id": 22,
+        "start": 81,
+        "end": 84,
+        "text": " So when you get this new bottle, on the bottle it's going to say AGB,"
+      },
+      {
+        "id": 23,
+        "start": 85,
+        "end": 87,
+        "text": " but it's also going to say Greenstone."
+      },
+      {
+        "id": 24,
+        "start": 88,
+        "end": 91,
+        "text": " Greenstone is the name of Pfizer's manufacturer in France."
+      },
+      {
+        "id": 25,
+        "start": 92,
+        "end": 98,
+        "text": " And then on the pill, the only number imprinted is going to be the number 100 for the milligrams."
+      },
+      {
+        "id": 26,
+        "start": 99,
+        "end": 103,
+        "text": " Because right now imprinted on your pills is going to be the letters AC,"
+      },
+      {
+        "id": 27,
+        "start": 104,
+        "end": 106,
+        "text": " I think 390 or 340 or something like that."
+      },
+      {
+        "id": 28,
+        "start": 107,
+        "end": 108,
+        "text": " And your bottle will say APCO."
+      },
+      {
+        "id": 29,
+        "start": 109,
+        "end": 110,
+        "text": " So that's just generic."
+      },
+      {
+        "id": 30,
+        "start": 111,
+        "end": 113,
+        "text": " So I'm sending you out the correct medication."
+      },
+      {
+        "id": 31,
+        "start": 114,
+        "end": 116,
+        "text": " And then I'm going to go ahead and pause your refills for six months."
+      },
+      {
+        "id": 32,
+        "start": 117,
+        "end": 120,
+        "text": " I'm going to pause it until July 31st of 2026."
+      },
+      {
+        "id": 33,
+        "start": 121,
+        "end": 124,
+        "text": " And then I'll give you my extension so you can let me know how the AGB works out for you."
+      },
+      {
+        "id": 34,
+        "start": 125,
+        "end": 126,
+        "text": " Okay, sounds good."
+      },
+      {
+        "id": 35,
+        "start": 127,
+        "end": 129,
+        "text": " Okay, perfect. Do you have a pen?"
+      },
+      {
+        "id": 36,
+        "start": 130,
+        "end": 132,
+        "text": " Give me a second."
+      },
+      {
+        "id": 37,
+        "start": 133,
+        "end": 134,
+        "text": " Okay."
+      },
+      {
+        "id": 38,
+        "start": 139,
+        "end": 140,
+        "text": " Okay."
+      },
+      {
+        "id": 39,
+        "start": 141,
+        "end": 142,
+        "text": " 0020."
+      },
+      {
+        "id": 40,
+        "start": 143,
+        "end": 145,
+        "text": " And my name is Michelle."
+      },
+      {
+        "id": 41,
+        "start": 149,
+        "end": 150,
+        "text": " No problem. Take your time."
+      },
+      {
+        "id": 42,
+        "start": 156,
+        "end": 158,
+        "text": " 0020 and my name is Michelle."
+      },
+      {
+        "id": 43,
+        "start": 160,
+        "end": 161,
+        "text": " Michelle."
+      },
+      {
+        "id": 44,
+        "start": 162,
+        "end": 163,
+        "text": " Yeah."
+      },
+      {
+        "id": 45,
+        "start": 164,
+        "end": 165,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 46,
+        "start": 166,
+        "end": 167,
+        "text": " Yeah, not a problem. Have a great day, Augustine."
+      },
+      {
+        "id": 47,
+        "start": 168,
+        "end": 169,
+        "text": " All right, you too. Thank you."
+      },
+      {
+        "id": 48,
+        "start": 169,
+        "end": 170,
+        "text": " Thanks. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-815c-bb87-ca437976d17c",
+    "url": "https://www.notion.so/300000001221053-300000001711002-2f611d0a101c815cbb87ca437976d17c"
+  },
+  "processedAt": "2026-01-28T23:57:46.912Z"
+}

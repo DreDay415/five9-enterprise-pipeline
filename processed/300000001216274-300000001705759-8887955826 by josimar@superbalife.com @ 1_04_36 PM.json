@@ -1,0 +1,188 @@
+{
+  "recording": {
+    "name": "300000001216274-300000001705759-8887955826 by josimar@superbalife.com @ 1_04_36 PM.wav",
+    "size": 164186,
+    "modifyTime": 1769592441000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216274-300000001705759-8887955826 by josimar@superbalife.com @ 1_04_36 PM.wav",
+    "uploadDate": "2026-01-28T09:27:21.000Z",
+    "callId": "300000001216274-300000001705759",
+    "agent": "josimar",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T13:04:36.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, I can help you today.\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Yeah, I could help you today.\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: I got a prescription, and I would like to put a pause on it.\n\nSpeaker 1: I got two bottles.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Not a problem at all?\n\nSpeaker 2: I don't want to send them in.\n\nSpeaker 1: Of course, sir. You don't want to stockpile on them, sir. I understand.\n\nSpeaker 2: What is your last name and zip code? I could just pull you up in my system here.\n\nSpeaker 1: Carter, C-A-R-T-E-R, and my zip code is 78232.\n\nSpeaker 2: 78232?\n\nSpeaker 1: No, 78233.\n\nSpeaker 2: Oh, three. Got it.\n\nSpeaker 1: Okay, one moment, sir. And you said last name is Carter, right?\n\nSpeaker 2: Yes, first name James.\n\nSpeaker 1: Got it. One second.\n\nSpeaker 2: Okay, and then real quick, sir, I do want to mention that right now you're a part of our Viagra AGV membership with Pfizer.\n\nSpeaker 1: So if we were to cancel this out, you wouldn't be able to access this anymore because the doctor would delete the prescription.\n\nSpeaker 2: However, we can always switch you over to our six-month freeze plan, and you can just go ahead and call us when you need them or call us to delay it.\n\nSpeaker 1: Okay, do it that way.\n\nSpeaker 2: Got it. I'll switch you over then, sir, and you've been upgraded to that plan.\n\nSpeaker 1: Aside from that, if you have any other questions down the road, let us know, but you're all set to go today. Have a good one.\n\nSpeaker 2: All right, thank you. You too.\n\nSpeaker 1: No problem. Bye-bye.",
+    "duration": 5703,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Viagra, I can help you today."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 5,
+        "text": " Hello?"
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 7,
+        "text": " Hello?"
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 9,
+        "text": " Yeah, I could help you today."
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 11,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 5,
+        "start": 12,
+        "end": 18,
+        "text": " I got a prescription, and I would like to put a pause on it."
+      },
+      {
+        "id": 6,
+        "start": 18,
+        "end": 21,
+        "text": " I got two bottles."
+      },
+      {
+        "id": 7,
+        "start": 22,
+        "end": 23,
+        "text": " Yeah."
+      },
+      {
+        "id": 8,
+        "start": 23,
+        "end": 24,
+        "text": " Not a problem at all?"
+      },
+      {
+        "id": 9,
+        "start": 24,
+        "end": 26,
+        "text": " I don't want to send them in."
+      },
+      {
+        "id": 10,
+        "start": 26,
+        "end": 29,
+        "text": " Of course, sir. You don't want to stockpile on them, sir. I understand."
+      },
+      {
+        "id": 11,
+        "start": 29,
+        "end": 33,
+        "text": " What is your last name and zip code? I could just pull you up in my system here."
+      },
+      {
+        "id": 12,
+        "start": 34,
+        "end": 40,
+        "text": " Carter, C-A-R-T-E-R, and my zip code is 78232."
+      },
+      {
+        "id": 13,
+        "start": 40,
+        "end": 42,
+        "text": " 78232?"
+      },
+      {
+        "id": 14,
+        "start": 43,
+        "end": 45,
+        "text": " No, 78233."
+      },
+      {
+        "id": 15,
+        "start": 45,
+        "end": 47,
+        "text": " Oh, three. Got it."
+      },
+      {
+        "id": 16,
+        "start": 47,
+        "end": 50,
+        "text": " Okay, one moment, sir. And you said last name is Carter, right?"
+      },
+      {
+        "id": 17,
+        "start": 51,
+        "end": 53,
+        "text": " Yes, first name James."
+      },
+      {
+        "id": 18,
+        "start": 53,
+        "end": 55,
+        "text": " Got it. One second."
+      },
+      {
+        "id": 19,
+        "start": 60,
+        "end": 69,
+        "text": " Okay, and then real quick, sir, I do want to mention that right now you're a part of our Viagra AGV membership with Pfizer."
+      },
+      {
+        "id": 20,
+        "start": 69,
+        "end": 74,
+        "text": " So if we were to cancel this out, you wouldn't be able to access this anymore because the doctor would delete the prescription."
+      },
+      {
+        "id": 21,
+        "start": 74,
+        "end": 81,
+        "text": " However, we can always switch you over to our six-month freeze plan, and you can just go ahead and call us when you need them or call us to delay it."
+      },
+      {
+        "id": 22,
+        "start": 83,
+        "end": 85,
+        "text": " Okay, do it that way."
+      },
+      {
+        "id": 23,
+        "start": 85,
+        "end": 89,
+        "text": " Got it. I'll switch you over then, sir, and you've been upgraded to that plan."
+      },
+      {
+        "id": 24,
+        "start": 89,
+        "end": 94,
+        "text": " Aside from that, if you have any other questions down the road, let us know, but you're all set to go today. Have a good one."
+      },
+      {
+        "id": 25,
+        "start": 95,
+        "end": 96,
+        "text": " All right, thank you. You too."
+      },
+      {
+        "id": 26,
+        "start": 96,
+        "end": 98,
+        "text": " No problem. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81df-90e7-f1bb21a3a14f",
+    "url": "https://www.notion.so/300000001216274-300000001705759-2f611d0a101c81df90e7f1bb21a3a14f"
+  },
+  "processedAt": "2026-01-28T10:34:58.034Z"
+}

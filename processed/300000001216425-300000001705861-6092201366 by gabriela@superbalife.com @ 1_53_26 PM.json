@@ -1,0 +1,314 @@
+{
+  "recording": {
+    "name": "300000001216425-300000001705861-6092201366 by gabriela@superbalife.com @ 1_53_26 PM.wav",
+    "size": 285606,
+    "modifyTime": 1769585530000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216425-300000001705861-6092201366 by gabriela@superbalife.com @ 1_53_26 PM.wav",
+    "uploadDate": "2026-01-28T07:32:10.000Z",
+    "callId": "300000001216425-300000001705861",
+    "agent": "gabriela",
+    "phoneNumber": "6092201366",
+    "callTimestamp": "2026-01-28T13:53:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra, how can I assist you?\n\nSpeaker 2: Yes, I'm calling to follow up on a prescription I received in the mail, and so are the charges against my credit card that I did not order.\n\nSpeaker 1: Okay, what's your name and date of birth?\n\nSpeaker 2: Michael Lemon, 3/16/43.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Okay, yeah, so the reason why you were billed again is because you are a V.A.P. with us.\n\nSpeaker 1: I am what?\n\nSpeaker 2: You are a V.A.P. with us, so you do have access to our exclusive Viagra A.G.V.\n\nSpeaker 1: So, it looks like you do get a quantity of 40, and you do get that quantity every three months.\n\nSpeaker 2: Yeah, but I never went on automatic.\n\nSpeaker 1: It's a prescription for E.D. medication, so the prescription from the doctor does come with refills.\n\nSpeaker 2: In a quantity of 40, you do receive that every three months.\n\nSpeaker 1: If you do not need it every three months, we can always adjust it to your preference.\n\nSpeaker 2: Well, this is the first time ever I got it without ordering it.\n\nSpeaker 1: I have ordered it in the past, but I order it as on-demand, not by an automatic refill.\n\nSpeaker 2: Yeah, we don't do one-time orders.\n\nSpeaker 1: It does come with a prescription, and that's because our volume of customers is on high demand.\n\nSpeaker 2: So, we do get a lot of customers who are interested in the A.G.V., so because of that, it does come with a prescription that comes with refills.\n\nSpeaker 1: Automatically?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: And you can adjust it to your preference.\n\nSpeaker 2: If you do not need it every three months, you can adjust it to every four months.\n\nSpeaker 1: Oh.\n\nSpeaker 2: Would you like to adjust it to every four months?\n\nSpeaker 1: I just can't order it when I want it, right?\n\nSpeaker 2: No.\n\nSpeaker 1: No, it does need a monthly interval.\n\nSpeaker 2: Now, is this a change in policy?\n\nSpeaker 1: It has always been like that.\n\nSpeaker 2: No, it's never been like that as far as I know.\n\nSpeaker 1: I always had to call and order it.\n\nSpeaker 2: Oh, that's strange.\n\nSpeaker 1: But yeah, it does come with a prescription.\n\nSpeaker 2: And changes were made around June, so yeah, it does come with a prescription because that's when our A.G.V. came out.\n\nSpeaker 1: So, yes, we do get more customers.\n\nSpeaker 2: So in order to be able to serve everyone, the prescription does come with refills.\n\nSpeaker 1: All right, let's leave it at that.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Well, you're all set.\n\nSpeaker 2: Not very satisfied.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Okay.",
+    "duration": 7304,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 9,
+        "text": " Hi, thank you for calling Viagra, how can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 9,
+        "end": 17.200000762939453,
+        "text": " Yes, I'm calling to follow up on a prescription I received in the mail, and so are the charges"
+      },
+      {
+        "id": 2,
+        "start": 17.200000762939453,
+        "end": 21,
+        "text": " against my credit card that I did not order."
+      },
+      {
+        "id": 3,
+        "start": 21,
+        "end": 25.399999618530273,
+        "text": " Okay, what's your name and date of birth?"
+      },
+      {
+        "id": 4,
+        "start": 25.399999618530273,
+        "end": 31.799999237060547,
+        "text": " Michael Lemon, 31643."
+      },
+      {
+        "id": 5,
+        "start": 31.799999237060547,
+        "end": 32.79999923706055,
+        "text": " Thank you."
+      },
+      {
+        "id": 6,
+        "start": 32.79999923706055,
+        "end": 39.63999938964844,
+        "text": " Okay, yeah, so the reason why you were built again is because you are a V.A.P. with us."
+      },
+      {
+        "id": 7,
+        "start": 39.63999938964844,
+        "end": 41.15999984741211,
+        "text": " I am what?"
+      },
+      {
+        "id": 8,
+        "start": 41.15999984741211,
+        "end": 46.599998474121094,
+        "text": " You are a V.A.P. with us, so you do have access to our exclusive Viagra A.G.V."
+      },
+      {
+        "id": 9,
+        "start": 46.599998474121094,
+        "end": 53,
+        "text": " So, it looks like you do get a quantity of 40, and you do get that quantity every three"
+      },
+      {
+        "id": 10,
+        "start": 53,
+        "end": 54,
+        "text": " months."
+      },
+      {
+        "id": 11,
+        "start": 54,
+        "end": 57,
+        "text": " Yeah, but I never went on automatic."
+      },
+      {
+        "id": 12,
+        "start": 57,
+        "end": 63.91999816894531,
+        "text": " It's a prescription for E.D. medication, so the prescription from the doctor does come"
+      },
+      {
+        "id": 13,
+        "start": 63.91999816894531,
+        "end": 64.91999816894531,
+        "text": " with refills."
+      },
+      {
+        "id": 14,
+        "start": 64.91999816894531,
+        "end": 68.44000244140625,
+        "text": " In a quantity of 40, you do receive that every three months."
+      },
+      {
+        "id": 15,
+        "start": 68.44000244140625,
+        "end": 73,
+        "text": " If you do not need it every three months, we can always adjust it to your preference."
+      },
+      {
+        "id": 16,
+        "start": 73,
+        "end": 79,
+        "text": " Well, this is the first time ever I got it without ordering it."
+      },
+      {
+        "id": 17,
+        "start": 79,
+        "end": 84.72000122070312,
+        "text": " I have ordered it in the past, but I order it as on-demand, not by an automatic refill."
+      },
+      {
+        "id": 18,
+        "start": 84.72000122070312,
+        "end": 87.4000015258789,
+        "text": " Yeah, we don't do one-time orders."
+      },
+      {
+        "id": 19,
+        "start": 87.4000015258789,
+        "end": 93.19999694824219,
+        "text": " It does come with a prescription, and that's because our volume of customers is on high"
+      },
+      {
+        "id": 20,
+        "start": 93.19999694824219,
+        "end": 94.19999694824219,
+        "text": " demand."
+      },
+      {
+        "id": 21,
+        "start": 94.19999694824219,
+        "end": 100.55999755859375,
+        "text": " So, we do get a lot of customers who are interested on the A.G.V., so because of that, it does"
+      },
+      {
+        "id": 22,
+        "start": 100.55999755859375,
+        "end": 105,
+        "text": " come with a prescription that comes with refills."
+      },
+      {
+        "id": 23,
+        "start": 105,
+        "end": 106,
+        "text": " Automatically?"
+      },
+      {
+        "id": 24,
+        "start": 106,
+        "end": 107,
+        "text": " Yeah."
+      },
+      {
+        "id": 25,
+        "start": 108,
+        "end": 111,
+        "text": " And you can adjust it to your preference."
+      },
+      {
+        "id": 26,
+        "start": 111,
+        "end": 115,
+        "text": " If you do not need it every three months, you can adjust it to every four months."
+      },
+      {
+        "id": 27,
+        "start": 115,
+        "end": 116,
+        "text": " Oh."
+      },
+      {
+        "id": 28,
+        "start": 116,
+        "end": 122,
+        "text": " Would you like to adjust it to every four months?"
+      },
+      {
+        "id": 29,
+        "start": 122,
+        "end": 128,
+        "text": " I just can't order it when I want it, right?"
+      },
+      {
+        "id": 30,
+        "start": 128,
+        "end": 129,
+        "text": " No."
+      },
+      {
+        "id": 31,
+        "start": 129,
+        "end": 131,
+        "text": " No, it does need a monthly interval."
+      },
+      {
+        "id": 32,
+        "start": 131,
+        "end": 134,
+        "text": " Now, is this a change in policy?"
+      },
+      {
+        "id": 33,
+        "start": 135,
+        "end": 139,
+        "text": " It has always been like that."
+      },
+      {
+        "id": 34,
+        "start": 139,
+        "end": 142,
+        "text": " No, it's never been like that as far as I know."
+      },
+      {
+        "id": 35,
+        "start": 142,
+        "end": 145,
+        "text": " I always had to call and order it."
+      },
+      {
+        "id": 36,
+        "start": 145,
+        "end": 146,
+        "text": " Oh, that's strange."
+      },
+      {
+        "id": 37,
+        "start": 146,
+        "end": 149,
+        "text": " But yeah, it does come with a prescription."
+      },
+      {
+        "id": 38,
+        "start": 149,
+        "end": 156,
+        "text": " And changes were made around June, so yeah, it does come with a prescription because that's"
+      },
+      {
+        "id": 39,
+        "start": 156,
+        "end": 158,
+        "text": " when our A.G.V. came out."
+      },
+      {
+        "id": 40,
+        "start": 158,
+        "end": 161,
+        "text": " So, yes, we do get more customers."
+      },
+      {
+        "id": 41,
+        "start": 161,
+        "end": 167,
+        "text": " So in order to be able to serve everyone, the prescription does come with refills."
+      },
+      {
+        "id": 42,
+        "start": 169,
+        "end": 171,
+        "text": " All right, let's leave it at that."
+      },
+      {
+        "id": 43,
+        "start": 171,
+        "end": 172,
+        "text": " Okay."
+      },
+      {
+        "id": 44,
+        "start": 172,
+        "end": 173,
+        "text": " Well, you're all set."
+      },
+      {
+        "id": 45,
+        "start": 173,
+        "end": 174,
+        "text": " Not very satisfied."
+      },
+      {
+        "id": 46,
+        "start": 174,
+        "end": 175,
+        "text": " Thank you."
+      },
+      {
+        "id": 47,
+        "start": 175,
+        "end": 176,
+        "text": " Okay."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81b9-a23d-dcd6b0794fb5",
+    "url": "https://www.notion.so/300000001216425-300000001705861-2f611d0a101c81b9a23ddcd6b0794fb5"
+  },
+  "processedAt": "2026-01-28T14:17:38.920Z"
+}

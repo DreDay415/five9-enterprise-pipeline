@@ -1,0 +1,182 @@
+{
+  "recording": {
+    "name": "300000001221024-300000001710984-4105968600 by nickh@superbalife.com @ 11_04_22 AM.wav",
+    "size": 181540,
+    "modifyTime": 1769627196000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221024-300000001710984-4105968600 by nickh@superbalife.com @ 11_04_22 AM.wav",
+    "uploadDate": "2026-01-28T19:06:36.000Z",
+    "callId": "300000001221024-300000001710984",
+    "agent": "nickh",
+    "phoneNumber": "4105968600",
+    "callTimestamp": "2026-01-28T11:04:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra at Score Blue. How can I help you today?\n\nSpeaker 2: With Nick.\n\nSpeaker 1: Hello.\n\nSpeaker 2: Hello, is this Nick?\n\nSpeaker 1: Yes, sir. Hello. Hi, who do I have the pleasure of speaking with today? This is Brian Boone.\n\nSpeaker 2: Hi, Mr. Boone, how can I help you?\n\nSpeaker 1: Yeah, I sent back those three bottles like you told me.\n\nSpeaker 2: Uh-huh.\n\nSpeaker 1: And—\n\nSpeaker 2: I did get a refund of 63.95.\n\nSpeaker 1: But that was just for one bottle.\n\nSpeaker 2: So I'm looking at your account right now, Mr. Boone.\n\nSpeaker 1: I'm not sure about what the delay was, but we have issued three refunds of 63.95.\n\nSpeaker 2: Okay, what were the dates on those? Those all three were refunded on the 21st?\n\nSpeaker 1: 21st.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yeah, all those refunds were—all those were refunded. I mean, you can reach out to your bank.\n\nSpeaker 2: But I see every single one was refunded, all three.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, it's only showing up as one, so I have to check with them and see what's going on.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All three were on the 21st.\n\nSpeaker 1: Yes, sir, that's three of them for 63.95.\n\nSpeaker 2: Okay, I'll check with them then, all right.\n\nSpeaker 1: Okay, thank you. Uh, thank you.\n\nSpeaker 2: Have a good day.",
+    "duration": 3684,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.2799999713897705,
+        "text": " Hi, thank you for calling Viagra at score blue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 5.28000020980835,
+        "end": 7.28000020980835,
+        "text": " With Nick"
+      },
+      {
+        "id": 2,
+        "start": 7.599999904632568,
+        "end": 8.960000038146973,
+        "text": " Hello"
+      },
+      {
+        "id": 3,
+        "start": 8.960000038146973,
+        "end": 10.960000038146973,
+        "text": " Hello, is this Nick?"
+      },
+      {
+        "id": 4,
+        "start": 11.119999885559082,
+        "end": 15.600000381469727,
+        "text": " Yes, sir. Hello. Hi, who do I have the pleasure of speaking with today? This is Brian Boone"
+      },
+      {
+        "id": 5,
+        "start": 17.040000915527344,
+        "end": 19.040000915527344,
+        "text": " Hi, Mr. Boone, how can I help you?"
+      },
+      {
+        "id": 6,
+        "start": 20,
+        "end": 24.959999084472656,
+        "text": " Yeah, I sent back those three bottles like you told me"
+      },
+      {
+        "id": 7,
+        "start": 25.600000381469727,
+        "end": 27.040000915527344,
+        "text": " uh-huh"
+      },
+      {
+        "id": 8,
+        "start": 27.040000915527344,
+        "end": 28.399999618530273,
+        "text": " and"
+      },
+      {
+        "id": 9,
+        "start": 28.399999618530273,
+        "end": 30.979999542236328,
+        "text": " I did get a refund of 63.95"
+      },
+      {
+        "id": 10,
+        "start": 32.31999969482422,
+        "end": 34.79999923706055,
+        "text": " But that was just for one bottle"
+      },
+      {
+        "id": 11,
+        "start": 36.08000183105469,
+        "end": 38.880001068115234,
+        "text": " So i'm looking at your account right now, Mr. Boone now"
+      },
+      {
+        "id": 12,
+        "start": 38.880001068115234,
+        "end": 42.900001525878906,
+        "text": " I'm, not sure about what the delay was, but we have issued three refunds of 63.95"
+      },
+      {
+        "id": 13,
+        "start": 46,
+        "end": 52.900001525878906,
+        "text": " Okay, what was the dates on those those all three were refunded on the 21st"
+      },
+      {
+        "id": 14,
+        "start": 52.900001525878906,
+        "end": 54.900001525878906,
+        "text": " 21st"
+      },
+      {
+        "id": 15,
+        "start": 57.540000915527344,
+        "end": 59.540000915527344,
+        "text": " Okay"
+      },
+      {
+        "id": 16,
+        "start": 71.22000122070312,
+        "end": 76.41999816894531,
+        "text": " Yeah, all those refunds were all those were refunded I mean you can reach out to your bank"
+      },
+      {
+        "id": 17,
+        "start": 76.41999816894531,
+        "end": 79.37999725341797,
+        "text": " But I see every single one was refunded all three"
+      },
+      {
+        "id": 18,
+        "start": 79.45999908447266,
+        "end": 81.45999908447266,
+        "text": " Okay"
+      },
+      {
+        "id": 19,
+        "start": 81.45999908447266,
+        "end": 87.86000061035156,
+        "text": " Okay, it's only showing up as one so I have to check check with them and see what's going on"
+      },
+      {
+        "id": 20,
+        "start": 88.5,
+        "end": 89.77999877929688,
+        "text": " Okay"
+      },
+      {
+        "id": 21,
+        "start": 89.77999877929688,
+        "end": 91.77999877929688,
+        "text": " All three were on the 21st"
+      },
+      {
+        "id": 22,
+        "start": 93.77999877929688,
+        "end": 96.27999877929688,
+        "text": " Yes, sir, that's three of them for 63.95"
+      },
+      {
+        "id": 23,
+        "start": 99.13999938964844,
+        "end": 102.26000213623047,
+        "text": " Okay, i'll check with them then all right"
+      },
+      {
+        "id": 24,
+        "start": 104.0199966430664,
+        "end": 106.5,
+        "text": " Okay, thank you, uh, thank you"
+      },
+      {
+        "id": 25,
+        "start": 106.5,
+        "end": 109.45999908447266,
+        "text": " Have a good day"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81d8-8466-d139672a4b59",
+    "url": "https://www.notion.so/300000001221024-300000001710984-2f711d0a101c81d88466d139672a4b59"
+  },
+  "processedAt": "2026-01-29T00:01:37.380Z"
+}

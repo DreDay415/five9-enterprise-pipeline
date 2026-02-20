@@ -1,0 +1,50 @@
+{
+  "recording": {
+    "name": "300000001240746-300000001730404-9168828860 by  @ 1_02_18 PM_CallStudio.wav",
+    "size": 22290,
+    "modifyTime": 1770930174000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240746-300000001730404-9168828860 by  @ 1_02_18 PM_CallStudio.wav",
+    "uploadDate": "2026-02-12T21:02:54.000Z",
+    "callId": "300000001240746-300000001730404",
+    "phoneNumber": "9168828860",
+    "callTimestamp": "2026-02-12T21:02:54.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Para Español, marque número nueve.\n\nSpeaker 1: Illegally billed.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 964,
+    "audioDuration": 13.680000305175781,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 9,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 12,
+        "text": " Illegally billed."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 14,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-815d-9bc4-d583781d1cd6",
+    "url": "https://www.notion.so/300000001240746-300000001730404-30511d0a101c815d9bc4d583781d1cd6"
+  },
+  "processedAt": "2026-02-12T21:11:46.169Z"
+}

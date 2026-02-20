@@ -1,0 +1,122 @@
+{
+  "recording": {
+    "name": "300000001219907-300000001709829-7818856822 by charles@superbalife.com @ 1_35_29 PM.wav",
+    "size": 230486,
+    "modifyTime": 1769549893000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219907-300000001709829-7818856822 by charles@superbalife.com @ 1_35_29 PM.wav",
+    "uploadDate": "2026-01-27T21:38:13.000Z",
+    "callId": "300000001219907-300000001709829",
+    "agent": "charles",
+    "phoneNumber": "7818856822",
+    "callTimestamp": "2026-01-27T13:35:29.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: It's a callback. This is Charles. Yeah, I was trying to make an order via the website,\n\nSpeaker 2: but it won't let me. This is not working. Okay, one second.\n\nSpeaker 1: Okay, and you were looking to get the AGV 100 milligram 40 count? Yeah. Okay, and still\n\nSpeaker 2: sending to 3 Crawford Lane in New Hampshire. Correct. So it showed that for you, but why\n\nSpeaker 1: wouldn't it? When I get to the end, it won't submit. It won't submit. Okay. Yeah, I'm just\n\nSpeaker 2: tapping on the button and it does nothing. Because I did change the shipping address.\n\nSpeaker 1: The billing address is the same. Change the shipping. Billing is the same. Let me see.\n\nSpeaker 2: Okay, so we're sending to 3 Crawford Lane. Yeah, Koper, K-O-P-E-R. Yeah, I'm not sure.\n\nSpeaker 1: I'll let my IT guy know. Maybe it's like a little bug happening right now, but I'll place\n\nSpeaker 2: this order for you right now. We're still charging on the PayPal, correct? Sure. I just\n\nSpeaker 1: transferred the money, so yeah. Gotcha. One second. Boom, 100 milligram 40. Perfect. Regular\n\nSpeaker 2: shipping, correct? No, I was actually going to do next day. Next day. Okay, that's an\n\nSpeaker 1: additional $38, okay? Yep. Okay, I'm going to process right now. Bingo. All right, Ralph.\n\nSpeaker 2: Everything should be, depending on the weather, weather's really tricky right now. I'd assume\n\nSpeaker 1: very, very soon, especially with next day, okay? All right, thank you. All right, I hope\n\nSpeaker 2: you have a great day. You as well. Bye. All right, bye-bye.",
+    "duration": 4316,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 9.279999732971191,
+        "text": " It's a callback. This is Charles. Yeah, I was trying to make an order via the website,"
+      },
+      {
+        "id": 1,
+        "start": 9.279999732971191,
+        "end": 17.559999465942383,
+        "text": " but it won't let me. This is not working. Okay, one second."
+      },
+      {
+        "id": 2,
+        "start": 17.559999465942383,
+        "end": 43.560001373291016,
+        "text": " Okay, and you were looking to get the AGV 100 milligram 40 count? Yeah. Okay, and still"
+      },
+      {
+        "id": 3,
+        "start": 43.560001373291016,
+        "end": 51.400001525878906,
+        "text": " sending to 3 Crawford Lane in New Hampshire. Correct. So it showed that for you, but why"
+      },
+      {
+        "id": 4,
+        "start": 51.400001525878906,
+        "end": 59.31999969482422,
+        "text": " wouldn't it? When I get to the end, it won't submit. It won't submit. Okay. Yeah, I'm just"
+      },
+      {
+        "id": 5,
+        "start": 59.31999969482422,
+        "end": 68.72000122070312,
+        "text": " tapping on the button and it does nothing. Because I did change the shipping address."
+      },
+      {
+        "id": 6,
+        "start": 68.72000122070312,
+        "end": 78.31999969482422,
+        "text": " The billing address is the same. Change the shipping. Billing is the same. Let me see."
+      },
+      {
+        "id": 7,
+        "start": 78.31999969482422,
+        "end": 85.95999908447266,
+        "text": " Okay, so we're sending to 3 Crawford Lane. Yeah, Koper, K-O-P-E-R. Yeah, I'm not sure."
+      },
+      {
+        "id": 8,
+        "start": 85.95999908447266,
+        "end": 91.27999877929688,
+        "text": " I'll let my IT guy know. Maybe it's like a little bug happening right now, but I'll place"
+      },
+      {
+        "id": 9,
+        "start": 91.27999877929688,
+        "end": 96.4000015258789,
+        "text": " this order for you right now. We're still charging on the PayPal, correct? Sure. I just"
+      },
+      {
+        "id": 10,
+        "start": 96.4000015258789,
+        "end": 108.19999694824219,
+        "text": " transferred the money, so yeah. Gotcha. One second. Boom, 100 milligram 40. Perfect. Regular"
+      },
+      {
+        "id": 11,
+        "start": 108.19999694824219,
+        "end": 114.23999786376953,
+        "text": " shipping, correct? No, I was actually going to do next day. Next day. Okay, that's an"
+      },
+      {
+        "id": 12,
+        "start": 114.23999786376953,
+        "end": 126.08000183105469,
+        "text": " additional $38, okay? Yep. Okay, I'm going to process right now. Bingo. All right, Ralph."
+      },
+      {
+        "id": 13,
+        "start": 126.08000183105469,
+        "end": 131.75999450683594,
+        "text": " Everything should be, depending on the weather, weather's really tricky right now. I'd assume"
+      },
+      {
+        "id": 14,
+        "start": 131.75999450683594,
+        "end": 137.60000610351562,
+        "text": " very, very soon, especially with next day, okay? All right, thank you. All right, I hope"
+      },
+      {
+        "id": 15,
+        "start": 137.60000610351562,
+        "end": 140.63999938964844,
+        "text": " you have a great day. You as well. Bye. All right, bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8143-a7b9-ce43ce2301bd",
+    "url": "https://www.notion.so/300000001219907-300000001709829-2f511d0a101c8143a7b9ce43ce2301bd"
+  },
+  "processedAt": "2026-01-27T23:27:51.083Z"
+}

@@ -1,0 +1,86 @@
+{
+  "recording": {
+    "name": "300000001220765-300000001710793-2253635438 by olivia@superbalife.com @ 9_35_47 AM.wav",
+    "size": 135846,
+    "modifyTime": 1769622283000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220765-300000001710793-2253635438 by olivia@superbalife.com @ 9_35_47 AM.wav",
+    "uploadDate": "2026-01-28T17:44:43.000Z",
+    "callId": "300000001220765-300000001710793",
+    "agent": "olivia",
+    "phoneNumber": "2253635438",
+    "callTimestamp": "2026-01-28T09:35:47.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Olivia speaking. Who do I have the pleasure of speaking with today?\n\nSpeaker 2: Paul Trim.\n\nSpeaker 1: Hi Paul, how are you?\n\nSpeaker 2: All right. I need to cancel my subscription with y'all.\n\nSpeaker 1: Yeah, I can help you with this. Okay, Paul, what is your date of birth?\n\nSpeaker 2: 7-22-80.\n\nSpeaker 1: Okay, great. Interesting. Okay, huh. All right, and you're located at 1-5-5-0-4, Highway 44,\n\nSpeaker 2: Gonzales, Louisiana.\n\nSpeaker 1: Yes. Okay, so you haven't received your order from us yet.\n\nSpeaker 2: Ma'am?\n\nSpeaker 1: Yeah. What'd you say?\n\nSpeaker 2: I said, so you haven't received your order from us yet, is that right?\n\nSpeaker 1: No, no, that's why I want to cancel it. I mean, if I, it said I was supposed to get it on a tracking thing yesterday, but I never received it.\n\nSpeaker 2: Huh.\n\nSpeaker 1: Okay, give me one moment to look into this.",
+    "duration": 3113,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.400000095367432,
+        "text": " Thank you for calling Viagra. This is Olivia speaking. Who do I have the"
+      },
+      {
+        "id": 1,
+        "start": 5.400000095367432,
+        "end": 12.15999984741211,
+        "text": " pleasure of speaking with today? Paul Trim. Hi Paul, how are you?"
+      },
+      {
+        "id": 2,
+        "start": 12.15999984741211,
+        "end": 19.239999771118164,
+        "text": " All right. I need to cancel my subscription with y'all. Yeah, I can help you with"
+      },
+      {
+        "id": 3,
+        "start": 19.239999771118164,
+        "end": 30.719999313354492,
+        "text": " this. Okay, Paul, what is your date of birth? 7-22-80. Okay, great."
+      },
+      {
+        "id": 4,
+        "start": 32.91999816894531,
+        "end": 45.400001525878906,
+        "text": " Interesting. Okay, huh. All right, and you're located at 1-5-5-0-4, Highway 44,"
+      },
+      {
+        "id": 5,
+        "start": 45.400001525878906,
+        "end": 56.880001068115234,
+        "text": " Gonzales, Louisiana. Yes. Okay, so you haven't received your order from us yet."
+      },
+      {
+        "id": 6,
+        "start": 57.36000061035156,
+        "end": 68.27999877929688,
+        "text": " Ma'am? Yeah. What'd you say? I said, so you haven't received your order from us yet,"
+      },
+      {
+        "id": 7,
+        "start": 68.27999877929688,
+        "end": 73.16000366210938,
+        "text": " is that right? No, no, that's why I want to cancel it. I mean, if I, it said I was"
+      },
+      {
+        "id": 8,
+        "start": 73.16000366210938,
+        "end": 80.31999969482422,
+        "text": " supposed to get it on a tracking thing yesterday, but I never received it. Huh."
+      },
+      {
+        "id": 9,
+        "start": 80.31999969482422,
+        "end": 85.19999694824219,
+        "text": " Okay, give me one moment to look into this."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8137-b829-c5d1f7cf7c20",
+    "url": "https://www.notion.so/300000001220765-300000001710793-2f611d0a101c8137b829c5d1f7cf7c20"
+  },
+  "processedAt": "2026-01-28T18:18:15.430Z"
+}

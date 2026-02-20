@@ -1,0 +1,91 @@
+{
+  "recording": {
+    "name": "300000001218889-300000001709124-8068937380 by  @ 9_10_08 AM_CallStudio.wav",
+    "size": 47380,
+    "modifyTime": 1769591844000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218889-300000001709124-8068937380 by  @ 9_10_08 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:17:24.000Z",
+    "callId": "300000001218889-300000001709124",
+    "phoneNumber": "8068937380",
+    "callTimestamp": "2026-01-28T09:17:24.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español Marque Número Nueve.\n\nSpeaker 2: Refill.\n\nSpeaker 1: This is a natural language AI.\n\nSpeaker 2: Just say what you would like to do.\n\nSpeaker 1: For example, track an order or send me to the billing department.\n\nSpeaker 2: Let's try again.\n\nSpeaker 1: Please state the reason for your call.\n\nSpeaker 2: Refill.",
+    "duration": 1219,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.360000133514404,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.360000133514404,
+        "end": 7.360000133514404,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.360000133514404,
+        "end": 10.359999656677246,
+        "text": " Para Español Marque Número Nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.359999656677246,
+        "end": 12.9399995803833,
+        "text": " Refill."
+      },
+      {
+        "id": 4,
+        "start": 12.9399995803833,
+        "end": 15.680000305175781,
+        "text": " This is a natural language AI."
+      },
+      {
+        "id": 5,
+        "start": 15.680000305175781,
+        "end": 17.799999237060547,
+        "text": " Just say what you would like to do."
+      },
+      {
+        "id": 6,
+        "start": 17.799999237060547,
+        "end": 22.280000686645508,
+        "text": " For example, track an order or send me to the billing department."
+      },
+      {
+        "id": 7,
+        "start": 22.280000686645508,
+        "end": 23.899999618530273,
+        "text": " Let's try again."
+      },
+      {
+        "id": 8,
+        "start": 23.899999618530273,
+        "end": 27.15999984741211,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 9,
+        "start": 27.15999984741211,
+        "end": 28.15999984741211,
+        "text": " Refill."
+      },
+      {
+        "id": 10,
+        "start": 28.15999984741211,
+        "end": 28.15999984741211,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81da-be9a-c893aa643b07",
+    "url": "https://www.notion.so/300000001218889-300000001709124-2f611d0a101c81dabe9ac893aa643b07"
+  },
+  "processedAt": "2026-01-28T11:12:35.624Z"
+}

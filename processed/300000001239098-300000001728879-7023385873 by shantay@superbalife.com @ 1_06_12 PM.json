@@ -1,0 +1,182 @@
+{
+  "recording": {
+    "name": "300000001239098-300000001728879-7023385873 by shantay@superbalife.com @ 1_06_12 PM.wav",
+    "size": 140006,
+    "modifyTime": 1770844080000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239098-300000001728879-7023385873 by shantay@superbalife.com @ 1_06_12 PM.wav",
+    "uploadDate": "2026-02-11T21:08:00.000Z",
+    "callId": "300000001239098-300000001728879",
+    "agent": "shantay",
+    "phoneNumber": "7023385873",
+    "callTimestamp": "2026-02-11T13:06:12.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Hi. My name is Robert Womble, and I need to cancel my prescription.\n\nSpeaker 1: Hey, Mr. Womble, what's your date of birth so I can pull your account up?\n\nSpeaker 2: 5-6-1969.\n\nSpeaker 1: Thank you. And while I'm pulling up your account, may I ask the reason for wanting to cancel your prescription?\n\nSpeaker 2: I just found something I like better.\n\nSpeaker 1: Okay. Let's see here. It looks like you're getting our generic Viagra.\n\nSpeaker 2: It wasn't working for you?\n\nSpeaker 1: No, I just like the other one better.\n\nSpeaker 2: I tried some different ones, and I guess I like the Regiette better.\n\nSpeaker 1: Okay. Did you want to try our Viagra AGV? It's our newest Viagra.\n\nSpeaker 2: I thought that's what I was getting.\n\nSpeaker 1: No, it looks like you were getting the generic Viagra, the 100 milligrams.\n\nSpeaker 2: It doesn't look like the AGV.\n\nSpeaker 1: I could send you a free sample of the AGV if you want to try that out.\n\nSpeaker 2: No, I'm good.\n\nSpeaker 1: Okay. I'm going to go ahead and cancel this for you,\n\nSpeaker 2: and then going forward you won't be receiving any more prescription refills.\n\nSpeaker 1: But I just got charged for a new dose, so that one's going to be still shipped to me, correct?\n\nSpeaker 2: Yeah, that one has already shipped. I already have a tracking number on it.\n\nSpeaker 1: It shows it's going to be delivered on the 17th.\n\nSpeaker 2: Okay. No worries.\n\nSpeaker 1: All right. So it's canceled.\n\nSpeaker 2: Okay. Thank you so much.\n\nSpeaker 1: You're welcome. Have a good day.\n\nSpeaker 2: All right. Bye-bye.",
+    "duration": 3679,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10,
+        "text": " Hi. My name is Robert Womble, and I need to cancel my prescription."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 15,
+        "text": " Hey, Mr. Womble, what's your date of birth so I can pull your account up?"
+      },
+      {
+        "id": 3,
+        "start": 15,
+        "end": 17,
+        "text": " 5-6-1969."
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 22,
+        "text": " Thank you. And while I'm pulling up your account, may I ask the reason for wanting to cancel your prescription?"
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 25,
+        "text": " I just found something I like better."
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 31,
+        "text": " Okay. Let's see here. It looks like you're getting our generic Viagra."
+      },
+      {
+        "id": 7,
+        "start": 31,
+        "end": 34,
+        "text": " It wasn't working for you?"
+      },
+      {
+        "id": 8,
+        "start": 34,
+        "end": 36,
+        "text": " No, I just like the other one better."
+      },
+      {
+        "id": 9,
+        "start": 36,
+        "end": 40,
+        "text": " I tried some different ones, and I guess I like the Regiette better."
+      },
+      {
+        "id": 10,
+        "start": 40,
+        "end": 45,
+        "text": " Okay. Did you want to try our Viagra AGV? It's our newest Viagra."
+      },
+      {
+        "id": 11,
+        "start": 45,
+        "end": 47,
+        "text": " I thought that's what I was getting."
+      },
+      {
+        "id": 12,
+        "start": 47,
+        "end": 51,
+        "text": " No, it looks like you were getting the generic Viagra, the 100 milligrams."
+      },
+      {
+        "id": 13,
+        "start": 51,
+        "end": 53,
+        "text": " It doesn't look like the AGV."
+      },
+      {
+        "id": 14,
+        "start": 53,
+        "end": 56,
+        "text": " I could send you a free sample of the AGV if you want to try that out."
+      },
+      {
+        "id": 15,
+        "start": 56,
+        "end": 58,
+        "text": " No, I'm good."
+      },
+      {
+        "id": 16,
+        "start": 58,
+        "end": 61,
+        "text": " Okay. I'm going to go ahead and cancel this for you,"
+      },
+      {
+        "id": 17,
+        "start": 61,
+        "end": 66,
+        "text": " and then going forward you won't be receiving any more prescription refills."
+      },
+      {
+        "id": 18,
+        "start": 66,
+        "end": 71,
+        "text": " But I just got charged for a new dose, so that one's going to be still shipped to me, correct?"
+      },
+      {
+        "id": 19,
+        "start": 71,
+        "end": 74,
+        "text": " Yeah, that one has already shipped. I already have a tracking number on it."
+      },
+      {
+        "id": 20,
+        "start": 74,
+        "end": 76,
+        "text": " It shows it's going to be delivered on the 17th."
+      },
+      {
+        "id": 21,
+        "start": 76,
+        "end": 78,
+        "text": " Okay. No worries."
+      },
+      {
+        "id": 22,
+        "start": 78,
+        "end": 80,
+        "text": " All right. So it's canceled."
+      },
+      {
+        "id": 23,
+        "start": 80,
+        "end": 82,
+        "text": " Okay. Thank you so much."
+      },
+      {
+        "id": 24,
+        "start": 82,
+        "end": 84,
+        "text": " You're welcome. Have a good day."
+      },
+      {
+        "id": 25,
+        "start": 84,
+        "end": 86,
+        "text": " All right. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-81ae-98e2-d33ec5cc3582",
+    "url": "https://www.notion.so/300000001239098-300000001728879-30411d0a101c81ae98e2d33ec5cc3582"
+  },
+  "processedAt": "2026-02-11T21:31:00.167Z"
+}

@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001218632-300000001708878-3146083589 by  @ 8_05_00 AM_CallStudio.wav",
+    "size": 26060,
+    "modifyTime": 1769584929000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218632-300000001708878-3146083589 by  @ 8_05_00 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:22:09.000Z",
+    "callId": "300000001218632-300000001708878",
+    "phoneNumber": "3146083589",
+    "callTimestamp": "2026-01-28T07:22:09.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Create an account.\n\nSpeaker 1: Thanks.",
+    "duration": 1627,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.239999771118164,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.239999771118164,
+        "end": 6.239999771118164,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.239999771118164,
+        "end": 7.239999771118164,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 7.239999771118164,
+        "end": 8.239999771118164,
+        "text": " Create an account."
+      },
+      {
+        "id": 4,
+        "start": 8.239999771118164,
+        "end": 9.239999771118164,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 9.239999771118164,
+        "end": 9.239999771118164,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81bc-801a-d3c284d1f112",
+    "url": "https://www.notion.so/300000001218632-300000001708878-2f611d0a101c81bc801ad3c284d1f112"
+  },
+  "processedAt": "2026-01-28T14:52:21.265Z"
+}

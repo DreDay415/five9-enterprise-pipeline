@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001217826-300000001708010-01150714065228700 by  @ 12_03_27 PM_CallStudio.wav",
+    "size": 29376,
+    "modifyTime": 1769587038000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217826-300000001708010-01150714065228700 by  @ 12_03_27 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:57:18.000Z",
+    "callId": "300000001217826-300000001708010",
+    "phoneNumber": "01150714065228700",
+    "callTimestamp": "2026-01-28T07:57:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: Cancel my ScoreBlue account and refund.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 841,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.039999961853027,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.039999961853027,
+        "end": 7.039999961853027,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.039999961853027,
+        "end": 10.800000190734863,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.800000190734863,
+        "end": 16.719999313354492,
+        "text": " Cancel my score blue account and refund."
+      },
+      {
+        "id": 4,
+        "start": 16.719999313354492,
+        "end": 17.68000030517578,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816d-b680-dc1f238b3cea",
+    "url": "https://www.notion.so/300000001217826-300000001708010-2f611d0a101c816db680dc1f238b3cea"
+  },
+  "processedAt": "2026-01-28T13:28:58.187Z"
+}

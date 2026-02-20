@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001219341-300000001709452-9179577957 by  @ 10_57_08 AM_CallStudio.wav",
+    "size": 56156,
+    "modifyTime": 1769584930000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219341-300000001709452-9179577957 by  @ 10_57_08 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:22:10.000Z",
+    "callId": "300000001219341-300000001709452",
+    "phoneNumber": "9179577957",
+    "callTimestamp": "2026-01-28T07:22:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call. Speak loudly and clearly.\n\nSpeaker 2: Para Español, marque numero nueve.\n\nSpeaker 1: Cancel agent.\n\nSpeaker 2: This is a natural language AI. Just say what you would like to do.\n\nSpeaker 1: For example, track an order or send me to the billing department.\n\nSpeaker 2: Let's try again. Please state the reason for your call.\n\nSpeaker 1: Cancel my subscription.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 1310,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call. Speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 11,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 14,
+        "text": " Cancel agent."
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 19,
+        "text": " This is a natural language AI. Just say what you would like to do."
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 23,
+        "text": " For example, track an order or send me to the billing department."
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 28,
+        "text": " Let's try again. Please state the reason for your call."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 32,
+        "text": " Cancel my subscription."
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 35,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81dc-9ff4-ece0f5b980aa",
+    "url": "https://www.notion.so/300000001219341-300000001709452-2f611d0a101c81dc9ff4ece0f5b980aa"
+  },
+  "processedAt": "2026-01-28T14:50:36.858Z"
+}

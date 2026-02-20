@@ -1,0 +1,103 @@
+{
+  "recording": {
+    "name": "300000001220092-300000001709963-8015564021 by  @ 2_45_50 PM_CallStudio.wav",
+    "size": 65060,
+    "modifyTime": 1769554012000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220092-300000001709963-8015564021 by  @ 2_45_50 PM_CallStudio.wav",
+    "uploadDate": "2026-01-27T22:46:52.000Z",
+    "callId": "300000001220092-300000001709963",
+    "phoneNumber": "8015564021",
+    "callTimestamp": "2026-01-27T22:46:52.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: You have sent me some products that I did not order, and you've billed my credit card for them. I would like to return them and get a refund.\n\nSpeaker 1: Transferring to agent.",
+    "duration": 1579,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.099999904632568,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.260000228881836,
+        "end": 6.739999771118164,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.059999942779541,
+        "end": 8.539999961853027,
+        "text": " Para español, marque número nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.819999694824219,
+        "end": 14.5600004196167,
+        "text": " It appears you've sent some products to me that I didn't order."
+      },
+      {
+        "id": 4,
+        "start": 14.619999885559082,
+        "end": 16.440000534057617,
+        "text": " This is a natural language AI."
+      },
+      {
+        "id": 5,
+        "start": 17.239999771118164,
+        "end": 18.860000610351562,
+        "text": " Just say what you would like to do."
+      },
+      {
+        "id": 6,
+        "start": 19.559999465942383,
+        "end": 22.979999542236328,
+        "text": " For example, track an order or send me to the billing department."
+      },
+      {
+        "id": 7,
+        "start": 24.020000457763672,
+        "end": 24.920000076293945,
+        "text": " Let's try again."
+      },
+      {
+        "id": 8,
+        "start": 25.579999923706055,
+        "end": 27.18000030517578,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 9,
+        "start": 30,
+        "end": 34.02000045776367,
+        "text": " You have sent me some products that I did not order, and you've billed my credit card for them."
+      },
+      {
+        "id": 10,
+        "start": 34.619998931884766,
+        "end": 36.599998474121094,
+        "text": " I would like to return them and get a refund."
+      },
+      {
+        "id": 11,
+        "start": 38.52000045776367,
+        "end": 38.84000015258789,
+        "text": " Thanks."
+      },
+      {
+        "id": 12,
+        "start": 38.84000015258789,
+        "end": 39.7400016784668,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8135-a48e-de18627c2638",
+    "url": "https://www.notion.so/300000001220092-300000001709963-2f511d0a101c8135a48ede18627c2638"
+  },
+  "processedAt": "2026-01-27T22:57:23.323Z"
+}

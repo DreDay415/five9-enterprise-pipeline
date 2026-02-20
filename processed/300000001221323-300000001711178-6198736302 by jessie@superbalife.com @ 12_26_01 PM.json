@@ -1,0 +1,230 @@
+{
+  "recording": {
+    "name": "300000001221323-300000001711178-6198736302 by jessie@superbalife.com @ 12_26_01 PM.wav",
+    "size": 190186,
+    "modifyTime": 1769632100000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221323-300000001711178-6198736302 by jessie@superbalife.com @ 12_26_01 PM.wav",
+    "uploadDate": "2026-01-28T20:28:20.000Z",
+    "callId": "300000001221323-300000001711178",
+    "agent": "jessie",
+    "phoneNumber": "6198736302",
+    "callTimestamp": "2026-01-28T12:26:01.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi. Thank you so much for calling Viagra. My name is Jessie. Can I get your first and last name?\n\nSpeaker 2: Wayne Schwartz.\n\nSpeaker 1: Perfect. And then Mr. Schwartz, let's see here, can I get your zip code?\n\nSpeaker 2: 92020.\n\nSpeaker 1: Okay, perfect. Thank you. One moment.\n\nSpeaker 2: Are you at 2449 Boyington Place, El Cajon, California?\n\nSpeaker 1: Correct.\n\nSpeaker 2: Awesome. What can I do for you, sir?\n\nSpeaker 1: I just made an order. And my understanding, is this a subscription I have to go with?\n\nSpeaker 2: No? It's just a one-time purchase and that's it?\n\nSpeaker 1: Right. So this is actually how yours is. The prescription is active and you can place an order at any time.\n\nSpeaker 2: Oh, okay.\n\nSpeaker 1: So, you know, you just pay, you know, order at will, on demand.\n\nSpeaker 2: Okay.\n\nSpeaker 1: However, to keep the prescription active, if you do not place an order in a six-month period,\n\nSpeaker 2: you are sent one refill for 10 pills and that's it. That just keeps your prescription active.\n\nSpeaker 1: Okay. Can I stop that right now? I just want to do it this time and then if I need to refill, I'll refill.\n\nSpeaker 2: I just want to make sure it doesn't hurt me or anything.\n\nSpeaker 1: No, absolutely. So here's a suggestion for you because once we cancel the prescription,\n\nSpeaker 2: unfortunately it cancels the prescription altogether and you can't, you know, use the refill.\n\nSpeaker 1: So my suggestion would be try the pills first and then determine if they're a fit for you or not.\n\nSpeaker 2: If they're not a fit for you, by all means, you're welcome to cancel.\n\nSpeaker 1: If they are a fit for you, then at least your prescription is still open.\n\nSpeaker 2: Okay. And I won't get any more until six months from now, right?\n\nSpeaker 1: Correct.\n\nSpeaker 2: Okay. I won't be charging next month for another.\n\nSpeaker 1: No, no, no.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: All right. Thank you very much. And who am I speaking to?\n\nSpeaker 1: My name is Jessie.\n\nSpeaker 2: Okay. Thank you very much.\n\nSpeaker 1: Have a good day.\n\nSpeaker 2: You too. Thank you.",
+    "duration": 5709,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi. Thank you so much for calling Viagra. My name is Jessie. Can I get your first and last name?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 7,
+        "text": " Wayne Schwartz."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 11,
+        "text": " Perfect. And then Mr. Schwartz, let's see here, can I get your zip code?"
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 14,
+        "text": " 92020."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 18,
+        "text": " Okay, perfect. Thank you. One moment."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 22,
+        "text": " Are you at 2449 Boyington Place, El Cajon, California?"
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 23,
+        "text": " Correct."
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 25,
+        "text": " Awesome. What can I do for you, sir?"
+      },
+      {
+        "id": 8,
+        "start": 25,
+        "end": 34,
+        "text": " I just made an order. And my understanding, is this a subscription I have to go with?"
+      },
+      {
+        "id": 9,
+        "start": 34,
+        "end": 37,
+        "text": " No? It's just a one-time purchase and that's it?"
+      },
+      {
+        "id": 10,
+        "start": 37,
+        "end": 45,
+        "text": " Right. So this is actually how yours is. The prescription is active and you can place an order at any time."
+      },
+      {
+        "id": 11,
+        "start": 45,
+        "end": 46,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 12,
+        "start": 46,
+        "end": 50,
+        "text": " So, you know, you just pay, you know, order at will, on demand."
+      },
+      {
+        "id": 13,
+        "start": 50,
+        "end": 51,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 51,
+        "end": 57,
+        "text": " However, to keep the prescription active, if you do not place an order in a six-month period,"
+      },
+      {
+        "id": 15,
+        "start": 57,
+        "end": 62,
+        "text": " you are sent one refill for 10 pills and that's it. That just keeps your prescription active."
+      },
+      {
+        "id": 16,
+        "start": 62,
+        "end": 69,
+        "text": " Okay. Can I stop that right now? I just want to do it this time and then if I need to refill, I'll refill."
+      },
+      {
+        "id": 17,
+        "start": 69,
+        "end": 74,
+        "text": " I just want to make sure it doesn't hurt me or anything."
+      },
+      {
+        "id": 18,
+        "start": 74,
+        "end": 79,
+        "text": " No, absolutely. So here's a suggestion for you because once we cancel the prescription,"
+      },
+      {
+        "id": 19,
+        "start": 79,
+        "end": 84,
+        "text": " unfortunately it cancels the prescription altogether and you can't, you know, use the refill."
+      },
+      {
+        "id": 20,
+        "start": 84,
+        "end": 89,
+        "text": " So my suggestion would be try the pills first and then determine if they're a fit for you or not."
+      },
+      {
+        "id": 21,
+        "start": 89,
+        "end": 91,
+        "text": " If they're not a fit for you, by all means, you're welcome to cancel."
+      },
+      {
+        "id": 22,
+        "start": 91,
+        "end": 95,
+        "text": " If they are a fit for you, then at least your prescription is still open."
+      },
+      {
+        "id": 23,
+        "start": 95,
+        "end": 99,
+        "text": " Okay. And I won't get any more until six months from now, right?"
+      },
+      {
+        "id": 24,
+        "start": 99,
+        "end": 100,
+        "text": " Correct."
+      },
+      {
+        "id": 25,
+        "start": 100,
+        "end": 104,
+        "text": " Okay. I won't be charging next month for another."
+      },
+      {
+        "id": 26,
+        "start": 104,
+        "end": 105,
+        "text": " No, no, no."
+      },
+      {
+        "id": 27,
+        "start": 105,
+        "end": 106,
+        "text": " Okay."
+      },
+      {
+        "id": 28,
+        "start": 106,
+        "end": 107,
+        "text": " All right."
+      },
+      {
+        "id": 29,
+        "start": 107,
+        "end": 111,
+        "text": " All right. Thank you very much. And who am I speaking to?"
+      },
+      {
+        "id": 30,
+        "start": 111,
+        "end": 112,
+        "text": " My name is Jessie."
+      },
+      {
+        "id": 31,
+        "start": 112,
+        "end": 114,
+        "text": " Okay. Thank you very much."
+      },
+      {
+        "id": 32,
+        "start": 114,
+        "end": 115,
+        "text": " Have a good day."
+      },
+      {
+        "id": 33,
+        "start": 115,
+        "end": 116,
+        "text": " You too. Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8122-ad35-de7a637db70d",
+    "url": "https://www.notion.so/300000001221323-300000001711178-2f611d0a101c8122ad35de7a637db70d"
+  },
+  "processedAt": "2026-01-28T23:03:11.769Z"
+}

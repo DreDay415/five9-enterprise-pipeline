@@ -1,0 +1,13 @@
+[Unit]
+Description=Five9 transcription pipeline (SFTP pull)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/srv/five9/app
+EnvironmentFile=/srv/five9/.env
+ExecStartPre=/usr/bin/mkdir -p /srv/five9/logs /srv/five9/incoming /srv/five9/processed /srv/five9/failed
+ExecStart=/usr/bin/flock -n /srv/five9/logs/transcribe.lock /usr/bin/node /srv/five9/app/dist/index.js
+StandardOutput=journal
+StandardError=journal

@@ -1,0 +1,404 @@
+{
+  "recording": {
+    "name": "300000001216335-300000001705802-8489921874 by josimar@superbalife.com @ 1_23_52 PM.wav",
+    "size": 264090,
+    "modifyTime": 1769582234000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216335-300000001705802-8489921874 by josimar@superbalife.com @ 1_23_52 PM.wav",
+    "uploadDate": "2026-01-28T06:37:14.000Z",
+    "callId": "300000001216335-300000001705802",
+    "agent": "josimar",
+    "phoneNumber": "8489921874",
+    "callTimestamp": "2026-01-28T13:23:52.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Biagra, I can help you today.\n\nSpeaker 2: Yeah, this is Leo Velez.\n\nSpeaker 1: I ordered the new Biagra, A-V-B, or whatever the thing is.\n\nSpeaker 2: And I got a generic Biagra.\n\nSpeaker 1: That's not what I ordered.\n\nSpeaker 2: Okay. Let me take a look into your account.\n\nSpeaker 1: What's your last name and a zip code?\n\nSpeaker 2: Yeah, the name is Velez.\n\nSpeaker 1: Last name is V-E-L-E-Z.\n\nSpeaker 2: Yeah, and your zip code?\n\nSpeaker 1: Yeah, it's 07734.\n\nSpeaker 2: Okay. So, I pulled you up here.\n\nSpeaker 1: Let me see what's going on here.\n\nSpeaker 2: Quick question.\n\nSpeaker 1: Do you have the bottle near you so you can just take a look\n\nSpeaker 2: at the pill real quick and tell me what it says on there?\n\nSpeaker 1: On the pill itself?\n\nSpeaker 2: Yeah, the engraving on the pill.\n\nSpeaker 1: I just wanted to confirm one thing because there's supposed\n\nSpeaker 2: to be a certain marking on the pill.\n\nSpeaker 1: Okay. So, you're saying that the label is wrong?\n\nSpeaker 2: No, I'm not saying the label is wrong.\n\nSpeaker 1: I just asked what the pill says on the pill.\n\nSpeaker 2: It says AC333.\n\nSpeaker 1: 339. AC339.\n\nSpeaker 2: Yeah. All right.\n\nSpeaker 1: So with that information,\n\nSpeaker 2: it confirmed the pharmacy didn't make a mistake.\n\nSpeaker 1: The only marking you should have seen\n\nSpeaker 2: on your pill is 50 for the dosage, and that's it.\n\nSpeaker 1: I'm going to go ahead and notify them and let them know\n\nSpeaker 2: that you're actually going to be not taking those\n\nSpeaker 1: because they sent the wrong one.\n\nSpeaker 2: And you'll receive the new order in three to four business days.\n\nSpeaker 1: Other than that, these new pills are going to say 50 on there.\n\nSpeaker 2: That's how you can identify it's the AGV.\n\nSpeaker 1: All right.\n\nSpeaker 2: So what do I do with these?\n\nSpeaker 1: Do I put them back?\n\nSpeaker 2: No, you just keep them, dispose of them.\n\nSpeaker 1: It's up to you.\n\nSpeaker 2: All right.\n\nSpeaker 1: So you're saying in three days, I should get the pill guy away?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: And your name is?\n\nSpeaker 2: Joe, J-O.\n\nSpeaker 1: Just Joe, huh?\n\nSpeaker 2: No last name?\n\nSpeaker 1: Joe?\n\nSpeaker 2: Yeah, no, no, no last name, but like my, I'm the only Joe\n\nSpeaker 1: in the office, so you'll be able to find me pretty quickly.\n\nSpeaker 2: All right.\n\nSpeaker 1: I hope you guys aren't running a scam.\n\nSpeaker 2: Well, if we were, why would I offer to send you the right stuff?\n\nSpeaker 1: I would just tell you that you got the right stuff.\n\nSpeaker 2: All right, Joe.\n\nSpeaker 1: I'm taking you for your word.\n\nSpeaker 2: Thanks a lot, man.\n\nSpeaker 1: No problem, sir.\n\nSpeaker 2: You have a great day now.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Yeah, you too.\n\nSpeaker 1: Bye-bye.",
+    "duration": 9599,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.4800000190734863,
+        "text": " Biagra, I can help you today."
+      },
+      {
+        "id": 1,
+        "start": 3.6600000858306885,
+        "end": 5.559999942779541,
+        "text": " Yeah, this is Leo Velez."
+      },
+      {
+        "id": 2,
+        "start": 5.559999942779541,
+        "end": 11.680000305175781,
+        "text": " I ordered the new Biagra, A-V-B, or whatever the thing is."
+      },
+      {
+        "id": 3,
+        "start": 12.020000457763672,
+        "end": 14.479999542236328,
+        "text": " And I got a generic Biagra."
+      },
+      {
+        "id": 4,
+        "start": 14.479999542236328,
+        "end": 15.5,
+        "text": " That's not what I ordered."
+      },
+      {
+        "id": 5,
+        "start": 15.5,
+        "end": 17.399999618530273,
+        "text": " Okay. Let me take a look into your account."
+      },
+      {
+        "id": 6,
+        "start": 17.559999465942383,
+        "end": 19.15999984741211,
+        "text": " What's your last name and a zip code?"
+      },
+      {
+        "id": 7,
+        "start": 19.860000610351562,
+        "end": 21.420000076293945,
+        "text": " Yeah, the name is Velez."
+      },
+      {
+        "id": 8,
+        "start": 21.420000076293945,
+        "end": 23.31999969482422,
+        "text": " Last name is V-E-L-E-Z."
+      },
+      {
+        "id": 9,
+        "start": 26.479999542236328,
+        "end": 27.5,
+        "text": " Yeah, and your zip code?"
+      },
+      {
+        "id": 10,
+        "start": 27.780000686645508,
+        "end": 30.6200008392334,
+        "text": " Yeah, it's 07734."
+      },
+      {
+        "id": 11,
+        "start": 30.6200008392334,
+        "end": 33.02000045776367,
+        "text": " Okay. So, I pulled you up here."
+      },
+      {
+        "id": 12,
+        "start": 33.02000045776367,
+        "end": 34.63999938964844,
+        "text": " Let me see what's going on here."
+      },
+      {
+        "id": 13,
+        "start": 34.63999938964844,
+        "end": 35.5,
+        "text": " Quick question."
+      },
+      {
+        "id": 14,
+        "start": 35.5,
+        "end": 37.459999084472656,
+        "text": " Do you have the bottle near you so you can just take a look"
+      },
+      {
+        "id": 15,
+        "start": 37.459999084472656,
+        "end": 39.560001373291016,
+        "text": " at the pill real quick and tell me what it says on there?"
+      },
+      {
+        "id": 16,
+        "start": 40.52000045776367,
+        "end": 41.779998779296875,
+        "text": " On the pill itself?"
+      },
+      {
+        "id": 17,
+        "start": 42.15999984741211,
+        "end": 43.65999984741211,
+        "text": " Yeah, the engraving on the pill."
+      },
+      {
+        "id": 18,
+        "start": 43.65999984741211,
+        "end": 46.2599983215332,
+        "text": " I just wanted to confirm one thing because there's supposed"
+      },
+      {
+        "id": 19,
+        "start": 46.2599983215332,
+        "end": 47.779998779296875,
+        "text": " to be a certain marking on the pill."
+      },
+      {
+        "id": 20,
+        "start": 52.400001525878906,
+        "end": 54.540000915527344,
+        "text": " Okay. So, you're saying that the label is wrong?"
+      },
+      {
+        "id": 21,
+        "start": 55.540000915527344,
+        "end": 57.2599983215332,
+        "text": " No, I'm not saying the label is wrong."
+      },
+      {
+        "id": 22,
+        "start": 57.2599983215332,
+        "end": 59.900001525878906,
+        "text": " I just asked what the pill says on the pill."
+      },
+      {
+        "id": 23,
+        "start": 60.2599983215332,
+        "end": 68.16000366210938,
+        "text": " It says AC333."
+      },
+      {
+        "id": 24,
+        "start": 83.72000122070312,
+        "end": 86.58000183105469,
+        "text": " 339. AC339."
+      },
+      {
+        "id": 25,
+        "start": 88.22000122070312,
+        "end": 89.18000030517578,
+        "text": " Yeah. All right."
+      },
+      {
+        "id": 26,
+        "start": 89.18000030517578,
+        "end": 90.12000274658203,
+        "text": " So with that information,"
+      },
+      {
+        "id": 27,
+        "start": 90.12000274658203,
+        "end": 92.05999755859375,
+        "text": " it confirmed the pharmacy didn't make a mistake."
+      },
+      {
+        "id": 28,
+        "start": 92.54000091552734,
+        "end": 93.86000061035156,
+        "text": " The only marking you should have seen"
+      },
+      {
+        "id": 29,
+        "start": 93.86000061035156,
+        "end": 96.31999969482422,
+        "text": " on your pill is 50 for the dosage, and that's it."
+      },
+      {
+        "id": 30,
+        "start": 96.86000061035156,
+        "end": 99.18000030517578,
+        "text": " I'm going to go ahead and notify them and let them know"
+      },
+      {
+        "id": 31,
+        "start": 99.18000030517578,
+        "end": 102.68000030517578,
+        "text": " that you're actually going to be not taking those"
+      },
+      {
+        "id": 32,
+        "start": 102.68000030517578,
+        "end": 103.73999786376953,
+        "text": " because they sent the wrong one."
+      },
+      {
+        "id": 33,
+        "start": 104.31999969482422,
+        "end": 106.77999877929688,
+        "text": " And you'll receive the new order in three to four business days."
+      },
+      {
+        "id": 34,
+        "start": 106.94000244140625,
+        "end": 110.77999877929688,
+        "text": " Other than that, these new pills are going to say 50 on there."
+      },
+      {
+        "id": 35,
+        "start": 110.94000244140625,
+        "end": 112.9000015258789,
+        "text": " That's how you can identify it's the AGV."
+      },
+      {
+        "id": 36,
+        "start": 112.9000015258789,
+        "end": 115.23999786376953,
+        "text": " All right."
+      },
+      {
+        "id": 37,
+        "start": 115.23999786376953,
+        "end": 116.30000305175781,
+        "text": " So what do I do with these?"
+      },
+      {
+        "id": 38,
+        "start": 116.30000305175781,
+        "end": 118.66000366210938,
+        "text": " Do I put them back?"
+      },
+      {
+        "id": 39,
+        "start": 118.66000366210938,
+        "end": 120.33999633789062,
+        "text": " No, you just keep them, dispose of them."
+      },
+      {
+        "id": 40,
+        "start": 120.33999633789062,
+        "end": 120.83999633789062,
+        "text": " It's up to you."
+      },
+      {
+        "id": 41,
+        "start": 120.83999633789062,
+        "end": 123.58000183105469,
+        "text": " All right."
+      },
+      {
+        "id": 42,
+        "start": 123.58000183105469,
+        "end": 127.73999786376953,
+        "text": " So you're saying in three days, I should get the pill guy away?"
+      },
+      {
+        "id": 43,
+        "start": 128.86000061035156,
+        "end": 129.36000061035156,
+        "text": " Yeah."
+      },
+      {
+        "id": 44,
+        "start": 130.4199981689453,
+        "end": 131.44000244140625,
+        "text": " And your name is?"
+      },
+      {
+        "id": 45,
+        "start": 132.1999969482422,
+        "end": 133.05999755859375,
+        "text": " Joe, J-O."
+      },
+      {
+        "id": 46,
+        "start": 134.36000061035156,
+        "end": 135.16000366210938,
+        "text": " Just Joe, huh?"
+      },
+      {
+        "id": 47,
+        "start": 135.25999450683594,
+        "end": 136.10000610351562,
+        "text": " No last name?"
+      },
+      {
+        "id": 48,
+        "start": 136.24000549316406,
+        "end": 136.74000549316406,
+        "text": " Joe?"
+      },
+      {
+        "id": 49,
+        "start": 136.74000549316406,
+        "end": 140.13999938964844,
+        "text": " Yeah, no, no, no last name, but like my, I'm the only Joe"
+      },
+      {
+        "id": 50,
+        "start": 140.13999938964844,
+        "end": 142.0800018310547,
+        "text": " in the office, so you'll be able to find me pretty quickly."
+      },
+      {
+        "id": 51,
+        "start": 143.13999938964844,
+        "end": 143.63999938964844,
+        "text": " All right."
+      },
+      {
+        "id": 52,
+        "start": 143.63999938964844,
+        "end": 145.25999450683594,
+        "text": " I hope you guys aren't running a scam."
+      },
+      {
+        "id": 53,
+        "start": 145.9199981689453,
+        "end": 148.67999267578125,
+        "text": " Well, if we were, why would I offer to send you the right stuff?"
+      },
+      {
+        "id": 54,
+        "start": 149.60000610351562,
+        "end": 151.47999572753906,
+        "text": " I would just tell you that you got the right stuff."
+      },
+      {
+        "id": 55,
+        "start": 151.47999572753906,
+        "end": 154.9600067138672,
+        "text": " All right, Joe."
+      },
+      {
+        "id": 56,
+        "start": 154.9600067138672,
+        "end": 156.74000549316406,
+        "text": " I'm taking you for your word."
+      },
+      {
+        "id": 57,
+        "start": 156.74000549316406,
+        "end": 157.83999633789062,
+        "text": " Thanks a lot, man."
+      },
+      {
+        "id": 58,
+        "start": 157.89999389648438,
+        "end": 158.60000610351562,
+        "text": " No problem, sir."
+      },
+      {
+        "id": 59,
+        "start": 158.60000610351562,
+        "end": 159.4199981689453,
+        "text": " You have a great day now."
+      },
+      {
+        "id": 60,
+        "start": 159.60000610351562,
+        "end": 160.10000610351562,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 61,
+        "start": 160.39999389648438,
+        "end": 161,
+        "text": " Yeah, you too."
+      },
+      {
+        "id": 62,
+        "start": 161,
+        "end": 161.5,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8131-9a73-f3116ec37c28",
+    "url": "https://www.notion.so/300000001216335-300000001705802-2f611d0a101c81319a73f3116ec37c28"
+  },
+  "processedAt": "2026-01-28T17:31:10.127Z"
+}

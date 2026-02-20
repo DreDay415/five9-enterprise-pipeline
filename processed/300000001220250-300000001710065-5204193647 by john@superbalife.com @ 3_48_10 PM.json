@@ -1,0 +1,248 @@
+{
+  "recording": {
+    "name": "300000001220250-300000001710065-5204193647 by john@superbalife.com @ 3_48_10 PM.wav",
+    "size": 188170,
+    "modifyTime": 1769557828000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220250-300000001710065-5204193647 by john@superbalife.com @ 3_48_10 PM.wav",
+    "uploadDate": "2026-01-27T23:50:28.000Z",
+    "callId": "300000001220250-300000001710065",
+    "agent": "john",
+    "phoneNumber": "5204193647",
+    "callTimestamp": "2026-01-27T15:48:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling, this is John, how can I help you?\n\nSpeaker 2: Hey John, my name is Jerry Duffy and I had shut off a script for Tadatafil, 865-58-59.\n\nSpeaker 1: Oh, unfortunately that doesn't help me, your zip code?\n\nSpeaker 2: 85735.\n\nSpeaker 1: Bantry Lane?\n\nSpeaker 2: That's me?\n\nSpeaker 1: Yeah, I do see that you had ordered from us in the past, yes.\n\nSpeaker 2: Yeah, I'd like to get that re-activated.\n\nSpeaker 1: Okay, for the Cialis again?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And is it still the same price?\n\nSpeaker 1: If you keep it on like a recurring, I can give it to you the same price.\n\nSpeaker 2: It's not now, but if you keep it on the recurring, I can give it to you the same price.\n\nSpeaker 1: Okay, that'll work.\n\nSpeaker 2: Do you want it monthly?\n\nSpeaker 1: That'd be great.\n\nSpeaker 2: Okay.\n\nSpeaker 1: And I assume sticking to 20 milligrams, right?\n\nSpeaker 2: That's correct.\n\nSpeaker 1: Okay, so it'll be locked in at 80 bucks for you again.\n\nSpeaker 2: Whenever you're ready, I'll take your card, sir.\n\nSpeaker 1: 4452-0869-2356-7543.\n\nSpeaker 2: And the number on the back is 021.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: And expiration?\n\nSpeaker 1: 11-28.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay, we're all set.\n\nSpeaker 2: Your order went through.\n\nSpeaker 1: We're just going to update the script or renew it for you, rather, and then we'll ship these out.\n\nSpeaker 2: Okay, beautiful.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thanks.\n\nSpeaker 1: Have a good one.\n\nSpeaker 2: You too.\n\nSpeaker 1: Bye-bye.",
+    "duration": 3720,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you for calling, this is John, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 16,
+        "text": " Hey John, my name is Jerry Duffy and I had shut off a script for Tadatafil, 865-58-59."
+      },
+      {
+        "id": 2,
+        "start": 16,
+        "end": 19,
+        "text": " Oh, unfortunately that doesn't help me, your zip code?"
+      },
+      {
+        "id": 3,
+        "start": 19,
+        "end": 27,
+        "text": " 85735."
+      },
+      {
+        "id": 4,
+        "start": 27,
+        "end": 29,
+        "text": " Bantry Lane?"
+      },
+      {
+        "id": 5,
+        "start": 29,
+        "end": 30,
+        "text": " That's me?"
+      },
+      {
+        "id": 6,
+        "start": 30,
+        "end": 34,
+        "text": " Yeah, I do see that you had ordered from us in the past, yes."
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 38,
+        "text": " Yeah, I'd like to get that re-activated."
+      },
+      {
+        "id": 8,
+        "start": 38,
+        "end": 40,
+        "text": " Okay, for the Cialis again?"
+      },
+      {
+        "id": 9,
+        "start": 40,
+        "end": 42,
+        "text": " Yeah."
+      },
+      {
+        "id": 10,
+        "start": 42,
+        "end": 44,
+        "text": " Okay."
+      },
+      {
+        "id": 11,
+        "start": 44,
+        "end": 47,
+        "text": " And is it still the same price?"
+      },
+      {
+        "id": 12,
+        "start": 47,
+        "end": 52,
+        "text": " If you keep it on like a recurring, I can give it to you the same price."
+      },
+      {
+        "id": 13,
+        "start": 52,
+        "end": 55,
+        "text": " It's not now, but if you keep it on the recurring, I can give it to you the same price."
+      },
+      {
+        "id": 14,
+        "start": 55,
+        "end": 57,
+        "text": " Okay, that'll work."
+      },
+      {
+        "id": 15,
+        "start": 57,
+        "end": 59,
+        "text": " Do you want it monthly?"
+      },
+      {
+        "id": 16,
+        "start": 59,
+        "end": 61,
+        "text": " That'd be great."
+      },
+      {
+        "id": 17,
+        "start": 61,
+        "end": 66,
+        "text": " Okay."
+      },
+      {
+        "id": 18,
+        "start": 66,
+        "end": 69,
+        "text": " And I assume sticking to 20 milligrams, right?"
+      },
+      {
+        "id": 19,
+        "start": 69,
+        "end": 70,
+        "text": " That's correct."
+      },
+      {
+        "id": 20,
+        "start": 70,
+        "end": 74,
+        "text": " Okay, so it'll be locked in at 80 bucks for you again."
+      },
+      {
+        "id": 21,
+        "start": 74,
+        "end": 77,
+        "text": " Whenever you're ready, I'll take your card, sir."
+      },
+      {
+        "id": 22,
+        "start": 77,
+        "end": 90,
+        "text": " 4452-0869-2356-7543."
+      },
+      {
+        "id": 23,
+        "start": 90,
+        "end": 93,
+        "text": " And the number on the back is 021."
+      },
+      {
+        "id": 24,
+        "start": 93,
+        "end": 94,
+        "text": " Thank you."
+      },
+      {
+        "id": 25,
+        "start": 94,
+        "end": 96,
+        "text": " And expiration?"
+      },
+      {
+        "id": 26,
+        "start": 96,
+        "end": 98,
+        "text": " 11-28."
+      },
+      {
+        "id": 27,
+        "start": 98,
+        "end": 105,
+        "text": " Thank you."
+      },
+      {
+        "id": 28,
+        "start": 105,
+        "end": 106,
+        "text": " Okay, we're all set."
+      },
+      {
+        "id": 29,
+        "start": 106,
+        "end": 107,
+        "text": " Your order went through."
+      },
+      {
+        "id": 30,
+        "start": 107,
+        "end": 111,
+        "text": " We're just going to update the script or renew it for you, rather, and then we'll ship these out."
+      },
+      {
+        "id": 31,
+        "start": 111,
+        "end": 112,
+        "text": " Okay, beautiful."
+      },
+      {
+        "id": 32,
+        "start": 112,
+        "end": 113,
+        "text": " Thank you."
+      },
+      {
+        "id": 33,
+        "start": 113,
+        "end": 114,
+        "text": " Thanks."
+      },
+      {
+        "id": 34,
+        "start": 114,
+        "end": 115,
+        "text": " Have a good one."
+      },
+      {
+        "id": 35,
+        "start": 115,
+        "end": 116,
+        "text": " You too."
+      },
+      {
+        "id": 36,
+        "start": 116,
+        "end": 117,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813d-abcf-eaf55d3184f1",
+    "url": "https://www.notion.so/300000001220250-300000001710065-2f611d0a101c813dabcfeaf55d3184f1"
+  },
+  "processedAt": "2026-01-28T17:51:04.033Z"
+}

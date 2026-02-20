@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001218305-300000001708323-5054133896 by  @ 2_17_29 PM_CallStudio.wav",
+    "size": 26320,
+    "modifyTime": 1769583136000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218305-300000001708323-5054133896 by  @ 2_17_29 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T06:52:16.000Z",
+    "callId": "300000001218305-300000001708323",
+    "phoneNumber": "5054133896",
+    "callTimestamp": "2026-01-28T06:52:16.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español marque numero nueve.\n\nSpeaker 2: I need a reorder of something?\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1614,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.119999885559082,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.119999885559082,
+        "end": 7.119999885559082,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.119999885559082,
+        "end": 11.680000305175781,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 11.680000305175781,
+        "end": 14.680000305175781,
+        "text": " I need a reorder of something?"
+      },
+      {
+        "id": 4,
+        "start": 14.680000305175781,
+        "end": 15.880000114440918,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8149-9020-d9cec24f082f",
+    "url": "https://www.notion.so/300000001218305-300000001708323-2f611d0a101c81499020d9cec24f082f"
+  },
+  "processedAt": "2026-01-28T16:29:14.910Z"
+}

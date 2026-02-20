@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "name": "300000001236107-300000001726537-9122933263 by charles@superbalife.com @ 7_54_45 AM.wav",
+    "size": 4026,
+    "modifyTime": 1770738893000,
+    "remotePath": "/five9sftp/upload/SB CS/2_10_2026/300000001236107-300000001726537-9122933263 by charles@superbalife.com @ 7_54_45 AM.wav",
+    "uploadDate": "2026-02-10T15:54:53.000Z",
+    "callId": "300000001236107-300000001726537",
+    "agent": "charles",
+    "phoneNumber": "9122933263",
+    "callTimestamp": "2026-02-10T07:54:45.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: This is John, if you'll leave your name.",
+    "duration": 891,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.5,
+        "text": " This is John, if you'll leave your name."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30311d0a-101c-81e4-9c5d-c9fec4fb790b",
+    "url": "https://www.notion.so/300000001236107-300000001726537-30311d0a101c81e49c5dc9fec4fb790b"
+  },
+  "processedAt": "2026-02-10T16:02:01.443Z"
+}

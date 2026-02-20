@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "name": "300000001217211-300000001707611-9208407794 by michelleh@superbalife.com @ 9_32_10 AM.wav",
+    "size": 8056,
+    "modifyTime": 1769585833000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217211-300000001707611-9208407794 by michelleh@superbalife.com @ 9_32_10 AM.wav",
+    "uploadDate": "2026-01-28T07:37:13.000Z",
+    "callId": "300000001217211-300000001707611",
+    "agent": "michelleh",
+    "phoneNumber": "9208407794",
+    "callTimestamp": "2026-01-28T09:32:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Bye.",
+    "duration": 603,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 0.8399999737739563,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81cb-915c-c88acc1ae81c",
+    "url": "https://www.notion.so/300000001217211-300000001707611-2f611d0a101c81cb915cc88acc1ae81c"
+  },
+  "processedAt": "2026-01-28T14:12:44.755Z"
+}

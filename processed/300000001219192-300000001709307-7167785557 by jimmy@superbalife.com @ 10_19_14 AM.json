@@ -1,0 +1,230 @@
+{
+  "recording": {
+    "name": "300000001219192-300000001709307-7167785557 by jimmy@superbalife.com @ 10_19_14 AM.wav",
+    "size": 216186,
+    "modifyTime": 1769587931000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219192-300000001709307-7167785557 by jimmy@superbalife.com @ 10_19_14 AM.wav",
+    "uploadDate": "2026-01-28T08:12:11.000Z",
+    "callId": "300000001219192-300000001709307",
+    "agent": "jimmy",
+    "phoneNumber": "7167785557",
+    "callTimestamp": "2026-01-28T10:19:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Jimmy. How can I help you today?\n\nSpeaker 2: Yeah, I want to cancel my subscription.\n\nSpeaker 1: Okay, let me pull up your information there and see if I can help you with that.\n\nSpeaker 2: I'm pretty sure I can. Give me one second.\n\nSpeaker 1: Trying to pull you up with your phone number. Is this Bruce I'm speaking to?\n\nSpeaker 2: Yes.\n\nSpeaker 1: All right, Bruce. I do have you up. I'm looking at your account.\n\nSpeaker 2: I do see that you're currently getting the Viagra 50 milligrams.\n\nSpeaker 1: It looks like that you're getting 40 of them every three months.\n\nSpeaker 2: Can I ask you any reason why you want to cancel, Bruce, if you don't mind?\n\nSpeaker 1: Yeah, because I'm just not using them.\n\nSpeaker 2: Okay, not a problem. I see you're getting a large quantity there, too.\n\nSpeaker 1: What I can do for you, Bruce, to help you out here to keep your subscription.\n\nSpeaker 2: No, no, no, no, no, no, no, no, no, no, no. Just cancel my subscription, please.\n\nSpeaker 1: Okay, not a problem. We're going to cancel. I do have to tell you, by you cancelling your subscription,\n\nSpeaker 2: that means you will not be able to order from us in the future because we do have to have a prescription on file.\n\nSpeaker 1: That's why I was just going to recommend that we can still postpone it.\n\nSpeaker 2: It's fine. It's fine. No problem.\n\nSpeaker 1: All right. I'll go ahead and take care of that for you.\n\nSpeaker 2: I do see you just had an order recently shipped out to you, and I will stop all future orders going out.\n\nSpeaker 1: How are the pills working for you? I'm just curious, the 50 milligrams, when you were using them.\n\nSpeaker 2: Yeah, so I don't even know if I used any of them.\n\nSpeaker 1: Okay. All right.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Not a problem. So I went ahead and took care of that for you, Bruce.\n\nSpeaker 2: Unfortunately, because we are on a first-come, first-served basis, and we typically are sold out for any canceled prescriptions\n\nSpeaker 1: because we only take care of our prescriptions that are active and any new orders.\n\nSpeaker 2: So if you did in the future want to order, we've got to tell you to order from us.\n\nSpeaker 1: Okay?\n\nSpeaker 2: I'm good. I appreciate it.\n\nSpeaker 1: All right. Not a problem. I'll just take care of it for you. You're all done.\n\nSpeaker 2: Thanks a lot.\n\nSpeaker 1: All right. Have a good one.\n\nSpeaker 2: Thanks. Bye. You too.",
+    "duration": 5308,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra. This is Jimmy. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " Yeah, I want to cancel my subscription."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 10,
+        "text": " Okay, let me pull up your information there and see if I can help you with that."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 18,
+        "text": " I'm pretty sure I can. Give me one second."
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 22,
+        "text": " Trying to pull you up with your phone number. Is this Bruce I'm speaking to?"
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 23,
+        "text": " Yes."
+      },
+      {
+        "id": 6,
+        "start": 23,
+        "end": 27,
+        "text": " All right, Bruce. I do have you up. I'm looking at your account."
+      },
+      {
+        "id": 7,
+        "start": 27,
+        "end": 30,
+        "text": " I do see that you're currently getting the Viagra 50 milligrams."
+      },
+      {
+        "id": 8,
+        "start": 30,
+        "end": 34,
+        "text": " It looks like that you're getting 40 of them every three months."
+      },
+      {
+        "id": 9,
+        "start": 34,
+        "end": 38,
+        "text": " Can I ask you any reason why you want to cancel, Bruce, if you don't mind?"
+      },
+      {
+        "id": 10,
+        "start": 38,
+        "end": 42,
+        "text": " Yeah, because I'm just not using them."
+      },
+      {
+        "id": 11,
+        "start": 42,
+        "end": 49,
+        "text": " Okay, not a problem. I see you're getting a large quantity there, too."
+      },
+      {
+        "id": 12,
+        "start": 49,
+        "end": 54,
+        "text": " What I can do for you, Bruce, to help you out here to keep your subscription."
+      },
+      {
+        "id": 13,
+        "start": 54,
+        "end": 59,
+        "text": " No, no, no, no, no, no, no, no, no, no, no. Just cancel my subscription, please."
+      },
+      {
+        "id": 14,
+        "start": 59,
+        "end": 63,
+        "text": " Okay, not a problem. We're going to cancel. I do have to tell you, by you cancelling your subscription,"
+      },
+      {
+        "id": 15,
+        "start": 63,
+        "end": 69,
+        "text": " that means you will not be able to order from us in the future because we do have to have a prescription on file."
+      },
+      {
+        "id": 16,
+        "start": 69,
+        "end": 71,
+        "text": " That's why I was just going to recommend that we can still postpone it."
+      },
+      {
+        "id": 17,
+        "start": 71,
+        "end": 74,
+        "text": " It's fine. It's fine. No problem."
+      },
+      {
+        "id": 18,
+        "start": 74,
+        "end": 80,
+        "text": " All right. I'll go ahead and take care of that for you."
+      },
+      {
+        "id": 19,
+        "start": 80,
+        "end": 86,
+        "text": " I do see you just had an order recently shipped out to you, and I will stop all future orders going out."
+      },
+      {
+        "id": 20,
+        "start": 86,
+        "end": 93,
+        "text": " How are the pills working for you? I'm just curious, the 50 milligrams, when you were using them."
+      },
+      {
+        "id": 21,
+        "start": 93,
+        "end": 98,
+        "text": " Yeah, so I don't even know if I used any of them."
+      },
+      {
+        "id": 22,
+        "start": 98,
+        "end": 101,
+        "text": " Okay. All right."
+      },
+      {
+        "id": 23,
+        "start": 101,
+        "end": 102,
+        "text": " Yeah."
+      },
+      {
+        "id": 24,
+        "start": 102,
+        "end": 105,
+        "text": " Not a problem. So I went ahead and took care of that for you, Bruce."
+      },
+      {
+        "id": 25,
+        "start": 106,
+        "end": 113,
+        "text": " Unfortunately, because we are on a first-come, first-served basis, and we typically are sold out for any canceled prescriptions"
+      },
+      {
+        "id": 26,
+        "start": 113,
+        "end": 117,
+        "text": " because we only take care of our prescriptions that are active and any new orders."
+      },
+      {
+        "id": 27,
+        "start": 117,
+        "end": 121,
+        "text": " So if you did in the future want to order, we've got to tell you to order from us."
+      },
+      {
+        "id": 28,
+        "start": 121,
+        "end": 122,
+        "text": " Okay?"
+      },
+      {
+        "id": 29,
+        "start": 122,
+        "end": 124,
+        "text": " I'm good. I appreciate it."
+      },
+      {
+        "id": 30,
+        "start": 124,
+        "end": 127,
+        "text": " All right. Not a problem. I'll just take care of it for you. You're all done."
+      },
+      {
+        "id": 31,
+        "start": 127,
+        "end": 128,
+        "text": " Thanks a lot."
+      },
+      {
+        "id": 32,
+        "start": 128,
+        "end": 129,
+        "text": " All right. Have a good one."
+      },
+      {
+        "id": 33,
+        "start": 129,
+        "end": 132,
+        "text": " Thanks. Bye. You too."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-817f-9ee8-c893680a0471",
+    "url": "https://www.notion.so/300000001219192-300000001709307-2f611d0a101c817f9ee8c893680a0471"
+  },
+  "processedAt": "2026-01-28T13:13:43.879Z"
+}

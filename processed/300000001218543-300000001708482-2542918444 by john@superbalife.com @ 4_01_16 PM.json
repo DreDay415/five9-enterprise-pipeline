@@ -1,0 +1,44 @@
+{
+  "recording": {
+    "name": "300000001218543-300000001708482-2542918444 by john@superbalife.com @ 4_01_16 PM.wav",
+    "size": 23720,
+    "modifyTime": 1769585530000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218543-300000001708482-2542918444 by john@superbalife.com @ 4_01_16 PM.wav",
+    "uploadDate": "2026-01-28T07:32:10.000Z",
+    "callId": "300000001218543-300000001708482",
+    "agent": "john",
+    "phoneNumber": "2542918444",
+    "callTimestamp": "2026-01-28T16:01:16.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Yes. I need to cancel my prescription.\n\nSpeaker 1: Okay. Let me get you to somebody that will help you out with that. One second.",
+    "duration": 1605,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Yes. I need to cancel my prescription."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " Okay. Let me get you to somebody that will help you out with that one second."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8123-9c29-d7337f49754f",
+    "url": "https://www.notion.so/300000001218543-300000001708482-2f611d0a101c81239c29d7337f49754f"
+  },
+  "processedAt": "2026-01-28T14:18:11.677Z"
+}

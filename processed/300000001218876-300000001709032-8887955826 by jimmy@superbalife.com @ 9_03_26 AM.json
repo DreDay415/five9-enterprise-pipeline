@@ -1,0 +1,398 @@
+{
+  "recording": {
+    "name": "300000001218876-300000001709032-8887955826 by jimmy@superbalife.com @ 9_03_26 AM.wav",
+    "size": 272800,
+    "modifyTime": 1769591236000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218876-300000001709032-8887955826 by jimmy@superbalife.com @ 9_03_26 AM.wav",
+    "uploadDate": "2026-01-28T09:07:16.000Z",
+    "callId": "300000001218876-300000001709032",
+    "agent": "jimmy",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T09:03:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Jimmy. How can I help you today?\n\nSpeaker 2: Hi. I'm calling regarding to cancel my subscription.\n\nSpeaker 1: Okay. It looks like you have transferred over to me.\n\nSpeaker 2: Can I get your phone number that your account is under, please?\n\nSpeaker 1: Yes. My phone number is 801-661-2327.\n\nSpeaker 2: My name is Rafael Tronco.\n\nSpeaker 1: Okay, Rafael. Let me see what's going on.\n\nSpeaker 2: All right. I was able to pull you up, Rafael. Give me one second.\n\nSpeaker 1: I see that you're getting the Viagra, the 50 milligrams.\n\nSpeaker 2: It looks like you're getting 10.\n\nSpeaker 1: Your prescription had them coming to you every month.\n\nSpeaker 2: Let me go ahead and try to take care of your request, please,\n\nSpeaker 1: and see what I can do to help you.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, Rafael. Thank you for waiting for me.\n\nSpeaker 2: I was able to stop that monthly shipment,\n\nSpeaker 1: and I also stopped the monthly refills that was included with your prescription,\n\nSpeaker 2: and I also stopped those monthly charges as well.\n\nSpeaker 1: Now, I did notice that you were VIP with this,\n\nSpeaker 2: and you were getting the Viagra 50 milligrams,\n\nSpeaker 1: and it looks like your prescription had you getting them 10 every month.\n\nSpeaker 2: Was that too frequently for you,\n\nSpeaker 1: or why did you want to cancel if you don't mind me asking?\n\nSpeaker 2: Okay. The reason that I need to cancel it is because I still have two bottles.\n\nSpeaker 1: I'm not using it very often, but I will order again when I need it,\n\nSpeaker 2: just when I need it.\n\nSpeaker 1: Let me do this for you, Rafael.\n\nSpeaker 2: It's good. It's a good product, and I like it,\n\nSpeaker 1: but I have two bottles right now that I want to keep receiving for now,\n\nSpeaker 2: just when I call again.\n\nSpeaker 1: All right, Rafael.\n\nSpeaker 2: Then what I would like to do for you,\n\nSpeaker 1: is if you just totally cancel your prescription altogether,\n\nSpeaker 2: you couldn't be able to reorder in the future,\n\nSpeaker 1: but I can pause your account so you're not getting them every month.\n\nSpeaker 2: No, no.\n\nSpeaker 1: That's not a problem, because if we just cancel,\n\nSpeaker 2: that means you wouldn't be able to order in the future.\n\nSpeaker 1: So that's why I'm trying to help you out,\n\nSpeaker 2: because your prescription would be canceled,\n\nSpeaker 1: and they're going to mock the account that you had a prescription with it,\n\nSpeaker 2: that you just totally terminated,\n\nSpeaker 1: and they're not going to let you order in the future.\n\nSpeaker 2: Rather than if you just pause, like I can pause it for like six months,\n\nSpeaker 1: so you're not getting it every month.\n\nSpeaker 2: No.\n\nSpeaker 1: Okay?\n\nSpeaker 2: No, I don't want you to pause it. No, just cancel it.\n\nSpeaker 1: Okay, so that means you are aware that you won't be able to order in the future.\n\nSpeaker 2: That's fine. I understand.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I understand that.\n\nSpeaker 2: All right, not a problem.\n\nSpeaker 1: We're going to take care of your request for you.\n\nSpeaker 2: Okay?\n\nSpeaker 1: All right, it's been done.\n\nSpeaker 2: Okay, perfect.\n\nSpeaker 1: Thank you so much.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Take care.\n\nSpeaker 2: Bye-bye.",
+    "duration": 6382,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra. This is Jimmy. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10,
+        "text": " Hi. I'm calling regarding to cancel my subscription."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 12,
+        "text": " Okay. It looks like you have transferred over to me."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 15,
+        "text": " Can I get your phone number that your account is under, please?"
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 22,
+        "text": " Yes. My phone number is 801-661-2327."
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 25,
+        "text": " My name is Rafael Tronco."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 27,
+        "text": " Okay, Rafael. Let me see what's going on."
+      },
+      {
+        "id": 7,
+        "start": 27,
+        "end": 30,
+        "text": " All right. I was able to pull you up, Rafael. Give me one second."
+      },
+      {
+        "id": 8,
+        "start": 30,
+        "end": 32,
+        "text": " I see that you're getting the Viagra, the 50 milligrams."
+      },
+      {
+        "id": 9,
+        "start": 32,
+        "end": 34,
+        "text": " It looks like you're getting 10."
+      },
+      {
+        "id": 10,
+        "start": 34,
+        "end": 38,
+        "text": " Your prescription had them coming to you every month."
+      },
+      {
+        "id": 11,
+        "start": 38,
+        "end": 40,
+        "text": " Let me go ahead and try to take care of your request, please,"
+      },
+      {
+        "id": 12,
+        "start": 40,
+        "end": 42,
+        "text": " and see what I can do to help you."
+      },
+      {
+        "id": 13,
+        "start": 42,
+        "end": 48,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 48,
+        "end": 50,
+        "text": " All right, Rafael. Thank you for waiting for me."
+      },
+      {
+        "id": 15,
+        "start": 50,
+        "end": 53,
+        "text": " I was able to stop that monthly shipment,"
+      },
+      {
+        "id": 16,
+        "start": 54,
+        "end": 58,
+        "text": " and I also stopped the monthly refills that was included with your prescription,"
+      },
+      {
+        "id": 17,
+        "start": 58,
+        "end": 61,
+        "text": " and I also stopped those monthly charges as well."
+      },
+      {
+        "id": 18,
+        "start": 61,
+        "end": 64,
+        "text": " Now, I did notice that you were VIP with this,"
+      },
+      {
+        "id": 19,
+        "start": 64,
+        "end": 66,
+        "text": " and you were getting the Viagra 50 milligrams,"
+      },
+      {
+        "id": 20,
+        "start": 66,
+        "end": 69,
+        "text": " and it looks like your prescription had you getting them 10 every month."
+      },
+      {
+        "id": 21,
+        "start": 69,
+        "end": 71,
+        "text": " Was that too frequently for you,"
+      },
+      {
+        "id": 22,
+        "start": 71,
+        "end": 74,
+        "text": " or why did you want to cancel if you don't mind me asking?"
+      },
+      {
+        "id": 23,
+        "start": 74,
+        "end": 81,
+        "text": " Okay. The reason that I need to cancel it is because I still have two bottles."
+      },
+      {
+        "id": 24,
+        "start": 81,
+        "end": 89,
+        "text": " I'm not using it very often, but I will order again when I need it,"
+      },
+      {
+        "id": 25,
+        "start": 89,
+        "end": 91,
+        "text": " just when I need it."
+      },
+      {
+        "id": 26,
+        "start": 91,
+        "end": 93,
+        "text": " Let me do this for you, Rafael."
+      },
+      {
+        "id": 27,
+        "start": 93,
+        "end": 96,
+        "text": " It's good. It's a good product, and I like it,"
+      },
+      {
+        "id": 28,
+        "start": 96,
+        "end": 102,
+        "text": " but I have two bottles right now that I want to keep receiving for now,"
+      },
+      {
+        "id": 29,
+        "start": 102,
+        "end": 105,
+        "text": " just when I call again."
+      },
+      {
+        "id": 30,
+        "start": 105,
+        "end": 106,
+        "text": " All right, Rafael."
+      },
+      {
+        "id": 31,
+        "start": 106,
+        "end": 108,
+        "text": " Then what I would like to do for you,"
+      },
+      {
+        "id": 32,
+        "start": 108,
+        "end": 111,
+        "text": " is if you just totally cancel your prescription altogether,"
+      },
+      {
+        "id": 33,
+        "start": 111,
+        "end": 113,
+        "text": " you couldn't be able to reorder in the future,"
+      },
+      {
+        "id": 34,
+        "start": 113,
+        "end": 116,
+        "text": " but I can pause your account so you're not getting them every month."
+      },
+      {
+        "id": 35,
+        "start": 116,
+        "end": 117,
+        "text": " No, no."
+      },
+      {
+        "id": 36,
+        "start": 117,
+        "end": 121,
+        "text": " That's not a problem, because if we just cancel,"
+      },
+      {
+        "id": 37,
+        "start": 121,
+        "end": 124,
+        "text": " that means you wouldn't be able to order in the future."
+      },
+      {
+        "id": 38,
+        "start": 124,
+        "end": 127,
+        "text": " So that's why I'm trying to help you out,"
+      },
+      {
+        "id": 39,
+        "start": 127,
+        "end": 129,
+        "text": " because your prescription would be canceled,"
+      },
+      {
+        "id": 40,
+        "start": 129,
+        "end": 132,
+        "text": " and they're going to mock the account that you had a prescription with it,"
+      },
+      {
+        "id": 41,
+        "start": 132,
+        "end": 134,
+        "text": " that you just totally terminated,"
+      },
+      {
+        "id": 42,
+        "start": 134,
+        "end": 136,
+        "text": " and they're not going to let you order in the future."
+      },
+      {
+        "id": 43,
+        "start": 136,
+        "end": 139,
+        "text": " Rather than if you just pause, like I can pause it for like six months,"
+      },
+      {
+        "id": 44,
+        "start": 139,
+        "end": 141,
+        "text": " so you're not getting it every month."
+      },
+      {
+        "id": 45,
+        "start": 141,
+        "end": 142,
+        "text": " No."
+      },
+      {
+        "id": 46,
+        "start": 142,
+        "end": 143,
+        "text": " Okay?"
+      },
+      {
+        "id": 47,
+        "start": 143,
+        "end": 145,
+        "text": " No, I don't want you to pause it. No, just cancel it."
+      },
+      {
+        "id": 48,
+        "start": 145,
+        "end": 148,
+        "text": " Okay, so that means you are aware that you won't be able to order in the future."
+      },
+      {
+        "id": 49,
+        "start": 148,
+        "end": 151,
+        "text": " That's fine. I understand."
+      },
+      {
+        "id": 50,
+        "start": 151,
+        "end": 152,
+        "text": " Yeah."
+      },
+      {
+        "id": 51,
+        "start": 152,
+        "end": 153,
+        "text": " Okay."
+      },
+      {
+        "id": 52,
+        "start": 153,
+        "end": 154,
+        "text": " I understand that."
+      },
+      {
+        "id": 53,
+        "start": 154,
+        "end": 156,
+        "text": " All right, not a problem."
+      },
+      {
+        "id": 54,
+        "start": 156,
+        "end": 158,
+        "text": " We're going to take care of your request for you."
+      },
+      {
+        "id": 55,
+        "start": 158,
+        "end": 159,
+        "text": " Okay?"
+      },
+      {
+        "id": 56,
+        "start": 159,
+        "end": 161,
+        "text": " All right, it's been done."
+      },
+      {
+        "id": 57,
+        "start": 161,
+        "end": 163,
+        "text": " Okay, perfect."
+      },
+      {
+        "id": 58,
+        "start": 163,
+        "end": 164,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 59,
+        "start": 164,
+        "end": 165,
+        "text": " Thank you."
+      },
+      {
+        "id": 60,
+        "start": 165,
+        "end": 166,
+        "text": " Take care."
+      },
+      {
+        "id": 61,
+        "start": 166,
+        "end": 167,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-815b-ae46-fd67ae66f436",
+    "url": "https://www.notion.so/300000001218876-300000001709032-2f611d0a101c815bae46fd67ae66f436"
+  },
+  "processedAt": "2026-01-28T11:44:31.777Z"
+}

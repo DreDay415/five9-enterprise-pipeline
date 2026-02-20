@@ -1,0 +1,278 @@
+{
+  "recording": {
+    "name": "300000001239393-300000001729060-4054967499 by john@superbalife.com @ 2_53_26 PM.wav",
+    "size": 286970,
+    "modifyTime": 1770850604000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239393-300000001729060-4054967499 by john@superbalife.com @ 2_53_26 PM.wav",
+    "uploadDate": "2026-02-11T22:56:44.000Z",
+    "callId": "300000001239393-300000001729060",
+    "agent": "john",
+    "phoneNumber": "4054967499",
+    "callTimestamp": "2026-02-11T14:53:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Yes. I was trying to incur on the new Viagra that you are selling.\n\nSpeaker 1: I can help you with that. What kind of questions can I help you with?\n\nSpeaker 2: Does it still give you all the headaches and all the stuff that the original Viagra did?\n\nSpeaker 1: That's still a possibility. However, the AGV is better about decreased chances and having the side effects.\n\nSpeaker 2: I've talked to multiple people that used to get headaches and they've tried this and they don't get them with the AGV.\n\nSpeaker 1: Does it work better than the old stuff?\n\nSpeaker 2: From the feedback I've gotten from customers, yes, it does. It works better than that, too.\n\nSpeaker 1: I personally haven't taken it, so I can't say for certain from my own experience.\n\nSpeaker 2: But our customers tell me, yes, it works better than the stuff they've taken before.\n\nSpeaker 1: What's the cost on the new stuff?\n\nSpeaker 2: So there's three options. And you're a returning customer, right?\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: Okay, yeah. I'm just trying to pull up your account. Is this Randy?\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: Okay, great. So yeah, there's three options. There's 40 pills. That's $163.95.\n\nSpeaker 1: There's 25 pills for $113 or 10 for $63.\n\nSpeaker 2: You talk like you knew me.\n\nSpeaker 1: Let me try the 10 before I do anything else. The other stuff don't work with crap.\n\nSpeaker 2: Okay, well, that sounds reasonable to me to get 10 to see how it goes.\n\nSpeaker 1: Are you still at the Meadowview Drive address?\n\nSpeaker 2: Yes, sir.\n\nSpeaker 1: Okay, and do you want the 10 and 100 milligrams?\n\nSpeaker 2: I assume whatever the most potent dose is.\n\nSpeaker 1: Okay, that is the most potent dose, yes.\n\nSpeaker 2: And then it looks like you updated your card. Is it this Visa that ends in 3838 you want me to use?\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: Okay, so I'll go ahead and put your order through. Give me one second.\n\nSpeaker 1: All right, but I don't want this where the last time I ordered stuff, they kept sending stuff.\n\nSpeaker 2: I want this to be a one-time order unless something's done different.\n\nSpeaker 1: Okay, so I can do that, sir, but it may be difficult to reorder if you want it down the road.\n\nSpeaker 2: What I can do as an alternative for you is put through the order today and put a six-month hold on the account,\n\nSpeaker 1: and you just have to let us know after you've tried it what you want to do.\n\nSpeaker 2: Now let's just do it for just a one-time order. I'll deal with whatever though.\n\nSpeaker 1: Okay, so we're all set. It'll just be this one time that you can order it then.\n\nSpeaker 2: I can't control it on my own.\n\nSpeaker 1: You're all set, sir. It'll update your prescription, and we'll mail it out.\n\nSpeaker 2: How long will it take to get it?\n\nSpeaker 1: Five to seven days from today.\n\nSpeaker 2: Okay. All right. Thank you, sir.\n\nSpeaker 1: Uh-huh. Bye-bye.\n\nSpeaker 2: Bye.",
+    "duration": 8263,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 8,
+        "text": " Yes. I was trying to incur on the new Viagra that you are selling."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " I can help you with that. What kind of questions can I help you with?"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 18,
+        "text": " Does it still give you all the headaches and all the stuff that the original Viagra did?"
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 28,
+        "text": " That's still a possibility. However, the AGV is better about decreased chances and having the side effects."
+      },
+      {
+        "id": 5,
+        "start": 28,
+        "end": 33,
+        "text": " I've talked to multiple people that used to get headaches and they've tried this and they don't get them with the AGV."
+      },
+      {
+        "id": 6,
+        "start": 33,
+        "end": 38,
+        "text": " Does it work better than the old stuff?"
+      },
+      {
+        "id": 7,
+        "start": 38,
+        "end": 42,
+        "text": " From the feedback I've gotten from customers, yes, it does. It works better than that, too."
+      },
+      {
+        "id": 8,
+        "start": 42,
+        "end": 46,
+        "text": " I personally haven't taken it, so I can't say for certain from my own experience."
+      },
+      {
+        "id": 9,
+        "start": 46,
+        "end": 51,
+        "text": " But our customers tell me, yes, it works better than the stuff they've taken before."
+      },
+      {
+        "id": 10,
+        "start": 51,
+        "end": 55,
+        "text": " What's the cost on the new stuff?"
+      },
+      {
+        "id": 11,
+        "start": 55,
+        "end": 62,
+        "text": " So there's three options. And you're a returning customer, right?"
+      },
+      {
+        "id": 12,
+        "start": 62,
+        "end": 64,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 13,
+        "start": 64,
+        "end": 68,
+        "text": " Okay, yeah. I'm just trying to pull up your account. Is this Randy?"
+      },
+      {
+        "id": 14,
+        "start": 68,
+        "end": 70,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 15,
+        "start": 70,
+        "end": 75,
+        "text": " Okay, great. So yeah, there's three options. There's 40 pills. That's $163.95."
+      },
+      {
+        "id": 16,
+        "start": 75,
+        "end": 82,
+        "text": " There's 25 pills for $113 or 10 for $63."
+      },
+      {
+        "id": 17,
+        "start": 82,
+        "end": 86,
+        "text": " You talk like you knew me."
+      },
+      {
+        "id": 18,
+        "start": 86,
+        "end": 93,
+        "text": " Let me try the 10 before I do anything else. The other stuff don't work with crap."
+      },
+      {
+        "id": 19,
+        "start": 93,
+        "end": 96,
+        "text": " Okay, well, that sounds reasonable to me to get 10 to see how it goes."
+      },
+      {
+        "id": 20,
+        "start": 96,
+        "end": 99,
+        "text": " Are you still at the Meadowview Drive address?"
+      },
+      {
+        "id": 21,
+        "start": 99,
+        "end": 101,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 22,
+        "start": 101,
+        "end": 105,
+        "text": " Okay, and do you want the 10 and 100 milligrams?"
+      },
+      {
+        "id": 23,
+        "start": 105,
+        "end": 108,
+        "text": " I assume whatever the most potent dose is."
+      },
+      {
+        "id": 24,
+        "start": 108,
+        "end": 110,
+        "text": " Okay, that is the most potent dose, yes."
+      },
+      {
+        "id": 25,
+        "start": 110,
+        "end": 116,
+        "text": " And then it looks like you updated your card. Is it this Visa that ends in 3838 you want me to use?"
+      },
+      {
+        "id": 26,
+        "start": 116,
+        "end": 118,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 27,
+        "start": 118,
+        "end": 121,
+        "text": " Okay, so I'll go ahead and put your order through. Give me one second."
+      },
+      {
+        "id": 28,
+        "start": 121,
+        "end": 126,
+        "text": " All right, but I don't want this where the last time I ordered stuff, they kept sending stuff."
+      },
+      {
+        "id": 29,
+        "start": 126,
+        "end": 131,
+        "text": " I want this to be a one-time order unless something's done different."
+      },
+      {
+        "id": 30,
+        "start": 131,
+        "end": 135,
+        "text": " Okay, so I can do that, sir, but it may be difficult to reorder if you want it down the road."
+      },
+      {
+        "id": 31,
+        "start": 135,
+        "end": 141,
+        "text": " What I can do as an alternative for you is put through the order today and put a six-month hold on the account,"
+      },
+      {
+        "id": 32,
+        "start": 141,
+        "end": 144,
+        "text": " and you just have to let us know after you've tried it what you want to do."
+      },
+      {
+        "id": 33,
+        "start": 144,
+        "end": 154,
+        "text": " Now let's just do it for just a one-time order. I'll deal with whatever though."
+      },
+      {
+        "id": 34,
+        "start": 154,
+        "end": 159,
+        "text": " Okay, so we're all set. It'll just be this one time that you can order it then."
+      },
+      {
+        "id": 35,
+        "start": 159,
+        "end": 162,
+        "text": " I can't control it on my own."
+      },
+      {
+        "id": 36,
+        "start": 162,
+        "end": 167,
+        "text": " You're all set, sir. It'll update your prescription, and we'll mail it out."
+      },
+      {
+        "id": 37,
+        "start": 167,
+        "end": 169,
+        "text": " How long will it take to get it?"
+      },
+      {
+        "id": 38,
+        "start": 169,
+        "end": 171,
+        "text": " Five to seven days from today."
+      },
+      {
+        "id": 39,
+        "start": 171,
+        "end": 174,
+        "text": " Okay. All right. Thank you, sir."
+      },
+      {
+        "id": 40,
+        "start": 174,
+        "end": 175,
+        "text": " Uh-huh. Bye-bye."
+      },
+      {
+        "id": 41,
+        "start": 175,
+        "end": 176,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-8151-b869-dae1d5d79c02",
+    "url": "https://www.notion.so/300000001239393-300000001729060-30411d0a101c8151b869dae1d5d79c02"
+  },
+  "processedAt": "2026-02-11T23:03:48.400Z"
+}

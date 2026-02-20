@@ -1,0 +1,13 @@
+[Unit]
+Description=Run Five9 ingest 4 times daily (10am, 12pm, 2pm, 4pm PT)
+
+[Timer]
+OnCalendar=*-*-* 10:00:00
+OnCalendar=*-*-* 12:00:00
+OnCalendar=*-*-* 14:00:00
+OnCalendar=*-*-* 16:00:00
+TimeZone=America/Los_Angeles
+Unit=five9-ingest.service
+
+[Install]
+WantedBy=timers.target

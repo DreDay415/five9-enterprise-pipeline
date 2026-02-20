@@ -1,0 +1,428 @@
+{
+  "recording": {
+    "name": "300000001219860-300000001709794-6787918643 by olivier@superbalife.com @ 1_18_07 PM.wav",
+    "size": 389800,
+    "modifyTime": 1769548949000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219860-300000001709794-6787918643 by olivier@superbalife.com @ 1_18_07 PM.wav",
+    "uploadDate": "2026-01-27T21:22:29.000Z",
+    "callId": "300000001219860-300000001709794",
+    "agent": "olivier",
+    "phoneNumber": "6787918643",
+    "callTimestamp": "2026-01-27T13:18:07.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Vagra.\n\nSpeaker 2: How are you doing, sir?\n\nSpeaker 1: Good, thank you for asking. How may I help you, sir?\n\nSpeaker 2: Yes, I was trying to place an order for the, what is it?\n\nSpeaker 1: The buyer of the new year.\n\nSpeaker 2: Trying to make sure I would place an order.\n\nSpeaker 1: I can't hear you, sir. What you were saying?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Can you hear me?\n\nSpeaker 1: Yeah, we have a thin coverage issue. What you were saying, Mr. Wiggins?\n\nSpeaker 2: Can you come again?\n\nSpeaker 1: Yes, sir. I was trying to...\n\nSpeaker 2: I was trying...\n\nSpeaker 1: Hello? Hello?\n\nSpeaker 2: Why are you on the mobile data? Because we're getting interrupted.\n\nSpeaker 1: Can you hear me?\n\nSpeaker 2: Yeah, you're getting interrupted. It's on and off. I'm not sure if you...\n\nSpeaker 1: Okay, what about now?\n\nSpeaker 2: It's okay. Yeah, it's okay. Let's see if it works better.\n\nSpeaker 1: Yeah, what you were saying, Mr. Wiggins?\n\nSpeaker 2: I was trying to place an order for it and not a subscription.\n\nSpeaker 1: Yeah, you were trying to place an order, right, for the Viagra AGV.\n\nSpeaker 2: And what was your concern again?\n\nSpeaker 1: I wanted a one-time order, not a subscription.\n\nSpeaker 2: So I didn't want it to be reoccurring.\n\nSpeaker 1: Yeah, so it's not a subscription. It's a prescription with refills.\n\nSpeaker 2: If you don't need refills, what we do for you to reorder when you need it,\n\nSpeaker 1: we put a pause on the prescription and you can order.\n\nSpeaker 2: You don't have to get it every 30 days, every two months.\n\nSpeaker 1: You can get it once or twice a year or more often if you need it.\n\nSpeaker 2: But there is no commitment. It's based on your need.\n\nSpeaker 1: Those are pills. This is not Netflix.\n\nSpeaker 2: So the prescription will be open. We put a pause. You receive it.\n\nSpeaker 1: You give us a call and update if the med is a good fit for you, okay?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Will I be able to go through with it? Can you hear me?\n\nSpeaker 2: Yes, we're getting interrupted again. Yeah, what you were saying, sir?\n\nSpeaker 1: Will I be able to go through with the order that I put in?\n\nSpeaker 2: Yes, so that's what I'm saying.\n\nSpeaker 1: Your prescription will be paused, and when you get it, try it.\n\nSpeaker 2: Let us know how you feel, and then you can reorder yourself as well, okay?\n\nSpeaker 1: Has the prescription went out yet is what I'm asking.\n\nSpeaker 2: Oh, if it went out, let me see. You placed the order yesterday.\n\nSpeaker 1: Sometimes they don't update right away.\n\nSpeaker 2: It could have been out, but they don't update right away.\n\nSpeaker 1: You're going to receive a tracking number because I don't have it yet.\n\nSpeaker 2: It could be created already, but the account hasn't been updated yet.\n\nSpeaker 1: So it could be already in the hand of the post office.\n\nSpeaker 2: Sometimes you update 24 hours later, and you're going to have a tracking number\n\nSpeaker 1: in your email, rigginsdelmonte at gmail.com.\n\nSpeaker 2: Yes, well, I didn't see anything.\n\nSpeaker 1: Yeah, so like I said, they could have shipped it, but they haven't updated yet.\n\nSpeaker 2: So when the system updates fully, you're going to receive your tracking number\n\nSpeaker 1: if they send it out or as soon as they send it out.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, but right now you can't tell if it was because I was trying to place the order,\n\nSpeaker 2: but it was already placed then.\n\nSpeaker 1: Yeah, your order is placed. Everything is placed.\n\nSpeaker 2: You don't have to place no more order. You're fine.\n\nSpeaker 1: Okay.\n\nSpeaker 2: You're fine.\n\nSpeaker 1: You have no order to place. You just wait on your tracking number.\n\nSpeaker 2: Okay, that's all I need to know.\n\nSpeaker 1: Yes, so you're all set, okay?\n\nSpeaker 2: All right, thanks.\n\nSpeaker 1: You have a good one. Bye-bye.",
+    "duration": 7736,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Vagra."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 5,
+        "text": " How are you doing, sir?"
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 8,
+        "text": " Good, thank you for asking. How may I help you, sir?"
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 12,
+        "text": " Yes, I was trying to place an order for the, what is it?"
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 18,
+        "text": " The buyer of the new year."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 22,
+        "text": " Trying to make sure I would place an order."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 28,
+        "text": " I can't hear you, sir. What you were saying?"
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 31,
+        "text": " Hello?"
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 33,
+        "text": " Hello?"
+      },
+      {
+        "id": 9,
+        "start": 33,
+        "end": 34,
+        "text": " Can you hear me?"
+      },
+      {
+        "id": 10,
+        "start": 34,
+        "end": 37,
+        "text": " Yeah, we have a thin coverage issue. What you were saying, Mr. Wiggins?"
+      },
+      {
+        "id": 11,
+        "start": 37,
+        "end": 39,
+        "text": " Can you come again?"
+      },
+      {
+        "id": 12,
+        "start": 39,
+        "end": 42,
+        "text": " Yes, sir. I was trying to..."
+      },
+      {
+        "id": 13,
+        "start": 42,
+        "end": 48,
+        "text": " I was trying..."
+      },
+      {
+        "id": 14,
+        "start": 48,
+        "end": 51,
+        "text": " Hello? Hello?"
+      },
+      {
+        "id": 15,
+        "start": 51,
+        "end": 62,
+        "text": " Why are you on the mobile data? Because we're getting interrupted."
+      },
+      {
+        "id": 16,
+        "start": 62,
+        "end": 64,
+        "text": " Can you hear me?"
+      },
+      {
+        "id": 17,
+        "start": 64,
+        "end": 69,
+        "text": " Yeah, you're getting interrupted. It's on and off. I'm not sure if you..."
+      },
+      {
+        "id": 18,
+        "start": 69,
+        "end": 71,
+        "text": " Okay, what about now?"
+      },
+      {
+        "id": 19,
+        "start": 71,
+        "end": 74,
+        "text": " It's okay. Yeah, it's okay. Let's see if it works better."
+      },
+      {
+        "id": 20,
+        "start": 74,
+        "end": 77,
+        "text": " Yeah, what you were saying, Mr. Wiggins?"
+      },
+      {
+        "id": 21,
+        "start": 77,
+        "end": 82,
+        "text": " I was trying to place an order for it and not a subscription."
+      },
+      {
+        "id": 22,
+        "start": 82,
+        "end": 86,
+        "text": " Yeah, you were trying to place an order, right, for the Viagra AGV."
+      },
+      {
+        "id": 23,
+        "start": 86,
+        "end": 90,
+        "text": " And what was your concern again?"
+      },
+      {
+        "id": 24,
+        "start": 90,
+        "end": 94,
+        "text": " I wanted a one-time order, not a subscription."
+      },
+      {
+        "id": 25,
+        "start": 94,
+        "end": 97,
+        "text": " So I didn't want it to be reoccurring."
+      },
+      {
+        "id": 26,
+        "start": 97,
+        "end": 100,
+        "text": " Yeah, so it's not a subscription. It's a prescription with refills."
+      },
+      {
+        "id": 27,
+        "start": 100,
+        "end": 104,
+        "text": " If you don't need refills, what we do for you to reorder when you need it,"
+      },
+      {
+        "id": 28,
+        "start": 104,
+        "end": 107,
+        "text": " we put a pause on the prescription and you can order."
+      },
+      {
+        "id": 29,
+        "start": 107,
+        "end": 110,
+        "text": " You don't have to get it every 30 days, every two months."
+      },
+      {
+        "id": 30,
+        "start": 110,
+        "end": 113,
+        "text": " You can get it once or twice a year or more often if you need it."
+      },
+      {
+        "id": 31,
+        "start": 113,
+        "end": 116,
+        "text": " But there is no commitment. It's based on your need."
+      },
+      {
+        "id": 32,
+        "start": 116,
+        "end": 119,
+        "text": " Those are pills. This is not Netflix."
+      },
+      {
+        "id": 33,
+        "start": 119,
+        "end": 123,
+        "text": " So the prescription will be open. We put a pause. You receive it."
+      },
+      {
+        "id": 34,
+        "start": 123,
+        "end": 131,
+        "text": " You give us a call and update if the med is a good fit for you, okay?"
+      },
+      {
+        "id": 35,
+        "start": 131,
+        "end": 134,
+        "text": " Hello?"
+      },
+      {
+        "id": 36,
+        "start": 134,
+        "end": 137,
+        "text": " Will I be able to go through with it? Can you hear me?"
+      },
+      {
+        "id": 37,
+        "start": 137,
+        "end": 140,
+        "text": " Yes, we're getting interrupted again. Yeah, what you were saying, sir?"
+      },
+      {
+        "id": 38,
+        "start": 140,
+        "end": 144,
+        "text": " Will I be able to go through with the order that I put in?"
+      },
+      {
+        "id": 39,
+        "start": 144,
+        "end": 146,
+        "text": " Yes, so that's what I'm saying."
+      },
+      {
+        "id": 40,
+        "start": 146,
+        "end": 150,
+        "text": " Your prescription will be paused, and when you get it, try it."
+      },
+      {
+        "id": 41,
+        "start": 150,
+        "end": 157,
+        "text": " Let us know how you feel, and then you can reorder yourself as well, okay?"
+      },
+      {
+        "id": 42,
+        "start": 157,
+        "end": 160,
+        "text": " Has the prescription went out yet is what I'm asking."
+      },
+      {
+        "id": 43,
+        "start": 160,
+        "end": 166,
+        "text": " Oh, if it went out, let me see. You placed the order yesterday."
+      },
+      {
+        "id": 44,
+        "start": 166,
+        "end": 168,
+        "text": " Sometimes they don't update right away."
+      },
+      {
+        "id": 45,
+        "start": 168,
+        "end": 171,
+        "text": " It could have been out, but they don't update right away."
+      },
+      {
+        "id": 46,
+        "start": 171,
+        "end": 174,
+        "text": " You're going to receive a tracking number because I don't have it yet."
+      },
+      {
+        "id": 47,
+        "start": 174,
+        "end": 177,
+        "text": " It could be created already, but the account hasn't been updated yet."
+      },
+      {
+        "id": 48,
+        "start": 177,
+        "end": 180,
+        "text": " So it could be already in the hand of the post office."
+      },
+      {
+        "id": 49,
+        "start": 180,
+        "end": 185,
+        "text": " Sometimes you update 24 hours later, and you're going to have a tracking number"
+      },
+      {
+        "id": 50,
+        "start": 185,
+        "end": 190,
+        "text": " in your email, rigginsdelmonte at gmail.com."
+      },
+      {
+        "id": 51,
+        "start": 190,
+        "end": 192,
+        "text": " Yes, well, I didn't see anything."
+      },
+      {
+        "id": 52,
+        "start": 192,
+        "end": 197,
+        "text": " Yeah, so like I said, they could have shipped it, but they haven't updated yet."
+      },
+      {
+        "id": 53,
+        "start": 197,
+        "end": 201,
+        "text": " So when the system updates fully, you're going to receive your tracking number"
+      },
+      {
+        "id": 54,
+        "start": 201,
+        "end": 206,
+        "text": " if they send it out or as soon as they send it out."
+      },
+      {
+        "id": 55,
+        "start": 206,
+        "end": 208,
+        "text": " Okay."
+      },
+      {
+        "id": 56,
+        "start": 208,
+        "end": 213,
+        "text": " Okay, but right now you can't tell if it was because I was trying to place the order,"
+      },
+      {
+        "id": 57,
+        "start": 213,
+        "end": 216,
+        "text": " but it was already placed then."
+      },
+      {
+        "id": 58,
+        "start": 216,
+        "end": 218,
+        "text": " Yeah, your order is placed. Everything is placed."
+      },
+      {
+        "id": 59,
+        "start": 218,
+        "end": 222,
+        "text": " You don't have to place no more order. You're fine."
+      },
+      {
+        "id": 60,
+        "start": 222,
+        "end": 224,
+        "text": " Okay."
+      },
+      {
+        "id": 61,
+        "start": 224,
+        "end": 226,
+        "text": " You're fine."
+      },
+      {
+        "id": 62,
+        "start": 226,
+        "end": 231,
+        "text": " You have no order to place. You just wait on your tracking number."
+      },
+      {
+        "id": 63,
+        "start": 231,
+        "end": 233,
+        "text": " Okay, that's all I need to know."
+      },
+      {
+        "id": 64,
+        "start": 233,
+        "end": 236,
+        "text": " Yes, so you're all set, okay?"
+      },
+      {
+        "id": 65,
+        "start": 236,
+        "end": 237,
+        "text": " All right, thanks."
+      },
+      {
+        "id": 66,
+        "start": 237,
+        "end": 240,
+        "text": " You have a good one. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8152-a755-f1317daa479e",
+    "url": "https://www.notion.so/300000001219860-300000001709794-2f511d0a101c8152a755f1317daa479e"
+  },
+  "processedAt": "2026-01-27T23:33:32.488Z"
+}

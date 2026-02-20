@@ -1,0 +1,248 @@
+{
+  "recording": {
+    "name": "300000001217061-300000001707503-2054548116 by olivier@superbalife.com @ 9_00_14 AM.wav",
+    "size": 191810,
+    "modifyTime": 1769585530000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217061-300000001707503-2054548116 by olivier@superbalife.com @ 9_00_14 AM.wav",
+    "uploadDate": "2026-01-28T07:32:10.000Z",
+    "callId": "300000001217061-300000001707503",
+    "agent": "olivier",
+    "phoneNumber": "2054548116",
+    "callTimestamp": "2026-01-28T09:00:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Yes. How are you?\n\nSpeaker 1: How are we doing? Good, thank you for asking.\n\nSpeaker 2: Good. I need to cancel getting any more of the Scor-Blue, at least until further notice.\n\nSpeaker 1: I got so much now, I can't use this in three years.\n\nSpeaker 2: Oh, sure. Mr. Gregory Crane?\n\nSpeaker 1: That's correct.\n\nSpeaker 2: I see that you have a prescription from Dr. Supa for Viagra, 50 mg, 10 tablets, every 30 days.\n\nSpeaker 1: Yes.\n\nSpeaker 2: So I can tell the pharmacy to stop the 30 days and pause the prescription.\n\nSpeaker 1: I think they pause it to lock your pricing, I think, up to half a year,\n\nSpeaker 2: so you don't get it on a monthly anymore, but you can get it once or twice a year.\n\nSpeaker 1: No, just let me do this. Let me call you when I run out.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I got the number. Just cancel. Don't send me any more. I don't need any. I got plenty.\n\nSpeaker 2: No, I got you. I got you. You don't need to send yourself if you don't need it, obviously.\n\nSpeaker 1: Yes.\n\nSpeaker 2: So what I was saying, for you to reorder, you got to have the doctor prescription,\n\nSpeaker 1: because if you lose that, when you reorder, price will be different.\n\nSpeaker 2: They got to reinvest. So what I was trying to do is advise the pharmacy to pause up to half a year,\n\nSpeaker 1: so there is no more monthly moving forward.\n\nSpeaker 2: Even after a year, don't send me any.\n\nSpeaker 1: Okay, I see.\n\nSpeaker 2: We're going to have to just cancel everything then.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Because what they do, they require to get just a refill once or twice a year.\n\nSpeaker 1: But if you don't need it, that's fine. I'm just going to cancel everything.\n\nSpeaker 2: Yes. I've done this before. I've had to cancel before because I got so much.\n\nSpeaker 1: I keep getting so much, I can't use it. So just cancel it.\n\nSpeaker 2: If it's twice as much next time, it'll just be twice as much. I'll understand.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay?\n\nSpeaker 1: You got it.\n\nSpeaker 2: Thank you so much. Yes, sir. Have a great day.\n\nSpeaker 1: You too.\n\nSpeaker 2: Okay, bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 4642,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 5,
+        "text": " Yes. How are you?"
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 8,
+        "text": " How are we doing? Good, thank you for asking."
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 13,
+        "text": " Good. I need to cancel getting any more of the Scor-Blue, at least until further notice."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 18,
+        "text": " I got so much now, I can't use this in three years."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 21,
+        "text": " Oh, sure. Mr. Gregory Crane?"
+      },
+      {
+        "id": 6,
+        "start": 21,
+        "end": 23,
+        "text": " That's correct."
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 30,
+        "text": " I see that you have a prescription from Dr. Supa for Viagra, 50 mg, 10 tablets, every 30 days."
+      },
+      {
+        "id": 8,
+        "start": 30,
+        "end": 31,
+        "text": " Yes."
+      },
+      {
+        "id": 9,
+        "start": 31,
+        "end": 35,
+        "text": " So I can tell the pharmacy to stop the 30 days and pause the prescription."
+      },
+      {
+        "id": 10,
+        "start": 35,
+        "end": 39,
+        "text": " I think they pause it to lock your pricing, I think, up to half a year,"
+      },
+      {
+        "id": 11,
+        "start": 39,
+        "end": 44,
+        "text": " so you don't get it on a monthly anymore, but you can get it once or twice a year."
+      },
+      {
+        "id": 12,
+        "start": 44,
+        "end": 48,
+        "text": " No, just let me do this. Let me call you when I run out."
+      },
+      {
+        "id": 13,
+        "start": 48,
+        "end": 49,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 49,
+        "end": 54,
+        "text": " I got the number. Just cancel. Don't send me any more. I don't need any. I got plenty."
+      },
+      {
+        "id": 15,
+        "start": 54,
+        "end": 58,
+        "text": " No, I got you. I got you. You don't need to send yourself if you don't need it, obviously."
+      },
+      {
+        "id": 16,
+        "start": 58,
+        "end": 59,
+        "text": " Yes."
+      },
+      {
+        "id": 17,
+        "start": 59,
+        "end": 62,
+        "text": " So what I was saying, for you to reorder, you got to have the doctor prescription,"
+      },
+      {
+        "id": 18,
+        "start": 62,
+        "end": 66,
+        "text": " because if you lose that, when you reorder, price will be different."
+      },
+      {
+        "id": 19,
+        "start": 66,
+        "end": 72,
+        "text": " They got to reinvest. So what I was trying to do is advise the pharmacy to pause up to half a year,"
+      },
+      {
+        "id": 20,
+        "start": 72,
+        "end": 75,
+        "text": " so there is no more monthly moving forward."
+      },
+      {
+        "id": 21,
+        "start": 76,
+        "end": 80,
+        "text": " Even after a year, don't send me any."
+      },
+      {
+        "id": 22,
+        "start": 80,
+        "end": 81,
+        "text": " Okay, I see."
+      },
+      {
+        "id": 23,
+        "start": 83,
+        "end": 86,
+        "text": " We're going to have to just cancel everything then."
+      },
+      {
+        "id": 24,
+        "start": 86,
+        "end": 87,
+        "text": " Yes."
+      },
+      {
+        "id": 25,
+        "start": 87,
+        "end": 91,
+        "text": " Because what they do, they require to get just a refill once or twice a year."
+      },
+      {
+        "id": 26,
+        "start": 91,
+        "end": 94,
+        "text": " But if you don't need it, that's fine. I'm just going to cancel everything."
+      },
+      {
+        "id": 27,
+        "start": 94,
+        "end": 98,
+        "text": " Yes. I've done this before. I've had to cancel before because I got so much."
+      },
+      {
+        "id": 28,
+        "start": 99,
+        "end": 104,
+        "text": " I keep getting so much, I can't use it. So just cancel it."
+      },
+      {
+        "id": 29,
+        "start": 104,
+        "end": 109,
+        "text": " If it's twice as much next time, it'll just be twice as much. I'll understand."
+      },
+      {
+        "id": 30,
+        "start": 109,
+        "end": 110,
+        "text": " Okay."
+      },
+      {
+        "id": 31,
+        "start": 110,
+        "end": 111,
+        "text": " Okay?"
+      },
+      {
+        "id": 32,
+        "start": 111,
+        "end": 112,
+        "text": " You got it."
+      },
+      {
+        "id": 33,
+        "start": 112,
+        "end": 114,
+        "text": " Thank you so much. Yes, sir. Have a great day."
+      },
+      {
+        "id": 34,
+        "start": 114,
+        "end": 115,
+        "text": " You too."
+      },
+      {
+        "id": 35,
+        "start": 115,
+        "end": 116,
+        "text": " Okay, bye-bye."
+      },
+      {
+        "id": 36,
+        "start": 116,
+        "end": 117,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81df-96c7-e1a631e08283",
+    "url": "https://www.notion.so/300000001217061-300000001707503-2f611d0a101c81df96c7e1a631e08283"
+  },
+  "processedAt": "2026-01-28T14:17:55.506Z"
+}

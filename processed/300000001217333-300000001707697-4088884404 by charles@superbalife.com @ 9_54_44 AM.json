@@ -1,0 +1,356 @@
+{
+  "recording": {
+    "name": "300000001217333-300000001707697-4088884404 by charles@superbalife.com @ 9_54_44 AM.wav",
+    "size": 262986,
+    "modifyTime": 1769585238000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217333-300000001707697-4088884404 by charles@superbalife.com @ 9_54_44 AM.wav",
+    "uploadDate": "2026-01-28T07:27:18.000Z",
+    "callId": "300000001217333-300000001707697",
+    "agent": "charles",
+    "phoneNumber": "4088884404",
+    "callTimestamp": "2026-01-28T09:54:44.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, this is Charles.\n\nSpeaker 2: Hi Charles, hi, this is Stan Brown.\n\nSpeaker 1: I called last week and I wanted to call you back\n\nSpeaker 2: and go forward with the Kanton, the subscription.\n\nSpeaker 1: Okay, Stan Brown in Morgan Hill, California?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yeah, it looks like\n\nSpeaker 1: I sent you the replacements for the AGV,\n\nSpeaker 2: how'd you like those?\n\nSpeaker 1: It's the same generic, it says generic on it.\n\nSpeaker 2: No, I know what they say brother,\n\nSpeaker 1: but did you try the pills is what I'm asking.\n\nSpeaker 2: No, because it says generic, send it back.\n\nSpeaker 1: They're not, they're not.\n\nSpeaker 2: So I know they say they're generic, they are AGV.\n\nSpeaker 1: Okay, AGV stands for Authorized Generic Viagra,\n\nSpeaker 2: it's a completely different formula, okay?\n\nSpeaker 1: You ever hear the saying,\n\nSpeaker 2: don't judge a book by its cover, Stan?\n\nSpeaker 1: I need you to trust me that this pill\n\nSpeaker 2: is definitely gonna fit the bill for you\n\nSpeaker 1: and give you that kick that you're looking for, okay?\n\nSpeaker 2: If it has the number 100 on it, it is the AGV,\n\nSpeaker 1: it will kick in within about 14 to 20 minutes\n\nSpeaker 2: and it will last up to 14 hours.\n\nSpeaker 1: I need you to try it first brother,\n\nSpeaker 2: before you judge a book by its cover\n\nSpeaker 1: and call us back and let us know when you need the refills.\n\nSpeaker 2: I can almost guarantee you're gonna love these pills,\n\nSpeaker 1: I'm not even kidding you.\n\nSpeaker 2: Yeah, but I'm looking at your website,\n\nSpeaker 1: and your website, you actually have a picture\n\nSpeaker 2: of the bottle that actually says-\n\nSpeaker 1: That's for marketing, brother, that's for marketing.\n\nSpeaker 2: Yeah, well, that's, you know, I don't know.\n\nSpeaker 1: Marketing. It's a bait and switch.\n\nSpeaker 2: It's marketing.\n\nSpeaker 1: The AGV pills will have the number 100 pressed onto them.\n\nSpeaker 2: They come from Pfizer, okay?\n\nSpeaker 1: It's a brand new formula.\n\nSpeaker 2: I need you to try them, Stan.\n\nSpeaker 1: I really need you to try them before you judge them.\n\nSpeaker 2: No, I'm just gonna, I need to cancel.\n\nSpeaker 1: Like I said, I can send them back,\n\nSpeaker 2: you know, give me a label, I can send them back to you.\n\nSpeaker 1: You're not even gonna try these pills\n\nSpeaker 2: that I sent to you for free?\n\nSpeaker 1: No, because I didn't want, it just doesn't seem right.\n\nSpeaker 2: Okay, yep, there's a Southgate, Kentucky address\n\nSpeaker 1: on the pill bottle, send it back to them.\n\nSpeaker 2: Sorry, it didn't work out.\n\nSpeaker 1: All right, and then how do I do the cancellation, or?\n\nSpeaker 2: I already canceled everything, no need to worry.\n\nSpeaker 1: Okay, thank you.",
+    "duration": 7008,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.0999999046325684,
+        "text": " Thanks for calling Viagra, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 3.4000000953674316,
+        "end": 5.559999942779541,
+        "text": " Hi Charles, hi, this is Stan Brown."
+      },
+      {
+        "id": 2,
+        "start": 8.359999656677246,
+        "end": 11.760000228881836,
+        "text": " I called last week and I wanted to call you back"
+      },
+      {
+        "id": 3,
+        "start": 11.760000228881836,
+        "end": 15.640000343322754,
+        "text": " and go forward with the Kanton, the subscription."
+      },
+      {
+        "id": 4,
+        "start": 17.479999542236328,
+        "end": 19.68000030517578,
+        "text": " Okay, Stan Brown in Morgan Hill, California?"
+      },
+      {
+        "id": 5,
+        "start": 20.559999465942383,
+        "end": 21.559999465942383,
+        "text": " Yeah."
+      },
+      {
+        "id": 6,
+        "start": 21.559999465942383,
+        "end": 22.399999618530273,
+        "text": " Okay."
+      },
+      {
+        "id": 7,
+        "start": 23.440000534057617,
+        "end": 24.520000457763672,
+        "text": " Yeah, it looks like"
+      },
+      {
+        "id": 8,
+        "start": 24.520000457763672,
+        "end": 29.520000457763672,
+        "text": " I sent you the replacements for the AGV,"
+      },
+      {
+        "id": 9,
+        "start": 30.280000686645508,
+        "end": 31.31999969482422,
+        "text": " how'd you like those?"
+      },
+      {
+        "id": 10,
+        "start": 33.52000045776367,
+        "end": 38.52000045776367,
+        "text": " It's the same generic, it says generic on it."
+      },
+      {
+        "id": 11,
+        "start": 41.47999954223633,
+        "end": 44.779998779296875,
+        "text": " No, I know what they say brother,"
+      },
+      {
+        "id": 12,
+        "start": 44.779998779296875,
+        "end": 47.08000183105469,
+        "text": " but did you try the pills is what I'm asking."
+      },
+      {
+        "id": 13,
+        "start": 49.36000061035156,
+        "end": 52.36000061035156,
+        "text": " No, because it says generic, send it back."
+      },
+      {
+        "id": 14,
+        "start": 52.36000061035156,
+        "end": 54.040000915527344,
+        "text": " They're not, they're not."
+      },
+      {
+        "id": 15,
+        "start": 54.040000915527344,
+        "end": 57.279998779296875,
+        "text": " So I know they say they're generic, they are AGV."
+      },
+      {
+        "id": 16,
+        "start": 57.279998779296875,
+        "end": 60.31999969482422,
+        "text": " Okay, AGV stands for Authorized Generic Viagra,"
+      },
+      {
+        "id": 17,
+        "start": 60.31999969482422,
+        "end": 62.400001525878906,
+        "text": " it's a completely different formula, okay?"
+      },
+      {
+        "id": 18,
+        "start": 62.400001525878906,
+        "end": 63.52000045776367,
+        "text": " You ever hear the saying,"
+      },
+      {
+        "id": 19,
+        "start": 63.52000045776367,
+        "end": 65.5199966430664,
+        "text": " don't judge a book by its cover, Stan?"
+      },
+      {
+        "id": 20,
+        "start": 65.5199966430664,
+        "end": 67,
+        "text": " I need you to trust me that this pill"
+      },
+      {
+        "id": 21,
+        "start": 67,
+        "end": 69.5,
+        "text": " is definitely gonna fit the bill for you"
+      },
+      {
+        "id": 22,
+        "start": 69.5,
+        "end": 72.5999984741211,
+        "text": " and give you that kick that you're looking for, okay?"
+      },
+      {
+        "id": 23,
+        "start": 72.5999984741211,
+        "end": 76.87999725341797,
+        "text": " If it has the number 100 on it, it is the AGV,"
+      },
+      {
+        "id": 24,
+        "start": 76.87999725341797,
+        "end": 79.41999816894531,
+        "text": " it will kick in within about 14 to 20 minutes"
+      },
+      {
+        "id": 25,
+        "start": 79.41999816894531,
+        "end": 81.4800033569336,
+        "text": " and it will last up to 14 hours."
+      },
+      {
+        "id": 26,
+        "start": 81.4800033569336,
+        "end": 82.87999725341797,
+        "text": " I need you to try it first brother,"
+      },
+      {
+        "id": 27,
+        "start": 82.87999725341797,
+        "end": 85.31999969482422,
+        "text": " before you judge a book by its cover"
+      },
+      {
+        "id": 28,
+        "start": 85.31999969482422,
+        "end": 87.63999938964844,
+        "text": " and call us back and let us know when you need the refills."
+      },
+      {
+        "id": 29,
+        "start": 87.63999938964844,
+        "end": 89.87999725341797,
+        "text": " I can almost guarantee you're gonna love these pills,"
+      },
+      {
+        "id": 30,
+        "start": 89.87999725341797,
+        "end": 91.12000274658203,
+        "text": " I'm not even kidding you."
+      },
+      {
+        "id": 31,
+        "start": 92.91999816894531,
+        "end": 96.23999786376953,
+        "text": " Yeah, but I'm looking at your website,"
+      },
+      {
+        "id": 32,
+        "start": 96.23999786376953,
+        "end": 99.12000274658203,
+        "text": " and your website, you actually have a picture"
+      },
+      {
+        "id": 33,
+        "start": 99.12000274658203,
+        "end": 101.31999969482422,
+        "text": " of the bottle that actually says-"
+      },
+      {
+        "id": 34,
+        "start": 101.31999969482422,
+        "end": 103.55999755859375,
+        "text": " That's for marketing, brother, that's for marketing."
+      },
+      {
+        "id": 35,
+        "start": 103.55999755859375,
+        "end": 108,
+        "text": " Yeah, well, that's, you know, I don't know."
+      },
+      {
+        "id": 36,
+        "start": 108,
+        "end": 110.19999694824219,
+        "text": " Marketing. It's a bait and switch."
+      },
+      {
+        "id": 37,
+        "start": 110.19999694824219,
+        "end": 111.04000091552734,
+        "text": " It's marketing."
+      },
+      {
+        "id": 38,
+        "start": 111.63999938964844,
+        "end": 116.44000244140625,
+        "text": " The AGV pills will have the number 100 pressed onto them."
+      },
+      {
+        "id": 39,
+        "start": 116.44000244140625,
+        "end": 118.5999984741211,
+        "text": " They come from Pfizer, okay?"
+      },
+      {
+        "id": 40,
+        "start": 118.5999984741211,
+        "end": 119.63999938964844,
+        "text": " It's a brand new formula."
+      },
+      {
+        "id": 41,
+        "start": 119.63999938964844,
+        "end": 120.76000213623047,
+        "text": " I need you to try them, Stan."
+      },
+      {
+        "id": 42,
+        "start": 120.76000213623047,
+        "end": 123.23999786376953,
+        "text": " I really need you to try them before you judge them."
+      },
+      {
+        "id": 43,
+        "start": 125.5999984741211,
+        "end": 129.0399932861328,
+        "text": " No, I'm just gonna, I need to cancel."
+      },
+      {
+        "id": 44,
+        "start": 129.0399932861328,
+        "end": 130.60000610351562,
+        "text": " Like I said, I can send them back,"
+      },
+      {
+        "id": 45,
+        "start": 130.60000610351562,
+        "end": 133.0800018310547,
+        "text": " you know, give me a label, I can send them back to you."
+      },
+      {
+        "id": 46,
+        "start": 133.0800018310547,
+        "end": 134.60000610351562,
+        "text": " You're not even gonna try these pills"
+      },
+      {
+        "id": 47,
+        "start": 134.60000610351562,
+        "end": 136,
+        "text": " that I sent to you for free?"
+      },
+      {
+        "id": 48,
+        "start": 136.60000610351562,
+        "end": 140.9199981689453,
+        "text": " No, because I didn't want, it just doesn't seem right."
+      },
+      {
+        "id": 49,
+        "start": 140.9199981689453,
+        "end": 144.60000610351562,
+        "text": " Okay, yep, there's a Southgate, Kentucky address"
+      },
+      {
+        "id": 50,
+        "start": 144.60000610351562,
+        "end": 146.52000427246094,
+        "text": " on the pill bottle, send it back to them."
+      },
+      {
+        "id": 51,
+        "start": 146.52000427246094,
+        "end": 147.8000030517578,
+        "text": " Sorry, it didn't work out."
+      },
+      {
+        "id": 52,
+        "start": 149.8000030517578,
+        "end": 154.24000549316406,
+        "text": " All right, and then how do I do the cancellation, or?"
+      },
+      {
+        "id": 53,
+        "start": 154.24000549316406,
+        "end": 156.67999267578125,
+        "text": " I already canceled everything, no need to worry."
+      },
+      {
+        "id": 54,
+        "start": 157.60000610351562,
+        "end": 158.67999267578125,
+        "text": " Okay, thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816d-9b91-ebf38fb91c0d",
+    "url": "https://www.notion.so/300000001217333-300000001707697-2f611d0a101c816d9b91ebf38fb91c0d"
+  },
+  "processedAt": "2026-01-28T14:30:51.908Z"
+}

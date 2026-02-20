@@ -1,0 +1,131 @@
+{
+  "recording": {
+    "name": "300000001241033-300000001730582-2402370618 by charles@superbalife.com @ 2_27_13 PM.wav",
+    "size": 84626,
+    "modifyTime": 1770935291000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241033-300000001730582-2402370618 by charles@superbalife.com @ 2_27_13 PM.wav",
+    "uploadDate": "2026-02-12T22:28:11.000Z",
+    "callId": "300000001241033-300000001730582",
+    "agent": "charles",
+    "phoneNumber": "2402370618",
+    "callTimestamp": "2026-02-12T14:27:13.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_charles_300000001241033-300000001730582_2402370618.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_charles_300000001241033-300000001730582_2402370618.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hello?\n\nSpeaker 2: Hey, Steven, this is Charles, we were just on the phone right now.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Hey, I meant to ask you, because I know I probably spelled the email wrong, is it S-T-E-V-E?\n\nSpeaker 1: Yes, yes, small letters, steveguy1960 at gmail.com.\n\nSpeaker 2: Gotcha, I just got confused because your name is Steven with a P-H, so I just wanted to make sure that steveguy was correct.\n\nSpeaker 1: Right, yeah, I just made that different because of my gmail, you know what I mean?\n\nSpeaker 2: I hear you.\n\nSpeaker 1: Some people call me Steve, some call me Steven, you know, so I just put it that way, that's all.\n\nSpeaker 2: I hear you.\n\nSpeaker 1: Okay, thank you for clarifying that.\n\nSpeaker 2: I hope you have a great rest of your day.\n\nSpeaker 1: All right, thank you.\n\nSpeaker 2: All right then.\n\nSpeaker 1: Take care.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 3181,
+    "audioDuration": 52.040000915527344,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Hello?"
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 5,
+        "text": " Hey, Steven, this is Charles, we were just on the phone right now."
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 6,
+        "text": " Yeah."
+      },
+      {
+        "id": 3,
+        "start": 6,
+        "end": 15,
+        "text": " Hey, I meant to ask you, because I know I probably spelled the email wrong, is it S-T-E-V-E?"
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 25,
+        "text": " Yes, yes, small letters, steveguy1960 at gmail.com."
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 33,
+        "text": " Gotcha, I just got confused because your name is Steven with a P-H, so I just wanted to make sure that steveguy was correct."
+      },
+      {
+        "id": 6,
+        "start": 33,
+        "end": 38,
+        "text": " Right, yeah, I just made that different because of my gmail, you know what I mean?"
+      },
+      {
+        "id": 7,
+        "start": 38,
+        "end": 39,
+        "text": " I hear you."
+      },
+      {
+        "id": 8,
+        "start": 39,
+        "end": 44,
+        "text": " Some people call me Steve, some call me Steven, you know, so I just put it that way, that's all."
+      },
+      {
+        "id": 9,
+        "start": 44,
+        "end": 45,
+        "text": " I hear you."
+      },
+      {
+        "id": 10,
+        "start": 45,
+        "end": 46,
+        "text": " Okay, thank you for clarifying that."
+      },
+      {
+        "id": 11,
+        "start": 46,
+        "end": 48,
+        "text": " I hope you have a great rest of your day."
+      },
+      {
+        "id": 12,
+        "start": 48,
+        "end": 49,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 13,
+        "start": 49,
+        "end": 50,
+        "text": " All right then."
+      },
+      {
+        "id": 14,
+        "start": 50,
+        "end": 51,
+        "text": " Take care."
+      },
+      {
+        "id": 15,
+        "start": 51,
+        "end": 52,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 16,
+        "start": 52,
+        "end": 53,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-811e-ac7c-d2819948c83f",
+    "url": "https://www.notion.so/300000001241033-300000001730582-30511d0a101c811eac7cd2819948c83f"
+  },
+  "processedAt": "2026-02-12T22:48:02.075Z"
+}

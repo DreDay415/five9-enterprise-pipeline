@@ -1,0 +1,37 @@
+{
+  "recording": {
+    "name": "300000001219272-300000001709400-7409743893 by  @ 10_42_27 AM_CallStudio.wav",
+    "size": 28010,
+    "modifyTime": 1769584045000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219272-300000001709400-7409743893 by  @ 10_42_27 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:07:25.000Z",
+    "callId": "300000001219272-300000001709400",
+    "phoneNumber": "7409743893",
+    "callTimestamp": "2026-01-28T07:07:25.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: We are experiencing technical difficulties.\n\nSpeaker 2: Please try again later.",
+    "duration": 553,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 13.600000381469727,
+        "text": " We are experiencing technical difficulties."
+      },
+      {
+        "id": 1,
+        "start": 13.600000381469727,
+        "end": 14.84000015258789,
+        "text": " Please try again later."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8101-936f-f11351afb42b",
+    "url": "https://www.notion.so/300000001219272-300000001709400-2f611d0a101c8101936ff11351afb42b"
+  },
+  "processedAt": "2026-01-28T15:19:05.133Z"
+}

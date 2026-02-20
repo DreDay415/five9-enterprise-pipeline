@@ -1,0 +1,446 @@
+{
+  "recording": {
+    "name": "300000001218109-300000001708186-8152724347 by charles@superbalife.com @ 1_19_28 PM.wav",
+    "size": 111016,
+    "modifyTime": 1769584031000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218109-300000001708186-8152724347 by charles@superbalife.com @ 1_19_28 PM.wav",
+    "uploadDate": "2026-01-28T07:07:11.000Z",
+    "callId": "300000001218109-300000001708186",
+    "agent": "charles",
+    "phoneNumber": "8152724347",
+    "callTimestamp": "2026-01-28T13:19:28.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: This is Charles.\n\nSpeaker 2: Hello.\n\nSpeaker 1: This is Matt.\n\nSpeaker 2: How we doing?\n\nSpeaker 1: Good.\n\nSpeaker 2: How are you?\n\nSpeaker 1: I'm good.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: How can I help you?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: I'd like to cancel my prescription, please.\n\nSpeaker 2: Okay.\n\nSpeaker 1: And you're in Oswego, Illinois?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay.\n\nSpeaker 2: It does look like you are a VIP member here.\n\nSpeaker 1: Do you just need to pump the brakes for a while?\n\nSpeaker 2: It looks like you've kind of been getting a lot for a minute there.\n\nSpeaker 1: No.\n\nSpeaker 2: My health has increased.\n\nSpeaker 1: I lost a lot of weight, and I don't need the pill right any time.\n\nSpeaker 2: I'm hoping any time ever.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right.\n\nSpeaker 1: Fair enough.\n\nSpeaker 2: Kudos to you.\n\nSpeaker 1: Kudos to you.\n\nSpeaker 2: Just an option that you have, Matt, if you want to keep the prescription alive and in\n\nSpeaker 1: your back pocket for if and when you do need it, I could pause everything for six months\n\nSpeaker 2: at a time.\n\nSpeaker 1: That way it doesn't come monthly.\n\nSpeaker 2: I don't know.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: It's like some kind of anti-inflammatory medication for bad blood circulation.\n\nSpeaker 2: So if I want to keep the medicine, I'll walk my patient in.\n\nSpeaker 1: I'm just going to go.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Just walk your patient in.\n\nSpeaker 2: Oh, so that way it doesn't like come monthly anymore.\n\nSpeaker 1: It'd be like once or twice a year.\n\nSpeaker 2: That way it just keeps it alive.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: I don't want to do that.\n\nSpeaker 1: Nothing?\n\nSpeaker 2: Okay.\n\nSpeaker 1: Fair enough.\n\nSpeaker 2: All right.\n\nSpeaker 1: Good luck on the journey, brother.\n\nSpeaker 2: I hope you have a good one.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thank you very much.\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: Goodbye.\n\nSpeaker 1: All right.",
+    "duration": 9378,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " This is Charles."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2,
+        "text": " Hello."
+      },
+      {
+        "id": 2,
+        "start": 2,
+        "end": 3,
+        "text": " This is Matt."
+      },
+      {
+        "id": 3,
+        "start": 3,
+        "end": 4,
+        "text": " How we doing?"
+      },
+      {
+        "id": 4,
+        "start": 4,
+        "end": 5,
+        "text": " Good."
+      },
+      {
+        "id": 5,
+        "start": 5,
+        "end": 6,
+        "text": " How are you?"
+      },
+      {
+        "id": 6,
+        "start": 6,
+        "end": 7,
+        "text": " I'm good."
+      },
+      {
+        "id": 7,
+        "start": 7,
+        "end": 8,
+        "text": " Thank you."
+      },
+      {
+        "id": 8,
+        "start": 8,
+        "end": 9,
+        "text": " How can I help you?"
+      },
+      {
+        "id": 9,
+        "start": 9,
+        "end": 10,
+        "text": " Yeah."
+      },
+      {
+        "id": 10,
+        "start": 10,
+        "end": 11,
+        "text": " I'd like to cancel my prescription, please."
+      },
+      {
+        "id": 11,
+        "start": 11,
+        "end": 12,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 12,
+        "end": 13,
+        "text": " And you're in Oswego, Illinois?"
+      },
+      {
+        "id": 13,
+        "start": 13,
+        "end": 14,
+        "text": " Yes."
+      },
+      {
+        "id": 14,
+        "start": 14,
+        "end": 15,
+        "text": " Okay."
+      },
+      {
+        "id": 15,
+        "start": 15,
+        "end": 16,
+        "text": " It does look like you are a VIP member here."
+      },
+      {
+        "id": 16,
+        "start": 16,
+        "end": 17,
+        "text": " Do you just need to pump the brakes for a while?"
+      },
+      {
+        "id": 17,
+        "start": 17,
+        "end": 18,
+        "text": " It looks like you've kind of been getting a lot for a minute there."
+      },
+      {
+        "id": 18,
+        "start": 18,
+        "end": 19,
+        "text": " No."
+      },
+      {
+        "id": 19,
+        "start": 19,
+        "end": 20,
+        "text": " My health has increased."
+      },
+      {
+        "id": 20,
+        "start": 21,
+        "end": 22,
+        "text": " lost a lot of weight, and I don't need the pill right any time."
+      },
+      {
+        "id": 21,
+        "start": 22,
+        "end": 23,
+        "text": " I'm hoping any time ever."
+      },
+      {
+        "id": 22,
+        "start": 23,
+        "end": 24,
+        "text": " Okay."
+      },
+      {
+        "id": 23,
+        "start": 24,
+        "end": 25,
+        "text": " All right."
+      },
+      {
+        "id": 24,
+        "start": 25,
+        "end": 26,
+        "text": " Fair enough."
+      },
+      {
+        "id": 25,
+        "start": 26,
+        "end": 27,
+        "text": " Kudos to you."
+      },
+      {
+        "id": 26,
+        "start": 27,
+        "end": 28,
+        "text": " Kudos to you."
+      },
+      {
+        "id": 27,
+        "start": 28,
+        "end": 29,
+        "text": " Just an option that you have, Matt, if you want to keep the prescription alive and in"
+      },
+      {
+        "id": 28,
+        "start": 29,
+        "end": 30,
+        "text": " your back pocket for if and when you do need it, I could pause everything for six months"
+      },
+      {
+        "id": 29,
+        "start": 30,
+        "end": 31,
+        "text": " at a time."
+      },
+      {
+        "id": 30,
+        "start": 31,
+        "end": 32,
+        "text": " That way it doesn't come monthly."
+      },
+      {
+        "id": 31,
+        "start": 32,
+        "end": 33,
+        "text": " I don't know."
+      },
+      {
+        "id": 32,
+        "start": 33,
+        "end": 34,
+        "text": " Okay."
+      },
+      {
+        "id": 33,
+        "start": 34,
+        "end": 35,
+        "text": " Thank you."
+      },
+      {
+        "id": 34,
+        "start": 35,
+        "end": 36,
+        "text": " Thank you."
+      },
+      {
+        "id": 35,
+        "start": 36,
+        "end": 37,
+        "text": " Thank you."
+      },
+      {
+        "id": 36,
+        "start": 37,
+        "end": 38,
+        "text": " Thank you."
+      },
+      {
+        "id": 37,
+        "start": 38,
+        "end": 39,
+        "text": " Thank you."
+      },
+      {
+        "id": 38,
+        "start": 39,
+        "end": 40,
+        "text": " Thank you."
+      },
+      {
+        "id": 39,
+        "start": 40,
+        "end": 41,
+        "text": " Thank you."
+      },
+      {
+        "id": 40,
+        "start": 41,
+        "end": 42,
+        "text": " Thank you."
+      },
+      {
+        "id": 41,
+        "start": 42,
+        "end": 43,
+        "text": " Thank you."
+      },
+      {
+        "id": 42,
+        "start": 43,
+        "end": 44,
+        "text": " Thank you."
+      },
+      {
+        "id": 43,
+        "start": 44,
+        "end": 45,
+        "text": " Thank you."
+      },
+      {
+        "id": 44,
+        "start": 45,
+        "end": 46,
+        "text": " Thank you."
+      },
+      {
+        "id": 45,
+        "start": 46,
+        "end": 47,
+        "text": " Thank you."
+      },
+      {
+        "id": 46,
+        "start": 47,
+        "end": 48,
+        "text": " Thank you."
+      },
+      {
+        "id": 47,
+        "start": 48,
+        "end": 49,
+        "text": " Thank you."
+      },
+      {
+        "id": 48,
+        "start": 49,
+        "end": 51,
+        "text": " It's like some kind of anti-inflammatory medication for bad blood circulation."
+      },
+      {
+        "id": 49,
+        "start": 51,
+        "end": 54,
+        "text": " So if I want to keep the medicine, I'll walk my patient in."
+      },
+      {
+        "id": 50,
+        "start": 54,
+        "end": 55,
+        "text": " I'm just going to go."
+      },
+      {
+        "id": 51,
+        "start": 55,
+        "end": 56,
+        "text": " Okay."
+      },
+      {
+        "id": 52,
+        "start": 56,
+        "end": 57,
+        "text": " Just walk your patient in."
+      },
+      {
+        "id": 53,
+        "start": 57,
+        "end": 60,
+        "text": " Oh, so that way it doesn't like come monthly anymore."
+      },
+      {
+        "id": 54,
+        "start": 60,
+        "end": 61,
+        "text": " It'd be like once or twice a year."
+      },
+      {
+        "id": 55,
+        "start": 61,
+        "end": 62,
+        "text": " That way it just keeps it alive."
+      },
+      {
+        "id": 56,
+        "start": 62,
+        "end": 63,
+        "text": " Yeah."
+      },
+      {
+        "id": 57,
+        "start": 63,
+        "end": 64,
+        "text": " I don't want to do that."
+      },
+      {
+        "id": 58,
+        "start": 64,
+        "end": 65,
+        "text": " Nothing?"
+      },
+      {
+        "id": 59,
+        "start": 65,
+        "end": 66,
+        "text": " Okay."
+      },
+      {
+        "id": 60,
+        "start": 66,
+        "end": 67,
+        "text": " Fair enough."
+      },
+      {
+        "id": 61,
+        "start": 67,
+        "end": 68,
+        "text": " All right."
+      },
+      {
+        "id": 62,
+        "start": 68,
+        "end": 69,
+        "text": " Good luck on the journey, brother."
+      },
+      {
+        "id": 63,
+        "start": 69,
+        "end": 70,
+        "text": " I hope you have a good one."
+      },
+      {
+        "id": 64,
+        "start": 70,
+        "end": 71,
+        "text": " All right."
+      },
+      {
+        "id": 65,
+        "start": 71,
+        "end": 72,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 66,
+        "start": 72,
+        "end": 73,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 67,
+        "start": 73,
+        "end": 74,
+        "text": " Goodbye."
+      },
+      {
+        "id": 68,
+        "start": 74,
+        "end": 75,
+        "text": " All right."
+      },
+      {
+        "id": 69,
+        "start": 75,
+        "end": 75,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ad-8a5d-c220a768510c",
+    "url": "https://www.notion.so/300000001218109-300000001708186-2f611d0a101c81ad8a5dc220a768510c"
+  },
+  "processedAt": "2026-01-28T15:48:00.813Z"
+}

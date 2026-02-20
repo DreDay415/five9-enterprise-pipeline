@@ -1,0 +1,176 @@
+{
+  "recording": {
+    "name": "300000001220953-300000001710946-5202662264 by michelleh@superbalife.com @ 10_43_05 AM.wav",
+    "size": 171856,
+    "modifyTime": 1769625896000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220953-300000001710946-5202662264 by michelleh@superbalife.com @ 10_43_05 AM.wav",
+    "uploadDate": "2026-01-28T18:44:56.000Z",
+    "callId": "300000001220953-300000001710946",
+    "agent": "michelleh",
+    "phoneNumber": "5202662264",
+    "callTimestamp": "2026-01-28T10:43:05.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Yes, I'd like to place another order of 5 milligrams of TLS.\n\nSpeaker 1: Okay, give me one second to pull up your account.\n\nSpeaker 2: All right, Ed, can you just confirm your date of birth?\n\nSpeaker 1: 1943.\n\nSpeaker 2: Thank you so much. Okay, I see your profile. All right, let's get your refill.\n\nSpeaker 1: It's the 90 days that I need, that way I can manage them myself.\n\nSpeaker 2: Perfect. Okay. All right. And are we still using your Visa ending in 8382?\n\nSpeaker 1: No. I've had to change it because of a couple problems with people.\n\nSpeaker 2: No worries. Okay, I'm ready when you are.\n\nSpeaker 1: Okay, I've got them. 4465-4290-9364-1802.\n\nSpeaker 2: Expiration date?\n\nSpeaker 1: 11-29.\n\nSpeaker 2: Three digits on the back.\n\nSpeaker 1: 4-1-5, and it is a Visa.\n\nSpeaker 2: Perfect. All right, perfect. Your order went through.\n\nSpeaker 1: They'll be shipping that out to you today.\n\nSpeaker 2: What's my address? What address did you show for me?\n\nSpeaker 1: P.O. Box 718, Hereford, Arizona, 85615.\n\nSpeaker 2: Perfect. Now, what's the total on this one, this order?\n\nSpeaker 1: 213.95.\n\nSpeaker 2: Perfect. All right, I appreciate your help.\n\nSpeaker 1: No problem, Ed. Have a great day.\n\nSpeaker 2: All right. Thank you. Take care.\n\nSpeaker 1: You too. Bye.",
+    "duration": 4281,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10,
+        "text": " Yes, I'd like to place another order of 5 milligrams of TLS."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 15,
+        "text": " Okay, give me one second to pull up your account."
+      },
+      {
+        "id": 3,
+        "start": 15,
+        "end": 18,
+        "text": " All right, Ed, can you just confirm your date of birth?"
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 21,
+        "text": " 1943."
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 28,
+        "text": " Thank you so much. Okay, I see your profile. All right, let's get your refill."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 34,
+        "text": " It's the 90 days that I need, that way I can manage them myself."
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 43,
+        "text": " Perfect. Okay. All right. And are we still using your Visa ending in 8382?"
+      },
+      {
+        "id": 8,
+        "start": 43,
+        "end": 48,
+        "text": " No. I've had to change it because of a couple problems with people."
+      },
+      {
+        "id": 9,
+        "start": 48,
+        "end": 50,
+        "text": " No worries. Okay, I'm ready when you are."
+      },
+      {
+        "id": 10,
+        "start": 50,
+        "end": 63,
+        "text": " Okay, I've got them. 4465-4290-9364-1802."
+      },
+      {
+        "id": 11,
+        "start": 63,
+        "end": 65,
+        "text": " Expiration date?"
+      },
+      {
+        "id": 12,
+        "start": 65,
+        "end": 67,
+        "text": " 11-29."
+      },
+      {
+        "id": 13,
+        "start": 67,
+        "end": 69,
+        "text": " Three digits on the back."
+      },
+      {
+        "id": 14,
+        "start": 69,
+        "end": 74,
+        "text": " 4-1-5, and it is a Visa."
+      },
+      {
+        "id": 15,
+        "start": 74,
+        "end": 80,
+        "text": " Perfect. All right, perfect. Your order went through."
+      },
+      {
+        "id": 16,
+        "start": 80,
+        "end": 83,
+        "text": " They'll be shipping that out to you today."
+      },
+      {
+        "id": 17,
+        "start": 83,
+        "end": 86,
+        "text": " What's my address? What address did you show for me?"
+      },
+      {
+        "id": 18,
+        "start": 86,
+        "end": 91,
+        "text": " P.O. Box 718, Hereford, Arizona, 85615."
+      },
+      {
+        "id": 19,
+        "start": 91,
+        "end": 95,
+        "text": " Perfect. Now, what's the total on this one, this order?"
+      },
+      {
+        "id": 20,
+        "start": 95,
+        "end": 97,
+        "text": " 213.95."
+      },
+      {
+        "id": 21,
+        "start": 97,
+        "end": 100,
+        "text": " Perfect. All right, I appreciate your help."
+      },
+      {
+        "id": 22,
+        "start": 100,
+        "end": 102,
+        "text": " No problem, Ed. Have a great day."
+      },
+      {
+        "id": 23,
+        "start": 102,
+        "end": 104,
+        "text": " All right. Thank you. Take care."
+      },
+      {
+        "id": 24,
+        "start": 104,
+        "end": 105,
+        "text": " You too. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8181-be92-c17f6cfc772a",
+    "url": "https://www.notion.so/300000001220953-300000001710946-2f711d0a101c8181be92c17f6cfc772a"
+  },
+  "processedAt": "2026-01-29T00:10:53.068Z"
+}

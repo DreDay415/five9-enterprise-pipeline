@@ -1,0 +1,206 @@
+{
+  "recording": {
+    "name": "300000001222737-300000001712403-8887955826 by lucif@superbalife.com @ 11_41_14 AM.wav",
+    "size": 217616,
+    "modifyTime": 1769715830000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222737-300000001712403-8887955826 by lucif@superbalife.com @ 11_41_14 AM.wav",
+    "uploadDate": "2026-01-29T19:43:50.000Z",
+    "callId": "300000001222737-300000001712403",
+    "agent": "lucif",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-29T11:41:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, Clint speaking, how can I help you?\n\nSpeaker 2: Yeah, I wanted to cancel my prescription.\n\nSpeaker 1: Okay, one moment, let me pull up your account here.\n\nSpeaker 2: What's your zip code?\n\nSpeaker 1: 16648.\n\nSpeaker 2: And what is your first and last name?\n\nSpeaker 1: Richard Davis.\n\nSpeaker 2: Do you have a phone number on file?\n\nSpeaker 1: I should, it's 814-414-7675.\n\nSpeaker 2: All right, I do have you pulled up here, sir.\n\nSpeaker 1: I notice you are a VIP as well.\n\nSpeaker 2: Do you mind if I ask why you're canceling?\n\nSpeaker 1: I just went to the doctor, that's all.\n\nSpeaker 2: Okay, and what does that mean exactly?\n\nSpeaker 1: I went to my own family doctor, I'm covered under my insurance.\n\nSpeaker 2: Oh, okay, all right.\n\nSpeaker 1: You do understand it would be the same product though, right?\n\nSpeaker 2: Yeah, but I don't have to pay for it.\n\nSpeaker 1: Okay, I do understand that, all right.\n\nSpeaker 2: We'll go ahead and take care of that for you, sir.\n\nSpeaker 1: You know, just know we are the product we have.\n\nSpeaker 2: Like here, I do understand this is some of the highest quality product,\n\nSpeaker 1: but I do understand free.\n\nSpeaker 2: But if you do want to come back, we can always hold this for you.\n\nSpeaker 1: I don't know if you've tried that stuff from them yet,\n\nSpeaker 2: but we can always just keep your prescription open so you have time to try them out.\n\nSpeaker 1: That's good, I'm all right.\n\nSpeaker 2: Okay, all right, we'll take care of it for you then, sir.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: You're welcome.",
+    "duration": 3833,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Thanks for calling Viagra, Clint speaking, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 10,
+        "text": " Yeah, I wanted to cancel my prescription."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 16,
+        "text": " Okay, one moment, let me pull up your account here."
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 18,
+        "text": " What's your zip code?"
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 24,
+        "text": " 16648."
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 27,
+        "text": " And what is your first and last name?"
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 43,
+        "text": " Richard Davis."
+      },
+      {
+        "id": 7,
+        "start": 43,
+        "end": 47,
+        "text": " Do you have a phone number on file?"
+      },
+      {
+        "id": 8,
+        "start": 47,
+        "end": 58,
+        "text": " I should, it's 814-414-7675."
+      },
+      {
+        "id": 9,
+        "start": 58,
+        "end": 60,
+        "text": " All right, I do have you pulled up here, sir."
+      },
+      {
+        "id": 10,
+        "start": 60,
+        "end": 62,
+        "text": " I notice you are a VIP as well."
+      },
+      {
+        "id": 11,
+        "start": 62,
+        "end": 64,
+        "text": " Do you mind if I ask why you're canceling?"
+      },
+      {
+        "id": 12,
+        "start": 64,
+        "end": 68,
+        "text": " I just went to the doctor, that's all."
+      },
+      {
+        "id": 13,
+        "start": 68,
+        "end": 76,
+        "text": " Okay, and what does that mean exactly?"
+      },
+      {
+        "id": 14,
+        "start": 76,
+        "end": 82,
+        "text": " I went to my own family doctor, I'm covered under my insurance."
+      },
+      {
+        "id": 15,
+        "start": 82,
+        "end": 84,
+        "text": " Oh, okay, all right."
+      },
+      {
+        "id": 16,
+        "start": 84,
+        "end": 88,
+        "text": " You do understand it would be the same product though, right?"
+      },
+      {
+        "id": 17,
+        "start": 88,
+        "end": 93,
+        "text": " Yeah, but I don't have to pay for it."
+      },
+      {
+        "id": 18,
+        "start": 93,
+        "end": 99,
+        "text": " Okay, I do understand that, all right."
+      },
+      {
+        "id": 19,
+        "start": 99,
+        "end": 101,
+        "text": " We'll go ahead and take care of that for you, sir."
+      },
+      {
+        "id": 20,
+        "start": 101,
+        "end": 105,
+        "text": " You know, just know we are the product we have."
+      },
+      {
+        "id": 21,
+        "start": 105,
+        "end": 108,
+        "text": " Like here, I do understand this is some of the highest quality product,"
+      },
+      {
+        "id": 22,
+        "start": 108,
+        "end": 111,
+        "text": " but I do understand free."
+      },
+      {
+        "id": 23,
+        "start": 111,
+        "end": 113,
+        "text": " But if you do want to come back, we can always hold this for you."
+      },
+      {
+        "id": 24,
+        "start": 113,
+        "end": 115,
+        "text": " I don't know if you've tried that stuff from them yet,"
+      },
+      {
+        "id": 25,
+        "start": 115,
+        "end": 122,
+        "text": " but we can always just keep your prescription open so you have time to try them out."
+      },
+      {
+        "id": 26,
+        "start": 122,
+        "end": 126,
+        "text": " That's good, I'm all right."
+      },
+      {
+        "id": 27,
+        "start": 126,
+        "end": 129,
+        "text": " Okay, all right, we'll take care of it for you then, sir."
+      },
+      {
+        "id": 28,
+        "start": 129,
+        "end": 130,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 29,
+        "start": 130,
+        "end": 131,
+        "text": " You're welcome."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8160-be08-c14b44f50f99",
+    "url": "https://www.notion.so/300000001222737-300000001712403-2f711d0a101c8160be08c14b44f50f99"
+  },
+  "processedAt": "2026-01-29T21:53:14.122Z"
+}

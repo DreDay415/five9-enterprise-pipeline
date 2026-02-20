@@ -1,0 +1,164 @@
+{
+  "recording": {
+    "name": "300000001221319-300000001711176-2817316168 by gabriela@superbalife.com @ 12_25_14 PM.wav",
+    "size": 131686,
+    "modifyTime": 1769632017000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221319-300000001711176-2817316168 by gabriela@superbalife.com @ 12_25_14 PM.wav",
+    "uploadDate": "2026-01-28T20:26:57.000Z",
+    "callId": "300000001221319-300000001711176",
+    "agent": "gabriela",
+    "phoneNumber": "2817316168",
+    "callTimestamp": "2026-01-28T12:25:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra.\n\nSpeaker 2: How can I assist you?\n\nSpeaker 1: Yes, when I first ordered Viagra from you guys,\n\nSpeaker 2: I thought I selected no free refills until I checked back with you.\n\nSpeaker 1: You want a website?\n\nSpeaker 2: I couldn't hear you.\n\nSpeaker 1: I'm glad she doesn't hate herself.\n\nSpeaker 2: Yes, I'm here.\n\nSpeaker 1: I did not want to refill my orders of Viagra, and I thought I, I mean,\n\nSpeaker 2: I've only had the pills a short time, and I haven't even tried them or anything.\n\nSpeaker 1: So I don't need a refill.\n\nSpeaker 2: I've got to refill already.\n\nSpeaker 1: Okay, so what I can go ahead and do is that I can pause your prescription\n\nSpeaker 2: for the meantime, Troy.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay? Okay, so your prescription has been paused.\n\nSpeaker 1: If you need any supplies, feel free to give us a call, okay?\n\nSpeaker 2: All right, thank you.\n\nSpeaker 1: Okay, you're welcome.\n\nSpeaker 2: Have a nice day.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye.",
+    "duration": 3977,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.079999923706055,
+        "text": " Hi, thank you for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 4.079999923706055,
+        "end": 6.159999847412109,
+        "text": " How can I assist you?"
+      },
+      {
+        "id": 2,
+        "start": 7.539999961853027,
+        "end": 13.180000305175781,
+        "text": " Yes, when I first ordered Viagra from you guys,"
+      },
+      {
+        "id": 3,
+        "start": 13.34000015258789,
+        "end": 22.639999389648438,
+        "text": " I thought I selected no free refills until I checked back with you."
+      },
+      {
+        "id": 4,
+        "start": 22.639999389648438,
+        "end": 26.399999618530273,
+        "text": " You want a website?"
+      },
+      {
+        "id": 5,
+        "start": 26.399999618530273,
+        "end": 27.360000610351562,
+        "text": " I couldn't hear you."
+      },
+      {
+        "id": 6,
+        "start": 27.360000610351562,
+        "end": 34.439998626708984,
+        "text": " I'm glad she doesn't hate herself."
+      },
+      {
+        "id": 7,
+        "start": 34.439998626708984,
+        "end": 37.900001525878906,
+        "text": " Yes, I'm here."
+      },
+      {
+        "id": 8,
+        "start": 37.900001525878906,
+        "end": 50.34000015258789,
+        "text": " I did not want to refill my orders of Viagra, and I thought I, I mean,"
+      },
+      {
+        "id": 9,
+        "start": 50.34000015258789,
+        "end": 54.79999923706055,
+        "text": " I've only had the pills a short time, and I haven't even tried them or anything."
+      },
+      {
+        "id": 10,
+        "start": 55.779998779296875,
+        "end": 58.959999084472656,
+        "text": " So I don't need a refill."
+      },
+      {
+        "id": 11,
+        "start": 59.540000915527344,
+        "end": 61.7599983215332,
+        "text": " I've got to refill already."
+      },
+      {
+        "id": 12,
+        "start": 61.7599983215332,
+        "end": 65.83999633789062,
+        "text": " Okay, so what I can go ahead and do is that I can pause your prescription"
+      },
+      {
+        "id": 13,
+        "start": 65.83999633789062,
+        "end": 67.55999755859375,
+        "text": " for the meantime, Troy."
+      },
+      {
+        "id": 14,
+        "start": 69.18000030517578,
+        "end": 69.76000213623047,
+        "text": " Okay."
+      },
+      {
+        "id": 15,
+        "start": 70.22000122070312,
+        "end": 73.13999938964844,
+        "text": " Okay? Okay, so your prescription has been paused."
+      },
+      {
+        "id": 16,
+        "start": 73.13999938964844,
+        "end": 75.63999938964844,
+        "text": " If you need any supplies, feel free to give us a call, okay?"
+      },
+      {
+        "id": 17,
+        "start": 75.63999938964844,
+        "end": 77.13999938964844,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 18,
+        "start": 77.13999938964844,
+        "end": 78.22000122070312,
+        "text": " Okay, you're welcome."
+      },
+      {
+        "id": 19,
+        "start": 78.22000122070312,
+        "end": 78.94000244140625,
+        "text": " Have a nice day."
+      },
+      {
+        "id": 20,
+        "start": 78.94000244140625,
+        "end": 79.18000030517578,
+        "text": " Bye."
+      },
+      {
+        "id": 21,
+        "start": 79.18000030517578,
+        "end": 79.4800033569336,
+        "text": " Bye."
+      },
+      {
+        "id": 22,
+        "start": 79.4800033569336,
+        "end": 80.54000091552734,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-817c-b887-df1a62884569",
+    "url": "https://www.notion.so/300000001221319-300000001711176-2f611d0a101c817cb887df1a62884569"
+  },
+  "processedAt": "2026-01-28T23:03:50.879Z"
+}

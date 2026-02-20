@@ -1,0 +1,74 @@
+{
+  "recording": {
+    "name": "300000001221428-300000001711263-6155800397 by charles@superbalife.com @ 12_59_34 PM.wav",
+    "size": 60120,
+    "modifyTime": 1769634014000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221428-300000001711263-6155800397 by charles@superbalife.com @ 12_59_34 PM.wav",
+    "uploadDate": "2026-01-28T21:00:14.000Z",
+    "callId": "300000001221428-300000001711263",
+    "agent": "charles",
+    "phoneNumber": "6155800397",
+    "callTimestamp": "2026-01-28T12:59:34.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, this is Charles.\n\nSpeaker 2: Yes, sir. My name is James Maxwell, and I get my supply through y'all, but I'm a diabetic, and it's not working, and I talked to my doctor, and they're going to try something else, so can I get that order stopped, please?\n\nSpeaker 1: Yeah, I got you. James Maxwell, Morrison, Tennessee?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Gotcha. Okay, good luck with your doctor. If you ever want to try our Cialis, we have Cialis as well, okay?\n\nSpeaker 2: All right, thank you.\n\nSpeaker 1: Yes, sir. Take care.\n\nSpeaker 2: Bye.",
+    "duration": 2370,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thanks for calling Viagra, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 23,
+        "text": " Yes, sir. My name is James Maxwell, and I get my supply through y'all, but I'm a diabetic, and it's not working, and I talked to my doctor, and they're going to try something else, so can I get that order stopped, please?"
+      },
+      {
+        "id": 2,
+        "start": 23,
+        "end": 26,
+        "text": " Yeah, I got you. James Maxwell, Morrison, Tennessee?"
+      },
+      {
+        "id": 3,
+        "start": 26,
+        "end": 27,
+        "text": " Yes."
+      },
+      {
+        "id": 4,
+        "start": 27,
+        "end": 33,
+        "text": " Gotcha. Okay, good luck with your doctor. If you ever want to try our Cialis, we have Cialis as well, okay?"
+      },
+      {
+        "id": 5,
+        "start": 33,
+        "end": 34,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 6,
+        "start": 34,
+        "end": 36,
+        "text": " Yes, sir. Take care."
+      },
+      {
+        "id": 7,
+        "start": 36,
+        "end": 37,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a3-9ea8-ff031d1ad38f",
+    "url": "https://www.notion.so/300000001221428-300000001711263-2f611d0a101c81a39ea8ff031d1ad38f"
+  },
+  "processedAt": "2026-01-28T22:47:08.492Z"
+}

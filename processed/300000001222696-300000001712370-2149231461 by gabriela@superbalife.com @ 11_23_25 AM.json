@@ -1,0 +1,182 @@
+{
+  "recording": {
+    "name": "300000001222696-300000001712370-2149231461 by gabriela@superbalife.com @ 11_23_25 AM.wav",
+    "size": 192200,
+    "modifyTime": 1769714745000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222696-300000001712370-2149231461 by gabriela@superbalife.com @ 11_23_25 AM.wav",
+    "uploadDate": "2026-01-29T19:25:45.000Z",
+    "callId": "300000001222696-300000001712370",
+    "agent": "gabriela",
+    "phoneNumber": "2149231461",
+    "callTimestamp": "2026-01-29T11:23:25.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hola, gracias por llamar a Viagra. ¿Cómo le puedo ayudar?\n\nSpeaker 2: Buenas tardes, disculpa, se supone que mi pedido ya dice en la aplicación que ya llegó, pero no ha llegado.\n\nSpeaker 1: ¿Cuál es su nombre y fecha de nacimiento?\n\nSpeaker 2: Francisco López, es 27 de septiembre de 1985.\n\nSpeaker 1: Gracias. Ok, ¿y cuál es su dirección?\n\nSpeaker 2: Es Forest Lane, apartamento 266, código postal 75243.\n\nSpeaker 1: Ok, son 9747 Forest Lane, unidad 266, Dallas, Texas.\n\nSpeaker 2: Sí.\n\nSpeaker 1: Ok, sí, aquí enseña que el pedido se te dejó el 20 de enero a las 3:49 pm, o hace nueve días.\n\nSpeaker 2: Sí, porque yo estuve buscando el viernes y el viernes nunca llegó, no estaba, y como...\n\nSpeaker 1: ¿Quién le dio?\n\nSpeaker 2: Sí, te lo dejaron a las 3:49 pm.\n\nSpeaker 1: Me dijiste que ya con tus vecinos, no sé, pero sí se te dejó.\n\nSpeaker 2: Ok.\n\nSpeaker 1: ¿Esto es para hacer otro pedido?\n\nSpeaker 2: Igual.\n\nSpeaker 1: Sí, chequea con tus vecinos y si todavía no le encuentras, dános una llamada para atrás.\n\nSpeaker 2: Atrás, pero chequea a ver tal vez si alguno de tus vecinos te lo ha agarrado, y si pues...\n\nSpeaker 1: No tienes suerte, dános una llamada para atrás.\n\nSpeaker 2: Yo busco.\n\nSpeaker 1: Ok.\n\nSpeaker 2: Muchas gracias.\n\nSpeaker 1: Bueno, de nada, adiós.\n\nSpeaker 2: Para.",
+    "duration": 5434,
+    "language": "spanish",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Hola, gracias por llamar a Viagra. ¿Cómo le puedo ayudar?"
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 14,
+        "text": " Buenas tardes, disculpa, se supone que mi pedido ya dice en la aplicación que ya llegó,"
+      },
+      {
+        "id": 2,
+        "start": 14,
+        "end": 16,
+        "text": " pero no ha llegado."
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 20,
+        "text": " ¿Cuál es su nombre y fecha de nacimiento?"
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 26,
+        "text": " Francisco López, es 27 de septiembre de 1985."
+      },
+      {
+        "id": 5,
+        "start": 26,
+        "end": 31,
+        "text": " Gracias."
+      },
+      {
+        "id": 6,
+        "start": 31,
+        "end": 38,
+        "text": " Ok, ¿y cuál es su fecha, no, su fecha, tu dirección?"
+      },
+      {
+        "id": 7,
+        "start": 38,
+        "end": 46,
+        "text": " Es Forest Lane, apartamento 266, código postal 75243."
+      },
+      {
+        "id": 8,
+        "start": 46,
+        "end": 53,
+        "text": " Ok, son 9747 Forest Lane, unidad 266, Dallas, Texas."
+      },
+      {
+        "id": 9,
+        "start": 53,
+        "end": 54,
+        "text": " Sí."
+      },
+      {
+        "id": 10,
+        "start": 54,
+        "end": 67,
+        "text": " Ok, sí, aquí enseña que el pedido se te dejó el 20 de enero a las 3 y 49 pm, o hace nueve días."
+      },
+      {
+        "id": 11,
+        "start": 67,
+        "end": 71,
+        "text": " Sí, porque yo estuve buscando el viernes y el viernes nunca llegó, no estaba, y como"
+      },
+      {
+        "id": 12,
+        "start": 71,
+        "end": 72,
+        "text": " ¿quién le dio?"
+      },
+      {
+        "id": 13,
+        "start": 72,
+        "end": 82,
+        "text": " Sí, te lo dejaron a las 3 y 49 pm."
+      },
+      {
+        "id": 14,
+        "start": 83,
+        "end": 91,
+        "text": " Me dijiste que ya con tus vecinos, no sé, pero sí se te dejó."
+      },
+      {
+        "id": 15,
+        "start": 91,
+        "end": 94,
+        "text": " Ok."
+      },
+      {
+        "id": 16,
+        "start": 94,
+        "end": 97,
+        "text": " ¿Esto es para hacer otro pedido?"
+      },
+      {
+        "id": 17,
+        "start": 97,
+        "end": 99,
+        "text": " Igual."
+      },
+      {
+        "id": 18,
+        "start": 99,
+        "end": 103,
+        "text": " Sí, chequea con tus vecinos y si todavía no le encuentras, dános una llamada para"
+      },
+      {
+        "id": 19,
+        "start": 103,
+        "end": 109,
+        "text": " atrás, pero chequea a ver tal vez si alguno de tus vecinos te lo ha agarrado, y si pues"
+      },
+      {
+        "id": 20,
+        "start": 109,
+        "end": 113,
+        "text": " no tienes suerte, dános una llamada para atrás."
+      },
+      {
+        "id": 21,
+        "start": 113,
+        "end": 114,
+        "text": " Yo busco."
+      },
+      {
+        "id": 22,
+        "start": 114,
+        "end": 115,
+        "text": " Ok."
+      },
+      {
+        "id": 23,
+        "start": 115,
+        "end": 116,
+        "text": " Muchas gracias."
+      },
+      {
+        "id": 24,
+        "start": 116,
+        "end": 117,
+        "text": " Bueno, de nada, adiós."
+      },
+      {
+        "id": 25,
+        "start": 117,
+        "end": 118,
+        "text": " Para."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81db-b93b-e7f2cfbc9f7d",
+    "url": "https://www.notion.so/300000001222696-300000001712370-2f711d0a101c81dbb93be7f2cfbc9f7d"
+  },
+  "processedAt": "2026-01-29T21:56:11.553Z"
+}

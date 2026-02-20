@@ -1,0 +1,404 @@
+{
+  "recording": {
+    "name": "300000001217445-300000001707757-5098850274 by michelleh@superbalife.com @ 10_23_14 AM.wav",
+    "size": 255510,
+    "modifyTime": 1769585236000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217445-300000001707757-5098850274 by michelleh@superbalife.com @ 10_23_14 AM.wav",
+    "uploadDate": "2026-01-28T07:27:16.000Z",
+    "callId": "300000001217445-300000001707757",
+    "agent": "michelleh",
+    "phoneNumber": "5098850274",
+    "callTimestamp": "2026-01-28T10:23:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra.\n\nSpeaker 2: How can I help you?\n\nSpeaker 1: I would like to cancel my prescription.\n\nSpeaker 2: No problem, I can help you out with that.\n\nSpeaker 1: Give me one second.\n\nSpeaker 2: All right, David, can you just confirm your date of birth?\n\nSpeaker 1: 7-31-1960.\n\nSpeaker 2: Thank you so much.\n\nSpeaker 1: I see you're a VIP status customer.\n\nSpeaker 2: I see the doctor put you on refills every two months,\n\nSpeaker 1: which you're not required to have.\n\nSpeaker 2: How's the medication working out for you?\n\nSpeaker 1: It's not, that's why I wanted to get rid of it.\n\nSpeaker 2: Okay, not a problem.\n\nSpeaker 1: Do you happen to have the medication on you by chance?\n\nSpeaker 2: No.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I think that it looks like the pharmacy\n\nSpeaker 1: just sent you regular generic Viagra,\n\nSpeaker 2: as you did not receive the AGV.\n\nSpeaker 1: What's it do with pharmacy note?\n\nSpeaker 2: Yeah, I think they ran out and sent you generics\n\nSpeaker 1: and they did not tell us.\n\nSpeaker 2: Give me a second, I'm gonna get you out of replacement,\n\nSpeaker 1: and then I'm gonna tell you\n\nSpeaker 2: how you can confirm you received the correct medication.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Perfect, so I put in this order.\n\nSpeaker 2: So when you get this new bottle in the mail in a few days,\n\nSpeaker 1: on the bottle it's gonna say AGV,\n\nSpeaker 2: but it's also going to say Greenstone.\n\nSpeaker 1: And Greenstone is the name of Pfizer's manufacturer in France.\n\nSpeaker 2: And then on the pills,\n\nSpeaker 1: the only number imprinted on the individual pills\n\nSpeaker 2: is going to be the number 50 for the milligrams.\n\nSpeaker 1: And those are the two ways you can confirm\n\nSpeaker 2: you received the FDA approved Pfizer-Viagra AGV,\n\nSpeaker 1: because I believe right now your pills\n\nSpeaker 2: have the letter AC imprinted on them,\n\nSpeaker 1: followed by the numbers 390 or 340.\n\nSpeaker 2: And then on the bottle, it will say APCO.\n\nSpeaker 1: So you can just go ahead and throw those in the trash.\n\nSpeaker 2: And then I'm gonna pause your refills for six months\n\nSpeaker 1: until July 31st, that way,\n\nSpeaker 2: because if I cancel out now,\n\nSpeaker 1: delete your profile and the pharmacy\n\nSpeaker 2: would not be able to send you that replacement.\n\nSpeaker 1: And then I'll give you my extension,\n\nSpeaker 2: so you can call me back\n\nSpeaker 1: and let me know how the AGV works out for you.\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hi.\n\nSpeaker 2: Can you hear me?\n\nSpeaker 1: Yep, I heard you.\n\nSpeaker 2: Okay, yeah, I'll give you my name and extension,\n\nSpeaker 1: so you can call me back and let me know how it works out.\n\nSpeaker 2: My extension is 0020.\n\nSpeaker 1: And my name is Michelle.\n\nSpeaker 2: All right, perfect.\n\nSpeaker 1: You're all set, David.\n\nSpeaker 2: I hope you have a great week.\n\nSpeaker 1: Bye.",
+    "duration": 8688,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1.3600000143051147,
+        "text": " Thank you for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 1.3600000143051147,
+        "end": 2.359999895095825,
+        "text": " How can I help you?"
+      },
+      {
+        "id": 2,
+        "start": 3.4000000953674316,
+        "end": 6.28000020980835,
+        "text": " I would like to cancel my prescription."
+      },
+      {
+        "id": 3,
+        "start": 6.28000020980835,
+        "end": 7.880000114440918,
+        "text": " No problem, I can help you out with that."
+      },
+      {
+        "id": 4,
+        "start": 7.880000114440918,
+        "end": 9.4399995803833,
+        "text": " Give me one second."
+      },
+      {
+        "id": 5,
+        "start": 9.4399995803833,
+        "end": 12.600000381469727,
+        "text": " All right, David, can you just confirm your date of birth?"
+      },
+      {
+        "id": 6,
+        "start": 12.600000381469727,
+        "end": 15.119999885559082,
+        "text": " 7-31-1960."
+      },
+      {
+        "id": 7,
+        "start": 15.119999885559082,
+        "end": 15.960000038146973,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 8,
+        "start": 15.960000038146973,
+        "end": 18.15999984741211,
+        "text": " I see you're a VIP status customer."
+      },
+      {
+        "id": 9,
+        "start": 18.15999984741211,
+        "end": 20.479999542236328,
+        "text": " I see the doctor put you on refills every two months,"
+      },
+      {
+        "id": 10,
+        "start": 20.479999542236328,
+        "end": 22.079999923706055,
+        "text": " which you're not required to have."
+      },
+      {
+        "id": 11,
+        "start": 22.079999923706055,
+        "end": 24.520000457763672,
+        "text": " How's the medication working out for you?"
+      },
+      {
+        "id": 12,
+        "start": 24.520000457763672,
+        "end": 28.200000762939453,
+        "text": " It's not, that's why I wanted to get rid of it."
+      },
+      {
+        "id": 13,
+        "start": 28.200000762939453,
+        "end": 29.200000762939453,
+        "text": " Okay, not a problem."
+      },
+      {
+        "id": 14,
+        "start": 29.200000762939453,
+        "end": 32.279998779296875,
+        "text": " Do you happen to have the medication on you by chance?"
+      },
+      {
+        "id": 15,
+        "start": 32.279998779296875,
+        "end": 33.119998931884766,
+        "text": " No."
+      },
+      {
+        "id": 16,
+        "start": 34.040000915527344,
+        "end": 35,
+        "text": " Okay."
+      },
+      {
+        "id": 17,
+        "start": 35,
+        "end": 36.79999923706055,
+        "text": " I think that it looks like the pharmacy"
+      },
+      {
+        "id": 18,
+        "start": 36.79999923706055,
+        "end": 39.040000915527344,
+        "text": " just sent you regular generic Viagra,"
+      },
+      {
+        "id": 19,
+        "start": 39.040000915527344,
+        "end": 41.84000015258789,
+        "text": " as you did not receive the HEV."
+      },
+      {
+        "id": 20,
+        "start": 41.84000015258789,
+        "end": 43.439998626708984,
+        "text": " What's it do with pharmacy note?"
+      },
+      {
+        "id": 21,
+        "start": 44.599998474121094,
+        "end": 47.36000061035156,
+        "text": " Yeah, I think they ran out and sent you generics"
+      },
+      {
+        "id": 22,
+        "start": 47.36000061035156,
+        "end": 49,
+        "text": " and they did not tell us."
+      },
+      {
+        "id": 23,
+        "start": 49,
+        "end": 52,
+        "text": " Give me a second, I'm gonna get you out of replacement,"
+      },
+      {
+        "id": 24,
+        "start": 52,
+        "end": 52.84000015258789,
+        "text": " and then I'm gonna tell you"
+      },
+      {
+        "id": 25,
+        "start": 52.84000015258789,
+        "end": 55.599998474121094,
+        "text": " how you can confirm you received the correct medication."
+      },
+      {
+        "id": 26,
+        "start": 59.279998779296875,
+        "end": 60.119998931884766,
+        "text": " Yeah."
+      },
+      {
+        "id": 27,
+        "start": 68.23999786376953,
+        "end": 69.08000183105469,
+        "text": " Okay."
+      },
+      {
+        "id": 28,
+        "start": 70.16000366210938,
+        "end": 72.12000274658203,
+        "text": " Perfect, so I put in this order."
+      },
+      {
+        "id": 29,
+        "start": 72.12000274658203,
+        "end": 74.44000244140625,
+        "text": " So when you get this new bottle in the mail in a few days,"
+      },
+      {
+        "id": 30,
+        "start": 74.44000244140625,
+        "end": 76.76000213623047,
+        "text": " on the bottle it's gonna say AGV,"
+      },
+      {
+        "id": 31,
+        "start": 76.76000213623047,
+        "end": 79.31999969482422,
+        "text": " but it's also going to say Greenstone."
+      },
+      {
+        "id": 32,
+        "start": 79.31999969482422,
+        "end": 83.31999969482422,
+        "text": " And Greenstone is the name of Pfizer's manufacturer in France."
+      },
+      {
+        "id": 33,
+        "start": 83.31999969482422,
+        "end": 84.76000213623047,
+        "text": " And then on the pills,"
+      },
+      {
+        "id": 34,
+        "start": 84.76000213623047,
+        "end": 87.83999633789062,
+        "text": " the only number imprinted on the individual pills"
+      },
+      {
+        "id": 35,
+        "start": 87.83999633789062,
+        "end": 90.91999816894531,
+        "text": " is going to be the number 50 for the milligrams."
+      },
+      {
+        "id": 36,
+        "start": 90.91999816894531,
+        "end": 92.68000030517578,
+        "text": " And those are the two ways you can confirm"
+      },
+      {
+        "id": 37,
+        "start": 92.68000030517578,
+        "end": 95.72000122070312,
+        "text": " you received the FDA approved Pfizer-Viagra AGV,"
+      },
+      {
+        "id": 38,
+        "start": 95.72000122070312,
+        "end": 97.4800033569336,
+        "text": " because I believe right now your pills"
+      },
+      {
+        "id": 39,
+        "start": 97.4800033569336,
+        "end": 100.4000015258789,
+        "text": " have the letter AC imprinted on them,"
+      },
+      {
+        "id": 40,
+        "start": 100.4000015258789,
+        "end": 103.23999786376953,
+        "text": " followed by the numbers 390 or 340."
+      },
+      {
+        "id": 41,
+        "start": 103.23999786376953,
+        "end": 105.68000030517578,
+        "text": " And then on the bottle, it will say APCO."
+      },
+      {
+        "id": 42,
+        "start": 105.68000030517578,
+        "end": 108.44000244140625,
+        "text": " So you can just go ahead and throw those in the trash."
+      },
+      {
+        "id": 43,
+        "start": 108.44000244140625,
+        "end": 111.76000213623047,
+        "text": " And then I'm gonna pause your refills for six months"
+      },
+      {
+        "id": 44,
+        "start": 111.76000213623047,
+        "end": 115.72000122070312,
+        "text": " until July 31st, that way,"
+      },
+      {
+        "id": 45,
+        "start": 115.72000122070312,
+        "end": 117.87999725341797,
+        "text": " because if I cancel out now,"
+      },
+      {
+        "id": 46,
+        "start": 117.87999725341797,
+        "end": 119.44000244140625,
+        "text": " delete your profile and the pharmacy"
+      },
+      {
+        "id": 47,
+        "start": 119.44000244140625,
+        "end": 121.31999969482422,
+        "text": " would not be able to send you that replacement."
+      },
+      {
+        "id": 48,
+        "start": 121.31999969482422,
+        "end": 122.72000122070312,
+        "text": " And then I'll give you my extension,"
+      },
+      {
+        "id": 49,
+        "start": 122.72000122070312,
+        "end": 123.55999755859375,
+        "text": " so you can call me back"
+      },
+      {
+        "id": 50,
+        "start": 123.55999755859375,
+        "end": 125.80000305175781,
+        "text": " and let me know how the AGV works out for you."
+      },
+      {
+        "id": 51,
+        "start": 130.72000122070312,
+        "end": 131.55999755859375,
+        "text": " Hello?"
+      },
+      {
+        "id": 52,
+        "start": 132.47999572753906,
+        "end": 133.32000732421875,
+        "text": " Hi."
+      },
+      {
+        "id": 53,
+        "start": 134.47999572753906,
+        "end": 135.75999450683594,
+        "text": " Can you hear me?"
+      },
+      {
+        "id": 54,
+        "start": 135.75999450683594,
+        "end": 137.16000366210938,
+        "text": " Yep, I heard you."
+      },
+      {
+        "id": 55,
+        "start": 137.16000366210938,
+        "end": 139.55999755859375,
+        "text": " Okay, yeah, I'll give you my name and extension,"
+      },
+      {
+        "id": 56,
+        "start": 139.55999755859375,
+        "end": 141.8800048828125,
+        "text": " so you can call me back and let me know how it works out."
+      },
+      {
+        "id": 57,
+        "start": 141.8800048828125,
+        "end": 144.44000244140625,
+        "text": " My extension is 0020."
+      },
+      {
+        "id": 58,
+        "start": 146.72000122070312,
+        "end": 147.9199981689453,
+        "text": " And my name is Michelle."
+      },
+      {
+        "id": 59,
+        "start": 150,
+        "end": 150.9600067138672,
+        "text": " All right, perfect."
+      },
+      {
+        "id": 60,
+        "start": 150.9600067138672,
+        "end": 152.47999572753906,
+        "text": " You're all set, David."
+      },
+      {
+        "id": 61,
+        "start": 152.47999572753906,
+        "end": 153.9199981689453,
+        "text": " I hope you have a great week."
+      },
+      {
+        "id": 62,
+        "start": 155.32000732421875,
+        "end": 156.16000366210938,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8182-bc06-e06c728b8f18",
+    "url": "https://www.notion.so/300000001217445-300000001707757-2f611d0a101c8182bc06e06c728b8f18"
+  },
+  "processedAt": "2026-01-28T14:32:49.936Z"
+}

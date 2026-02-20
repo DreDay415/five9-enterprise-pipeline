@@ -1,0 +1,37 @@
+{
+  "recording": {
+    "name": "300000001221498-300000001711315-3139822048 by  @ 1_21_49 PM_CallStudio.wav",
+    "size": 2596,
+    "modifyTime": 1769635314000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221498-300000001711315-3139822048 by  @ 1_21_49 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T21:21:54.000Z",
+    "callId": "300000001221498-300000001711315",
+    "phoneNumber": "3139822048",
+    "callTimestamp": "2026-01-28T21:21:54.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Bye.",
+    "duration": 582,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Bye."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 1,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-810b-b4b8-f3a58f92842d",
+    "url": "https://www.notion.so/300000001221498-300000001711315-2f611d0a101c810bb4b8f3a58f92842d"
+  },
+  "processedAt": "2026-01-28T22:38:21.455Z"
+}

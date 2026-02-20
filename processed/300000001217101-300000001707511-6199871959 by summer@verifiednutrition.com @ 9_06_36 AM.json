@@ -1,0 +1,338 @@
+{
+  "recording": {
+    "name": "300000001217101-300000001707511-6199871959 by summer@verifiednutrition.com @ 9_06_36 AM.wav",
+    "size": 316156,
+    "modifyTime": 1769583131000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217101-300000001707511-6199871959 by summer@verifiednutrition.com @ 9_06_36 AM.wav",
+    "uploadDate": "2026-01-28T06:52:11.000Z",
+    "callId": "300000001217101-300000001707511",
+    "agent": "summer",
+    "phoneNumber": "6199871959",
+    "callTimestamp": "2026-01-28T09:06:36.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service, I can help you.\n\nSpeaker 2: Yeah, questions about how to take the dosage of the AGB.\n\nSpeaker 1: Is that what it's called?\n\nSpeaker 2: Yeah, let me pull you up so I can see what the doctor told you.\n\nSpeaker 1: Name and birthday?\n\nSpeaker 2: Alonzo, Wicondo, 5-14-59.\n\nSpeaker 1: Thank you, 62.\n\nSpeaker 2: OK, I've reviewed your medication.\n\nSpeaker 1: Just a little bit of stuff with you.\n\nSpeaker 2: And I'm going to make sure you review it.\n\nSpeaker 1: Phenicol, do not take more than one dose per 24 hours.\n\nSpeaker 2: Oh, why?\n\nSpeaker 1: Let me see something.\n\nSpeaker 2: So usually you could take, let me just go back one more thing.\n\nSpeaker 1: Let me see something.\n\nSpeaker 2: So usually you're able to take up—\n\nSpeaker 1: To two pills within a 24 hour time frame.\n\nSpeaker 2: But the doctor only wants you to take one.\n\nSpeaker 1: I don't know what the medical condition is or the reason.\n\nSpeaker 2: But he wants you to take one within 24 hours.\n\nSpeaker 1: OK, because there was something I read somewhere.\n\nSpeaker 2: That you're supposed to take them, I don't know.\n\nSpeaker 1: I think it was like three a day.\n\nSpeaker 2: No.\n\nSpeaker 1: And I was thinking, OK, so if that's the case—\n\nSpeaker 2: Then I must have not ordered enough.\n\nSpeaker 1: OK, well, so it's just one per—\n\nSpeaker 2: It's one when you're going to engage in the sexual act.\n\nSpeaker 1: This is not like a pill that you take—\n\nSpeaker 2: Like, it's not a Cialis.\n\nSpeaker 1: Oh, OK.\n\nSpeaker 2: So you just take it when you're going to engage in the sexual act.\n\nSpeaker 1: But the doctor says for you to take one.\n\nSpeaker 2: OK, so what's the difference between this Viagra—\n\nSpeaker 1: And the old Viagra?\n\nSpeaker 2: The old Viagra is the regular one—\n\nSpeaker 1: You get from your regular doctor.\n\nSpeaker 2: This one has two extra ingredients on top of it.\n\nSpeaker 1: So it lasts longer, it kicks in faster, and it's the same size.\n\nSpeaker 2: OK, when should I expect to get this?\n\nSpeaker 1: Today is Monday.\n\nSpeaker 2: You should get it by like Wednesday or Thursday.\n\nSpeaker 1: Wednesday or Thursday.\n\nSpeaker 2: OK, all right, well, that's the only question I have.\n\nSpeaker 1: Thank you so much.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Have a wonderful day.\n\nSpeaker 2: OK, bye now.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 5490,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.359999895095825,
+        "text": " Thank you for calling customer service, I can help you."
+      },
+      {
+        "id": 1,
+        "start": 3.359999895095825,
+        "end": 9,
+        "text": " Yeah, questions about how to take the dosage of the AGB,"
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 13.239999771118164,
+        "text": " is that what it's called?"
+      },
+      {
+        "id": 3,
+        "start": 13.239999771118164,
+        "end": 16.760000228881836,
+        "text": " Yeah, let me pull you up so I can see what the doctor told you."
+      },
+      {
+        "id": 4,
+        "start": 16.760000228881836,
+        "end": 19.239999771118164,
+        "text": " Name and birthday?"
+      },
+      {
+        "id": 5,
+        "start": 19.239999771118164,
+        "end": 23.799999237060547,
+        "text": " Alonzo, Wicondo, 514-59."
+      },
+      {
+        "id": 6,
+        "start": 23.799999237060547,
+        "end": 26.799999237060547,
+        "text": " Thank you, 62."
+      },
+      {
+        "id": 7,
+        "start": 26.799999237060547,
+        "end": 31.479999542236328,
+        "text": " OK, I've reviewed your medication."
+      },
+      {
+        "id": 8,
+        "start": 31.479999542236328,
+        "end": 32.91999816894531,
+        "text": " Just a little bit of stuff with you"
+      },
+      {
+        "id": 9,
+        "start": 32.91999816894531,
+        "end": 37.439998626708984,
+        "text": " and I'm going to make sure you review it."
+      },
+      {
+        "id": 10,
+        "start": 37.439998626708984,
+        "end": 45.400001525878906,
+        "text": " Phenicol, do not take more than one dose per 24 hours."
+      },
+      {
+        "id": 11,
+        "start": 45.400001525878906,
+        "end": 48,
+        "text": " Oh, why?"
+      },
+      {
+        "id": 12,
+        "start": 48,
+        "end": 48.880001068115234,
+        "text": " Let me see something."
+      },
+      {
+        "id": 13,
+        "start": 56.959999084472656,
+        "end": 61.68000030517578,
+        "text": " So usually you could take, let me just go back one more thing."
+      },
+      {
+        "id": 14,
+        "start": 61.68000030517578,
+        "end": 62.560001373291016,
+        "text": " Let me see something."
+      },
+      {
+        "id": 15,
+        "start": 76.23999786376953,
+        "end": 79.63999938964844,
+        "text": " So usually you're able to take up"
+      },
+      {
+        "id": 16,
+        "start": 79.63999938964844,
+        "end": 83.04000091552734,
+        "text": " to two pills within a 24 hour time frame,"
+      },
+      {
+        "id": 17,
+        "start": 83.04000091552734,
+        "end": 85.27999877929688,
+        "text": " but the doctor only wants you to take one."
+      },
+      {
+        "id": 18,
+        "start": 85.4000015258789,
+        "end": 89.04000091552734,
+        "text": " I don't know what the medical condition is or the reason,"
+      },
+      {
+        "id": 19,
+        "start": 89.04000091552734,
+        "end": 93.12000274658203,
+        "text": " but he wants you to take one within 24 hours."
+      },
+      {
+        "id": 20,
+        "start": 93.12000274658203,
+        "end": 98.68000030517578,
+        "text": " OK, because there was something I read somewhere"
+      },
+      {
+        "id": 21,
+        "start": 98.68000030517578,
+        "end": 102.80000305175781,
+        "text": " that you're supposed to take them, I don't know,"
+      },
+      {
+        "id": 22,
+        "start": 102.80000305175781,
+        "end": 106.80000305175781,
+        "text": " I think it was like three a day."
+      },
+      {
+        "id": 23,
+        "start": 106.80000305175781,
+        "end": 108.08000183105469,
+        "text": " No."
+      },
+      {
+        "id": 24,
+        "start": 108.08000183105469,
+        "end": 110.5199966430664,
+        "text": " And I was thinking, OK, so if that's the case,"
+      },
+      {
+        "id": 25,
+        "start": 110.5199966430664,
+        "end": 114.91999816894531,
+        "text": " then I must have not ordered enough."
+      },
+      {
+        "id": 26,
+        "start": 114.91999816894531,
+        "end": 119.36000061035156,
+        "text": " OK, well, so it's just one per?"
+      },
+      {
+        "id": 27,
+        "start": 119.36000061035156,
+        "end": 122.5199966430664,
+        "text": " It's one when you're going to engage in the sexual act."
+      },
+      {
+        "id": 28,
+        "start": 122.5199966430664,
+        "end": 124.63999938964844,
+        "text": " This is not like a pill that you take."
+      },
+      {
+        "id": 29,
+        "start": 124.63999938964844,
+        "end": 127.72000122070312,
+        "text": " Like, it's not a Cialis."
+      },
+      {
+        "id": 30,
+        "start": 127.72000122070312,
+        "end": 128.8800048828125,
+        "text": " Oh, OK."
+      },
+      {
+        "id": 31,
+        "start": 128.8800048828125,
+        "end": 130.55999755859375,
+        "text": " So you just take it when you're going"
+      },
+      {
+        "id": 32,
+        "start": 130.55999755859375,
+        "end": 132.27999877929688,
+        "text": " to engage in the sexual act."
+      },
+      {
+        "id": 33,
+        "start": 132.27999877929688,
+        "end": 135.1199951171875,
+        "text": " But you usually don't take more than 100 milligrams."
+      },
+      {
+        "id": 34,
+        "start": 135.1199951171875,
+        "end": 139.27999877929688,
+        "text": " But the doctor says for you to take one."
+      },
+      {
+        "id": 35,
+        "start": 139.27999877929688,
+        "end": 145.0399932861328,
+        "text": " OK, so what's the difference between this Viagra"
+      },
+      {
+        "id": 36,
+        "start": 145.0399932861328,
+        "end": 147.1999969482422,
+        "text": " and the old Viagra?"
+      },
+      {
+        "id": 37,
+        "start": 147.1999969482422,
+        "end": 148.72000122070312,
+        "text": " The old Viagra is the regular one"
+      },
+      {
+        "id": 38,
+        "start": 148.72000122070312,
+        "end": 150.1199951171875,
+        "text": " you get from your regular doctor."
+      },
+      {
+        "id": 39,
+        "start": 150.1199951171875,
+        "end": 154.16000366210938,
+        "text": " This one has two extra ingredients on top of it."
+      },
+      {
+        "id": 40,
+        "start": 154.16000366210938,
+        "end": 159.27999877929688,
+        "text": " So it lasts longer, it kicks in faster, and it's the same size."
+      },
+      {
+        "id": 41,
+        "start": 159.27999877929688,
+        "end": 168.52000427246094,
+        "text": " OK, when should I expect to get this?"
+      },
+      {
+        "id": 42,
+        "start": 168.52000427246094,
+        "end": 170.0800018310547,
+        "text": " Today is Monday."
+      },
+      {
+        "id": 43,
+        "start": 170.0800018310547,
+        "end": 172.83999633789062,
+        "text": " You should get it by like Wednesday or Thursday."
+      },
+      {
+        "id": 44,
+        "start": 172.83999633789062,
+        "end": 175,
+        "text": " Wednesday or Thursday."
+      },
+      {
+        "id": 45,
+        "start": 175,
+        "end": 178.72000122070312,
+        "text": " OK, all right, well, that's the only question I have."
+      },
+      {
+        "id": 46,
+        "start": 178.72000122070312,
+        "end": 179.9199981689453,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 47,
+        "start": 179.9199981689453,
+        "end": 180.67999267578125,
+        "text": " You're welcome."
+      },
+      {
+        "id": 48,
+        "start": 180.67999267578125,
+        "end": 181.55999755859375,
+        "text": " Have a wonderful day."
+      },
+      {
+        "id": 49,
+        "start": 181.55999755859375,
+        "end": 182.83999633789062,
+        "text": " OK, bye now."
+      },
+      {
+        "id": 50,
+        "start": 187.63999938964844,
+        "end": 188.72000122070312,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 51,
+        "start": 188.72000122070312,
+        "end": 190.27999877929688,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-817a-9248-c93358e4f9b5",
+    "url": "https://www.notion.so/300000001217101-300000001707511-2f611d0a101c817a9248c93358e4f9b5"
+  },
+  "processedAt": "2026-01-28T16:41:00.515Z"
+}

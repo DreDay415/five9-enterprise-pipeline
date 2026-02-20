@@ -1,0 +1,140 @@
+{
+  "recording": {
+    "name": "300000001216738-300000001706062-6617240727 by john@superbalife.com @ 4_28_03 PM.wav",
+    "size": 101980,
+    "modifyTime": 1769584634000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216738-300000001706062-6617240727 by john@superbalife.com @ 4_28_03 PM.wav",
+    "uploadDate": "2026-01-28T07:17:14.000Z",
+    "callId": "300000001216738-300000001706062",
+    "agent": "john",
+    "phoneNumber": "6617240727",
+    "callTimestamp": "2026-01-28T16:28:03.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is Gerald. How can I help you today?\n\nSpeaker 2: Uh, yes. I ordered the, uh, Viagra generic once, and they sent me another one.\n\nSpeaker 1: Can I get your name, please?\n\nSpeaker 2: Gerald Sparling.\n\nSpeaker 1: And your zip code, Gerald?\n\nSpeaker 2: 93536.\n\nSpeaker 1: Lancaster?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, sir. So I do see the doctor did, um, write the prescription with refills for you.\n\nSpeaker 2: If you don't want it every month, I can change that frequency for you as well.\n\nSpeaker 1: Uh, yes. Take it off.\n\nSpeaker 2: Oh, you don't want it at all?\n\nSpeaker 1: No.\n\nSpeaker 2: Okay. But I, I will do that, but I need to let you know, when I do that, it will cancel out the prescription, so it won't be available any longer.\n\nSpeaker 1: So that's understood. You wouldn't be able to call back, too?\n\nSpeaker 2: Right.\n\nSpeaker 1: Okay. Then we're all set, Gerald. I took care of that.\n\nSpeaker 2: Okay. Bye now.\n\nSpeaker 1: Bye-bye.",
+    "duration": 3007,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling. This is Gerald. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 11,
+        "text": " Uh, yes. I ordered the, uh, Viagra generic once, and they sent me another one."
+      },
+      {
+        "id": 2,
+        "start": 13,
+        "end": 14,
+        "text": " Can I get your name, please?"
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 16,
+        "text": " Gerald Sparling."
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 18,
+        "text": " And your zip code, Gerald?"
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 21,
+        "text": " 93536."
+      },
+      {
+        "id": 6,
+        "start": 31,
+        "end": 32,
+        "text": " Lancaster?"
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 33,
+        "text": " Yes."
+      },
+      {
+        "id": 8,
+        "start": 34,
+        "end": 38,
+        "text": " Okay, sir. So I do see the doctor did, um, write the prescription with refills for you."
+      },
+      {
+        "id": 9,
+        "start": 38,
+        "end": 42,
+        "text": " If you don't want it every month, I can change that frequency for you as well."
+      },
+      {
+        "id": 10,
+        "start": 42,
+        "end": 44,
+        "text": " Uh, yes. Take it off."
+      },
+      {
+        "id": 11,
+        "start": 44,
+        "end": 46,
+        "text": " Oh, you don't want it at all?"
+      },
+      {
+        "id": 12,
+        "start": 46,
+        "end": 47,
+        "text": " No."
+      },
+      {
+        "id": 13,
+        "start": 47,
+        "end": 53,
+        "text": " Okay. But I, I will do that, but I need to let you know, when I do that, it will cancel out the prescription, so it won't be available any longer."
+      },
+      {
+        "id": 14,
+        "start": 53,
+        "end": 55,
+        "text": " So that's understood. You wouldn't be able to call back, too?"
+      },
+      {
+        "id": 15,
+        "start": 55,
+        "end": 56,
+        "text": " Right."
+      },
+      {
+        "id": 16,
+        "start": 56,
+        "end": 59,
+        "text": " Okay. Then we're all set, Gerald. I took care of that."
+      },
+      {
+        "id": 17,
+        "start": 59,
+        "end": 60,
+        "text": " Okay. Bye now."
+      },
+      {
+        "id": 18,
+        "start": 60,
+        "end": 61,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-811f-8dcc-e635cf8d58c0",
+    "url": "https://www.notion.so/300000001216738-300000001706062-2f611d0a101c811f8dcce635cf8d58c0"
+  },
+  "processedAt": "2026-01-28T14:57:50.270Z"
+}

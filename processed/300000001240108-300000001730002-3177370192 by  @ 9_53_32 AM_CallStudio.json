@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001240108-300000001730002-3177370192 by  @ 9_53_32 AM_CallStudio.wav",
+    "size": 26970,
+    "modifyTime": 1770918851000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240108-300000001730002-3177370192 by  @ 9_53_32 AM_CallStudio.wav",
+    "uploadDate": "2026-02-12T17:54:11.000Z",
+    "callId": "300000001240108-300000001730002",
+    "phoneNumber": "3177370192",
+    "callTimestamp": "2026-02-12T17:54:11.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque número nueve.\n\nSpeaker 2: Finance number is Johnny.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1400,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.239999771118164,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.239999771118164,
+        "end": 6.239999771118164,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.239999771118164,
+        "end": 9.239999771118164,
+        "text": " Para Español Marque Número Nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.239999771118164,
+        "end": 15.079999923706055,
+        "text": " Finance number is Johnny."
+      },
+      {
+        "id": 4,
+        "start": 15.079999923706055,
+        "end": 16.280000686645508,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8182-9797-f23eb303d4d0",
+    "url": "https://www.notion.so/300000001240108-300000001730002-30511d0a101c81829797f23eb303d4d0"
+  },
+  "processedAt": "2026-02-12T18:05:26.537Z"
+}

@@ -1,0 +1,362 @@
+{
+  "recording": {
+    "name": "300000001218710-300000001708875-5417292085 by olivier@superbalife.com @ 8_19_40 AM.wav",
+    "size": 300036,
+    "modifyTime": 1769590641000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218710-300000001708875-5417292085 by olivier@superbalife.com @ 8_19_40 AM.wav",
+    "uploadDate": "2026-01-28T08:57:21.000Z",
+    "callId": "300000001218710-300000001708875",
+    "agent": "olivier",
+    "phoneNumber": "5417292085",
+    "callTimestamp": "2026-01-28T08:19:40.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Hi, how are you?\n\nSpeaker 1: Good. Mr. Vic Williams?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Yeah, I'm pulling your prescription. Give me one moment.\n\nSpeaker 2: Cincinnati, Ohio?\n\nSpeaker 1: Pardon me?\n\nSpeaker 2: Mr. Vic Williams in Ohio, Cincinnati?\n\nSpeaker 1: Correct.\n\nSpeaker 2: Cincinnati. How may I help you, Mr. Williams?\n\nSpeaker 1: I'd like to close my account.\n\nSpeaker 2: Any health concern, or you just don't need it for a while?\n\nSpeaker 1: I just don't need it. To be honest with you, I haven't tried one out of the first prescription,\n\nSpeaker 2: and I've already sent one prescription back, so I'm jumping ahead on this one.\n\nSpeaker 1: Okay, no problem.\n\nSpeaker 2: I just want to close the account.\n\nSpeaker 1: Okay. You know you have the option to pause, right?\n\nSpeaker 2: And the order has needed maybe 10 pills once or twice a year, but not 40 pills or those big quantities.\n\nSpeaker 1: No, I know I had that option. I talked to somebody about it before.\n\nSpeaker 2: And I just want to close the account.\n\nSpeaker 1: Oh, okay. I just want to make sure you're not going to need 10 pills of Viagra.\n\nSpeaker 2: Why? Because you have a doctor's consultation. They finance, but when you lose that, you try to reorder.\n\nSpeaker 1: They've got to get a new one, and they change the price because of the cost.\n\nSpeaker 2: Because the cost becomes double on that doctor's consultation that they cover for you initially.\n\nSpeaker 1: So that's why usually they offer to pause it to half a year, and then you get 10 pills once or twice a year.\n\nSpeaker 2: Not necessarily 40. You're not required to get 40 pills. You know what I mean?\n\nSpeaker 1: Yeah, I don't know. I'd rather just close the account.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Is it a health concern, or you feel like you don't want to use it no more?\n\nSpeaker 2: I can't sell everything, but I'm just curious because I can place notes here for research.\n\nSpeaker 1: Yeah, I just don't use it. Like I said, I haven't used one pill out of the very first prescription.\n\nSpeaker 2: Oh, really?\n\nSpeaker 1: No.\n\nSpeaker 2: Okay. All right.\n\nSpeaker 1: Me and my woman split up, and I like it that way.\n\nSpeaker 2: Oh, yeah. You like it that way?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Yeah, sometimes it's better. More peace.\n\nSpeaker 1: Oh, yeah.\n\nSpeaker 2: More peace.\n\nSpeaker 1: Oh, yeah.\n\nSpeaker 2: For better health.\n\nSpeaker 1: You got that right.\n\nSpeaker 2: Yeah, yeah, yeah. That's right.\n\nSpeaker 1: Unfortunately.\n\nSpeaker 2: All right, Mr. Williams. I canceled everything. It's okay.\n\nSpeaker 1: You did cancel everything?\n\nSpeaker 2: Yes, everything is canceled.\n\nSpeaker 1: Okay.\n\nSpeaker 2: The doctor, consultation, the account. So you're all set, okay?\n\nSpeaker 1: Okay. Well, thank you very much.\n\nSpeaker 2: You have a good one. Have a good week.\n\nSpeaker 1: You too. Thank you.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Mm-hmm.",
+    "duration": 12010,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 4,
+        "text": " Hi, how are you?"
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 6,
+        "text": " Good. Mr. Vic Williams?"
+      },
+      {
+        "id": 3,
+        "start": 6,
+        "end": 7,
+        "text": " Correct."
+      },
+      {
+        "id": 4,
+        "start": 7,
+        "end": 11,
+        "text": " Yeah, I'm pulling your prescription. Give me one moment."
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 17,
+        "text": " Cincinnati, Ohio?"
+      },
+      {
+        "id": 6,
+        "start": 17,
+        "end": 19,
+        "text": " Pardon me?"
+      },
+      {
+        "id": 7,
+        "start": 19,
+        "end": 24,
+        "text": " Mr. Vic Williams in Ohio, Cincinnati?"
+      },
+      {
+        "id": 8,
+        "start": 24,
+        "end": 25,
+        "text": " Correct."
+      },
+      {
+        "id": 9,
+        "start": 25,
+        "end": 30,
+        "text": " Cincinnati. How may I help you, Mr. Williams?"
+      },
+      {
+        "id": 10,
+        "start": 30,
+        "end": 34,
+        "text": " I'd like to close my account."
+      },
+      {
+        "id": 11,
+        "start": 34,
+        "end": 38,
+        "text": " Any health concern, or you just don't need it for a while?"
+      },
+      {
+        "id": 12,
+        "start": 38,
+        "end": 45,
+        "text": " I just don't need it. To be honest with you, I haven't tried one out of the first prescription,"
+      },
+      {
+        "id": 13,
+        "start": 45,
+        "end": 52,
+        "text": " and I've already sent one prescription back, so I'm jumping ahead on this one."
+      },
+      {
+        "id": 14,
+        "start": 52,
+        "end": 54,
+        "text": " Okay, no problem."
+      },
+      {
+        "id": 15,
+        "start": 54,
+        "end": 57,
+        "text": " I just want to close the account."
+      },
+      {
+        "id": 16,
+        "start": 57,
+        "end": 61,
+        "text": " Okay. You know you have the option to pause, right?"
+      },
+      {
+        "id": 17,
+        "start": 61,
+        "end": 68,
+        "text": " And the order has needed maybe 10 pills once or twice a year, but not 40 pills or those big quantities."
+      },
+      {
+        "id": 18,
+        "start": 68,
+        "end": 74,
+        "text": " No, I know I had that option. I talked to somebody about it before."
+      },
+      {
+        "id": 19,
+        "start": 74,
+        "end": 79,
+        "text": " And I just want to close the account."
+      },
+      {
+        "id": 20,
+        "start": 79,
+        "end": 84,
+        "text": " Oh, okay. I just want to make sure you're not going to need 10 pills of Vagrant."
+      },
+      {
+        "id": 21,
+        "start": 84,
+        "end": 88,
+        "text": " Why? Because you have a doctor's consultation. They finance, but when you lose that, you try to reorder."
+      },
+      {
+        "id": 22,
+        "start": 88,
+        "end": 92,
+        "text": " They've got to get a new one, and they change the price because of the cost."
+      },
+      {
+        "id": 23,
+        "start": 92,
+        "end": 98,
+        "text": " Because the cost becomes double on that doctor's consultation that they cover for you initially."
+      },
+      {
+        "id": 24,
+        "start": 98,
+        "end": 104,
+        "text": " So that's why usually they offer to pause it to half a year, and then you get 10 pills once or twice a year."
+      },
+      {
+        "id": 25,
+        "start": 104,
+        "end": 108,
+        "text": " Not necessarily 40. You're not required to get 40 pills. You know what I mean?"
+      },
+      {
+        "id": 26,
+        "start": 108,
+        "end": 111,
+        "text": " Yeah, I don't know. I'd rather just close the account."
+      },
+      {
+        "id": 27,
+        "start": 111,
+        "end": 115,
+        "text": " Okay."
+      },
+      {
+        "id": 28,
+        "start": 115,
+        "end": 120,
+        "text": " It's a health concern, or you feel like you don't want to use it no more?"
+      },
+      {
+        "id": 29,
+        "start": 120,
+        "end": 125,
+        "text": " I can't sell everything, but I'm just curious because I can place notes here for research."
+      },
+      {
+        "id": 30,
+        "start": 125,
+        "end": 134,
+        "text": " Yeah, I just don't use it. Like I said, I haven't used one pill out of the very first description."
+      },
+      {
+        "id": 31,
+        "start": 134,
+        "end": 135,
+        "text": " Oh, really?"
+      },
+      {
+        "id": 32,
+        "start": 135,
+        "end": 137,
+        "text": " No."
+      },
+      {
+        "id": 33,
+        "start": 137,
+        "end": 139,
+        "text": " Okay. All right."
+      },
+      {
+        "id": 34,
+        "start": 139,
+        "end": 142,
+        "text": " Me and my woman split up, and I like it that way."
+      },
+      {
+        "id": 35,
+        "start": 142,
+        "end": 144,
+        "text": " Oh, yeah. You like it that way?"
+      },
+      {
+        "id": 36,
+        "start": 144,
+        "end": 146,
+        "text": " Yeah."
+      },
+      {
+        "id": 37,
+        "start": 146,
+        "end": 148,
+        "text": " Yeah, sometimes it's better. More peace."
+      },
+      {
+        "id": 38,
+        "start": 148,
+        "end": 150,
+        "text": " Oh, yeah."
+      },
+      {
+        "id": 39,
+        "start": 150,
+        "end": 151,
+        "text": " More peace."
+      },
+      {
+        "id": 40,
+        "start": 151,
+        "end": 152,
+        "text": " Oh, yeah."
+      },
+      {
+        "id": 41,
+        "start": 152,
+        "end": 154,
+        "text": " For better health."
+      },
+      {
+        "id": 42,
+        "start": 154,
+        "end": 156,
+        "text": " You got that right."
+      },
+      {
+        "id": 43,
+        "start": 156,
+        "end": 159,
+        "text": " Yeah, yeah, yeah. That's right."
+      },
+      {
+        "id": 44,
+        "start": 159,
+        "end": 163,
+        "text": " Unfortunately."
+      },
+      {
+        "id": 45,
+        "start": 163,
+        "end": 167,
+        "text": " All right, Mr. William. I canceled everything. It's okay."
+      },
+      {
+        "id": 46,
+        "start": 167,
+        "end": 169,
+        "text": " You did cancel everything?"
+      },
+      {
+        "id": 47,
+        "start": 169,
+        "end": 171,
+        "text": " Yes, everything is canceled."
+      },
+      {
+        "id": 48,
+        "start": 171,
+        "end": 172,
+        "text": " Okay."
+      },
+      {
+        "id": 49,
+        "start": 172,
+        "end": 175,
+        "text": " The doctor, consultation, the account. So you're all set, okay?"
+      },
+      {
+        "id": 50,
+        "start": 175,
+        "end": 177,
+        "text": " Okay. Well, thank you very much."
+      },
+      {
+        "id": 51,
+        "start": 177,
+        "end": 179,
+        "text": " You have a good one. Have a good week."
+      },
+      {
+        "id": 52,
+        "start": 179,
+        "end": 181,
+        "text": " You too. Thank you."
+      },
+      {
+        "id": 53,
+        "start": 181,
+        "end": 182,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 54,
+        "start": 182,
+        "end": 183,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 55,
+        "start": 183,
+        "end": 184,
+        "text": " Mm-hmm."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8172-8cab-c3e6bfd5bb34",
+    "url": "https://www.notion.so/300000001218710-300000001708875-2f611d0a101c81728cabc3e6bfd5bb34"
+  },
+  "processedAt": "2026-01-28T11:56:42.103Z"
+}

@@ -1,0 +1,152 @@
+{
+  "recording": {
+    "name": "300000001219553-300000001709591-3153910005 by gabriela@superbalife.com @ 11_46_04 AM.wav",
+    "size": 135130,
+    "modifyTime": 1769582235000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219553-300000001709591-3153910005 by gabriela@superbalife.com @ 11_46_04 AM.wav",
+    "uploadDate": "2026-01-28T06:37:15.000Z",
+    "callId": "300000001219553-300000001709591",
+    "agent": "gabriela",
+    "phoneNumber": "3153910005",
+    "callTimestamp": "2026-01-28T11:46:04.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Yeah, I think to order more, I get an RX number and I don't know if that helps you.\n\nSpeaker 1: Okay, what is your name and date of birth?\n\nSpeaker 2: Joe Mitchell, 12-5-54.\n\nSpeaker 1: Okay. Okay, and then do you want to go ahead and place an order for our new and improved Viagra AGB?\n\nSpeaker 2: For that one, we do have three different packages available.\n\nSpeaker 1: You can either do a quantity of 10 for $49, a quantity of 25 for $99, or a quantity of 40 for $149.\n\nSpeaker 2: I'll do the 25.\n\nSpeaker 1: Okay, what's the dosage, 100 milligrams?\n\nSpeaker 2: What's that?\n\nSpeaker 1: 100 milligrams?\n\nSpeaker 2: Yeah, 100 milligrams, yep.\n\nSpeaker 1: Okay, so 25 pills, 100 milligrams.\n\nSpeaker 2: And then, Joe, is your shipping address still the same, 1642 Jerome Road, Phoebus, New York, 13063?\n\nSpeaker 1: Yep.\n\nSpeaker 2: Great, and can I charge the MasterCard ending in 8380?\n\nSpeaker 1: Yep.\n\nSpeaker 2: Okay, you're all set, Joe. I was able to successfully place that order for you,\n\nSpeaker 1: so you should be receiving it within the next three to five business days, okay?\n\nSpeaker 2: Thank you.\n\nSpeaker 1: You're welcome. Have a good day. Bye.",
+    "duration": 3701,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 8,
+        "text": " Yeah, I think to order more, I get an RX number and I don't know if that helps you."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " Okay, what is your name and date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 17,
+        "text": " Joe Mitchell, 12-5-54."
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 25,
+        "text": " Okay. Okay, and then do you want to go ahead and place an order for our new and improved Viagra AGB?"
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 28,
+        "text": " For that one, we do have three different packages available."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 36,
+        "text": " You can either do a quantity of 10 for $49, a quantity of 25 for $99, or a quantity of 40 for $149."
+      },
+      {
+        "id": 7,
+        "start": 36,
+        "end": 41,
+        "text": " I'll do the 25."
+      },
+      {
+        "id": 8,
+        "start": 41,
+        "end": 44,
+        "text": " Okay, what's the dosage, 100 milligrams?"
+      },
+      {
+        "id": 9,
+        "start": 44,
+        "end": 46,
+        "text": " What's that?"
+      },
+      {
+        "id": 10,
+        "start": 46,
+        "end": 48,
+        "text": " 100 milligrams?"
+      },
+      {
+        "id": 11,
+        "start": 48,
+        "end": 50,
+        "text": " Yeah, 100 milligrams, yep."
+      },
+      {
+        "id": 12,
+        "start": 50,
+        "end": 53,
+        "text": " Okay, so 25 pounds, 100 milligrams."
+      },
+      {
+        "id": 13,
+        "start": 53,
+        "end": 61,
+        "text": " And then, Joe, is your shipping address still the same, 1642 Jerome Road, Phoebus, New York, 13063?"
+      },
+      {
+        "id": 14,
+        "start": 61,
+        "end": 62,
+        "text": " Yep."
+      },
+      {
+        "id": 15,
+        "start": 62,
+        "end": 66,
+        "text": " Great, and can I charge the MasterCard ending in 8380?"
+      },
+      {
+        "id": 16,
+        "start": 66,
+        "end": 72,
+        "text": " Yep."
+      },
+      {
+        "id": 17,
+        "start": 72,
+        "end": 76,
+        "text": " Okay, you're all set, Joe. I was able to successfully place in that order for you,"
+      },
+      {
+        "id": 18,
+        "start": 76,
+        "end": 80,
+        "text": " so you should be receiving it within the next three to five business days, okay?"
+      },
+      {
+        "id": 19,
+        "start": 80,
+        "end": 81,
+        "text": " Thank you."
+      },
+      {
+        "id": 20,
+        "start": 81,
+        "end": 83,
+        "text": " You're welcome. Have a good day. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8125-b3d1-c8fe365bb812",
+    "url": "https://www.notion.so/300000001219553-300000001709591-2f611d0a101c8125b3d1c8fe365bb812"
+  },
+  "processedAt": "2026-01-28T17:29:24.470Z"
+}

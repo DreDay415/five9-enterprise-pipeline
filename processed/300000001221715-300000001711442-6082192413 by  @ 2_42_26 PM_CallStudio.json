@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001221715-300000001711442-6082192413 by  @ 2_42_26 PM_CallStudio.wav",
+    "size": 29246,
+    "modifyTime": 1769640188000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221715-300000001711442-6082192413 by  @ 2_42_26 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T22:43:08.000Z",
+    "callId": "300000001221715-300000001711442",
+    "phoneNumber": "6082192413",
+    "callTimestamp": "2026-01-28T22:43:08.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I have a new credit card number that I'd like to get back into the program with.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1545,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 15,
+        "text": " I have a new credit card number that I'd like to get back into the program with."
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 18,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81d5-839b-d4fde027a7ff",
+    "url": "https://www.notion.so/300000001221715-300000001711442-2f611d0a101c81d5839bd4fde027a7ff"
+  },
+  "processedAt": "2026-01-28T23:34:25.687Z"
+}

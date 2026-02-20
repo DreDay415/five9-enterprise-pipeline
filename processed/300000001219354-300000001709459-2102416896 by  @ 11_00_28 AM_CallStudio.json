@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001219354-300000001709459-2102416896 by  @ 11_00_28 AM_CallStudio.wav",
+    "size": 32756,
+    "modifyTime": 1769584040000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219354-300000001709459-2102416896 by  @ 11_00_28 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:07:20.000Z",
+    "callId": "300000001219354-300000001709459",
+    "phoneNumber": "2102416896",
+    "callTimestamp": "2026-01-28T07:07:20.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Para Español, marque numero nueve.\n\nSpeaker 1: Pricing of Viagra, Viagra AGV.\n\nSpeaker 2: Thanks, transferring to agent.",
+    "duration": 850,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 8,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 16,
+        "text": " Pricing of Viagra, Viagra AGV."
+      },
+      {
+        "id": 3,
+        "start": 18,
+        "end": 20,
+        "text": " Thanks, transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81b9-9bf0-cec1e2710ebe",
+    "url": "https://www.notion.so/300000001219354-300000001709459-2f611d0a101c81b99bf0cec1e2710ebe"
+  },
+  "processedAt": "2026-01-28T15:26:53.712Z"
+}

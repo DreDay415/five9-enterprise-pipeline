@@ -1,0 +1,230 @@
+{
+  "recording": {
+    "name": "300000001219926-300000001709840-7818856822 by charles@superbalife.com @ 1_42_48 PM.wav",
+    "size": 267080,
+    "modifyTime": 1769550337000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219926-300000001709840-7818856822 by charles@superbalife.com @ 1_42_48 PM.wav",
+    "uploadDate": "2026-01-27T21:45:37.000Z",
+    "callId": "300000001219926-300000001709840",
+    "agent": "charles",
+    "phoneNumber": "7818856822",
+    "callTimestamp": "2026-01-27T13:42:48.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hello.\n\nSpeaker 2: Hi, this is Charles with Scorablue, we were just on the phone right now.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Hey, brother, I was just checking on the order and making sure that we were able to get it through.\n\nSpeaker 1: It looks like the overnight shipment did not go through, the $38, it looks like there wasn't enough funds on the account.\n\nSpeaker 2: I don't know if you want to try to add a few more bucks on there and then we could try it one more time, but the process got declined for the overnight.\n\nSpeaker 1: All right, let me, hold on, should I wait on the phone, should I do it right now, or?\n\nSpeaker 2: Yeah, I could wait, go ahead, I'll be here.\n\nSpeaker 1: All right, one second.\n\nSpeaker 2: You're good, take care.\n\nSpeaker 1: Are you, you know what it might have been, PayPal might have seen that it was two charges and it flagged it as like something, like a mistake or something, so if it's not the funds, that's the issue, it might be PayPal just making sure that you didn't get charged twice, you might need to call them and clear it really fast.\n\nSpeaker 2: They have a pretty fast customer service line, from what I hear, so either way, whatever we need to do.\n\nSpeaker 1: That's crazy, there's more than enough in there.\n\nSpeaker 2: I just sent another $100, but there's three times what you need.\n\nSpeaker 1: Okay, so it's more than likely PayPal.\n\nSpeaker 2: What you could do is call them really fast, let me see if I can pull their number up.\n\nSpeaker 1: I can give it.\n\nSpeaker 2: Okay, yeah, just call them really fast, tell them, hey, I'm trying to clear an additional order for $38 to Scorablue, I need that process so that I'm able to get this order sent out overnight and then call me back, we'll run it again, and then we'll make sure that we get this order out, all right?\n\nSpeaker 1: All right, what's the contact info?\n\nSpeaker 2: One second, let me see if it's on here, recents, 675-9807?\n\nSpeaker 1: Correct, and then my extension is 0040.\n\nSpeaker 2: All right, 0040, all right, thank you.\n\nSpeaker 1: Okay, all right, talk to you soon, bye-bye.\n\nSpeaker 2: PayPal customer service?",
+    "duration": 7517,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Hello."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 5.840000152587891,
+        "text": " Hi, this is Charles with Scorablue, we were just on the phone right now."
+      },
+      {
+        "id": 2,
+        "start": 5.840000152587891,
+        "end": 6.840000152587891,
+        "text": " Yeah."
+      },
+      {
+        "id": 3,
+        "start": 6.840000152587891,
+        "end": 11.239999771118164,
+        "text": " Hey, brother, I was just checking on the order and making sure that we were able to get it"
+      },
+      {
+        "id": 4,
+        "start": 11.239999771118164,
+        "end": 12.239999771118164,
+        "text": " through."
+      },
+      {
+        "id": 5,
+        "start": 12.239999771118164,
+        "end": 19.239999771118164,
+        "text": " It looks like the overnight shipment did not go through, the $38, it looks like there wasn't"
+      },
+      {
+        "id": 6,
+        "start": 19.239999771118164,
+        "end": 21.31999969482422,
+        "text": " enough funds on the account."
+      },
+      {
+        "id": 7,
+        "start": 21.31999969482422,
+        "end": 24.760000228881836,
+        "text": " I don't know if you want to try to add a few more bucks on there and then we could try"
+      },
+      {
+        "id": 8,
+        "start": 24.760000228881836,
+        "end": 28.68000030517578,
+        "text": " it one more time, but the process got declined for the overnight."
+      },
+      {
+        "id": 9,
+        "start": 29.68000030517578,
+        "end": 34.400001525878906,
+        "text": " All right, let me, hold on, should I wait on the phone, should I do it right now, or?"
+      },
+      {
+        "id": 10,
+        "start": 34.400001525878906,
+        "end": 37.400001525878906,
+        "text": " Yeah, I could wait, go ahead, I'll be here."
+      },
+      {
+        "id": 11,
+        "start": 37.400001525878906,
+        "end": 38.400001525878906,
+        "text": " All right, one second."
+      },
+      {
+        "id": 12,
+        "start": 38.400001525878906,
+        "end": 40.400001525878906,
+        "text": " You're good, take care."
+      },
+      {
+        "id": 13,
+        "start": 40.400001525878906,
+        "end": 61.2400016784668,
+        "text": " Are you, you know what it might have been, PayPal might have seen that it was two charges"
+      },
+      {
+        "id": 14,
+        "start": 61.2400016784668,
+        "end": 66.4800033569336,
+        "text": " and it flagged it as like something, like a mistake or something, so if it's not the"
+      },
+      {
+        "id": 15,
+        "start": 66.4800033569336,
+        "end": 71.5199966430664,
+        "text": " funds, that's the issue, it might be PayPal just making sure that you didn't get charged"
+      },
+      {
+        "id": 16,
+        "start": 71.5199966430664,
+        "end": 76.12000274658203,
+        "text": " twice, you might need to call them and clear it really fast."
+      },
+      {
+        "id": 17,
+        "start": 76.12000274658203,
+        "end": 81.44000244140625,
+        "text": " They have a pretty fast customer service line, from what I hear, so either way, whatever"
+      },
+      {
+        "id": 18,
+        "start": 81.44000244140625,
+        "end": 97.95999908447266,
+        "text": " we need to do."
+      },
+      {
+        "id": 19,
+        "start": 97.95999908447266,
+        "end": 101.31999969482422,
+        "text": " That's crazy, there's more than enough in there."
+      },
+      {
+        "id": 20,
+        "start": 101.31999969482422,
+        "end": 106.63999938964844,
+        "text": " I just sent another $100, but there's three times what you need."
+      },
+      {
+        "id": 21,
+        "start": 106.63999938964844,
+        "end": 110.27999877929688,
+        "text": " Okay, so it's more than likely PayPal."
+      },
+      {
+        "id": 22,
+        "start": 110.27999877929688,
+        "end": 117.31999969482422,
+        "text": " What you could do is call them really fast, let me see if I can pull their number up."
+      },
+      {
+        "id": 23,
+        "start": 117.31999969482422,
+        "end": 118.31999969482422,
+        "text": " I can give it."
+      },
+      {
+        "id": 24,
+        "start": 118.31999969482422,
+        "end": 123.27999877929688,
+        "text": " Okay, yeah, just call them really fast, tell them, hey, I'm trying to clear an additional"
+      },
+      {
+        "id": 25,
+        "start": 123.27999877929688,
+        "end": 130.0800018310547,
+        "text": " order for $38 to score blue, I need that process so that I'm able to get this order sent out"
+      },
+      {
+        "id": 26,
+        "start": 130.0800018310547,
+        "end": 132.9199981689453,
+        "text": " overnight and then call me back, we'll run it again, and then we'll make sure that we"
+      },
+      {
+        "id": 27,
+        "start": 132.9199981689453,
+        "end": 134.9199981689453,
+        "text": " get this order out, all right?"
+      },
+      {
+        "id": 28,
+        "start": 134.9199981689453,
+        "end": 138.9199981689453,
+        "text": " All right, what's the contact info?"
+      },
+      {
+        "id": 29,
+        "start": 138.9199981689453,
+        "end": 145.9199981689453,
+        "text": " One second, let me see if it's on here, recents, 675-9807?"
+      },
+      {
+        "id": 30,
+        "start": 145.9199981689453,
+        "end": 149.9199981689453,
+        "text": " Correct, and then my extension is 0040."
+      },
+      {
+        "id": 31,
+        "start": 149.9199981689453,
+        "end": 152.9199981689453,
+        "text": " All right, 0040, all right, thank you."
+      },
+      {
+        "id": 32,
+        "start": 152.9199981689453,
+        "end": 155.9199981689453,
+        "text": " Okay, all right, talk to you soon, bye-bye."
+      },
+      {
+        "id": 33,
+        "start": 159.9199981689453,
+        "end": 162.9199981689453,
+        "text": " PayPal customer service?"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8124-99d9-de0adaff8a1e",
+    "url": "https://www.notion.so/300000001219926-300000001709840-2f511d0a101c812499d9de0adaff8a1e"
+  },
+  "processedAt": "2026-01-27T23:25:24.729Z"
+}

@@ -1,0 +1,176 @@
+{
+  "recording": {
+    "name": "300000001220735-300000001710795-3302070988 by lucif@superbalife.com @ 9_36_24 AM.wav",
+    "size": 130320,
+    "modifyTime": 1769621869000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220735-300000001710795-3302070988 by lucif@superbalife.com @ 9_36_24 AM.wav",
+    "uploadDate": "2026-01-28T17:37:49.000Z",
+    "callId": "300000001220735-300000001710795",
+    "agent": "lucif",
+    "phoneNumber": "3302070988",
+    "callTimestamp": "2026-01-28T09:36:24.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, Clint speaking. How can I help you?\n\nSpeaker 2: Yeah, I just want to cancel my subscription.\n\nSpeaker 1: Okie dokie. What is your zip code?\n\nSpeaker 2: 44512.\n\nSpeaker 1: 44512?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Alrighty, one moment. Let's take a look.\n\nSpeaker 2: Is your name Bradette?\n\nSpeaker 1: Yes, it is.\n\nSpeaker 2: Thank you, sir. One moment.\n\nSpeaker 1: Alright, Mr. Bradette, I do notice here you are a VIP with us as well, getting Viagra here.\n\nSpeaker 2: Do you mind if I ask why you're canceling?\n\nSpeaker 1: Yeah, actually I have too many left. I have like, I don't know, almost 100 left.\n\nSpeaker 2: Not going to need them anymore for a while.\n\nSpeaker 1: Okay, well, I mean, we can just basically not send them to you and kind of let you order as needed in like the next six months if that'll help you out better.\n\nSpeaker 2: Just canceling for now. If I need them again, I'll just come back.\n\nSpeaker 1: Yeah, but you know the prescription would be canceled as well, so there won't be any refills.\n\nSpeaker 2: I understand that.\n\nSpeaker 1: For later.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, alright, here comes it out, sir.\n\nSpeaker 1: Alright, thank you.\n\nSpeaker 2: You're welcome. Have a good one.\n\nSpeaker 1: You too.",
+    "duration": 2699,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thanks for calling Viagra, Clint speaking. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " Yeah, I just want to cancel my subscription."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 10,
+        "text": " Okie dokie. What is your zip code?"
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 12,
+        "text": " 44512."
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 15,
+        "text": " 44512?"
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 17,
+        "text": " Correct."
+      },
+      {
+        "id": 6,
+        "start": 17,
+        "end": 21,
+        "text": " Alrighty, one moment. Let's take a look."
+      },
+      {
+        "id": 7,
+        "start": 21,
+        "end": 23,
+        "text": " Is your name Bradette?"
+      },
+      {
+        "id": 8,
+        "start": 23,
+        "end": 25,
+        "text": " Yes, it is."
+      },
+      {
+        "id": 9,
+        "start": 25,
+        "end": 27,
+        "text": " Thank you, sir. One moment."
+      },
+      {
+        "id": 10,
+        "start": 31,
+        "end": 37,
+        "text": " Alright, Mr. Bradette, I do notice here you are a VIP with us as well, getting Viagra here."
+      },
+      {
+        "id": 11,
+        "start": 37,
+        "end": 40,
+        "text": " Do you mind if I ask why you're canceling?"
+      },
+      {
+        "id": 12,
+        "start": 40,
+        "end": 46,
+        "text": " Yeah, actually I have too many left. I have like, I don't know, almost 100 left."
+      },
+      {
+        "id": 13,
+        "start": 46,
+        "end": 49,
+        "text": " Not going to need them anymore for a while."
+      },
+      {
+        "id": 14,
+        "start": 49,
+        "end": 57,
+        "text": " Okay, well, I mean, we can just basically not send them to you and kind of let you order as needed in like the next six months if that'll help you out better."
+      },
+      {
+        "id": 15,
+        "start": 57,
+        "end": 63,
+        "text": " Just canceling for now. If I need them again, I'll just come back."
+      },
+      {
+        "id": 16,
+        "start": 63,
+        "end": 68,
+        "text": " Yeah, but you know the prescription would be canceled as well, so there won't be any refills."
+      },
+      {
+        "id": 17,
+        "start": 68,
+        "end": 70,
+        "text": " I understand that."
+      },
+      {
+        "id": 18,
+        "start": 70,
+        "end": 71,
+        "text": " For later."
+      },
+      {
+        "id": 19,
+        "start": 71,
+        "end": 72,
+        "text": " Yeah."
+      },
+      {
+        "id": 20,
+        "start": 72,
+        "end": 73,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 73,
+        "end": 76,
+        "text": " Okay, alright, here comes it out, sir."
+      },
+      {
+        "id": 22,
+        "start": 76,
+        "end": 77,
+        "text": " Alright, thank you."
+      },
+      {
+        "id": 23,
+        "start": 77,
+        "end": 79,
+        "text": " You're welcome. Have a good one."
+      },
+      {
+        "id": 24,
+        "start": 79,
+        "end": 80,
+        "text": " You too."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a2-a895-d1c16ba5948a",
+    "url": "https://www.notion.so/300000001220735-300000001710795-2f611d0a101c81a2a895d1c16ba5948a"
+  },
+  "processedAt": "2026-01-28T18:22:41.775Z"
+}

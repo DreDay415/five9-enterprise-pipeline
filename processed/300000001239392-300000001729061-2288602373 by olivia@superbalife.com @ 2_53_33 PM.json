@@ -1,0 +1,236 @@
+{
+  "recording": {
+    "name": "300000001239392-300000001729061-2288602373 by olivia@superbalife.com @ 2_53_33 PM.wav",
+    "size": 231850,
+    "modifyTime": 1770850578000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239392-300000001729061-2288602373 by olivia@superbalife.com @ 2_53_33 PM.wav",
+    "uploadDate": "2026-02-11T22:56:18.000Z",
+    "callId": "300000001239392-300000001729061",
+    "agent": "olivia",
+    "phoneNumber": "2288602373",
+    "callTimestamp": "2026-02-11T14:53:33.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Olivia speaking. Who do I have the pleasure of speaking with today?\n\nSpeaker 2: My name is Billy Funk.\n\nSpeaker 1: Hi, Billy. How are you?\n\nSpeaker 2: I'm good. So I was calling to cancel the prescription I got from you guys.\n\nSpeaker 1: Yeah, I can help you with that. Okay, Billy, what's your date of birth?\n\nSpeaker 2: March 30th, 81.\n\nSpeaker 1: Yeah, and you're located at 13225 Meadowland Court, Gothport, Mississippi.\n\nSpeaker 2: That's correct, yes.\n\nSpeaker 1: Great. And you do not want nor do you need the refill from today that you were charged for, is that correct?\n\nSpeaker 2: That's correct, yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yep, that's exactly right.\n\nSpeaker 1: Okay, so I just canceled and refunded that refill back to you.\n\nSpeaker 2: So you won't be receiving it, but you will see a refund for $63.95 maybe as soon as the next few hours.\n\nSpeaker 1: But depending on your bank, it could take a few days. Keep your eye out.\n\nSpeaker 2: And if you don't want to receive regular ongoing refills with your prescription, you certainly don't have to.\n\nSpeaker 1: You always have the option to place your prescription on hold for up to six months at a time,\n\nSpeaker 2: just because six months is when the prescription would expire if we didn't refill it.\n\nSpeaker 1: And the way that works is whenever you are ready to order, if it is before then you can.\n\nSpeaker 2: You just have to give us a call to place the order yourself.\n\nSpeaker 1: Oh, okay. Yeah, I didn't know that.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, cool.\n\nSpeaker 1: So, yeah, your prescription is placed on hold until the middle of August.\n\nSpeaker 2: But if you need anything before then, just give us a call.\n\nSpeaker 1: We're always here Monday through Friday, 8 to 5 Pacific.\n\nSpeaker 2: Okay, and what's your name, Olivia?\n\nSpeaker 1: Olivia, that's right.\n\nSpeaker 2: Okay, well, I appreciate it, Olivia. Thank you.\n\nSpeaker 1: Yeah, thank you, Billy.\n\nSpeaker 2: I hope you have a great day.\n\nSpeaker 1: You too.\n\nSpeaker 2: Okay, bye.\n\nSpeaker 1: Bye.",
+    "duration": 4579,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8,
+        "text": " Thank you for calling Viagra. This is Olivia speaking. Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 1,
+        "start": 8,
+        "end": 12,
+        "text": " My name is Billy Funk at UNK."
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 15,
+        "text": " Hi, Billy. How are you?"
+      },
+      {
+        "id": 3,
+        "start": 15,
+        "end": 22,
+        "text": " I'm good. So I was calling to cancel the prescription I got you guys."
+      },
+      {
+        "id": 4,
+        "start": 22,
+        "end": 27,
+        "text": " Yeah, I can help you with that. Okay, Billy, what's your date of birth?"
+      },
+      {
+        "id": 5,
+        "start": 27,
+        "end": 30,
+        "text": " March 30th, 81."
+      },
+      {
+        "id": 6,
+        "start": 30,
+        "end": 37,
+        "text": " Yeah, and you're located at 13225 Meadowland Court, Gothport, Mississippi."
+      },
+      {
+        "id": 7,
+        "start": 37,
+        "end": 40,
+        "text": " That's correct, yes."
+      },
+      {
+        "id": 8,
+        "start": 40,
+        "end": 47,
+        "text": " Great. And you do not want nor do you need the refill from today that you were charged for, is that correct?"
+      },
+      {
+        "id": 9,
+        "start": 47,
+        "end": 48,
+        "text": " That's correct, yeah."
+      },
+      {
+        "id": 10,
+        "start": 48,
+        "end": 49,
+        "text": " Okay."
+      },
+      {
+        "id": 11,
+        "start": 49,
+        "end": 51,
+        "text": " Yep, that's exactly right."
+      },
+      {
+        "id": 12,
+        "start": 51,
+        "end": 56,
+        "text": " Okay, so I just canceled and refunded that refill back to you."
+      },
+      {
+        "id": 13,
+        "start": 56,
+        "end": 64,
+        "text": " So you won't be receiving it, but you will see a refund for $63.95 maybe as soon as the next few hours."
+      },
+      {
+        "id": 14,
+        "start": 64,
+        "end": 69,
+        "text": " But depending on your bank, it could take a few days. Keep your eye out."
+      },
+      {
+        "id": 15,
+        "start": 69,
+        "end": 77,
+        "text": " And if you don't want to receive regular ongoing refills with your prescription, you certainly don't have to."
+      },
+      {
+        "id": 16,
+        "start": 78,
+        "end": 85,
+        "text": " You always have the option to place your prescription on hold for up to six months at a time,"
+      },
+      {
+        "id": 17,
+        "start": 85,
+        "end": 92,
+        "text": " just because six months is when the prescription would expire if we didn't refill it."
+      },
+      {
+        "id": 18,
+        "start": 92,
+        "end": 100,
+        "text": " And the way that works is whenever you are ready to order, if it is before then you can."
+      },
+      {
+        "id": 19,
+        "start": 100,
+        "end": 105,
+        "text": " You just have to give us a call to place the order yourself."
+      },
+      {
+        "id": 20,
+        "start": 106,
+        "end": 109,
+        "text": " Oh, okay. Yeah, I didn't know that."
+      },
+      {
+        "id": 21,
+        "start": 109,
+        "end": 111,
+        "text": " Yeah."
+      },
+      {
+        "id": 22,
+        "start": 111,
+        "end": 112,
+        "text": " Okay."
+      },
+      {
+        "id": 23,
+        "start": 112,
+        "end": 114,
+        "text": " Okay, cool."
+      },
+      {
+        "id": 24,
+        "start": 114,
+        "end": 118,
+        "text": " So, yeah, your prescription is placed on hold until the middle of August."
+      },
+      {
+        "id": 25,
+        "start": 118,
+        "end": 122,
+        "text": " But if you need anything before then, just give us a call."
+      },
+      {
+        "id": 26,
+        "start": 122,
+        "end": 127,
+        "text": " We're always here Monday through Friday, 8 to 5 Pacific."
+      },
+      {
+        "id": 27,
+        "start": 127,
+        "end": 129,
+        "text": " Okay, and what's your name, Olivia?"
+      },
+      {
+        "id": 28,
+        "start": 129,
+        "end": 132,
+        "text": " Olivia, that's right."
+      },
+      {
+        "id": 29,
+        "start": 132,
+        "end": 134,
+        "text": " Okay, well, I appreciate it, Olivia. Thank you."
+      },
+      {
+        "id": 30,
+        "start": 134,
+        "end": 135,
+        "text": " Yeah, thank you, Billy."
+      },
+      {
+        "id": 31,
+        "start": 135,
+        "end": 137,
+        "text": " I hope you have a great day."
+      },
+      {
+        "id": 32,
+        "start": 137,
+        "end": 138,
+        "text": " You too."
+      },
+      {
+        "id": 33,
+        "start": 138,
+        "end": 139,
+        "text": " Okay, bye."
+      },
+      {
+        "id": 34,
+        "start": 139,
+        "end": 140,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-81b1-ae3e-d58112b55ebb",
+    "url": "https://www.notion.so/300000001239392-300000001729061-30411d0a101c81b1ae3ed58112b55ebb"
+  },
+  "processedAt": "2026-02-11T23:04:04.276Z"
+}

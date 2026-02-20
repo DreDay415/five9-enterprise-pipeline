@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001219058-300000001709239-2076121136 by  @ 9_49_16 AM_CallStudio.wav",
+    "size": 26516,
+    "modifyTime": 1769583434000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219058-300000001709239-2076121136 by  @ 9_49_16 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T06:57:14.000Z",
+    "callId": "300000001219058-300000001709239",
+    "phoneNumber": "2076121136",
+    "callTimestamp": "2026-01-28T06:57:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: I'd like to register.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Transferring to agent.",
+    "duration": 918,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.159999847412109,
+        "end": 7.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.159999847412109,
+        "end": 10.15999984741211,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.15999984741211,
+        "end": 14.760000228881836,
+        "text": " I'd like to register."
+      },
+      {
+        "id": 4,
+        "start": 14.760000228881836,
+        "end": 15.760000228881836,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 15.760000228881836,
+        "end": 15.960000038146973,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81fd-b7a2-c06b257fada2",
+    "url": "https://www.notion.so/300000001219058-300000001709239-2f611d0a101c81fdb7a2c06b257fada2"
+  },
+  "processedAt": "2026-01-28T16:21:54.045Z"
+}

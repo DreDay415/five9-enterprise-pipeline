@@ -1,0 +1,152 @@
+{
+  "recording": {
+    "name": "300000001218915-300000001709124-8068937380 by josimar@superbalife.com @ 9_12_28 AM.wav",
+    "size": 120830,
+    "modifyTime": 1769591237000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218915-300000001709124-8068937380 by josimar@superbalife.com @ 9_12_28 AM.wav",
+    "uploadDate": "2026-01-28T09:07:17.000Z",
+    "callId": "300000001218915-300000001709124",
+    "agent": "josimar",
+    "phoneNumber": "8068937380",
+    "callTimestamp": "2026-01-28T09:12:28.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, I can help you today.\n\nSpeaker 2: Uh, yeah, I was wanting a reorder, please.\n\nSpeaker 1: Yeah, I can help you with that.\n\nSpeaker 2: Uh, let's see here.\n\nSpeaker 1: What's your last name and a zip code?\n\nSpeaker 2: P-I-N-K-E-R-T, 79336.\n\nSpeaker 1: Yeah, one second here.\n\nSpeaker 2: Okay, uh, it looks like your order, let me see where it is.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Well, I just got something on emails telling me I need to check in for a reorder, so that's\n\nSpeaker 1: what I was...\n\nSpeaker 2: Guard, there might be some information they requested, I don't see why exactly.\n\nSpeaker 1: No, no, you're all set, um, you were re-approved, um, this month it looks like, that could have\n\nSpeaker 2: been the email, but your order will ship out shortly.\n\nSpeaker 1: Okay, sounds good.\n\nSpeaker 2: No problem.\n\nSpeaker 1: Have a good one.\n\nSpeaker 2: Thank you for your time, sir.\n\nSpeaker 1: You too.\n\nSpeaker 2: Yeah, no worries.",
+    "duration": 2528,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.200000047683716,
+        "text": " Viagra, I can help you today."
+      },
+      {
+        "id": 1,
+        "start": 3.200000047683716,
+        "end": 7.440000057220459,
+        "text": " Uh, yeah, I was wanting a reorder, please."
+      },
+      {
+        "id": 2,
+        "start": 7.440000057220459,
+        "end": 10.680000305175781,
+        "text": " Yeah, I can help you with that."
+      },
+      {
+        "id": 3,
+        "start": 10.680000305175781,
+        "end": 11.680000305175781,
+        "text": " Uh, let's see here."
+      },
+      {
+        "id": 4,
+        "start": 11.680000305175781,
+        "end": 15.4399995803833,
+        "text": " What's your last name and a zip code?"
+      },
+      {
+        "id": 5,
+        "start": 15.4399995803833,
+        "end": 22.559999465942383,
+        "text": " P-I-N-K-E-R-T, 79336."
+      },
+      {
+        "id": 6,
+        "start": 22.559999465942383,
+        "end": 23.959999084472656,
+        "text": " Yeah, one second here."
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 44.84000015258789,
+        "text": " Okay, uh, it looks like your order, let me see where it is."
+      },
+      {
+        "id": 8,
+        "start": 44.84000015258789,
+        "end": 45.84000015258789,
+        "text": " Okay."
+      },
+      {
+        "id": 9,
+        "start": 45.84000015258789,
+        "end": 52.959999084472656,
+        "text": " Well, I just got something on emails telling me I need to check in for a reorder, so that's"
+      },
+      {
+        "id": 10,
+        "start": 52.959999084472656,
+        "end": 53.959999084472656,
+        "text": " what I was..."
+      },
+      {
+        "id": 11,
+        "start": 53.959999084472656,
+        "end": 58.720001220703125,
+        "text": " Guard, there might be some information they requested, I don't see why exactly."
+      },
+      {
+        "id": 12,
+        "start": 58.720001220703125,
+        "end": 64.80000305175781,
+        "text": " No, no, you're all set, um, you were re-approved, um, this month it looks like, that could have"
+      },
+      {
+        "id": 13,
+        "start": 64.80000305175781,
+        "end": 67.55999755859375,
+        "text": " been the email, but your order will ship out shortly."
+      },
+      {
+        "id": 14,
+        "start": 67.55999755859375,
+        "end": 68.55999755859375,
+        "text": " Okay, sounds good."
+      },
+      {
+        "id": 15,
+        "start": 68.55999755859375,
+        "end": 69.55999755859375,
+        "text": " No problem."
+      },
+      {
+        "id": 16,
+        "start": 69.55999755859375,
+        "end": 70.55999755859375,
+        "text": " Have a good one."
+      },
+      {
+        "id": 17,
+        "start": 70.55999755859375,
+        "end": 71.55999755859375,
+        "text": " Thank you for your time, sir."
+      },
+      {
+        "id": 18,
+        "start": 71.55999755859375,
+        "end": 72.55999755859375,
+        "text": " You too."
+      },
+      {
+        "id": 19,
+        "start": 72.55999755859375,
+        "end": 73.55999755859375,
+        "text": " Yeah, no worries."
+      },
+      {
+        "id": 20,
+        "start": 73.55999755859375,
+        "end": 73.55999755859375,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-812a-8570-fd9fbdce0ddd",
+    "url": "https://www.notion.so/300000001218915-300000001709124-2f611d0a101c812a8570fd9fbdce0ddd"
+  },
+  "processedAt": "2026-01-28T11:43:44.280Z"
+}

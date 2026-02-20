@@ -1,0 +1,200 @@
+{
+  "recording": {
+    "name": "300000001221419-300000001711252-8887955826 by gabriela@superbalife.com @ 12_55_12 PM.wav",
+    "size": 217160,
+    "modifyTime": 1769633867000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221419-300000001711252-8887955826 by gabriela@superbalife.com @ 12_55_12 PM.wav",
+    "uploadDate": "2026-01-28T20:57:47.000Z",
+    "callId": "300000001221419-300000001711252",
+    "agent": "gabriela",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T12:55:12.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Yes, ma'am. I ordered number 10 of those. Let me give you my RX number.\n\nSpeaker 1: Okay. What is your name and date of birth?\n\nSpeaker 2: Chris Bilodeau, B-I-L-L-A-D-E-A-U.\n\nSpeaker 1: And your date of birth, Christopher?\n\nSpeaker 2: August 30, 1961.\n\nSpeaker 1: You're cutting off. I cannot hear you.\n\nSpeaker 2: August 30, 1961. Did you get that?\n\nSpeaker 1: What's your CIP code, Christopher?\n\nSpeaker 2: It's 65462.\n\nSpeaker 1: Thank you. Okay, and how can I assist you today?\n\nSpeaker 2: Yeah, when I signed up, I got the first 10 pills, and I'm not satisfied with them.\n\nSpeaker 2: You guys put me down as a subscription. Take me off your subscription. I don't want no more of them.\n\nSpeaker 1: So this is a prescription. This is prescribed medication, so in order to order it,\n\nSpeaker 1: you do need a prescription, and that prescription does come with refills.\n\nSpeaker 2: Ma'am, listen, I'm not paying no more money towards this.\n\nSpeaker 2: I only asked for the four. That was it. I mean, for the first 10.\n\nSpeaker 2: You can't keep me on a subscription. I don't want.\n\nSpeaker 1: Yeah, we don't do one-time orders. It's written on the bottle, too,\n\nSpeaker 2: with the amount of refills that it comes with.\n\nSpeaker 1: So if you do not need it every month, we can always adjust it to your preference.\n\nSpeaker 2: Yeah, I don't want it at all. I want you to cancel the subscription.\n\nSpeaker 1: Cancel it? That means that you wouldn't be able to reorder with us in the future, okay?\n\nSpeaker 2: Oh, yeah, fine. That's fine.\n\nSpeaker 1: Okay, you're welcome. Bye.\n\nSpeaker 2: Did you cancel me?\n\nSpeaker 1: Yes, you're all set.\n\nSpeaker 2: You are? Okay. Thank you very much for your time.\n\nSpeaker 1: Okay, you're welcome. Bye.",
+    "duration": 5687,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 11,
+        "text": " Yes, ma'am. I ordered number 10 of those. Let me give you my RX number."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 18,
+        "text": " Okay. What is your name and date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 18,
+        "end": 24,
+        "text": " Chris Bilodeau, B-I-L-L-A-D-E-A-U."
+      },
+      {
+        "id": 4,
+        "start": 24,
+        "end": 28,
+        "text": " And your date of birth, Christopher?"
+      },
+      {
+        "id": 5,
+        "start": 28,
+        "end": 31,
+        "text": " August 30, 1961."
+      },
+      {
+        "id": 6,
+        "start": 31,
+        "end": 34,
+        "text": " You're cutting off. I cannot hear you."
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 41,
+        "text": " August 30, 1961. Did you get that?"
+      },
+      {
+        "id": 8,
+        "start": 41,
+        "end": 44,
+        "text": " What's your CIP code, Christopher?"
+      },
+      {
+        "id": 9,
+        "start": 44,
+        "end": 49,
+        "text": " It's 65462."
+      },
+      {
+        "id": 10,
+        "start": 49,
+        "end": 53,
+        "text": " Thank you. Okay, and how can I assist you today?"
+      },
+      {
+        "id": 11,
+        "start": 53,
+        "end": 59,
+        "text": " Yeah, when I signed up, I got the first 10 pills, and I'm not satisfied with them."
+      },
+      {
+        "id": 12,
+        "start": 59,
+        "end": 66,
+        "text": " You guys put me down as a subscription. Take me off your subscription. I don't want no more of them."
+      },
+      {
+        "id": 13,
+        "start": 66,
+        "end": 71,
+        "text": " So this is a prescription. This is prescribed medication, so in order to order it,"
+      },
+      {
+        "id": 14,
+        "start": 71,
+        "end": 75,
+        "text": " you do need a prescription, and that prescription does come with refills."
+      },
+      {
+        "id": 15,
+        "start": 75,
+        "end": 81,
+        "text": " Ma'am, listen, I'm not paying no more money towards this."
+      },
+      {
+        "id": 16,
+        "start": 82,
+        "end": 87,
+        "text": " I only asked for the four. That was it. I mean, for the first 10."
+      },
+      {
+        "id": 17,
+        "start": 87,
+        "end": 90,
+        "text": " You can't keep me on a subscription. I don't want."
+      },
+      {
+        "id": 18,
+        "start": 90,
+        "end": 95,
+        "text": " Yeah, we don't do one-time orders. It's written on the bottle, too,"
+      },
+      {
+        "id": 19,
+        "start": 95,
+        "end": 99,
+        "text": " with the amount of refills that it comes with."
+      },
+      {
+        "id": 20,
+        "start": 99,
+        "end": 105,
+        "text": " So if you do not need it every month, we can always adjust it to your preference."
+      },
+      {
+        "id": 21,
+        "start": 105,
+        "end": 115,
+        "text": " Yeah, I don't want it at all. I want you to cancel the subscription."
+      },
+      {
+        "id": 22,
+        "start": 115,
+        "end": 119,
+        "text": " Cancel it? That means that you wouldn't be able to reorder with us in the future, okay?"
+      },
+      {
+        "id": 23,
+        "start": 119,
+        "end": 122,
+        "text": " Oh, yeah, fine. That's fine."
+      },
+      {
+        "id": 24,
+        "start": 122,
+        "end": 125,
+        "text": " Okay, you're welcome. Bye."
+      },
+      {
+        "id": 25,
+        "start": 125,
+        "end": 127,
+        "text": " Did you cancel me?"
+      },
+      {
+        "id": 26,
+        "start": 127,
+        "end": 129,
+        "text": " Yes, you're all set."
+      },
+      {
+        "id": 27,
+        "start": 129,
+        "end": 132,
+        "text": " You are? Okay. Thank you very much for your time."
+      },
+      {
+        "id": 28,
+        "start": 132,
+        "end": 134,
+        "text": " Okay, you're welcome. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8132-8f8d-c795cab72c3a",
+    "url": "https://www.notion.so/300000001221419-300000001711252-2f611d0a101c81328f8dc795cab72c3a"
+  },
+  "processedAt": "2026-01-28T22:47:27.273Z"
+}

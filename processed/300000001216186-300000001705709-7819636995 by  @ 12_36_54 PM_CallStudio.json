@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001216186-300000001705709-7819636995 by  @ 12_36_54 PM_CallStudio.wav",
+    "size": 35810,
+    "modifyTime": 1769590031000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216186-300000001705709-7819636995 by  @ 12_36_54 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T08:47:11.000Z",
+    "callId": "300000001216186-300000001705709",
+    "phoneNumber": "7819636995",
+    "callTimestamp": "2026-01-28T08:47:11.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para español, marque numero nueve.\n\nSpeaker 2: Billing.\n\nSpeaker 1: I heard you say, billing.\n\nSpeaker 1: Say yes or press one if this is correct.\n\nSpeaker 1: Otherwise, say no.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 1736,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.199999809265137,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.360000133514404,
+        "end": 6.840000152587891,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.840000152587891,
+        "end": 8.619999885559082,
+        "text": " Para español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.619999885559082,
+        "end": 11.220000267028809,
+        "text": " Billing."
+      },
+      {
+        "id": 4,
+        "start": 11.220000267028809,
+        "end": 15.119999885559082,
+        "text": " I heard you say, billing."
+      },
+      {
+        "id": 5,
+        "start": 15.119999885559082,
+        "end": 18.18000030517578,
+        "text": " Say yes or press one if this is correct."
+      },
+      {
+        "id": 6,
+        "start": 18.899999618530273,
+        "end": 19.920000076293945,
+        "text": " Otherwise, say no."
+      },
+      {
+        "id": 7,
+        "start": 20.479999542236328,
+        "end": 21.739999771118164,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81f5-a919-ee72797f774f",
+    "url": "https://www.notion.so/300000001216186-300000001705709-2f611d0a101c81f5a919ee72797f774f"
+  },
+  "processedAt": "2026-01-28T12:27:43.300Z"
+}

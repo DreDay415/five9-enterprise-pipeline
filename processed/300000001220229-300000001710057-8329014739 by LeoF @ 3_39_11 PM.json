@@ -1,0 +1,31 @@
+{
+  "recording": {
+    "name": "300000001220229-300000001710057-8329014739 by LeoF @ 3_39_11 PM.wav",
+    "size": 6950,
+    "modifyTime": 1769557167000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220229-300000001710057-8329014739 by LeoF @ 3_39_11 PM.wav",
+    "uploadDate": "2026-01-27T23:39:27.000Z",
+    "callId": "300000001220229-300000001710057",
+    "phoneNumber": "8329014739",
+    "callTimestamp": "2026-01-27T15:39:11.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I'm sorry, you can't leave a message because the person you called has a voicemail.",
+    "duration": 1201,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.21999979019165,
+        "text": " I'm sorry, you can't leave a message because the person you called has a voicemail."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e6-a938-e35de1873f91",
+    "url": "https://www.notion.so/300000001220229-300000001710057-2f611d0a101c81e6a938e35de1873f91"
+  },
+  "processedAt": "2026-01-28T17:53:13.816Z"
+}

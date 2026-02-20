@@ -1,0 +1,230 @@
+{
+  "recording": {
+    "name": "300000001218375-300000001708361-6512498393 by nickh@superbalife.com @ 2_37_12 PM.wav",
+    "size": 228926,
+    "modifyTime": 1769584038000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218375-300000001708361-6512498393 by nickh@superbalife.com @ 2_37_12 PM.wav",
+    "uploadDate": "2026-01-28T07:07:18.000Z",
+    "callId": "300000001218375-300000001708361",
+    "agent": "nickh",
+    "phoneNumber": "6512498393",
+    "callTimestamp": "2026-01-28T14:37:12.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra at Score Blue.\n\nSpeaker 2: How can I help you today?\n\nSpeaker 1: Yes, my name is Albert Dillard, A-L-B-E-R-T, last name Dillard, D-I-L-L-A-R-D.\n\nSpeaker 2: And I put in an order for the Viagra Blue on, I believe that was on Monday, I believe.\n\nSpeaker 1: And I spoke with an agent and he indicated that I should have received\n\nSpeaker 2: by Thursday, no later than Friday.\n\nSpeaker 1: And I was calling because I had made plenty of orders and I received all my orders,\n\nSpeaker 2: but I haven't received this order yet.\n\nSpeaker 1: So, Mr. Dillard, could you confirm your date of birth, please?\n\nSpeaker 2: 07-09-1969.\n\nSpeaker 1: Okay. So, I just, I looked at the USPS, this is what it says on their tracking.\n\nSpeaker 2: It says they're unable to attempt delivery of your item on January 24th,\n\nSpeaker 1: 2026 at 8:21 p.m. in Minneapolis, Minnesota, due to the hazardous or unsafe weather conditions.\n\nSpeaker 2: Your item will go out for delivery on the next business day or as conditions permit.\n\nSpeaker 1: So, it's looking like due to some weather issues, there's a delay,\n\nSpeaker 2: but they have it and it is on its way.\n\nSpeaker 1: Okay. Okay, I know I usually kind of get it within like four days, just kind of.\n\nSpeaker 2: Yeah, what I'm going to do here is I'm going to throw your phone number\n\nSpeaker 1: on the USPS tracking website with your permission.\n\nSpeaker 2: This will give you notifications and you'll be able to see the status of it.\n\nSpeaker 1: That sounds good.\n\nSpeaker 2: That sounds good.\n\nSpeaker 1: Okay. So, you should receive a text message just now.\n\nSpeaker 2: Yes. And that's your USPS tracking.\n\nSpeaker 1: Okay. Sounds good.\n\nSpeaker 2: All right.\n\nSpeaker 1: Okay. I greatly appreciate it.\n\nSpeaker 2: Thank you for all your help.\n\nSpeaker 1: Happy to help.\n\nSpeaker 2: Anytime.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: God bless you.\n\nSpeaker 2: Bye-bye.",
+    "duration": 5077,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.319999933242798,
+        "text": " Hi, thank you so much for calling Viagra at Score Blue."
+      },
+      {
+        "id": 1,
+        "start": 2.5999999046325684,
+        "end": 3.380000114440918,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 2,
+        "start": 4.380000114440918,
+        "end": 9.65999984741211,
+        "text": " Yes, my name is Albert Dillard, A-L-B-E-R-T, last name Dillard, D-I-L-L-A-R-D."
+      },
+      {
+        "id": 3,
+        "start": 10.460000038146973,
+        "end": 16.31999969482422,
+        "text": " And I put in an order for the Viagra Blue on, I believe that was on Monday, I believe."
+      },
+      {
+        "id": 4,
+        "start": 17.579999923706055,
+        "end": 20.81999969482422,
+        "text": " And I spoke with an agent and he indicated that I should have received"
+      },
+      {
+        "id": 5,
+        "start": 20.81999969482422,
+        "end": 23.520000457763672,
+        "text": " by Thursday, no later than Friday."
+      },
+      {
+        "id": 6,
+        "start": 24.700000762939453,
+        "end": 29.459999084472656,
+        "text": " And I was calling because I had made plenty of orders and I received all my orders,"
+      },
+      {
+        "id": 7,
+        "start": 29.459999084472656,
+        "end": 31.520000457763672,
+        "text": " but I haven't received this order yet."
+      },
+      {
+        "id": 8,
+        "start": 33.380001068115234,
+        "end": 37.13999938964844,
+        "text": " So, Mr. Dillard, could you confirm your date of birth, please?"
+      },
+      {
+        "id": 9,
+        "start": 38.02000045776367,
+        "end": 41.459999084472656,
+        "text": " 07-09-1969."
+      },
+      {
+        "id": 10,
+        "start": 42.119998931884766,
+        "end": 46.959999084472656,
+        "text": " Okay. So, I just, I looked at the USPS, this is what it says on their tracking."
+      },
+      {
+        "id": 11,
+        "start": 47.619998931884766,
+        "end": 51.220001220703125,
+        "text": " It says they're unable to attempt delivery of your item on January 24th,"
+      },
+      {
+        "id": 12,
+        "start": 51.779998779296875,
+        "end": 58.41999816894531,
+        "text": " 2026 at 821 p.m. in Minneapolis, Minnesota, due to the hazardous or unsafe weather conditions."
+      },
+      {
+        "id": 13,
+        "start": 58.86000061035156,
+        "end": 64.26000213623047,
+        "text": " Your item will go out for delivery on the next business day or as conditions permit."
+      },
+      {
+        "id": 14,
+        "start": 64.77999877929688,
+        "end": 67.69999694824219,
+        "text": " So, it's looking like due to some weather issues, there's a delay,"
+      },
+      {
+        "id": 15,
+        "start": 67.69999694824219,
+        "end": 69.58000183105469,
+        "text": " but they have it and it is on its way."
+      },
+      {
+        "id": 16,
+        "start": 71.23999786376953,
+        "end": 76.66000366210938,
+        "text": " Okay. Okay, I know I usually kind of get it within like four days, just kind of."
+      },
+      {
+        "id": 17,
+        "start": 76.66000366210938,
+        "end": 79.77999877929688,
+        "text": " Yeah, what I'm going to do here is I'm going to throw your phone number"
+      },
+      {
+        "id": 18,
+        "start": 79.77999877929688,
+        "end": 82.0999984741211,
+        "text": " on the USPS tracking website with your permission."
+      },
+      {
+        "id": 19,
+        "start": 82.55999755859375,
+        "end": 86.33999633789062,
+        "text": " This will give you notifications and you'll be able to see the status of it."
+      },
+      {
+        "id": 20,
+        "start": 87.0199966430664,
+        "end": 87.77999877929688,
+        "text": " That sounds good."
+      },
+      {
+        "id": 21,
+        "start": 87.77999877929688,
+        "end": 88.72000122070312,
+        "text": " That sounds good."
+      },
+      {
+        "id": 22,
+        "start": 89.9000015258789,
+        "end": 92.18000030517578,
+        "text": " Okay. So, you should receive a text message just now."
+      },
+      {
+        "id": 23,
+        "start": 93.13999938964844,
+        "end": 96.5199966430664,
+        "text": " Yes. And that's your USPS tracking."
+      },
+      {
+        "id": 24,
+        "start": 97.41999816894531,
+        "end": 98.4000015258789,
+        "text": " Okay. Sounds good."
+      },
+      {
+        "id": 25,
+        "start": 98.4000015258789,
+        "end": 98.95999908447266,
+        "text": " All right."
+      },
+      {
+        "id": 26,
+        "start": 100.41999816894531,
+        "end": 101.80000305175781,
+        "text": " Okay. I greatly appreciate it."
+      },
+      {
+        "id": 27,
+        "start": 101.80000305175781,
+        "end": 102.66000366210938,
+        "text": " Thank you for all your help."
+      },
+      {
+        "id": 28,
+        "start": 103.30000305175781,
+        "end": 103.94000244140625,
+        "text": " Happy to help."
+      },
+      {
+        "id": 29,
+        "start": 103.94000244140625,
+        "end": 104.4000015258789,
+        "text": " Anytime."
+      },
+      {
+        "id": 30,
+        "start": 105.13999938964844,
+        "end": 105.45999908447266,
+        "text": " All right."
+      },
+      {
+        "id": 31,
+        "start": 105.45999908447266,
+        "end": 105.77999877929688,
+        "text": " Thank you."
+      },
+      {
+        "id": 32,
+        "start": 105.77999877929688,
+        "end": 106.22000122070312,
+        "text": " God bless you."
+      },
+      {
+        "id": 33,
+        "start": 106.72000122070312,
+        "end": 106.95999908447266,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8120-84a8-d356edc2afe3",
+    "url": "https://www.notion.so/300000001218375-300000001708361-2f611d0a101c812084a8d356edc2afe3"
+  },
+  "processedAt": "2026-01-28T15:33:35.326Z"
+}

@@ -1,0 +1,64 @@
+{
+  "recording": {
+    "name": "300000001242343-300000001731827-7143565738 by  @ 12_49_05 PM_CallStudio.wav",
+    "size": 41010,
+    "modifyTime": 1771015794000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242343-300000001731827-7143565738 by  @ 12_49_05 PM_CallStudio.wav",
+    "uploadDate": "2026-02-13T20:49:54.000Z",
+    "callId": "300000001242343-300000001731827",
+    "phoneNumber": "7143565738",
+    "callTimestamp": "2026-02-13T20:49:54.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242343-300000001731827_7143565738.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242343-300000001731827_7143565738.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: You guys are sending me the old version of the Viagra. I ordered the new version, AGT, or AGV.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1828,
+    "audioDuration": 25.200000762939453,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.300000190734863,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.460000038146973,
+        "end": 6.940000057220459,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.260000228881836,
+        "end": 8.720000267028809,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 11.039999961853027,
+        "end": 16.479999542236328,
+        "text": " You guys are sending me the old version of the Viagra."
+      },
+      {
+        "id": 4,
+        "start": 16.479999542236328,
+        "end": 23.520000457763672,
+        "text": " I ordered the new version, AGT, or AGV."
+      },
+      {
+        "id": 5,
+        "start": 23.700000762939453,
+        "end": 24.899999618530273,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81e4-bbd4-efe3ee0e1367",
+    "url": "https://www.notion.so/300000001242343-300000001731827-30611d0a101c81e4bbd4efe3ee0e1367"
+  },
+  "processedAt": "2026-02-13T20:58:59.207Z"
+}

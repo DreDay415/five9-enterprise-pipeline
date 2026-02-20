@@ -1,0 +1,67 @@
+{
+  "recording": {
+    "name": "300000001223023-300000001712608-6319225155 by  @ 1_30_50 PM_CallStudio.wav",
+    "size": 50696,
+    "modifyTime": 1769722303000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223023-300000001712608-6319225155 by  @ 1_30_50 PM_CallStudio.wav",
+    "uploadDate": "2026-01-29T21:31:43.000Z",
+    "callId": "300000001223023-300000001712608",
+    "phoneNumber": "6319225155",
+    "callTimestamp": "2026-01-29T21:31:43.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: We didn't receive a response or I couldn't hear you.\n\nSpeaker 2: Let's try again.\n\nSpeaker 1: Please state the reason for your call.\n\nSpeaker 2: I wanted to find out if I could fill this prescription at a drugstore.\n\nSpeaker 1: It's transferring to an agent.",
+    "duration": 1792,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.639999866485596,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.639999866485596,
+        "end": 15.520000457763672,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 15.520000457763672,
+        "end": 18.799999237060547,
+        "text": " We didn't receive a response or I couldn't hear your."
+      },
+      {
+        "id": 3,
+        "start": 18.799999237060547,
+        "end": 20.31999969482422,
+        "text": " Let's try again."
+      },
+      {
+        "id": 4,
+        "start": 20.31999969482422,
+        "end": 23.239999771118164,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 5,
+        "start": 23.239999771118164,
+        "end": 29.8799991607666,
+        "text": " I wanted to find out if I could fill this prescription at a drugstore."
+      },
+      {
+        "id": 6,
+        "start": 29.8799991607666,
+        "end": 30.920000076293945,
+        "text": " It's transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8155-9a48-e6b7b560979a",
+    "url": "https://www.notion.so/300000001223023-300000001712608-2f711d0a101c81559a48e6b7b560979a"
+  },
+  "processedAt": "2026-01-29T21:44:38.284Z"
+}

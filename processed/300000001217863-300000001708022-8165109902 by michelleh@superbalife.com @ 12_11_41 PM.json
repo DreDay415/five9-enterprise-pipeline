@@ -1,0 +1,332 @@
+{
+  "recording": {
+    "name": "300000001217863-300000001708022-8165109902 by michelleh@superbalife.com @ 12_11_41 PM.wav",
+    "size": 224830,
+    "modifyTime": 1769590640000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217863-300000001708022-8165109902 by michelleh@superbalife.com @ 12_11_41 PM.wav",
+    "uploadDate": "2026-01-28T08:57:20.000Z",
+    "callId": "300000001217863-300000001708022",
+    "agent": "michelleh",
+    "phoneNumber": "8165109902",
+    "callTimestamp": "2026-01-28T12:11:41.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Yes, I see they've charged me for another shipment. I had canceled that.\n\nSpeaker 1: Okay, let me pull up your account, Marshall. Give me one second.\n\nSpeaker 2: Okay, can you just tell me your date of birth, please?\n\nSpeaker 1: 1-7-50.\n\nSpeaker 2: Thank you so much. I see you're a VIP status customer.\n\nSpeaker 1: Okay, I just pulled up tracking. That refill is going to be delivered to you today.\n\nSpeaker 2: So if you don't need it, don't open it up. Just write return to sender.\n\nSpeaker 1: Just write return to sender on the front.\n\nSpeaker 2: Pop it back in your mailbox. That way you don't have to pay for postage.\n\nSpeaker 1: And it already has a tracking number.\n\nSpeaker 2: And then...\n\nSpeaker 1: Can I just put it back in the mailbox?\n\nSpeaker 2: Yeah, just write return to sender and put it back in the mailbox.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And were you trying to order the AGV or did you order the generic on purpose?\n\nSpeaker 1: No, I ordered it, but not this...\n\nSpeaker 2: No, I didn't order it this time. The first time I did, I canceled it.\n\nSpeaker 1: Oh, okay.\n\nSpeaker 2: I didn't order it.\n\nSpeaker 1: Okay, okay.\n\nSpeaker 2: Did the doctor put you on monthly refills, which you do not need?\n\nSpeaker 1: No.\n\nSpeaker 2: But I see you ordered the generic Viagra and not the AGV.\n\nSpeaker 1: Is that what you wanted, the generic and not the AGV?\n\nSpeaker 2: The AGV is the latest formula.\n\nSpeaker 1: No, that's what I had. I ordered the latest formula the first time.\n\nSpeaker 2: No, you just...\n\nSpeaker 1: Remember the latest formula I had the first time?\n\nSpeaker 2: No, no, you ordered generic.\n\nSpeaker 1: It was supposed to be.\n\nSpeaker 2: No, I didn't order the generic.\n\nSpeaker 1: Okay, so what I'm going to do, I'm going to send you out a replacement free of charge\n\nSpeaker 2: to get you the correct AGV for your initial order.\n\nSpeaker 1: And then what I can do is I'll go ahead and pause your refills for six months.\n\nSpeaker 2: That way it allows the pharmacy to push through your replacement order.\n\nSpeaker 1: And then, you know, with your VIP status, a lot of people just like to pause it.\n\nSpeaker 2: That way it keeps your prescription active and just allows you to call in whenever you get a refill.\n\nSpeaker 1: Okay, okay, that sounds good.\n\nSpeaker 2: All right, perfect.\n\nSpeaker 1: So I just put return to send and put it in the mailbox, right?\n\nSpeaker 2: Correct, yes, perfect.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: No problem.\n\nSpeaker 1: Have a good day.\n\nSpeaker 2: All right.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, bye.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Thank you, gentlemen.\n\nSpeaker 1: All right.",
+    "duration": 8012,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 9,
+        "text": " Yes, I see they've charged me for another shipment. I had canceled that."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 16,
+        "text": " Okay, let me pull up your account, Marshall. Give me one second."
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 20,
+        "text": " Okay, can you just tell me your date of birth, please?"
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 22,
+        "text": " 1-7-50."
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 25,
+        "text": " Thank you so much. I see you're a VIP status customer."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 30,
+        "text": " Okay, I just pulled up tracking. That refill is going to be delivered to you today."
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 35,
+        "text": " So if you don't need it, don't open it up. Just write return to sender."
+      },
+      {
+        "id": 8,
+        "start": 35,
+        "end": 38,
+        "text": " Just write return to sender on the front."
+      },
+      {
+        "id": 9,
+        "start": 38,
+        "end": 41,
+        "text": " Pop it back in your mailbox. That way you don't have to pay for postage."
+      },
+      {
+        "id": 10,
+        "start": 41,
+        "end": 43,
+        "text": " And it already has a tracking number."
+      },
+      {
+        "id": 11,
+        "start": 43,
+        "end": 44,
+        "text": " And then..."
+      },
+      {
+        "id": 12,
+        "start": 44,
+        "end": 46,
+        "text": " Can I just put it back in the mailbox?"
+      },
+      {
+        "id": 13,
+        "start": 46,
+        "end": 49,
+        "text": " Yeah, just write return to sender and put it back in the mailbox."
+      },
+      {
+        "id": 14,
+        "start": 49,
+        "end": 50,
+        "text": " Okay."
+      },
+      {
+        "id": 15,
+        "start": 50,
+        "end": 56,
+        "text": " And were you trying to order the AGV or did you order the generic on purpose?"
+      },
+      {
+        "id": 16,
+        "start": 56,
+        "end": 58,
+        "text": " No, I ordered it, but not this..."
+      },
+      {
+        "id": 17,
+        "start": 58,
+        "end": 63,
+        "text": " No, I didn't order it this time. The first time I did, I canceled it."
+      },
+      {
+        "id": 18,
+        "start": 63,
+        "end": 64,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 19,
+        "start": 64,
+        "end": 66,
+        "text": " I didn't order it."
+      },
+      {
+        "id": 20,
+        "start": 66,
+        "end": 67,
+        "text": " Okay, okay."
+      },
+      {
+        "id": 21,
+        "start": 67,
+        "end": 70,
+        "text": " Did the doctor put you on monthly refills, which you do not need?"
+      },
+      {
+        "id": 22,
+        "start": 70,
+        "end": 71,
+        "text": " No."
+      },
+      {
+        "id": 23,
+        "start": 71,
+        "end": 76,
+        "text": " But I see you ordered the generic Viagra and not the AGV."
+      },
+      {
+        "id": 24,
+        "start": 76,
+        "end": 79,
+        "text": " Is that what you wanted, the generic and not the AGV?"
+      },
+      {
+        "id": 25,
+        "start": 79,
+        "end": 82,
+        "text": " The AGV is the latest formula."
+      },
+      {
+        "id": 26,
+        "start": 82,
+        "end": 85,
+        "text": " No, that's what I had. I ordered the latest formula the first time."
+      },
+      {
+        "id": 27,
+        "start": 85,
+        "end": 86,
+        "text": " No, you just..."
+      },
+      {
+        "id": 28,
+        "start": 86,
+        "end": 88,
+        "text": " Remember the latest formula I had the first time?"
+      },
+      {
+        "id": 29,
+        "start": 88,
+        "end": 90,
+        "text": " No, no, you ordered generic."
+      },
+      {
+        "id": 30,
+        "start": 90,
+        "end": 91,
+        "text": " It was supposed to be."
+      },
+      {
+        "id": 31,
+        "start": 91,
+        "end": 93,
+        "text": " No, I didn't order the generic."
+      },
+      {
+        "id": 32,
+        "start": 93,
+        "end": 97,
+        "text": " Okay, so what I'm going to do, I'm going to send you out a replacement free of charge"
+      },
+      {
+        "id": 33,
+        "start": 97,
+        "end": 102,
+        "text": " to get you the correct AGV for your initial order."
+      },
+      {
+        "id": 34,
+        "start": 102,
+        "end": 106,
+        "text": " And then what I can do is I'll go ahead and pause your refills for six months."
+      },
+      {
+        "id": 35,
+        "start": 106,
+        "end": 110,
+        "text": " That way it allows the pharmacy to push through your replacement order."
+      },
+      {
+        "id": 36,
+        "start": 110,
+        "end": 116,
+        "text": " And then, you know, with your VIP status, a lot of people just like to pause it."
+      },
+      {
+        "id": 37,
+        "start": 116,
+        "end": 122,
+        "text": " That way it keeps your prescription active and just allows you to call in whenever you get a refill."
+      },
+      {
+        "id": 38,
+        "start": 122,
+        "end": 124,
+        "text": " Okay, okay, that sounds good."
+      },
+      {
+        "id": 39,
+        "start": 124,
+        "end": 125,
+        "text": " All right, perfect."
+      },
+      {
+        "id": 40,
+        "start": 125,
+        "end": 128,
+        "text": " So I just put return to send and put it in the mailbox, right?"
+      },
+      {
+        "id": 41,
+        "start": 128,
+        "end": 129,
+        "text": " Correct, yes, perfect."
+      },
+      {
+        "id": 42,
+        "start": 129,
+        "end": 130,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 43,
+        "start": 131,
+        "end": 132,
+        "text": " No problem."
+      },
+      {
+        "id": 44,
+        "start": 132,
+        "end": 133,
+        "text": " Have a good day."
+      },
+      {
+        "id": 45,
+        "start": 133,
+        "end": 134,
+        "text": " All right."
+      },
+      {
+        "id": 46,
+        "start": 134,
+        "end": 135,
+        "text": " Okay."
+      },
+      {
+        "id": 47,
+        "start": 135,
+        "end": 136,
+        "text": " All right, bye."
+      },
+      {
+        "id": 48,
+        "start": 136,
+        "end": 137,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 49,
+        "start": 137,
+        "end": 138,
+        "text": " Thank you, gentlemen."
+      },
+      {
+        "id": 50,
+        "start": 138,
+        "end": 139,
+        "text": " All right."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81bc-9ff8-dacffd60ec52",
+    "url": "https://www.notion.so/300000001217863-300000001708022-2f611d0a101c81bc9ff8dacffd60ec52"
+  },
+  "processedAt": "2026-01-28T12:04:03.300Z"
+}

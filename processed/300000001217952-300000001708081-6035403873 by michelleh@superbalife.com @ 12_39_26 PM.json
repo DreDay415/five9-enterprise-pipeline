@@ -1,0 +1,332 @@
+{
+  "recording": {
+    "name": "300000001217952-300000001708081-6035403873 by michelleh@superbalife.com @ 12_39_26 PM.wav",
+    "size": 314010,
+    "modifyTime": 1769582839000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217952-300000001708081-6035403873 by michelleh@superbalife.com @ 12_39_26 PM.wav",
+    "uploadDate": "2026-01-28T06:47:19.000Z",
+    "callId": "300000001217952-300000001708081",
+    "agent": "michelleh",
+    "phoneNumber": "6035403873",
+    "callTimestamp": "2026-01-28T12:39:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you?\n\nSpeaker 2: Yeah, hi.\n\nSpeaker 1: I had ordered this product once before,\n\nSpeaker 2: and it didn't really work for me.\n\nSpeaker 1: Has anything changed with the formula?\n\nSpeaker 2: Richard, can you just confirm your date of birth?\n\nSpeaker 1: 5-19-1956.\n\nSpeaker 2: Thank you so much.\n\nSpeaker 1: If you're a VIP status customer and you did try the AGB,\n\nSpeaker 2: no, that's the best stuff that we have out right now.\n\nSpeaker 1: OK, yeah, for some reason, I don't\n\nSpeaker 2: know what the problem was, but it wasn't working for me.\n\nSpeaker 1: Were you taking it on an empty stomach\n\nSpeaker 2: or just not eating a fatty meal like a burger or steak before?\n\nSpeaker 1: That will affect it.\n\nSpeaker 2: Yeah, I didn't really notice that.\n\nSpeaker 1: You need to take it on an empty stomach, you're saying?\n\nSpeaker 2: Yeah, yeah, because if you eat, yeah,\n\nSpeaker 1: it delays the medication breaking down\n\nSpeaker 2: throughout your body.\n\nSpeaker 1: And especially if you eat like a burger or a steak or something\n\nSpeaker 2: fatty, that will definitely make the medication less potent.\n\nSpeaker 1: OK, well, maybe I could try it again.\n\nSpeaker 2: OK, it looks like last time you ordered\n\nSpeaker 1: a quantity of 2,500 milligrams for $113.95.\n\nSpeaker 2: Do you want to do the same thing?\n\nSpeaker 1: It was a quantity of 2,500, 100 milligrams?\n\nSpeaker 2: Yes.\n\nSpeaker 1: OK.\n\nSpeaker 2: Want to do that?\n\nSpeaker 1: Yeah, I guess I'll try that again, yeah.\n\nSpeaker 2: OK.\n\nSpeaker 1: All right, and I'm assuming you're still\n\nSpeaker 2: at 3 Hilton Avenue?\n\nSpeaker 1: Correct.\n\nSpeaker 2: OK.\n\nSpeaker 1: OK, are we still using your Visa ending in 6416?\n\nSpeaker 2: I don't think so.\n\nSpeaker 1: Hold on.\n\nSpeaker 2: I have some fraud on my card, so I think I have a new one.\n\nSpeaker 1: No worries.\n\nSpeaker 2: OK, yeah, I'll give you a new card number.\n\nSpeaker 1: OK, I'm ready when you are.\n\nSpeaker 2: It's Visa 4491-6320-1640-6975-1229 and 884.\n\nSpeaker 1: All right.\n\nSpeaker 2: Perfect, that went through.\n\nSpeaker 1: I'll be shipping it out to you today.\n\nSpeaker 2: OK, great.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: No problem.\n\nSpeaker 1: Have a great day.",
+    "duration": 6791,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.639999866485596,
+        "text": " Thank you for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4.639999866485596,
+        "end": 6.760000228881836,
+        "text": " Yeah, hi."
+      },
+      {
+        "id": 2,
+        "start": 6.760000228881836,
+        "end": 9.479999542236328,
+        "text": " I had ordered this product once before,"
+      },
+      {
+        "id": 3,
+        "start": 9.479999542236328,
+        "end": 11.279999732971191,
+        "text": " and it didn't really work for me."
+      },
+      {
+        "id": 4,
+        "start": 11.279999732971191,
+        "end": 15.680000305175781,
+        "text": " Has anything changed with the formula?"
+      },
+      {
+        "id": 5,
+        "start": 15.680000305175781,
+        "end": 18.920000076293945,
+        "text": " Richard, can you just confirm your date of birth?"
+      },
+      {
+        "id": 6,
+        "start": 18.920000076293945,
+        "end": 22.600000381469727,
+        "text": " 5-19-1956."
+      },
+      {
+        "id": 7,
+        "start": 22.600000381469727,
+        "end": 23.520000457763672,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 8,
+        "start": 23.520000457763672,
+        "end": 27.600000381469727,
+        "text": " If you're a VIP status customer and you did try the AGB,"
+      },
+      {
+        "id": 9,
+        "start": 27.68000030517578,
+        "end": 32.08000183105469,
+        "text": " no, that's the best stuff that we have out right now."
+      },
+      {
+        "id": 10,
+        "start": 35.2400016784668,
+        "end": 37.2400016784668,
+        "text": " OK, yeah, for some reason, I don't"
+      },
+      {
+        "id": 11,
+        "start": 37.2400016784668,
+        "end": 41.599998474121094,
+        "text": " know what the problem was, but it wasn't working for me."
+      },
+      {
+        "id": 12,
+        "start": 41.599998474121094,
+        "end": 43.20000076293945,
+        "text": " Were you taking it on an empty stomach"
+      },
+      {
+        "id": 13,
+        "start": 43.20000076293945,
+        "end": 46.63999938964844,
+        "text": " or just not eating a fatty meal like a burger or steak before?"
+      },
+      {
+        "id": 14,
+        "start": 46.63999938964844,
+        "end": 48.599998474121094,
+        "text": " That will affect it."
+      },
+      {
+        "id": 15,
+        "start": 48.599998474121094,
+        "end": 52.119998931884766,
+        "text": " Yeah, I didn't really notice that."
+      },
+      {
+        "id": 16,
+        "start": 52.119998931884766,
+        "end": 54.880001068115234,
+        "text": " You need to take it on an empty stomach, you're saying?"
+      },
+      {
+        "id": 17,
+        "start": 54.880001068115234,
+        "end": 58.2400016784668,
+        "text": " Yeah, yeah, because if you eat, yeah,"
+      },
+      {
+        "id": 18,
+        "start": 58.2400016784668,
+        "end": 61.91999816894531,
+        "text": " it delays the medication breaking down"
+      },
+      {
+        "id": 19,
+        "start": 61.91999816894531,
+        "end": 64.19999694824219,
+        "text": " throughout your body."
+      },
+      {
+        "id": 20,
+        "start": 64.19999694824219,
+        "end": 67,
+        "text": " And especially if you eat like a burger or a steak or something"
+      },
+      {
+        "id": 21,
+        "start": 67,
+        "end": 72.5999984741211,
+        "text": " fatty, that will definitely make the medication less potent."
+      },
+      {
+        "id": 22,
+        "start": 72.5999984741211,
+        "end": 78.91999816894531,
+        "text": " OK, well, maybe I could try it again."
+      },
+      {
+        "id": 23,
+        "start": 78.91999816894531,
+        "end": 82.68000030517578,
+        "text": " OK, it looks like last time you ordered"
+      },
+      {
+        "id": 24,
+        "start": 82.68000030517578,
+        "end": 87.16000366210938,
+        "text": " a quantity of 2,500 milligrams for $113.95."
+      },
+      {
+        "id": 25,
+        "start": 87.16000366210938,
+        "end": 88.55999755859375,
+        "text": " Do you want to do the same thing?"
+      },
+      {
+        "id": 26,
+        "start": 94.44000244140625,
+        "end": 98.63999938964844,
+        "text": " It was a quantity of 2,500, 100 milligrams?"
+      },
+      {
+        "id": 27,
+        "start": 98.63999938964844,
+        "end": 100.4000015258789,
+        "text": " Yes."
+      },
+      {
+        "id": 28,
+        "start": 100.4000015258789,
+        "end": 100.9000015258789,
+        "text": " OK."
+      },
+      {
+        "id": 29,
+        "start": 103.76000213623047,
+        "end": 104.4000015258789,
+        "text": " Want to do that?"
+      },
+      {
+        "id": 30,
+        "start": 104.4000015258789,
+        "end": 107.31999969482422,
+        "text": " Yeah, I guess I'll try that again, yeah."
+      },
+      {
+        "id": 31,
+        "start": 107.31999969482422,
+        "end": 109.91999816894531,
+        "text": " OK."
+      },
+      {
+        "id": 32,
+        "start": 109.91999816894531,
+        "end": 112.5999984741211,
+        "text": " All right, and I'm assuming you're still"
+      },
+      {
+        "id": 33,
+        "start": 112.5999984741211,
+        "end": 115,
+        "text": " at 3 Hilton Avenue?"
+      },
+      {
+        "id": 34,
+        "start": 115,
+        "end": 116.08000183105469,
+        "text": " Correct."
+      },
+      {
+        "id": 35,
+        "start": 116.08000183105469,
+        "end": 116.58000183105469,
+        "text": " OK."
+      },
+      {
+        "id": 36,
+        "start": 123.23999786376953,
+        "end": 130.16000366210938,
+        "text": " OK, are we still using your Visa ending in 6416?"
+      },
+      {
+        "id": 37,
+        "start": 130.16000366210938,
+        "end": 131.39999389648438,
+        "text": " I don't think so."
+      },
+      {
+        "id": 38,
+        "start": 131.39999389648438,
+        "end": 131.89999389648438,
+        "text": " Hold on."
+      },
+      {
+        "id": 39,
+        "start": 135.52000427246094,
+        "end": 140.60000610351562,
+        "text": " I have some fraud on my card, so I think I have a new one."
+      },
+      {
+        "id": 40,
+        "start": 140.60000610351562,
+        "end": 141.1199951171875,
+        "text": " No worries."
+      },
+      {
+        "id": 41,
+        "start": 150.72000122070312,
+        "end": 153.36000061035156,
+        "text": " OK, yeah, I'll give you a new card number."
+      },
+      {
+        "id": 42,
+        "start": 153.36000061035156,
+        "end": 155.75999450683594,
+        "text": " OK, I'm ready when you are."
+      },
+      {
+        "id": 43,
+        "start": 156.44000244140625,
+        "end": 176.52000427246094,
+        "text": " It's Visa 4491-6320-1640-6975-1229 and 884."
+      },
+      {
+        "id": 44,
+        "start": 176.52000427246094,
+        "end": 177.02000427246094,
+        "text": " All right."
+      },
+      {
+        "id": 45,
+        "start": 183.75999450683594,
+        "end": 185,
+        "text": " Perfect, that went through."
+      },
+      {
+        "id": 46,
+        "start": 185.0399932861328,
+        "end": 188.16000366210938,
+        "text": " I'll be shipping it out to you today."
+      },
+      {
+        "id": 47,
+        "start": 188.16000366210938,
+        "end": 188.9199981689453,
+        "text": " OK, great."
+      },
+      {
+        "id": 48,
+        "start": 188.9199981689453,
+        "end": 189.9199981689453,
+        "text": " Thank you."
+      },
+      {
+        "id": 49,
+        "start": 189.9199981689453,
+        "end": 190.60000610351562,
+        "text": " No problem."
+      },
+      {
+        "id": 50,
+        "start": 190.60000610351562,
+        "end": 192.47999572753906,
+        "text": " Have a great day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8105-a25f-d0a8f1127e0b",
+    "url": "https://www.notion.so/300000001217952-300000001708081-2f611d0a101c8105a25fd0a8f1127e0b"
+  },
+  "processedAt": "2026-01-28T16:47:24.176Z"
+}

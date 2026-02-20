@@ -1,0 +1,128 @@
+{
+  "recording": {
+    "name": "300000001218524-300000001708465-2148025715 by josimar@superbalife.com @ 3_50_19 PM.wav",
+    "size": 94766,
+    "modifyTime": 1769590032000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218524-300000001708465-2148025715 by josimar@superbalife.com @ 3_50_19 PM.wav",
+    "uploadDate": "2026-01-28T08:47:12.000Z",
+    "callId": "300000001218524-300000001708465",
+    "agent": "josimar",
+    "phoneNumber": "2148025715",
+    "callTimestamp": "2026-01-28T15:50:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 2: Yeah, I'm trying to figure out the status of my order.\n\nSpeaker 1: Sure.\n\nSpeaker 2: What's your last name and a zip code?\n\nSpeaker 1: Pearson, P-I-E-R-S-O-N, 75075.\n\nSpeaker 2: Yeah, your order shipped out today, and it will be arriving in three to four business\n\nSpeaker 1: days.\n\nSpeaker 2: Oh, it shipped out today?\n\nSpeaker 1: Correct.\n\nSpeaker 2: They needed to wait for the new prescription to get approved, and it got approved, so\n\nSpeaker 1: it will be shipped out today.\n\nSpeaker 2: Oh, okie doke.\n\nSpeaker 1: Well, that's all I needed to know.\n\nSpeaker 2: Thank you very much.\n\nSpeaker 1: No problem.\n\nSpeaker 2: Have a good one.\n\nSpeaker 1: Bye.",
+    "duration": 1768,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.880000114440918,
+        "text": " Yeah, I'm trying to figure out the status of my order."
+      },
+      {
+        "id": 1,
+        "start": 6.880000114440918,
+        "end": 7.880000114440918,
+        "text": " Sure."
+      },
+      {
+        "id": 2,
+        "start": 7.880000114440918,
+        "end": 13.680000305175781,
+        "text": " What's your last name and a zip code?"
+      },
+      {
+        "id": 3,
+        "start": 13.680000305175781,
+        "end": 18.600000381469727,
+        "text": " Pearson, P-I-E-R-S-O-N, 75075."
+      },
+      {
+        "id": 4,
+        "start": 18.600000381469727,
+        "end": 29.239999771118164,
+        "text": " Yeah, your order shipped out today, and it will be arriving in three to four business"
+      },
+      {
+        "id": 5,
+        "start": 29.239999771118164,
+        "end": 30.239999771118164,
+        "text": " days."
+      },
+      {
+        "id": 6,
+        "start": 30.239999771118164,
+        "end": 31.239999771118164,
+        "text": " Oh, it shipped out today?"
+      },
+      {
+        "id": 7,
+        "start": 31.239999771118164,
+        "end": 32.2400016784668,
+        "text": " Correct."
+      },
+      {
+        "id": 8,
+        "start": 32.2400016784668,
+        "end": 33.2400016784668,
+        "text": " They needed to wait for the new prescription to get approved, and it got approved, so"
+      },
+      {
+        "id": 9,
+        "start": 33.2400016784668,
+        "end": 34.2400016784668,
+        "text": " it will be shipped out today."
+      },
+      {
+        "id": 10,
+        "start": 34.2400016784668,
+        "end": 35.2400016784668,
+        "text": " Oh, okie doke."
+      },
+      {
+        "id": 11,
+        "start": 35.2400016784668,
+        "end": 36.2400016784668,
+        "text": " Well, that's all I needed to know."
+      },
+      {
+        "id": 12,
+        "start": 36.2400016784668,
+        "end": 37.2400016784668,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 13,
+        "start": 37.2400016784668,
+        "end": 38.2400016784668,
+        "text": " No problem."
+      },
+      {
+        "id": 14,
+        "start": 38.2400016784668,
+        "end": 39.2400016784668,
+        "text": " Have a good one."
+      },
+      {
+        "id": 15,
+        "start": 39.2400016784668,
+        "end": 40.2400016784668,
+        "text": " Bye."
+      },
+      {
+        "id": 16,
+        "start": 40.2400016784668,
+        "end": 40.2400016784668,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8130-97f9-f53ee6c6b30a",
+    "url": "https://www.notion.so/300000001218524-300000001708465-2f611d0a101c813097f9f53ee6c6b30a"
+  },
+  "processedAt": "2026-01-28T12:23:52.635Z"
+}

@@ -1,0 +1,91 @@
+{
+  "recording": {
+    "name": "300000001221316-300000001711178-6198736302 by  @ 12_25_38 PM_CallStudio.wav",
+    "size": 35746,
+    "modifyTime": 1769631983000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221316-300000001711178-6198736302 by  @ 12_25_38 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T20:26:23.000Z",
+    "callId": "300000001221316-300000001711178",
+    "phoneNumber": "6198736302",
+    "callTimestamp": "2026-01-28T20:26:23.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Order.\n\nSpeaker 1: I heard you say, order.\n\nSpeaker 2: Say yes or press one if this is correct.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Otherwise, thanks.\n\nSpeaker 1: Transferring to agent.\n\nSpeaker 2: Yes.",
+    "duration": 1396,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.199999809265137,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.199999809265137,
+        "end": 6.840000152587891,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.840000152587891,
+        "end": 8.720000267028809,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.720000267028809,
+        "end": 10.720000267028809,
+        "text": " Order."
+      },
+      {
+        "id": 4,
+        "start": 10.720000267028809,
+        "end": 14.600000381469727,
+        "text": " I heard you say, order."
+      },
+      {
+        "id": 5,
+        "start": 14.600000381469727,
+        "end": 17.600000381469727,
+        "text": " Say yes or press one if this is correct."
+      },
+      {
+        "id": 6,
+        "start": 17.600000381469727,
+        "end": 18.600000381469727,
+        "text": " Yes."
+      },
+      {
+        "id": 7,
+        "start": 18.600000381469727,
+        "end": 19.600000381469727,
+        "text": " Otherwise, thanks."
+      },
+      {
+        "id": 8,
+        "start": 19.600000381469727,
+        "end": 20.600000381469727,
+        "text": " Transferring to agent."
+      },
+      {
+        "id": 9,
+        "start": 20.600000381469727,
+        "end": 21.600000381469727,
+        "text": " Yes."
+      },
+      {
+        "id": 10,
+        "start": 21.600000381469727,
+        "end": 21.600000381469727,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81cd-84ba-eb86fb7f47c0",
+    "url": "https://www.notion.so/300000001221316-300000001711178-2f611d0a101c81cd84baeb86fb7f47c0"
+  },
+  "processedAt": "2026-01-28T23:04:00.794Z"
+}

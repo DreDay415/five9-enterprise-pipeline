@@ -1,0 +1,146 @@
+{
+  "recording": {
+    "name": "300000001220916-300000001710923-2106683934 by charles@superbalife.com @ 10_33_59 AM.wav",
+    "size": 88656,
+    "modifyTime": 1769625309000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220916-300000001710923-2106683934 by charles@superbalife.com @ 10_33_59 AM.wav",
+    "uploadDate": "2026-01-28T18:35:09.000Z",
+    "callId": "300000001220916-300000001710923",
+    "agent": "charles",
+    "phoneNumber": "2106683934",
+    "callTimestamp": "2026-01-28T10:33:59.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yes, this is Ron Moore.\n\nSpeaker 2: I found out that instead of getting just one supply, you guys got me on a subscription.\n\nSpeaker 1: I don't want that.\n\nSpeaker 2: I want to cancel.\n\nSpeaker 1: Okay, Ron Moore.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, so it's not a subscription, but a prescription that comes with a refill, so if you don't\n\nSpeaker 2: necessarily need a refill, it has an off pump to break, so on January 18th, or the next\n\nSpeaker 1: 5 months, we won't charge you or send you anything, but you can call us if you need\n\nSpeaker 2: them earlier.\n\nSpeaker 1: No, just go ahead and cancel the whole thing.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right.\n\nSpeaker 1: Good luck.\n\nSpeaker 2: All right.\n\nSpeaker 1: Good luck.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thank you.",
+    "duration": 3496,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7.960000038146973,
+        "text": " Yes, this is Ron Moore."
+      },
+      {
+        "id": 1,
+        "start": 7.960000038146973,
+        "end": 15.079999923706055,
+        "text": " I found out that instead of getting just one supply, you guys got me on a subscription."
+      },
+      {
+        "id": 2,
+        "start": 15.079999923706055,
+        "end": 16.079999923706055,
+        "text": " I don't want that."
+      },
+      {
+        "id": 3,
+        "start": 16.079999923706055,
+        "end": 17.079999923706055,
+        "text": " I want to cancel."
+      },
+      {
+        "id": 4,
+        "start": 17.079999923706055,
+        "end": 18.079999923706055,
+        "text": " Okay, Ron Moore."
+      },
+      {
+        "id": 5,
+        "start": 18.079999923706055,
+        "end": 19.079999923706055,
+        "text": " Yes."
+      },
+      {
+        "id": 6,
+        "start": 19.079999923706055,
+        "end": 26.079999923706055,
+        "text": " Okay, so it's not a subscription, but a prescription that comes with a refill, so if you don't"
+      },
+      {
+        "id": 7,
+        "start": 26.079999923706055,
+        "end": 33.08000183105469,
+        "text": " necessarily need a refill, it has an off pump to break, so on January 18th, or the next"
+      },
+      {
+        "id": 8,
+        "start": 33.08000183105469,
+        "end": 38.08000183105469,
+        "text": " 5 months, we won't charge you or send you anything, but you can call us if you need"
+      },
+      {
+        "id": 9,
+        "start": 38.08000183105469,
+        "end": 39.08000183105469,
+        "text": " them earlier."
+      },
+      {
+        "id": 10,
+        "start": 39.08000183105469,
+        "end": 42.08000183105469,
+        "text": " No, just go ahead and cancel the whole thing."
+      },
+      {
+        "id": 11,
+        "start": 42.08000183105469,
+        "end": 43.08000183105469,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 43.08000183105469,
+        "end": 44.08000183105469,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 44.08000183105469,
+        "end": 45.08000183105469,
+        "text": " All right."
+      },
+      {
+        "id": 14,
+        "start": 45.08000183105469,
+        "end": 46.08000183105469,
+        "text": " Good luck."
+      },
+      {
+        "id": 15,
+        "start": 46.08000183105469,
+        "end": 47.08000183105469,
+        "text": " All right."
+      },
+      {
+        "id": 16,
+        "start": 47.08000183105469,
+        "end": 48.08000183105469,
+        "text": " Good luck."
+      },
+      {
+        "id": 17,
+        "start": 48.08000183105469,
+        "end": 49.08000183105469,
+        "text": " Thank you."
+      },
+      {
+        "id": 18,
+        "start": 49.08000183105469,
+        "end": 50.08000183105469,
+        "text": " Thank you."
+      },
+      {
+        "id": 19,
+        "start": 50.08000183105469,
+        "end": 50.08000183105469,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8196-bfb6-d2c49f0c0147",
+    "url": "https://www.notion.so/300000001220916-300000001710923-2f711d0a101c8196bfb6d2c49f0c0147"
+  },
+  "processedAt": "2026-01-29T00:14:52.470Z"
+}

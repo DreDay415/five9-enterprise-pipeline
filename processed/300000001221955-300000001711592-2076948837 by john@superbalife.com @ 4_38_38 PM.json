@@ -1,0 +1,158 @@
+{
+  "recording": {
+    "name": "300000001221955-300000001711592-2076948837 by john@superbalife.com @ 4_38_38 PM.wav",
+    "size": 129150,
+    "modifyTime": 1769647219000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221955-300000001711592-2076948837 by john@superbalife.com @ 4_38_38 PM.wav",
+    "uploadDate": "2026-01-29T00:40:19.000Z",
+    "callId": "300000001221955-300000001711592",
+    "agent": "john",
+    "phoneNumber": "2076948837",
+    "callTimestamp": "2026-01-29T16:38:38.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Yes. Hi. My name is Cleveland Long. I put in a prescription there a couple days ago. I've gotten emails saying that it was all approved and all that, but I haven't got an updated email telling me when it was shipped.\n\nSpeaker 1: Okay. What's your zip code, please?\n\nSpeaker 2: The zip code for what, the building or where it's being delivered?\n\nSpeaker 1: Either one.\n\nSpeaker 2: 04769.\n\nSpeaker 1: Thank you. Okay. 64 Broadway in Baileyville, Maine is where it's shipping to?\n\nSpeaker 2: Yep.\n\nSpeaker 1: Okay. Let me see what's going on here. Yeah, you've been approved. It should ship out tomorrow. I don't know why you haven't been updated about that, but I'm going to message the pharmacy just to make sure it goes out tomorrow.\n\nSpeaker 2: No problem.\n\nSpeaker 1: Once it does, I can follow up and send you a tracking.\n\nSpeaker 2: Perfect. Thank you very much, sir.\n\nSpeaker 1: Of course. I hope you have a great evening.\n\nSpeaker 2: You too. Bye-bye.",
+    "duration": 3390,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " Yes. Hi. My name is Cleveland Long."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 11,
+        "text": " I put in a prescription there a couple days ago."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 14,
+        "text": " I've gotten emails saying that it was all approved and all that,"
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 18,
+        "text": " but I haven't got an updated email telling me when it was shipped."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 22,
+        "text": " Okay. What's your zip code to, please?"
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 26,
+        "text": " The zip code for what, the building or where it's being delivered?"
+      },
+      {
+        "id": 7,
+        "start": 26,
+        "end": 29,
+        "text": " Either one."
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 33,
+        "text": " 04769."
+      },
+      {
+        "id": 9,
+        "start": 33,
+        "end": 43,
+        "text": " Thank you."
+      },
+      {
+        "id": 10,
+        "start": 43,
+        "end": 48,
+        "text": " Okay. 64 Broadway in Baileyville, Maine is where it's shipping to?"
+      },
+      {
+        "id": 11,
+        "start": 48,
+        "end": 49,
+        "text": " Yep."
+      },
+      {
+        "id": 12,
+        "start": 49,
+        "end": 56,
+        "text": " Okay. Let me see what's going on here."
+      },
+      {
+        "id": 13,
+        "start": 56,
+        "end": 59,
+        "text": " Yeah, you've been approved."
+      },
+      {
+        "id": 14,
+        "start": 59,
+        "end": 60,
+        "text": " Okay. It should ship out tomorrow."
+      },
+      {
+        "id": 15,
+        "start": 60,
+        "end": 62,
+        "text": " I don't know why you haven't been updated about that,"
+      },
+      {
+        "id": 16,
+        "start": 62,
+        "end": 65,
+        "text": " but I'm going to message the pharmacy just to make sure it goes out tomorrow."
+      },
+      {
+        "id": 17,
+        "start": 65,
+        "end": 66,
+        "text": " No problem."
+      },
+      {
+        "id": 18,
+        "start": 66,
+        "end": 71,
+        "text": " Once it does, I can follow up and send you a tracking."
+      },
+      {
+        "id": 19,
+        "start": 71,
+        "end": 74,
+        "text": " Perfect. Thank you very much, sir."
+      },
+      {
+        "id": 20,
+        "start": 74,
+        "end": 79,
+        "text": " Of course. I hope you have a great evening."
+      },
+      {
+        "id": 21,
+        "start": 79,
+        "end": 80,
+        "text": " You too. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-816f-a548-de6770dd7407",
+    "url": "https://www.notion.so/300000001221955-300000001711592-2f711d0a101c816fa548de6770dd7407"
+  },
+  "processedAt": "2026-01-29T10:05:20.211Z"
+}

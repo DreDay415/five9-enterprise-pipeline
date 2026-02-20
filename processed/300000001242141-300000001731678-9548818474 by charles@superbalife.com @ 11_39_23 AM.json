@@ -1,0 +1,317 @@
+{
+  "recording": {
+    "name": "300000001242141-300000001731678-9548818474 by charles@superbalife.com @ 11_39_23 AM.wav",
+    "size": 178680,
+    "modifyTime": 1771011677000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242141-300000001731678-9548818474 by charles@superbalife.com @ 11_39_23 AM.wav",
+    "uploadDate": "2026-02-13T19:41:17.000Z",
+    "callId": "300000001242141-300000001731678",
+    "agent": "charles",
+    "phoneNumber": "9548818474",
+    "callTimestamp": "2026-02-13T11:39:23.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_charles_300000001242141-300000001731678_9548818474.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_charles_300000001242141-300000001731678_9548818474.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Charles, I just wanted to make sure that my prescription stopped.\n\nSpeaker 2: I sent an email, but I didn't get a reply back because they don't seem to work for me.\n\nSpeaker 1: The pills don't?\n\nSpeaker 2: Okay.\n\nSpeaker 1: Rodney?\n\nSpeaker 2: No.\n\nSpeaker 1: Haudenot?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Okay.\n\nSpeaker 1: So the pills weren't effective at all?\n\nSpeaker 2: You took them on an empty stomach and no alcohol?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Shit.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I guess I got to go to the doctor.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: I mean, that's always an option.\n\nSpeaker 2: I mean, in the meantime, we are with Pfizer.\n\nSpeaker 1: I do see that you're only getting the 50 milligram, Rodney, so I mean, if you are still looking\n\nSpeaker 2: for something to give you that kick, I can message my pharmacy.\n\nSpeaker 1: We are with Pfizer, so I do have a different version of the Viagra AGV that's made over\n\nSpeaker 2: in our France factory from Pfizer.\n\nSpeaker 1: It's a little bit more expensive.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: What I'm going to do right now, first, I'm going to cancel it, and I'm going to talk\n\nSpeaker 2: to my doctor, and if he says I should try something different, I can call you guys back\n\nSpeaker 1: because I have your number and everything.\n\nSpeaker 2: Right.\n\nSpeaker 1: So what I was saying in the meantime, what I could do is message my pharmacy and have\n\nSpeaker 2: them send you over a sample of the different version for free so that if he gives you the\n\nSpeaker 1: green light, you already have it.\n\nSpeaker 2: Try it.\n\nSpeaker 1: Call us back and let us know.\n\nSpeaker 2: I'm going to hold off on that right now.\n\nSpeaker 1: Like I said, I really believe I need to go to the doctor from what I'm finding now.\n\nSpeaker 2: So I'm going to hold off on that right now, but I'll see what the doctor says.\n\nSpeaker 1: Sounds good.\n\nSpeaker 2: All right.\n\nSpeaker 1: Hope you have a great rest of your day.\n\nSpeaker 2: So you're going to cancel everything, correct?\n\nSpeaker 1: Everything's canceled.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Thank you very much, bud.\n\nSpeaker 2: Take care.",
+    "duration": 5662,
+    "audioDuration": 109.91999816894531,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 14.760000228881836,
+        "text": " Charles, I just wanted to make sure that my prescription stopped."
+      },
+      {
+        "id": 1,
+        "start": 14.760000228881836,
+        "end": 20.360000610351562,
+        "text": " I sent an email, but I didn't get a reply back because they don't seem to work for me."
+      },
+      {
+        "id": 2,
+        "start": 20.360000610351562,
+        "end": 21.360000610351562,
+        "text": " The pills don't?"
+      },
+      {
+        "id": 3,
+        "start": 21.360000610351562,
+        "end": 22.360000610351562,
+        "text": " Okay."
+      },
+      {
+        "id": 4,
+        "start": 22.360000610351562,
+        "end": 23.360000610351562,
+        "text": " Rodney?"
+      },
+      {
+        "id": 5,
+        "start": 23.360000610351562,
+        "end": 24.360000610351562,
+        "text": " No."
+      },
+      {
+        "id": 6,
+        "start": 24.360000610351562,
+        "end": 25.360000610351562,
+        "text": " Haudenot?"
+      },
+      {
+        "id": 7,
+        "start": 25.360000610351562,
+        "end": 26.360000610351562,
+        "text": " Yes."
+      },
+      {
+        "id": 8,
+        "start": 26.360000610351562,
+        "end": 27.360000610351562,
+        "text": " Yes."
+      },
+      {
+        "id": 9,
+        "start": 27.360000610351562,
+        "end": 28.360000610351562,
+        "text": " Okay."
+      },
+      {
+        "id": 10,
+        "start": 28.360000610351562,
+        "end": 29.360000610351562,
+        "text": " All right."
+      },
+      {
+        "id": 11,
+        "start": 29.360000610351562,
+        "end": 30.360000610351562,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 30.360000610351562,
+        "end": 32.2400016784668,
+        "text": " So the pills weren't effective at all?"
+      },
+      {
+        "id": 13,
+        "start": 32.2400016784668,
+        "end": 34.63999938964844,
+        "text": " You took them on an empty stomach and no alcohol?"
+      },
+      {
+        "id": 14,
+        "start": 34.63999938964844,
+        "end": 35.63999938964844,
+        "text": " Yeah."
+      },
+      {
+        "id": 15,
+        "start": 35.63999938964844,
+        "end": 36.63999938964844,
+        "text": " Shit."
+      },
+      {
+        "id": 16,
+        "start": 36.63999938964844,
+        "end": 37.63999938964844,
+        "text": " Okay."
+      },
+      {
+        "id": 17,
+        "start": 37.63999938964844,
+        "end": 39.20000076293945,
+        "text": " I guess I got to go to the doctor."
+      },
+      {
+        "id": 18,
+        "start": 39.20000076293945,
+        "end": 40.20000076293945,
+        "text": " Yeah."
+      },
+      {
+        "id": 19,
+        "start": 40.20000076293945,
+        "end": 41.20000076293945,
+        "text": " Yeah."
+      },
+      {
+        "id": 20,
+        "start": 41.20000076293945,
+        "end": 42.880001068115234,
+        "text": " I mean, that's always an option."
+      },
+      {
+        "id": 21,
+        "start": 42.880001068115234,
+        "end": 45.2400016784668,
+        "text": " I mean, in the meantime, we are with Pfizer."
+      },
+      {
+        "id": 22,
+        "start": 45.2400016784668,
+        "end": 49.119998931884766,
+        "text": " I do see that you're only getting the 50 milligram, Rodney, so I mean, if you are still looking"
+      },
+      {
+        "id": 23,
+        "start": 49.119998931884766,
+        "end": 52.52000045776367,
+        "text": " for something to give you that kick, I can message my pharmacy."
+      },
+      {
+        "id": 24,
+        "start": 52.52000045776367,
+        "end": 57.15999984741211,
+        "text": " We are with Pfizer, so I do have a different version of the Viagra AGV that's made over"
+      },
+      {
+        "id": 25,
+        "start": 57.15999984741211,
+        "end": 60.040000915527344,
+        "text": " in our France factory from Pfizer."
+      },
+      {
+        "id": 26,
+        "start": 60.040000915527344,
+        "end": 61.040000915527344,
+        "text": " It's a little bit more expensive."
+      },
+      {
+        "id": 27,
+        "start": 61.040000915527344,
+        "end": 62.040000915527344,
+        "text": " Yeah."
+      },
+      {
+        "id": 28,
+        "start": 62.040000915527344,
+        "end": 66.23999786376953,
+        "text": " What I'm going to do right now, first, I'm going to cancel it, and I'm going to talk"
+      },
+      {
+        "id": 29,
+        "start": 66.23999786376953,
+        "end": 71.4000015258789,
+        "text": " to my doctor, and if he says I should try something different, I can call you guys back"
+      },
+      {
+        "id": 30,
+        "start": 71.4000015258789,
+        "end": 75.4800033569336,
+        "text": " because I have your number and everything."
+      },
+      {
+        "id": 31,
+        "start": 75.4800033569336,
+        "end": 76.4800033569336,
+        "text": " Right."
+      },
+      {
+        "id": 32,
+        "start": 76.4800033569336,
+        "end": 80.16000366210938,
+        "text": " So what I was saying in the meantime, what I could do is message my pharmacy and have"
+      },
+      {
+        "id": 33,
+        "start": 80.16000366210938,
+        "end": 84.80000305175781,
+        "text": " them send you over a sample of the different version for free so that if he gives you the"
+      },
+      {
+        "id": 34,
+        "start": 84.80000305175781,
+        "end": 86.83999633789062,
+        "text": " green light, you already have it."
+      },
+      {
+        "id": 35,
+        "start": 86.83999633789062,
+        "end": 87.83999633789062,
+        "text": " Try it."
+      },
+      {
+        "id": 36,
+        "start": 87.83999633789062,
+        "end": 90.83999633789062,
+        "text": " Call us back and let us know."
+      },
+      {
+        "id": 37,
+        "start": 90.83999633789062,
+        "end": 92.63999938964844,
+        "text": " I'm going to hold off on that right now."
+      },
+      {
+        "id": 38,
+        "start": 92.63999938964844,
+        "end": 96.23999786376953,
+        "text": " Like I said, I really believe I need to go to the doctor from what I'm finding now."
+      },
+      {
+        "id": 39,
+        "start": 96.23999786376953,
+        "end": 100.83999633789062,
+        "text": " So I'm going to hold off on that right now, but I'll see what the doctor says."
+      },
+      {
+        "id": 40,
+        "start": 100.83999633789062,
+        "end": 101.83999633789062,
+        "text": " Sounds good."
+      },
+      {
+        "id": 41,
+        "start": 101.83999633789062,
+        "end": 102.83999633789062,
+        "text": " All right."
+      },
+      {
+        "id": 42,
+        "start": 102.83999633789062,
+        "end": 103.83999633789062,
+        "text": " Hope you have a great rest of your day."
+      },
+      {
+        "id": 43,
+        "start": 103.83999633789062,
+        "end": 106.19999694824219,
+        "text": " So you're going to cancel everything, correct?"
+      },
+      {
+        "id": 44,
+        "start": 106.19999694824219,
+        "end": 107.19999694824219,
+        "text": " Everything's canceled."
+      },
+      {
+        "id": 45,
+        "start": 107.19999694824219,
+        "end": 108.19999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 46,
+        "start": 108.19999694824219,
+        "end": 109.19999694824219,
+        "text": " Thank you very much, bud."
+      },
+      {
+        "id": 47,
+        "start": 109.19999694824219,
+        "end": 109.83999633789062,
+        "text": " Take care."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8127-b1fe-dd7e3206ef1b",
+    "url": "https://www.notion.so/300000001242141-300000001731678-30611d0a101c8127b1fedd7e3206ef1b"
+  },
+  "processedAt": "2026-02-13T20:11:25.411Z"
+}

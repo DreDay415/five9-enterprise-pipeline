@@ -1,0 +1,188 @@
+{
+  "recording": {
+    "name": "300000001219530-300000001709581-3612493401 by lucif@superbalife.com @ 11_41_28 AM.wav",
+    "size": 107896,
+    "modifyTime": 1769583436000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219530-300000001709581-3612493401 by lucif@superbalife.com @ 11_41_28 AM.wav",
+    "uploadDate": "2026-01-28T06:57:16.000Z",
+    "callId": "300000001219530-300000001709581",
+    "agent": "lucif",
+    "phoneNumber": "3612493401",
+    "callTimestamp": "2026-01-28T11:41:28.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yes, I want to cancel my prescription.\n\nSpeaker 2: All right, sir.\n\nSpeaker 1: Let me pull up your account one moment.\n\nSpeaker 2: Am I speaking to Kevin?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Is your name Kevin, sir?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yes.\n\nSpeaker 1: All right, sir.\n\nSpeaker 2: I do see you are a VIP with us here.\n\nSpeaker 1: You might have asked why you're canceling.\n\nSpeaker 2: I don't need it.\n\nSpeaker 1: No, it's not working for you.\n\nSpeaker 2: No, is it not working for you or are you just getting it too fast?\n\nSpeaker 1: Because you can always order this as needed.\n\nSpeaker 2: No, I don't need it anymore.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Well, yes, I do understand that, sir.\n\nSpeaker 1: And you don't want to pause this or, you know, we can give you about six months or so\n\nSpeaker 2: where you're not receiving or being billed anything.\n\nSpeaker 1: No, I'm good.\n\nSpeaker 2: I have plenty.\n\nSpeaker 1: I don't need anymore.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Well, your prescription will be gone, sir, so you will not be able to reorder, okay?\n\nSpeaker 2: Thank you.\n\nSpeaker 1: You're welcome.",
+    "duration": 2780,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Yes, I want to cancel my prescription."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 4,
+        "text": " All right, sir."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 7,
+        "text": " Let me pull up your account one moment."
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 11,
+        "text": " Am I speaking to Kevin?"
+      },
+      {
+        "id": 4,
+        "start": 11,
+        "end": 12,
+        "text": " Yes."
+      },
+      {
+        "id": 5,
+        "start": 12,
+        "end": 14,
+        "text": " Is your name Kevin, sir?"
+      },
+      {
+        "id": 6,
+        "start": 14,
+        "end": 15,
+        "text": " Okay."
+      },
+      {
+        "id": 7,
+        "start": 15,
+        "end": 16,
+        "text": " Yes."
+      },
+      {
+        "id": 8,
+        "start": 16,
+        "end": 17,
+        "text": " All right, sir."
+      },
+      {
+        "id": 9,
+        "start": 17,
+        "end": 19,
+        "text": " I do see you are a VIP with us here."
+      },
+      {
+        "id": 10,
+        "start": 19,
+        "end": 22,
+        "text": " You might have asked why you're canceling."
+      },
+      {
+        "id": 11,
+        "start": 22,
+        "end": 24,
+        "text": " I don't need it."
+      },
+      {
+        "id": 12,
+        "start": 24,
+        "end": 27,
+        "text": " No, it's not working for you."
+      },
+      {
+        "id": 13,
+        "start": 28,
+        "end": 31,
+        "text": " No, is it not working for you or are you just getting it too fast?"
+      },
+      {
+        "id": 14,
+        "start": 31,
+        "end": 33,
+        "text": " Because you can always order this as needed."
+      },
+      {
+        "id": 15,
+        "start": 33,
+        "end": 36,
+        "text": " No, I don't need it anymore."
+      },
+      {
+        "id": 16,
+        "start": 45,
+        "end": 46,
+        "text": " Okay."
+      },
+      {
+        "id": 17,
+        "start": 46,
+        "end": 48,
+        "text": " Well, yes, I do understand that, sir."
+      },
+      {
+        "id": 18,
+        "start": 48,
+        "end": 52,
+        "text": " And you don't want to pause this or, you know, we can give you about six months or so"
+      },
+      {
+        "id": 19,
+        "start": 52,
+        "end": 54,
+        "text": " where you're not receiving or being billed anything."
+      },
+      {
+        "id": 20,
+        "start": 54,
+        "end": 56,
+        "text": " No, I'm good."
+      },
+      {
+        "id": 21,
+        "start": 56,
+        "end": 57,
+        "text": " I have plenty."
+      },
+      {
+        "id": 22,
+        "start": 57,
+        "end": 58,
+        "text": " I don't need anymore."
+      },
+      {
+        "id": 23,
+        "start": 58,
+        "end": 59,
+        "text": " Okay."
+      },
+      {
+        "id": 24,
+        "start": 59,
+        "end": 63,
+        "text": " Well, your prescription will be gone, sir, so you will not be able to reorder, okay?"
+      },
+      {
+        "id": 25,
+        "start": 63,
+        "end": 64,
+        "text": " Thank you."
+      },
+      {
+        "id": 26,
+        "start": 64,
+        "end": 65,
+        "text": " You're welcome."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8153-b8f1-ee0873125134",
+    "url": "https://www.notion.so/300000001219530-300000001709581-2f611d0a101c8153b8f1ee0873125134"
+  },
+  "processedAt": "2026-01-28T16:19:57.872Z"
+}

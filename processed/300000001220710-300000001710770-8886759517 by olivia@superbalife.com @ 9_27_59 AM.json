@@ -1,0 +1,212 @@
+{
+  "recording": {
+    "name": "300000001220710-300000001710770-8886759517 by olivia@superbalife.com @ 9_27_59 AM.wav",
+    "size": 285346,
+    "modifyTime": 1769621476000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220710-300000001710770-8886759517 by olivia@superbalife.com @ 9_27_59 AM.wav",
+    "uploadDate": "2026-01-28T17:31:16.000Z",
+    "callId": "300000001220710-300000001710770",
+    "agent": "olivia",
+    "phoneNumber": "8886759517",
+    "callTimestamp": "2026-01-28T09:27:59.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Olivia speaking. Who do I have the pleasure of speaking with today?\n\nSpeaker 2: Yeah, hi. My name is Ruben Munoz, last name is M-U-N-O-Z, and I just got an order in yesterday of Cyndamifil, which is generic for Viagra.\n\nSpeaker 1: Okay, how do I stop these from coming? Because I got an order recently sent to me,\n\nSpeaker 2: and I thought I had contacted them and told them to stop sending them, and I just got one in the mail yesterday.\n\nSpeaker 1: Yeah, I can look into that for you. So what is the phone number that's going to be associated with your prescription for me to look into?\n\nSpeaker 2: Okay, it's 818-370-1742.\n\nSpeaker 1: Okay, there you are, Ruben. And what is your date of birth?\n\nSpeaker 2: 10-31-1958.\n\nSpeaker 1: Great. And you're located in Montrose, California?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Amazing. Yeah, so I do see you here. All right.\n\nSpeaker 2: Just how do I stop having you send me anymore?\n\nSpeaker 1: Yeah, if you don't want to receive regular refills with your prescription, you certainly don't have to.\n\nSpeaker 2: You always have the option with your prescription to place it on hold for up to six months at a time,\n\nSpeaker 1: just because six months is when the prescription would expire if we didn't refill it.\n\nSpeaker 2: So the way that would work is if you did want to order within the next six months or before July 28th of this year, you could.\n\nSpeaker 1: You just have to give us a call to place the order yourself.\n\nSpeaker 2: Okay. But I don't need any more sent out to me.\n\nSpeaker 1: Okay, yeah, no, I completely understand that.\n\nSpeaker 2: But, yeah, if you, you know, do want to keep access to the script, you do have that option that if you just leave it on hold.\n\nSpeaker 1: If you do want to call back and order with it, you can, as opposed to having to restart it and having to pay a separate –\n\nSpeaker 2: we have a new policy that you'd have to pay a separate doctor fee.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: So put it on hold, and I will contact you when I need some more.\n\nSpeaker 2: Okay, great. Yeah. Well, thank you so much, Ruben.\n\nSpeaker 1: All right.\n\nSpeaker 2: I hope you have a great day, and if you need anything before the end of July, just let us know.\n\nSpeaker 1: Okay. All right. Thank you.\n\nSpeaker 2: Thank you. Bye.\n\nSpeaker 1: Bye.",
+    "duration": 6843,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Thank you for calling Viagra. This is Olivia speaking. Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 20,
+        "text": " Yeah, hi. My name is Ruben Munoz, last name is M-U-N-O-Z, and I just got an order in yesterday of Cyndamifil, which is generic for Viagra."
+      },
+      {
+        "id": 2,
+        "start": 20,
+        "end": 26,
+        "text": " Okay, how do I stop these from coming? Because I got an order recently sent to me,"
+      },
+      {
+        "id": 3,
+        "start": 26,
+        "end": 32,
+        "text": " and I thought I had contacted them and told them to stop sending them, and I just got one in the mail yesterday."
+      },
+      {
+        "id": 4,
+        "start": 32,
+        "end": 43,
+        "text": " Yeah, I can look into that for you. So what is the phone number that's going to be associated with your prescription for me to look into?"
+      },
+      {
+        "id": 5,
+        "start": 43,
+        "end": 51,
+        "text": " Okay, it's 818-370-1742."
+      },
+      {
+        "id": 6,
+        "start": 51,
+        "end": 59,
+        "text": " Okay, there you are, Ruben. And what is your date of birth?"
+      },
+      {
+        "id": 7,
+        "start": 59,
+        "end": 63,
+        "text": " 10-31-1958."
+      },
+      {
+        "id": 8,
+        "start": 63,
+        "end": 67,
+        "text": " Great. And you're located in Montrose, California?"
+      },
+      {
+        "id": 9,
+        "start": 67,
+        "end": 69,
+        "text": " Correct."
+      },
+      {
+        "id": 10,
+        "start": 69,
+        "end": 74,
+        "text": " Amazing. Yeah, so I do see you here. All right."
+      },
+      {
+        "id": 11,
+        "start": 74,
+        "end": 80,
+        "text": " Just how do I stop having you send me anymore?"
+      },
+      {
+        "id": 12,
+        "start": 80,
+        "end": 88,
+        "text": " Yeah, if you don't want to receive regular refills with your prescription, you certainly don't have to."
+      },
+      {
+        "id": 13,
+        "start": 88,
+        "end": 96,
+        "text": " You always have the option with your prescription to place it on hold for up to six months at a time,"
+      },
+      {
+        "id": 14,
+        "start": 96,
+        "end": 102,
+        "text": " just because six months is when the prescription would expire if we didn't refill it."
+      },
+      {
+        "id": 15,
+        "start": 102,
+        "end": 112,
+        "text": " So the way that would work is if you did want to order within the next six months or before July 28th of this year, you could."
+      },
+      {
+        "id": 16,
+        "start": 112,
+        "end": 117,
+        "text": " You just have to give us a call to place the order yourself."
+      },
+      {
+        "id": 17,
+        "start": 117,
+        "end": 125,
+        "text": " Okay. But I don't need any more sent out to me."
+      },
+      {
+        "id": 18,
+        "start": 125,
+        "end": 130,
+        "text": " Okay, yeah, no, I completely understand that."
+      },
+      {
+        "id": 19,
+        "start": 130,
+        "end": 139,
+        "text": " But, yeah, if you, you know, do want to keep access to the script, you do have that option that if you just leave it on hold."
+      },
+      {
+        "id": 20,
+        "start": 139,
+        "end": 149,
+        "text": " If you do want to call back and order with it, you can, as opposed to having to restart it and having to pay a separate –"
+      },
+      {
+        "id": 21,
+        "start": 149,
+        "end": 153,
+        "text": " we have a new policy that you'd have to pay a separate doctor fee."
+      },
+      {
+        "id": 22,
+        "start": 153,
+        "end": 154,
+        "text": " Okay."
+      },
+      {
+        "id": 23,
+        "start": 154,
+        "end": 155,
+        "text": " Yeah."
+      },
+      {
+        "id": 24,
+        "start": 155,
+        "end": 161,
+        "text": " So put it on hold, and I will contact you when I need some more."
+      },
+      {
+        "id": 25,
+        "start": 161,
+        "end": 165,
+        "text": " Okay, great. Yeah. Well, thank you so much, Ruben."
+      },
+      {
+        "id": 26,
+        "start": 165,
+        "end": 166,
+        "text": " All right."
+      },
+      {
+        "id": 27,
+        "start": 166,
+        "end": 170,
+        "text": " I hope you have a great day, and if you need anything before the end of July, just let us know."
+      },
+      {
+        "id": 28,
+        "start": 170,
+        "end": 172,
+        "text": " Okay. All right. Thank you."
+      },
+      {
+        "id": 29,
+        "start": 172,
+        "end": 173,
+        "text": " Thank you. Bye."
+      },
+      {
+        "id": 30,
+        "start": 173,
+        "end": 174,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81c5-a060-cfff4811f348",
+    "url": "https://www.notion.so/300000001220710-300000001710770-2f611d0a101c81c5a060cfff4811f348"
+  },
+  "processedAt": "2026-01-28T18:26:10.808Z"
+}

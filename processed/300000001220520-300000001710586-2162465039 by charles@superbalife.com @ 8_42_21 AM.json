@@ -1,0 +1,194 @@
+{
+  "recording": {
+    "name": "300000001220520-300000001710586-2162465039 by charles@superbalife.com @ 8_42_21 AM.wav",
+    "size": 165226,
+    "modifyTime": 1769618658000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220520-300000001710586-2162465039 by charles@superbalife.com @ 8_42_21 AM.wav",
+    "uploadDate": "2026-01-28T16:44:18.000Z",
+    "callId": "300000001220520-300000001710586",
+    "agent": "charles",
+    "phoneNumber": "2162465039",
+    "callTimestamp": "2026-01-28T08:42:21.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling by. This is Charles.\n\nSpeaker 2: I'll call you back in a minute, Ray.\n\nSpeaker 1: Hey, yes, sir. How you doing?\n\nSpeaker 2: I'm good. How about yourself?\n\nSpeaker 1: Yeah. I got two charges that shouldn't be on my thing.\n\nSpeaker 2: I only ordered one thing, and I got three charges.\n\nSpeaker 1: One of them is fine.\n\nSpeaker 2: My name is Anthony Welch.\n\nSpeaker 1: Gotcha. You're in Cleveland, Ohio?\n\nSpeaker 2: Yes. Yes.\n\nSpeaker 1: It looks like we filed the refund orders for all three charges yesterday and deactivated the account as well.\n\nSpeaker 2: Huh?\n\nSpeaker 1: We refunded everything yesterday, so it'll take a couple of days to hit your account.\n\nSpeaker 2: No, y'all was only supposed to refund two things, not three.\n\nSpeaker 1: Yeah, but it looks like we received disputes for everything, so we just refunded everything.\n\nSpeaker 2: So what do I do?\n\nSpeaker 1: You got to talk to your bank, because at this point, we've already deactivated your account because of the dispute,\n\nSpeaker 2: so you're no longer allowed to order with us anymore.\n\nSpeaker 1: Good job. But do you see where y'all order one thing, and y'all charge for three things, though?\n\nSpeaker 2: Yeah. Next time, you got to call in and figure that out with us and not talk to your bank,\n\nSpeaker 1: because you make us look really, really bad with the banks when you file a dispute like that.\n\nSpeaker 2: So at this point, brother, you're blacklisted from ever ordering from us again.\n\nSpeaker 1: So what do I do if I want to order something? That's what I'm saying.\n\nSpeaker 2: Y'all charge me for three things, and y'all's only supposed to charge me.\n\nSpeaker 1: You got to go to Bluetooth. You got to go to somewhere else, your doctor.\n\nSpeaker 2: I don't know, but you can't order with us anymore, unfortunately.\n\nSpeaker 1: Okay. No problem.\n\nSpeaker 2: All right, then. Hope you have a good one.",
+    "duration": 6004,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thanks for calling by. This is Charles."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 4,
+        "text": " I'll call you back in a minute, Ray."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 6,
+        "text": " Hey, yes, sir. How you doing?"
+      },
+      {
+        "id": 3,
+        "start": 6,
+        "end": 8,
+        "text": " I'm good. How about yourself?"
+      },
+      {
+        "id": 4,
+        "start": 8,
+        "end": 12,
+        "text": " Yeah. I got two charges that shouldn't be on my thing."
+      },
+      {
+        "id": 5,
+        "start": 12,
+        "end": 14,
+        "text": " I only ordered one thing, and I got three charges."
+      },
+      {
+        "id": 6,
+        "start": 14,
+        "end": 16,
+        "text": " One of them is fine."
+      },
+      {
+        "id": 7,
+        "start": 16,
+        "end": 18,
+        "text": " My name is Anthony Welch."
+      },
+      {
+        "id": 8,
+        "start": 18,
+        "end": 21,
+        "text": " Gotcha. You're in Cleveland, Ohio?"
+      },
+      {
+        "id": 9,
+        "start": 21,
+        "end": 22,
+        "text": " Yes. Yes."
+      },
+      {
+        "id": 10,
+        "start": 22,
+        "end": 31,
+        "text": " It looks like we filed the refund orders for all three charges yesterday and deactivated the account as well."
+      },
+      {
+        "id": 11,
+        "start": 31,
+        "end": 33,
+        "text": " Huh?"
+      },
+      {
+        "id": 12,
+        "start": 33,
+        "end": 38,
+        "text": " We refunded everything yesterday, so it'll take a couple of days to hit your account."
+      },
+      {
+        "id": 13,
+        "start": 38,
+        "end": 42,
+        "text": " No, y'all was only supposed to refund two things, not three."
+      },
+      {
+        "id": 14,
+        "start": 42,
+        "end": 49,
+        "text": " Yeah, but it looks like we received disputes for everything, so we just refunded everything."
+      },
+      {
+        "id": 15,
+        "start": 49,
+        "end": 51,
+        "text": " So what do I do?"
+      },
+      {
+        "id": 16,
+        "start": 51,
+        "end": 59,
+        "text": " You got to talk to your bank, because at this point, we've already deactivated your account because of the dispute,"
+      },
+      {
+        "id": 17,
+        "start": 59,
+        "end": 63,
+        "text": " so you're no longer allowed to order with us anymore."
+      },
+      {
+        "id": 18,
+        "start": 63,
+        "end": 69,
+        "text": " Good job. But do you see where y'all order one thing, and y'all charge for three things, though?"
+      },
+      {
+        "id": 19,
+        "start": 69,
+        "end": 76,
+        "text": " Yeah. Next time, you got to call in and figure that out with us and not talk to your bank,"
+      },
+      {
+        "id": 20,
+        "start": 76,
+        "end": 80,
+        "text": " because you make us look really, really bad with the banks when you file a dispute like that."
+      },
+      {
+        "id": 21,
+        "start": 80,
+        "end": 85,
+        "text": " So at this point, brother, you're blacklisted from ever ordering from us again."
+      },
+      {
+        "id": 22,
+        "start": 85,
+        "end": 88,
+        "text": " So what do I do if I want to order something? That's what I'm saying."
+      },
+      {
+        "id": 23,
+        "start": 88,
+        "end": 91,
+        "text": " Y'all charge me for three things, and y'all's only supposed to charge me."
+      },
+      {
+        "id": 24,
+        "start": 91,
+        "end": 95,
+        "text": " You got to go to Bluetooth. You got to go to somewhere else, your doctor."
+      },
+      {
+        "id": 25,
+        "start": 95,
+        "end": 98,
+        "text": " I don't know, but you can't order with us anymore, unfortunately."
+      },
+      {
+        "id": 26,
+        "start": 98,
+        "end": 100,
+        "text": " Okay. No problem."
+      },
+      {
+        "id": 27,
+        "start": 100,
+        "end": 102,
+        "text": " All right, then. Hope you have a good one."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81b0-aed8-e0d0864ad9c1",
+    "url": "https://www.notion.so/300000001220520-300000001710586-2f611d0a101c81b0aed8e0d0864ad9c1"
+  },
+  "processedAt": "2026-01-28T18:55:44.899Z"
+}

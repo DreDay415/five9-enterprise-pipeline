@@ -1,0 +1,50 @@
+{
+  "recording": {
+    "name": "300000001217890-300000001708044-5159758245 by john@superbalife.com @ 12_23_36 PM.wav",
+    "size": 24566,
+    "modifyTime": 1769584632000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217890-300000001708044-5159758245 by john@superbalife.com @ 12_23_36 PM.wav",
+    "uploadDate": "2026-01-28T07:17:12.000Z",
+    "callId": "300000001217890-300000001708044",
+    "agent": "john",
+    "phoneNumber": "5159758245",
+    "callTimestamp": "2026-01-28T12:23:36.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you today?\n\nSpeaker 2: Yeah, I don't... I didn't know that this was a recurring deal on my Viagra.\n\nSpeaker 1: I need to cancel that thing.\n\nSpeaker 2: Okay. One second.",
+    "duration": 957,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling. This is John. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 9,
+        "text": " Yeah, I don't... I didn't know that this was a reoccurring deal on my Viagra."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 11,
+        "text": " I need to cancel that thing."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 14,
+        "text": " Okay. One second."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e8-9681-ee9771a06598",
+    "url": "https://www.notion.so/300000001217890-300000001708044-2f611d0a101c81e89681ee9771a06598"
+  },
+  "processedAt": "2026-01-28T15:03:32.739Z"
+}

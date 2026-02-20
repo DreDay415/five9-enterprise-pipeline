@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001220947-300000001710948-5019841042 by  @ 10_43_04 AM_CallStudio.wav",
+    "size": 29700,
+    "modifyTime": 1769625824000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220947-300000001710948-5019841042 by  @ 10_43_04 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T18:43:44.000Z",
+    "callId": "300000001220947-300000001710948",
+    "phoneNumber": "5019841042",
+    "callTimestamp": "2026-01-28T18:43:44.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I'm canceling.\n\nSpeaker 1: I'm looking for a refund.\n\nSpeaker 2: Period.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Transferring to agent.",
+    "duration": 980,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 7,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 11,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 13,
+        "text": " I'm canceling."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 14,
+        "text": " I'm looking for a refund."
+      },
+      {
+        "id": 5,
+        "start": 14,
+        "end": 16,
+        "text": " Period."
+      },
+      {
+        "id": 6,
+        "start": 16,
+        "end": 17,
+        "text": " Thanks."
+      },
+      {
+        "id": 7,
+        "start": 17,
+        "end": 18,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8147-8872-e85116e64354",
+    "url": "https://www.notion.so/300000001220947-300000001710948-2f711d0a101c81478872e85116e64354"
+  },
+  "processedAt": "2026-01-29T00:11:37.303Z"
+}

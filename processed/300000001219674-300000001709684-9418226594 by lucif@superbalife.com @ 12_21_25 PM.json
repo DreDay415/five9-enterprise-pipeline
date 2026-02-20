@@ -1,0 +1,194 @@
+{
+  "recording": {
+    "name": "300000001219674-300000001709684-9418226594 by lucif@superbalife.com @ 12_21_25 PM.wav",
+    "size": 96846,
+    "modifyTime": 1769589433000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219674-300000001709684-9418226594 by lucif@superbalife.com @ 12_21_25 PM.wav",
+    "uploadDate": "2026-01-28T08:37:13.000Z",
+    "callId": "300000001219674-300000001709684",
+    "agent": "lucif",
+    "phoneNumber": "9418226594",
+    "callTimestamp": "2026-01-28T12:21:25.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I just want to cancel my prescription, please.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Is your name Adam?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay.\n\nSpeaker 2: One moment, Adam.\n\nSpeaker 1: Let me pull up your account.\n\nSpeaker 2: All righty.\n\nSpeaker 1: I do have you here, sir.\n\nSpeaker 2: I do notice you are a VIP as well.\n\nSpeaker 1: Do you mind if I ask why you're canceling?\n\nSpeaker 2: I just don't want it anymore.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And it's not something that you can always order as needed or you don't want to postpone\n\nSpeaker 1: it or anything like that?\n\nSpeaker 2: I guess you can leave it to order as needed.\n\nSpeaker 1: I just don't want it automatically sent to me anymore.\n\nSpeaker 2: Yes.\n\nSpeaker 1: You do not have to get it automatically, sir.\n\nSpeaker 2: So basically, we'll just leave your prescription open for the next six months here and you'll\n\nSpeaker 1: have to call us for your next one.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Sounds good.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Amazing.\n\nSpeaker 2: Okay.\n\nSpeaker 1: You have a good day, sir.",
+    "duration": 8132,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " I just want to cancel my prescription, please."
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 8,
+        "text": " Okay."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " Is your name Adam?"
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 12,
+        "text": " Yes."
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 13,
+        "text": " Okay."
+      },
+      {
+        "id": 5,
+        "start": 13,
+        "end": 16,
+        "text": " One moment, Adam."
+      },
+      {
+        "id": 6,
+        "start": 16,
+        "end": 17,
+        "text": " Let me pull up your account."
+      },
+      {
+        "id": 7,
+        "start": 17,
+        "end": 18,
+        "text": " All righty."
+      },
+      {
+        "id": 8,
+        "start": 18,
+        "end": 19,
+        "text": " I do have you here, sir."
+      },
+      {
+        "id": 9,
+        "start": 19,
+        "end": 20,
+        "text": " I do notice you are a VIP as well."
+      },
+      {
+        "id": 10,
+        "start": 20,
+        "end": 21,
+        "text": " Do you mind if I ask why you're canceling?"
+      },
+      {
+        "id": 11,
+        "start": 21,
+        "end": 22,
+        "text": " I just don't want it anymore."
+      },
+      {
+        "id": 12,
+        "start": 22,
+        "end": 23,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 23,
+        "end": 30,
+        "text": " And it's not something that you can always order as needed or you don't want to postpone"
+      },
+      {
+        "id": 14,
+        "start": 30,
+        "end": 33,
+        "text": " it or anything like that?"
+      },
+      {
+        "id": 15,
+        "start": 33,
+        "end": 41,
+        "text": " I guess you can leave it to order as needed."
+      },
+      {
+        "id": 16,
+        "start": 41,
+        "end": 46,
+        "text": " I just don't want it automatically sent to me anymore."
+      },
+      {
+        "id": 17,
+        "start": 46,
+        "end": 47,
+        "text": " Yes."
+      },
+      {
+        "id": 18,
+        "start": 47,
+        "end": 48,
+        "text": " You do not have to get it automatically, sir."
+      },
+      {
+        "id": 19,
+        "start": 48,
+        "end": 52,
+        "text": " So basically, we'll just leave your prescription open for the next six months here and you'll"
+      },
+      {
+        "id": 20,
+        "start": 52,
+        "end": 54,
+        "text": " have to call us for your next one."
+      },
+      {
+        "id": 21,
+        "start": 54,
+        "end": 55,
+        "text": " Okay."
+      },
+      {
+        "id": 22,
+        "start": 55,
+        "end": 56,
+        "text": " Sounds good."
+      },
+      {
+        "id": 23,
+        "start": 56,
+        "end": 57,
+        "text": " Thank you."
+      },
+      {
+        "id": 24,
+        "start": 57,
+        "end": 58,
+        "text": " Amazing."
+      },
+      {
+        "id": 25,
+        "start": 58,
+        "end": 59,
+        "text": " Okay."
+      },
+      {
+        "id": 26,
+        "start": 59,
+        "end": 60,
+        "text": " You have a good day, sir."
+      },
+      {
+        "id": 27,
+        "start": 60,
+        "end": 60,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8199-aeaa-ffcac024a6b6",
+    "url": "https://www.notion.so/300000001219674-300000001709684-2f611d0a101c8199aeaaffcac024a6b6"
+  },
+  "processedAt": "2026-01-28T12:49:48.984Z"
+}

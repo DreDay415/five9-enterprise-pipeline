@@ -1,0 +1,67 @@
+{
+  "recording": {
+    "name": "300000001239545-300000001729193-8595851516 by  @ 4_15_11 PM_CallStudio.wav",
+    "size": 21250,
+    "modifyTime": 1770855345000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239545-300000001729193-8595851516 by  @ 4_15_11 PM_CallStudio.wav",
+    "uploadDate": "2026-02-12T00:15:45.000Z",
+    "callId": "300000001239545-300000001729193",
+    "phoneNumber": "8595851516",
+    "callTimestamp": "2026-02-12T00:15:45.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Hold up.\n\nSpeaker 1: I want to place an order.\n\nSpeaker 2: Thanks.\n\nSpeaker 1: Transferring to agent.",
+    "duration": 1522,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.079999923706055,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.079999923706055,
+        "end": 6.079999923706055,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.079999923706055,
+        "end": 7.079999923706055,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 7.079999923706055,
+        "end": 8.079999923706055,
+        "text": " Hold up."
+      },
+      {
+        "id": 4,
+        "start": 8.079999923706055,
+        "end": 11.600000381469727,
+        "text": " I want to place an order."
+      },
+      {
+        "id": 5,
+        "start": 11.600000381469727,
+        "end": 12.600000381469727,
+        "text": " Thanks."
+      },
+      {
+        "id": 6,
+        "start": 12.600000381469727,
+        "end": 12.800000190734863,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-818d-9630-e7086bf5dc04",
+    "url": "https://www.notion.so/300000001239545-300000001729193-30511d0a101c818d9630e7086bf5dc04"
+  },
+  "processedAt": "2026-02-12T01:09:21.367Z"
+}

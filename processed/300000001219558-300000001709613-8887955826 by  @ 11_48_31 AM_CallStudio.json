@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001219558-300000001709613-8887955826 by  @ 11_48_31 AM_CallStudio.wav",
+    "size": 25670,
+    "modifyTime": 1769587939000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219558-300000001709613-8887955826 by  @ 11_48_31 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T08:12:19.000Z",
+    "callId": "300000001219558-300000001709613",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T08:12:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I need to talk about my prescription.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 689,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.360000133514404,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.360000133514404,
+        "end": 7.840000152587891,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.840000152587891,
+        "end": 12.359999656677246,
+        "text": " I need to talk about my prescription."
+      },
+      {
+        "id": 3,
+        "start": 12.359999656677246,
+        "end": 15.399999618530273,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81fb-b458-d3cb57a7b9b5",
+    "url": "https://www.notion.so/300000001219558-300000001709613-2f611d0a101c81fbb458d3cb57a7b9b5"
+  },
+  "processedAt": "2026-01-28T13:11:37.309Z"
+}

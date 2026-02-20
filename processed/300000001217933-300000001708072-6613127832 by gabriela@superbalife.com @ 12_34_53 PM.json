@@ -1,0 +1,86 @@
+{
+  "recording": {
+    "name": "300000001217933-300000001708072-6613127832 by gabriela@superbalife.com @ 12_34_53 PM.wav",
+    "size": 67076,
+    "modifyTime": 1769583433000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217933-300000001708072-6613127832 by gabriela@superbalife.com @ 12_34_53 PM.wav",
+    "uploadDate": "2026-01-28T06:57:13.000Z",
+    "callId": "300000001217933-300000001708072",
+    "agent": "gabriela",
+    "phoneNumber": "6613127832",
+    "callTimestamp": "2026-01-28T12:34:53.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Hi, can I call you guys to get a refill?\n\nSpeaker 1: Yeah, of course. What's your name and date of birth?\n\nSpeaker 2: Greg Humphries, 2-21-60.\n\nSpeaker 1: Okay, thank you, Greg. Okay, Greg, so I am taking a look at your account right now.\n\nSpeaker 2: It looks like you purchased a quantity of 40 pills back in December.\n\nSpeaker 1: So because that was a big amount of pills, the earliest that we can ship another order will be until March.\n\nSpeaker 2: Okay, I'll call back in March.\n\nSpeaker 1: Okay, sounds good. Have a nice day. Bye.\n\nSpeaker 2: Okay, bye.",
+    "duration": 2156,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Hi, can I call you guys to get a refill?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 11,
+        "text": " Yeah, of course. What's your name and date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 15,
+        "text": " Greg Humphries, 2-21-60."
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 20,
+        "text": " Okay, thank you, Greg. Okay, Greg, so I am taking a look at your account right now."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 23,
+        "text": " It looks like you purchased a quantity of 40 pills back in December."
+      },
+      {
+        "id": 6,
+        "start": 23,
+        "end": 32,
+        "text": " So because that was a big amount of pills, the earliest that we can ship another order will be until March."
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 35,
+        "text": " Okay, I'll call back in March."
+      },
+      {
+        "id": 8,
+        "start": 35,
+        "end": 39,
+        "text": " Okay, sounds good. Have a nice day. Bye."
+      },
+      {
+        "id": 9,
+        "start": 39,
+        "end": 41,
+        "text": " Okay, bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8169-8cb0-ebbf1063104a",
+    "url": "https://www.notion.so/300000001217933-300000001708072-2f611d0a101c81698cb0ebbf1063104a"
+  },
+  "processedAt": "2026-01-28T16:24:16.662Z"
+}

@@ -1,0 +1,446 @@
+{
+  "recording": {
+    "name": "300000001219689-300000001709692-5167792323 by john@superbalife.com @ 12_25_51 PM.wav",
+    "size": 115826,
+    "modifyTime": 1769589136000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219689-300000001709692-5167792323 by john@superbalife.com @ 12_25_51 PM.wav",
+    "uploadDate": "2026-01-28T08:32:16.000Z",
+    "callId": "300000001219689-300000001709692",
+    "agent": "john",
+    "phoneNumber": "5167792323",
+    "callTimestamp": "2026-01-28T12:25:51.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling.\n\nSpeaker 2: This is John.\n\nSpeaker 1: How can I help you?\n\nSpeaker 2: How are you doing, John?\n\nSpeaker 1: My name is Danilo Joe.\n\nSpeaker 2: I was hoping I can place a reorder.\n\nSpeaker 1: No problem.\n\nSpeaker 2: What's your zip code, Danilo?\n\nSpeaker 1: 11720.\n\nSpeaker 2: Thanks.\n\nSpeaker 1: Okay.\n\nSpeaker 2: 277 Tree Road.\n\nSpeaker 1: You got it.\n\nSpeaker 2: Okay.\n\nSpeaker 1: One second.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: I just want to make sure.\n\nSpeaker 1: I had you set for the 60 pills.\n\nSpeaker 2: I know there was an issue last time.\n\nSpeaker 1: So, you're still using the same Visa 22098?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Thank you, Lord.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Say that again.\n\nSpeaker 2: The Visa on file, I have it as a 2098.\n\nSpeaker 1: Is that still correct?\n\nSpeaker 2: That is correct.\n\nSpeaker 1: Okay.\n\nSpeaker 2: One second.\n\nSpeaker 1: I'll confirm once it goes through.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: All right.\n\nSpeaker 2: We're all set, Danilo.\n\nSpeaker 1: Your order went through for the 60 pills.\n\nSpeaker 2: Thank you.",
+    "duration": 9046,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Thank you for calling."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2,
+        "text": " This is John."
+      },
+      {
+        "id": 2,
+        "start": 2,
+        "end": 3,
+        "text": " How can I help you?"
+      },
+      {
+        "id": 3,
+        "start": 3,
+        "end": 4,
+        "text": " How are you doing, John?"
+      },
+      {
+        "id": 4,
+        "start": 4,
+        "end": 5,
+        "text": " My name is Danilo Joe."
+      },
+      {
+        "id": 5,
+        "start": 5,
+        "end": 8.399999618530273,
+        "text": " I was hoping I can place a reorder."
+      },
+      {
+        "id": 6,
+        "start": 8.399999618530273,
+        "end": 9.399999618530273,
+        "text": " No problem."
+      },
+      {
+        "id": 7,
+        "start": 9.399999618530273,
+        "end": 10.399999618530273,
+        "text": " What's your zip code, Danilo?"
+      },
+      {
+        "id": 8,
+        "start": 10.399999618530273,
+        "end": 11.399999618530273,
+        "text": " 11720."
+      },
+      {
+        "id": 9,
+        "start": 11.399999618530273,
+        "end": 12.399999618530273,
+        "text": " Thanks."
+      },
+      {
+        "id": 10,
+        "start": 12.399999618530273,
+        "end": 13.399999618530273,
+        "text": " Okay."
+      },
+      {
+        "id": 11,
+        "start": 13.399999618530273,
+        "end": 14.399999618530273,
+        "text": " 277 Tree Road."
+      },
+      {
+        "id": 12,
+        "start": 14.399999618530273,
+        "end": 15.399999618530273,
+        "text": " You got it."
+      },
+      {
+        "id": 13,
+        "start": 15.399999618530273,
+        "end": 16.399999618530273,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 16.399999618530273,
+        "end": 17.399999618530273,
+        "text": " One second."
+      },
+      {
+        "id": 15,
+        "start": 17.399999618530273,
+        "end": 18.399999618530273,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 18.399999618530273,
+        "end": 19.399999618530273,
+        "text": " Yeah."
+      },
+      {
+        "id": 17,
+        "start": 19.399999618530273,
+        "end": 20.399999618530273,
+        "text": " I just want to make sure."
+      },
+      {
+        "id": 18,
+        "start": 20.399999618530273,
+        "end": 21.399999618530273,
+        "text": " I had you set for the 60 pills."
+      },
+      {
+        "id": 19,
+        "start": 21.399999618530273,
+        "end": 22.399999618530273,
+        "text": " I know there was an issue last time."
+      },
+      {
+        "id": 20,
+        "start": 22.399999618530273,
+        "end": 23.399999618530273,
+        "text": " So, I'm still using the same Visa 22098."
+      },
+      {
+        "id": 21,
+        "start": 23.399999618530273,
+        "end": 24.399999618530273,
+        "text": " Oh."
+      },
+      {
+        "id": 22,
+        "start": 24.399999618530273,
+        "end": 25.399999618530273,
+        "text": " So, you're still using the same Visa 22098?"
+      },
+      {
+        "id": 23,
+        "start": 25.399999618530273,
+        "end": 26.399999618530273,
+        "text": " Yeah."
+      },
+      {
+        "id": 24,
+        "start": 26.399999618530273,
+        "end": 27.399999618530273,
+        "text": " Okay."
+      },
+      {
+        "id": 25,
+        "start": 27.399999618530273,
+        "end": 28.399999618530273,
+        "text": " Okay."
+      },
+      {
+        "id": 26,
+        "start": 28.399999618530273,
+        "end": 29.399999618530273,
+        "text": " Okay."
+      },
+      {
+        "id": 27,
+        "start": 29.399999618530273,
+        "end": 30.399999618530273,
+        "text": " Okay."
+      },
+      {
+        "id": 28,
+        "start": 30.399999618530273,
+        "end": 31.399999618530273,
+        "text": " Okay."
+      },
+      {
+        "id": 29,
+        "start": 31.399999618530273,
+        "end": 32.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 30,
+        "start": 32.400001525878906,
+        "end": 33.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 31,
+        "start": 33.400001525878906,
+        "end": 34.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 32,
+        "start": 34.400001525878906,
+        "end": 35.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 33,
+        "start": 35.400001525878906,
+        "end": 36.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 34,
+        "start": 36.400001525878906,
+        "end": 37.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 35,
+        "start": 37.400001525878906,
+        "end": 38.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 36,
+        "start": 38.400001525878906,
+        "end": 39.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 37,
+        "start": 39.400001525878906,
+        "end": 40.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 38,
+        "start": 40.400001525878906,
+        "end": 41.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 39,
+        "start": 41.400001525878906,
+        "end": 42.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 40,
+        "start": 42.400001525878906,
+        "end": 43.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 41,
+        "start": 43.400001525878906,
+        "end": 44.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 42,
+        "start": 45.400001525878906,
+        "end": 46.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 43,
+        "start": 46.400001525878906,
+        "end": 47.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 44,
+        "start": 47.400001525878906,
+        "end": 48.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 45,
+        "start": 48.400001525878906,
+        "end": 49.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 46,
+        "start": 49.400001525878906,
+        "end": 50.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 47,
+        "start": 50.400001525878906,
+        "end": 51.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 48,
+        "start": 51.400001525878906,
+        "end": 52.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 49,
+        "start": 52.400001525878906,
+        "end": 53.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 50,
+        "start": 53.400001525878906,
+        "end": 54.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 51,
+        "start": 54.400001525878906,
+        "end": 55.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 52,
+        "start": 55.400001525878906,
+        "end": 56.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 53,
+        "start": 56.400001525878906,
+        "end": 57.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 54,
+        "start": 57.400001525878906,
+        "end": 58.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 55,
+        "start": 58.400001525878906,
+        "end": 59.400001525878906,
+        "text": " Yes."
+      },
+      {
+        "id": 56,
+        "start": 59.400001525878906,
+        "end": 60.400001525878906,
+        "text": " Thank you Lord."
+      },
+      {
+        "id": 57,
+        "start": 60.400001525878906,
+        "end": 61.400001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 58,
+        "start": 61.400001525878906,
+        "end": 62.400001525878906,
+        "text": " Say that again."
+      },
+      {
+        "id": 59,
+        "start": 62.400001525878906,
+        "end": 63.400001525878906,
+        "text": " The Vsaun file, I have it as a 2098."
+      },
+      {
+        "id": 60,
+        "start": 63.400001525878906,
+        "end": 64.4000015258789,
+        "text": " Is that still correct?"
+      },
+      {
+        "id": 61,
+        "start": 64.4000015258789,
+        "end": 65.4000015258789,
+        "text": " That is correct."
+      },
+      {
+        "id": 62,
+        "start": 65.4000015258789,
+        "end": 66.4000015258789,
+        "text": " Okay."
+      },
+      {
+        "id": 63,
+        "start": 66.4000015258789,
+        "end": 67.4000015258789,
+        "text": " One second."
+      },
+      {
+        "id": 64,
+        "start": 67.4000015258789,
+        "end": 68.4000015258789,
+        "text": " I'll confirm once it goes through."
+      },
+      {
+        "id": 65,
+        "start": 68.4000015258789,
+        "end": 69.4000015258789,
+        "text": " Thank you."
+      },
+      {
+        "id": 66,
+        "start": 69.4000015258789,
+        "end": 70.4000015258789,
+        "text": " All right."
+      },
+      {
+        "id": 67,
+        "start": 70.4000015258789,
+        "end": 71.4000015258789,
+        "text": " We're all set, Danilo."
+      },
+      {
+        "id": 68,
+        "start": 71.4000015258789,
+        "end": 72.4000015258789,
+        "text": " Your order went through for the 60 pills."
+      },
+      {
+        "id": 69,
+        "start": 72.4000015258789,
+        "end": 73.4000015258789,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81fe-a8ac-d3e858696ee2",
+    "url": "https://www.notion.so/300000001219689-300000001709692-2f611d0a101c81fea8acd3e858696ee2"
+  },
+  "processedAt": "2026-01-28T12:54:02.756Z"
+}

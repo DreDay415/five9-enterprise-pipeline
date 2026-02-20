@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001217095-300000001707540-6207934014 by  @ 9_08_29 AM_CallStudio.wav",
+    "size": 25280,
+    "modifyTime": 1769582835000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217095-300000001707540-6207934014 by  @ 9_08_29 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T06:47:15.000Z",
+    "callId": "300000001217095-300000001707540",
+    "phoneNumber": "6207934014",
+    "callTimestamp": "2026-01-28T06:47:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: I got a fax from you guys to contact you.\n\nSpeaker 1: I have earlier...\n\nSpeaker 2: Thanks, transferring to agent.",
+    "duration": 1018,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.679999828338623,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.679999828338623,
+        "end": 6.320000171661377,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.320000171661377,
+        "end": 9.520000457763672,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.520000457763672,
+        "end": 13.399999618530273,
+        "text": " I got a fax from you guys to contact you."
+      },
+      {
+        "id": 4,
+        "start": 13.399999618530273,
+        "end": 14.399999618530273,
+        "text": " I have earlier..."
+      },
+      {
+        "id": 5,
+        "start": 14.399999618530273,
+        "end": 15.199999809265137,
+        "text": " Thanks, transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a4-b240-ee9f7c8360f8",
+    "url": "https://www.notion.so/300000001217095-300000001707540-2f611d0a101c81a4b240ee9f7c8360f8"
+  },
+  "processedAt": "2026-01-28T16:52:47.848Z"
+}

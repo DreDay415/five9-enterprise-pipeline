@@ -1,0 +1,332 @@
+{
+  "recording": {
+    "name": "300000001217344-300000001707680-4142181294 by olivier@superbalife.com @ 9_58_02 AM.wav",
+    "size": 248880,
+    "modifyTime": 1769586730000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217344-300000001707680-4142181294 by olivier@superbalife.com @ 9_58_02 AM.wav",
+    "uploadDate": "2026-01-28T07:52:10.000Z",
+    "callId": "300000001217344-300000001707680",
+    "agent": "olivier",
+    "phoneNumber": "4142181294",
+    "callTimestamp": "2026-01-28T09:58:02.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Hello.\n\nSpeaker 1: How are we doing, sir?\n\nSpeaker 2: Hello.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Mr. Fred Ladsit?\n\nSpeaker 1: Pardon?\n\nSpeaker 2: Mr. Fred Ladsit?\n\nSpeaker 1: Yes, Ladsit.\n\nSpeaker 2: Yep.\n\nSpeaker 1: Yeah, how may I assist you, sir?\n\nSpeaker 2: Pardon?\n\nSpeaker 1: How may I assist you, sir?\n\nSpeaker 2: How can I help you, sir?\n\nSpeaker 1: Yes, I want to cancel the automatic refill.\n\nSpeaker 2: OK, you want to order as needed instead?\n\nSpeaker 1: Yep.\n\nSpeaker 2: OK.\n\nSpeaker 1: I'm going to advise the pharmacy to stop the original frequency\n\nSpeaker 2: for the original written prescription of the 10\n\nSpeaker 1: tablets, which is 30 days from what I can see.\n\nSpeaker 2: So that way you can order as needed.\n\nSpeaker 1: I think they're posted up to half a year.\n\nSpeaker 2: Monthly is not required anyway.\n\nSpeaker 1: You can get it once or twice a year or more based on your need.\n\nSpeaker 2: So I'm going to have them pausing and you can just reorder, OK?\n\nSpeaker 1: Yep.\n\nSpeaker 2: All right, let me.\n\nSpeaker 1: I just don't want the automatic refill.\n\nSpeaker 2: OK, yeah, they're going to pause it\n\nSpeaker 1: so you don't get it automatically every month, OK?\n\nSpeaker 2: Right.\n\nSpeaker 1: Give me one moment.\n\nSpeaker 2: I'm sending them a correspondence right now.\n\nSpeaker 1: OK.\n\nSpeaker 2: OK.\n\nSpeaker 1: All right, Mr. Fred.\n\nSpeaker 2: So I was able to tell them to pause so the prescription is available.\n\nSpeaker 1: Your price is locked in, but you're just not going to get it every month, OK?\n\nSpeaker 2: OK.\n\nSpeaker 1: So you all can give us a call to reorder or log into your account\n\nSpeaker 2: and press the quick refill button.\n\nSpeaker 1: Sure.\n\nSpeaker 2: OK, yeah, this is it.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thank you for making time to call us and have a great week.\n\nSpeaker 1: You too.\n\nSpeaker 2: Thanks.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 7414,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 4.239999771118164,
+        "text": " Hello."
+      },
+      {
+        "id": 2,
+        "start": 4.239999771118164,
+        "end": 5.880000114440918,
+        "text": " How are we doing, sir?"
+      },
+      {
+        "id": 3,
+        "start": 5.880000114440918,
+        "end": 7.519999980926514,
+        "text": " Hello."
+      },
+      {
+        "id": 4,
+        "start": 7.519999980926514,
+        "end": 9.239999771118164,
+        "text": " Yes."
+      },
+      {
+        "id": 5,
+        "start": 9.239999771118164,
+        "end": 12.680000305175781,
+        "text": " Mr. Fred Ladsit?"
+      },
+      {
+        "id": 6,
+        "start": 12.680000305175781,
+        "end": 14.5600004196167,
+        "text": " Pardon?"
+      },
+      {
+        "id": 7,
+        "start": 14.5600004196167,
+        "end": 16.440000534057617,
+        "text": " Mr. Fred Ladsit?"
+      },
+      {
+        "id": 8,
+        "start": 16.440000534057617,
+        "end": 18.8799991607666,
+        "text": " Yes, Ladsit."
+      },
+      {
+        "id": 9,
+        "start": 18.8799991607666,
+        "end": 20.079999923706055,
+        "text": " Yep."
+      },
+      {
+        "id": 10,
+        "start": 20.079999923706055,
+        "end": 24.360000610351562,
+        "text": " Yeah, how may I assist you, sir?"
+      },
+      {
+        "id": 11,
+        "start": 24.360000610351562,
+        "end": 25.520000457763672,
+        "text": " Pardon?"
+      },
+      {
+        "id": 12,
+        "start": 25.520000457763672,
+        "end": 26.68000030517578,
+        "text": " How may I assist you, sir?"
+      },
+      {
+        "id": 13,
+        "start": 26.68000030517578,
+        "end": 28.68000030517578,
+        "text": " How can I help you, sir?"
+      },
+      {
+        "id": 14,
+        "start": 28.68000030517578,
+        "end": 33.20000076293945,
+        "text": " Yes, I want to cancel the automatic refill."
+      },
+      {
+        "id": 15,
+        "start": 33.20000076293945,
+        "end": 36.119998931884766,
+        "text": " OK, you want to order as needed instead?"
+      },
+      {
+        "id": 16,
+        "start": 36.119998931884766,
+        "end": 37.119998931884766,
+        "text": " Yep."
+      },
+      {
+        "id": 17,
+        "start": 37.119998931884766,
+        "end": 37.880001068115234,
+        "text": " OK."
+      },
+      {
+        "id": 18,
+        "start": 37.880001068115234,
+        "end": 42.91999816894531,
+        "text": " I'm going to advise the pharmacy to stop the original frequency"
+      },
+      {
+        "id": 19,
+        "start": 42.91999816894531,
+        "end": 45.880001068115234,
+        "text": " for the original written prescription of the 10"
+      },
+      {
+        "id": 20,
+        "start": 45.880001068115234,
+        "end": 48.7599983215332,
+        "text": " tablets, which is 30 days from what I can see."
+      },
+      {
+        "id": 21,
+        "start": 48.7599983215332,
+        "end": 50.63999938964844,
+        "text": " So that way you can order as needed."
+      },
+      {
+        "id": 22,
+        "start": 50.63999938964844,
+        "end": 53.15999984741211,
+        "text": " I think they're posted up to half a year."
+      },
+      {
+        "id": 23,
+        "start": 53.15999984741211,
+        "end": 55.63999938964844,
+        "text": " Monthly is not required anyway."
+      },
+      {
+        "id": 24,
+        "start": 55.63999938964844,
+        "end": 58.63999938964844,
+        "text": " You can get it once or twice a year or more based on your need."
+      },
+      {
+        "id": 25,
+        "start": 59.400001525878906,
+        "end": 63.52000045776367,
+        "text": " So I'm going to have them pausing and you can just reorder, OK?"
+      },
+      {
+        "id": 26,
+        "start": 63.52000045776367,
+        "end": 64.63999938964844,
+        "text": " Yep."
+      },
+      {
+        "id": 27,
+        "start": 64.63999938964844,
+        "end": 65.5199966430664,
+        "text": " All right, let me."
+      },
+      {
+        "id": 28,
+        "start": 65.5199966430664,
+        "end": 71.08000183105469,
+        "text": " I just don't want the automatic refill."
+      },
+      {
+        "id": 29,
+        "start": 71.08000183105469,
+        "end": 72.72000122070312,
+        "text": " OK, yeah, they're going to pause it"
+      },
+      {
+        "id": 30,
+        "start": 72.72000122070312,
+        "end": 75.76000213623047,
+        "text": " so you don't get it automatically every month, OK?"
+      },
+      {
+        "id": 31,
+        "start": 75.76000213623047,
+        "end": 78.55999755859375,
+        "text": " Right."
+      },
+      {
+        "id": 32,
+        "start": 78.55999755859375,
+        "end": 79.80000305175781,
+        "text": " Give me one moment."
+      },
+      {
+        "id": 33,
+        "start": 79.80000305175781,
+        "end": 84.04000091552734,
+        "text": " I'm sending them a correspondence right now."
+      },
+      {
+        "id": 34,
+        "start": 84.04000091552734,
+        "end": 84.5199966430664,
+        "text": " OK."
+      },
+      {
+        "id": 35,
+        "start": 88.63999938964844,
+        "end": 89.12000274658203,
+        "text": " OK."
+      },
+      {
+        "id": 36,
+        "start": 117.5199966430664,
+        "end": 118.4000015258789,
+        "text": " All right, Mr. Fred."
+      },
+      {
+        "id": 37,
+        "start": 118.4000015258789,
+        "end": 122.36000061035156,
+        "text": " So I was able to tell them to pause so the prescription is available."
+      },
+      {
+        "id": 38,
+        "start": 122.36000061035156,
+        "end": 126.44000244140625,
+        "text": " Your price is locked in, but you're just not going to get it every month, OK?"
+      },
+      {
+        "id": 39,
+        "start": 126.44000244140625,
+        "end": 127.5199966430664,
+        "text": " OK."
+      },
+      {
+        "id": 40,
+        "start": 127.5199966430664,
+        "end": 130.67999267578125,
+        "text": " So you all can give us a call to reorder or log into your account"
+      },
+      {
+        "id": 41,
+        "start": 130.67999267578125,
+        "end": 133.16000366210938,
+        "text": " and press the quick refill button."
+      },
+      {
+        "id": 42,
+        "start": 133.16000366210938,
+        "end": 134.16000366210938,
+        "text": " Sure."
+      },
+      {
+        "id": 43,
+        "start": 134.16000366210938,
+        "end": 136.0399932861328,
+        "text": " OK, yeah, this is it."
+      },
+      {
+        "id": 44,
+        "start": 136.0399932861328,
+        "end": 137.24000549316406,
+        "text": " All right."
+      },
+      {
+        "id": 45,
+        "start": 137.24000549316406,
+        "end": 140.83999633789062,
+        "text": " Thank you for making time to call us and have a great week."
+      },
+      {
+        "id": 46,
+        "start": 140.83999633789062,
+        "end": 142.1199951171875,
+        "text": " You too."
+      },
+      {
+        "id": 47,
+        "start": 142.1199951171875,
+        "end": 142.9600067138672,
+        "text": " Thanks."
+      },
+      {
+        "id": 48,
+        "start": 142.9600067138672,
+        "end": 143.47999572753906,
+        "text": " Thank you."
+      },
+      {
+        "id": 49,
+        "start": 143.47999572753906,
+        "end": 144,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 50,
+        "start": 148.39999389648438,
+        "end": 149.9600067138672,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8170-9387-ffc861a0881b",
+    "url": "https://www.notion.so/300000001217344-300000001707680-2f611d0a101c81709387ffc861a0881b"
+  },
+  "processedAt": "2026-01-28T13:42:56.159Z"
+}

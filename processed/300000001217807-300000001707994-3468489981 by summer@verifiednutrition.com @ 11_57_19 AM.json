@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "name": "300000001217807-300000001707994-3468489981 by summer@verifiednutrition.com @ 11_57_19 AM.wav",
+    "size": 18066,
+    "modifyTime": 1769585831000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217807-300000001707994-3468489981 by summer@verifiednutrition.com @ 11_57_19 AM.wav",
+    "uploadDate": "2026-01-28T07:37:11.000Z",
+    "callId": "300000001217807-300000001707994",
+    "agent": "summer",
+    "phoneNumber": "3468489981",
+    "callTimestamp": "2026-01-28T11:57:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you.",
+    "duration": 514,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 10.4399995803833,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8128-b6e8-de45384f1240",
+    "url": "https://www.notion.so/300000001217807-300000001707994-2f611d0a101c8128b6e8de45384f1240"
+  },
+  "processedAt": "2026-01-28T14:15:47.863Z"
+}

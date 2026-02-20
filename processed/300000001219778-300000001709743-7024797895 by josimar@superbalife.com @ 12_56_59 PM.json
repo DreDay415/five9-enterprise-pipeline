@@ -1,0 +1,146 @@
+{
+  "recording": {
+    "name": "300000001219778-300000001709743-7024797895 by josimar@superbalife.com @ 12_56_59 PM.wav",
+    "size": 139290,
+    "modifyTime": 1769592143000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219778-300000001709743-7024797895 by josimar@superbalife.com @ 12_56_59 PM.wav",
+    "uploadDate": "2026-01-28T09:22:23.000Z",
+    "callId": "300000001219778-300000001709743",
+    "agent": "josimar",
+    "phoneNumber": "7024797895",
+    "callTimestamp": "2026-01-28T12:56:59.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I can help you today.\n\nSpeaker 2: Hi, I am calling to discontinue the\n\nSpeaker 1: package.\n\nSpeaker 2: What is your last name and zip code?\n\nSpeaker 1: OBERG.\n\nSpeaker 2: That is O-B-E-R-G. Zip code 56511.\n\nSpeaker 1: 56\n\nSpeaker 2: 5-1-1.\n\nSpeaker 1: What have you been ordering?\n\nSpeaker 2: I am sorry, sir?\n\nSpeaker 1: What have you been ordering?\n\nSpeaker 2: It is sort of medicine.\n\nSpeaker 1: You remember your last order.\n\nSpeaker 2: For the Viagra, sir?\n\nSpeaker 1: No, that is wrong, sir. What is your date of birth?\n\nSpeaker 2: March 18, 1961.\n\nSpeaker 1: No, you are not him. You are an imposter. Stop calling.\n\nSpeaker 2: We already have you logged in. You called before.\n\nSpeaker 1: Thank you for your help.\n\nSpeaker 2: Thank you for confirming. Goodbye.",
+    "duration": 3531,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " I can help you today."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Hi, I am calling to discontinue the"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " package."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 16,
+        "text": " What is your last name and zip code?"
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 20,
+        "text": " OBERG."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 24,
+        "text": " That is O-B-E-R-G. Zip code 56511."
+      },
+      {
+        "id": 6,
+        "start": 24,
+        "end": 28,
+        "text": " 56"
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 32,
+        "text": " 5-1-1."
+      },
+      {
+        "id": 8,
+        "start": 40,
+        "end": 44,
+        "text": " What have you been ordering?"
+      },
+      {
+        "id": 9,
+        "start": 44,
+        "end": 48,
+        "text": " I am sorry, sir?"
+      },
+      {
+        "id": 10,
+        "start": 48,
+        "end": 52,
+        "text": " What have you been ordering?"
+      },
+      {
+        "id": 11,
+        "start": 52,
+        "end": 56,
+        "text": " It is sort of medicine."
+      },
+      {
+        "id": 12,
+        "start": 56,
+        "end": 60,
+        "text": " You remember your last order."
+      },
+      {
+        "id": 13,
+        "start": 60,
+        "end": 64,
+        "text": " For the Viagra, sir?"
+      },
+      {
+        "id": 14,
+        "start": 64,
+        "end": 68,
+        "text": " No, that is wrong, sir. What is your date of birth?"
+      },
+      {
+        "id": 15,
+        "start": 68,
+        "end": 72,
+        "text": " March 18, 1961."
+      },
+      {
+        "id": 16,
+        "start": 72,
+        "end": 76,
+        "text": " No, you are not him. You are an imposter. Stop calling."
+      },
+      {
+        "id": 17,
+        "start": 76,
+        "end": 80,
+        "text": " We already have you logged in. You called before."
+      },
+      {
+        "id": 18,
+        "start": 80,
+        "end": 84,
+        "text": " Thank you for your help."
+      },
+      {
+        "id": 19,
+        "start": 84,
+        "end": 88,
+        "text": " Thank you for confirming. Goodbye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8183-8494-f74e8014bdf4",
+    "url": "https://www.notion.so/300000001219778-300000001709743-2f611d0a101c81838494f74e8014bdf4"
+  },
+  "processedAt": "2026-01-28T10:58:19.103Z"
+}

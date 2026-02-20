@@ -1,0 +1,236 @@
+{
+  "recording": {
+    "name": "300000001221108-300000001711038-9543762931 by michelleh@superbalife.com @ 11_22_18 AM.wav",
+    "size": 266690,
+    "modifyTime": 1769628324000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221108-300000001711038-9543762931 by michelleh@superbalife.com @ 11_22_18 AM.wav",
+    "uploadDate": "2026-01-28T19:25:24.000Z",
+    "callId": "300000001221108-300000001711038",
+    "agent": "michelleh",
+    "phoneNumber": "9543762931",
+    "callTimestamp": "2026-01-28T11:22:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Yes, ma'am. Supposedly, I'm supposed to get my package this day. There is no package yet.\n\nSpeaker 1: Can you confirm your date of birth?\n\nSpeaker 2: April 18, 1969.\n\nSpeaker 1: Thank you so much. I see you're a VIP status customer.\n\nSpeaker 2: Okay, I just pulled the tracking. It says it was delivered on January 26 in your mailbox at 1:48 p.m.\n\nSpeaker 1: There is nothing there in my mailbox. Mailbox is 2015.\n\nSpeaker 2: Let me confirm your address. I have 6300 Northwest, 5 Way, Suite 2050, Fort Lauderdale, Florida, 33309.\n\nSpeaker 1: Exactly. I have not received nothing.\n\nSpeaker 2: Okay, no problem. I'll send you out a replacement. Give me one second.\n\nSpeaker 1: It says 6301 Northwest Way, 5th Way.\n\nSpeaker 2: Okay, I have 6300 Northwest. Let me just correct your address because it's 6300 Northwest.\n\nSpeaker 1: No, no, no. 6301 Northwest, 5th Way, Suite 2050, Fort Lauderdale, Florida, 33309.\n\nSpeaker 2: Okay, and 5th is the number or do I spell it out?\n\nSpeaker 1: Say that again?\n\nSpeaker 2: 5th Way, is it just the number 5 or do I spell it out?\n\nSpeaker 1: No, you have to put 5th Way, Suite 2050.\n\nSpeaker 2: 5th or T as in Tom, H?\n\nSpeaker 1: T like Tango, H like Hotel.\n\nSpeaker 2: Got it. Yeah, that's what I have. Okay, Way.\n\nSpeaker 1: Way, Suite 2050.\n\nSpeaker 2: Okay, perfect. That's what was wrong. We have the wrong address.\n\nSpeaker 1: So it's 6301 Northwest, 5th Way, Suite 2050, Fort Lauderdale, 33309.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay. All right, let me update that and then let me update your billing as well.\n\nSpeaker 2: That's what happened. I have the wrong address.\n\nSpeaker 1: Okay. All right, perfect.\n\nSpeaker 2: So they'll be shipping that out to you today, so you'll definitely receive this one.\n\nSpeaker 1: You'll get it in about five days or less.\n\nSpeaker 2: Five days or less? Okay, thanks. Appreciate it.\n\nSpeaker 1: What's your name?\n\nSpeaker 2: Michelle.\n\nSpeaker 1: Michelle. Okay, Michelle. Thank you. I appreciate that.\n\nSpeaker 2: No problem. Have a good day.\n\nSpeaker 1: You too. Bye-bye.",
+    "duration": 5104,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 10,
+        "text": " Yes, ma'am. Supposedly, I'm supposed to get my package this day. There is no package yet."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 14,
+        "text": " Can you confirm your date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 17,
+        "text": " April 18, 1969."
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 20,
+        "text": " Thank you so much. I see you're a VIP status customer."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 28,
+        "text": " Okay, I just pulled the tracking. It says it was delivered on January 26 in your mailbox at 148 p.m."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 32,
+        "text": " There is nothing there in my mailbox. Mailbox is 2015."
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 43,
+        "text": " Let me confirm your address. I have 6300 Northwest, 5 Way, Suite 2050, Fort Lauderdale, Florida, 33309."
+      },
+      {
+        "id": 8,
+        "start": 43,
+        "end": 47,
+        "text": " Exactly. I have not received nothing."
+      },
+      {
+        "id": 9,
+        "start": 47,
+        "end": 54,
+        "text": " Okay, no problem. I'll send you out a replacement. Give me one second."
+      },
+      {
+        "id": 10,
+        "start": 54,
+        "end": 62,
+        "text": " It says 6301 Northwest Way, 5th Way."
+      },
+      {
+        "id": 11,
+        "start": 62,
+        "end": 70,
+        "text": " Okay, I have 6300 Northwest. Let me just correct your address because it's 6300 Northwest."
+      },
+      {
+        "id": 12,
+        "start": 71,
+        "end": 83,
+        "text": " No, no, no. 6301 Northwest, 5th Way, Suite 2050, Fort Lauderdale, Florida, 33309."
+      },
+      {
+        "id": 13,
+        "start": 83,
+        "end": 88,
+        "text": " Okay, and 5th is the number or do I spell it out?"
+      },
+      {
+        "id": 14,
+        "start": 88,
+        "end": 90,
+        "text": " Say that again?"
+      },
+      {
+        "id": 15,
+        "start": 90,
+        "end": 94,
+        "text": " 5th Way, is it just the number 5 or do I spell it out?"
+      },
+      {
+        "id": 16,
+        "start": 95,
+        "end": 103,
+        "text": " No, you have to put 5th Way, Suite 2050."
+      },
+      {
+        "id": 17,
+        "start": 103,
+        "end": 107,
+        "text": " 5th or T as in Tom, H?"
+      },
+      {
+        "id": 18,
+        "start": 107,
+        "end": 111,
+        "text": " T like Tango, H like Hotel."
+      },
+      {
+        "id": 19,
+        "start": 111,
+        "end": 114,
+        "text": " Got it. Yeah, that's what I have. Okay, Way."
+      },
+      {
+        "id": 20,
+        "start": 114,
+        "end": 119,
+        "text": " Way, Suite 2050."
+      },
+      {
+        "id": 21,
+        "start": 119,
+        "end": 123,
+        "text": " Okay, perfect. That's what was wrong. We have the wrong address."
+      },
+      {
+        "id": 22,
+        "start": 123,
+        "end": 130,
+        "text": " So it's 6301 Northwest, 5th Way, Suite 2050, Fort Lauderdale, 33309."
+      },
+      {
+        "id": 23,
+        "start": 130,
+        "end": 131,
+        "text": " Yes."
+      },
+      {
+        "id": 24,
+        "start": 131,
+        "end": 136,
+        "text": " Okay. All right, let me update that and then let me update your billing as well."
+      },
+      {
+        "id": 25,
+        "start": 136,
+        "end": 139,
+        "text": " That's what happened. I have the wrong address."
+      },
+      {
+        "id": 26,
+        "start": 139,
+        "end": 146,
+        "text": " Okay. All right, perfect."
+      },
+      {
+        "id": 27,
+        "start": 146,
+        "end": 149,
+        "text": " So they'll be shipping that out to you today, so you'll definitely receive this one."
+      },
+      {
+        "id": 28,
+        "start": 149,
+        "end": 152,
+        "text": " You'll get it in about five days or less."
+      },
+      {
+        "id": 29,
+        "start": 152,
+        "end": 155,
+        "text": " Five days or less? Okay, thanks. Appreciate it."
+      },
+      {
+        "id": 30,
+        "start": 155,
+        "end": 156,
+        "text": " What's your name?"
+      },
+      {
+        "id": 31,
+        "start": 156,
+        "end": 158,
+        "text": " Michelle."
+      },
+      {
+        "id": 32,
+        "start": 158,
+        "end": 160,
+        "text": " Michelle. Okay, Michelle. Thank you. I appreciate that."
+      },
+      {
+        "id": 33,
+        "start": 160,
+        "end": 162,
+        "text": " No problem. Have a good day."
+      },
+      {
+        "id": 34,
+        "start": 162,
+        "end": 164,
+        "text": " You too. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a6-9a18-d93327bcc55f",
+    "url": "https://www.notion.so/300000001221108-300000001711038-2f611d0a101c81a69a18d93327bcc55f"
+  },
+  "processedAt": "2026-01-28T23:50:58.135Z"
+}

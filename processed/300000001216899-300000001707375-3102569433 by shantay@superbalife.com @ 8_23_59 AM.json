@@ -1,0 +1,116 @@
+{
+  "recording": {
+    "name": "300000001216899-300000001707375-3102569433 by shantay@superbalife.com @ 8_23_59 AM.wav",
+    "size": 57196,
+    "modifyTime": 1769583734000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216899-300000001707375-3102569433 by shantay@superbalife.com @ 8_23_59 AM.wav",
+    "uploadDate": "2026-01-28T07:02:14.000Z",
+    "callId": "300000001216899-300000001707375",
+    "agent": "shantay",
+    "phoneNumber": "3102569433",
+    "callTimestamp": "2026-01-28T08:23:59.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I assist you?\n\nSpeaker 2: Hi, can I talk to Johanna?\n\nSpeaker 1: Johanna's actually not in yet.\n\nSpeaker 2: She'll be in in about another 30 minutes.\n\nSpeaker 1: Okay, could you have her call Michael Bolton?\n\nSpeaker 2: Yeah, absolutely.\n\nSpeaker 1: Is the number you're calling from a good number?\n\nSpeaker 2: 310-256-9433?\n\nSpeaker 1: Perfect, yeah.\n\nSpeaker 2: Okay, absolutely, I will send her this message.\n\nSpeaker 1: And she'll be giving you a call today.\n\nSpeaker 2: Thanks so much, appreciate it.\n\nSpeaker 1: You're welcome, have a good day.\n\nSpeaker 2: You too, bye.\n\nSpeaker 1: Thank you.",
+    "duration": 1319,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.179999828338623,
+        "text": " Thank you for calling Viagra, how can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 4.179999828338623,
+        "end": 6.420000076293945,
+        "text": " Hi, can I talk to Johanna?"
+      },
+      {
+        "id": 2,
+        "start": 8.9399995803833,
+        "end": 10.84000015258789,
+        "text": " Johanna's actually not in yet."
+      },
+      {
+        "id": 3,
+        "start": 10.84000015258789,
+        "end": 14.84000015258789,
+        "text": " She'll be in in about another 30 minutes."
+      },
+      {
+        "id": 4,
+        "start": 14.84000015258789,
+        "end": 17.600000381469727,
+        "text": " Okay, could you have her call Michael Bolton?"
+      },
+      {
+        "id": 5,
+        "start": 17.600000381469727,
+        "end": 18.920000076293945,
+        "text": " Yeah, absolutely."
+      },
+      {
+        "id": 6,
+        "start": 18.920000076293945,
+        "end": 21,
+        "text": " Is the number you're calling from a good number?"
+      },
+      {
+        "id": 7,
+        "start": 21,
+        "end": 22.079999923706055,
+        "text": " 310-256-9433?"
+      },
+      {
+        "id": 8,
+        "start": 24.559999465942383,
+        "end": 25.540000915527344,
+        "text": " Perfect, yeah."
+      },
+      {
+        "id": 9,
+        "start": 25.540000915527344,
+        "end": 27.760000228881836,
+        "text": " Okay, absolutely, I will send her this message"
+      },
+      {
+        "id": 10,
+        "start": 27.760000228881836,
+        "end": 30.520000457763672,
+        "text": " and she'll be giving you a call today."
+      },
+      {
+        "id": 11,
+        "start": 30.520000457763672,
+        "end": 31.639999389648438,
+        "text": " Thanks so much, appreciate it."
+      },
+      {
+        "id": 12,
+        "start": 31.639999389648438,
+        "end": 34.13999938964844,
+        "text": " You're welcome, have a good day."
+      },
+      {
+        "id": 13,
+        "start": 34.13999938964844,
+        "end": 34.97999954223633,
+        "text": " You too, bye."
+      },
+      {
+        "id": 14,
+        "start": 34.97999954223633,
+        "end": 35.81999969482422,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81c3-8baa-d42745cd4feb",
+    "url": "https://www.notion.so/300000001216899-300000001707375-2f611d0a101c81c38baad42745cd4feb"
+  },
+  "processedAt": "2026-01-28T16:07:37.838Z"
+}

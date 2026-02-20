@@ -1,0 +1,67 @@
+{
+  "recording": {
+    "name": "300000001220011-300000001709912-7862074126 by  @ 2_12_23 PM_CallStudio.wav",
+    "size": 34510,
+    "modifyTime": 1769551986000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220011-300000001709912-7862074126 by  @ 2_12_23 PM_CallStudio.wav",
+    "uploadDate": "2026-01-27T22:13:06.000Z",
+    "callId": "300000001220011-300000001709912",
+    "phoneNumber": "7862074126",
+    "callTimestamp": "2026-01-27T22:13:06.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: Cancel my subscription.\n\nSpeaker 1: I heard you say, cancel my subscription. Say yes or press 1.\n\nSpeaker 2: Yes.",
+    "duration": 1514,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.119999885559082,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.119999885559082,
+        "end": 7.119999885559082,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.119999885559082,
+        "end": 10.479999542236328,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.479999542236328,
+        "end": 14.699999809265137,
+        "text": " Cancel my subscription."
+      },
+      {
+        "id": 4,
+        "start": 14.699999809265137,
+        "end": 17.940000534057617,
+        "text": " I heard you say, cancel my subscription."
+      },
+      {
+        "id": 5,
+        "start": 17.940000534057617,
+        "end": 19.260000228881836,
+        "text": " Say yes or press 1."
+      },
+      {
+        "id": 6,
+        "start": 19.260000228881836,
+        "end": 19.760000228881836,
+        "text": " It is correct."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-81e8-a39b-d145aa417bce",
+    "url": "https://www.notion.so/300000001220011-300000001709912-2f511d0a101c81e8a39bd145aa417bce"
+  },
+  "processedAt": "2026-01-27T23:10:12.345Z"
+}

@@ -1,0 +1,233 @@
+{
+  "recording": {
+    "name": "300000001241118-300000001730638-4136368875 by nickh@superbalife.com @ 2_54_40 PM.wav",
+    "size": 346770,
+    "modifyTime": 1770937097000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241118-300000001730638-4136368875 by nickh@superbalife.com @ 2_54_40 PM.wav",
+    "uploadDate": "2026-02-12T22:58:17.000Z",
+    "callId": "300000001241118-300000001730638",
+    "agent": "nickh",
+    "phoneNumber": "4136368875",
+    "callTimestamp": "2026-02-12T14:54:40.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_nickh_300000001241118-300000001730638_4136368875.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_nickh_300000001241118-300000001730638_4136368875.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra at ScoreBlue. How can I help you today?\n\nSpeaker 2: I just received a bill for an order, and I originally ordered, I don't even know,\n\nSpeaker 1: one shipment, and I didn't want reoccurring ones. I haven't even tried it yet.\n\nSpeaker 2: Let's get you a refund, yeah?\n\nSpeaker 1: Yeah, I just, I don't want to...\n\nSpeaker 2: Be reoccurring.\n\nSpeaker 1: Right.\n\nSpeaker 2: Yeah, yeah, sorry about that. Yeah, so thanks for the call, first off.\n\nSpeaker 1: My name's Nick. I'll be helping you out today.\n\nSpeaker 2: It does look like the doctor, when they wrote the initial prescription,\n\nSpeaker 1: they wrote it with refills due to the low milligram dosage.\n\nSpeaker 2: However, this is not a subscription. You're not required to do this every month.\n\nSpeaker 1: This is a prescription that comes with a certain amount of refills.\n\nSpeaker 2: So what I did was I went ahead and canceled this refill. I issued you a refund.\n\nSpeaker 1: Since you used PayPal as your payment method, that could be as immediate as now\n\nSpeaker 2: that you see it reflected in your PayPal account.\n\nSpeaker 1: And then what I can also do for you is I can set up your prescription\n\nSpeaker 2: where you can call in and place orders as needed.\n\nSpeaker 1: I would just put this on a pause, and then that gives you plenty of time\n\nSpeaker 2: to try the medication and get back to us and let us know how you want to proceed\n\nSpeaker 1: with the remaining refills.\n\nSpeaker 2: Okay, that'd be fine. Right now, my relationship isn't going that well,\n\nSpeaker 1: so there's no need to use it.\n\nSpeaker 2: So I certainly wanted to try it before I purchased again.\n\nSpeaker 1: Sure, yeah. So let me go ahead and put this on a pause.\n\nSpeaker 2: Like I said, my name's Nick. If you want to call us back at a later date,\n\nSpeaker 1: let us know how to proceed. You are welcome to do so.\n\nSpeaker 2: So yeah, you're good to go.\n\nSpeaker 1: All right, thank you. Appreciate it.\n\nSpeaker 2: Yep, thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right.",
+    "duration": 5108,
+    "audioDuration": 213.36000061035156,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Viagra at ScoreBlue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 16,
+        "text": " I just received a bill for an order, and I originally ordered, I don't even know,"
+      },
+      {
+        "id": 2,
+        "start": 16,
+        "end": 22,
+        "text": " one shipment, and I didn't want reoccurring ones. I haven't even tried it yet."
+      },
+      {
+        "id": 3,
+        "start": 22,
+        "end": 25,
+        "text": " Let's get you a refund, yeah?"
+      },
+      {
+        "id": 4,
+        "start": 25,
+        "end": 29,
+        "text": " Yeah, I just, I don't want to..."
+      },
+      {
+        "id": 5,
+        "start": 29,
+        "end": 31,
+        "text": " Be reoccurring."
+      },
+      {
+        "id": 6,
+        "start": 31,
+        "end": 32,
+        "text": " Right."
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 36,
+        "text": " Yeah, yeah, sorry about that. Yeah, so thanks for the call, first off."
+      },
+      {
+        "id": 8,
+        "start": 36,
+        "end": 38,
+        "text": " My name's Nick. I'll be helping you out today."
+      },
+      {
+        "id": 9,
+        "start": 38,
+        "end": 41,
+        "text": " It does look like the doctor, when they wrote the initial prescription,"
+      },
+      {
+        "id": 10,
+        "start": 41,
+        "end": 43,
+        "text": " they wrote it with refills due to the low milligram dosage."
+      },
+      {
+        "id": 11,
+        "start": 43,
+        "end": 47,
+        "text": " However, this is not a subscription. You're not required to do this every month."
+      },
+      {
+        "id": 12,
+        "start": 47,
+        "end": 51,
+        "text": " This is a prescription that comes with a certain amount of refills."
+      },
+      {
+        "id": 13,
+        "start": 51,
+        "end": 56,
+        "text": " So what I did was I went ahead and canceled this refill. I issued you a refund."
+      },
+      {
+        "id": 14,
+        "start": 56,
+        "end": 61,
+        "text": " Since you used PayPal as your payment method, that could be as immediate as now"
+      },
+      {
+        "id": 15,
+        "start": 61,
+        "end": 64,
+        "text": " that you see it reflected in your PayPal account."
+      },
+      {
+        "id": 16,
+        "start": 64,
+        "end": 69,
+        "text": " And then what I can also do for you is I can set up your prescription"
+      },
+      {
+        "id": 17,
+        "start": 69,
+        "end": 71,
+        "text": " where you can call in and place orders as needed."
+      },
+      {
+        "id": 18,
+        "start": 71,
+        "end": 74,
+        "text": " I would just put this on a pause, and then that gives you plenty of time"
+      },
+      {
+        "id": 19,
+        "start": 74,
+        "end": 78,
+        "text": " to try the medication and get back to us and let us know how you want to proceed"
+      },
+      {
+        "id": 20,
+        "start": 78,
+        "end": 80,
+        "text": " with the remaining refills."
+      },
+      {
+        "id": 21,
+        "start": 80,
+        "end": 86,
+        "text": " Okay, that'd be fine. Right now, my relationship isn't going that well,"
+      },
+      {
+        "id": 22,
+        "start": 86,
+        "end": 91,
+        "text": " so there's no need to use it."
+      },
+      {
+        "id": 23,
+        "start": 91,
+        "end": 96,
+        "text": " So I certainly wanted to try it before I purchased again."
+      },
+      {
+        "id": 24,
+        "start": 96,
+        "end": 99,
+        "text": " Sure, yeah. So let me go ahead and put this on a pause."
+      },
+      {
+        "id": 25,
+        "start": 99,
+        "end": 103,
+        "text": " Like I said, my name's Nick. If you want to call us back at a later date,"
+      },
+      {
+        "id": 26,
+        "start": 103,
+        "end": 106,
+        "text": " let us know how to proceed. You are welcome to do so."
+      },
+      {
+        "id": 27,
+        "start": 106,
+        "end": 108,
+        "text": " So yeah, you're good to go."
+      },
+      {
+        "id": 28,
+        "start": 108,
+        "end": 110,
+        "text": " All right, thank you. Appreciate it."
+      },
+      {
+        "id": 29,
+        "start": 110,
+        "end": 112,
+        "text": " Yep, thank you."
+      },
+      {
+        "id": 30,
+        "start": 138,
+        "end": 162,
+        "text": " Thank you."
+      },
+      {
+        "id": 31,
+        "start": 162,
+        "end": 190,
+        "text": " Thank you."
+      },
+      {
+        "id": 32,
+        "start": 192,
+        "end": 212,
+        "text": " Okay."
+      },
+      {
+        "id": 33,
+        "start": 212,
+        "end": 213,
+        "text": " All right."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8119-90a6-d761298c6846",
+    "url": "https://www.notion.so/300000001241118-300000001730638-30511d0a101c811990a6d761298c6846"
+  },
+  "processedAt": "2026-02-12T23:02:22.850Z"
+}

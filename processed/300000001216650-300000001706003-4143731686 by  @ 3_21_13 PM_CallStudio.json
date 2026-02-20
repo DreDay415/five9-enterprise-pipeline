@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001216650-300000001706003-4143731686 by  @ 3_21_13 PM_CallStudio.wav",
+    "size": 58560,
+    "modifyTime": 1769592736000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216650-300000001706003-4143731686 by  @ 3_21_13 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:32:16.000Z",
+    "callId": "300000001216650-300000001706003",
+    "phoneNumber": "4143731686",
+    "callTimestamp": "2026-01-28T09:32:16.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Para Español, marque numero nueve.\n\nSpeaker 1: Funds.\n\nSpeaker 2: I heard you say, funds. Say yes or press one if this is correct. Otherwise, say no or press two.\n\nSpeaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Para Español, marque numero nueve.\n\nSpeaker 1: Taking money.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 2055,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 8,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 13,
+        "text": " Funds."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 24,
+        "text": " I heard you say, funds. Say yes or press one if this is correct. Otherwise, say no or press two."
+      },
+      {
+        "id": 4,
+        "start": 24,
+        "end": 29,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 5,
+        "start": 29,
+        "end": 31,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 6,
+        "start": 31,
+        "end": 34,
+        "text": " Taking money."
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 36,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8148-9210-d34ee26a6b57",
+    "url": "https://www.notion.so/300000001216650-300000001706003-2f611d0a101c81489210d34ee26a6b57"
+  },
+  "processedAt": "2026-01-28T10:14:16.771Z"
+}

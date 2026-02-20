@@ -1,0 +1,92 @@
+{
+  "recording": {
+    "name": "300000001220075-300000001709950-2534780440 by michelleh@superbalife.com @ 2_38_33 PM.wav",
+    "size": 69286,
+    "modifyTime": 1769553580000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220075-300000001709950-2534780440 by michelleh@superbalife.com @ 2_38_33 PM.wav",
+    "uploadDate": "2026-01-27T22:39:40.000Z",
+    "callId": "300000001220075-300000001709950",
+    "agent": "michelleh",
+    "phoneNumber": "2534780440",
+    "callTimestamp": "2026-01-27T14:38:33.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you?\n\nSpeaker 2: Hi.\n\nSpeaker 1: Hi.\n\nSpeaker 2: Yeah, I'm calling regarding my order.\n\nSpeaker 1: I think it was sick line.\n\nSpeaker 2: The other day I was refilled.\n\nSpeaker 1: Okay, can I have your phone number so I can pull up your account?\n\nSpeaker 2: 253-478-0440.\n\nSpeaker 1: 253? Sorry, I didn't catch the rest.\n\nSpeaker 2: 478-0440.\n\nSpeaker 1: Okay, I don't see any counts. Hold on one second.",
+    "duration": 1574,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Hi."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 8,
+        "text": " Hi."
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 10,
+        "text": " Yeah, I'm calling regarding my order."
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 14,
+        "text": " I think it was sick line."
+      },
+      {
+        "id": 5,
+        "start": 14,
+        "end": 19,
+        "text": " The other day I was refilled."
+      },
+      {
+        "id": 6,
+        "start": 19,
+        "end": 23,
+        "text": " Okay, can I have your phone number so I can pull up your account?"
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 29,
+        "text": " 253-478-0440."
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 32,
+        "text": " 253? Sorry, I didn't catch the rest."
+      },
+      {
+        "id": 9,
+        "start": 32,
+        "end": 38,
+        "text": " 478-0440."
+      },
+      {
+        "id": 10,
+        "start": 38,
+        "end": 42,
+        "text": " Okay, I don't see any counts. Hold on one second."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-815f-bede-e17284c77f9e",
+    "url": "https://www.notion.so/300000001220075-300000001709950-2f511d0a101c815fbedee17284c77f9e"
+  },
+  "processedAt": "2026-01-27T22:59:15.575Z"
+}

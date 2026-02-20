@@ -1,0 +1,170 @@
+{
+  "recording": {
+    "name": "300000001222994-300000001712581-2396739403 by gabriela@superbalife.com @ 1_19_15 PM.wav",
+    "size": 138186,
+    "modifyTime": 1769721662000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222994-300000001712581-2396739403 by gabriela@superbalife.com @ 1_19_15 PM.wav",
+    "uploadDate": "2026-01-29T21:21:02.000Z",
+    "callId": "300000001222994-300000001712581",
+    "agent": "gabriela",
+    "phoneNumber": "2396739403",
+    "callTimestamp": "2026-01-29T13:19:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Yes, I need to cancel my prescription.\n\nSpeaker 1: What's your name and date of birth?\n\nSpeaker 2: Joseph DeVito, D-E-V-I-T-O, 4-30, 1956.\n\nSpeaker 1: Okay, Joseph, and what's going on? Is it that you have enough supply at this time?\n\nSpeaker 2: Excuse me, I didn't hear you.\n\nSpeaker 1: Yeah, I said what's going on. Is it that you have enough supply at this time?\n\nSpeaker 2: Yes, I didn't hardly use any, just one, but it didn't seem to work.\n\nSpeaker 1: So I have an appointment with a urologist this next month to see what's going on.\n\nSpeaker 2: Okay, so what I can go ahead and do for you while you go and see your urologist\n\nSpeaker 1: is that I can go ahead and just pause your prescription.\n\nSpeaker 2: I can pause it for the meantime, and then once you talk to your urologist\n\nSpeaker 1: and see what's wrong with you, you can always call to reorder.\n\nSpeaker 2: Okay.\n\nSpeaker 1: That's the case.\n\nSpeaker 2: Very good.\n\nSpeaker 1: Okay, so you're all set.\n\nSpeaker 2: So this one that's coming out or is supposed to come out in February will not ship, correct?\n\nSpeaker 1: Correct.\n\nSpeaker 2: All right, thank you.\n\nSpeaker 1: Okay, you're welcome. So just give us a call.\n\nSpeaker 2: All right, I'll call when I'm ready.\n\nSpeaker 1: Okay, have a nice day.\n\nSpeaker 2: Okay, bye.",
+    "duration": 3148,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Yes, I need to cancel my prescription."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 10,
+        "text": " What's your name and date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 21,
+        "text": " Joseph DeVito, D-E-V-I-T-O, 4-30, 1956."
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 27,
+        "text": " Okay, Joseph, and what's going on? Is it that you have enough supply at this time?"
+      },
+      {
+        "id": 5,
+        "start": 27,
+        "end": 29,
+        "text": " Excuse me, I didn't hear you."
+      },
+      {
+        "id": 6,
+        "start": 29,
+        "end": 33,
+        "text": " Yeah, I said what's going on. Is it that you have enough supply at this time?"
+      },
+      {
+        "id": 7,
+        "start": 33,
+        "end": 41,
+        "text": " Yes, I didn't hardly use any, just one, but it didn't seem to work."
+      },
+      {
+        "id": 8,
+        "start": 41,
+        "end": 48,
+        "text": " So I have an appointment with a urologist this next month to see what's going on."
+      },
+      {
+        "id": 9,
+        "start": 48,
+        "end": 54,
+        "text": " Okay, so what I can go ahead and do for you while you go and see your urologist"
+      },
+      {
+        "id": 10,
+        "start": 54,
+        "end": 57,
+        "text": " is that I can go ahead and just pause your prescription."
+      },
+      {
+        "id": 11,
+        "start": 57,
+        "end": 63,
+        "text": " I can pause it for the meantime, and then once you talk to your urologist"
+      },
+      {
+        "id": 12,
+        "start": 63,
+        "end": 66,
+        "text": " and see what's wrong with you, you can always call to reorder."
+      },
+      {
+        "id": 13,
+        "start": 66,
+        "end": 67,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 67,
+        "end": 68,
+        "text": " That's the case."
+      },
+      {
+        "id": 15,
+        "start": 68,
+        "end": 69,
+        "text": " Very good."
+      },
+      {
+        "id": 16,
+        "start": 69,
+        "end": 71,
+        "text": " Okay, so you're all set."
+      },
+      {
+        "id": 17,
+        "start": 71,
+        "end": 77,
+        "text": " So this one that's coming out or is supposed to come out in February will not ship, correct?"
+      },
+      {
+        "id": 18,
+        "start": 77,
+        "end": 78,
+        "text": " Correct."
+      },
+      {
+        "id": 19,
+        "start": 78,
+        "end": 79,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 20,
+        "start": 79,
+        "end": 81,
+        "text": " Okay, you're welcome. So just give us a call."
+      },
+      {
+        "id": 21,
+        "start": 81,
+        "end": 83,
+        "text": " All right, I'll call when I'm ready."
+      },
+      {
+        "id": 22,
+        "start": 83,
+        "end": 84,
+        "text": " Okay, have a nice day."
+      },
+      {
+        "id": 23,
+        "start": 84,
+        "end": 85,
+        "text": " Okay, bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81c8-b204-f564c4b4aec1",
+    "url": "https://www.notion.so/300000001222994-300000001712581-2f711d0a101c81c8b204f564c4b4aec1"
+  },
+  "processedAt": "2026-01-29T21:47:13.737Z"
+}

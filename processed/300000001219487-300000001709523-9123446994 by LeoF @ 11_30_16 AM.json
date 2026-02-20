@@ -1,0 +1,31 @@
+{
+  "recording": {
+    "name": "300000001219487-300000001709523-9123446994 by LeoF @ 11_30_16 AM.wav",
+    "size": 23330,
+    "modifyTime": 1769588539000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219487-300000001709523-9123446994 by LeoF @ 11_30_16 AM.wav",
+    "uploadDate": "2026-01-28T08:22:19.000Z",
+    "callId": "300000001219487-300000001709523",
+    "phoneNumber": "9123446994",
+    "callTimestamp": "2026-01-28T11:30:16.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, thanks for calling Viagra, how can I help you?",
+    "duration": 911,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.240000009536743,
+        "text": " Hey, thanks for calling Viagra, how can I help you?"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81f0-be05-f05510ecd911",
+    "url": "https://www.notion.so/300000001219487-300000001709523-2f611d0a101c81f0be05f05510ecd911"
+  },
+  "processedAt": "2026-01-28T13:05:59.603Z"
+}

@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001239080-300000001728874-9808001280 by  @ 12_59_39 PM_CallStudio.wav",
+    "size": 39646,
+    "modifyTime": 1770843625000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239080-300000001728874-9808001280 by  @ 12_59_39 PM_CallStudio.wav",
+    "uploadDate": "2026-02-11T21:00:25.000Z",
+    "callId": "300000001239080-300000001728874",
+    "phoneNumber": "9808001280",
+    "callTimestamp": "2026-02-11T21:00:25.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español marque número 9.\n\nSpeaker 2: Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto.\n\nSpeaker 1: Y claro.\n\nSpeaker 2: For English press 9.",
+    "duration": 984,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.159999847412109,
+        "end": 7.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.159999847412109,
+        "end": 12,
+        "text": " Para Español marque numero 9."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 16.719999313354492,
+        "text": " Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto"
+      },
+      {
+        "id": 4,
+        "start": 16.719999313354492,
+        "end": 17.719999313354492,
+        "text": " y claro."
+      },
+      {
+        "id": 5,
+        "start": 17.719999313354492,
+        "end": 22.280000686645508,
+        "text": " For English press 9."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-814b-978e-dc127592c840",
+    "url": "https://www.notion.so/300000001239080-300000001728874-30411d0a101c814b978edc127592c840"
+  },
+  "processedAt": "2026-02-11T21:32:15.651Z"
+}

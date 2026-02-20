@@ -1,0 +1,410 @@
+{
+  "recording": {
+    "name": "300000001217421-300000001707729-4085061369 by nickh@superbalife.com @ 10_15_09 AM.wav",
+    "size": 288596,
+    "modifyTime": 1769583736000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217421-300000001707729-4085061369 by nickh@superbalife.com @ 10_15_09 AM.wav",
+    "uploadDate": "2026-01-28T07:02:16.000Z",
+    "callId": "300000001217421-300000001707729",
+    "agent": "nickh",
+    "phoneNumber": "4085061369",
+    "callTimestamp": "2026-01-28T10:15:09.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra at Score Blue.\n\nSpeaker 2: How can I help you today?\n\nSpeaker 1: Hi, yeah, I sent in an initial order today\n\nSpeaker 2: and still waiting on the doctor to call me.\n\nSpeaker 1: I just want to cancel.\n\nSpeaker 2: Okay, so let me pull up your account here.\n\nSpeaker 1: Can I get your full name and date of birth?\n\nSpeaker 2: Yeah, so it's Glenn with two N's\n\nSpeaker 1: and the last name is G-O-T-T-L-I-E-B.\n\nSpeaker 2: And 11-17-61.\n\nSpeaker 1: Glenn, give me one second while I pull up your account, okay?\n\nSpeaker 2: So, Glenn, I'm not sure what you're referring to,\n\nSpeaker 1: but your prescription was approved and it looks like...\n\nSpeaker 2: I don't want, just cancel, please.\n\nSpeaker 1: I don't want anything shipped to me.\n\nSpeaker 2: I want to cancel, period.\n\nSpeaker 1: Well, okay, so, Glenn, this prescription\n\nSpeaker 2: was written by a doctor, so I'm...\n\nSpeaker 1: I don't care who it's written by.\n\nSpeaker 2: Cancel the order.\n\nSpeaker 1: Please don't yell at me, Glenn.\n\nSpeaker 2: This is an FDA-approved medical prescription.\n\nSpeaker 1: I'm trying to get clear.\n\nSpeaker 2: I don't care.\n\nSpeaker 1: I don't care.\n\nSpeaker 2: I want it canceled.\n\nSpeaker 1: Okay, so you don't want the prescription\n\nSpeaker 2: for the 50-milligram Viagra that you just placed?\n\nSpeaker 1: I don't want it, yes, I don't want it.\n\nSpeaker 2: Cancel the whole thing, the whole order.\n\nSpeaker 1: Okay, give me one moment.\n\nSpeaker 2: It's gonna take a little time\n\nSpeaker 1: because a doctor just wrote you this prescription.\n\nSpeaker 2: I don't care if he just wrote it.\n\nSpeaker 1: Just cancel it.\n\nSpeaker 2: Okay, well, sir, this was written by a doctor.\n\nSpeaker 1: Let me reach out to the doctor.\n\nSpeaker 2: I need, you create an account\n\nSpeaker 1: and you've got a prescription written by a doctor.\n\nSpeaker 2: I'm not sure why you're immediately canceling it.\n\nSpeaker 1: This is not how you...\n\nSpeaker 2: Because I don't, I'll tell you why I don't want to do it.\n\nSpeaker 1: This is exactly the reason.\n\nSpeaker 2: I found out you guys are really hard to deal with\n\nSpeaker 1: and very difficult and not a good actor,\n\nSpeaker 2: and I do not want to do any business with you.\n\nSpeaker 1: Period, end of discussion.\n\nSpeaker 2: Cancel it.\n\nSpeaker 1: Glenn, I can cancel it,\n\nSpeaker 2: and I'm not sure where you're getting those notes from,\n\nSpeaker 1: but I have to reach out to the doctor.\n\nSpeaker 2: The Better Business Bureau.\n\nSpeaker 1: Yeah, please, please, please.\n\nSpeaker 2: Take a look at them.\n\nSpeaker 1: In the meantime, cancel my order.\n\nSpeaker 2: I don't want to argue this.\n\nSpeaker 1: Just cancel it, please.\n\nSpeaker 2: I am not arguing with you, Glenn.\n\nSpeaker 1: I'm handling it for you, but you keep yelling at me.\n\nSpeaker 2: Please let me reach out to the doctor.\n\nSpeaker 1: I'm gonna place you on a hold, okay?\n\nSpeaker 2: I can cancel it.\n\nSpeaker 1: I just have to reach out to the doctor.\n\nSpeaker 2: Okay.",
+    "duration": 6125,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.640000104904175,
+        "text": " Hi, thank you so much for calling Viagra at Score Blue."
+      },
+      {
+        "id": 1,
+        "start": 2.640000104904175,
+        "end": 3.940000057220459,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 2,
+        "start": 6.119999885559082,
+        "end": 11.119999885559082,
+        "text": " Hi, yeah, I sent in an initial order today"
+      },
+      {
+        "id": 3,
+        "start": 11.880000114440918,
+        "end": 15.640000343322754,
+        "text": " and still waiting on the doctor to call me."
+      },
+      {
+        "id": 4,
+        "start": 15.640000343322754,
+        "end": 16.780000686645508,
+        "text": " I just want to cancel."
+      },
+      {
+        "id": 5,
+        "start": 18.15999984741211,
+        "end": 20.239999771118164,
+        "text": " Okay, so let me pull up your account here."
+      },
+      {
+        "id": 6,
+        "start": 20.239999771118164,
+        "end": 22.719999313354492,
+        "text": " Can I get your full name and date of birth?"
+      },
+      {
+        "id": 7,
+        "start": 22.719999313354492,
+        "end": 25.280000686645508,
+        "text": " Yeah, so it's Glenn with two N's"
+      },
+      {
+        "id": 8,
+        "start": 25.280000686645508,
+        "end": 29.959999084472656,
+        "text": " and the last name is G-O-T-T-L-I-E-B."
+      },
+      {
+        "id": 9,
+        "start": 30.040000915527344,
+        "end": 32.36000061035156,
+        "text": " And 11-17-61."
+      },
+      {
+        "id": 10,
+        "start": 34,
+        "end": 37,
+        "text": " Glenn, give me one second while I pull up your account, okay?"
+      },
+      {
+        "id": 11,
+        "start": 59.959999084472656,
+        "end": 64.95999908447266,
+        "text": " So, Glenn, I'm not sure what you're referring to,"
+      },
+      {
+        "id": 12,
+        "start": 70.55999755859375,
+        "end": 73.83999633789062,
+        "text": " but your prescription was approved and it looks like..."
+      },
+      {
+        "id": 13,
+        "start": 73.83999633789062,
+        "end": 76.23999786376953,
+        "text": " I don't want, just cancel, please."
+      },
+      {
+        "id": 14,
+        "start": 76.23999786376953,
+        "end": 77.63999938964844,
+        "text": " I don't want anything shipped to me."
+      },
+      {
+        "id": 15,
+        "start": 77.63999938964844,
+        "end": 79.68000030517578,
+        "text": " I want to cancel, period."
+      },
+      {
+        "id": 16,
+        "start": 81.44000244140625,
+        "end": 84.27999877929688,
+        "text": " Well, okay, so, Glenn, this prescription"
+      },
+      {
+        "id": 17,
+        "start": 84.27999877929688,
+        "end": 86.08000183105469,
+        "text": " was written by a doctor, so I'm..."
+      },
+      {
+        "id": 18,
+        "start": 86.08000183105469,
+        "end": 89.4000015258789,
+        "text": " I don't care who it's written by."
+      },
+      {
+        "id": 19,
+        "start": 89.76000213623047,
+        "end": 91.4000015258789,
+        "text": " Cancel the order."
+      },
+      {
+        "id": 20,
+        "start": 91.4000015258789,
+        "end": 92.31999969482422,
+        "text": " Please don't yell at me, Glenn."
+      },
+      {
+        "id": 21,
+        "start": 92.31999969482422,
+        "end": 94.36000061035156,
+        "text": " This is an FDA-approved medical prescription."
+      },
+      {
+        "id": 22,
+        "start": 94.36000061035156,
+        "end": 95.19999694824219,
+        "text": " I'm trying to get clear."
+      },
+      {
+        "id": 23,
+        "start": 95.19999694824219,
+        "end": 97.31999969482422,
+        "text": " I don't care."
+      },
+      {
+        "id": 24,
+        "start": 97.31999969482422,
+        "end": 99.4800033569336,
+        "text": " I don't care."
+      },
+      {
+        "id": 25,
+        "start": 99.4800033569336,
+        "end": 101.4800033569336,
+        "text": " I want it canceled."
+      },
+      {
+        "id": 26,
+        "start": 102.76000213623047,
+        "end": 105.76000213623047,
+        "text": " Okay, so you don't want the prescription"
+      },
+      {
+        "id": 27,
+        "start": 105.76000213623047,
+        "end": 107.76000213623047,
+        "text": " for the 50-milligram Viagra that you just placed?"
+      },
+      {
+        "id": 28,
+        "start": 107.76000213623047,
+        "end": 110.5199966430664,
+        "text": " I don't want it, yes, I don't want it."
+      },
+      {
+        "id": 29,
+        "start": 110.5199966430664,
+        "end": 113.80000305175781,
+        "text": " Cancel the whole thing, the whole order."
+      },
+      {
+        "id": 30,
+        "start": 113.80000305175781,
+        "end": 115,
+        "text": " Okay, give me one moment."
+      },
+      {
+        "id": 31,
+        "start": 115,
+        "end": 116.80000305175781,
+        "text": " It's gonna take a little time"
+      },
+      {
+        "id": 32,
+        "start": 116.80000305175781,
+        "end": 120.08000183105469,
+        "text": " because a doctor just wrote you this prescription."
+      },
+      {
+        "id": 33,
+        "start": 120.08000183105469,
+        "end": 122.16000366210938,
+        "text": " I don't care if he just wrote it."
+      },
+      {
+        "id": 34,
+        "start": 122.16000366210938,
+        "end": 123,
+        "text": " Just cancel it."
+      },
+      {
+        "id": 35,
+        "start": 123,
+        "end": 125.72000122070312,
+        "text": " Okay, well, sir, this was written by a doctor."
+      },
+      {
+        "id": 36,
+        "start": 125.72000122070312,
+        "end": 126.91999816894531,
+        "text": " Let me reach out to the doctor."
+      },
+      {
+        "id": 37,
+        "start": 126.91999816894531,
+        "end": 128.8000030517578,
+        "text": " I need, you create an account"
+      },
+      {
+        "id": 38,
+        "start": 128.8000030517578,
+        "end": 130.72000122070312,
+        "text": " and you've got a prescription written by a doctor."
+      },
+      {
+        "id": 39,
+        "start": 130.72000122070312,
+        "end": 132.9600067138672,
+        "text": " I'm not sure why you're immediately canceling it."
+      },
+      {
+        "id": 40,
+        "start": 132.9600067138672,
+        "end": 133.8000030517578,
+        "text": " This is not how you..."
+      },
+      {
+        "id": 41,
+        "start": 133.8000030517578,
+        "end": 136.63999938964844,
+        "text": " Because I don't, I'll tell you why I don't want to do it."
+      },
+      {
+        "id": 42,
+        "start": 136.63999938964844,
+        "end": 138.1999969482422,
+        "text": " This is exactly the reason."
+      },
+      {
+        "id": 43,
+        "start": 138.1999969482422,
+        "end": 140.9199981689453,
+        "text": " I found out you guys are really hard to deal with"
+      },
+      {
+        "id": 44,
+        "start": 140.9199981689453,
+        "end": 143.55999755859375,
+        "text": " and very difficult and not a good actor,"
+      },
+      {
+        "id": 45,
+        "start": 143.55999755859375,
+        "end": 145.83999633789062,
+        "text": " and I do not want to do any business with you."
+      },
+      {
+        "id": 46,
+        "start": 145.83999633789062,
+        "end": 147.83999633789062,
+        "text": " Period, end of discussion."
+      },
+      {
+        "id": 47,
+        "start": 147.83999633789062,
+        "end": 149.16000366210938,
+        "text": " Cancel it."
+      },
+      {
+        "id": 48,
+        "start": 149.16000366210938,
+        "end": 151.44000244140625,
+        "text": " Glenn, I can cancel it,"
+      },
+      {
+        "id": 49,
+        "start": 151.44000244140625,
+        "end": 153.27999877929688,
+        "text": " and I'm not sure where you're getting those notes from,"
+      },
+      {
+        "id": 50,
+        "start": 153.27999877929688,
+        "end": 154.75999450683594,
+        "text": " but I have to reach out to the doctor."
+      },
+      {
+        "id": 51,
+        "start": 154.75999450683594,
+        "end": 156.60000610351562,
+        "text": " The Better Business Bureau."
+      },
+      {
+        "id": 52,
+        "start": 156.60000610351562,
+        "end": 157.8800048828125,
+        "text": " Yeah, please, please, please."
+      },
+      {
+        "id": 53,
+        "start": 157.8800048828125,
+        "end": 159.44000244140625,
+        "text": " Take a look at them."
+      },
+      {
+        "id": 54,
+        "start": 159.44000244140625,
+        "end": 161.8000030517578,
+        "text": " In the meantime, cancel my order."
+      },
+      {
+        "id": 55,
+        "start": 161.8000030517578,
+        "end": 162.9600067138672,
+        "text": " I don't want to argue this."
+      },
+      {
+        "id": 56,
+        "start": 162.9600067138672,
+        "end": 164,
+        "text": " Just cancel it, please."
+      },
+      {
+        "id": 57,
+        "start": 164,
+        "end": 165.8000030517578,
+        "text": " I am not arguing with you, Glenn."
+      },
+      {
+        "id": 58,
+        "start": 165.8000030517578,
+        "end": 168.16000366210938,
+        "text": " I'm handling it for you, but you keep yelling at me."
+      },
+      {
+        "id": 59,
+        "start": 168.16000366210938,
+        "end": 169.8800048828125,
+        "text": " Please let me reach out to the doctor."
+      },
+      {
+        "id": 60,
+        "start": 169.8800048828125,
+        "end": 172,
+        "text": " I'm gonna place you on a hold, okay?"
+      },
+      {
+        "id": 61,
+        "start": 172,
+        "end": 172.8800048828125,
+        "text": " I can cancel it."
+      },
+      {
+        "id": 62,
+        "start": 172.8800048828125,
+        "end": 175.55999755859375,
+        "text": " I just have to reach out to the doctor."
+      },
+      {
+        "id": 63,
+        "start": 175.55999755859375,
+        "end": 177.1199951171875,
+        "text": " Okay."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-812f-805b-d7045839f485",
+    "url": "https://www.notion.so/300000001217421-300000001707729-2f611d0a101c812f805bd7045839f485"
+  },
+  "processedAt": "2026-01-28T16:03:00.598Z"
+}

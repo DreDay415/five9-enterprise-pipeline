@@ -1,0 +1,64 @@
+{
+  "recording": {
+    "name": "300000001241949-300000001731569-7169350442 by  @ 10_49_20 AM_CallStudio.wav",
+    "size": 32756,
+    "modifyTime": 1771008604000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241949-300000001731569-7169350442 by  @ 10_49_20 AM_CallStudio.wav",
+    "uploadDate": "2026-02-13T18:50:04.000Z",
+    "callId": "300000001241949-300000001731569",
+    "phoneNumber": "7169350442",
+    "callTimestamp": "2026-02-13T18:50:04.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241949-300000001731569_7169350442.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241949-300000001731569_7169350442.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: Because they just took my money off my car and I want to know that I'm getting the product.\n\nSpeaker 1: I want to speak with a representative.\n\nSpeaker 2: Thanks.",
+    "duration": 2633,
+    "audioDuration": 20.1200008392334,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.159999847412109,
+        "end": 7.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.159999847412109,
+        "end": 8.15999984741211,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.15999984741211,
+        "end": 14.800000190734863,
+        "text": " Because they just took my money off my car and I want to know that I'm getting the product."
+      },
+      {
+        "id": 4,
+        "start": 14.800000190734863,
+        "end": 18.559999465942383,
+        "text": " I want to speak with a representative."
+      },
+      {
+        "id": 5,
+        "start": 18.559999465942383,
+        "end": 19.760000228881836,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8199-8190-eae891ca9061",
+    "url": "https://www.notion.so/300000001241949-300000001731569-30611d0a101c81998190eae891ca9061"
+  },
+  "processedAt": "2026-02-13T19:03:17.598Z"
+}

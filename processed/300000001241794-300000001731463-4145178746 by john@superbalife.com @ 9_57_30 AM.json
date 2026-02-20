@@ -1,0 +1,407 @@
+{
+  "recording": {
+    "name": "300000001241794-300000001731463-4145178746 by john@superbalife.com @ 9_57_30 AM.wav",
+    "size": 283266,
+    "modifyTime": 1771005646000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241794-300000001731463-4145178746 by john@superbalife.com @ 9_57_30 AM.wav",
+    "uploadDate": "2026-02-13T18:00:46.000Z",
+    "callId": "300000001241794-300000001731463",
+    "agent": "john",
+    "phoneNumber": "4145178746",
+    "callTimestamp": "2026-02-13T09:57:30.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_john_300000001241794-300000001731463_4145178746.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_john_300000001241794-300000001731463_4145178746.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you today?\n\nSpeaker 2: John, I ordered this score blue and I don't know what's happening. My phone is going nuts.\n\nSpeaker 1: Let me help you out, sir. If I can get your name and zip code.\n\nSpeaker 2: Carl, G-I-A-I-M-O. Zip code's 53-0-9-5.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: County Highway Z in West Bend.\n\nSpeaker 1: That's the one.\n\nSpeaker 2: Okay. Good news is those texts are that you've been approved.\n\nSpeaker 1: So you got approved for the medication that you put in for today.\n\nSpeaker 2: We will ship this out within one to two business days. So you are going to get it.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yeah. So you're just waiting now for it to actually ship out of the pharmacy.\n\nSpeaker 1: It has the process there and then they'll mail it out.\n\nSpeaker 2: You will get an email sent to you when it ships with a postal service tracking number.\n\nSpeaker 1: And this is the Viagra A-G-V or whatever?\n\nSpeaker 2: That's what I see you ordered. 50 milligrams, 25 pills.\n\nSpeaker 1: Right.\n\nSpeaker 2: Yep. That's what I see here.\n\nSpeaker 1: So now I just got to wait for it to get here?\n\nSpeaker 2: Exactly, sir. You should have it sometime between Wednesday and Friday of next week.\n\nSpeaker 1: Sometime around that time of week.\n\nSpeaker 2: Yeah. No problem. No problem.\n\nSpeaker 1: I just wanted to make sure the order went through because, like I said,\n\nSpeaker 2: my phone started going goofy with a bunch of texts.\n\nSpeaker 1: Oh, I understand.\n\nSpeaker 2: Yeah, those texts are just saying that you're good to go and everything.\n\nSpeaker 1: But, yeah, one last thing.\n\nSpeaker 2: It will be delivered directly to your mailbox too.\n\nSpeaker 1: Sometimes people think it goes to the front door.\n\nSpeaker 2: So just look for it in the mailbox.\n\nSpeaker 1: Yep. Yep. That would be fine.\n\nSpeaker 2: Okay.\n\nSpeaker 1: That's all I needed to know.\n\nSpeaker 2: Thank you very much for your help.\n\nSpeaker 1: You're welcome. Have a good one.\n\nSpeaker 2: One other question.\n\nSpeaker 1: Is this Sidenafil or Sidenafil?\n\nSpeaker 2: Every Viagra has Sidenafil in it.\n\nSpeaker 1: It's the other inactive ingredients that are different,\n\nSpeaker 2: but even the name brand Viagra is Sidenafil.\n\nSpeaker 1: That's what actually gets you the erection.\n\nSpeaker 2: Okay, because I have that from my doctor.\n\nSpeaker 1: My urologist gave me a prescription of, like, 20 pills or whatever.\n\nSpeaker 2: I don't think it's the name of it.\n\nSpeaker 1: Every version of Viagra, even the name brand is Sidenafil.\n\nSpeaker 2: That's just the medical name for that drug.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: And the difference is the EGV?\n\nSpeaker 2: Yeah, the inactive ingredients are better\n\nSpeaker 1: because it better gets the medicine into your bloodstream.\n\nSpeaker 2: So it works more effectively every time.\n\nSpeaker 1: It will work faster.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Do I have to talk to my doctor about this?\n\nSpeaker 2: No, we had a doctor prescribe it to you,\n\nSpeaker 1: so that's what that text was about, that our doctor said you're all good.\n\nSpeaker 2: Oh, all right.\n\nSpeaker 1: All righty then, I'll wait for her to get here.\n\nSpeaker 2: Yeah, I hope you have a good day.\n\nSpeaker 1: Yep, thank you.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 9333,
+    "audioDuration": 174.27999877929688,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling. This is John. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 9,
+        "text": " John, I ordered this score blue and I don't know what's happening. My phone is going nuts."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 13,
+        "text": " Let me help you out, sir. If I can get your name and zip code."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 21,
+        "text": " Carl, G-I-A-I-M-O. Zip code's 53-0-9-5."
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 23,
+        "text": " Thank you."
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 31,
+        "text": " County Highway Z in West Bend."
+      },
+      {
+        "id": 6,
+        "start": 31,
+        "end": 32,
+        "text": " That's the one."
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 35,
+        "text": " Okay. Good news is those texts are that you've been approved."
+      },
+      {
+        "id": 8,
+        "start": 35,
+        "end": 37,
+        "text": " So you got approved for the medication that you put in for today."
+      },
+      {
+        "id": 9,
+        "start": 37,
+        "end": 41,
+        "text": " We will ship this out within one to two business days. So you are going to get it."
+      },
+      {
+        "id": 10,
+        "start": 41,
+        "end": 42,
+        "text": " Okay."
+      },
+      {
+        "id": 11,
+        "start": 42,
+        "end": 46,
+        "text": " Yeah. So you're just waiting now for it to actually ship out of the pharmacy."
+      },
+      {
+        "id": 12,
+        "start": 46,
+        "end": 48,
+        "text": " It has the process there and then they'll mail it out."
+      },
+      {
+        "id": 13,
+        "start": 48,
+        "end": 52,
+        "text": " You will get an email sent to you when it ships with a postal service tracking number."
+      },
+      {
+        "id": 14,
+        "start": 52,
+        "end": 58,
+        "text": " And this is the Viagra A-G-V or whatever?"
+      },
+      {
+        "id": 15,
+        "start": 58,
+        "end": 61,
+        "text": " That's what I see you ordered. 50 milligrams, 25 pills."
+      },
+      {
+        "id": 16,
+        "start": 61,
+        "end": 62,
+        "text": " Right."
+      },
+      {
+        "id": 17,
+        "start": 62,
+        "end": 64,
+        "text": " Yep. That's what I see here."
+      },
+      {
+        "id": 18,
+        "start": 64,
+        "end": 67,
+        "text": " So now I just got to wait for it to get here?"
+      },
+      {
+        "id": 19,
+        "start": 67,
+        "end": 71,
+        "text": " Exactly, sir. You should have it sometime between Wednesday and Friday of next week."
+      },
+      {
+        "id": 20,
+        "start": 71,
+        "end": 72,
+        "text": " Sometime around that time of week."
+      },
+      {
+        "id": 21,
+        "start": 72,
+        "end": 75,
+        "text": " Yeah. No problem. No problem."
+      },
+      {
+        "id": 22,
+        "start": 76,
+        "end": 79,
+        "text": " I just wanted to make sure the order went through because, like I said,"
+      },
+      {
+        "id": 23,
+        "start": 79,
+        "end": 82,
+        "text": " my phone started going goofy with a bunch of texts."
+      },
+      {
+        "id": 24,
+        "start": 82,
+        "end": 83,
+        "text": " Oh, I understand."
+      },
+      {
+        "id": 25,
+        "start": 83,
+        "end": 86,
+        "text": " Yeah, those texts are just saying that you're good to go and everything."
+      },
+      {
+        "id": 26,
+        "start": 86,
+        "end": 88,
+        "text": " But, yeah, one last thing."
+      },
+      {
+        "id": 27,
+        "start": 88,
+        "end": 90,
+        "text": " It will be delivered directly to your mailbox too."
+      },
+      {
+        "id": 28,
+        "start": 90,
+        "end": 91,
+        "text": " Sometimes people think it goes to the front door."
+      },
+      {
+        "id": 29,
+        "start": 91,
+        "end": 93,
+        "text": " So just look for it in the mailbox."
+      },
+      {
+        "id": 30,
+        "start": 93,
+        "end": 96,
+        "text": " Yep. Yep. That would be fine."
+      },
+      {
+        "id": 31,
+        "start": 96,
+        "end": 98,
+        "text": " Okay."
+      },
+      {
+        "id": 32,
+        "start": 98,
+        "end": 99,
+        "text": " That's all I needed to know."
+      },
+      {
+        "id": 33,
+        "start": 99,
+        "end": 101,
+        "text": " Thank you very much for your help."
+      },
+      {
+        "id": 34,
+        "start": 101,
+        "end": 103,
+        "text": " You're welcome. Have a good one."
+      },
+      {
+        "id": 35,
+        "start": 104,
+        "end": 105,
+        "text": " One other question."
+      },
+      {
+        "id": 36,
+        "start": 105,
+        "end": 108,
+        "text": " Is this Sidenafil or Sidenafil?"
+      },
+      {
+        "id": 37,
+        "start": 108,
+        "end": 110,
+        "text": " Every Viagra has Sidenafil in it."
+      },
+      {
+        "id": 38,
+        "start": 110,
+        "end": 113,
+        "text": " It's the other inactive ingredients that are different,"
+      },
+      {
+        "id": 39,
+        "start": 113,
+        "end": 115,
+        "text": " but even the name brand Viagra is Sidenafil."
+      },
+      {
+        "id": 40,
+        "start": 115,
+        "end": 119,
+        "text": " That's what actually gets you the erection."
+      },
+      {
+        "id": 41,
+        "start": 119,
+        "end": 123,
+        "text": " Okay, because I have that from my doctor."
+      },
+      {
+        "id": 42,
+        "start": 123,
+        "end": 130,
+        "text": " My urologist gave me a prescription of, like, 20 pills or whatever."
+      },
+      {
+        "id": 43,
+        "start": 130,
+        "end": 133,
+        "text": " I don't think it's the name of it."
+      },
+      {
+        "id": 44,
+        "start": 133,
+        "end": 136,
+        "text": " Every version of Viagra, even the name brand is Sidenafil."
+      },
+      {
+        "id": 45,
+        "start": 136,
+        "end": 139,
+        "text": " That's just the medical name for that drug."
+      },
+      {
+        "id": 46,
+        "start": 139,
+        "end": 140,
+        "text": " Okay."
+      },
+      {
+        "id": 47,
+        "start": 140,
+        "end": 142,
+        "text": " Yeah."
+      },
+      {
+        "id": 48,
+        "start": 142,
+        "end": 146,
+        "text": " And the difference is the EGV?"
+      },
+      {
+        "id": 49,
+        "start": 146,
+        "end": 148,
+        "text": " Yeah, the inactive ingredients are better"
+      },
+      {
+        "id": 50,
+        "start": 148,
+        "end": 151,
+        "text": " because it better gets the medicine into your bloodstream."
+      },
+      {
+        "id": 51,
+        "start": 151,
+        "end": 153,
+        "text": " So it works more effectively every time."
+      },
+      {
+        "id": 52,
+        "start": 153,
+        "end": 155,
+        "text": " It will work faster."
+      },
+      {
+        "id": 53,
+        "start": 155,
+        "end": 157,
+        "text": " Okay."
+      },
+      {
+        "id": 54,
+        "start": 157,
+        "end": 159,
+        "text": " Do I have to talk to my doctor about this?"
+      },
+      {
+        "id": 55,
+        "start": 159,
+        "end": 161,
+        "text": " No, we had a doctor prescribe it to you,"
+      },
+      {
+        "id": 56,
+        "start": 161,
+        "end": 164,
+        "text": " so that's what that text was about, that our doctor said you're all good."
+      },
+      {
+        "id": 57,
+        "start": 164,
+        "end": 166,
+        "text": " Oh, all right."
+      },
+      {
+        "id": 58,
+        "start": 166,
+        "end": 169,
+        "text": " All righty then, I'll wait for her to get here."
+      },
+      {
+        "id": 59,
+        "start": 169,
+        "end": 171,
+        "text": " Yeah, I hope you have a good day."
+      },
+      {
+        "id": 60,
+        "start": 171,
+        "end": 172,
+        "text": " Yep, thank you."
+      },
+      {
+        "id": 61,
+        "start": 172,
+        "end": 173,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 62,
+        "start": 173,
+        "end": 174,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-814a-bf73-ef351cdea34f",
+    "url": "https://www.notion.so/300000001241794-300000001731463-30611d0a101c814abf73ef351cdea34f"
+  },
+  "processedAt": "2026-02-13T18:02:54.413Z"
+}

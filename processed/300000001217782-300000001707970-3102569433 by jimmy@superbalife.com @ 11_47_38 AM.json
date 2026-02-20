@@ -1,0 +1,38 @@
+{
+  "recording": {
+    "name": "300000001217782-300000001707970-3102569433 by jimmy@superbalife.com @ 11_47_38 AM.wav",
+    "size": 7146,
+    "modifyTime": 1769585529000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217782-300000001707970-3102569433 by jimmy@superbalife.com @ 11_47_38 AM.wav",
+    "uploadDate": "2026-01-28T07:32:09.000Z",
+    "callId": "300000001217782-300000001707970",
+    "agent": "jimmy",
+    "phoneNumber": "3102569433",
+    "callTimestamp": "2026-01-28T11:47:38.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1:\n\nSpeaker 2:",
+    "duration": 482,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.960000038146973,
+        "text": " ."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 6.960000038146973,
+        "text": " ."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8165-968d-f26ed6260b10",
+    "url": "https://www.notion.so/300000001217782-300000001707970-2f611d0a101c8165968df26ed6260b10"
+  },
+  "processedAt": "2026-01-28T14:20:25.160Z"
+}

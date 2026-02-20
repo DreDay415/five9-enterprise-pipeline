@@ -1,0 +1,206 @@
+{
+  "recording": {
+    "name": "300000001223018-300000001712596-7154964894 by summer@verifiednutrition.com @ 1_26_58 PM.wav",
+    "size": 84236,
+    "modifyTime": 1769722091000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223018-300000001712596-7154964894 by summer@verifiednutrition.com @ 1_26_58 PM.wav",
+    "uploadDate": "2026-01-29T21:28:11.000Z",
+    "callId": "300000001223018-300000001712596",
+    "agent": "summer",
+    "phoneNumber": "7154964894",
+    "callTimestamp": "2026-01-29T13:26:58.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service.\n\nSpeaker 2: I can help you.\n\nSpeaker 1: Hi. Yes, ma'am.\n\nSpeaker 2: My name is Michael Starkey.\n\nSpeaker 1: I was sent an email that said that my prescription was sent.\n\nSpeaker 2: It had a tracking number, but it doesn't tell me, like, who it's being sent by.\n\nSpeaker 1: I don't know how to look it up.\n\nSpeaker 2: And the other thing is, is they shipped it Saturday.\n\nSpeaker 1: So I'm just trying to figure it out.\n\nSpeaker 2: That's all.\n\nSpeaker 1: I appreciate you taking the time.\n\nSpeaker 2: No problem.\n\nSpeaker 1: Name and birthday, please.\n\nSpeaker 2: Yes, ma'am.\n\nSpeaker 1: Michael, last name Starkey.\n\nSpeaker 2: Date of birth, 1-13-62.\n\nSpeaker 1: Oh, they just delivered it right now.\n\nSpeaker 2: You can check your mailbox.\n\nSpeaker 1: It's out for delivery now?\n\nSpeaker 2: No. Yeah, it was delivered a few minutes ago.\n\nSpeaker 1: Oh, okay.\n\nSpeaker 2: All right.\n\nSpeaker 1: Okay. All right.\n\nSpeaker 2: Well, I will go home and check the mailbox.\n\nSpeaker 1: Thank you so much.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: No problem.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Yes, ma'am.\n\nSpeaker 2: Bye-bye.",
+    "duration": 2992,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1.6799999475479126,
+        "text": " Thank you for calling customer service."
+      },
+      {
+        "id": 1,
+        "start": 1.6799999475479126,
+        "end": 2.240000009536743,
+        "text": " I can help you."
+      },
+      {
+        "id": 2,
+        "start": 2.8399999141693115,
+        "end": 3.8399999141693115,
+        "text": " Hi. Yes, ma'am."
+      },
+      {
+        "id": 3,
+        "start": 3.8399999141693115,
+        "end": 5.119999885559082,
+        "text": " My name is Michael Starkey."
+      },
+      {
+        "id": 4,
+        "start": 5.440000057220459,
+        "end": 10.100000381469727,
+        "text": " I was sent an email that said that my prescription was sent."
+      },
+      {
+        "id": 5,
+        "start": 10.100000381469727,
+        "end": 14.5600004196167,
+        "text": " It had a tracking number, but it doesn't tell me, like, who it's being sent by."
+      },
+      {
+        "id": 6,
+        "start": 14.979999542236328,
+        "end": 17.940000534057617,
+        "text": " I don't know how to look it up."
+      },
+      {
+        "id": 7,
+        "start": 17.940000534057617,
+        "end": 20.559999465942383,
+        "text": " And the other thing is, is they shipped it Saturday."
+      },
+      {
+        "id": 8,
+        "start": 20.899999618530273,
+        "end": 22.559999465942383,
+        "text": " So I'm just trying to figure it out."
+      },
+      {
+        "id": 9,
+        "start": 22.559999465942383,
+        "end": 22.940000534057617,
+        "text": " That's all."
+      },
+      {
+        "id": 10,
+        "start": 23.1200008392334,
+        "end": 24.299999237060547,
+        "text": " I appreciate you taking the time."
+      },
+      {
+        "id": 11,
+        "start": 24.719999313354492,
+        "end": 25.31999969482422,
+        "text": " No problem."
+      },
+      {
+        "id": 12,
+        "start": 25.31999969482422,
+        "end": 26.3799991607666,
+        "text": " Name and birthday, please."
+      },
+      {
+        "id": 13,
+        "start": 26.8799991607666,
+        "end": 27.600000381469727,
+        "text": " Yes, ma'am."
+      },
+      {
+        "id": 14,
+        "start": 27.600000381469727,
+        "end": 29.200000762939453,
+        "text": " Michael, last name Starkey."
+      },
+      {
+        "id": 15,
+        "start": 29.780000686645508,
+        "end": 32.70000076293945,
+        "text": " Date of birth, 1-13-62."
+      },
+      {
+        "id": 16,
+        "start": 33.81999969482422,
+        "end": 35.52000045776367,
+        "text": " Oh, they just delivered it right now."
+      },
+      {
+        "id": 17,
+        "start": 35.79999923706055,
+        "end": 36.779998779296875,
+        "text": " You can check your mailbox."
+      },
+      {
+        "id": 18,
+        "start": 37.91999816894531,
+        "end": 39.400001525878906,
+        "text": " It's out for delivery now?"
+      },
+      {
+        "id": 19,
+        "start": 40.02000045776367,
+        "end": 42,
+        "text": " No. Yeah, it was delivered a few minutes ago."
+      },
+      {
+        "id": 20,
+        "start": 42.900001525878906,
+        "end": 43.7599983215332,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 21,
+        "start": 43.959999084472656,
+        "end": 44.380001068115234,
+        "text": " All right."
+      },
+      {
+        "id": 22,
+        "start": 44.900001525878906,
+        "end": 45.79999923706055,
+        "text": " Okay. All right."
+      },
+      {
+        "id": 23,
+        "start": 45.79999923706055,
+        "end": 48.02000045776367,
+        "text": " Well, I will go home and check the mailbox."
+      },
+      {
+        "id": 24,
+        "start": 48.02000045776367,
+        "end": 49,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 25,
+        "start": 49,
+        "end": 49.52000045776367,
+        "text": " You're welcome."
+      },
+      {
+        "id": 26,
+        "start": 49.52000045776367,
+        "end": 49.939998626708984,
+        "text": " No problem."
+      },
+      {
+        "id": 27,
+        "start": 49.939998626708984,
+        "end": 50.20000076293945,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 28,
+        "start": 50.5,
+        "end": 50.97999954223633,
+        "text": " Yes, ma'am."
+      },
+      {
+        "id": 29,
+        "start": 50.97999954223633,
+        "end": 51.31999969482422,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81b0-a000-fcc6a76163bb",
+    "url": "https://www.notion.so/300000001223018-300000001712596-2f711d0a101c81b0a000fcc6a76163bb"
+  },
+  "processedAt": "2026-01-29T21:45:15.082Z"
+}

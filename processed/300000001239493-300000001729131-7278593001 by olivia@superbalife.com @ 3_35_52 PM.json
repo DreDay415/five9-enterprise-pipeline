@@ -1,0 +1,218 @@
+{
+  "recording": {
+    "name": "300000001239493-300000001729131-7278593001 by olivia@superbalife.com @ 3_35_52 PM.wav",
+    "size": 155540,
+    "modifyTime": 1770853053000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239493-300000001729131-7278593001 by olivia@superbalife.com @ 3_35_52 PM.wav",
+    "uploadDate": "2026-02-11T23:37:33.000Z",
+    "callId": "300000001239493-300000001729131",
+    "agent": "olivia",
+    "phoneNumber": "7278593001",
+    "callTimestamp": "2026-02-11T15:35:52.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, this is Alivia speaking.\n\nSpeaker 2: Who do I have the pleasure of speaking with today?\n\nSpeaker 1: This is Wayne Griffin.\n\nSpeaker 2: Hi Wayne, how are you?\n\nSpeaker 1: Good, I need to cancel my subscription.\n\nSpeaker 2: Yeah, I can help you with that.\n\nSpeaker 1: Oh, you spoke with me, yeah you're calling me back directly.\n\nSpeaker 2: Yeah, so I placed a prescription on hold for you.\n\nSpeaker 1: So once you track the pills, if they don't work for you,\n\nSpeaker 2: just let us know and of course we can always\n\nSpeaker 1: cancel the prescription.\n\nSpeaker 2: You're misunderstanding me.\n\nSpeaker 1: But can I speak to your supervisor?\n\nSpeaker 2: It's me, it is, that's.\n\nSpeaker 1: You're not letting me cancel my subscription.\n\nSpeaker 2: I don't want it on pause, I want it canceled.\n\nSpeaker 1: I don't want to be charged in six months\n\nSpeaker 2: when I try the pill or whatever\n\nSpeaker 1: you're trying to get across to me.\n\nSpeaker 2: I want to cancel the subscription\n\nSpeaker 1: so it doesn't charge me again.\n\nSpeaker 2: So you went through the very extensive process\n\nSpeaker 1: to open a prescription with us.\n\nSpeaker 2: and we paid that doctor's fee for that doctor to see you.\n\nSpeaker 1: to approve that prescription, yes?\n\nSpeaker 2: If that's what you say.\n\nSpeaker 1: I just want to cancel my subscription.\n\nSpeaker 2: and you're trying to talk me out\n\nSpeaker 1: of canceling my subscription.\n\nSpeaker 2: So can I talk to someone else besides you?\n\nSpeaker 1: There has to be someone else I can talk to.\n\nSpeaker 2: Sure, yeah, you can try again.",
+    "duration": 6321,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.159999847412109,
+        "text": " Thank you for calling Viagra, this is Alivia speaking."
+      },
+      {
+        "id": 1,
+        "start": 4.159999847412109,
+        "end": 8.640000343322754,
+        "text": " Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 2,
+        "start": 8.640000343322754,
+        "end": 11.140000343322754,
+        "text": " This is Wayne Griffin."
+      },
+      {
+        "id": 3,
+        "start": 11.140000343322754,
+        "end": 12.979999542236328,
+        "text": " Hi Wayne, how are you?"
+      },
+      {
+        "id": 4,
+        "start": 14.079999923706055,
+        "end": 17.34000015258789,
+        "text": " Good, I need to cancel my subscription."
+      },
+      {
+        "id": 5,
+        "start": 18.979999542236328,
+        "end": 21.559999465942383,
+        "text": " Yeah, I can help you with that."
+      },
+      {
+        "id": 6,
+        "start": 23.559999465942383,
+        "end": 27.760000228881836,
+        "text": " Oh, you spoke with me, yeah you're calling me back directly."
+      },
+      {
+        "id": 7,
+        "start": 27.760000228881836,
+        "end": 30.420000076293945,
+        "text": " Yeah, so I placed a prescription on hold for you"
+      },
+      {
+        "id": 8,
+        "start": 30.420000076293945,
+        "end": 33.220001220703125,
+        "text": " so once you track the pills, if they don't work for you,"
+      },
+      {
+        "id": 9,
+        "start": 33.220001220703125,
+        "end": 36.459999084472656,
+        "text": " just let us know and of course we can always"
+      },
+      {
+        "id": 10,
+        "start": 36.459999084472656,
+        "end": 37.5,
+        "text": " cancel the prescription."
+      },
+      {
+        "id": 11,
+        "start": 37.5,
+        "end": 38.79999923706055,
+        "text": " You're misunderstanding me,"
+      },
+      {
+        "id": 12,
+        "start": 38.79999923706055,
+        "end": 41.5,
+        "text": " but can I speak to your supervisor?"
+      },
+      {
+        "id": 13,
+        "start": 41.5,
+        "end": 43.5,
+        "text": " It's me, it is, that's."
+      },
+      {
+        "id": 14,
+        "start": 44.939998626708984,
+        "end": 47,
+        "text": " You're not letting me cancel my subscription."
+      },
+      {
+        "id": 15,
+        "start": 47,
+        "end": 49.439998626708984,
+        "text": " I don't want it on pause, I want it canceled."
+      },
+      {
+        "id": 16,
+        "start": 49.439998626708984,
+        "end": 51.18000030517578,
+        "text": " I don't want to be charged in six months"
+      },
+      {
+        "id": 17,
+        "start": 51.18000030517578,
+        "end": 53.18000030517578,
+        "text": " when I try the pill or whatever"
+      },
+      {
+        "id": 18,
+        "start": 53.18000030517578,
+        "end": 55.31999969482422,
+        "text": " you're trying to get across to me."
+      },
+      {
+        "id": 19,
+        "start": 55.439998626708984,
+        "end": 57.2400016784668,
+        "text": " I want to cancel the subscription"
+      },
+      {
+        "id": 20,
+        "start": 57.2400016784668,
+        "end": 59.81999969482422,
+        "text": " so it doesn't charge me again."
+      },
+      {
+        "id": 21,
+        "start": 62.91999816894531,
+        "end": 66.76000213623047,
+        "text": " So you went through the very extensive process"
+      },
+      {
+        "id": 22,
+        "start": 69.41999816894531,
+        "end": 71.36000061035156,
+        "text": " to open a prescription with us"
+      },
+      {
+        "id": 23,
+        "start": 71.36000061035156,
+        "end": 76.16000366210938,
+        "text": " and we paid that doctor's fee for that doctor to see you"
+      },
+      {
+        "id": 24,
+        "start": 76.16000366210938,
+        "end": 79,
+        "text": " to approve that prescription, yes?"
+      },
+      {
+        "id": 25,
+        "start": 81.80000305175781,
+        "end": 83.0999984741211,
+        "text": " If that's what you say,"
+      },
+      {
+        "id": 26,
+        "start": 83.18000030517578,
+        "end": 85.45999908447266,
+        "text": " I just want to cancel my subscription"
+      },
+      {
+        "id": 27,
+        "start": 85.45999908447266,
+        "end": 86.76000213623047,
+        "text": " and you're trying to talk me out"
+      },
+      {
+        "id": 28,
+        "start": 86.76000213623047,
+        "end": 88.22000122070312,
+        "text": " of canceling my subscription."
+      },
+      {
+        "id": 29,
+        "start": 88.22000122070312,
+        "end": 90.31999969482422,
+        "text": " So can I talk to someone else besides you?"
+      },
+      {
+        "id": 30,
+        "start": 91.45999908447266,
+        "end": 92.76000213623047,
+        "text": " There has to be someone else I can talk to."
+      },
+      {
+        "id": 31,
+        "start": 92.76000213623047,
+        "end": 95.5,
+        "text": " Sure, yeah, you can try again."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8164-af41-cfac8a0f6cc5",
+    "url": "https://www.notion.so/300000001239493-300000001729131-30511d0a101c8164af41cfac8a0f6cc5"
+  },
+  "processedAt": "2026-02-12T00:07:39.271Z"
+}

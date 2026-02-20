@@ -1,0 +1,302 @@
+{
+  "recording": {
+    "name": "300000001239570-300000001729211-3175901556 by olivier@superbalife.com @ 4_33_31 PM.wav",
+    "size": 222100,
+    "modifyTime": 1770856571000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239570-300000001729211-3175901556 by olivier@superbalife.com @ 4_33_31 PM.wav",
+    "uploadDate": "2026-02-12T00:36:11.000Z",
+    "callId": "300000001239570-300000001729211",
+    "agent": "olivier",
+    "phoneNumber": "3175901556",
+    "callTimestamp": "2026-02-12T16:33:31.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Yes, sir.\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: Just calling on my account. There's some problems.\n\nSpeaker 1: Oh, okay.\n\nSpeaker 2: Mr. Mark Matisse?\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: Yes, you have a prescription, Viagra 50 mg.\n\nSpeaker 1: I think Dr. Tariq wrote it with refills every 30 days.\n\nSpeaker 2: How can I help you, sir?\n\nSpeaker 1: I don't ever sign up for subscriptions.\n\nSpeaker 2: I buy products and I test them to see if they're good for my body.\n\nSpeaker 1: I don't know how your system put me in a position where I'm in a subscription.\n\nSpeaker 2: I had no interest in that.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yeah, those are just refills, but I can stop that for you so you can order as needed.\n\nSpeaker 1: But is the Viagra also, quick question, a good fit for you?\n\nSpeaker 2: I have not tried it yet.\n\nSpeaker 1: I had a death in the family, and I took my time before I incorporated.\n\nSpeaker 2: My brother passed away on January 22nd.\n\nSpeaker 1: So I just had to shelf your product, and I haven't worked with it at all.\n\nSpeaker 2: Oh, makes sense.\n\nSpeaker 1: Let me stop the refill and pause it so you don't have nothing to worry about,\n\nSpeaker 2: and you can reorder if it works good for you at the same price,\n\nSpeaker 1: but you're not going to be on a monthly anymore because you don't have to.\n\nSpeaker 2: That's just initial writing, assuming that you're active,\n\nSpeaker 1: to avoid to write a new prescription every time, right?\n\nSpeaker 2: So I'm going to stop that, pause it for you, and you can reorder as needed.\n\nSpeaker 1: I think they pause you up to half a year, and then if you just get to refill a year,\n\nSpeaker 2: they always guarantee you that price.\n\nSpeaker 1: But I'm just going to stop the monthly because, you know,\n\nSpeaker 2: obviously you didn't use it.\n\nSpeaker 1: You need to use it first, and, you know.\n\nSpeaker 2: Well, I appreciate that greatly.\n\nSpeaker 1: That's very kind of you.\n\nSpeaker 2: All right.\n\nSpeaker 1: Let me do that.\n\nSpeaker 2: All right, you all set.\n\nSpeaker 1: I advise the pharmacy to stop the monthly and pause your prescription\n\nSpeaker 2: so you can call to reorder, okay?\n\nSpeaker 1: Wonderful.\n\nSpeaker 2: I appreciate all your time.\n\nSpeaker 1: You're welcome.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Bye-bye.",
+    "duration": 5897,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 4,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 6,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 3,
+        "start": 6,
+        "end": 8,
+        "text": " Just calling on my account. There's some problems."
+      },
+      {
+        "id": 4,
+        "start": 8,
+        "end": 10,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 5,
+        "start": 10,
+        "end": 12,
+        "text": " Mr. Mark Matisse?"
+      },
+      {
+        "id": 6,
+        "start": 12,
+        "end": 14,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 7,
+        "start": 14,
+        "end": 18,
+        "text": " Yes, you have a prescription, Viagra 50 mg."
+      },
+      {
+        "id": 8,
+        "start": 18,
+        "end": 21,
+        "text": " I think Dr. Tariq wrote it with refills every 30 days."
+      },
+      {
+        "id": 9,
+        "start": 21,
+        "end": 23,
+        "text": " How can I help you, sir?"
+      },
+      {
+        "id": 10,
+        "start": 23,
+        "end": 28,
+        "text": " I don't ever sign up for subscriptions."
+      },
+      {
+        "id": 11,
+        "start": 28,
+        "end": 32,
+        "text": " I buy products and I test them to see if they're good for my body."
+      },
+      {
+        "id": 12,
+        "start": 32,
+        "end": 36,
+        "text": " I don't know how your system put me in a position where I'm in a subscription."
+      },
+      {
+        "id": 13,
+        "start": 36,
+        "end": 38,
+        "text": " I had no interest in that."
+      },
+      {
+        "id": 14,
+        "start": 38,
+        "end": 40,
+        "text": " Okay."
+      },
+      {
+        "id": 15,
+        "start": 40,
+        "end": 44,
+        "text": " Yeah, those are just refills, but I can stop that for you so you can order as needed."
+      },
+      {
+        "id": 16,
+        "start": 44,
+        "end": 48,
+        "text": " But is the Viagra also, quick question, a good fit for you?"
+      },
+      {
+        "id": 17,
+        "start": 48,
+        "end": 50,
+        "text": " I have not tried it yet."
+      },
+      {
+        "id": 18,
+        "start": 50,
+        "end": 54,
+        "text": " I had a death in the family, and I took my time before I incorporated."
+      },
+      {
+        "id": 19,
+        "start": 54,
+        "end": 58,
+        "text": " My brother passed away on January 22nd."
+      },
+      {
+        "id": 20,
+        "start": 58,
+        "end": 64,
+        "text": " So I just had to shelf your product, and I haven't worked with it at all."
+      },
+      {
+        "id": 21,
+        "start": 64,
+        "end": 66,
+        "text": " Oh, makes sense."
+      },
+      {
+        "id": 22,
+        "start": 66,
+        "end": 70,
+        "text": " Let me stop the refill and pause it so you don't have nothing to worry about,"
+      },
+      {
+        "id": 23,
+        "start": 70,
+        "end": 73,
+        "text": " and you can reorder if it works good for you at the same price,"
+      },
+      {
+        "id": 24,
+        "start": 73,
+        "end": 76,
+        "text": " but you're not going to be on a monthly anymore because you don't have to."
+      },
+      {
+        "id": 25,
+        "start": 76,
+        "end": 80,
+        "text": " That's just initial writing, assuming that you're active,"
+      },
+      {
+        "id": 26,
+        "start": 80,
+        "end": 83,
+        "text": " to avoid to write a new prescription every time, right?"
+      },
+      {
+        "id": 27,
+        "start": 83,
+        "end": 87,
+        "text": " So I'm going to stop that, pause it for you, and you can reorder as needed."
+      },
+      {
+        "id": 28,
+        "start": 87,
+        "end": 91,
+        "text": " I think they pause you up to half a year, and then if you just get to refill a year,"
+      },
+      {
+        "id": 29,
+        "start": 91,
+        "end": 93,
+        "text": " they always guarantee you that price."
+      },
+      {
+        "id": 30,
+        "start": 93,
+        "end": 95,
+        "text": " But I'm just going to stop the monthly because, you know,"
+      },
+      {
+        "id": 31,
+        "start": 95,
+        "end": 97,
+        "text": " obviously you didn't use it."
+      },
+      {
+        "id": 32,
+        "start": 97,
+        "end": 101,
+        "text": " You need to use it first, and, you know."
+      },
+      {
+        "id": 33,
+        "start": 101,
+        "end": 103,
+        "text": " Well, I appreciate that greatly."
+      },
+      {
+        "id": 34,
+        "start": 103,
+        "end": 105,
+        "text": " That's very kind of you."
+      },
+      {
+        "id": 35,
+        "start": 105,
+        "end": 107,
+        "text": " All right."
+      },
+      {
+        "id": 36,
+        "start": 107,
+        "end": 109,
+        "text": " Let me do that."
+      },
+      {
+        "id": 37,
+        "start": 114,
+        "end": 116,
+        "text": " All right, you all set."
+      },
+      {
+        "id": 38,
+        "start": 116,
+        "end": 120,
+        "text": " I advise the pharmacy to stop the monthly and pause your prescription"
+      },
+      {
+        "id": 39,
+        "start": 120,
+        "end": 123,
+        "text": " so you can call to reorder, okay?"
+      },
+      {
+        "id": 40,
+        "start": 123,
+        "end": 124,
+        "text": " Wonderful."
+      },
+      {
+        "id": 41,
+        "start": 124,
+        "end": 126,
+        "text": " I appreciate all your time."
+      },
+      {
+        "id": 42,
+        "start": 126,
+        "end": 127,
+        "text": " You're welcome."
+      },
+      {
+        "id": 43,
+        "start": 127,
+        "end": 128,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 44,
+        "start": 128,
+        "end": 129,
+        "text": " Thank you."
+      },
+      {
+        "id": 45,
+        "start": 129,
+        "end": 130,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8122-af0d-c816e0046777",
+    "url": "https://www.notion.so/300000001239570-300000001729211-30511d0a101c8122af0dc816e0046777"
+  },
+  "processedAt": "2026-02-12T01:06:33.159Z"
+}

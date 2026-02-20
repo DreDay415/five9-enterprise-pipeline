@@ -1,0 +1,56 @@
+{
+  "recording": {
+    "name": "300000001219423-300000001709485-5052310605 by gabriela@superbalife.com @ 11_15_02 AM.wav",
+    "size": 31910,
+    "modifyTime": 1769588830000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219423-300000001709485-5052310605 by gabriela@superbalife.com @ 11_15_02 AM.wav",
+    "uploadDate": "2026-01-28T08:27:10.000Z",
+    "callId": "300000001219423-300000001709485",
+    "agent": "gabriela",
+    "phoneNumber": "5052310605",
+    "callTimestamp": "2026-01-28T11:15:02.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Payagra. How can I help you?\n\nSpeaker 2: Yeah, I was wondering, do you guys have anything for boosting testosterone?\n\nSpeaker 1: Do we have what?\n\nSpeaker 2: Do you have anything to boost testosterone?\n\nSpeaker 1: Yes, that would be with our sister company. Give me a second.",
+    "duration": 1672,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Payagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10,
+        "text": " Yeah, I was wondering, do you guys have anything for boosting testosterone?"
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 12,
+        "text": " Do we have what?"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 15,
+        "text": " Do you have anything to boost testosterone?"
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 19,
+        "text": " Yes, that would be with our sister company. Give me a second."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8145-8b0b-c790d4ad67ec",
+    "url": "https://www.notion.so/300000001219423-300000001709485-2f611d0a101c81458b0bc790d4ad67ec"
+  },
+  "processedAt": "2026-01-28T13:03:10.331Z"
+}

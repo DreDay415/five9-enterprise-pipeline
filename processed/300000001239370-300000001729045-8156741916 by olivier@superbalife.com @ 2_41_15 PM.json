@@ -1,0 +1,254 @@
+{
+  "recording": {
+    "name": "300000001239370-300000001729045-8156741916 by olivier@superbalife.com @ 2_41_15 PM.wav",
+    "size": 295096,
+    "modifyTime": 1770849878000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239370-300000001729045-8156741916 by olivier@superbalife.com @ 2_41_15 PM.wav",
+    "uploadDate": "2026-02-11T22:44:38.000Z",
+    "callId": "300000001239370-300000001729045",
+    "agent": "olivier",
+    "phoneNumber": "8156741916",
+    "callTimestamp": "2026-02-11T14:41:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Hello.\n\nSpeaker 1: Hello, how are we doing, sir?\n\nSpeaker 2: I'm doing okay, I just want to cancel this subscription.\n\nSpeaker 1: Okay, let me put Mr. Screwberry.\n\nSpeaker 2: Screwsberry, yeah.\n\nSpeaker 1: Screwsberry, let me put your prescription.\n\nSpeaker 2: Alright, yeah, I see your prescription for Viagra, 50 mg, 10 tablets.\n\nSpeaker 1: I think the doctor got it on every 30 days frequency.\n\nSpeaker 2: Any health concern, or you'd just rather order as needed?\n\nSpeaker 1: You want to cancel the monthly and just call to order as needed?\n\nSpeaker 2: I'll order as needed, but just cancel what I just got charged to get.\n\nSpeaker 1: I just don't need it anymore, so please cancel me.\n\nSpeaker 2: Okay, yeah, I can cancel that 30 days and pause the prescription so you can order as needed.\n\nSpeaker 1: They pause you up to half a year, and then you can reorder.\n\nSpeaker 2: It's not on a monthly, and then if you get only two refills a year,\n\nSpeaker 1: you can always keep the same price that you have today.\n\nSpeaker 2: Okay.\n\nSpeaker 1: So let me pause you and stop the 30 days, okay?\n\nSpeaker 2: Alright, give me one moment.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, you want to give me just a second.\n\nSpeaker 1: What did you do to break that one down?\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, it looks like you say about basic address, your current address,\n\nSpeaker 2: whole, metal, metal, right?\n\nSpeaker 1: Okay, perfect.\n\nSpeaker 2: Yeah, if you want to get...\n\nSpeaker 1: Okay, perfect.\n\nSpeaker 2: Yeah, if you want to get...\n\nSpeaker 1: Yeah, that's the price right now.\n\nSpeaker 2: Well, so 10 for a brand new customer is $49, but if you want to do that...\n\nSpeaker 1: Alright, you're all set, okay?\n\nSpeaker 2: I'll pause the prescription and stop the monthly.\n\nSpeaker 1: Get your refill caller, so get two refills a year, okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: Thank you very much.\n\nSpeaker 2: Bye-bye.",
+    "duration": 5625,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 4,
+        "text": " Hello."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 6,
+        "text": " Hello, how are we doing, sir?"
+      },
+      {
+        "id": 3,
+        "start": 6,
+        "end": 10,
+        "text": " I'm doing okay, I just want to cancel this subscription."
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 13,
+        "text": " Okay, let me put Mr. Screwberry."
+      },
+      {
+        "id": 5,
+        "start": 13,
+        "end": 15,
+        "text": " Screwsberry, yeah."
+      },
+      {
+        "id": 6,
+        "start": 15,
+        "end": 18,
+        "text": " Screwsberry, let me put your prescription."
+      },
+      {
+        "id": 7,
+        "start": 22,
+        "end": 27,
+        "text": " Alright, yeah, I see your prescription for Viagra, 50 mg, 10 tablets."
+      },
+      {
+        "id": 8,
+        "start": 27,
+        "end": 31,
+        "text": " I think the doctor got it on every 30 days frequency."
+      },
+      {
+        "id": 9,
+        "start": 31,
+        "end": 35,
+        "text": " Any health concern, or you'd just rather order as needed?"
+      },
+      {
+        "id": 10,
+        "start": 35,
+        "end": 38,
+        "text": " You want to cancel the monthly and just call to order as needed?"
+      },
+      {
+        "id": 11,
+        "start": 39,
+        "end": 44,
+        "text": " I'll order as needed, but just cancel what I just got charged to get."
+      },
+      {
+        "id": 12,
+        "start": 44,
+        "end": 47,
+        "text": " I just don't need it anymore, so please cancel me."
+      },
+      {
+        "id": 13,
+        "start": 47,
+        "end": 53,
+        "text": " Okay, yeah, I can cancel that 30 days and pause the prescription so you can order as needed."
+      },
+      {
+        "id": 14,
+        "start": 53,
+        "end": 56,
+        "text": " They pause you up to half a year, and then you can reorder."
+      },
+      {
+        "id": 15,
+        "start": 56,
+        "end": 60,
+        "text": " It's not on a monthly, and then if you get only two refills a year,"
+      },
+      {
+        "id": 16,
+        "start": 60,
+        "end": 63,
+        "text": " you can always keep the same price that you have today."
+      },
+      {
+        "id": 17,
+        "start": 64,
+        "end": 65,
+        "text": " Okay."
+      },
+      {
+        "id": 18,
+        "start": 66,
+        "end": 69,
+        "text": " So let me pause you and stop the 30 days, okay?"
+      },
+      {
+        "id": 19,
+        "start": 71,
+        "end": 73,
+        "text": " Alright, give me one moment."
+      },
+      {
+        "id": 20,
+        "start": 83,
+        "end": 84,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 89,
+        "end": 91,
+        "text": " Okay, you want to give me just a second."
+      },
+      {
+        "id": 22,
+        "start": 91,
+        "end": 93,
+        "text": " What did you do to break that one down?"
+      },
+      {
+        "id": 23,
+        "start": 97,
+        "end": 98,
+        "text": " Okay."
+      },
+      {
+        "id": 24,
+        "start": 103,
+        "end": 106,
+        "text": " Okay, it looks like you say about basic address, your current address,"
+      },
+      {
+        "id": 25,
+        "start": 106,
+        "end": 108,
+        "text": " whole, metal, metal, right?"
+      },
+      {
+        "id": 26,
+        "start": 109,
+        "end": 110,
+        "text": " Okay, perfect."
+      },
+      {
+        "id": 27,
+        "start": 110,
+        "end": 111,
+        "text": " Yeah, if you want to get..."
+      },
+      {
+        "id": 28,
+        "start": 112,
+        "end": 113,
+        "text": " Okay, perfect."
+      },
+      {
+        "id": 29,
+        "start": 113,
+        "end": 114,
+        "text": " Yeah, if you want to get..."
+      },
+      {
+        "id": 30,
+        "start": 142,
+        "end": 144,
+        "text": " Yeah, that's the price right now."
+      },
+      {
+        "id": 31,
+        "start": 160,
+        "end": 166,
+        "text": " Well, so 10 for a brand new customer is $49, but if you want to do that..."
+      },
+      {
+        "id": 32,
+        "start": 166,
+        "end": 167,
+        "text": " Alright, you're all set, okay?"
+      },
+      {
+        "id": 33,
+        "start": 167,
+        "end": 170,
+        "text": " I'll pause the prescription and stop the monthly."
+      },
+      {
+        "id": 34,
+        "start": 171,
+        "end": 174,
+        "text": " Get your refill caller, so get two refills a year, okay?"
+      },
+      {
+        "id": 35,
+        "start": 175,
+        "end": 176,
+        "text": " Okay."
+      },
+      {
+        "id": 36,
+        "start": 176,
+        "end": 177,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 37,
+        "start": 177,
+        "end": 178,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-81b9-b2b5-d5c43d4e0310",
+    "url": "https://www.notion.so/300000001239370-300000001729045-30411d0a101c81b9b2b5d5c43d4e0310"
+  },
+  "processedAt": "2026-02-11T23:07:06.362Z"
+}

@@ -1,0 +1,356 @@
+{
+  "recording": {
+    "name": "300000001216124-300000001705650-2393627500 by summer@verifiednutrition.com @ 12_11_53 PM.wav",
+    "size": 265390,
+    "modifyTime": 1769589133000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216124-300000001705650-2393627500 by summer@verifiednutrition.com @ 12_11_53 PM.wav",
+    "uploadDate": "2026-01-28T08:32:13.000Z",
+    "callId": "300000001216124-300000001705650",
+    "agent": "summer",
+    "phoneNumber": "2393627500",
+    "callTimestamp": "2026-01-28T12:11:53.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service, how can I help you?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Yes, how can I help you?\n\nSpeaker 2: Yeah, hi, um, I need to change my delivery dates if possible.\n\nSpeaker 1: Okay, can I have your name and birthday?\n\nSpeaker 2: Yeah, 9-30-58 Craig Downs.\n\nSpeaker 1: Thank you, what do you want to change it to?\n\nSpeaker 2: Um, let's see, I need, how about, how far out can I go, like two months?\n\nSpeaker 1: Well, you can go out five months.\n\nSpeaker 2: Okay, let's do three, and if I need it before then I'll call you.\n\nSpeaker 1: Okay, March, April, April.\n\nSpeaker 2: Okay, it's April.\n\nSpeaker 1: Okay, alright.\n\nSpeaker 2: Alrighty, you have one for the day.\n\nSpeaker 1: Oh, I got another question for you too.\n\nSpeaker 2: Um, are these supposed to be the AGVs that you guys advertise all the time?\n\nSpeaker 1: The ones that you're getting?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: No, those are the regular ones.\n\nSpeaker 2: How come I'm not getting the AGVs?\n\nSpeaker 1: I don't know, did you place the order for them?\n\nSpeaker 2: I thought I did, I thought that's what I was ordering when I ordered them.\n\nSpeaker 1: Oh, I'm not sure, does these work for you?\n\nSpeaker 2: Here and there.\n\nSpeaker 1: Okay, I'm going to send you the, um, a couple of the AGVs,\n\nSpeaker 2: and then if you like these and they work better for you, we'll adjust you to this.\n\nSpeaker 1: Okay, are they the same price?\n\nSpeaker 2: Yes, but I'm not going to charge you for it, you're a VIP customer.\n\nSpeaker 1: Okay, alright, so all this time I thought I was getting the AGVs, and I wasn't.\n\nSpeaker 2: Yeah, I'm not sure what happened.\n\nSpeaker 1: Why is that?\n\nSpeaker 2: I'm not sure.\n\nSpeaker 1: I mean, that's a lot of money I've been spending on these.\n\nSpeaker 2: Well, let me get you these so you can see if they work for you, and then we can go from there.\n\nSpeaker 1: Are they 100 milligrams same?\n\nSpeaker 2: Yeah, it'll be 100 milligrams.\n\nSpeaker 1: Okay, and then what happens if they work good for me, then what?\n\nSpeaker 2: You have to call in and we can see what we can do.\n\nSpeaker 1: Okay, very good, fair enough.\n\nSpeaker 2: One second.\n\nSpeaker 1: Yeah, because I thought that's what I was getting.\n\nSpeaker 2: Pardon me?\n\nSpeaker 1: Yeah, I'm not sure what happened.\n\nSpeaker 2: Not for me either.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Well, I'm going to send you these.\n\nSpeaker 1: They'll go out today, try them, and then we'll call back and we'll figure it out.\n\nSpeaker 2: Okay, I appreciate that.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Absolutely.\n\nSpeaker 2: Have a good day.\n\nSpeaker 1: You too, now.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Bye.",
+    "duration": 7499,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling customer service, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 5,
+        "text": " Hello?"
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 7,
+        "text": " Yes, how can I help you?"
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 13,
+        "text": " Yeah, hi, um, I need to change my delivery dates if possible."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 16,
+        "text": " Okay, can I have your name and birthday?"
+      },
+      {
+        "id": 5,
+        "start": 16,
+        "end": 20,
+        "text": " Yeah, 9-30-58 Craig Downs."
+      },
+      {
+        "id": 6,
+        "start": 20,
+        "end": 23,
+        "text": " Thank you, what do you want to change it to?"
+      },
+      {
+        "id": 7,
+        "start": 23,
+        "end": 30,
+        "text": " Um, let's see, I need, how about, how far out can I go, like two months?"
+      },
+      {
+        "id": 8,
+        "start": 30,
+        "end": 33,
+        "text": " Well, you can go out five months."
+      },
+      {
+        "id": 9,
+        "start": 33,
+        "end": 37,
+        "text": " Okay, let's do three, and if I need it before then I'll call you."
+      },
+      {
+        "id": 10,
+        "start": 37,
+        "end": 41,
+        "text": " Okay, March, April, April."
+      },
+      {
+        "id": 11,
+        "start": 41,
+        "end": 44,
+        "text": " Okay, it's April."
+      },
+      {
+        "id": 12,
+        "start": 44,
+        "end": 47,
+        "text": " Okay, alright."
+      },
+      {
+        "id": 13,
+        "start": 47,
+        "end": 49,
+        "text": " Alrighty, you have one for the day."
+      },
+      {
+        "id": 14,
+        "start": 49,
+        "end": 51,
+        "text": " Oh, I got another question for you too."
+      },
+      {
+        "id": 15,
+        "start": 51,
+        "end": 58,
+        "text": " Um, are these supposed to be the AGVs that you guys advertise all the time?"
+      },
+      {
+        "id": 16,
+        "start": 58,
+        "end": 60,
+        "text": " The ones that you're getting?"
+      },
+      {
+        "id": 17,
+        "start": 60,
+        "end": 61,
+        "text": " Yeah."
+      },
+      {
+        "id": 18,
+        "start": 61,
+        "end": 64,
+        "text": " No, those are the regular ones."
+      },
+      {
+        "id": 19,
+        "start": 64,
+        "end": 67,
+        "text": " How come I'm not getting the AGVs?"
+      },
+      {
+        "id": 20,
+        "start": 67,
+        "end": 70,
+        "text": " I don't know, did you place the order for them?"
+      },
+      {
+        "id": 21,
+        "start": 70,
+        "end": 74,
+        "text": " I thought I did, I thought that's what I was ordering when I ordered them."
+      },
+      {
+        "id": 22,
+        "start": 74,
+        "end": 79,
+        "text": " Oh, I'm not sure, does these work for you?"
+      },
+      {
+        "id": 23,
+        "start": 79,
+        "end": 81,
+        "text": " Here and there."
+      },
+      {
+        "id": 24,
+        "start": 81,
+        "end": 85,
+        "text": " Okay, I'm going to send you the, um, a couple of the AGVs,"
+      },
+      {
+        "id": 25,
+        "start": 85,
+        "end": 90,
+        "text": " and then if you like these and they work better for you, we'll adjust you to this."
+      },
+      {
+        "id": 26,
+        "start": 90,
+        "end": 93,
+        "text": " Okay, are they the same price?"
+      },
+      {
+        "id": 27,
+        "start": 93,
+        "end": 97,
+        "text": " Yes, but I'm not going to charge you for it, you're a VIP customer."
+      },
+      {
+        "id": 28,
+        "start": 97,
+        "end": 105,
+        "text": " Okay, alright, so all this time I thought I was getting the AGVs, and I wasn't."
+      },
+      {
+        "id": 29,
+        "start": 105,
+        "end": 108,
+        "text": " Yeah, I'm not sure what happened."
+      },
+      {
+        "id": 30,
+        "start": 108,
+        "end": 110,
+        "text": " Why is that?"
+      },
+      {
+        "id": 31,
+        "start": 110,
+        "end": 111,
+        "text": " I'm not sure."
+      },
+      {
+        "id": 32,
+        "start": 111,
+        "end": 115,
+        "text": " I mean, that's a lot of money I've been spending on these."
+      },
+      {
+        "id": 33,
+        "start": 115,
+        "end": 121,
+        "text": " Well, let me get you these so you can see if they work for you, and then we can go from there."
+      },
+      {
+        "id": 34,
+        "start": 121,
+        "end": 123,
+        "text": " Are they 100 milligrams same?"
+      },
+      {
+        "id": 35,
+        "start": 123,
+        "end": 127,
+        "text": " Yeah, it'll be 100 milligrams."
+      },
+      {
+        "id": 36,
+        "start": 127,
+        "end": 133,
+        "text": " Okay, and then what happens if they work good for me, then what?"
+      },
+      {
+        "id": 37,
+        "start": 133,
+        "end": 137,
+        "text": " You have to call in and we can see what we can do."
+      },
+      {
+        "id": 38,
+        "start": 137,
+        "end": 140,
+        "text": " Okay, very good, fair enough."
+      },
+      {
+        "id": 39,
+        "start": 140,
+        "end": 142,
+        "text": " One second."
+      },
+      {
+        "id": 40,
+        "start": 142,
+        "end": 144,
+        "text": " Yeah, because I thought that's what I was getting."
+      },
+      {
+        "id": 41,
+        "start": 144,
+        "end": 145,
+        "text": " Pardon me?"
+      },
+      {
+        "id": 42,
+        "start": 145,
+        "end": 147,
+        "text": " Yeah, I'm not sure what happened."
+      },
+      {
+        "id": 43,
+        "start": 147,
+        "end": 149,
+        "text": " Not for me either."
+      },
+      {
+        "id": 44,
+        "start": 149,
+        "end": 150,
+        "text": " Okay."
+      },
+      {
+        "id": 45,
+        "start": 150,
+        "end": 152,
+        "text": " Well, I'm going to send you these."
+      },
+      {
+        "id": 46,
+        "start": 152,
+        "end": 156,
+        "text": " They'll go out today, try them, and then we'll call back and we'll figure it out."
+      },
+      {
+        "id": 47,
+        "start": 156,
+        "end": 157,
+        "text": " Okay, I appreciate that."
+      },
+      {
+        "id": 48,
+        "start": 157,
+        "end": 158,
+        "text": " Thank you."
+      },
+      {
+        "id": 49,
+        "start": 158,
+        "end": 159,
+        "text": " You're welcome."
+      },
+      {
+        "id": 50,
+        "start": 159,
+        "end": 160,
+        "text": " Absolutely."
+      },
+      {
+        "id": 51,
+        "start": 160,
+        "end": 161,
+        "text": " Have a good day."
+      },
+      {
+        "id": 52,
+        "start": 161,
+        "end": 162,
+        "text": " You too, now."
+      },
+      {
+        "id": 53,
+        "start": 162,
+        "end": 163,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 54,
+        "start": 163,
+        "end": 164,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-818a-aadd-d861d4794633",
+    "url": "https://www.notion.so/300000001216124-300000001705650-2f611d0a101c818aaaddd861d4794633"
+  },
+  "processedAt": "2026-01-28T12:58:28.139Z"
+}

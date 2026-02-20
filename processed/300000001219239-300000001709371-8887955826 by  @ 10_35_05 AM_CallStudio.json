@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001219239-300000001709371-8887955826 by  @ 10_35_05 AM_CallStudio.wav",
+    "size": 22226,
+    "modifyTime": 1769585239000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219239-300000001709371-8887955826 by  @ 10_35_05 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:27:19.000Z",
+    "callId": "300000001219239-300000001709371",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T07:27:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Cancel.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Transferring to agent.",
+    "duration": 898,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.320000171661377,
+        "end": 6.800000190734863,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.119999885559082,
+        "end": 8.600000381469727,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.65999984741211,
+        "end": 10.119999885559082,
+        "text": " Cancel."
+      },
+      {
+        "id": 4,
+        "start": 12.0600004196167,
+        "end": 12.359999656677246,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 12.359999656677246,
+        "end": 13.300000190734863,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ed-a7a0-fd389b27ac26",
+    "url": "https://www.notion.so/300000001219239-300000001709371-2f611d0a101c81eda7a0fd389b27ac26"
+  },
+  "processedAt": "2026-01-28T14:27:33.605Z"
+}

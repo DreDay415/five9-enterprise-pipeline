@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001221971-300000001711609-8155271366 by  @ 5_00_08 PM_CallStudio.wav",
+    "size": 23656,
+    "modifyTime": 1769648444000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221971-300000001711609-8155271366 by  @ 5_00_08 PM_CallStudio.wav",
+    "uploadDate": "2026-01-29T01:00:44.000Z",
+    "callId": "300000001221971-300000001711609",
+    "phoneNumber": "8155271366",
+    "callTimestamp": "2026-01-29T01:00:44.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Oh no, fuck off, god damn it, this piece of shit.\n\nSpeaker 2: Thanks, transferring to agent.",
+    "duration": 1368,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.960000038146973,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.960000038146973,
+        "end": 6.960000038146973,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.960000038146973,
+        "end": 13.039999961853027,
+        "text": " Oh no, fuck off, god damn it, this piece of shit."
+      },
+      {
+        "id": 3,
+        "start": 13.039999961853027,
+        "end": 14.199999809265137,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8134-b4d9-c6915698d147",
+    "url": "https://www.notion.so/300000001221971-300000001711609-2f711d0a101c8134b4d9c6915698d147"
+  },
+  "processedAt": "2026-01-29T10:02:36.984Z"
+}

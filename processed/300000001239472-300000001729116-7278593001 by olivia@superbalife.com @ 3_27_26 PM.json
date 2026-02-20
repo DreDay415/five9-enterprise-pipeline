@@ -1,0 +1,326 @@
+{
+  "recording": {
+    "name": "300000001239472-300000001729116-7278593001 by olivia@superbalife.com @ 3_27_26 PM.wav",
+    "size": 251870,
+    "modifyTime": 1770852622000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239472-300000001729116-7278593001 by olivia@superbalife.com @ 3_27_26 PM.wav",
+    "uploadDate": "2026-02-11T23:30:22.000Z",
+    "callId": "300000001239472-300000001729116",
+    "agent": "olivia",
+    "phoneNumber": "7278593001",
+    "callTimestamp": "2026-02-11T15:27:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, this is Olivia speaking.\n\nSpeaker 2: Who do I have the pleasure of speaking with today?\n\nSpeaker 1: Hi, this is William Griffin.\n\nSpeaker 2: Hi William, how are you?\n\nSpeaker 1: Doing good.\n\nSpeaker 2: Good.\n\nSpeaker 1: Great, so how can I help you today?\n\nSpeaker 2: I'm just trying to cancel my subscription.\n\nSpeaker 1: Yeah, I can help you with that.\n\nSpeaker 2: Alright William, so what is your date of birth?\n\nSpeaker 1: My date, 21-1975.\n\nSpeaker 2: Perfect, and you're located at 3504 Blayton Street,\n\nSpeaker 1: New Port Richey, Florida?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Yeah, so I see you here.\n\nSpeaker 2: Yeah, so if you don't want to receive regular refills\n\nSpeaker 1: with your prescription, you certainly don't have to.\n\nSpeaker 2: You always have the option to place your prescription\n\nSpeaker 1: on hold for up to six months at a time,\n\nSpeaker 2: because six months is when the prescription would expire\n\nSpeaker 1: if we didn't refill it, and the way that would work\n\nSpeaker 2: is whenever you are ready to order,\n\nSpeaker 1: if it is before then, you can,\n\nSpeaker 2: you just have to give us a call to place the order yourself.\n\nSpeaker 1: Okay, yeah, I'd rather just cancel it for now.\n\nSpeaker 2: Okay, so the pills, they don't work for you?\n\nSpeaker 1: I think I have some, I was gonna try them out,\n\nSpeaker 2: and if I want to get back to it, I will.\n\nSpeaker 1: I just need to cancel it for now.\n\nSpeaker 2: Yeah, okay, so I'll place the script on hold for you,\n\nSpeaker 1: and then once you try them,\n\nSpeaker 2: I mean if they don't work for you for any reason,\n\nSpeaker 1: just let us know before August,\n\nSpeaker 2: so that the prescription is at least available to you\n\nSpeaker 1: if they do work out for you.\n\nSpeaker 2: They're always here, Monday through Friday, eight to five.\n\nSpeaker 1: Okay, but I can't just cancel it for now,\n\nSpeaker 2: and then, you know, the subscription?\n\nSpeaker 1: Well, yeah, no, the prescription is now,\n\nSpeaker 2: I don't want to just pause it, I don't want to just pause it.\n\nSpeaker 1: The prescription is on hold,\n\nSpeaker 2: so you wouldn't receive anything during that time.\n\nSpeaker 1: Yeah, I don't want to put it on hold,\n\nSpeaker 2: I just want to cancel it.\n\nSpeaker 1: But you haven't tried the pills.\n\nSpeaker 2: Yeah, I know, that's irrelevant,\n\nSpeaker 1: I just want to cancel the subscription.\n\nSpeaker 2: Right, so, like, if you do try the pills,\n\nSpeaker 1: I can't, unless I try the pills, that doesn't make sense.\n\nSpeaker 2: I'll call someone.",
+    "duration": 7670,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.440000057220459,
+        "text": " Thank you for calling Viagra, this is Olivia speaking."
+      },
+      {
+        "id": 1,
+        "start": 4.440000057220459,
+        "end": 7.960000038146973,
+        "text": " Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 2,
+        "start": 7.960000038146973,
+        "end": 10.460000038146973,
+        "text": " Hi, this is William Griffin."
+      },
+      {
+        "id": 3,
+        "start": 10.460000038146973,
+        "end": 13,
+        "text": " Hi William, how are you?"
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 14,
+        "text": " Doing good."
+      },
+      {
+        "id": 5,
+        "start": 15.140000343322754,
+        "end": 15.979999542236328,
+        "text": " Good."
+      },
+      {
+        "id": 6,
+        "start": 17.600000381469727,
+        "end": 20.360000610351562,
+        "text": " Great, so how can I help you today?"
+      },
+      {
+        "id": 7,
+        "start": 20.360000610351562,
+        "end": 24.020000457763672,
+        "text": " I'm just trying to cancel my subscription."
+      },
+      {
+        "id": 8,
+        "start": 24.020000457763672,
+        "end": 25.84000015258789,
+        "text": " Yeah, I can help you with that."
+      },
+      {
+        "id": 9,
+        "start": 25.84000015258789,
+        "end": 29.8799991607666,
+        "text": " Alright William, so what is your date of birth?"
+      },
+      {
+        "id": 10,
+        "start": 29.8799991607666,
+        "end": 31.299999237060547,
+        "text": " My date, 21-1975."
+      },
+      {
+        "id": 11,
+        "start": 34.060001373291016,
+        "end": 38.84000015258789,
+        "text": " Perfect, and you're located at 3504 Blayton Street,"
+      },
+      {
+        "id": 12,
+        "start": 38.84000015258789,
+        "end": 41.060001373291016,
+        "text": " New Port Richey, Florida?"
+      },
+      {
+        "id": 13,
+        "start": 41.060001373291016,
+        "end": 41.900001525878906,
+        "text": " Yes."
+      },
+      {
+        "id": 14,
+        "start": 42.79999923706055,
+        "end": 45.02000045776367,
+        "text": " Yeah, so I see you here."
+      },
+      {
+        "id": 15,
+        "start": 45.02000045776367,
+        "end": 48.81999969482422,
+        "text": " Yeah, so if you don't want to receive regular refills"
+      },
+      {
+        "id": 16,
+        "start": 48.81999969482422,
+        "end": 52.279998779296875,
+        "text": " with your prescription, you certainly don't have to."
+      },
+      {
+        "id": 17,
+        "start": 52.279998779296875,
+        "end": 55.41999816894531,
+        "text": " You always have the option to place your prescription"
+      },
+      {
+        "id": 18,
+        "start": 55.41999816894531,
+        "end": 58.540000915527344,
+        "text": " on hold for up to six months at a time,"
+      },
+      {
+        "id": 19,
+        "start": 58.540000915527344,
+        "end": 62.279998779296875,
+        "text": " because six months is when the prescription would expire"
+      },
+      {
+        "id": 20,
+        "start": 62.279998779296875,
+        "end": 65.83999633789062,
+        "text": " if we didn't refill it, and the way that would work"
+      },
+      {
+        "id": 21,
+        "start": 65.83999633789062,
+        "end": 69.12000274658203,
+        "text": " is whenever you are ready to order,"
+      },
+      {
+        "id": 22,
+        "start": 69.12000274658203,
+        "end": 72.41999816894531,
+        "text": " if it is before then, you can,"
+      },
+      {
+        "id": 23,
+        "start": 72.41999816894531,
+        "end": 76.58000183105469,
+        "text": " you just have to give us a call to place the order yourself."
+      },
+      {
+        "id": 24,
+        "start": 78.95999908447266,
+        "end": 82.87999725341797,
+        "text": " Okay, yeah, I'd rather just cancel it for now."
+      },
+      {
+        "id": 25,
+        "start": 83.80000305175781,
+        "end": 87.76000213623047,
+        "text": " Okay, so the pills, they don't work for you?"
+      },
+      {
+        "id": 26,
+        "start": 87.77999877929688,
+        "end": 89.55999755859375,
+        "text": " I think I have some, I was gonna try them out,"
+      },
+      {
+        "id": 27,
+        "start": 89.55999755859375,
+        "end": 91.36000061035156,
+        "text": " and if I want to get back to it, I will."
+      },
+      {
+        "id": 28,
+        "start": 91.36000061035156,
+        "end": 94.12000274658203,
+        "text": " I just need to cancel it for now."
+      },
+      {
+        "id": 29,
+        "start": 95.66000366210938,
+        "end": 100.41999816894531,
+        "text": " Yeah, okay, so I'll place the script on hold for you,"
+      },
+      {
+        "id": 30,
+        "start": 100.41999816894531,
+        "end": 103.05999755859375,
+        "text": " and then once you try them,"
+      },
+      {
+        "id": 31,
+        "start": 103.05999755859375,
+        "end": 106.45999908447266,
+        "text": " I mean if they don't work for you for any reason,"
+      },
+      {
+        "id": 32,
+        "start": 106.45999908447266,
+        "end": 109.45999908447266,
+        "text": " just let us know before August,"
+      },
+      {
+        "id": 33,
+        "start": 109.45999908447266,
+        "end": 112.41999816894531,
+        "text": " so that the prescription is at least available to you"
+      },
+      {
+        "id": 34,
+        "start": 112.41999816894531,
+        "end": 115.22000122070312,
+        "text": " if they do work out for you."
+      },
+      {
+        "id": 35,
+        "start": 115.22000122070312,
+        "end": 119.31999969482422,
+        "text": " They're always here, Monday through Friday, eight to five."
+      },
+      {
+        "id": 36,
+        "start": 119.31999969482422,
+        "end": 121.12000274658203,
+        "text": " Okay, but I can't just cancel it for now,"
+      },
+      {
+        "id": 37,
+        "start": 121.12000274658203,
+        "end": 124.19999694824219,
+        "text": " and then, you know, the subscription?"
+      },
+      {
+        "id": 38,
+        "start": 125.87999725341797,
+        "end": 127.76000213623047,
+        "text": " Well, yeah, no, the prescription is now,"
+      },
+      {
+        "id": 39,
+        "start": 127.76000213623047,
+        "end": 129.9600067138672,
+        "text": " I don't want to just pause it, I don't want to just pause it."
+      },
+      {
+        "id": 40,
+        "start": 129.9600067138672,
+        "end": 130.8000030517578,
+        "text": " The prescription is on hold,"
+      },
+      {
+        "id": 41,
+        "start": 130.8000030517578,
+        "end": 133.4199981689453,
+        "text": " so you wouldn't receive anything during that time."
+      },
+      {
+        "id": 42,
+        "start": 133.4199981689453,
+        "end": 134.75999450683594,
+        "text": " Yeah, I don't want to put it on hold,"
+      },
+      {
+        "id": 43,
+        "start": 134.75999450683594,
+        "end": 136.9199981689453,
+        "text": " I just want to cancel it."
+      },
+      {
+        "id": 44,
+        "start": 137.9199981689453,
+        "end": 140.5800018310547,
+        "text": " But you haven't tried the pills."
+      },
+      {
+        "id": 45,
+        "start": 142.27999877929688,
+        "end": 144.22000122070312,
+        "text": " Yeah, I know, that's irrelevant,"
+      },
+      {
+        "id": 46,
+        "start": 144.22000122070312,
+        "end": 147.0800018310547,
+        "text": " I just want to cancel the subscription."
+      },
+      {
+        "id": 47,
+        "start": 148.52000427246094,
+        "end": 151.9600067138672,
+        "text": " Right, so, like, if you do try the pills,"
+      },
+      {
+        "id": 48,
+        "start": 151.9600067138672,
+        "end": 154.16000366210938,
+        "text": " I can't, unless I try the pills, that doesn't make sense."
+      },
+      {
+        "id": 49,
+        "start": 154.16000366210938,
+        "end": 155.1199951171875,
+        "text": " I'll call someone."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81a8-97c4-d0ab9f7ad5f2",
+    "url": "https://www.notion.so/300000001239472-300000001729116-30511d0a101c81a897c4d0ab9f7ad5f2"
+  },
+  "processedAt": "2026-02-12T00:10:20.660Z"
+}

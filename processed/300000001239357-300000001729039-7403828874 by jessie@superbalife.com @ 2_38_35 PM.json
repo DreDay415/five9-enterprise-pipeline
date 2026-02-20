@@ -1,0 +1,188 @@
+{
+  "recording": {
+    "name": "300000001239357-300000001729039-7403828874 by jessie@superbalife.com @ 2_38_35 PM.wav",
+    "size": 153786,
+    "modifyTime": 1770849629000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239357-300000001729039-7403828874 by jessie@superbalife.com @ 2_38_35 PM.wav",
+    "uploadDate": "2026-02-11T22:40:29.000Z",
+    "callId": "300000001239357-300000001729039",
+    "agent": "jessie",
+    "phoneNumber": "7403828874",
+    "callTimestamp": "2026-02-11T14:38:35.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi. Thank you so much for calling Viagra. My name is Jessie. Can I get your first and last name?\n\nSpeaker 2: Harold Simpkins.\n\nSpeaker 1: All right. And Mr. Simpkins, what is your zip code?\n\nSpeaker 2: 43302.\n\nSpeaker 1: Thank you. Are you still at 1129 Richland Road in Marion, Ohio?\n\nSpeaker 2: I am.\n\nSpeaker 1: All righty then. Let's take a quick look. And then what can I help you with today?\n\nSpeaker 2: Okay. I must have hit the wrong button there. They sent me another prescription.\n\nSpeaker 1: So I must be on a monthly bill or something. I don't know.\n\nSpeaker 2: Oh, okay. Yeah. Now, would you like me to turn that off?\n\nSpeaker 1: I would, please.\n\nSpeaker 2: Okay. Let me go ahead and do that for you.\n\nSpeaker 1: Just a quick question, though. Would you prefer that it be on demand, meaning you can just order whenever you feel like it?\n\nSpeaker 2: Do you want to set it up like that?\n\nSpeaker 1: Yeah, that would be fine.\n\nSpeaker 2: Okay. Let me do that. And hold on one second.\n\nSpeaker 1: So this is on demand. You can order whenever you, you know, you won't get anything in the mail, nothing random.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Bear in mind, though, to keep your prescription active if you do not order anything after six months.\n\nSpeaker 2: Okay.\n\nSpeaker 1: It does say one refill, and that's it. Okay?\n\nSpeaker 2: Okay. All right.\n\nSpeaker 1: All right. Thank you so much.\n\nSpeaker 2: I appreciate your time.\n\nSpeaker 1: You have a great day.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Thank you. Bye-bye.",
+    "duration": 3704,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi. Thank you so much for calling Viagra. My name is Jessie. Can I get your first and last name?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 7,
+        "text": " Harold Simpkins."
+      },
+      {
+        "id": 2,
+        "start": 15,
+        "end": 18,
+        "text": " All right. And Mr. Simpkins, what is your zip code?"
+      },
+      {
+        "id": 3,
+        "start": 18,
+        "end": 21,
+        "text": " 43302."
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 26,
+        "text": " Thank you. Are you still at 1129 Richland Road in Marion, Ohio?"
+      },
+      {
+        "id": 5,
+        "start": 26,
+        "end": 28,
+        "text": " I am."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 33,
+        "text": " All righty then. Let's take a quick look. And then what can I help you with today?"
+      },
+      {
+        "id": 7,
+        "start": 33,
+        "end": 38,
+        "text": " Okay. I must have hit the wrong button there. They sent me another prescription."
+      },
+      {
+        "id": 8,
+        "start": 38,
+        "end": 42,
+        "text": " So I must be on a monthly bill or something. I don't know."
+      },
+      {
+        "id": 9,
+        "start": 42,
+        "end": 45,
+        "text": " Oh, okay. Yeah. Now, would you like me to turn that off?"
+      },
+      {
+        "id": 10,
+        "start": 45,
+        "end": 47,
+        "text": " I would, please."
+      },
+      {
+        "id": 11,
+        "start": 47,
+        "end": 49,
+        "text": " Okay. Let me go ahead and do that for you."
+      },
+      {
+        "id": 12,
+        "start": 49,
+        "end": 56,
+        "text": " Just a quick question, though. Would you prefer that it be on demand, meaning you can just order whenever you feel like it?"
+      },
+      {
+        "id": 13,
+        "start": 56,
+        "end": 58,
+        "text": " Do you want to set it up like that?"
+      },
+      {
+        "id": 14,
+        "start": 58,
+        "end": 60,
+        "text": " Yeah, that would be fine."
+      },
+      {
+        "id": 15,
+        "start": 60,
+        "end": 71,
+        "text": " Okay. Let me do that. And hold on one second."
+      },
+      {
+        "id": 16,
+        "start": 71,
+        "end": 78,
+        "text": " So this is on demand. You can order whenever you, you know, you won't get anything in the mail, nothing rando."
+      },
+      {
+        "id": 17,
+        "start": 78,
+        "end": 79,
+        "text": " Okay."
+      },
+      {
+        "id": 18,
+        "start": 79,
+        "end": 84,
+        "text": " Bear in mind, though, to keep your prescription active if you do not order anything after six months."
+      },
+      {
+        "id": 19,
+        "start": 84,
+        "end": 85,
+        "text": " Okay."
+      },
+      {
+        "id": 20,
+        "start": 85,
+        "end": 88,
+        "text": " It does say one refill, and that's it. Okay?"
+      },
+      {
+        "id": 21,
+        "start": 88,
+        "end": 90,
+        "text": " Okay. All right."
+      },
+      {
+        "id": 22,
+        "start": 90,
+        "end": 91,
+        "text": " All right. Thank you so much."
+      },
+      {
+        "id": 23,
+        "start": 91,
+        "end": 92,
+        "text": " I appreciate your time."
+      },
+      {
+        "id": 24,
+        "start": 92,
+        "end": 93,
+        "text": " You have a great day."
+      },
+      {
+        "id": 25,
+        "start": 93,
+        "end": 94,
+        "text": " Thank you."
+      },
+      {
+        "id": 26,
+        "start": 94,
+        "end": 95,
+        "text": " Thank you. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-818b-85a2-d8d1fc8bef16",
+    "url": "https://www.notion.so/300000001239357-300000001729039-30411d0a101c818b85a2d8d1fc8bef16"
+  },
+  "processedAt": "2026-02-11T23:08:38.645Z"
+}

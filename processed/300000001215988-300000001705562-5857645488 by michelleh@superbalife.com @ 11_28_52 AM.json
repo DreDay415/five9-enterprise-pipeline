@@ -1,0 +1,38 @@
+{
+  "recording": {
+    "name": "300000001215988-300000001705562-5857645488 by michelleh@superbalife.com @ 11_28_52 AM.wav",
+    "size": 19690,
+    "modifyTime": 1769196559000,
+    "remotePath": "/five9sftp/recordings/SB CS/1_23_2026/300000001215988-300000001705562-5857645488 by michelleh@superbalife.com @ 11_28_52 AM.wav",
+    "uploadDate": "2026-01-23T19:29:19.000Z",
+    "callId": "300000001215988-300000001705562",
+    "agent": "michelleh",
+    "phoneNumber": "5857645488",
+    "callTimestamp": "2026-01-23T19:28:52.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Hello?",
+    "duration": 725,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 12,
+        "text": " Hello?"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f411d0a-101c-8191-b9cd-cc1cdcd18b9f",
+    "url": "https://www.notion.so/300000001215988-300000001705562-2f411d0a101c8191b9cdcc1cdcd18b9f"
+  },
+  "processedAt": "2026-01-26T21:33:25.463Z"
+}

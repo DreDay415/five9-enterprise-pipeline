@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001216874-300000001707366-7202980790 by  @ 8_20_19 AM_CallStudio.wav",
+    "size": 30936,
+    "modifyTime": 1769584630000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216874-300000001707366-7202980790 by  @ 8_20_19 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:17:10.000Z",
+    "callId": "300000001216874-300000001707366",
+    "phoneNumber": "7202980790",
+    "callTimestamp": "2026-01-28T07:17:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español marque numero nueve.\n\nSpeaker 2: I cannot get a boner with my pills.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1457,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.099999904632568,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.099999904632568,
+        "end": 7.099999904632568,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.099999904632568,
+        "end": 11.720000267028809,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 11.720000267028809,
+        "end": 17.440000534057617,
+        "text": " I cannot get a boner with my pills."
+      },
+      {
+        "id": 4,
+        "start": 17.440000534057617,
+        "end": 18.600000381469727,
+        "text": " Thanks Transferring to Agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8136-aa4b-f87c9ae1dc11",
+    "url": "https://www.notion.so/300000001216874-300000001707366-2f611d0a101c8136aa4bf87c9ae1dc11"
+  },
+  "processedAt": "2026-01-28T15:07:20.710Z"
+}

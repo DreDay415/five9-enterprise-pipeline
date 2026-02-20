@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001222842-300000001712483-4083482250 by  @ 12_35_40 PM_CallStudio.wav",
+    "size": 24176,
+    "modifyTime": 1769718979000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222842-300000001712483-4083482250 by  @ 12_35_40 PM_CallStudio.wav",
+    "uploadDate": "2026-01-29T20:36:19.000Z",
+    "callId": "300000001222842-300000001712483",
+    "phoneNumber": "4083482250",
+    "callTimestamp": "2026-01-29T20:36:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español marque numero nueve.\n\nSpeaker 2: Suspend.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Transfer to agent.",
+    "duration": 985,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.159999847412109,
+        "end": 7.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.159999847412109,
+        "end": 10.960000038146973,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.960000038146973,
+        "end": 11.960000038146973,
+        "text": " Suspend."
+      },
+      {
+        "id": 4,
+        "start": 11.960000038146973,
+        "end": 12.960000038146973,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 12.960000038146973,
+        "end": 14.5600004196167,
+        "text": " Transfer to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81a8-a63a-c6132827eac7",
+    "url": "https://www.notion.so/300000001222842-300000001712483-2f711d0a101c81a8a63ac6132827eac7"
+  },
+  "processedAt": "2026-01-29T21:31:03.152Z"
+}

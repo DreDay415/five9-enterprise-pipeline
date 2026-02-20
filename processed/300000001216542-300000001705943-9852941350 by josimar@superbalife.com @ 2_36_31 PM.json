@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "name": "300000001216542-300000001705943-9852941350 by josimar@superbalife.com @ 2_36_31 PM.wav",
+    "size": 10460,
+    "modifyTime": 1769600529000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216542-300000001705943-9852941350 by josimar@superbalife.com @ 2_36_31 PM.wav",
+    "uploadDate": "2026-01-28T11:42:09.000Z",
+    "callId": "300000001216542-300000001705943",
+    "agent": "josimar",
+    "phoneNumber": "9852941350",
+    "callTimestamp": "2026-01-28T14:36:31.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, I can help you today.",
+    "duration": 611,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.440000057220459,
+        "text": " Thank you for calling Viagra, I can help you today."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8101-9a7f-c8b2bb2dff8f",
+    "url": "https://www.notion.so/300000001216542-300000001705943-2f611d0a101c81019a7fc8b2bb2dff8f"
+  },
+  "processedAt": "2026-01-28T19:11:39.173Z"
+}

@@ -1,0 +1,362 @@
+{
+  "recording": {
+    "name": "300000001221920-300000001711567-2142137141 by olivier@superbalife.com @ 4_14_51 PM.wav",
+    "size": 217680,
+    "modifyTime": 1769645848000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221920-300000001711567-2142137141 by olivier@superbalife.com @ 4_14_51 PM.wav",
+    "uploadDate": "2026-01-29T00:17:28.000Z",
+    "callId": "300000001221920-300000001711567",
+    "agent": "olivier",
+    "phoneNumber": "2142137141",
+    "callTimestamp": "2026-01-29T16:14:51.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Yes.\n\nSpeaker 1: My name is David Sebastian.\n\nSpeaker 2: Yes, sir.\n\nSpeaker 1: And I'd like to...\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: Mr. David Sebastian, how can I help you, sir?\n\nSpeaker 1: I'd like to cancel my subscription.\n\nSpeaker 2: You just don't need to refill your prescription?\n\nSpeaker 1: Would you like to order as needed so we can stop if you don't need to month it?\n\nSpeaker 2: Because I see you just had to refill, so you prefer to order yourself as needed?\n\nSpeaker 1: I just want to...\n\nSpeaker 2: I wasn't aware that I was going to be charged monthly and need it monthly.\n\nSpeaker 1: I mean, you don't have to get it.\n\nSpeaker 2: That was the initial prescription from Dr. Tariq because you ordered 10, and it was 30 days in the month.\n\nSpeaker 1: So the doctor is assuming that you're active.\n\nSpeaker 2: But when you're not, when you called, we're understanding right away that, you know, you probably don't need your refill.\n\nSpeaker 1: So we tell the pharmacy to pause everything so you can just order as needed because obviously it's not necessary.\n\nSpeaker 2: No, well, look, they've already charged...\n\nSpeaker 1: Listen to me.\n\nSpeaker 2: Hold on a minute.\n\nSpeaker 1: They've already charged me for another refill.\n\nSpeaker 2: A refill, yeah.\n\nSpeaker 1: And I did not order that.\n\nSpeaker 2: Yes, and I was saying, do you want me to stop them the monthly so you can order yourself and don't get charged on the monthly?\n\nSpeaker 1: But you're just going to order as needed?\n\nSpeaker 2: I'm going to order as needed, yes.\n\nSpeaker 1: Yes, so that's what I'm offering because I understood your concern.\n\nSpeaker 2: You know what I mean?\n\nSpeaker 1: Well, you know, it's really not working that well anyway.\n\nSpeaker 2: And actually, I would just as soon just, you know, stop the subscription altogether.\n\nSpeaker 1: That's your first time taking Viagra?\n\nSpeaker 2: No, I've taken it before.\n\nSpeaker 1: A while ago before that new prescription?\n\nSpeaker 2: Look, I just want to cancel my subscription.\n\nSpeaker 1: Can I do that?\n\nSpeaker 2: Yes.\n\nSpeaker 1: I apologize to ask you a question.\n\nSpeaker 2: We try to assess to help patients understand what is the issue.\n\nSpeaker 1: I apologize to ask you a question.\n\nSpeaker 2: So I'm canceling everything.\n\nSpeaker 1: Okay?\n\nSpeaker 2: You're good to go.\n\nSpeaker 1: All right.\n\nSpeaker 2: You all set.\n\nSpeaker 1: I'll cancel your account and everything.\n\nSpeaker 2: Okay?\n\nSpeaker 1: Okay.\n\nSpeaker 2: And that's all I need to do.\n\nSpeaker 1: Okay.\n\nSpeaker 2: No, that's all.\n\nSpeaker 1: You have a good one.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye.",
+    "duration": 7726,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 4,
+        "text": " Yes."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 6,
+        "text": " My name is David Sebastian."
+      },
+      {
+        "id": 3,
+        "start": 6,
+        "end": 8,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 4,
+        "start": 8,
+        "end": 10,
+        "text": " And I'd like to..."
+      },
+      {
+        "id": 5,
+        "start": 10,
+        "end": 11,
+        "text": " Okay."
+      },
+      {
+        "id": 6,
+        "start": 11,
+        "end": 12,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 7,
+        "start": 12,
+        "end": 15,
+        "text": " Mr. David Sebastian, how can I help you, sir?"
+      },
+      {
+        "id": 8,
+        "start": 15,
+        "end": 18,
+        "text": " I'd like to cancel my subscription."
+      },
+      {
+        "id": 9,
+        "start": 18,
+        "end": 21,
+        "text": " You just don't need to refill your prescription?"
+      },
+      {
+        "id": 10,
+        "start": 21,
+        "end": 26,
+        "text": " Would you like to order as needed so we can stop if you don't need to month it?"
+      },
+      {
+        "id": 11,
+        "start": 26,
+        "end": 31,
+        "text": " Because I see you just had to refill, so you prefer to order yourself as needed?"
+      },
+      {
+        "id": 12,
+        "start": 31,
+        "end": 33,
+        "text": " I just want to..."
+      },
+      {
+        "id": 13,
+        "start": 33,
+        "end": 37,
+        "text": " I wasn't aware that I was going to be charged monthly and need it monthly."
+      },
+      {
+        "id": 14,
+        "start": 37,
+        "end": 39,
+        "text": " I mean, you don't have to get it."
+      },
+      {
+        "id": 15,
+        "start": 39,
+        "end": 44,
+        "text": " That was the initial prescription from Dr. Tariq because you ordered 10, and it was 30 days in the month."
+      },
+      {
+        "id": 16,
+        "start": 44,
+        "end": 46,
+        "text": " So the doctor is assuming that you're active."
+      },
+      {
+        "id": 17,
+        "start": 46,
+        "end": 51,
+        "text": " But when you're not, when you called, we're understanding right away that, you know, you probably don't need your refill."
+      },
+      {
+        "id": 18,
+        "start": 52,
+        "end": 57,
+        "text": " So we tell the pharmacy to pause everything so you can just order as needed because obviously it's not necessary."
+      },
+      {
+        "id": 19,
+        "start": 57,
+        "end": 59,
+        "text": " No, well, look, they've already charged..."
+      },
+      {
+        "id": 20,
+        "start": 59,
+        "end": 60,
+        "text": " Listen to me."
+      },
+      {
+        "id": 21,
+        "start": 60,
+        "end": 61,
+        "text": " Hold on a minute."
+      },
+      {
+        "id": 22,
+        "start": 61,
+        "end": 64,
+        "text": " They've already charged me for another refill."
+      },
+      {
+        "id": 23,
+        "start": 64,
+        "end": 65,
+        "text": " A refill, yeah."
+      },
+      {
+        "id": 24,
+        "start": 65,
+        "end": 67,
+        "text": " And I did not order that."
+      },
+      {
+        "id": 25,
+        "start": 67,
+        "end": 73,
+        "text": " Yes, and I was saying, do you want me to stop them the monthly so you can order yourself and don't get charged on the monthly?"
+      },
+      {
+        "id": 26,
+        "start": 73,
+        "end": 75,
+        "text": " But you're just going to order as needed?"
+      },
+      {
+        "id": 27,
+        "start": 75,
+        "end": 78,
+        "text": " I'm going to order as needed, yes."
+      },
+      {
+        "id": 28,
+        "start": 78,
+        "end": 81,
+        "text": " Yes, so that's what I'm offering because I understood your concern."
+      },
+      {
+        "id": 29,
+        "start": 81,
+        "end": 83,
+        "text": " You know what I mean?"
+      },
+      {
+        "id": 30,
+        "start": 83,
+        "end": 87,
+        "text": " Well, you know, it's really not working that well anyway."
+      },
+      {
+        "id": 31,
+        "start": 87,
+        "end": 92,
+        "text": " And actually, I would just as soon just, you know, stop the subscription altogether."
+      },
+      {
+        "id": 32,
+        "start": 92,
+        "end": 95,
+        "text": " That's your first time taking Viagra?"
+      },
+      {
+        "id": 33,
+        "start": 96,
+        "end": 99,
+        "text": " No, I've taken it before."
+      },
+      {
+        "id": 34,
+        "start": 99,
+        "end": 102,
+        "text": " A while ago before that new prescription?"
+      },
+      {
+        "id": 35,
+        "start": 102,
+        "end": 105,
+        "text": " Look, I just want to cancel my subscription."
+      },
+      {
+        "id": 36,
+        "start": 105,
+        "end": 106,
+        "text": " Can I do that?"
+      },
+      {
+        "id": 37,
+        "start": 106,
+        "end": 107,
+        "text": " Yes."
+      },
+      {
+        "id": 38,
+        "start": 107,
+        "end": 109,
+        "text": " I apologize to ask you a question."
+      },
+      {
+        "id": 39,
+        "start": 109,
+        "end": 112,
+        "text": " We try to assess to help patients understand what is the issue."
+      },
+      {
+        "id": 40,
+        "start": 112,
+        "end": 114,
+        "text": " I apologize to ask you a question."
+      },
+      {
+        "id": 41,
+        "start": 114,
+        "end": 115,
+        "text": " So I'm canceling everything."
+      },
+      {
+        "id": 42,
+        "start": 115,
+        "end": 116,
+        "text": " Okay?"
+      },
+      {
+        "id": 43,
+        "start": 116,
+        "end": 117,
+        "text": " You're good to go."
+      },
+      {
+        "id": 44,
+        "start": 117,
+        "end": 119,
+        "text": " All right."
+      },
+      {
+        "id": 45,
+        "start": 119,
+        "end": 120,
+        "text": " You all set."
+      },
+      {
+        "id": 46,
+        "start": 120,
+        "end": 122,
+        "text": " I'll cancel your account and everything."
+      },
+      {
+        "id": 47,
+        "start": 122,
+        "end": 123,
+        "text": " Okay?"
+      },
+      {
+        "id": 48,
+        "start": 123,
+        "end": 124,
+        "text": " Okay."
+      },
+      {
+        "id": 49,
+        "start": 124,
+        "end": 127,
+        "text": " And that's all I need to do."
+      },
+      {
+        "id": 50,
+        "start": 127,
+        "end": 128,
+        "text": " Okay."
+      },
+      {
+        "id": 51,
+        "start": 128,
+        "end": 129,
+        "text": " No, that's all."
+      },
+      {
+        "id": 52,
+        "start": 129,
+        "end": 130,
+        "text": " You have a good one."
+      },
+      {
+        "id": 53,
+        "start": 130,
+        "end": 131,
+        "text": " Thank you."
+      },
+      {
+        "id": 54,
+        "start": 131,
+        "end": 132,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 55,
+        "start": 132,
+        "end": 133,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8128-ac99-db2fdee9b00d",
+    "url": "https://www.notion.so/300000001221920-300000001711567-2f711d0a101c8128ac99db2fdee9b00d"
+  },
+  "processedAt": "2026-01-29T10:12:11.712Z"
+}

@@ -1,0 +1,194 @@
+{
+  "recording": {
+    "name": "300000001220923-300000001710925-9842274600 by nickh@superbalife.com @ 10_35_09 AM.wav",
+    "size": 197530,
+    "modifyTime": 1769625453000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220923-300000001710925-9842274600 by nickh@superbalife.com @ 10_35_09 AM.wav",
+    "uploadDate": "2026-01-28T18:37:33.000Z",
+    "callId": "300000001220923-300000001710925",
+    "agent": "nickh",
+    "phoneNumber": "9842274600",
+    "callTimestamp": "2026-01-28T10:35:09.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra, Escort Blue. How can I help you today?\n\nSpeaker 2: Hi, how are you? This is Mario. I was calling you last week.\n\nSpeaker 1: I got the refill for my medication on Wednesday I believe,\n\nSpeaker 2: and I just wanted to suspend the auto-delivery for a while until May.\n\nSpeaker 1: But I don't know if the medicine has already been shipped.\n\nSpeaker 2: Let me take a look sir. Could I get your full name and date of birth?\n\nSpeaker 1: Yes, Mario Gomez, D-O-M-E-Z, 10-11-1977.\n\nSpeaker 2: Okay, so I see the prescription, yes, so that one went through on the 22nd.\n\nSpeaker 1: It appears that it's set to be delivered, or was delivered just yesterday at 3 p.m.\n\nSpeaker 2: Oh, so I already got it?\n\nSpeaker 1: Yeah, it's at 129 West 31st Street.\n\nSpeaker 2: Yep.\n\nSpeaker 1: Yeah, it said it was dropped off at the front desk reception mail room.\n\nSpeaker 2: Now regarding the prescription as a whole, if you want, I can pause it.\n\nSpeaker 1: When did you want to pause it for?\n\nSpeaker 2: I would say May.\n\nSpeaker 1: Yeah, not a problem at all.\n\nSpeaker 2: All right, so this has already been charged, right, this delivery, this last prescription?\n\nSpeaker 1: This one was correct.\n\nSpeaker 2: All right, okay, well I'll just keep it, and why don't we say June then?\n\nSpeaker 1: Sure, I can do it to June. Do you want to do June 1st or do you want to do June 31st?\n\nSpeaker 2: June 1st is good.\n\nSpeaker 1: Okay, you got it.\n\nSpeaker 2: All righty.\n\nSpeaker 1: All right, you're all set then.\n\nSpeaker 2: All right, thank you very much.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: All right, bye.",
+    "duration": 6204,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Viagra, Escort Blue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8.699999809265137,
+        "text": " Hi, how are you? This is Mario. I was calling you last week."
+      },
+      {
+        "id": 2,
+        "start": 8.699999809265137,
+        "end": 13,
+        "text": " I got the refill for my medication on Wednesday I believe,"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 18.5,
+        "text": " and I just wanted to suspend the auto-delivery for a while until May."
+      },
+      {
+        "id": 4,
+        "start": 18.5,
+        "end": 25,
+        "text": " But I don't know if the medicine has already been shipped."
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 29,
+        "text": " Let me take a look sir. Could I get your full name and date of birth?"
+      },
+      {
+        "id": 6,
+        "start": 29,
+        "end": 36,
+        "text": " Yes, Mario Gomez, D-O-M-E-Z, 10-11-1977."
+      },
+      {
+        "id": 7,
+        "start": 36,
+        "end": 61,
+        "text": " Okay, so I see the prescription, yes, so that one went through on the 22nd."
+      },
+      {
+        "id": 8,
+        "start": 61,
+        "end": 67,
+        "text": " It appears that it's set to be delivered, or was delivered just yesterday at 3 p.m."
+      },
+      {
+        "id": 9,
+        "start": 67,
+        "end": 69,
+        "text": " Oh, so I already got it?"
+      },
+      {
+        "id": 10,
+        "start": 69,
+        "end": 72,
+        "text": " Yeah, it's at 129 West 31st Street."
+      },
+      {
+        "id": 11,
+        "start": 72,
+        "end": 73,
+        "text": " Yep."
+      },
+      {
+        "id": 12,
+        "start": 73,
+        "end": 77,
+        "text": " Yeah, it said it was dropped off at the front desk reception mail room."
+      },
+      {
+        "id": 13,
+        "start": 77,
+        "end": 81,
+        "text": " Now regarding the prescription as a whole, if you want, I can pause it."
+      },
+      {
+        "id": 14,
+        "start": 81,
+        "end": 84,
+        "text": " When did you want to pause it for?"
+      },
+      {
+        "id": 15,
+        "start": 84,
+        "end": 87,
+        "text": " I would say May."
+      },
+      {
+        "id": 16,
+        "start": 87,
+        "end": 89,
+        "text": " Yeah, not a problem at all."
+      },
+      {
+        "id": 17,
+        "start": 89,
+        "end": 94,
+        "text": " All right, so this has already been charged, right, this delivery, this last prescription?"
+      },
+      {
+        "id": 18,
+        "start": 94,
+        "end": 96,
+        "text": " This one was correct."
+      },
+      {
+        "id": 19,
+        "start": 96,
+        "end": 102,
+        "text": " All right, okay, well I'll just keep it, and why don't we say June then?"
+      },
+      {
+        "id": 20,
+        "start": 102,
+        "end": 109,
+        "text": " Sure, I can do it to June. Do you want to do June 1st or do you want to do June 31st?"
+      },
+      {
+        "id": 21,
+        "start": 109,
+        "end": 111,
+        "text": " June 1st is good."
+      },
+      {
+        "id": 22,
+        "start": 111,
+        "end": 113,
+        "text": " Okay, you got it."
+      },
+      {
+        "id": 23,
+        "start": 113,
+        "end": 115,
+        "text": " All righty."
+      },
+      {
+        "id": 24,
+        "start": 115,
+        "end": 117,
+        "text": " All right, you're all set then."
+      },
+      {
+        "id": 25,
+        "start": 117,
+        "end": 119,
+        "text": " All right, thank you very much."
+      },
+      {
+        "id": 26,
+        "start": 119,
+        "end": 120,
+        "text": " Thank you."
+      },
+      {
+        "id": 27,
+        "start": 120,
+        "end": 122,
+        "text": " All right, bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8150-aa64-cbc13a5d8f1c",
+    "url": "https://www.notion.so/300000001220923-300000001710925-2f711d0a101c8150aa64cbc13a5d8f1c"
+  },
+  "processedAt": "2026-01-29T00:13:44.056Z"
+}

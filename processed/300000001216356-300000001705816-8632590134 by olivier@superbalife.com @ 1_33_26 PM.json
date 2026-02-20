@@ -1,0 +1,74 @@
+{
+  "recording": {
+    "name": "300000001216356-300000001705816-8632590134 by olivier@superbalife.com @ 1_33_26 PM.wav",
+    "size": 47186,
+    "modifyTime": 1769582839000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216356-300000001705816-8632590134 by olivier@superbalife.com @ 1_33_26 PM.wav",
+    "uploadDate": "2026-01-28T06:47:19.000Z",
+    "callId": "300000001216356-300000001705816",
+    "agent": "olivier",
+    "phoneNumber": "8632590134",
+    "callTimestamp": "2026-01-28T13:33:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: All right, Mr. Angel.\n\nSpeaker 2: Yes, sir. Yeah, advise the pharmacist to stop the original frequency from the first prescription.\n\nSpeaker 1: So they pause it for half a year so you can reorder as needed.\n\nSpeaker 2: Okay, because the month is not necessarily required. You can get it once or twice a year to keep your price point.\n\nSpeaker 1: Okay, but you don't have to get it every 30 days. Okay?\n\nSpeaker 2: Okay, that's perfect. Thank you, all set.\n\nSpeaker 1: Thank you, brother.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye.",
+    "duration": 1281,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " All right, Mr. Angel"
+      },
+      {
+        "id": 1,
+        "start": 2.5999999046325684,
+        "end": 9.520000457763672,
+        "text": " Yes, sir. Yeah advise the pharmacist to stop the original frequency from the first prescription"
+      },
+      {
+        "id": 2,
+        "start": 9.520000457763672,
+        "end": 13.15999984741211,
+        "text": " So they pause it for half a year so you can reorder as needed"
+      },
+      {
+        "id": 3,
+        "start": 13.15999984741211,
+        "end": 18.920000076293945,
+        "text": " Okay, because the month is not necessarily required. You can get it once or twice a year to keep your price point"
+      },
+      {
+        "id": 4,
+        "start": 18.920000076293945,
+        "end": 24.719999313354492,
+        "text": " Okay, but you don't have to get it every 30 days. Okay? Okay, that's perfect. Thank you all set. Okay"
+      },
+      {
+        "id": 5,
+        "start": 25.31999969482422,
+        "end": 26.68000030517578,
+        "text": " Thank you, brother"
+      },
+      {
+        "id": 6,
+        "start": 26.68000030517578,
+        "end": 27.920000076293945,
+        "text": " Bye. Bye"
+      },
+      {
+        "id": 7,
+        "start": 27.920000076293945,
+        "end": 29.920000076293945,
+        "text": " Bye"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8132-95b6-dc8896317b9f",
+    "url": "https://www.notion.so/300000001216356-300000001705816-2f611d0a101c813295b6dc8896317b9f"
+  },
+  "processedAt": "2026-01-28T16:44:36.168Z"
+}

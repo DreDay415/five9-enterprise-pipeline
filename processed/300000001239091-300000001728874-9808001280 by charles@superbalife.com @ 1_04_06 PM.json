@@ -1,0 +1,50 @@
+{
+  "recording": {
+    "name": "300000001239091-300000001728874-9808001280 by charles@superbalife.com @ 1_04_06 PM.wav",
+    "size": 17416,
+    "modifyTime": 1770843893000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239091-300000001728874-9808001280 by charles@superbalife.com @ 1_04_06 PM.wav",
+    "uploadDate": "2026-02-11T21:04:53.000Z",
+    "callId": "300000001239091-300000001728874",
+    "agent": "charles",
+    "phoneNumber": "9808001280",
+    "callTimestamp": "2026-02-11T13:04:06.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, this is Charles.\n\nSpeaker 2: Hey Charles, can I talk to somebody in Spanish please?\n\nSpeaker 1: Sure, one second.\n\nSpeaker 2: Thank you.",
+    "duration": 1439,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thanks for calling Viagra, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 8,
+        "text": " Hey Charles, can I talk to somebody in Spanish please?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 9,
+        "text": " Sure, one second."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 10,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-81ce-b4b1-c3f360a7ca80",
+    "url": "https://www.notion.so/300000001239091-300000001728874-30411d0a101c81ceb4b1c3f360a7ca80"
+  },
+  "processedAt": "2026-02-11T21:31:09.530Z"
+}

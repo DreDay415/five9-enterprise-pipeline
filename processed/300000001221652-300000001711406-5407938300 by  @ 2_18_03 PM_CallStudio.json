@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001221652-300000001711406-5407938300 by  @ 2_18_03 PM_CallStudio.wav",
+    "size": 44976,
+    "modifyTime": 1769638734000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221652-300000001711406-5407938300 by  @ 2_18_03 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T22:18:54.000Z",
+    "callId": "300000001221652-300000001711406",
+    "phoneNumber": "5407938300",
+    "callTimestamp": "2026-01-28T22:18:54.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: We didn't receive a response, or I couldn't hear you.\n\nSpeaker 1: Let's try again.\n\nSpeaker 2: Please state the reason for your call.\n\nSpeaker 1: Check on my card.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 1215,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.139999866485596,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.300000190734863,
+        "end": 6.78000020980835,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.099999904632568,
+        "end": 8.5600004196167,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 16.360000610351562,
+        "end": 18.84000015258789,
+        "text": " We didn't receive a response, or I couldn't hear your."
+      },
+      {
+        "id": 4,
+        "start": 19.520000457763672,
+        "end": 20.440000534057617,
+        "text": " Let's try again."
+      },
+      {
+        "id": 5,
+        "start": 21.059999465942383,
+        "end": 22.65999984741211,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 6,
+        "start": 23.15999984741211,
+        "end": 24.34000015258789,
+        "text": " Check on my card."
+      },
+      {
+        "id": 7,
+        "start": 26.15999984741211,
+        "end": 27.360000610351562,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81bd-b5b8-e2922653a4ef",
+    "url": "https://www.notion.so/300000001221652-300000001711406-2f611d0a101c81bdb5b8e2922653a4ef"
+  },
+  "processedAt": "2026-01-28T23:41:24.512Z"
+}

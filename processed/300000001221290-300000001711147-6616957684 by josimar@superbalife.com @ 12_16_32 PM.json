@@ -1,0 +1,104 @@
+{
+  "recording": {
+    "name": "300000001221290-300000001711147-6616957684 by josimar@superbalife.com @ 12_16_32 PM.wav",
+    "size": 111276,
+    "modifyTime": 1769631537000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221290-300000001711147-6616957684 by josimar@superbalife.com @ 12_16_32 PM.wav",
+    "uploadDate": "2026-01-28T20:18:57.000Z",
+    "callId": "300000001221290-300000001711147",
+    "agent": "josimar",
+    "phoneNumber": "6616957684",
+    "callTimestamp": "2026-01-28T12:16:32.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Okay.\n\nSpeaker 2: Hello, sir.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I was able to cancel out the third-party supplement and the five additional pills.\n\nSpeaker 1: Your total today was $63.95 for the ten pills, and the other two charges will be refunded\n\nSpeaker 2: to you, and you'll receive it in three to five business days.\n\nSpeaker 1: All right.\n\nSpeaker 2: All right.\n\nSpeaker 1: Have a good one.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: You too.\n\nSpeaker 2: Bye-bye.",
+    "duration": 6615,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Okay."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2,
+        "text": " Hello, sir."
+      },
+      {
+        "id": 2,
+        "start": 2,
+        "end": 3,
+        "text": " Okay."
+      },
+      {
+        "id": 3,
+        "start": 3,
+        "end": 8.720000267028809,
+        "text": " I was able to cancel out the third-party supplement and the five additional pills."
+      },
+      {
+        "id": 4,
+        "start": 8.720000267028809,
+        "end": 13.600000381469727,
+        "text": " Your total today was $63.95 for the ten pills, and the other two charges will be refunded"
+      },
+      {
+        "id": 5,
+        "start": 13.600000381469727,
+        "end": 15.880000114440918,
+        "text": " to you, and you'll receive it in three to five business days."
+      },
+      {
+        "id": 6,
+        "start": 15.880000114440918,
+        "end": 16.8799991607666,
+        "text": " All right."
+      },
+      {
+        "id": 7,
+        "start": 16.8799991607666,
+        "end": 17.8799991607666,
+        "text": " All right."
+      },
+      {
+        "id": 8,
+        "start": 17.8799991607666,
+        "end": 18.8799991607666,
+        "text": " Have a good one."
+      },
+      {
+        "id": 9,
+        "start": 18.8799991607666,
+        "end": 19.8799991607666,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 10,
+        "start": 19.8799991607666,
+        "end": 20.3799991607666,
+        "text": " You too."
+      },
+      {
+        "id": 11,
+        "start": 60,
+        "end": 61,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 12,
+        "start": 61,
+        "end": 61,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ce-bb8f-ece87c7ae460",
+    "url": "https://www.notion.so/300000001221290-300000001711147-2f611d0a101c81cebb8fece87c7ae460"
+  },
+  "processedAt": "2026-01-28T23:09:24.076Z"
+}

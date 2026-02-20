@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001217286-300000001707678-2818047372 by  @ 9_49_33 AM_CallStudio.wav",
+    "size": 23460,
+    "modifyTime": 1769583738000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217286-300000001707678-2818047372 by  @ 9_49_33 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:02:18.000Z",
+    "callId": "300000001217286-300000001707678",
+    "phoneNumber": "2818047372",
+    "callTimestamp": "2026-01-28T07:02:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: Cancel my subscription.\n\nSpeaker 1: Or per-scription.\n\nSpeaker 2: Thanks for transferring to Agent.",
+    "duration": 833,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.28000020980835,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.28000020980835,
+        "end": 6.28000020980835,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.28000020980835,
+        "end": 9.640000343322754,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.640000343322754,
+        "end": 12.720000267028809,
+        "text": " Cancel my subscription."
+      },
+      {
+        "id": 4,
+        "start": 12.720000267028809,
+        "end": 13.720000267028809,
+        "text": " Or per-scription."
+      },
+      {
+        "id": 5,
+        "start": 13.720000267028809,
+        "end": 14.15999984741211,
+        "text": " Thanks for transferring to Agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8179-aa11-e0f728d1b95d",
+    "url": "https://www.notion.so/300000001217286-300000001707678-2f611d0a101c8179aa11e0f728d1b95d"
+  },
+  "processedAt": "2026-01-28T15:50:18.065Z"
+}

@@ -1,0 +1,98 @@
+{
+  "recording": {
+    "name": "300000001219507-300000001709559-3617990479 by gabriela@superbalife.com @ 11_35_52 AM.wav",
+    "size": 81570,
+    "modifyTime": 1769588829000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219507-300000001709559-3617990479 by gabriela@superbalife.com @ 11_35_52 AM.wav",
+    "uploadDate": "2026-01-28T08:27:09.000Z",
+    "callId": "300000001219507-300000001709559",
+    "agent": "gabriela",
+    "phoneNumber": "3617990479",
+    "callTimestamp": "2026-01-28T11:35:52.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hola, gracias por la manera viagra. ¿Cómo le puedo ayudar?\n\nSpeaker 2: Bueno, quería hacer una cancelación de su inspección.\n\nSpeaker 1: Ok, ¿cuál es su nombre y su fecha de nacimiento?\n\nSpeaker 2: Julio 5, 1976, y mi nombre es Horacio Borbocha Costa.\n\nSpeaker 1: Gracias, Horacio. Ok, ¿cuál es la razón de la cancelación? ¿Es que tiene insuficiente\n\nSpeaker 2: producto? ¿Qué es lo que está pasando?\n\nSpeaker 1: Sí, lo que pasa es que no lo necesito más. Quisiera cancelarla definitivamente.\n\nSpeaker 2: Ok, pues miro que ya se lo cancelaron. Miro que usted mandó un correo electrónico y se lo cancelaron.\n\nSpeaker 1: Ya no es su número con nosotros.\n\nSpeaker 2: Ah, ok, ok. Está bien. Nomás quería asegurarme.\n\nSpeaker 1: Ok, bueno, que tenga un buen día. Adiós.\n\nSpeaker 2: Gracias.",
+    "duration": 1900,
+    "language": "spanish",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hola, gracias por la manera viagra. ¿Cómo le puedo ayudar?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 9,
+        "text": " Bueno, quería hacer una cancelación de su inspección."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 13,
+        "text": " Ok, ¿cuál es su nombre y su fecha de nacimiento?"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 19,
+        "text": " Julio 5, 1976, y mi nombre es Horacio Borbocha Costa."
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 25,
+        "text": " Gracias, Horacio. Ok, ¿cuál es la razón de la cancelación? ¿Es que tiene insuficiente"
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 27,
+        "text": " producto? ¿Qué es lo que está pasando?"
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 32,
+        "text": " Sí, lo que pasa es que no lo necesito más. Quisiera cancelarla definitivamente."
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 38,
+        "text": " Ok, pues miro que ya se lo cancelaron. Miro que usted mandó un correo electrónico y se lo cancelaron."
+      },
+      {
+        "id": 8,
+        "start": 38,
+        "end": 41,
+        "text": " Ya no es su número con nosotros."
+      },
+      {
+        "id": 9,
+        "start": 41,
+        "end": 45,
+        "text": " Ah, ok, ok. Está bien. Nomás quería asegurarme."
+      },
+      {
+        "id": 10,
+        "start": 45,
+        "end": 49,
+        "text": " Ok, bueno, que tenga un buen día. Adiós."
+      },
+      {
+        "id": 11,
+        "start": 49,
+        "end": 50,
+        "text": " Gracias."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e3-87d4-f9acd6ca2b1f",
+    "url": "https://www.notion.so/300000001219507-300000001709559-2f611d0a101c81e387d4f9acd6ca2b1f"
+  },
+  "processedAt": "2026-01-28T13:03:53.059Z"
+}

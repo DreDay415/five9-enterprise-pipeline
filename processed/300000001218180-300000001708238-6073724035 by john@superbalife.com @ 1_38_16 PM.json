@@ -1,0 +1,236 @@
+{
+  "recording": {
+    "name": "300000001218180-300000001708238-6073724035 by john@superbalife.com @ 1_38_16 PM.wav",
+    "size": 172570,
+    "modifyTime": 1769584044000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218180-300000001708238-6073724035 by john@superbalife.com @ 1_38_16 PM.wav",
+    "uploadDate": "2026-01-28T07:07:24.000Z",
+    "callId": "300000001218180-300000001708238",
+    "agent": "john",
+    "phoneNumber": "6073724035",
+    "callTimestamp": "2026-01-28T13:38:16.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Hello. Good afternoon, sir. My name is Junior Orencola.\n\nSpeaker 1: How are you, sir? How can I help you today?\n\nSpeaker 2: Yeah, so I called you because I want to change my prescription.\n\nSpeaker 1: Your what?\n\nSpeaker 2: I want to change my prescription.\n\nSpeaker 1: Oh, okay.\n\nSpeaker 2: What's your zip code?\n\nSpeaker 1: My zip code is 13904.\n\nSpeaker 2: Okay. 21 Abbott Street in Binghamton?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay. I see you're getting the 50 milligram generic Viagra.\n\nSpeaker 1: What did you want to change to, sir?\n\nSpeaker 2: Now I need Gardasil 20 milligram.\n\nSpeaker 1: Oh, okay. Yeah, I can do that for you.\n\nSpeaker 2: Same four pills, though?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay. That's no problem.\n\nSpeaker 1: Give me a moment to make that switch.\n\nSpeaker 2: And you did say 20, right? 20 milligram?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Yeah, Tadalafil. No problem at all.\n\nSpeaker 1: And then do you want me to use the same Visa card, 6084?\n\nSpeaker 2: What?\n\nSpeaker 1: You want me to use the Visa card ending in 6084?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay. You're all set.\n\nSpeaker 1: It's going to update for Tadalafil.\n\nSpeaker 2: It's the same price you were paying, so nothing's changed there.\n\nSpeaker 1: But it's just going to be Tadalafil 20 milligrams now.\n\nSpeaker 2: So you're good to go, sir.\n\nSpeaker 1: Okay. Thank you.\n\nSpeaker 2: Thank you. Bye-bye.\n\nSpeaker 1: Yeah.",
+    "duration": 5567,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 9,
+        "text": " Hello. Good afternoon, sir. My name is Junior Orencola."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 12,
+        "text": " How are you, sir? How can I help you today?"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 18,
+        "text": " Yeah, so I called you because I want to change my prescription."
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 20,
+        "text": " Your what?"
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 24,
+        "text": " I want to change my prescription."
+      },
+      {
+        "id": 6,
+        "start": 24,
+        "end": 28,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 31,
+        "text": " What's your zip code?"
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 42,
+        "text": " My zip code is 13904."
+      },
+      {
+        "id": 9,
+        "start": 42,
+        "end": 45,
+        "text": " Okay. 21 Abbott Street in Binghamton?"
+      },
+      {
+        "id": 10,
+        "start": 45,
+        "end": 46,
+        "text": " Yes."
+      },
+      {
+        "id": 11,
+        "start": 46,
+        "end": 49,
+        "text": " Okay. I see you're getting the 50 milligram generic Viagra."
+      },
+      {
+        "id": 12,
+        "start": 49,
+        "end": 51,
+        "text": " What did you want to change to, sir?"
+      },
+      {
+        "id": 13,
+        "start": 51,
+        "end": 56,
+        "text": " Now I need Gardasil 20 milligram."
+      },
+      {
+        "id": 14,
+        "start": 56,
+        "end": 58,
+        "text": " Oh, okay. Yeah, I can do that for you."
+      },
+      {
+        "id": 15,
+        "start": 58,
+        "end": 60,
+        "text": " Same four pills, though?"
+      },
+      {
+        "id": 16,
+        "start": 60,
+        "end": 61,
+        "text": " Yes."
+      },
+      {
+        "id": 17,
+        "start": 61,
+        "end": 63,
+        "text": " Okay. That's no problem."
+      },
+      {
+        "id": 18,
+        "start": 63,
+        "end": 66,
+        "text": " Give me a moment to make that switch."
+      },
+      {
+        "id": 19,
+        "start": 66,
+        "end": 69,
+        "text": " And you did say 20, right? 20 milligram?"
+      },
+      {
+        "id": 20,
+        "start": 69,
+        "end": 71,
+        "text": " Yeah."
+      },
+      {
+        "id": 21,
+        "start": 71,
+        "end": 73,
+        "text": " Yeah, Tadalafil. No problem at all."
+      },
+      {
+        "id": 22,
+        "start": 73,
+        "end": 77,
+        "text": " And then do you want me to use the same Visa card, 6084?"
+      },
+      {
+        "id": 23,
+        "start": 77,
+        "end": 78,
+        "text": " What?"
+      },
+      {
+        "id": 24,
+        "start": 78,
+        "end": 84,
+        "text": " You want me to use the Visa card ending in 6084?"
+      },
+      {
+        "id": 25,
+        "start": 84,
+        "end": 85,
+        "text": " Yes."
+      },
+      {
+        "id": 26,
+        "start": 85,
+        "end": 93,
+        "text": " Okay."
+      },
+      {
+        "id": 27,
+        "start": 93,
+        "end": 94,
+        "text": " Okay. You're all set."
+      },
+      {
+        "id": 28,
+        "start": 94,
+        "end": 95,
+        "text": " It's going to update for Tadalafil."
+      },
+      {
+        "id": 29,
+        "start": 95,
+        "end": 98,
+        "text": " It's the same price you were paying, so nothing's changed there."
+      },
+      {
+        "id": 30,
+        "start": 98,
+        "end": 101,
+        "text": " But it's just going to be Tadalafil 20 milligrams now."
+      },
+      {
+        "id": 31,
+        "start": 101,
+        "end": 102,
+        "text": " So you're good to go, sir."
+      },
+      {
+        "id": 32,
+        "start": 102,
+        "end": 104,
+        "text": " Okay. Thank you."
+      },
+      {
+        "id": 33,
+        "start": 104,
+        "end": 105,
+        "text": " Thank you. Bye-bye."
+      },
+      {
+        "id": 34,
+        "start": 105,
+        "end": 106,
+        "text": " Yeah."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-817d-81c3-d67fd9de6969",
+    "url": "https://www.notion.so/300000001218180-300000001708238-2f611d0a101c817d81c3d67fd9de6969"
+  },
+  "processedAt": "2026-01-28T15:21:25.952Z"
+}

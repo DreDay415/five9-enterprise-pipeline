@@ -1,0 +1,122 @@
+{
+  "recording": {
+    "name": "300000001217770-300000001707971-5803994995 by lucif@superbalife.com @ 11_44_11 AM.wav",
+    "size": 98210,
+    "modifyTime": 1769596030000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217770-300000001707971-5803994995 by lucif@superbalife.com @ 11_44_11 AM.wav",
+    "uploadDate": "2026-01-28T10:27:10.000Z",
+    "callId": "300000001217770-300000001707971",
+    "agent": "lucif",
+    "phoneNumber": "5803994995",
+    "callTimestamp": "2026-01-28T11:44:11.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra Quinn speaking, how can I help you?\n\nSpeaker 2: Yes sir, I'd like to cancel my prescription.\n\nSpeaker 1: Okay, let me pull up your account. Is your name Jeff?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Alrighty Jeff, I do see you are VIP with this here. Do you mind if I ask why you're cancelling your Viagra today?\n\nSpeaker 2: I don't need it any more longer.\n\nSpeaker 1: Okay, you can always order this as needed if you're getting it too fast.\n\nSpeaker 2: I just wish to cancel it right now.\n\nSpeaker 1: Okay, yeah, order as needed means you wouldn't get it again until you call us, so we can give you plenty of time.\n\nSpeaker 2: Okay, yeah, we can do that.\n\nSpeaker 1: Alright, so what we do is just keep your prescription open for the next five months and you'll have to call us for your next one, okay?\n\nSpeaker 2: Okay, that'll be fine.\n\nSpeaker 1: Alrighty, we'll do that for you now sir.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: You're welcome. You have a good day.\n\nSpeaker 2: You too, bye.",
+    "duration": 4894,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Thanks for calling Viagra Quinn speaking, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 10,
+        "text": " Yes sir, I'd like to cancel my prescription."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 13,
+        "text": " Okay, let me pull up your account. Is your name Jeff?"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 14,
+        "text": " Yes."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 21,
+        "text": " Alrighty Jeff, I do see you are VIP with this here. Do you mind if I ask why you're cancelling your Viagra today?"
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 25,
+        "text": " I don't need it any more longer."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 31,
+        "text": " Okay, you can always order this as needed if you're getting it too fast."
+      },
+      {
+        "id": 7,
+        "start": 31,
+        "end": 35,
+        "text": " I just wish to cancel it right now."
+      },
+      {
+        "id": 8,
+        "start": 35,
+        "end": 43,
+        "text": " Okay, yeah, order as needed means you wouldn't get it again until you call us, so we can give you plenty of time."
+      },
+      {
+        "id": 9,
+        "start": 43,
+        "end": 45,
+        "text": " Okay, yeah, we can do that."
+      },
+      {
+        "id": 10,
+        "start": 45,
+        "end": 51,
+        "text": " Alright, so what we do is just keep your prescription open for the next five months and you'll have to call us for your next one, okay?"
+      },
+      {
+        "id": 11,
+        "start": 51,
+        "end": 53,
+        "text": " Okay, that'll be fine."
+      },
+      {
+        "id": 12,
+        "start": 53,
+        "end": 55,
+        "text": " Alrighty, we'll do that for you now sir."
+      },
+      {
+        "id": 13,
+        "start": 55,
+        "end": 57,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 14,
+        "start": 57,
+        "end": 59,
+        "text": " You're welcome. You have a good day."
+      },
+      {
+        "id": 15,
+        "start": 59,
+        "end": 60,
+        "text": " You too, bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8126-a7eb-f77f44cad29f",
+    "url": "https://www.notion.so/300000001217770-300000001707971-2f611d0a101c8126a7ebf77f44cad29f"
+  },
+  "processedAt": "2026-01-28T19:17:06.903Z"
+}

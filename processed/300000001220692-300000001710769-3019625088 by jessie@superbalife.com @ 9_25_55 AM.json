@@ -1,0 +1,44 @@
+{
+  "recording": {
+    "name": "300000001220692-300000001710769-3019625088 by jessie@superbalife.com @ 9_25_55 AM.wav",
+    "size": 16700,
+    "modifyTime": 1769621187000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220692-300000001710769-3019625088 by jessie@superbalife.com @ 9_25_55 AM.wav",
+    "uploadDate": "2026-01-28T17:26:27.000Z",
+    "callId": "300000001220692-300000001710769",
+    "agent": "jessie",
+    "phoneNumber": "3019625088",
+    "callTimestamp": "2026-01-28T09:25:55.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra.\n\nSpeaker 2: My name is Jessie.\n\nSpeaker 1: May I get your first and last name?",
+    "duration": 664,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.3399999141693115,
+        "text": " Hi, thank you so much for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 2.3399999141693115,
+        "end": 3.140000104904175,
+        "text": " My name is Jessie."
+      },
+      {
+        "id": 2,
+        "start": 3.140000104904175,
+        "end": 4.880000114440918,
+        "text": " May I get your first and last name?"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8161-8aa4-f8d83431be67",
+    "url": "https://www.notion.so/300000001220692-300000001710769-2f611d0a101c81618aa4f8d83431be67"
+  },
+  "processedAt": "2026-01-28T18:29:26.516Z"
+}

@@ -1,0 +1,50 @@
+{
+  "recording": {
+    "name": "300000001219567-300000001709616-7277106440 by lucif@superbalife.com @ 11_50_26 AM.wav",
+    "size": 15726,
+    "modifyTime": 1769590939000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219567-300000001709616-7277106440 by lucif@superbalife.com @ 11_50_26 AM.wav",
+    "uploadDate": "2026-01-28T09:02:19.000Z",
+    "callId": "300000001219567-300000001709616",
+    "agent": "lucif",
+    "phoneNumber": "7277106440",
+    "callTimestamp": "2026-01-28T11:50:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: The person you have called is not available.\n\nSpeaker 2: Please leave a message after the tone.\n\nSpeaker 1: Hello, how are you doing, Mr. Bullock?\n\nSpeaker 2: This is Quinn Cove on your phone.",
+    "duration": 2010,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " The person you have called is not available."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5,
+        "text": " Please leave a message after the tone."
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 8,
+        "text": " Hello, how are you doing, Mr. Bullock?"
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 10,
+        "text": " This is Quinn Cove in your phone."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81eb-812c-d4e34b7543bb",
+    "url": "https://www.notion.so/300000001219567-300000001709616-2f611d0a101c81eb812cd4e34b7543bb"
+  },
+  "processedAt": "2026-01-28T11:53:43.477Z"
+}

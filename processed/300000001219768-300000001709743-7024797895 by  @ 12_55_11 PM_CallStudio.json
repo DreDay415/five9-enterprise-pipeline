@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001219768-300000001709743-7024797895 by  @ 12_55_11 PM_CallStudio.wav",
+    "size": 32106,
+    "modifyTime": 1769591860000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219768-300000001709743-7024797895 by  @ 12_55_11 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:17:40.000Z",
+    "callId": "300000001219768-300000001709743",
+    "phoneNumber": "7024797895",
+    "callTimestamp": "2026-01-28T09:17:40.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I want to check the status of the package.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 764,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 14,
+        "end": 16,
+        "text": " I want to check the status of the package."
+      },
+      {
+        "id": 3,
+        "start": 18,
+        "end": 19,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8133-b01f-c6b3854eccea",
+    "url": "https://www.notion.so/300000001219768-300000001709743-2f611d0a101c8133b01fc6b3854eccea"
+  },
+  "processedAt": "2026-01-28T11:10:01.140Z"
+}

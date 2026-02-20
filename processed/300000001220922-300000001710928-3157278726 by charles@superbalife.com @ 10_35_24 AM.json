@@ -1,0 +1,182 @@
+{
+  "recording": {
+    "name": "300000001220922-300000001710928-3157278726 by charles@superbalife.com @ 10_35_24 AM.wav",
+    "size": 152290,
+    "modifyTime": 1769625440000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220922-300000001710928-3157278726 by charles@superbalife.com @ 10_35_24 AM.wav",
+    "uploadDate": "2026-01-28T18:37:20.000Z",
+    "callId": "300000001220922-300000001710928",
+    "agent": "charles",
+    "phoneNumber": "3157278726",
+    "callTimestamp": "2026-01-28T10:35:24.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra. This is Charles.\n\nSpeaker 2: Charles, how are you buddy?\n\nSpeaker 1: I'm good. How about yourself?\n\nSpeaker 2: I'm all right. So I, um, my name is Mr. Ding.\n\nSpeaker 1: I'm trying to cancel a prescription that I have signed up about a month ago.\n\nSpeaker 2: Okay. And you're in Liverpool, New York, right?\n\nSpeaker 1: That's correct.\n\nSpeaker 2: Gotcha. Are you overstocked right now and don't need any for a while?\n\nSpeaker 1: No. Yeah, I'm okay. The medicine doesn't work, so I'm going to go to my doctor.\n\nSpeaker 2: Gotcha. Okay. Um, if you'd like, um, it looks like you're only getting 25 milligrams.\n\nSpeaker 1: I can send you a sample of 100 milligrams and see if that does anything for you.\n\nSpeaker 2: I won't charge you a dime on it.\n\nSpeaker 1: We obviously want to make sure that you have a pleasant experience with us.\n\nSpeaker 2: Um, so I can up the dosage and then send you a different version of the AGV that's made in our France factory.\n\nSpeaker 1: It's a lot more potent. Um, so I can send you that for free.\n\nSpeaker 2: I'll pause everything for the time being.\n\nSpeaker 1: Um, that way you're able to try it and then call us and let us know, uh, what the final deal is.\n\nSpeaker 2: Yeah, just, just, just pause everything for now.\n\nSpeaker 1: Just cancel it until I get back to you, but you could do that, yeah.\n\nSpeaker 2: Okay. I'll send you that and then I'll pause everything from now until June, okay?\n\nSpeaker 1: Alrighty. Thank you.\n\nSpeaker 2: Okay. Sounds good. These ones will have the number 100 pressed onto them, okay?\n\nSpeaker 1: Alrighty.\n\nSpeaker 2: Okay. Have a great day.\n\nSpeaker 1: You too. Thank you. Bye.\n\nSpeaker 2: Thank you. Bye-bye.",
+    "duration": 5757,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thanks for calling Viagra. This is Charles."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " Charles, how are you buddy?"
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " I'm good. How about yourself?"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 13,
+        "text": " I'm all right. So I, um, my name is Mr. Ding."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 19,
+        "text": " I'm trying to cancel a prescription that I have signed up about a month ago."
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 23,
+        "text": " Okay. And you're in Liverpool, New York, right?"
+      },
+      {
+        "id": 6,
+        "start": 23,
+        "end": 24,
+        "text": " That's correct."
+      },
+      {
+        "id": 7,
+        "start": 24,
+        "end": 28,
+        "text": " Gotcha. Are you overstocked right now and don't need any for a while?"
+      },
+      {
+        "id": 8,
+        "start": 28,
+        "end": 35,
+        "text": " No. Yeah, I'm okay. The medicine doesn't work, so I'm going to go to my doctor."
+      },
+      {
+        "id": 9,
+        "start": 35,
+        "end": 41,
+        "text": " Gotcha. Okay. Um, if you'd like, um, it looks like you're only getting 25 milligrams."
+      },
+      {
+        "id": 10,
+        "start": 41,
+        "end": 46,
+        "text": " I can send you a sample of 100 milligrams and see if that does anything for you."
+      },
+      {
+        "id": 11,
+        "start": 46,
+        "end": 48,
+        "text": " I won't charge you a dime on it."
+      },
+      {
+        "id": 12,
+        "start": 48,
+        "end": 52,
+        "text": " We obviously want to make sure that you have a pleasant experience with us."
+      },
+      {
+        "id": 13,
+        "start": 52,
+        "end": 58,
+        "text": " Um, so I can up the dosage and then send you a different version of the AGV that's made in our France factory."
+      },
+      {
+        "id": 14,
+        "start": 58,
+        "end": 61,
+        "text": " It's a lot more potent. Um, so I can send you that for free."
+      },
+      {
+        "id": 15,
+        "start": 61,
+        "end": 63,
+        "text": " I'll pause everything for the time being."
+      },
+      {
+        "id": 16,
+        "start": 63,
+        "end": 70,
+        "text": " Um, that way you're able to try it and then call us and let us know, uh, what the final deal is."
+      },
+      {
+        "id": 17,
+        "start": 70,
+        "end": 73,
+        "text": " Yeah, just, just, just pause everything for now."
+      },
+      {
+        "id": 18,
+        "start": 73,
+        "end": 76,
+        "text": " Just cancel it until I get back to you, but you could do that, yeah."
+      },
+      {
+        "id": 19,
+        "start": 76,
+        "end": 81,
+        "text": " Okay. I'll send you that and then I'll pause everything from now until June, okay?"
+      },
+      {
+        "id": 20,
+        "start": 81,
+        "end": 82,
+        "text": " Alrighty. Thank you."
+      },
+      {
+        "id": 21,
+        "start": 82,
+        "end": 87,
+        "text": " Okay. Sounds good. These ones will have the number 100 pressed onto them, okay?"
+      },
+      {
+        "id": 22,
+        "start": 88,
+        "end": 89,
+        "text": " Alrighty."
+      },
+      {
+        "id": 23,
+        "start": 89,
+        "end": 90,
+        "text": " Okay. Have a great day."
+      },
+      {
+        "id": 24,
+        "start": 91,
+        "end": 92,
+        "text": " You too. Thank you. Bye."
+      },
+      {
+        "id": 25,
+        "start": 92,
+        "end": 93,
+        "text": " Thank you. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8128-81cb-dd34973031dc",
+    "url": "https://www.notion.so/300000001220922-300000001710928-2f711d0a101c812881cbdd34973031dc"
+  },
+  "processedAt": "2026-01-29T00:13:57.903Z"
+}

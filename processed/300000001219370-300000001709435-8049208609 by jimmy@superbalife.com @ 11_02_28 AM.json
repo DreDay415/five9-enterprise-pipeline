@@ -1,0 +1,260 @@
+{
+  "recording": {
+    "name": "300000001219370-300000001709435-8049208609 by jimmy@superbalife.com @ 11_02_28 AM.wav",
+    "size": 123950,
+    "modifyTime": 1769586137000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219370-300000001709435-8049208609 by jimmy@superbalife.com @ 11_02_28 AM.wav",
+    "uploadDate": "2026-01-28T07:42:17.000Z",
+    "callId": "300000001219370-300000001709435",
+    "agent": "jimmy",
+    "phoneNumber": "8049208609",
+    "callTimestamp": "2026-01-28T11:02:28.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for holding that, Mr. Bartlett.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I'm going to go and take care of that for you personally right now to get that refunded.\n\nSpeaker 2: Issue started for you.\n\nSpeaker 1: I don't know if the pharmacy has done it or not, but I'm going to go and take care of it on my side.\n\nSpeaker 2: Okay? So bear with me one second and I'll go ahead and do that.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Yes.\n\nSpeaker 1: And it was around $100 that you all owe me.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I can pull it up and see what it is.\n\nSpeaker 2: Bear with me one second.\n\nSpeaker 1: There are two separate charges.\n\nSpeaker 2: I understand.\n\nSpeaker 1: I just want to pull it up.\n\nSpeaker 2: I see your information here and the tracking information.\n\nSpeaker 1: So let me go ahead and take care of what I'm seeing here.\n\nSpeaker 2: We actually see the actual total is $93.35.\n\nSpeaker 1: That was the actual total.\n\nSpeaker 2: Okay?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: We'll just take care of that for you.\n\nSpeaker 1: You should see that on your – it looks like you used your PayPal and that's where it's going to go back to.\n\nSpeaker 2: Okay?\n\nSpeaker 1: You should see the next two or three days the refund.\n\nSpeaker 2: Okay?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: All right.\n\nSpeaker 2: Not a problem.\n\nSpeaker 1: Have a good day.\n\nSpeaker 2: You too.",
+    "duration": 3060,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for holding that, Mr. Bartlett."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 4,
+        "text": " Okay."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 7.320000171661377,
+        "text": " I'm going to go and take care of that for you personally right now to get that refunded"
+      },
+      {
+        "id": 3,
+        "start": 7.320000171661377,
+        "end": 8.319999694824219,
+        "text": " issue started for you."
+      },
+      {
+        "id": 4,
+        "start": 8.319999694824219,
+        "end": 10.720000267028809,
+        "text": " I don't know if the pharmacy has done it or not, but I'm going to go and take care of"
+      },
+      {
+        "id": 5,
+        "start": 10.720000267028809,
+        "end": 11.720000267028809,
+        "text": " it on my side."
+      },
+      {
+        "id": 6,
+        "start": 11.720000267028809,
+        "end": 12.720000267028809,
+        "text": " Okay?"
+      },
+      {
+        "id": 7,
+        "start": 12.720000267028809,
+        "end": 15.720000267028809,
+        "text": " So bear with me one second and I'll go ahead and do that."
+      },
+      {
+        "id": 8,
+        "start": 15.720000267028809,
+        "end": 16.719999313354492,
+        "text": " Yes."
+      },
+      {
+        "id": 9,
+        "start": 16.719999313354492,
+        "end": 17.719999313354492,
+        "text": " Yes."
+      },
+      {
+        "id": 10,
+        "start": 17.719999313354492,
+        "end": 19.719999313354492,
+        "text": " And it was around $100 that you all owe me."
+      },
+      {
+        "id": 11,
+        "start": 19.719999313354492,
+        "end": 20.719999313354492,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 20.719999313354492,
+        "end": 21.719999313354492,
+        "text": " I can pull it up and see what it is."
+      },
+      {
+        "id": 13,
+        "start": 21.719999313354492,
+        "end": 24.079999923706055,
+        "text": " Bear with me one second."
+      },
+      {
+        "id": 14,
+        "start": 24.079999923706055,
+        "end": 26.239999771118164,
+        "text": " There are two separate charges."
+      },
+      {
+        "id": 15,
+        "start": 26.239999771118164,
+        "end": 27.239999771118164,
+        "text": " I understand."
+      },
+      {
+        "id": 16,
+        "start": 27.239999771118164,
+        "end": 29,
+        "text": " I just want to pull it up."
+      },
+      {
+        "id": 17,
+        "start": 29,
+        "end": 32.439998626708984,
+        "text": " I see your information here and the tracking information."
+      },
+      {
+        "id": 18,
+        "start": 32.439998626708984,
+        "end": 48.84000015258789,
+        "text": " So let me go ahead and take care of what I'm seeing here."
+      },
+      {
+        "id": 19,
+        "start": 48.84000015258789,
+        "end": 53,
+        "text": " We actually see the actual total is $93.35."
+      },
+      {
+        "id": 20,
+        "start": 53,
+        "end": 54,
+        "text": " That was the actual total."
+      },
+      {
+        "id": 21,
+        "start": 54,
+        "end": 55,
+        "text": " Okay?"
+      },
+      {
+        "id": 22,
+        "start": 55,
+        "end": 56,
+        "text": " Yes."
+      },
+      {
+        "id": 23,
+        "start": 56,
+        "end": 57,
+        "text": " Yes."
+      },
+      {
+        "id": 24,
+        "start": 57,
+        "end": 58,
+        "text": " Okay."
+      },
+      {
+        "id": 25,
+        "start": 58,
+        "end": 59,
+        "text": " Okay."
+      },
+      {
+        "id": 26,
+        "start": 59,
+        "end": 60,
+        "text": " Okay."
+      },
+      {
+        "id": 27,
+        "start": 60,
+        "end": 61,
+        "text": " We'll just take care of that for you."
+      },
+      {
+        "id": 28,
+        "start": 61,
+        "end": 66.12000274658203,
+        "text": " You should see that on your – it looks like you used your PayPal and that's where it's"
+      },
+      {
+        "id": 29,
+        "start": 66.12000274658203,
+        "end": 67.12000274658203,
+        "text": " going to go back to."
+      },
+      {
+        "id": 30,
+        "start": 67.12000274658203,
+        "end": 69.23999786376953,
+        "text": " You should see the next two or three days the refund."
+      },
+      {
+        "id": 31,
+        "start": 69.23999786376953,
+        "end": 70.23999786376953,
+        "text": " Okay?"
+      },
+      {
+        "id": 32,
+        "start": 70.23999786376953,
+        "end": 71.23999786376953,
+        "text": " Okay."
+      },
+      {
+        "id": 33,
+        "start": 71.23999786376953,
+        "end": 72.23999786376953,
+        "text": " Thank you."
+      },
+      {
+        "id": 34,
+        "start": 72.23999786376953,
+        "end": 73.23999786376953,
+        "text": " All right."
+      },
+      {
+        "id": 35,
+        "start": 73.23999786376953,
+        "end": 74.23999786376953,
+        "text": " Not a problem."
+      },
+      {
+        "id": 36,
+        "start": 74.23999786376953,
+        "end": 75.23999786376953,
+        "text": " Have a good day."
+      },
+      {
+        "id": 37,
+        "start": 75.23999786376953,
+        "end": 76.23999786376953,
+        "text": " You too."
+      },
+      {
+        "id": 38,
+        "start": 76.23999786376953,
+        "end": 76.23999786376953,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81dd-a27d-eaafe0bcddef",
+    "url": "https://www.notion.so/300000001219370-300000001709435-2f611d0a101c81dda27deaafe0bcddef"
+  },
+  "processedAt": "2026-01-28T13:58:39.706Z"
+}

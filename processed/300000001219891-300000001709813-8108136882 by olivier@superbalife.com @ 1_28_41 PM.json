@@ -1,0 +1,332 @@
+{
+  "recording": {
+    "name": "300000001219891-300000001709813-8108136882 by olivier@superbalife.com @ 1_28_41 PM.wav",
+    "size": 322720,
+    "modifyTime": 1769549541000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219891-300000001709813-8108136882 by olivier@superbalife.com @ 1_28_41 PM.wav",
+    "uploadDate": "2026-01-27T21:32:21.000Z",
+    "callId": "300000001219891-300000001709813",
+    "agent": "olivier",
+    "phoneNumber": "8108136882",
+    "callTimestamp": "2026-01-27T13:28:41.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Hey, how are you?\n\nSpeaker 1: Good, thank you for asking. I'm holding your prescription, Mr. McQueen.\n\nSpeaker 2: Yes, I'm actually calling to cancel my prescription.\n\nSpeaker 1: Okay, give me one moment.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yeah, Mr. McQueen, I see that you just got a replacement and your account was paused for five months.\n\nSpeaker 2: You don't want to keep it paused so you can reorder?\n\nSpeaker 1: No, because I'm having a hard time with the medicine.\n\nSpeaker 2: It's not working great for one and for two.\n\nSpeaker 1: I have really bad side effects on it.\n\nSpeaker 2: So, the last time I called, they sent me a different stuff, I guess, and it was the same thing.\n\nSpeaker 1: I still have the same symptoms, so I'm going to have to cut back.\n\nSpeaker 2: Is that the first time taking Viagra?\n\nSpeaker 1: Yeah, it actually was.\n\nSpeaker 2: I was taking Cialis before, then I started taking the Viagra.\n\nSpeaker 1: The Cialis does the same thing.\n\nSpeaker 2: I get very bad indigestion and I get very bad sinus problems.\n\nSpeaker 1: Okay, yeah, usually either Cialis will work or Viagra.\n\nSpeaker 2: I'm surprised that you say both are doing that.\n\nSpeaker 1: Maybe some you want to look into a little bit.\n\nSpeaker 2: One of them should be okay, though.\n\nSpeaker 1: Cialis, you can microdose.\n\nSpeaker 2: You were taking, what, 20 milligrams Cialis?\n\nSpeaker 1: I was taking 10 for a long time, and then I was taking 20 on occasion whenever I needed it.\n\nSpeaker 2: That's why I tried something different than Cialis, which that's why I went to the Viagra.\n\nSpeaker 1: They're both not working for me right now.\n\nSpeaker 2: I'm going to have to hold off until I can figure something else out because it's too much I can't even take it.\n\nSpeaker 1: You know what I mean?\n\nSpeaker 2: As much as I want to take it, I can't.\n\nSpeaker 1: Okay, yeah.\n\nSpeaker 2: If both are not in good health, there's not much I can say.\n\nSpeaker 1: I would have recommended to microdose them so the body gets used to them.\n\nSpeaker 2: If you're sure that you want to just be completely off, I'm going to cancel the account.\n\nSpeaker 1: The only thing is, you know, something's changed for the better in the future, which I wish for you.\n\nSpeaker 2: Price will be different.\n\nSpeaker 1: That's why they offer to pause so they don't have to pay a new doctor consultation.\n\nSpeaker 2: But when I cancel, I got to cancel that one they finance for you.\n\nSpeaker 1: Well, that's okay for right now because I don't know if I'll be getting back on them.\n\nSpeaker 2: If you guys come up with something in the future, you know, and I'll look into it.\n\nSpeaker 1: If something comes out where I don't have those side effects, I'll probably give you guys a call again.\n\nSpeaker 2: But right now, I'm going to just cancel it up.\n\nSpeaker 1: Okay.\n\nSpeaker 2: That's what I did.\n\nSpeaker 1: I canceled everything.\n\nSpeaker 2: It's your say, Mr. Quinn.\n\nSpeaker 1: Well, thank you, sir.\n\nSpeaker 2: I appreciate your time.\n\nSpeaker 1: You're welcome.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 9615,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 4,
+        "text": " Hey, how are you?"
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 8,
+        "text": " Good, thank you for asking. I'm holding your prescription, Mr. McQueen."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 13,
+        "text": " Yes, I'm actually calling to cancel my prescription."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 15,
+        "text": " Okay, give me one moment."
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 21,
+        "text": " Okay."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 32,
+        "text": " Yeah, Mr. McQueen, I see that you just got a replacement and your account was paused for five months."
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 34,
+        "text": " You don't want to keep it paused so you can reorder?"
+      },
+      {
+        "id": 8,
+        "start": 35,
+        "end": 38,
+        "text": " No, because I'm having a hard time with the medicine."
+      },
+      {
+        "id": 9,
+        "start": 38,
+        "end": 42,
+        "text": " It's not working great for one and for two."
+      },
+      {
+        "id": 10,
+        "start": 42,
+        "end": 45,
+        "text": " I have really bad side effects on it."
+      },
+      {
+        "id": 11,
+        "start": 45,
+        "end": 54,
+        "text": " So, the last time I called, they sent me a different stuff, I guess, and it was the same thing."
+      },
+      {
+        "id": 12,
+        "start": 54,
+        "end": 58,
+        "text": " I still have the same symptoms, so I'm going to have to cut back."
+      },
+      {
+        "id": 13,
+        "start": 58,
+        "end": 60,
+        "text": " Is that the first time taking Viagra?"
+      },
+      {
+        "id": 14,
+        "start": 61,
+        "end": 63,
+        "text": " Yeah, it actually was."
+      },
+      {
+        "id": 15,
+        "start": 63,
+        "end": 68,
+        "text": " I was taking Cialis before, then I started taking the Viagra."
+      },
+      {
+        "id": 16,
+        "start": 69,
+        "end": 73,
+        "text": " The Cialis does the same thing."
+      },
+      {
+        "id": 17,
+        "start": 73,
+        "end": 79,
+        "text": " I get very bad indigestion and I get very bad sinus problems."
+      },
+      {
+        "id": 18,
+        "start": 80,
+        "end": 85,
+        "text": " Okay, yeah, usually either Cialis will work or Viagra."
+      },
+      {
+        "id": 19,
+        "start": 85,
+        "end": 89,
+        "text": " I'm surprised that you say both are doing that."
+      },
+      {
+        "id": 20,
+        "start": 89,
+        "end": 92,
+        "text": " Maybe some you want to look into a little bit."
+      },
+      {
+        "id": 21,
+        "start": 92,
+        "end": 95,
+        "text": " One of them should be okay, though."
+      },
+      {
+        "id": 22,
+        "start": 96,
+        "end": 98,
+        "text": " Cialis, you can microdose."
+      },
+      {
+        "id": 23,
+        "start": 98,
+        "end": 100,
+        "text": " You were taking, what, 20 milligrams Cialis?"
+      },
+      {
+        "id": 24,
+        "start": 102,
+        "end": 111,
+        "text": " I was taking 10 for a long time, and then I was taking 20 on occasion whenever I needed it."
+      },
+      {
+        "id": 25,
+        "start": 113,
+        "end": 119,
+        "text": " That's why I tried something different than Cialis, which that's why I went to the Viagra."
+      },
+      {
+        "id": 26,
+        "start": 120,
+        "end": 123,
+        "text": " They're both not working for me right now."
+      },
+      {
+        "id": 27,
+        "start": 123,
+        "end": 132,
+        "text": " I'm going to have to hold off until I can figure something else out because it's too much I can't even take it."
+      },
+      {
+        "id": 28,
+        "start": 132,
+        "end": 133,
+        "text": " You know what I mean?"
+      },
+      {
+        "id": 29,
+        "start": 133,
+        "end": 135,
+        "text": " As much as I want to take it, I can't."
+      },
+      {
+        "id": 30,
+        "start": 136,
+        "end": 137,
+        "text": " Okay, yeah."
+      },
+      {
+        "id": 31,
+        "start": 138,
+        "end": 142,
+        "text": " If both are not in good health, there's not much I can say."
+      },
+      {
+        "id": 32,
+        "start": 142,
+        "end": 145,
+        "text": " I would have recommended to microdose them so the body gets used to them."
+      },
+      {
+        "id": 33,
+        "start": 145,
+        "end": 151,
+        "text": " If you're sure that you want to just be completely off, I'm going to cancel the account."
+      },
+      {
+        "id": 34,
+        "start": 151,
+        "end": 156,
+        "text": " The only thing is, you know, something's changed for the better in the future, which I wish for you."
+      },
+      {
+        "id": 35,
+        "start": 156,
+        "end": 157,
+        "text": " Price will be different."
+      },
+      {
+        "id": 36,
+        "start": 157,
+        "end": 161,
+        "text": " That's why they offer to pause so they don't have to pay a new doctor consultation."
+      },
+      {
+        "id": 37,
+        "start": 161,
+        "end": 165,
+        "text": " But when I cancel, I got to cancel that one they finance for you."
+      },
+      {
+        "id": 38,
+        "start": 166,
+        "end": 170,
+        "text": " Well, that's okay for right now because I don't know if I'll be getting back on them."
+      },
+      {
+        "id": 39,
+        "start": 171,
+        "end": 175,
+        "text": " If you guys come up with something in the future, you know, and I'll look into it."
+      },
+      {
+        "id": 40,
+        "start": 176,
+        "end": 181,
+        "text": " If something comes out where I don't have those side effects, I'll probably give you guys a call again."
+      },
+      {
+        "id": 41,
+        "start": 181,
+        "end": 184,
+        "text": " But right now, I'm going to just cancel it up."
+      },
+      {
+        "id": 42,
+        "start": 184,
+        "end": 185,
+        "text": " Okay."
+      },
+      {
+        "id": 43,
+        "start": 185,
+        "end": 186,
+        "text": " That's what I did."
+      },
+      {
+        "id": 44,
+        "start": 186,
+        "end": 187,
+        "text": " I canceled everything."
+      },
+      {
+        "id": 45,
+        "start": 187,
+        "end": 188,
+        "text": " It's your say, Mr. Quinn."
+      },
+      {
+        "id": 46,
+        "start": 189,
+        "end": 190,
+        "text": " Well, thank you, sir."
+      },
+      {
+        "id": 47,
+        "start": 190,
+        "end": 191,
+        "text": " I appreciate your time."
+      },
+      {
+        "id": 48,
+        "start": 191,
+        "end": 192,
+        "text": " You're welcome."
+      },
+      {
+        "id": 49,
+        "start": 192,
+        "end": 193,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 50,
+        "start": 193,
+        "end": 194,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8132-b3ba-c2c49ab0792f",
+    "url": "https://www.notion.so/300000001219891-300000001709813-2f511d0a101c8132b3bac2c49ab0792f"
+  },
+  "processedAt": "2026-01-27T23:28:52.359Z"
+}

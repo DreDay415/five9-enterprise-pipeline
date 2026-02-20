@@ -1,0 +1,212 @@
+{
+  "recording": {
+    "name": "300000001220607-300000001710700-6784486354 by johanna@superbalife.com @ 9_05_44 AM.wav",
+    "size": 119466,
+    "modifyTime": 1769620029000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220607-300000001710700-6784486354 by johanna@superbalife.com @ 9_05_44 AM.wav",
+    "uploadDate": "2026-01-28T17:07:09.000Z",
+    "callId": "300000001220607-300000001710700",
+    "agent": "johanna",
+    "phoneNumber": "6784486354",
+    "callTimestamp": "2026-01-28T09:05:44.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: All right, sir, thank you for your patience.\n\nSpeaker 2: I have your account pulled up here, and I do see that you're a VIP status customer. And what was the reason for the cancellation today?\n\nSpeaker 1: I have high blood pressure, so I just didn't like how it felt after I took it, so I'm not gonna take it no more.\n\nSpeaker 2: I had a stent done in my heart, so I don't wanna take any chances. So I really would like to cancel, please.\n\nSpeaker 1: Yeah, absolutely. You didn't feel good when you took it?\n\nSpeaker 2: Yes, I did not.\n\nSpeaker 1: I'm sorry to hear that you didn't get the desired results that you wanted. I wanna ensure that you got the new HEV and not the previous generic. Would you be able to read to me what it says on the tablet?\n\nSpeaker 2: Well, I'm not at home now, so I couldn't even tell what it is. But again, I'm not gonna put my life at risk, you know, taking whatever it is. So I would really like to cancel.\n\nSpeaker 1: Okay, sir, not a problem. I've gone ahead and I've canceled any future orders.\n\nSpeaker 2: Okay, sir?\n\nSpeaker 1: Yes.\n\nSpeaker 2: You're all set, I've canceled your account.\n\nSpeaker 1: All right, perfect, thank you very much.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Bye.",
+    "duration": 4276,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.359999895095825,
+        "text": " All right, sir, thank you for your patience."
+      },
+      {
+        "id": 1,
+        "start": 2.359999895095825,
+        "end": 3.8399999141693115,
+        "text": " I have your account pulled up here,"
+      },
+      {
+        "id": 2,
+        "start": 3.8399999141693115,
+        "end": 7.119999885559082,
+        "text": " and I do see that you're a VIP status customer."
+      },
+      {
+        "id": 3,
+        "start": 7.119999885559082,
+        "end": 9.720000267028809,
+        "text": " And what was the reason for the cancellation today?"
+      },
+      {
+        "id": 4,
+        "start": 11.600000381469727,
+        "end": 13.319999694824219,
+        "text": " I have high blood pressure,"
+      },
+      {
+        "id": 5,
+        "start": 13.319999694824219,
+        "end": 16.15999984741211,
+        "text": " so I just didn't like how it felt after I took it,"
+      },
+      {
+        "id": 6,
+        "start": 16.15999984741211,
+        "end": 18.200000762939453,
+        "text": " so I'm not gonna take it no more."
+      },
+      {
+        "id": 7,
+        "start": 18.200000762939453,
+        "end": 20.280000686645508,
+        "text": " I had a stent done in my heart,"
+      },
+      {
+        "id": 8,
+        "start": 20.280000686645508,
+        "end": 21.979999542236328,
+        "text": " so I don't wanna take any chances."
+      },
+      {
+        "id": 9,
+        "start": 21.979999542236328,
+        "end": 24.15999984741211,
+        "text": " So I really would like to cancel, please."
+      },
+      {
+        "id": 10,
+        "start": 24.15999984741211,
+        "end": 25.8799991607666,
+        "text": " Yeah, absolutely."
+      },
+      {
+        "id": 11,
+        "start": 25.8799991607666,
+        "end": 28.68000030517578,
+        "text": " You didn't feel good when you took it?"
+      },
+      {
+        "id": 12,
+        "start": 29.559999465942383,
+        "end": 31.959999084472656,
+        "text": " Yes, I did not."
+      },
+      {
+        "id": 13,
+        "start": 31.959999084472656,
+        "end": 34.20000076293945,
+        "text": " I'm sorry to hear that you didn't get"
+      },
+      {
+        "id": 14,
+        "start": 34.20000076293945,
+        "end": 36.439998626708984,
+        "text": " the desired results that you wanted."
+      },
+      {
+        "id": 15,
+        "start": 36.439998626708984,
+        "end": 39.119998931884766,
+        "text": " I wanna ensure that you got the new HEV"
+      },
+      {
+        "id": 16,
+        "start": 39.119998931884766,
+        "end": 41.119998931884766,
+        "text": " and not the previous generic."
+      },
+      {
+        "id": 17,
+        "start": 41.119998931884766,
+        "end": 44.119998931884766,
+        "text": " Would you be able to read to me what it says on the tablet?"
+      },
+      {
+        "id": 18,
+        "start": 45.7599983215332,
+        "end": 47,
+        "text": " Well, I'm not at home now,"
+      },
+      {
+        "id": 19,
+        "start": 47,
+        "end": 48.63999938964844,
+        "text": " so I couldn't even tell what it is."
+      },
+      {
+        "id": 20,
+        "start": 48.63999938964844,
+        "end": 52.119998931884766,
+        "text": " But again, I'm not gonna put my life at risk,"
+      },
+      {
+        "id": 21,
+        "start": 52.119998931884766,
+        "end": 53.279998779296875,
+        "text": " you know, taking whatever it is."
+      },
+      {
+        "id": 22,
+        "start": 53.279998779296875,
+        "end": 55.119998931884766,
+        "text": " So I would really like to cancel."
+      },
+      {
+        "id": 23,
+        "start": 56,
+        "end": 57.7599983215332,
+        "text": " Okay, sir, not a problem."
+      },
+      {
+        "id": 24,
+        "start": 57.7599983215332,
+        "end": 60.400001525878906,
+        "text": " I've gone ahead and I've canceled any future orders."
+      },
+      {
+        "id": 25,
+        "start": 62.63999938964844,
+        "end": 65.63999938964844,
+        "text": " Okay, sir?"
+      },
+      {
+        "id": 26,
+        "start": 65.63999938964844,
+        "end": 66.5199966430664,
+        "text": " Yes."
+      },
+      {
+        "id": 27,
+        "start": 66.5199966430664,
+        "end": 68.76000213623047,
+        "text": " You're all set, I've canceled your account."
+      },
+      {
+        "id": 28,
+        "start": 68.76000213623047,
+        "end": 70.5199966430664,
+        "text": " All right, perfect, thank you very much."
+      },
+      {
+        "id": 29,
+        "start": 70.5199966430664,
+        "end": 71.76000213623047,
+        "text": " Thank you."
+      },
+      {
+        "id": 30,
+        "start": 71.76000213623047,
+        "end": 72.5999984741211,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8116-b5c9-f068cbbb0c09",
+    "url": "https://www.notion.so/300000001220607-300000001710700-2f611d0a101c8116b5c9f068cbbb0c09"
+  },
+  "processedAt": "2026-01-28T18:41:27.336Z"
+}

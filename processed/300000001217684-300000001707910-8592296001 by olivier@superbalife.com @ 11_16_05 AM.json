@@ -1,0 +1,284 @@
+{
+  "recording": {
+    "name": "300000001217684-300000001707910-8592296001 by olivier@superbalife.com @ 11_16_05 AM.wav",
+    "size": 391880,
+    "modifyTime": 1769584037000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217684-300000001707910-8592296001 by olivier@superbalife.com @ 11_16_05 AM.wav",
+    "uploadDate": "2026-01-28T07:07:17.000Z",
+    "callId": "300000001217684-300000001707910",
+    "agent": "olivier",
+    "phoneNumber": "8592296001",
+    "callTimestamp": "2026-01-28T11:16:05.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra. Hello. Hello, how are we doing, sir? Not bad. Okay, Mr. Walter Lomo?\n\nSpeaker 2: That it is. Okay, I'm pulling your prescription here. All right, so I see\n\nSpeaker 1: that you have a prescription for Viagra 15 milligram. We sent\n\nSpeaker 2: you a replacement, Viagra AGV. We just sent you an activator. Yeah, how may I help you, sir?\n\nSpeaker 1: Okay, for starters, there's the prescription for the 50. I was supposed\n\nSpeaker 2: to get the ABG. I never got the ABG. I got the reorder of the 50 milligram. I\n\nSpeaker 1: called at that point in time and said I didn't want it. They said that, oh we'll\n\nSpeaker 2: just send it back. We'll refund it and get you the right stuff out. Not only has\n\nSpeaker 1: it never been refunded, but I never got the right stuff out and I just want to\n\nSpeaker 2: make sure that it's canceled so I don't get another order and go through the\n\nSpeaker 1: rigmarole again. Okay, I mean the replacement we sent you is the AGV.\n\nSpeaker 2: It's a different code on the pill than what you have. They might look alike, but\n\nSpeaker 1: they're different. I never got the package. You never got a replacement? No, I\n\nSpeaker 2: never got the replacement. When I did get them the next time, I was\n\nSpeaker 1: supposed to get like an activator and some other things. I never received that\n\nSpeaker 2: either. So what is your what is your address, sir, if you don't mind me asking?\n\nSpeaker 1: It's 933 Springwood Court in Lexington. Yeah, that's what we have and the post\n\nSpeaker 2: office told us that, you know, they deliver on the 3rd. Do you have anybody\n\nSpeaker 1: accessing your mailbox by chance? No. Yeah, that's just really strange. The post\n\nSpeaker 2: office updated, say on the November 3rd, they deliver at 1:10 p.m. Yes, at 1:10 p.m.\n\nSpeaker 1: and that was a regular order of the 50 milligram that I called and\n\nSpeaker 2: supposedly was going to get the activator sent out and that didn't\n\nSpeaker 1: happen. So you didn't receive the replacement, the free replacement, that's what you're saying? I did not receive the free\n\nSpeaker 2: replacement. Oh wow. So I mean and basically right now is, you know, the 50\n\nSpeaker 1: milligram is garbage to me for two reasons. One, it doesn't effectively work.\n\nSpeaker 2: The other thing too is I have a hundred milligram covered under my insurance and\n\nSpeaker 1: I don't have to pay anything for it. So it's lunacy for me to pay what is it, $60\n\nSpeaker 2: for a medicine that I already got free. So I just want to make sure that my\n\nSpeaker 1: order is canceled and I'm not going to be getting a third bottle here in the\n\nSpeaker 2: next upcoming days. Okay, I mean you could pause the prescription. You don't have to\n\nSpeaker 1: get it every month. You can pause and get it once or twice a year. That's an option\n\nSpeaker 2: that you have. I'm just throwing it out there. Yes, well like I said, right now I just\n\nSpeaker 1: want to cancel it. Okay. Yes. All right. Just keep in mind if anything changed, sir, the\n\nSpeaker 2: price probably would be different because when I'm canceling you here, I\n\nSpeaker 1: got to lose the prescription they finance under your name initially. So\n\nSpeaker 2: they're gonna have to get another one, another doctor evaluation because\n\nSpeaker 1: legally they cannot send you anything without the doctor writing it, right? So\n\nSpeaker 2: that being said, because they're gonna have to reinvest on your initial\n\nSpeaker 1: consultation, your price might be different in the future. I just want you\n\nSpeaker 2: to be aware of that. If you try to reorder and feel like everything is\n\nSpeaker 1: bumped up, it's because they got to refinance your new doctor consultation.\n\nSpeaker 2: But I canceled what you have, the currently one, canceled the account and\n\nSpeaker 1: you're good to go. Okay, thank you very much. You're welcome. Bye bye. Okay.",
+    "duration": 8398,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 11.84000015258789,
+        "text": " Hi this is Viagra. Hello. Hello, how are we doing sir? Not bad. Okay, Mr. Walter Lomo?"
+      },
+      {
+        "id": 1,
+        "start": 11.84000015258789,
+        "end": 22.1200008392334,
+        "text": " That it is. Okay, I'm pulling your prescription here. All right, so I see"
+      },
+      {
+        "id": 2,
+        "start": 22.1200008392334,
+        "end": 27.799999237060547,
+        "text": " that you have a prescription for Viagra 15 milligram. We sent"
+      },
+      {
+        "id": 3,
+        "start": 27.799999237060547,
+        "end": 35.84000015258789,
+        "text": " you a replacement, Viagra AGV. We just sent you an activator. Yeah, how may I help you sir?"
+      },
+      {
+        "id": 4,
+        "start": 35.84000015258789,
+        "end": 41.7599983215332,
+        "text": " Okay, for starters, it's there's the prescription for the 50. I was supposed"
+      },
+      {
+        "id": 5,
+        "start": 41.7599983215332,
+        "end": 47.720001220703125,
+        "text": " to get the ABG. I never got the ABG. I got the reorder of the 50 milligram. I"
+      },
+      {
+        "id": 6,
+        "start": 47.720001220703125,
+        "end": 52.439998626708984,
+        "text": " called at that point in time and said I didn't want it. They said that, oh we'll"
+      },
+      {
+        "id": 7,
+        "start": 52.439998626708984,
+        "end": 57,
+        "text": " just send it back. We'll refund it and get you the right stuff out. Not only has"
+      },
+      {
+        "id": 8,
+        "start": 57,
+        "end": 60.84000015258789,
+        "text": " it never been refunded, but I never got the right stuff out and I just want to"
+      },
+      {
+        "id": 9,
+        "start": 60.84000015258789,
+        "end": 65.23999786376953,
+        "text": " make sure that it's canceled so I don't get another order and go through the"
+      },
+      {
+        "id": 10,
+        "start": 65.23999786376953,
+        "end": 71.4800033569336,
+        "text": " rigmarole again. Okay, I mean the replacement we sent you is the AGV."
+      },
+      {
+        "id": 11,
+        "start": 71.4800033569336,
+        "end": 75.08000183105469,
+        "text": " It's a different code on the pill than what you have. They might look alike, but"
+      },
+      {
+        "id": 12,
+        "start": 75.08000183105469,
+        "end": 82.44000244140625,
+        "text": " they're different. I never got the package. You never got a replacement? No, I"
+      },
+      {
+        "id": 13,
+        "start": 82.4800033569336,
+        "end": 88.4000015258789,
+        "text": " never got the replacement. When I did get them the next time, I was"
+      },
+      {
+        "id": 14,
+        "start": 88.4000015258789,
+        "end": 92.36000061035156,
+        "text": " supposed to get like an activator and some other things. I never received that"
+      },
+      {
+        "id": 15,
+        "start": 92.36000061035156,
+        "end": 97.12000274658203,
+        "text": " either. So what is your what is your address sir, if you don't mind me asking?"
+      },
+      {
+        "id": 16,
+        "start": 97.12000274658203,
+        "end": 103.72000122070312,
+        "text": " It's 933 Springwood Court in Lexington. Yeah, that's what we have and the post"
+      },
+      {
+        "id": 17,
+        "start": 103.72000122070312,
+        "end": 107.27999877929688,
+        "text": " office told us that you know they deliver on the 3rd. Do you have anybody"
+      },
+      {
+        "id": 18,
+        "start": 107.4000015258789,
+        "end": 114.68000030517578,
+        "text": " accessing your mailbox by chance? No. Yeah, that's just really strange. The post"
+      },
+      {
+        "id": 19,
+        "start": 114.68000030517578,
+        "end": 123.12000274658203,
+        "text": " office updated say on the November 3rd, they deliver at 110 p.m. Yes, at 110 p.m."
+      },
+      {
+        "id": 20,
+        "start": 123.12000274658203,
+        "end": 129.72000122070312,
+        "text": " and that was a regular order of the 50 milligram that I called and"
+      },
+      {
+        "id": 21,
+        "start": 129.72000122070312,
+        "end": 134.0800018310547,
+        "text": " supposedly was going to get the activator sent out and that didn't"
+      },
+      {
+        "id": 22,
+        "start": 134.0800018310547,
+        "end": 141.0800018310547,
+        "text": " happen. So you didn't receive the replacement, the free replacement, that's what you're saying? I did not receive the free"
+      },
+      {
+        "id": 23,
+        "start": 141.0800018310547,
+        "end": 148.44000244140625,
+        "text": " replacement. Oh wow. So I mean and basically right now is you know the 50"
+      },
+      {
+        "id": 24,
+        "start": 148.44000244140625,
+        "end": 153.27999877929688,
+        "text": " milligram is garbage to me for two reasons. One, it doesn't effectively work."
+      },
+      {
+        "id": 25,
+        "start": 153.27999877929688,
+        "end": 159.83999633789062,
+        "text": " The other thing too is I have a hundred milligram covered under my insurance and"
+      },
+      {
+        "id": 26,
+        "start": 159.83999633789062,
+        "end": 166.9199981689453,
+        "text": " I don't have to pay anything for it. So it's lunacy for me to pay what is it $60"
+      },
+      {
+        "id": 27,
+        "start": 166.9199981689453,
+        "end": 172.44000244140625,
+        "text": " for a medicine that I already got free. So I just want to make sure that my"
+      },
+      {
+        "id": 28,
+        "start": 172.44000244140625,
+        "end": 176.55999755859375,
+        "text": " order is canceled and I'm not going to be getting a third bottle here in the"
+      },
+      {
+        "id": 29,
+        "start": 176.55999755859375,
+        "end": 181.63999938964844,
+        "text": " next upcoming days. Okay, I mean you could pause the prescription. You don't have to"
+      },
+      {
+        "id": 30,
+        "start": 181.63999938964844,
+        "end": 185.39999389648438,
+        "text": " get it every month. You can pause and get it once or twice a year. That's an option"
+      },
+      {
+        "id": 31,
+        "start": 185.39999389648438,
+        "end": 190.72000122070312,
+        "text": " that you have. I'm just throwing it out there. Yes, well like I said, right now I just"
+      },
+      {
+        "id": 32,
+        "start": 190.72000122070312,
+        "end": 197.8800048828125,
+        "text": " want to cancel it. Okay. Yes. All right. Just keep in mind if anything changed sir, the"
+      },
+      {
+        "id": 33,
+        "start": 197.8800048828125,
+        "end": 201.8000030517578,
+        "text": " price probably would be different because when I'm canceling you here, I"
+      },
+      {
+        "id": 34,
+        "start": 201.8000030517578,
+        "end": 206.60000610351562,
+        "text": " got to lose the prescription they finance under your name initially. So"
+      },
+      {
+        "id": 35,
+        "start": 206.60000610351562,
+        "end": 209.8800048828125,
+        "text": " they're gonna have to get another one, another doctor evaluation because"
+      },
+      {
+        "id": 36,
+        "start": 209.8800048828125,
+        "end": 213.75999450683594,
+        "text": " legally they cannot send you anything without the doctor writing it right. So"
+      },
+      {
+        "id": 37,
+        "start": 213.8000030517578,
+        "end": 218.24000549316406,
+        "text": " that being said, because they're gonna have to reinvest on your initial"
+      },
+      {
+        "id": 38,
+        "start": 218.24000549316406,
+        "end": 221.63999938964844,
+        "text": " consultation, your price might be different in the future. I just want you"
+      },
+      {
+        "id": 39,
+        "start": 221.63999938964844,
+        "end": 225.55999755859375,
+        "text": " to be aware of that. If you try to reorder and feel like everything is"
+      },
+      {
+        "id": 40,
+        "start": 225.55999755859375,
+        "end": 229.32000732421875,
+        "text": " bumped up, it's because they got to refinance your new doctor consultation."
+      },
+      {
+        "id": 41,
+        "start": 229.32000732421875,
+        "end": 233.1999969482422,
+        "text": " But I canceled what you have, the currently one, canceled the account and"
+      },
+      {
+        "id": 42,
+        "start": 233.1999969482422,
+        "end": 240.1199951171875,
+        "text": " you're good to go. Okay, thank you very much. You're welcome. Bye bye. Okay."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816e-a555-cada418f3367",
+    "url": "https://www.notion.so/300000001217684-300000001707910-2f611d0a101c816ea555cada418f3367"
+  },
+  "processedAt": "2026-01-28T15:36:11.727Z"
+}

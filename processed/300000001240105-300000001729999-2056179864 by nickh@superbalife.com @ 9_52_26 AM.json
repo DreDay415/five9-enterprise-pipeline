@@ -1,0 +1,44 @@
+{
+  "recording": {
+    "name": "300000001240105-300000001729999-2056179864 by nickh@superbalife.com @ 9_52_26 AM.wav",
+    "size": 27230,
+    "modifyTime": 1770918784000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240105-300000001729999-2056179864 by nickh@superbalife.com @ 9_52_26 AM.wav",
+    "uploadDate": "2026-02-12T17:53:04.000Z",
+    "callId": "300000001240105-300000001729999",
+    "agent": "nickh",
+    "phoneNumber": "2056179864",
+    "callTimestamp": "2026-02-12T09:52:26.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra at scoreblue. How can I help you today?\n\nSpeaker 2: Sorry, wrong number.\n\nSpeaker 1: Okay, no problem.",
+    "duration": 1496,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Viagra at scoreblue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 9,
+        "end": 11,
+        "text": " Sorry, wrong number."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 13,
+        "text": " Okay, no problem."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81b9-b3ea-ce87b0d805b4",
+    "url": "https://www.notion.so/300000001240105-300000001729999-30511d0a101c81b9b3eace87b0d805b4"
+  },
+  "processedAt": "2026-02-12T18:05:56.906Z"
+}

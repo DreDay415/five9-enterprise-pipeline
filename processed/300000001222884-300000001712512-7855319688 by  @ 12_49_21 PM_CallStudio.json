@@ -1,0 +1,37 @@
+{
+  "recording": {
+    "name": "300000001222884-300000001712512-7855319688 by  @ 12_49_21 PM_CallStudio.wav",
+    "size": 18066,
+    "modifyTime": 1769719777000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222884-300000001712512-7855319688 by  @ 12_49_21 PM_CallStudio.wav",
+    "uploadDate": "2026-01-29T20:49:37.000Z",
+    "callId": "300000001222884-300000001712512",
+    "phoneNumber": "7855319688",
+    "callTimestamp": "2026-01-29T20:49:37.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.",
+    "duration": 1709,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.639999866485596,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.639999866485596,
+        "end": 8.640000343322754,
+        "text": " Speak loudly and clearly."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81ec-903b-e8c5e69a6781",
+    "url": "https://www.notion.so/300000001222884-300000001712512-2f711d0a101c81ec903be8c5e69a6781"
+  },
+  "processedAt": "2026-01-29T21:27:08.561Z"
+}

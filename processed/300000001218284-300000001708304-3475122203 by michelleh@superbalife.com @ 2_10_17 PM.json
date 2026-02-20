@@ -1,0 +1,44 @@
+{
+  "recording": {
+    "name": "300000001218284-300000001708304-3475122203 by michelleh@superbalife.com @ 2_10_17 PM.wav",
+    "size": 22356,
+    "modifyTime": 1769584635000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218284-300000001708304-3475122203 by michelleh@superbalife.com @ 2_10_17 PM.wav",
+    "uploadDate": "2026-01-28T07:17:15.000Z",
+    "callId": "300000001218284-300000001708304",
+    "agent": "michelleh",
+    "phoneNumber": "3475122203",
+    "callTimestamp": "2026-01-28T14:10:17.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Hey, good afternoon. I'm making a purchase today. I don't want to change the milligram.\n\nSpeaker 1: Okay. I can help you out with that. Give me one second.",
+    "duration": 725,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 8,
+        "text": " Hey, good afternoon. I'm making a purchase today. I don't want to change the milligram."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 13,
+        "text": " Okay. I can help you out with that. Give me one second."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8165-bac1-d2ec559be65d",
+    "url": "https://www.notion.so/300000001218284-300000001708304-2f611d0a101c8165bac1d2ec559be65d"
+  },
+  "processedAt": "2026-01-28T14:56:44.840Z"
+}

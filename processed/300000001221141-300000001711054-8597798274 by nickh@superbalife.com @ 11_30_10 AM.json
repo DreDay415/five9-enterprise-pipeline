@@ -1,0 +1,338 @@
+{
+  "recording": {
+    "name": "300000001221141-300000001711054-8597798274 by nickh@superbalife.com @ 11_30_10 AM.wav",
+    "size": 266300,
+    "modifyTime": 1769628796000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221141-300000001711054-8597798274 by nickh@superbalife.com @ 11_30_10 AM.wav",
+    "uploadDate": "2026-01-28T19:33:16.000Z",
+    "callId": "300000001221141-300000001711054",
+    "agent": "nickh",
+    "phoneNumber": "8597798274",
+    "callTimestamp": "2026-01-28T11:30:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra at Score Blue.\n\nSpeaker 2: How can I help you today?\n\nSpeaker 1: Yes, my name is James Thompson, and I'm\n\nSpeaker 2: calling to cancel my subscription to that.\n\nSpeaker 1: OK, sir.\n\nSpeaker 2: Yeah, let me pull up your prescription here, Mr. Thompson.\n\nSpeaker 1: Can I get your date of birth, please?\n\nSpeaker 2: 5-1-1962.\n\nSpeaker 1: Mr. Thompson, I see the prescription here\n\nSpeaker 2: was for the 50-milligram Viagra AGV, correct?\n\nSpeaker 1: It looks like it was originally written on December 23rd.\n\nSpeaker 2: OK, all right, it looks here, OK, all right,\n\nSpeaker 1: so I know what happened here.\n\nSpeaker 2: So with it being a low milligram dosage of 50, OK,\n\nSpeaker 1: which is technically, you know, half a traditional dose,\n\nSpeaker 2: patients or doctors will assume patients\n\nSpeaker 1: are taking them more than five times a month.\n\nSpeaker 2: And what happened here is the doctor wrote it with refills.\n\nSpeaker 1: That one has already been shipped,\n\nSpeaker 2: and it just appears to be delayed due to the weather\n\nSpeaker 1: going on right now.\n\nSpeaker 2: Now, Mr. Thompson, you're not required or obligated\n\nSpeaker 1: to get these monthly.\n\nSpeaker 2: This is not a subscription.\n\nSpeaker 1: This is a prescription, all right?\n\nSpeaker 2: So if you wanted, you could simply pause it,\n\nSpeaker 1: and that would allow you to call in and place orders\n\nSpeaker 2: as needed for the remaining 10 refills under the script.\n\nSpeaker 1: Oh, that'd be great.\n\nSpeaker 2: OK.\n\nSpeaker 1: That would be what I'd be after, yes.\n\nSpeaker 2: OK, great.\n\nSpeaker 1: Yeah, because getting hit with the surprise things,\n\nSpeaker 2: especially if you're not moving through them\n\nSpeaker 1: as fast as expected, that can always be a little scary.\n\nSpeaker 2: I'm getting above age here, and it's\n\nSpeaker 1: hard to run the lady down, you know?\n\nSpeaker 2: All right, well, I went ahead and put that pause on there\n\nSpeaker 1: for you, James, and you're all set, OK?\n\nSpeaker 2: OK, so I just need to, who do I need to call to get us through this?\n\nSpeaker 1: You can call, you can, no, no, no, you're,\n\nSpeaker 2: reminder, this is not a subscription.\n\nSpeaker 1: It's a prescription that's currently active, OK?\n\nSpeaker 2: You're just not, you're not going to get these monthly.\n\nSpeaker 1: Now, if you want to put an order sooner,\n\nSpeaker 2: you can just give us a call, the same number you called today,\n\nSpeaker 1: and then you can just put a refill in.\n\nSpeaker 2: OK, that'd be great.\n\nSpeaker 1: All right, you're all set, then.\n\nSpeaker 2: OK, thanks, Jared.\n\nSpeaker 1: Yep, thank you.\n\nSpeaker 2: Bye-bye.",
+    "duration": 7010,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.240000009536743,
+        "text": " Hi, thank you for calling Viagra at score blue."
+      },
+      {
+        "id": 1,
+        "start": 2.240000009536743,
+        "end": 4.360000133514404,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 2,
+        "start": 4.360000133514404,
+        "end": 7.519999980926514,
+        "text": " Yes, my name is James Thompson, and I'm"
+      },
+      {
+        "id": 3,
+        "start": 7.519999980926514,
+        "end": 13.800000190734863,
+        "text": " calling to cancel my subscription to that."
+      },
+      {
+        "id": 4,
+        "start": 13.800000190734863,
+        "end": 14.5600004196167,
+        "text": " OK, sir."
+      },
+      {
+        "id": 5,
+        "start": 14.5600004196167,
+        "end": 17.84000015258789,
+        "text": " Yeah, let me pull up your prescription here, Mr. Thompson."
+      },
+      {
+        "id": 6,
+        "start": 17.84000015258789,
+        "end": 20.280000686645508,
+        "text": " Can I get your date of birth, please?"
+      },
+      {
+        "id": 7,
+        "start": 20.280000686645508,
+        "end": 27.079999923706055,
+        "text": " 5-1-1962."
+      },
+      {
+        "id": 8,
+        "start": 27.079999923706055,
+        "end": 29.399999618530273,
+        "text": " Mr. Thompson, I see the prescription here"
+      },
+      {
+        "id": 9,
+        "start": 29.399999618530273,
+        "end": 32.52000045776367,
+        "text": " was for the 50-milligram Viagra AGV, correct?"
+      },
+      {
+        "id": 10,
+        "start": 32.52000045776367,
+        "end": 36.439998626708984,
+        "text": " It looks like it was originally written on December 23rd."
+      },
+      {
+        "id": 11,
+        "start": 36.439998626708984,
+        "end": 41.439998626708984,
+        "text": " OK, all right, it looks here, OK, all right,"
+      },
+      {
+        "id": 12,
+        "start": 41.439998626708984,
+        "end": 42.63999938964844,
+        "text": " so I know what happened here."
+      },
+      {
+        "id": 13,
+        "start": 42.63999938964844,
+        "end": 46.08000183105469,
+        "text": " So with it being a low milligram dosage of 50, OK,"
+      },
+      {
+        "id": 14,
+        "start": 46.08000183105469,
+        "end": 50,
+        "text": " which is technically, you know, half a traditional dose,"
+      },
+      {
+        "id": 15,
+        "start": 50,
+        "end": 52.7599983215332,
+        "text": " patients or doctors will assume patients"
+      },
+      {
+        "id": 16,
+        "start": 52.7599983215332,
+        "end": 55.79999923706055,
+        "text": " are taking them more than five times a month."
+      },
+      {
+        "id": 17,
+        "start": 55.84000015258789,
+        "end": 59.91999816894531,
+        "text": " And what happened here is the doctor wrote it with refills."
+      },
+      {
+        "id": 18,
+        "start": 59.91999816894531,
+        "end": 63.7599983215332,
+        "text": " That one has already been shipped,"
+      },
+      {
+        "id": 19,
+        "start": 63.7599983215332,
+        "end": 66.19999694824219,
+        "text": " and it just appears to be delayed due to the weather"
+      },
+      {
+        "id": 20,
+        "start": 66.19999694824219,
+        "end": 68.4000015258789,
+        "text": " going on right now."
+      },
+      {
+        "id": 21,
+        "start": 68.4000015258789,
+        "end": 71.27999877929688,
+        "text": " Now, Mr. Thompson, you're not required or obligated"
+      },
+      {
+        "id": 22,
+        "start": 71.27999877929688,
+        "end": 73.04000091552734,
+        "text": " to get these monthly."
+      },
+      {
+        "id": 23,
+        "start": 73.04000091552734,
+        "end": 75,
+        "text": " This is not a subscription."
+      },
+      {
+        "id": 24,
+        "start": 75,
+        "end": 77.04000091552734,
+        "text": " This is a prescription, all right?"
+      },
+      {
+        "id": 25,
+        "start": 77.04000091552734,
+        "end": 79.95999908447266,
+        "text": " So if you wanted, you could simply pause it,"
+      },
+      {
+        "id": 26,
+        "start": 79.95999908447266,
+        "end": 82.16000366210938,
+        "text": " and that would allow you to call in and place orders"
+      },
+      {
+        "id": 27,
+        "start": 82.16000366210938,
+        "end": 86.27999877929688,
+        "text": " as needed for the remaining 10 refills under the script."
+      },
+      {
+        "id": 28,
+        "start": 86.27999877929688,
+        "end": 88.91999816894531,
+        "text": " Oh, that'd be great."
+      },
+      {
+        "id": 29,
+        "start": 88.91999816894531,
+        "end": 90.08000183105469,
+        "text": " OK."
+      },
+      {
+        "id": 30,
+        "start": 90.08000183105469,
+        "end": 92.76000213623047,
+        "text": " That would be what I'd be after, yes."
+      },
+      {
+        "id": 31,
+        "start": 92.76000213623047,
+        "end": 93.91999816894531,
+        "text": " OK, great."
+      },
+      {
+        "id": 32,
+        "start": 93.91999816894531,
+        "end": 96.31999969482422,
+        "text": " Yeah, because getting hit with the surprise things,"
+      },
+      {
+        "id": 33,
+        "start": 96.31999969482422,
+        "end": 98.16000366210938,
+        "text": " especially if you're not moving through them"
+      },
+      {
+        "id": 34,
+        "start": 98.16000366210938,
+        "end": 103.12000274658203,
+        "text": " as fast as expected, that can always be a little scary."
+      },
+      {
+        "id": 35,
+        "start": 103.12000274658203,
+        "end": 105.80000305175781,
+        "text": " I'm getting above age here, and it's"
+      },
+      {
+        "id": 36,
+        "start": 105.80000305175781,
+        "end": 111.36000061035156,
+        "text": " hard to run the lady down, you know?"
+      },
+      {
+        "id": 37,
+        "start": 111.4000015258789,
+        "end": 113.44000244140625,
+        "text": " All right, well, I went ahead and put that pause on there"
+      },
+      {
+        "id": 38,
+        "start": 113.44000244140625,
+        "end": 116.80000305175781,
+        "text": " for you, James, and you're all set, OK?"
+      },
+      {
+        "id": 39,
+        "start": 116.80000305175781,
+        "end": 122.16000366210938,
+        "text": " OK, so I just need to, who do I need to call to get us through this?"
+      },
+      {
+        "id": 40,
+        "start": 122.16000366210938,
+        "end": 126.5199966430664,
+        "text": " You can call, you can, no, no, no, you're,"
+      },
+      {
+        "id": 41,
+        "start": 126.5199966430664,
+        "end": 128.47999572753906,
+        "text": " reminder, this is not a subscription."
+      },
+      {
+        "id": 42,
+        "start": 128.47999572753906,
+        "end": 132.44000244140625,
+        "text": " It's a prescription that's currently active, OK?"
+      },
+      {
+        "id": 43,
+        "start": 132.44000244140625,
+        "end": 135.63999938964844,
+        "text": " You're just not, you're not going to get these monthly."
+      },
+      {
+        "id": 44,
+        "start": 135.63999938964844,
+        "end": 138.72000122070312,
+        "text": " Now, if you want to put an order sooner,"
+      },
+      {
+        "id": 45,
+        "start": 138.72000122070312,
+        "end": 141.9199981689453,
+        "text": " you can just give us a call, the same number you called today,"
+      },
+      {
+        "id": 46,
+        "start": 141.9199981689453,
+        "end": 144.9600067138672,
+        "text": " and then you can just put a refill in."
+      },
+      {
+        "id": 47,
+        "start": 144.9600067138672,
+        "end": 145.9199981689453,
+        "text": " OK, that'd be great."
+      },
+      {
+        "id": 48,
+        "start": 153.55999755859375,
+        "end": 156.63999938964844,
+        "text": " All right, you're all set, then."
+      },
+      {
+        "id": 49,
+        "start": 156.63999938964844,
+        "end": 158.32000732421875,
+        "text": " OK, thanks, Jared."
+      },
+      {
+        "id": 50,
+        "start": 158.32000732421875,
+        "end": 159.8800048828125,
+        "text": " Yep, thank you."
+      },
+      {
+        "id": 51,
+        "start": 159.8800048828125,
+        "end": 161.44000244140625,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8162-b8b6-cb709bbf6521",
+    "url": "https://www.notion.so/300000001221141-300000001711054-2f611d0a101c8162b8b6cb709bbf6521"
+  },
+  "processedAt": "2026-01-28T23:47:21.990Z"
+}

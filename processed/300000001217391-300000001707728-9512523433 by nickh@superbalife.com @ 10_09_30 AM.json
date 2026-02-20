@@ -1,0 +1,326 @@
+{
+  "recording": {
+    "name": "300000001217391-300000001707728-9512523433 by nickh@superbalife.com @ 10_09_30 AM.wav",
+    "size": 293860,
+    "modifyTime": 1769592147000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217391-300000001707728-9512523433 by nickh@superbalife.com @ 10_09_30 AM.wav",
+    "uploadDate": "2026-01-28T09:22:27.000Z",
+    "callId": "300000001217391-300000001707728",
+    "agent": "nickh",
+    "phoneNumber": "9512523433",
+    "callTimestamp": "2026-01-28T10:09:30.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra at Score Blue.\n\nSpeaker 2: How can I help you today?\n\nSpeaker 1: Yeah, I'd like to know your AGV.\n\nSpeaker 2: Yes, so the Viagra AGV is the newest formula\n\nSpeaker 1: from the Pfizer labs in France.\n\nSpeaker 2: It's proven more effective, longer lasting,\n\nSpeaker 1: and little to no side effects compared to its predecessors.\n\nSpeaker 2: Okay, and how much?\n\nSpeaker 1: Yeah, so you can do 10 pills for $49,\n\nSpeaker 2: 25 pills for $99, and 40 pills for $149.\n\nSpeaker 1: Okay, so there's no side effects on this\n\nSpeaker 2: compared to the generic?\n\nSpeaker 1: Compared to the generic, correct.\n\nSpeaker 2: Yep, a lot of patients are moving\n\nSpeaker 1: from the generic Viagra over to the AGV.\n\nSpeaker 2: Okay, can I order 10?\n\nSpeaker 1: Sure, can I pull up your account here,\n\nSpeaker 2: your full name and date of birth, please?\n\nSpeaker 1: Eduardo Ronquillo, March 3, 1951.\n\nSpeaker 2: Yeah, Eduardo, let me go ahead and put this through for you.\n\nSpeaker 1: So we'll do 10 Viagra AGV milligrams.\n\nSpeaker 2: And are you still at 26685 Nefert Circle?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, and I have a card on file\n\nSpeaker 1: which is a MasterCard ending in 7404.\n\nSpeaker 2: Is that accurate?\n\nSpeaker 1: I'd like to change that, please.\n\nSpeaker 2: Okay.\n\nSpeaker 1: The card number is 5879-9311-0979-3032.\n\nSpeaker 2: Expiration?\n\nSpeaker 1: November of 30.\n\nSpeaker 2: November of 30.\n\nSpeaker 1: And then the three-digit security code?\n\nSpeaker 2: 359.\n\nSpeaker 1: 359, okay.\n\nSpeaker 2: I'll go ahead and put this through for you.\n\nSpeaker 1: So that appears to not, didn't go through.\n\nSpeaker 2: I said it was an invalid number.\n\nSpeaker 1: Do you want to give it back to me again?\n\nSpeaker 2: Okay, 5379-9311-0979-3032.\n\nSpeaker 1: Expiration again was 1130?\n\nSpeaker 2: Yeah, 1130.\n\nSpeaker 1: And the three-digit security code?\n\nSpeaker 2: 359.\n\nSpeaker 1: Okay, let's do this again, let's see.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, Eduardo, that went through.\n\nSpeaker 2: So yeah, you can expect that in two to five business days.\n\nSpeaker 1: Okay, all right then, thank you.\n\nSpeaker 2: Thank you.",
+    "duration": 7801,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.640000104904175,
+        "text": " Hi, thank you so much for calling Viagra at Score Blue."
+      },
+      {
+        "id": 1,
+        "start": 2.640000104904175,
+        "end": 4.559999942779541,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 2,
+        "start": 4.559999942779541,
+        "end": 7.960000038146973,
+        "text": " Yeah, I'd like to know your AGV."
+      },
+      {
+        "id": 3,
+        "start": 9.5600004196167,
+        "end": 11.800000190734863,
+        "text": " Yes, so the Viagra AGV is the newest formula"
+      },
+      {
+        "id": 4,
+        "start": 11.800000190734863,
+        "end": 13.359999656677246,
+        "text": " from the Pfizer labs in France."
+      },
+      {
+        "id": 5,
+        "start": 13.359999656677246,
+        "end": 15.920000076293945,
+        "text": " It's proven more effective, longer lasting,"
+      },
+      {
+        "id": 6,
+        "start": 15.920000076293945,
+        "end": 18.8799991607666,
+        "text": " and little to no side effects compared to its predecessors."
+      },
+      {
+        "id": 7,
+        "start": 20.520000457763672,
+        "end": 23.799999237060547,
+        "text": " Okay, and how much?"
+      },
+      {
+        "id": 8,
+        "start": 24.920000076293945,
+        "end": 27.920000076293945,
+        "text": " Yeah, so you can do 10 pills for $49,"
+      },
+      {
+        "id": 9,
+        "start": 27.920000076293945,
+        "end": 32.08000183105469,
+        "text": " 25 pills for $99, and 40 pills for $149."
+      },
+      {
+        "id": 10,
+        "start": 34.31999969482422,
+        "end": 38.91999816894531,
+        "text": " Okay, so there's no side effects on this"
+      },
+      {
+        "id": 11,
+        "start": 38.91999816894531,
+        "end": 40.880001068115234,
+        "text": " compared to the generic?"
+      },
+      {
+        "id": 12,
+        "start": 40.880001068115234,
+        "end": 42.63999938964844,
+        "text": " Compared to the generic, correct."
+      },
+      {
+        "id": 13,
+        "start": 42.63999938964844,
+        "end": 44.31999969482422,
+        "text": " Yep, a lot of patients are moving"
+      },
+      {
+        "id": 14,
+        "start": 44.31999969482422,
+        "end": 47.7599983215332,
+        "text": " from the generic Viagra over to the AGV."
+      },
+      {
+        "id": 15,
+        "start": 47.7599983215332,
+        "end": 52.68000030517578,
+        "text": " Okay, can I order 10?"
+      },
+      {
+        "id": 16,
+        "start": 52.68000030517578,
+        "end": 54.7599983215332,
+        "text": " Sure, can I pull up your account here,"
+      },
+      {
+        "id": 17,
+        "start": 54.7599983215332,
+        "end": 57.31999969482422,
+        "text": " your full name and date of birth, please?"
+      },
+      {
+        "id": 18,
+        "start": 57.31999969482422,
+        "end": 61.720001220703125,
+        "text": " Eduardo Ronquillo, March 3, 1951."
+      },
+      {
+        "id": 19,
+        "start": 61.720001220703125,
+        "end": 64.27999877929688,
+        "text": " Yeah, Eduardo, let me go ahead and put this through for you."
+      },
+      {
+        "id": 20,
+        "start": 64.27999877929688,
+        "end": 68.91999816894531,
+        "text": " So we'll do 10 Viagra AGV milligrams."
+      },
+      {
+        "id": 21,
+        "start": 70.08000183105469,
+        "end": 74.91999816894531,
+        "text": " And are you still at 26685 Nefert Circle?"
+      },
+      {
+        "id": 22,
+        "start": 74.91999816894531,
+        "end": 76.12000274658203,
+        "text": " Yes."
+      },
+      {
+        "id": 23,
+        "start": 76.12000274658203,
+        "end": 77.4000015258789,
+        "text": " Okay, and I have a card on file"
+      },
+      {
+        "id": 24,
+        "start": 77.4000015258789,
+        "end": 79.95999908447266,
+        "text": " which is a MasterCard ending in 7404."
+      },
+      {
+        "id": 25,
+        "start": 79.95999908447266,
+        "end": 80.87999725341797,
+        "text": " Is that accurate?"
+      },
+      {
+        "id": 26,
+        "start": 82,
+        "end": 83.63999938964844,
+        "text": " I'd like to change that, please."
+      },
+      {
+        "id": 27,
+        "start": 83.63999938964844,
+        "end": 84.4800033569336,
+        "text": " Okay."
+      },
+      {
+        "id": 28,
+        "start": 85.4800033569336,
+        "end": 90.4800033569336,
+        "text": " The card number is 5879-9311-0979-3032."
+      },
+      {
+        "id": 29,
+        "start": 98.23999786376953,
+        "end": 99.08000183105469,
+        "text": " Expiration?"
+      },
+      {
+        "id": 30,
+        "start": 102.80000305175781,
+        "end": 104.12000274658203,
+        "text": " November of 30."
+      },
+      {
+        "id": 31,
+        "start": 104.44000244140625,
+        "end": 105.80000305175781,
+        "text": " November of 30."
+      },
+      {
+        "id": 32,
+        "start": 114.4000015258789,
+        "end": 117.12000274658203,
+        "text": " And then the three-digit security code?"
+      },
+      {
+        "id": 33,
+        "start": 117.12000274658203,
+        "end": 118.76000213623047,
+        "text": " 359."
+      },
+      {
+        "id": 34,
+        "start": 118.76000213623047,
+        "end": 121.16000366210938,
+        "text": " 359, okay."
+      },
+      {
+        "id": 35,
+        "start": 122,
+        "end": 124.08000183105469,
+        "text": " I'll go ahead and put this through for you."
+      },
+      {
+        "id": 36,
+        "start": 129.52000427246094,
+        "end": 132.39999389648438,
+        "text": " So that appears to not, didn't go through."
+      },
+      {
+        "id": 37,
+        "start": 132.39999389648438,
+        "end": 133.9199981689453,
+        "text": " I said it was an invalid number."
+      },
+      {
+        "id": 38,
+        "start": 134.72000122070312,
+        "end": 136.44000244140625,
+        "text": " Do you want to give it back to me again?"
+      },
+      {
+        "id": 39,
+        "start": 136.44000244140625,
+        "end": 141.44000244140625,
+        "text": " Okay, 5379-9311-0979-3032."
+      },
+      {
+        "id": 40,
+        "start": 150.67999267578125,
+        "end": 154.52000427246094,
+        "text": " Expiration again was 1130?"
+      },
+      {
+        "id": 41,
+        "start": 154.52000427246094,
+        "end": 156.27999877929688,
+        "text": " Yeah, 1130."
+      },
+      {
+        "id": 42,
+        "start": 156.27999877929688,
+        "end": 158.60000610351562,
+        "text": " And the three-digit security code?"
+      },
+      {
+        "id": 43,
+        "start": 158.60000610351562,
+        "end": 160.36000061035156,
+        "text": " 359."
+      },
+      {
+        "id": 44,
+        "start": 160.36000061035156,
+        "end": 162.1999969482422,
+        "text": " Okay, let's do this again, let's see."
+      },
+      {
+        "id": 45,
+        "start": 164.0399932861328,
+        "end": 164.8800048828125,
+        "text": " Okay."
+      },
+      {
+        "id": 46,
+        "start": 166.8800048828125,
+        "end": 168.32000732421875,
+        "text": " All right, Eduardo, that went through."
+      },
+      {
+        "id": 47,
+        "start": 168.32000732421875,
+        "end": 171.8800048828125,
+        "text": " So yeah, you can expect that in two to five business days."
+      },
+      {
+        "id": 48,
+        "start": 171.8800048828125,
+        "end": 174.1199951171875,
+        "text": " Okay, all right then, thank you."
+      },
+      {
+        "id": 49,
+        "start": 174.1199951171875,
+        "end": 174.9600067138672,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813e-a827-e546bb5909b1",
+    "url": "https://www.notion.so/300000001217391-300000001707728-2f611d0a101c813ea827e546bb5909b1"
+  },
+  "processedAt": "2026-01-28T10:50:28.960Z"
+}

@@ -1,0 +1,398 @@
+{
+  "recording": {
+    "name": "300000001221795-300000001711487-6015960351 by josimar@superbalife.com @ 3_02_15 PM.wav",
+    "size": 278846,
+    "modifyTime": 1769641529000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221795-300000001711487-6015960351 by josimar@superbalife.com @ 3_02_15 PM.wav",
+    "uploadDate": "2026-01-28T23:05:29.000Z",
+    "callId": "300000001221795-300000001711487",
+    "agent": "josimar",
+    "phoneNumber": "6015960351",
+    "callTimestamp": "2026-01-28T15:02:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. I can help you today.\n\nSpeaker 2: Oh, this is Brent Ladner.\n\nSpeaker 1: Uh, I had orders of, uh, uh,\n\nSpeaker 2: we all scored blue. I hadn't received.\n\nSpeaker 1: Oh, you made an order and you want to track it?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: I can help you with that one moment.\n\nSpeaker 2: Mm-hmm.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Can I please get your last name and a zip code?\n\nSpeaker 1: What now?\n\nSpeaker 2: Your last name and a zip code.\n\nSpeaker 1: Well, that, uh, Abner 39401.\n\nSpeaker 2: Ronald Abner, A-B-N-E-R 39401.\n\nSpeaker 1: Yeah, so you put this order in on December 30th?\n\nSpeaker 2: Let me just see what's going on.\n\nSpeaker 1: Okay, sir, so do you have a voice of, um,\n\nSpeaker 2: do you have a blocker, like a spam blocker,\n\nSpeaker 1: like a no-caller ID blocker on your phone?\n\nSpeaker 2: Because the doctor has been reaching out to you\n\nSpeaker 1: multiple times already since December 30th.\n\nSpeaker 2: He just hasn't been able to get a hold of you\n\nSpeaker 1: because he's going straight to voicemail.\n\nSpeaker 2: Well, I've been, uh, uh, uh,\n\nSpeaker 1: the, for the number wide, I've been calling back,\n\nSpeaker 2: like, you know, I'm calling now,\n\nSpeaker 1: and y'all see I gave y'all my phone number.\n\nSpeaker 2: No, no, no, you can call us,\n\nSpeaker 1: but I'm saying if you have, like,\n\nSpeaker 2: something active on your phone\n\nSpeaker 1: that blocks any calls that aren't saved onto your phone,\n\nSpeaker 2: or if you have a spam blocker,\n\nSpeaker 1: like a no-caller ID blocker,\n\nSpeaker 2: because the doctor will call you from a no-caller ID number.\n\nSpeaker 1: No-caller ID?\n\nSpeaker 2: Yeah, that's the number he's going to call you from.\n\nSpeaker 1: Well, I've been, I don't have no,\n\nSpeaker 2: I shouldn't have no blocker on my phone.\n\nSpeaker 1: Yeah, he's been, he's been reaching out though, sir,\n\nSpeaker 2: multiple times it looks like\n\nSpeaker 1: to try to get a hold of you,\n\nSpeaker 2: but for some odd reason\n\nSpeaker 1: it just keeps going to voicemail and keeps saying.\n\nSpeaker 2: I mean, what's the phone number?\n\nSpeaker 1: I mean, I don't recognize it.\n\nSpeaker 2: 601-596-0351.\n\nSpeaker 1: Let's see, I'm going to get a pin.\n\nSpeaker 2: No, no, no, that's your number, sir.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: So I read you your number.\n\nSpeaker 1: You need to just,\n\nSpeaker 2: I'll tell him to call you again today,\n\nSpeaker 1: but just keep an eye out for your phone.\n\nSpeaker 2: Make sure that,\n\nSpeaker 1: make sure that the caller ID or you're accepting calls\n\nSpeaker 2: and then he can reach out to you,\n\nSpeaker 1: but I'll tell him to call him again today.\n\nSpeaker 2: I'll tell him to call you again today.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, sir, hope you have a great day.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Bye.",
+    "duration": 8173,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. I can help you today."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5,
+        "text": " Oh, this is Brent Ladner."
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 10,
+        "text": " Uh, I had orders of, uh, uh,"
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 14,
+        "text": " we all scored blue. I hadn't received."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 17,
+        "text": " Oh, you made an order and you want to track it?"
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 18,
+        "text": " Yeah."
+      },
+      {
+        "id": 6,
+        "start": 18,
+        "end": 20,
+        "text": " I can help you with that one moment."
+      },
+      {
+        "id": 7,
+        "start": 20,
+        "end": 21,
+        "text": " Mm-hmm."
+      },
+      {
+        "id": 8,
+        "start": 21,
+        "end": 33,
+        "text": " Okay."
+      },
+      {
+        "id": 9,
+        "start": 33,
+        "end": 36,
+        "text": " Can I please get your last name and a zip code?"
+      },
+      {
+        "id": 10,
+        "start": 36,
+        "end": 39,
+        "text": " What now?"
+      },
+      {
+        "id": 11,
+        "start": 39,
+        "end": 43,
+        "text": " Your last name and a zip code."
+      },
+      {
+        "id": 12,
+        "start": 44,
+        "end": 47,
+        "text": " Well, that, uh, Abner 39401."
+      },
+      {
+        "id": 13,
+        "start": 47,
+        "end": 52,
+        "text": " Ronald Abner, A-B-N-E-R 39401."
+      },
+      {
+        "id": 14,
+        "start": 52,
+        "end": 55,
+        "text": " Yeah, so you put this order in on December 30th?"
+      },
+      {
+        "id": 15,
+        "start": 55,
+        "end": 61,
+        "text": " Let me just see what's going on."
+      },
+      {
+        "id": 16,
+        "start": 61,
+        "end": 65,
+        "text": " Okay, sir, so do you have a voice of, um,"
+      },
+      {
+        "id": 17,
+        "start": 65,
+        "end": 68,
+        "text": " do you have a blocker, like a spam blocker,"
+      },
+      {
+        "id": 18,
+        "start": 68,
+        "end": 70,
+        "text": " like a no-caller ID blocker on your phone?"
+      },
+      {
+        "id": 19,
+        "start": 70,
+        "end": 72,
+        "text": " Because the doctor has been reaching out to you"
+      },
+      {
+        "id": 20,
+        "start": 72,
+        "end": 76,
+        "text": " multiple times already since December 30th."
+      },
+      {
+        "id": 21,
+        "start": 76,
+        "end": 78,
+        "text": " He just hasn't been able to get a hold of you"
+      },
+      {
+        "id": 22,
+        "start": 78,
+        "end": 81,
+        "text": " because he's going straight to voicemail."
+      },
+      {
+        "id": 23,
+        "start": 81,
+        "end": 84,
+        "text": " Well, I've been, uh, uh, uh,"
+      },
+      {
+        "id": 24,
+        "start": 84,
+        "end": 87,
+        "text": " the, for the number wide, I've been calling back,"
+      },
+      {
+        "id": 25,
+        "start": 87,
+        "end": 88,
+        "text": " like, you know, I'm calling now,"
+      },
+      {
+        "id": 26,
+        "start": 88,
+        "end": 90,
+        "text": " and y'all see I gave y'all my phone number."
+      },
+      {
+        "id": 27,
+        "start": 90,
+        "end": 91,
+        "text": " No, no, no, you can call us,"
+      },
+      {
+        "id": 28,
+        "start": 91,
+        "end": 93,
+        "text": " but I'm saying if you have, like,"
+      },
+      {
+        "id": 29,
+        "start": 93,
+        "end": 94,
+        "text": " something active on your phone"
+      },
+      {
+        "id": 30,
+        "start": 94,
+        "end": 97,
+        "text": " that blocks any calls that aren't saved onto your phone,"
+      },
+      {
+        "id": 31,
+        "start": 98,
+        "end": 99,
+        "text": " or if you have a spam blocker,"
+      },
+      {
+        "id": 32,
+        "start": 99,
+        "end": 100,
+        "text": " like a no-caller ID blocker,"
+      },
+      {
+        "id": 33,
+        "start": 100,
+        "end": 105,
+        "text": " because the doctor will call you from a no-caller ID number."
+      },
+      {
+        "id": 34,
+        "start": 105,
+        "end": 106,
+        "text": " No-caller ID?"
+      },
+      {
+        "id": 35,
+        "start": 106,
+        "end": 110,
+        "text": " Yeah, that's the number he's going to call you from."
+      },
+      {
+        "id": 36,
+        "start": 110,
+        "end": 112,
+        "text": " Well, I've been, I don't have no,"
+      },
+      {
+        "id": 37,
+        "start": 112,
+        "end": 115,
+        "text": " I shouldn't have no blocker on my phone."
+      },
+      {
+        "id": 38,
+        "start": 115,
+        "end": 118,
+        "text": " Yeah, he's been, he's been reaching out though, sir,"
+      },
+      {
+        "id": 39,
+        "start": 118,
+        "end": 119,
+        "text": " multiple times it looks like"
+      },
+      {
+        "id": 40,
+        "start": 119,
+        "end": 121,
+        "text": " to try to get a hold of you,"
+      },
+      {
+        "id": 41,
+        "start": 121,
+        "end": 122,
+        "text": " but for some odd reason"
+      },
+      {
+        "id": 42,
+        "start": 122,
+        "end": 127,
+        "text": " it just keeps going to voicemail and keeps saying."
+      },
+      {
+        "id": 43,
+        "start": 127,
+        "end": 130,
+        "text": " I mean, what's the phone number?"
+      },
+      {
+        "id": 44,
+        "start": 130,
+        "end": 132,
+        "text": " I mean, I don't recognize it."
+      },
+      {
+        "id": 45,
+        "start": 132,
+        "end": 137,
+        "text": " 601-596-0351."
+      },
+      {
+        "id": 46,
+        "start": 137,
+        "end": 140,
+        "text": " Let's see, I'm going to get a pin."
+      },
+      {
+        "id": 47,
+        "start": 140,
+        "end": 143,
+        "text": " No, no, no, that's your number, sir."
+      },
+      {
+        "id": 48,
+        "start": 143,
+        "end": 144,
+        "text": " Yeah."
+      },
+      {
+        "id": 49,
+        "start": 144,
+        "end": 149,
+        "text": " So I read you your number."
+      },
+      {
+        "id": 50,
+        "start": 149,
+        "end": 150,
+        "text": " You need to just,"
+      },
+      {
+        "id": 51,
+        "start": 150,
+        "end": 152,
+        "text": " I'll tell him to call you again today,"
+      },
+      {
+        "id": 52,
+        "start": 152,
+        "end": 154,
+        "text": " but just keep an eye out for your phone."
+      },
+      {
+        "id": 53,
+        "start": 154,
+        "end": 156,
+        "text": " Make sure that,"
+      },
+      {
+        "id": 54,
+        "start": 156,
+        "end": 159,
+        "text": " make sure that the caller ID or you're accepting calls"
+      },
+      {
+        "id": 55,
+        "start": 159,
+        "end": 160,
+        "text": " and then he can reach out to you,"
+      },
+      {
+        "id": 56,
+        "start": 160,
+        "end": 162,
+        "text": " but I'll tell him to call him again today."
+      },
+      {
+        "id": 57,
+        "start": 162,
+        "end": 165,
+        "text": " I'll tell him to call you again today."
+      },
+      {
+        "id": 58,
+        "start": 165,
+        "end": 166,
+        "text": " Okay."
+      },
+      {
+        "id": 59,
+        "start": 166,
+        "end": 168,
+        "text": " All right, sir, hope you have a great day."
+      },
+      {
+        "id": 60,
+        "start": 168,
+        "end": 169,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 61,
+        "start": 169,
+        "end": 170,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8164-8812-ec797a314c6e",
+    "url": "https://www.notion.so/300000001221795-300000001711487-2f611d0a101c81648812ec797a314c6e"
+  },
+  "processedAt": "2026-01-28T23:24:48.501Z"
+}

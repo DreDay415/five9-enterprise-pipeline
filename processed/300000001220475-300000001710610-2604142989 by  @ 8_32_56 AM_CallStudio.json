@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001220475-300000001710610-2604142989 by  @ 8_32_56 AM_CallStudio.wav",
+    "size": 48746,
+    "modifyTime": 1769618028000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220475-300000001710610-2604142989 by  @ 8_32_56 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T16:33:48.000Z",
+    "callId": "300000001220475-300000001710610",
+    "phoneNumber": "2604142989",
+    "callTimestamp": "2026-01-28T16:33:48.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para español, marque numero nueve.\n\nSpeaker 2: We didn't receive a response, or I couldn't hear you.\n\nSpeaker 1: Let's try again.\n\nSpeaker 2: Please state the reason for your call.\n\nSpeaker 1: I was sent the wrong product.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 1083,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.28000020980835,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.420000076293945,
+        "end": 6.900000095367432,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.900000095367432,
+        "end": 8.680000305175781,
+        "text": " Para español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 16.68000030517578,
+        "end": 19.15999984741211,
+        "text": " We didn't receive a response, or I couldn't hear your."
+      },
+      {
+        "id": 4,
+        "start": 19.81999969482422,
+        "end": 20.739999771118164,
+        "text": " Let's try again."
+      },
+      {
+        "id": 5,
+        "start": 21.360000610351562,
+        "end": 22.979999542236328,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 6,
+        "start": 25.479999542236328,
+        "end": 27.1200008392334,
+        "text": " I was sent the wrong product."
+      },
+      {
+        "id": 7,
+        "start": 28.399999618530273,
+        "end": 29.6200008392334,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813b-84c2-e3e7a21d099e",
+    "url": "https://www.notion.so/300000001220475-300000001710610-2f611d0a101c813b84c2e3e7a21d099e"
+  },
+  "processedAt": "2026-01-28T19:00:59.221Z"
+}

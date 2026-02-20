@@ -1,0 +1,112 @@
+{
+  "recording": {
+    "name": "300000001242311-300000001731802-5412973702 by LeoF @ 12_35_03 PM.wav",
+    "size": 70910,
+    "modifyTime": 1771014969000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242311-300000001731802-5412973702 by LeoF @ 12_35_03 PM.wav",
+    "uploadDate": "2026-02-13T20:36:09.000Z",
+    "callId": "300000001242311-300000001731802",
+    "phoneNumber": "5412973702",
+    "callTimestamp": "2026-02-13T12:35:03.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242311-300000001731802_5412973702.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001242311-300000001731802_5412973702.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, thanks for calling Viagra, how can I help you?\n\nSpeaker 2: This is Roger Stewart calling from here in Oregon.\n\nSpeaker 1: I just got a message.\n\nSpeaker 2: I sent two videos, okay, and it just says...\n\nSpeaker 1: Oh, okay, Mr. Stewart, you sent those videos in from the...\n\nSpeaker 2: Okay, I see here there's a message from our e-mail team.\n\nSpeaker 1: There's a note here on your profile.\n\nSpeaker 2: So we got the video, it's going to be uploaded.\n\nSpeaker 1: This will proceed normally, so you're good to go.\n\nSpeaker 2: I'm not doing anything?\n\nSpeaker 1: No, you won't have to do anything else.\n\nSpeaker 2: You should be good to go.\n\nSpeaker 1: All right, thank you. Bye.\n\nSpeaker 2: Thank you. Bye-bye now.",
+    "duration": 2258,
+    "audioDuration": 43.599998474121094,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hey, thanks for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 10,
+        "text": " This is Roger Stewart calling from here in Oregon."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 13,
+        "text": " I just got a message."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 17,
+        "text": " I sent two videos, okay, and it just says..."
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 22,
+        "text": " Oh, okay, Mr. Stewart, you sent those videos in from the..."
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 27,
+        "text": " Okay, I see here there's a message from our e-mail team."
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 29,
+        "text": " There's a note here on your profile."
+      },
+      {
+        "id": 7,
+        "start": 29,
+        "end": 31,
+        "text": " So we got the video, it's going to be uploaded."
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 34,
+        "text": " This will proceed normally, so you're good to go."
+      },
+      {
+        "id": 9,
+        "start": 34,
+        "end": 36,
+        "text": " I'm not doing anything?"
+      },
+      {
+        "id": 10,
+        "start": 36,
+        "end": 38,
+        "text": " No, you won't have to do anything else."
+      },
+      {
+        "id": 11,
+        "start": 38,
+        "end": 40,
+        "text": " You should be good to go."
+      },
+      {
+        "id": 12,
+        "start": 40,
+        "end": 41,
+        "text": " All right, thank you. Bye."
+      },
+      {
+        "id": 13,
+        "start": 41,
+        "end": 43,
+        "text": " Thank you. Bye-bye now."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81c5-ab5a-e0b9add4a215",
+    "url": "https://www.notion.so/300000001242311-300000001731802-30611d0a101c81c5ab5ae0b9add4a215"
+  },
+  "processedAt": "2026-02-13T21:02:04.718Z"
+}

@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001219419-300000001709504-9546005766 by  @ 11_15_13 AM_CallStudio.wav",
+    "size": 26970,
+    "modifyTime": 1769585834000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219419-300000001709504-9546005766 by  @ 11_15_13 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:37:14.000Z",
+    "callId": "300000001219419-300000001709504",
+    "phoneNumber": "9546005766",
+    "callTimestamp": "2026-01-28T07:37:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I didn't receive my order.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1717,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.78000020980835,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.940000057220459,
+        "end": 6.420000076293945,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.739999771118164,
+        "end": 8.199999809265137,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 8.199999809265137,
+        "end": 13.079999923706055,
+        "text": " I didn't receive my order."
+      },
+      {
+        "id": 4,
+        "start": 14.720000267028809,
+        "end": 16.219999313354492,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81cd-80ac-d1c4f70752b7",
+    "url": "https://www.notion.so/300000001219419-300000001709504-2f611d0a101c81cd80acd1c4f70752b7"
+  },
+  "processedAt": "2026-01-28T14:09:44.137Z"
+}

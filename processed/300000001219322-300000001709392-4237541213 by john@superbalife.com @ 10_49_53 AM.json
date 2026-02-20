@@ -1,0 +1,236 @@
+{
+  "recording": {
+    "name": "300000001219322-300000001709392-4237541213 by john@superbalife.com @ 10_49_53 AM.wav",
+    "size": 228536,
+    "modifyTime": 1769584039000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219322-300000001709392-4237541213 by john@superbalife.com @ 10_49_53 AM.wav",
+    "uploadDate": "2026-01-28T07:07:19.000Z",
+    "callId": "300000001219322-300000001709392",
+    "agent": "john",
+    "phoneNumber": "4237541213",
+    "callTimestamp": "2026-01-28T10:49:53.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Hello, this is John. How can I help you?\n\nSpeaker 1: This message has been transcribed. One moment while I notify the caller.\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?\n\nSpeaker 2: Hello.\n\nSpeaker 1: Hi, sir. How can I help you today?\n\nSpeaker 2: I was looking to order a Viagra ATV.\n\nSpeaker 1: Okay. I need your name and zip code.\n\nSpeaker 2: It's Mike Rogan, R-O-G-A-N 37857.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Last time I ordered it, I didn't get the ATV.\n\nSpeaker 1: Okay. Well, I don't know what would have happened there, but I will make sure that you get the right thing this time.\n\nSpeaker 2: 1662 McKinney Chapel Road?\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: Did you want to do 25 of the 100 milligrams, though?\n\nSpeaker 1: 100 milligrams? It's $100, right?\n\nSpeaker 2: Yeah. Well, it's the same price you paid before, the $113.95 after everything.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Does the pill say ADV on it?\n\nSpeaker 2: No. What the pill is going to say is 100, though, just 100.\n\nSpeaker 1: So, if that's the pill, I'm going to make sure you get this time, because I don't know what might have happened on your first order, but I will get it.\n\nSpeaker 2: Well, that's what I got before, but it's not the one that works in 11 minutes.\n\nSpeaker 1: Yes, it is the one that works that fast, sir. It just depends on how it reacts to your body.\n\nSpeaker 2: So, another key thing is not taking...\n\nSpeaker 1: Okay. I've got some. Just cancel this right now.\n\nSpeaker 2: There's nothing to cancel, because I didn't even put it through.\n\nSpeaker 1: So, I was just trying to tell you, if you don't take the pills right, sir, they're not going to work, but you cut me off, so I guess you don't want that information.\n\nSpeaker 2: Well, no, that's all right. It is supposed to work in 11 minutes.\n\nSpeaker 1: Yes, but if you take it with food or alcohol in your stomach, it's not going to work, or it'll work much slower, so that's important to remember in case you weren't aware of that.\n\nSpeaker 2: Okay. Okay. Okay.\n\nSpeaker 1: But I have not put anything through, so call us when you're ready.\n\nSpeaker 2: All right. Thank you.\n\nSpeaker 1: Bye-bye.",
+    "duration": 7506,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 7,
+        "text": " Hello, this is John. How can I help you?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " This message has been transcribed. One moment while I notify the caller."
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 17,
+        "text": " Hello?"
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 20,
+        "text": " Hello?"
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 21,
+        "text": " Hello."
+      },
+      {
+        "id": 6,
+        "start": 21,
+        "end": 23,
+        "text": " Hi, sir. How can I help you today?"
+      },
+      {
+        "id": 7,
+        "start": 24,
+        "end": 29,
+        "text": " I was looking to order a Viagra ATV."
+      },
+      {
+        "id": 8,
+        "start": 29,
+        "end": 31,
+        "text": " Okay. I need your name and zip code."
+      },
+      {
+        "id": 9,
+        "start": 32,
+        "end": 40,
+        "text": " It's Mike Rogan, R-O-G-A-N 37857."
+      },
+      {
+        "id": 10,
+        "start": 41,
+        "end": 42,
+        "text": " Thank you."
+      },
+      {
+        "id": 11,
+        "start": 43,
+        "end": 46,
+        "text": " Last time I ordered it, I didn't get the ATV."
+      },
+      {
+        "id": 12,
+        "start": 47,
+        "end": 51,
+        "text": " Okay. Well, I don't know what would have happened there, but I will make sure that you get the right thing this time."
+      },
+      {
+        "id": 13,
+        "start": 53,
+        "end": 55,
+        "text": " 1662 McKinney Chapel Road?"
+      },
+      {
+        "id": 14,
+        "start": 56,
+        "end": 57,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 15,
+        "start": 57,
+        "end": 60,
+        "text": " Did you want to do 25 of the 100 milligrams, though?"
+      },
+      {
+        "id": 16,
+        "start": 62,
+        "end": 65,
+        "text": " 100 milligrams? It's $100, right?"
+      },
+      {
+        "id": 17,
+        "start": 67,
+        "end": 72,
+        "text": " Yeah. Well, it's the same price you paid before, the $113.95 after everything."
+      },
+      {
+        "id": 18,
+        "start": 73,
+        "end": 74,
+        "text": " Yeah."
+      },
+      {
+        "id": 19,
+        "start": 74,
+        "end": 75,
+        "text": " Okay."
+      },
+      {
+        "id": 20,
+        "start": 76,
+        "end": 79,
+        "text": " Does the pill say ADV on it?"
+      },
+      {
+        "id": 21,
+        "start": 80,
+        "end": 83,
+        "text": " No. What the pill is going to say is 100, though, just 100."
+      },
+      {
+        "id": 22,
+        "start": 83,
+        "end": 88,
+        "text": " So, if that's the pill, I'm going to make sure you get this time, because I don't know what might have happened on your first order, but I will get it."
+      },
+      {
+        "id": 23,
+        "start": 89,
+        "end": 94,
+        "text": " Well, that's what I got before, but it's not the one that works in 11 minutes."
+      },
+      {
+        "id": 24,
+        "start": 95,
+        "end": 98,
+        "text": " Yes, it is the one that works that fast, sir. It just depends on how it reacts to your body."
+      },
+      {
+        "id": 25,
+        "start": 99,
+        "end": 101,
+        "text": " So, another key thing is not taking..."
+      },
+      {
+        "id": 26,
+        "start": 102,
+        "end": 106,
+        "text": " Okay. I've got some. Just cancel this right now."
+      },
+      {
+        "id": 27,
+        "start": 107,
+        "end": 109,
+        "text": " There's nothing to cancel, because I didn't even put it through."
+      },
+      {
+        "id": 28,
+        "start": 109,
+        "end": 115,
+        "text": " So, I was just trying to tell you, if you don't take the pills right, sir, they're not going to work, but you cut me off, so I guess you don't want that information."
+      },
+      {
+        "id": 29,
+        "start": 116,
+        "end": 122,
+        "text": " Well, no, that's all right. It is supposed to work in 11 minutes."
+      },
+      {
+        "id": 30,
+        "start": 123,
+        "end": 129,
+        "text": " Yes, but if you take it with food or alcohol in your stomach, it's not going to work, or it'll work much slower, so that's important to remember in case you weren't aware of that."
+      },
+      {
+        "id": 31,
+        "start": 130,
+        "end": 133,
+        "text": " Okay. Okay. Okay."
+      },
+      {
+        "id": 32,
+        "start": 134,
+        "end": 136,
+        "text": " But I have not put anything through, so call us when you're ready."
+      },
+      {
+        "id": 33,
+        "start": 137,
+        "end": 138,
+        "text": " All right. Thank you."
+      },
+      {
+        "id": 34,
+        "start": 139,
+        "end": 140,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8140-8522-cdb0b3ec6ce6",
+    "url": "https://www.notion.so/300000001219322-300000001709392-2f611d0a101c81408522cdb0b3ec6ce6"
+  },
+  "processedAt": "2026-01-28T15:30:39.807Z"
+}

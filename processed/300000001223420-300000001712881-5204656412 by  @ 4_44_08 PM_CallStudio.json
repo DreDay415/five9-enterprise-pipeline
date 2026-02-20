@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001223420-300000001712881-5204656412 by  @ 4_44_08 PM_CallStudio.wav",
+    "size": 25800,
+    "modifyTime": 1769733885000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223420-300000001712881-5204656412 by  @ 4_44_08 PM_CallStudio.wav",
+    "uploadDate": "2026-01-30T00:44:45.000Z",
+    "callId": "300000001223420-300000001712881",
+    "phoneNumber": "5204656412",
+    "callTimestamp": "2026-01-30T00:44:45.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Viagra AGV.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 1607,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 7,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 12,
+        "text": " Viagra AGV."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 15,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f811d0a-101c-81b8-ba2e-cac4df67597a",
+    "url": "https://www.notion.so/300000001223420-300000001712881-2f811d0a101c81b8ba2ecac4df67597a"
+  },
+  "processedAt": "2026-01-30T10:02:45.305Z"
+}

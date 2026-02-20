@@ -1,0 +1,220 @@
+{
+  "recording": {
+    "name": "300000001241525-300000001731298-5413016990 by LeoF @ 8_52_05 AM.wav",
+    "size": 105426,
+    "modifyTime": 1771001611000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241525-300000001731298-5413016990 by LeoF @ 8_52_05 AM.wav",
+    "uploadDate": "2026-02-13T16:53:31.000Z",
+    "callId": "300000001241525-300000001731298",
+    "phoneNumber": "5413016990",
+    "callTimestamp": "2026-02-13T08:52:05.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241525-300000001731298_5413016990.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_unknown_300000001241525-300000001731298_5413016990.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, thanks for calling by.\n\nSpeaker 2: Hi, how can I help you?\n\nSpeaker 1: Hey, buddy.\n\nSpeaker 2: Hey, my name's Brad Watson, and I think you need my phone number, don't you?\n\nSpeaker 1: What was your name?\n\nSpeaker 2: Brad Watson.\n\nSpeaker 1: What's going on, Mr. Watson?\n\nSpeaker 2: I got you up here.\n\nSpeaker 1: Okay, cool.\n\nSpeaker 2: I went through all the things, gave me the credit card, all that kind of stuff, and she\n\nSpeaker 1: said that I couldn't get the doctor thing figured out, so she said she would have a\n\nSpeaker 2: contact me, and I don't know if I was supposed to stay on the line for him to come on, or\n\nSpeaker 1: if he was going to call me.\n\nSpeaker 2: I'm not sure how it works.\n\nSpeaker 1: Okay, no worries.\n\nSpeaker 2: I'll have him give you a shout.\n\nSpeaker 1: I see that the other agent was messaging the doctor, so no worries.\n\nSpeaker 2: You don't have to stand in line.\n\nSpeaker 1: They'll give you a call.\n\nSpeaker 2: Are you going to be available for like the next hour or so?\n\nSpeaker 1: Oh, yeah, yeah.\n\nSpeaker 2: That's what I thought.\n\nSpeaker 1: When I got off the phone, I went, man, I wonder if I'm supposed to stay on the line or not.\n\nSpeaker 2: No, no worries.\n\nSpeaker 1: So go ahead and hang up, and then you guys will call me.\n\nSpeaker 2: Exactly, exactly.\n\nSpeaker 1: I'll have him give you a call definitely in the next 90 minutes here, okay?\n\nSpeaker 2: All right.\n\nSpeaker 1: Thanks, buddy.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Bye now.\n\nSpeaker 2: Bye.",
+    "duration": 4985,
+    "audioDuration": 64.83999633789062,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Hey, thanks for calling by."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2,
+        "text": " Hi, how can I help you?"
+      },
+      {
+        "id": 2,
+        "start": 2,
+        "end": 3,
+        "text": " Hey, buddy."
+      },
+      {
+        "id": 3,
+        "start": 3,
+        "end": 9,
+        "text": " Hey, my name's Brad Watson, and I think you need my phone number, don't you?"
+      },
+      {
+        "id": 4,
+        "start": 9,
+        "end": 10,
+        "text": " What was your name?"
+      },
+      {
+        "id": 5,
+        "start": 10,
+        "end": 11,
+        "text": " Brad Watson."
+      },
+      {
+        "id": 6,
+        "start": 11,
+        "end": 13,
+        "text": " What's going on, Mr. Watson?"
+      },
+      {
+        "id": 7,
+        "start": 13,
+        "end": 15,
+        "text": " I got you up here."
+      },
+      {
+        "id": 8,
+        "start": 15,
+        "end": 16,
+        "text": " Okay, cool."
+      },
+      {
+        "id": 9,
+        "start": 16,
+        "end": 21,
+        "text": " I went through all the things, gave me the credit card, all that kind of stuff, and she"
+      },
+      {
+        "id": 10,
+        "start": 21,
+        "end": 26,
+        "text": " said that I couldn't get the doctor thing figured out, so she said she would have a"
+      },
+      {
+        "id": 11,
+        "start": 26,
+        "end": 31,
+        "text": " contact me, and I don't know if I was supposed to stay on the line for him to come on, or"
+      },
+      {
+        "id": 12,
+        "start": 31,
+        "end": 33,
+        "text": " if he was going to call me."
+      },
+      {
+        "id": 13,
+        "start": 33,
+        "end": 34,
+        "text": " I'm not sure how it works."
+      },
+      {
+        "id": 14,
+        "start": 34,
+        "end": 35,
+        "text": " Okay, no worries."
+      },
+      {
+        "id": 15,
+        "start": 35,
+        "end": 36,
+        "text": " I'll have him give you a shout."
+      },
+      {
+        "id": 16,
+        "start": 36,
+        "end": 40,
+        "text": " I see that the other agent was messaging the doctor, so no worries."
+      },
+      {
+        "id": 17,
+        "start": 40,
+        "end": 41,
+        "text": " You don't have to stand in line."
+      },
+      {
+        "id": 18,
+        "start": 41,
+        "end": 42,
+        "text": " They'll give you a call."
+      },
+      {
+        "id": 19,
+        "start": 42,
+        "end": 45,
+        "text": " Are you going to be available for like the next hour or so?"
+      },
+      {
+        "id": 20,
+        "start": 45,
+        "end": 46,
+        "text": " Oh, yeah, yeah."
+      },
+      {
+        "id": 21,
+        "start": 46,
+        "end": 47,
+        "text": " That's what I thought."
+      },
+      {
+        "id": 22,
+        "start": 47,
+        "end": 51,
+        "text": " When I got off the phone, I went, man, I wonder if I'm supposed to stay on the line or not."
+      },
+      {
+        "id": 23,
+        "start": 51,
+        "end": 52,
+        "text": " No, no worries."
+      },
+      {
+        "id": 24,
+        "start": 53,
+        "end": 56,
+        "text": " So go ahead and hang up, and then you guys will call me."
+      },
+      {
+        "id": 25,
+        "start": 56,
+        "end": 57,
+        "text": " Exactly, exactly."
+      },
+      {
+        "id": 26,
+        "start": 57,
+        "end": 60,
+        "text": " I'll have him give you a call definitely in the next 90 minutes here, okay?"
+      },
+      {
+        "id": 27,
+        "start": 60,
+        "end": 61,
+        "text": " All right."
+      },
+      {
+        "id": 28,
+        "start": 61,
+        "end": 62,
+        "text": " Thanks, buddy."
+      },
+      {
+        "id": 29,
+        "start": 62,
+        "end": 63,
+        "text": " Thank you."
+      },
+      {
+        "id": 30,
+        "start": 63,
+        "end": 64,
+        "text": " Bye now."
+      },
+      {
+        "id": 31,
+        "start": 64,
+        "end": 65,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-818e-b02c-c60fb209e83d",
+    "url": "https://www.notion.so/300000001241525-300000001731298-30611d0a101c818eb02cc60fb209e83d"
+  },
+  "processedAt": "2026-02-13T17:06:26.483Z"
+}

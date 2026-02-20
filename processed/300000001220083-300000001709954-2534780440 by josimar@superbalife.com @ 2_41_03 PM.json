@@ -1,0 +1,218 @@
+{
+  "recording": {
+    "name": "300000001220083-300000001709954-2534780440 by josimar@superbalife.com @ 2_41_03 PM.wav",
+    "size": 117580,
+    "modifyTime": 1769553757000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220083-300000001709954-2534780440 by josimar@superbalife.com @ 2_41_03 PM.wav",
+    "uploadDate": "2026-01-27T22:42:37.000Z",
+    "callId": "300000001220083-300000001709954",
+    "agent": "josimar",
+    "phoneNumber": "2534780440",
+    "callTimestamp": "2026-01-27T14:41:03.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, I can help you today.\n\nSpeaker 2: Hello.\n\nSpeaker 1: Hello, thank you for calling Viagra.\n\nSpeaker 2: I can help you today.\n\nSpeaker 1: Oh, yeah, I'm calling regarding my order for my, I think, refill online, but...\n\nSpeaker 2: Yeah, what's your zip code?\n\nSpeaker 1: 98023.\n\nSpeaker 2: What's your last name?\n\nSpeaker 1: J-E-I-K.\n\nSpeaker 2: Okay, pull up your profile here.\n\nSpeaker 1: You made this order yesterday.\n\nSpeaker 2: The package shipped out.\n\nSpeaker 1: You'll receive it in three to four business days.\n\nSpeaker 2: Oh, so it shipped out?\n\nSpeaker 1: Yeah, it shipped out today, so you'll get that in three to four business days.\n\nSpeaker 2: Oh, okay.\n\nSpeaker 1: I thought you said on the decline, so...\n\nSpeaker 2: No, no, I went through.\n\nSpeaker 1: You did?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: I'm sorry?\n\nSpeaker 2: Yeah, I went through, so you're all set.\n\nSpeaker 1: You're going to get it in that time frame.\n\nSpeaker 2: Are they the AGB or...?\n\nSpeaker 1: Yeah, the AGB.\n\nSpeaker 2: Was that AGB?\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Have a good one.\n\nSpeaker 2: Okay, man.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Bye-bye.",
+    "duration": 3292,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Viagra, I can help you today."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 4,
+        "text": " Hello."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 7,
+        "text": " Hello, thank you for calling Viagra."
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 9,
+        "text": " I can help you today."
+      },
+      {
+        "id": 4,
+        "start": 9,
+        "end": 17,
+        "text": " Oh, yeah, I'm calling regarding my order for my, I think, refill online, but..."
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 19,
+        "text": " Yeah, what's your zip code?"
+      },
+      {
+        "id": 6,
+        "start": 19,
+        "end": 22,
+        "text": " 98023."
+      },
+      {
+        "id": 7,
+        "start": 22,
+        "end": 25,
+        "text": " What's your last name?"
+      },
+      {
+        "id": 8,
+        "start": 25,
+        "end": 29,
+        "text": " J-E-I-K."
+      },
+      {
+        "id": 9,
+        "start": 29,
+        "end": 32,
+        "text": " Okay, pull up your profile here."
+      },
+      {
+        "id": 10,
+        "start": 32,
+        "end": 34,
+        "text": " You made this order yesterday."
+      },
+      {
+        "id": 11,
+        "start": 34,
+        "end": 35,
+        "text": " The package shipped out."
+      },
+      {
+        "id": 12,
+        "start": 35,
+        "end": 38,
+        "text": " You'll receive it in three to four business days."
+      },
+      {
+        "id": 13,
+        "start": 38,
+        "end": 40,
+        "text": " Oh, so it shipped out?"
+      },
+      {
+        "id": 14,
+        "start": 40,
+        "end": 44,
+        "text": " Yeah, it shipped out today, so you'll get that in three to four business days."
+      },
+      {
+        "id": 15,
+        "start": 44,
+        "end": 45,
+        "text": " Oh, okay."
+      },
+      {
+        "id": 16,
+        "start": 45,
+        "end": 47,
+        "text": " I thought you said on the decline, so..."
+      },
+      {
+        "id": 17,
+        "start": 47,
+        "end": 48,
+        "text": " No, no, I went through."
+      },
+      {
+        "id": 18,
+        "start": 48,
+        "end": 49,
+        "text": " You did?"
+      },
+      {
+        "id": 19,
+        "start": 49,
+        "end": 50,
+        "text": " Yeah."
+      },
+      {
+        "id": 20,
+        "start": 50,
+        "end": 51,
+        "text": " I'm sorry?"
+      },
+      {
+        "id": 21,
+        "start": 51,
+        "end": 53,
+        "text": " Yeah, I went through, so you're all set."
+      },
+      {
+        "id": 22,
+        "start": 53,
+        "end": 56,
+        "text": " You're going to get it in that time frame."
+      },
+      {
+        "id": 23,
+        "start": 57,
+        "end": 61,
+        "text": " Are they the AGB or...?"
+      },
+      {
+        "id": 24,
+        "start": 61,
+        "end": 63,
+        "text": " Yeah, the AGB."
+      },
+      {
+        "id": 25,
+        "start": 63,
+        "end": 64,
+        "text": " Was that AGB?"
+      },
+      {
+        "id": 26,
+        "start": 64,
+        "end": 65,
+        "text": " Okay."
+      },
+      {
+        "id": 27,
+        "start": 65,
+        "end": 66,
+        "text": " Yeah."
+      },
+      {
+        "id": 28,
+        "start": 66,
+        "end": 67,
+        "text": " Have a good one."
+      },
+      {
+        "id": 29,
+        "start": 67,
+        "end": 68,
+        "text": " Okay, man."
+      },
+      {
+        "id": 30,
+        "start": 68,
+        "end": 69,
+        "text": " Thank you."
+      },
+      {
+        "id": 31,
+        "start": 69,
+        "end": 70,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8158-8476-c5bbebb446f6",
+    "url": "https://www.notion.so/300000001220083-300000001709954-2f511d0a101c81588476c5bbebb446f6"
+  },
+  "processedAt": "2026-01-27T22:58:21.000Z"
+}

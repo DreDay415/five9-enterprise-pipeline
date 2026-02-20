@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001220695-300000001710775-7604218989 by  @ 9_26_42 AM_CallStudio.wav",
+    "size": 44976,
+    "modifyTime": 1769621252000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220695-300000001710775-7604218989 by  @ 9_26_42 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T17:27:32.000Z",
+    "callId": "300000001220695-300000001710775",
+    "phoneNumber": "7604218989",
+    "callTimestamp": "2026-01-28T17:27:32.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call. Speak loudly and clearly.\n\nSpeaker 2: Discuss a drug.\n\nSpeaker 1: We didn't receive a response or I couldn't hear you. Let's try again. Please state the reason for your call.\n\nSpeaker 2: Discuss a drug.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1304,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call. Speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 15,
+        "text": " Discuss a drug."
+      },
+      {
+        "id": 2,
+        "start": 15,
+        "end": 22,
+        "text": " We didn't receive a response or I couldn't hear your. Let's try again. Please state the reason for your call."
+      },
+      {
+        "id": 3,
+        "start": 22,
+        "end": 26,
+        "text": " Discuss a drug."
+      },
+      {
+        "id": 4,
+        "start": 26,
+        "end": 29,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-819d-bb88-ef17b94c15a3",
+    "url": "https://www.notion.so/300000001220695-300000001710775-2f611d0a101c819dbb88ef17b94c15a3"
+  },
+  "processedAt": "2026-01-28T18:29:11.056Z"
+}

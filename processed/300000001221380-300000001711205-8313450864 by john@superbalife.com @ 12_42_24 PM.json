@@ -1,0 +1,266 @@
+{
+  "recording": {
+    "name": "300000001221380-300000001711205-8313450864 by john@superbalife.com @ 12_42_24 PM.wav",
+    "size": 260256,
+    "modifyTime": 1769633126000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221380-300000001711205-8313450864 by john@superbalife.com @ 12_42_24 PM.wav",
+    "uploadDate": "2026-01-28T20:45:26.000Z",
+    "callId": "300000001221380-300000001711205",
+    "agent": "john",
+    "phoneNumber": "8313450864",
+    "callTimestamp": "2026-01-28T12:42:24.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I placed an order for Viagra AGB and they sent me, they just sent me the generic Viagra.\n\nSpeaker 2: They didn't send me the AGB.\n\nSpeaker 1: I'll help you sir, we'll get this fixed. I need your name and zip code to start.\n\nSpeaker 2: My name is Barry, B-A-R-R-Y, Burt, B-U-R-T, and my zip code is 95003.\n\nSpeaker 1: Thank you sir. You have the pills with you right now?\n\nSpeaker 2: Yes I do.\n\nSpeaker 1: Do you mind just, so I can confirm over the phone, just read to me what's stamped on an actual pill, just one of the tablets?\n\nSpeaker 2: Ah, I'm curious to see, hang on just a sec.\n\nSpeaker 1: Yeah, and you're on Lupine Valley Road right?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I believe it says AC339.\n\nSpeaker 1: Okay, so you know, you're right, we did send the wrong thing.\n\nSpeaker 2: We sell both the regular generic Viagra and then the AGB, so there must have been a mix up somewhere along the way,\n\nSpeaker 1: either in the transmitting to the pharmacy or at the pharmacy.\n\nSpeaker 2: I do apologize. Those are safe, so if you did take one, you're not going to be harmed in any way.\n\nSpeaker 1: But I'm going to get you 20 of the AGB ones.\n\nSpeaker 2: Just so you know how I knew that that was wrong, is the AGB pill would say 50 on it.\n\nSpeaker 1: Not only should the bottle say AGB on it, but the pill for sure would have said 50.\n\nSpeaker 2: Okay, and also the bottle says take one out one hour before.\n\nSpeaker 1: Yeah, and good point there.\n\nSpeaker 2: The AGB bottle is going to say the same thing, and that's not because it doesn't work faster,\n\nSpeaker 1: it's because we can't promise the exact speed for every single person that takes it.\n\nSpeaker 2: So to avoid having our customers be in an embarrassing situation the first time or two,\n\nSpeaker 1: we do say take it an hour before.\n\nSpeaker 2: I would say commonly though I hear it works in about 15 to 20 minutes for most people.\n\nSpeaker 1: Okay, well, do you have all my contact information?\n\nSpeaker 2: Yeah, 440 Lupine Valley Road in California here.\n\nSpeaker 1: So then I'm going to send you out 20 pills.\n\nSpeaker 2: I just got to put it in through the pharmacy.\n\nSpeaker 1: They will send out 20 of the right ones.\n\nSpeaker 2: So like I said, the ones you have are safe if you wanted them as a backup plan,\n\nSpeaker 1: but you can toss them if you want to do that too.\n\nSpeaker 2: All right, well, I appreciate it. I'm glad I called you.\n\nSpeaker 1: Yeah, I'm glad you called too because if there's ever a mistake, we will fix it.\n\nSpeaker 2: I'm sorry about that, but it's all fixed now.\n\nSpeaker 1: All right, thank you very much. I appreciate it.\n\nSpeaker 2: Of course, Barry. Have a good one.\n\nSpeaker 1: All right, bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 7566,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 18,
+        "text": " I placed an order for Viagra AGB and they sent me, they just sent me the generic Viagra."
+      },
+      {
+        "id": 1,
+        "start": 18,
+        "end": 20,
+        "text": " They didn't send me the AGB."
+      },
+      {
+        "id": 2,
+        "start": 20,
+        "end": 24,
+        "text": " I'll help you sir, we'll get this fixed. I need your name and zip code to start."
+      },
+      {
+        "id": 3,
+        "start": 25,
+        "end": 36,
+        "text": " My name is Barry, B-A-R-R-Y, Burt, B-U-R-T, and my zip code is 95003."
+      },
+      {
+        "id": 4,
+        "start": 36,
+        "end": 39,
+        "text": " Thank you sir. You have the pills with you right now?"
+      },
+      {
+        "id": 5,
+        "start": 39,
+        "end": 41,
+        "text": " Yes I do."
+      },
+      {
+        "id": 6,
+        "start": 41,
+        "end": 47,
+        "text": " Do you mind just, so I can confirm over the phone, just read to me what's stamped on an actual pill, just one of the tablets?"
+      },
+      {
+        "id": 7,
+        "start": 47,
+        "end": 51,
+        "text": " Ah, I'm curious to see, hang on just a sec."
+      },
+      {
+        "id": 8,
+        "start": 51,
+        "end": 54,
+        "text": " Yeah, and you're on Lupine Valley Road right?"
+      },
+      {
+        "id": 9,
+        "start": 54,
+        "end": 55,
+        "text": " Yes."
+      },
+      {
+        "id": 10,
+        "start": 55,
+        "end": 56,
+        "text": " Okay."
+      },
+      {
+        "id": 11,
+        "start": 56,
+        "end": 65,
+        "text": " I believe it says AC339."
+      },
+      {
+        "id": 12,
+        "start": 65,
+        "end": 69,
+        "text": " Okay, so you know, you're right, we did send the wrong thing."
+      },
+      {
+        "id": 13,
+        "start": 69,
+        "end": 76,
+        "text": " We sell both the regular generic Viagra and then the AGB, so there must have been a mix up somewhere along the way,"
+      },
+      {
+        "id": 14,
+        "start": 76,
+        "end": 79,
+        "text": " either in the transmitting to the pharmacy or at the pharmacy."
+      },
+      {
+        "id": 15,
+        "start": 79,
+        "end": 83,
+        "text": " I do apologize. Those are safe, so if you did take one, you're not going to be harmed in any way."
+      },
+      {
+        "id": 16,
+        "start": 83,
+        "end": 85,
+        "text": " But I'm going to get you 20 of the AGB ones."
+      },
+      {
+        "id": 17,
+        "start": 85,
+        "end": 90,
+        "text": " Just so you know how I knew that that was wrong, is the AGB pill would say 50 on it."
+      },
+      {
+        "id": 18,
+        "start": 90,
+        "end": 94,
+        "text": " Not only should the bottle say AGB on it, but the pill for sure would have said 50."
+      },
+      {
+        "id": 19,
+        "start": 94,
+        "end": 103,
+        "text": " Okay, and also the bottle says take one out one hour before."
+      },
+      {
+        "id": 20,
+        "start": 104,
+        "end": 106,
+        "text": " Yeah, and good point there."
+      },
+      {
+        "id": 21,
+        "start": 106,
+        "end": 109,
+        "text": " The AGB bottle is going to say the same thing, and that's not because it doesn't work faster,"
+      },
+      {
+        "id": 22,
+        "start": 109,
+        "end": 113,
+        "text": " it's because we can't promise the exact speed for every single person that takes it."
+      },
+      {
+        "id": 23,
+        "start": 113,
+        "end": 117,
+        "text": " So to avoid having our customers be in an embarrassing situation the first time or two,"
+      },
+      {
+        "id": 24,
+        "start": 117,
+        "end": 119,
+        "text": " we do say take it an hour before."
+      },
+      {
+        "id": 25,
+        "start": 119,
+        "end": 123,
+        "text": " I would say commonly though I hear it works in about 15 to 20 minutes for most people."
+      },
+      {
+        "id": 26,
+        "start": 123,
+        "end": 128,
+        "text": " Okay, well, do you have all my contact information?"
+      },
+      {
+        "id": 27,
+        "start": 129,
+        "end": 134,
+        "text": " Yeah, 440 Lupine Valley Road in California here."
+      },
+      {
+        "id": 28,
+        "start": 134,
+        "end": 136,
+        "text": " So then I'm going to send you out 20 pills."
+      },
+      {
+        "id": 29,
+        "start": 136,
+        "end": 138,
+        "text": " I just got to put it in through the pharmacy."
+      },
+      {
+        "id": 30,
+        "start": 138,
+        "end": 140,
+        "text": " They will send out 20 of the right ones."
+      },
+      {
+        "id": 31,
+        "start": 140,
+        "end": 143,
+        "text": " So like I said, the ones you have are safe if you wanted them as a backup plan,"
+      },
+      {
+        "id": 32,
+        "start": 143,
+        "end": 145,
+        "text": " but you can toss them if you want to do that too."
+      },
+      {
+        "id": 33,
+        "start": 145,
+        "end": 149,
+        "text": " All right, well, I appreciate it. I'm glad I called you."
+      },
+      {
+        "id": 34,
+        "start": 149,
+        "end": 152,
+        "text": " Yeah, I'm glad you called too because if there's ever a mistake, we will fix it."
+      },
+      {
+        "id": 35,
+        "start": 152,
+        "end": 155,
+        "text": " I'm sorry about that, but it's all fixed now."
+      },
+      {
+        "id": 36,
+        "start": 155,
+        "end": 157,
+        "text": " All right, thank you very much. I appreciate it."
+      },
+      {
+        "id": 37,
+        "start": 157,
+        "end": 159,
+        "text": " Of course, Barry. Have a good one."
+      },
+      {
+        "id": 38,
+        "start": 159,
+        "end": 160,
+        "text": " All right, bye-bye."
+      },
+      {
+        "id": 39,
+        "start": 160,
+        "end": 161,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-815c-b54d-e0eef3e8d1c2",
+    "url": "https://www.notion.so/300000001221380-300000001711205-2f611d0a101c815cb54de0eef3e8d1c2"
+  },
+  "processedAt": "2026-01-28T22:52:41.575Z"
+}

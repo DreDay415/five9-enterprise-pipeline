@@ -1,0 +1,86 @@
+{
+  "recording": {
+    "name": "300000001220280-300000001710084-5202459529 by olivier@superbalife.com @ 4_08_13 PM.wav",
+    "size": 55310,
+    "modifyTime": 1769558948000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220280-300000001710084-5202459529 by olivier@superbalife.com @ 4_08_13 PM.wav",
+    "uploadDate": "2026-01-28T00:09:08.000Z",
+    "callId": "300000001220280-300000001710084",
+    "agent": "olivier",
+    "phoneNumber": "5202459529",
+    "callTimestamp": "2026-01-28T16:08:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Vagra.\n\nSpeaker 2: Yes, I put in an order and then you guys sent me another order like right away and I don't need anymore.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So, I wanted to make sure you guys don't send me another one.\n\nSpeaker 1: Okay, yeah, you placed the order.\n\nSpeaker 2: Your account was, let me see what's going on here.\n\nSpeaker 1: I can pause your prescription so you're not going to get it and just order as needed.\n\nSpeaker 2: Okay, go ahead and pause it.\n\nSpeaker 1: Thank you.",
+    "duration": 1409,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, this is Vagra."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10.720000267028809,
+        "text": " Yes, I put in an order and then you guys sent me another order like right away and I don't"
+      },
+      {
+        "id": 2,
+        "start": 10.720000267028809,
+        "end": 11.720000267028809,
+        "text": " need anymore."
+      },
+      {
+        "id": 3,
+        "start": 11.720000267028809,
+        "end": 12.720000267028809,
+        "text": " Okay."
+      },
+      {
+        "id": 4,
+        "start": 12.720000267028809,
+        "end": 16,
+        "text": " So, I wanted to make sure you guys don't send me another one."
+      },
+      {
+        "id": 5,
+        "start": 16,
+        "end": 20,
+        "text": " Okay, yeah, you placed the order."
+      },
+      {
+        "id": 6,
+        "start": 20,
+        "end": 24.68000030517578,
+        "text": " Yeah, your account was, let me see what's going on here."
+      },
+      {
+        "id": 7,
+        "start": 24.68000030517578,
+        "end": 29.639999389648438,
+        "text": " I can pause your prescription so you're not going to get it and just order as needed."
+      },
+      {
+        "id": 8,
+        "start": 29.639999389648438,
+        "end": 31.68000030517578,
+        "text": " Okay, go ahead and pause it."
+      },
+      {
+        "id": 9,
+        "start": 31.68000030517578,
+        "end": 34,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8151-b892-dfc24cbc82ed",
+    "url": "https://www.notion.so/300000001220280-300000001710084-2f611d0a101c8151b892dfc24cbc82ed"
+  },
+  "processedAt": "2026-01-28T17:46:13.777Z"
+}

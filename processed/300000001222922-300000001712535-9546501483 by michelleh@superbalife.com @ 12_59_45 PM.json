@@ -1,0 +1,104 @@
+{
+  "recording": {
+    "name": "300000001222922-300000001712535-9546501483 by michelleh@superbalife.com @ 12_59_45 PM.wav",
+    "size": 89630,
+    "modifyTime": 1769720462000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222922-300000001712535-9546501483 by michelleh@superbalife.com @ 12_59_45 PM.wav",
+    "uploadDate": "2026-01-29T21:01:02.000Z",
+    "callId": "300000001222922-300000001712535",
+    "agent": "michelleh",
+    "phoneNumber": "9546501483",
+    "callTimestamp": "2026-01-29T12:59:45.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Hi, my name is Michael Stokes. I ordered a month's supply of pills from you about six months ago and you continually send me pills that I haven't ordered. I'm going to send these back to you, but please stop sending me pills.\n\nSpeaker 1: Sure, Michael. Can you just confirm your date of birth?\n\nSpeaker 2: 9-16-48.\n\nSpeaker 1: Thank you so much. I see you're a VIP status customer. What happened here?\n\nSpeaker 2: Oh, okay. It looks like refills every two months, which you do not have to be, too.\n\nSpeaker 1: Yeah, I'll cancel you out. Okay, you're canceled out and just go ahead and write return to sender on the envelope. That way you don't have to pay for postage and then we can issue you a refund.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: Yeah, not a problem. Have a good day. Bye.",
+    "duration": 2228,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 13,
+        "text": " Hi, my name is Michael Stokes. I ordered a month's supply of pills from you about six"
+      },
+      {
+        "id": 2,
+        "start": 13,
+        "end": 18,
+        "text": " months ago and you continually send me pills that I haven't ordered. I'm going to send"
+      },
+      {
+        "id": 3,
+        "start": 18,
+        "end": 21,
+        "text": " these back to you, but please stop sending me pills."
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 24,
+        "text": " Sure, Michael. Can you just confirm your date of birth?"
+      },
+      {
+        "id": 5,
+        "start": 24,
+        "end": 26,
+        "text": " 9-16-48."
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 32,
+        "text": " Thank you so much. I see you're a VIP status customer. What happened here?"
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 37,
+        "text": " Oh, okay. It looks like refills every two months, which you do not have to be, too."
+      },
+      {
+        "id": 8,
+        "start": 37,
+        "end": 42,
+        "text": " Yeah, I'll cancel you out. Okay, you're canceled out and just go ahead and write"
+      },
+      {
+        "id": 9,
+        "start": 42,
+        "end": 47,
+        "text": " return to sender on the envelope. That way you don't have to pay for postage and then"
+      },
+      {
+        "id": 10,
+        "start": 47,
+        "end": 49,
+        "text": " we can issue you a refund."
+      },
+      {
+        "id": 11,
+        "start": 49,
+        "end": 51,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 12,
+        "start": 51,
+        "end": 55,
+        "text": " Yeah, not a problem. Have a good day. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8178-b41f-d2adbba95679",
+    "url": "https://www.notion.so/300000001222922-300000001712535-2f711d0a101c8178b41fd2adbba95679"
+  },
+  "processedAt": "2026-01-29T21:20:52.194Z"
+}

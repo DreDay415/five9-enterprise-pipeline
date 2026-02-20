@@ -1,0 +1,135 @@
+{
+  "recording": {
+    "name": "300000001240715-300000001730373-8887955826 by michelleh@superbalife.com @ 12_55_06 PM.wav",
+    "size": 108090,
+    "modifyTime": 1770929779000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240715-300000001730373-8887955826 by michelleh@superbalife.com @ 12_55_06 PM.wav",
+    "uploadDate": "2026-02-12T20:56:19.000Z",
+    "callId": "300000001240715-300000001730373",
+    "agent": "michelleh",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-02-12T12:55:06.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Yes, I'd like to cancel my order, so I just got sent another bottle. I don't want any more.\n\nSpeaker 1: Okay, I can help you out. Can I have your phone number so I can pull up your account?\n\nSpeaker 2: 732-539-2400.\n\nSpeaker 1: Thank you, Robert. Can you just confirm your date of birth?\n\nSpeaker 2: 6-9-56.\n\nSpeaker 1: Thank you so much. It looks like the doctor put you on refills on a monthly basis,\n\nSpeaker 2: which are not required. Robert, how's the medication working out for you?\n\nSpeaker 1: I, believe it or not, I haven't had a chance to even try it.\n\nSpeaker 2: Oh, okay. Yeah, so with your...\n\nSpeaker 1: Two bottles.\n\nSpeaker 2: So now I got two bottles and, you know, yeah, I mean, I live a very busy life and a lot,\n\nSpeaker 1: I'm on the road a lot, so, you know.\n\nSpeaker 2: All right. No, no problem. I went ahead and canceled out your account. You're all set.\n\nSpeaker 1: Thank you, dear.\n\nSpeaker 2: No problem. Have a good day.\n\nSpeaker 1: You do the same.\n\nSpeaker 2: Thanks, love. Bye.",
+    "duration": 2559,
+    "audioDuration": 66.4800033569336,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3.5999999046325684,
+        "end": 9.359999656677246,
+        "text": " Yes, I'd like to cancel my order, so I just got sent another bottle. I don't want any more."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 12.720000267028809,
+        "text": " Okay, I can help you out. Can I have your phone number so I can pull up your account?"
+      },
+      {
+        "id": 3,
+        "start": 14.079999923706055,
+        "end": 18.15999984741211,
+        "text": " 732-539-2400."
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 22.559999465942383,
+        "text": " Thank you, Robert. Can you just confirm your date of birth?"
+      },
+      {
+        "id": 5,
+        "start": 23.84000015258789,
+        "end": 25.200000762939453,
+        "text": " 6-9-56."
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 30.639999389648438,
+        "text": " Thank you so much. It looks like the doctor put you on refills on a monthly basis,"
+      },
+      {
+        "id": 7,
+        "start": 30.639999389648438,
+        "end": 33.91999816894531,
+        "text": " which are not required. Robert, how's the medication working out for you?"
+      },
+      {
+        "id": 8,
+        "start": 35.68000030517578,
+        "end": 38.720001220703125,
+        "text": " I, believe it or not, I haven't had a chance to even try it."
+      },
+      {
+        "id": 9,
+        "start": 39.439998626708984,
+        "end": 41.599998474121094,
+        "text": " Oh, okay. Yeah, so with your..."
+      },
+      {
+        "id": 10,
+        "start": 43.52000045776367,
+        "end": 44.15999984741211,
+        "text": " Two bottles."
+      },
+      {
+        "id": 11,
+        "start": 44.15999984741211,
+        "end": 51.68000030517578,
+        "text": " So now I got two bottles and, you know, yeah, I mean, I live a very busy life and a lot,"
+      },
+      {
+        "id": 12,
+        "start": 52.400001525878906,
+        "end": 55.119998931884766,
+        "text": " I'm on the road a lot, so, you know."
+      },
+      {
+        "id": 13,
+        "start": 55.119998931884766,
+        "end": 59.119998931884766,
+        "text": " All right. No, no problem. I went ahead and canceled out your account. You're all set."
+      },
+      {
+        "id": 14,
+        "start": 60.15999984741211,
+        "end": 61.36000061035156,
+        "text": " Thank you, dear."
+      },
+      {
+        "id": 15,
+        "start": 61.36000061035156,
+        "end": 62.47999954223633,
+        "text": " No problem. Have a good day."
+      },
+      {
+        "id": 16,
+        "start": 63.36000061035156,
+        "end": 64.08000183105469,
+        "text": " You do the same."
+      },
+      {
+        "id": 17,
+        "start": 64.63999938964844,
+        "end": 66.31999969482422,
+        "text": " Thanks, love. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-814a-bc13-c70f84036237",
+    "url": "https://www.notion.so/300000001240715-300000001730373-30511d0a101c814abc13c70f84036237"
+  },
+  "processedAt": "2026-02-12T21:04:11.729Z"
+}

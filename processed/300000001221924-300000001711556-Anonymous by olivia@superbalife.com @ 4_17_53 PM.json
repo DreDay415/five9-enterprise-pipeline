@@ -1,0 +1,30 @@
+{
+  "recording": {
+    "name": "300000001221924-300000001711556-Anonymous by olivia@superbalife.com @ 4_17_53 PM.wav",
+    "size": 11176,
+    "modifyTime": 1769646031000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221924-300000001711556-Anonymous by olivia@superbalife.com @ 4_17_53 PM.wav",
+    "uploadDate": "2026-01-29T00:20:31.000Z",
+    "agent": "olivia",
+    "callTimestamp": "2026-01-29T16:17:53.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Let me know when you are ready to be helped and I'm happy to help you.",
+    "duration": 1151,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.800000190734863,
+        "text": " Let me know when you are ready to be helped and I'm happy to help you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-817c-9e7e-da7ff087bc93",
+    "url": "https://www.notion.so/300000001221924-300000001711556-Anonymous-by-olivia-superbalife-com-4_17_53-PM-wav-2f711d0a101c817c9e7eda7ff087bc93"
+  },
+  "processedAt": "2026-01-29T10:10:24.418Z"
+}

@@ -1,0 +1,68 @@
+{
+  "recording": {
+    "name": "300000001221449-300000001711275-6622077762 by jessie@superbalife.com @ 1_05_23 PM.wav",
+    "size": 24500,
+    "modifyTime": 1769634360000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221449-300000001711275-6622077762 by jessie@superbalife.com @ 1_05_23 PM.wav",
+    "uploadDate": "2026-01-28T21:06:00.000Z",
+    "callId": "300000001221449-300000001711275",
+    "agent": "jessie",
+    "phoneNumber": "6622077762",
+    "callTimestamp": "2026-01-28T13:05:23.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi. Thank you so much for calling Viagra. My name is Jessie. May I get your first and last name?\n\nSpeaker 2: Sylvester.\n\nSpeaker 1: Hello.\n\nSpeaker 2: Hello.\n\nSpeaker 1: Sylvester.\n\nSpeaker 2: Hello.\n\nSpeaker 1: Hello.",
+    "duration": 1086,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi. Thank you so much for calling Viagra. My name is Jessie. May I get your first and last name?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 7,
+        "text": " Sylvester."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " Hello."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 10,
+        "text": " Hello."
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 12,
+        "text": " Sylvester."
+      },
+      {
+        "id": 5,
+        "start": 12,
+        "end": 14,
+        "text": " Hello."
+      },
+      {
+        "id": 6,
+        "start": 14,
+        "end": 15,
+        "text": " Hello."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-818d-85bf-d0fccd90db76",
+    "url": "https://www.notion.so/300000001221449-300000001711275-2f611d0a101c818d85bfd0fccd90db76"
+  },
+  "processedAt": "2026-01-28T22:45:18.618Z"
+}

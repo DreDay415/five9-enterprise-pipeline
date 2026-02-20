@@ -1,0 +1,146 @@
+{
+  "recording": {
+    "name": "300000001217536-300000001707827-7862074123 by michelleh@superbalife.com @ 10_42_49 AM.wav",
+    "size": 154046,
+    "modifyTime": 1769582833000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217536-300000001707827-7862074123 by michelleh@superbalife.com @ 10_42_49 AM.wav",
+    "uploadDate": "2026-01-28T06:47:13.000Z",
+    "callId": "300000001217536-300000001707827",
+    "agent": "michelleh",
+    "phoneNumber": "7862074123",
+    "callTimestamp": "2026-01-28T10:42:49.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Hi, Viagra. It's a telematch.\n\nSpeaker 1: It's who?\n\nSpeaker 2: Yes, I want to cancel my subscription for a score blue. Could you please help me with that?\n\nSpeaker 1: Sure, not a problem. Can I have your phone number so I can pull up your account?\n\nSpeaker 2: And sure, it's four two three.\n\nSpeaker 1: Five zero three three five one four.\n\nSpeaker 2: Okay, can you just confirm your name and date of birth?\n\nSpeaker 1: Yeah, my name is Atelmet.\n\nSpeaker 2: Dithers and the date of birth is—\n\nSpeaker 1: Hello. Yes, date of birth?\n\nSpeaker 2: What is your date of birth?\n\nSpeaker 1: Well, I'm canceling this account for my friend.\n\nSpeaker 2: Is there anything else that I can help you with? Like, she did not mention or tell me her date of birth?\n\nSpeaker 1: No, this is—\n\nSpeaker 2: No, you have to have your client, and your client’s not—it’s your client, a male, not a female, and due to HIPAA—\n\nSpeaker 1: Regulations, I cannot—\n\nSpeaker 2: He has to call in directly, so have your client call in. We can't cancel by a third party vendor—\n\nSpeaker 1: Due to HIPAA laws. Oh.\n\nSpeaker 2: Okay, just have him. Okay. Thanks.",
+    "duration": 4596,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.4000000953674316,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5.639999866485596,
+        "end": 7.980000019073486,
+        "text": " Hi, Viagra. It's a telematch."
+      },
+      {
+        "id": 2,
+        "start": 10.920000076293945,
+        "end": 12.920000076293945,
+        "text": " It's who?"
+      },
+      {
+        "id": 3,
+        "start": 14.079999923706055,
+        "end": 19.520000457763672,
+        "text": " Yes, I want to cancel my subscription for a score blue. Could you please help me with that?"
+      },
+      {
+        "id": 4,
+        "start": 20.280000686645508,
+        "end": 24.100000381469727,
+        "text": " Sure, not a problem. Can I have your phone number so I can pull up your account?"
+      },
+      {
+        "id": 5,
+        "start": 25.600000381469727,
+        "end": 27.600000381469727,
+        "text": " And sure, it's four two three"
+      },
+      {
+        "id": 6,
+        "start": 27.600000381469727,
+        "end": 31.200000762939453,
+        "text": " five zero three three five one four."
+      },
+      {
+        "id": 7,
+        "start": 34.560001373291016,
+        "end": 37.400001525878906,
+        "text": " Okay, can you just confirm your name and date of birth?"
+      },
+      {
+        "id": 8,
+        "start": 38.91999816894531,
+        "end": 41.20000076293945,
+        "text": " Yeah, my name is Atelmet"
+      },
+      {
+        "id": 9,
+        "start": 42.47999954223633,
+        "end": 45.040000915527344,
+        "text": " Dithers and the date of birth is"
+      },
+      {
+        "id": 10,
+        "start": 47.599998474121094,
+        "end": 50.119998931884766,
+        "text": " Hello. Yes, date of birth?"
+      },
+      {
+        "id": 11,
+        "start": 55.040000915527344,
+        "end": 57.040000915527344,
+        "text": " What is your date of birth?"
+      },
+      {
+        "id": 12,
+        "start": 58.279998779296875,
+        "end": 61.400001525878906,
+        "text": " Well, I'm canceling this account for my friend."
+      },
+      {
+        "id": 13,
+        "start": 61.400001525878906,
+        "end": 68.68000030517578,
+        "text": " Is there anything else that I can help you with like she did not mention tell me her date of birth?"
+      },
+      {
+        "id": 14,
+        "start": 69.5999984741211,
+        "end": 71.5999984741211,
+        "text": " No, this is"
+      },
+      {
+        "id": 15,
+        "start": 72.31999969482422,
+        "end": 79.5199966430664,
+        "text": " No, you have to have your client and your clients not it your clients a male not a female and due to HIPAA"
+      },
+      {
+        "id": 16,
+        "start": 80.27999877929688,
+        "end": 82.19999694824219,
+        "text": " regulations, I cannot"
+      },
+      {
+        "id": 17,
+        "start": 82.19999694824219,
+        "end": 88.44000244140625,
+        "text": " He has to call in directly so have your client call in we can't cancel by a third party vendors"
+      },
+      {
+        "id": 18,
+        "start": 89.12000274658203,
+        "end": 91.12000274658203,
+        "text": " due to HIPAA laws. Oh"
+      },
+      {
+        "id": 19,
+        "start": 91.76000213623047,
+        "end": 94.26000213623047,
+        "text": " Okay, just have him. Okay. Thanks"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e4-a733-e10dfdac9a25",
+    "url": "https://www.notion.so/300000001217536-300000001707827-2f611d0a101c81e4a733e10dfdac9a25"
+  },
+  "processedAt": "2026-01-28T16:56:53.574Z"
+}

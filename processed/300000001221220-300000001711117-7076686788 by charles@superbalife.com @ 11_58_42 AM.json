@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "name": "300000001221220-300000001711117-7076686788 by charles@superbalife.com @ 11_58_42 AM.wav",
+    "size": 27686,
+    "modifyTime": 1769630361000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221220-300000001711117-7076686788 by charles@superbalife.com @ 11_58_42 AM.wav",
+    "uploadDate": "2026-01-28T19:59:21.000Z",
+    "callId": "300000001221220-300000001711117",
+    "agent": "charles",
+    "phoneNumber": "7076686788",
+    "callTimestamp": "2026-01-28T11:58:42.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Bye-bye.",
+    "duration": 1211,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 16.639999389648438,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8138-b54b-dd837a3d2384",
+    "url": "https://www.notion.so/300000001221220-300000001711117-2f611d0a101c8138b54bdd837a3d2384"
+  },
+  "processedAt": "2026-01-28T23:17:36.596Z"
+}

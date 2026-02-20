@@ -1,0 +1,350 @@
+{
+  "recording": {
+    "name": "300000001223329-300000001712774-3479092810 by jessie@superbalife.com @ 3_23_01 PM.wav",
+    "size": 356066,
+    "modifyTime": 1769729220000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001223329-300000001712774-3479092810 by jessie@superbalife.com @ 3_23_01 PM.wav",
+    "uploadDate": "2026-01-29T23:27:00.000Z",
+    "callId": "300000001223329-300000001712774",
+    "agent": "jessie",
+    "phoneNumber": "3479092810",
+    "callTimestamp": "2026-01-29T15:23:01.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra. My name is Jessie. May I get your first name, please?\n\nSpeaker 2: Yes, hello.\n\nSpeaker 1: Yes, how can I help you?\n\nSpeaker 2: Yeah, my name is James Grooms.\n\nSpeaker 1: James Green?\n\nSpeaker 2: Grooms, G-R-O-M-E-S. I'm registered with you guys. I have a prescription that you've been sending me.\n\nSpeaker 1: I'll send it to you. I have the number if you need it.\n\nSpeaker 2: Uh-uh.\n\nSpeaker 1: I found it, Mr. Grooms.\n\nSpeaker 2: No, no, no, you're okay. What's your zip code?\n\nSpeaker 1: Uh, 1-1-2-0-5.\n\nSpeaker 2: Okay.\n\nSpeaker 1: But what I want to ask you is about the new, the A-G-V.\n\nSpeaker 2: Yeah, do you want to switch to the A-G-V?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay. Let me go ahead. Do you want me to place the order for you now?\n\nSpeaker 1: Yes, please.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Do I have a credit card registered with you?\n\nSpeaker 2: You sure do. Bear with me a moment. Do you still want to do the 10 pills? It's the same price.\n\nSpeaker 1: I can get it for you for the same price.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay, sure. Are you at 185 Hall Street, Unit 406 in Brooklyn, New York, 1-1-2-0-5?\n\nSpeaker 2: Yeah, I'm still there.\n\nSpeaker 1: Okay, super. And then the credit card on file is an Amex ending in 7-0-0-8. Is that the card we should use?\n\nSpeaker 2: Yes, I think so, but, you know, somebody's been trying to use some of my cards, so I had some cards replaced.\n\nSpeaker 1: So I don't know if it's one of those cards.\n\nSpeaker 2: We can try it.\n\nSpeaker 1: Can you try it?\n\nSpeaker 2: Yeah, let me try it, and then if it doesn't work, you're welcome to switch it.\n\nSpeaker 1: Okay, that'd be great. Thank you.\n\nSpeaker 2: Okay, one moment. And, again, it's 100 milligrams. Now you're getting the A-G-V. One moment.\n\nSpeaker 1: Right.\n\nSpeaker 2: It declined, so I would need a different card.\n\nSpeaker 1: Okay, let me try to get one out for you.\n\nSpeaker 2: You're going to have to bear with me now.\n\nSpeaker 1: Take your time now.\n\nSpeaker 2: Oh, thank you.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, let's try this card here. Are you ready?\n\nSpeaker 1: Sure.\n\nSpeaker 2: The number is 3-7-9-2-4-6-2-5-5-6-5-4-0-0-8.\n\nSpeaker 1: Expiration?\n\nSpeaker 2: Expiration is 11-30.\n\nSpeaker 1: And the security code, four digits.\n\nSpeaker 2: Security code, four digits is 5-0-0-7.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: Okay, one moment.\n\nSpeaker 1: Okay, you're all set. It's been shifted. Your prescription now reflects the A-G-V, okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, expect it in the mail in the next few days.\n\nSpeaker 2: All right, thank you.\n\nSpeaker 1: Okay, thank you. Bye-bye.\n\nSpeaker 2: Okay, bye-bye.",
+    "duration": 9689,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi, thank you so much for calling Viagra. My name is Jessie. May I get your first name, please?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 7,
+        "text": " Yes, hello."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " Yes, how can I help you?"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 12,
+        "text": " Yeah, my name is James Grooms."
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 14,
+        "text": " James Green?"
+      },
+      {
+        "id": 5,
+        "start": 14,
+        "end": 21,
+        "text": " Grooms, G-R-O-M-E-S. I'm registered with you guys. I have a prescription that you've been sending me."
+      },
+      {
+        "id": 6,
+        "start": 21,
+        "end": 26,
+        "text": " I'll send it to you. I have the number if you need it."
+      },
+      {
+        "id": 7,
+        "start": 26,
+        "end": 28,
+        "text": " Uh-uh."
+      },
+      {
+        "id": 8,
+        "start": 28,
+        "end": 29,
+        "text": " I found it, Mr. Grooms."
+      },
+      {
+        "id": 9,
+        "start": 29,
+        "end": 32,
+        "text": " No, no, no, you're okay. What's your zip code?"
+      },
+      {
+        "id": 10,
+        "start": 32,
+        "end": 35,
+        "text": " Uh, 1-1-2-0-5."
+      },
+      {
+        "id": 11,
+        "start": 35,
+        "end": 37,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 37,
+        "end": 42,
+        "text": " But what I want to ask you is about the new, the A-G-V."
+      },
+      {
+        "id": 13,
+        "start": 42,
+        "end": 44,
+        "text": " Yeah, do you want to switch to the A-G-V?"
+      },
+      {
+        "id": 14,
+        "start": 44,
+        "end": 45,
+        "text": " Yes."
+      },
+      {
+        "id": 15,
+        "start": 45,
+        "end": 49,
+        "text": " Okay. Let me go ahead. Do you want me to place the order for you now?"
+      },
+      {
+        "id": 16,
+        "start": 49,
+        "end": 50,
+        "text": " Yes, please."
+      },
+      {
+        "id": 17,
+        "start": 50,
+        "end": 51,
+        "text": " Okay."
+      },
+      {
+        "id": 18,
+        "start": 51,
+        "end": 54,
+        "text": " Do I have a credit card registered with you?"
+      },
+      {
+        "id": 19,
+        "start": 54,
+        "end": 59,
+        "text": " You sure do. Bear with me a moment. Do you still want to do the 10 pills? It's the same price."
+      },
+      {
+        "id": 20,
+        "start": 59,
+        "end": 61,
+        "text": " I can get it for you for the same price."
+      },
+      {
+        "id": 21,
+        "start": 61,
+        "end": 62,
+        "text": " Thank you."
+      },
+      {
+        "id": 22,
+        "start": 62,
+        "end": 68,
+        "text": " Okay, sure. Are you at 185 Hall Street, Unit 406 in Brooklyn, New York, 1-1-2-0-5?"
+      },
+      {
+        "id": 23,
+        "start": 68,
+        "end": 70,
+        "text": " Yeah, I'm still there."
+      },
+      {
+        "id": 24,
+        "start": 70,
+        "end": 78,
+        "text": " Okay, super. And then the credit card on file is an Amex ending in 7-0-0-8. Is that the card we should use?"
+      },
+      {
+        "id": 25,
+        "start": 78,
+        "end": 87,
+        "text": " Yes, I think so, but, you know, somebody's been trying to use some of my cards, so I had some cards replaced."
+      },
+      {
+        "id": 26,
+        "start": 87,
+        "end": 90,
+        "text": " So I don't know if it's one of those cards."
+      },
+      {
+        "id": 27,
+        "start": 90,
+        "end": 92,
+        "text": " We can try it."
+      },
+      {
+        "id": 28,
+        "start": 92,
+        "end": 93,
+        "text": " Can you try it?"
+      },
+      {
+        "id": 29,
+        "start": 93,
+        "end": 97,
+        "text": " Yeah, let me try it, and then if it doesn't work, you're welcome to switch it."
+      },
+      {
+        "id": 30,
+        "start": 97,
+        "end": 99,
+        "text": " Okay, that'd be great. Thank you."
+      },
+      {
+        "id": 31,
+        "start": 99,
+        "end": 105,
+        "text": " Okay, one moment. And, again, it's 100 milligrams. Now you're getting the A-G-V. One moment."
+      },
+      {
+        "id": 32,
+        "start": 105,
+        "end": 107,
+        "text": " Right."
+      },
+      {
+        "id": 33,
+        "start": 107,
+        "end": 111,
+        "text": " It declined, so I would need a different card."
+      },
+      {
+        "id": 34,
+        "start": 111,
+        "end": 116,
+        "text": " Okay, let me try to get one out for you."
+      },
+      {
+        "id": 35,
+        "start": 116,
+        "end": 118,
+        "text": " You're going to have to bear with me now."
+      },
+      {
+        "id": 36,
+        "start": 118,
+        "end": 120,
+        "text": " Take your time now."
+      },
+      {
+        "id": 37,
+        "start": 120,
+        "end": 133,
+        "text": " Oh, thank you."
+      },
+      {
+        "id": 38,
+        "start": 133,
+        "end": 141,
+        "text": " Okay."
+      },
+      {
+        "id": 39,
+        "start": 141,
+        "end": 144,
+        "text": " Okay, let's try this card here. Are you ready?"
+      },
+      {
+        "id": 40,
+        "start": 144,
+        "end": 146,
+        "text": " Sure."
+      },
+      {
+        "id": 41,
+        "start": 147,
+        "end": 163,
+        "text": " The number is 3-7-9-2-4-6-2-5-5-6-5-4-0-0-8."
+      },
+      {
+        "id": 42,
+        "start": 163,
+        "end": 166,
+        "text": " Expiration?"
+      },
+      {
+        "id": 43,
+        "start": 166,
+        "end": 169,
+        "text": " Expiration is 11-30."
+      },
+      {
+        "id": 44,
+        "start": 169,
+        "end": 172,
+        "text": " And the security code, four digits."
+      },
+      {
+        "id": 45,
+        "start": 173,
+        "end": 178,
+        "text": " Security code, four digits is 5-0-0-7."
+      },
+      {
+        "id": 46,
+        "start": 178,
+        "end": 183,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 47,
+        "start": 183,
+        "end": 200,
+        "text": " Okay, one moment."
+      },
+      {
+        "id": 48,
+        "start": 200,
+        "end": 207,
+        "text": " Okay, you're all set. It's been shifted. Your prescription now reflects the A-G-V, okay?"
+      },
+      {
+        "id": 49,
+        "start": 207,
+        "end": 209,
+        "text": " Okay."
+      },
+      {
+        "id": 50,
+        "start": 209,
+        "end": 211,
+        "text": " Okay, expect it in the mail in the next few days."
+      },
+      {
+        "id": 51,
+        "start": 211,
+        "end": 213,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 52,
+        "start": 213,
+        "end": 215,
+        "text": " Okay, thank you. Bye-bye."
+      },
+      {
+        "id": 53,
+        "start": 215,
+        "end": 219,
+        "text": " Okay, bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8166-8556-e73de6c09cc0",
+    "url": "https://www.notion.so/300000001223329-300000001712774-2f711d0a101c81668556e73de6c09cc0"
+  },
+  "processedAt": "2026-01-29T23:28:32.816Z"
+}

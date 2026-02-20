@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001217116-300000001707548-4074958041 by  @ 9_12_29 AM_CallStudio.wav",
+    "size": 39776,
+    "modifyTime": 1769592442000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217116-300000001707548-4074958041 by  @ 9_12_29 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:27:22.000Z",
+    "callId": "300000001217116-300000001707548",
+    "phoneNumber": "4074958041",
+    "callTimestamp": "2026-01-28T09:27:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call. Speak loudly and clearly. Para español marque número nueve.\n\nSpeaker 2: Para comprar.",
+    "duration": 919,
+    "language": "spanish",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8,
+        "text": " To help get you to the right agent, please state the reason for your call. Speak loudly and clearly. Para español marque número nueve."
+      },
+      {
+        "id": 1,
+        "start": 10,
+        "end": 16,
+        "text": " Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada. Hable alto y claro."
+      },
+      {
+        "id": 2,
+        "start": 16,
+        "end": 18,
+        "text": " For English press nine."
+      },
+      {
+        "id": 3,
+        "start": 19,
+        "end": 21,
+        "text": " Para comprar."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e7-aa78-cfb8463aeedf",
+    "url": "https://www.notion.so/300000001217116-300000001707548-2f611d0a101c81e7aa78cfb8463aeedf"
+  },
+  "processedAt": "2026-01-28T10:32:30.628Z"
+}

@@ -1,0 +1,67 @@
+{
+  "recording": {
+    "name": "300000001220591-300000001710698-5705759435 by  @ 9_02_23 AM_CallStudio.wav",
+    "size": 36006,
+    "modifyTime": 1769619786000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220591-300000001710698-5705759435 by  @ 9_02_23 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T17:03:06.000Z",
+    "callId": "300000001220591-300000001710698",
+    "phoneNumber": "5705759435",
+    "callTimestamp": "2026-01-28T17:03:06.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Billing.\n\nSpeaker 2: I heard you say, billing.\n\nSpeaker 1: Say yes or press 1 if this is correct.\n\nSpeaker 2: Otherwise, say no or...\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1711,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 11,
+        "text": " Billing."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 15,
+        "text": " I heard you say, billing."
+      },
+      {
+        "id": 4,
+        "start": 15,
+        "end": 18,
+        "text": " Say yes or press 1 if this is correct."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 20,
+        "text": " Otherwise, say no or..."
+      },
+      {
+        "id": 6,
+        "start": 20,
+        "end": 22,
+        "text": " Thanks, transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81d9-a0bf-fd9c90295131",
+    "url": "https://www.notion.so/300000001220591-300000001710698-2f611d0a101c81d9a0bffd9c90295131"
+  },
+  "processedAt": "2026-01-28T18:44:48.453Z"
+}

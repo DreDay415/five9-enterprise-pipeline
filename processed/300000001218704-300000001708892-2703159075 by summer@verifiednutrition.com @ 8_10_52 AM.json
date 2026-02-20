@@ -1,0 +1,92 @@
+{
+  "recording": {
+    "name": "300000001218704-300000001708892-2703159075 by summer@verifiednutrition.com @ 8_10_52 AM.wav",
+    "size": 62850,
+    "modifyTime": 1769591841000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218704-300000001708892-2703159075 by summer@verifiednutrition.com @ 8_10_52 AM.wav",
+    "uploadDate": "2026-01-28T09:17:21.000Z",
+    "callId": "300000001218704-300000001708892",
+    "agent": "summer",
+    "phoneNumber": "2703159075",
+    "callTimestamp": "2026-01-28T08:10:52.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service, how can I help you?\n\nSpeaker 2: Yes, ma'am. I have an order that I got, and it was wrong. And I called GoGoMed, and they told me to contact you because there was two items on there. One was for 10, which you guys replaced the 10 and got it correct. But there was another order for 20 that is still not correct.\n\nSpeaker 1: I'm sorry, but I'll call back in a few seconds.\n\nSpeaker 2: And I'll get back to you.\n\nSpeaker 1: OK, give me one second.",
+    "duration": 1660,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.4800000190734863,
+        "text": " Thank you for calling customer service, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3.4800000190734863,
+        "end": 5.920000076293945,
+        "text": " Yes, ma'am."
+      },
+      {
+        "id": 2,
+        "start": 5.920000076293945,
+        "end": 8.920000076293945,
+        "text": " I have an order that I got, and it was wrong."
+      },
+      {
+        "id": 3,
+        "start": 8.920000076293945,
+        "end": 16.360000610351562,
+        "text": " And I called GoGoMed, and they told me to contact you"
+      },
+      {
+        "id": 4,
+        "start": 16.360000610351562,
+        "end": 18.1200008392334,
+        "text": " because there was two items on there."
+      },
+      {
+        "id": 5,
+        "start": 18.1200008392334,
+        "end": 21.959999084472656,
+        "text": " One was for 10, which you guys replaced the 10"
+      },
+      {
+        "id": 6,
+        "start": 21.959999084472656,
+        "end": 23.600000381469727,
+        "text": " and got it correct."
+      },
+      {
+        "id": 7,
+        "start": 23.600000381469727,
+        "end": 28.440000534057617,
+        "text": " But there was another order for 20 that is still not correct."
+      },
+      {
+        "id": 8,
+        "start": 30,
+        "end": 34.47999954223633,
+        "text": " I'm sorry, but I'll call back in a few seconds."
+      },
+      {
+        "id": 9,
+        "start": 34.47999954223633,
+        "end": 37.47999954223633,
+        "text": " And I'll get back to you."
+      },
+      {
+        "id": 10,
+        "start": 37.47999954223633,
+        "end": 39.7599983215332,
+        "text": " OK, give me one second."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81f6-8300-ca6bd7893563",
+    "url": "https://www.notion.so/300000001218704-300000001708892-2f611d0a101c81f68300ca6bd7893563"
+  },
+  "processedAt": "2026-01-28T11:18:53.249Z"
+}

@@ -1,0 +1,68 @@
+{
+  "recording": {
+    "name": "300000001224989-300000001714235-7163161931 by olivier@superbalife.com @ 4_57_09 PM.wav",
+    "size": 56740,
+    "modifyTime": 1769821070000,
+    "remotePath": "/five9sftp/upload/SB CS/1_30_2026/300000001224989-300000001714235-7163161931 by olivier@superbalife.com @ 4_57_09 PM.wav",
+    "uploadDate": "2026-01-31T00:57:50.000Z",
+    "callId": "300000001224989-300000001714235",
+    "agent": "olivier",
+    "phoneNumber": "7163161931",
+    "callTimestamp": "2026-01-31T16:57:09.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello, can you hear me?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello, can you hear me?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hello?",
+    "duration": 1776,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Hello?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " Hello, can you hear me?"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 16,
+        "text": " Hello?"
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 20,
+        "text": " Hello, can you hear me?"
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 24,
+        "text": " Hello?"
+      },
+      {
+        "id": 6,
+        "start": 30,
+        "end": 34,
+        "text": " Hello?"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f911d0a-101c-816f-ae59-d3b362197150",
+    "url": "https://www.notion.so/300000001224989-300000001714235-2f911d0a101c816fae59d3b362197150"
+  },
+  "processedAt": "2026-01-31T10:03:03.351Z"
+}

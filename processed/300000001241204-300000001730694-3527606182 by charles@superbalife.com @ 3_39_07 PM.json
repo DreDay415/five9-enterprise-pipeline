@@ -1,0 +1,209 @@
+{
+  "recording": {
+    "name": "300000001241204-300000001730694-3527606182 by charles@superbalife.com @ 3_39_07 PM.wav",
+    "size": 164576,
+    "modifyTime": 1770939657000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241204-300000001730694-3527606182 by charles@superbalife.com @ 3_39_07 PM.wav",
+    "uploadDate": "2026-02-12T23:40:57.000Z",
+    "callId": "300000001241204-300000001730694",
+    "agent": "charles",
+    "phoneNumber": "3527606182",
+    "callTimestamp": "2026-02-12T15:39:07.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_charles_300000001241204-300000001730694_3527606182.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_charles_300000001241204-300000001730694_3527606182.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, this is Charles.\n\nSpeaker 2: Hey, Charles. I'm one of your customers, and you guys sent me the wrong stuff, and now I got more today.\n\nSpeaker 1: What is the new Viagra supposed to say on the pill?\n\nSpeaker 2: The AGV should have the number depending on the dosage. If you got 50 milligrams, it should have 50.\n\nSpeaker 1: If you got 100, you should have 100 pressed onto it like a stamp.\n\nSpeaker 2: Yes, that's what it's got.\n\nSpeaker 1: All right, then these first ones you sent me, what do I do with those?\n\nSpeaker 2: First ones we sent you. Is this Robin Hendricks?\n\nSpeaker 1: Yeah, you sent me the wrong ones.\n\nSpeaker 2: Ah, I see that.\n\nSpeaker 1: Today, I got more.\n\nSpeaker 2: Okay, I see that. Yeah, we reshipped them.\n\nSpeaker 1: Those ones, the first ones that you got are made in America.\n\nSpeaker 2: If you want to try them, try them.\n\nSpeaker 1: And then those ones are made in France.\n\nSpeaker 2: And then compare them.\n\nSpeaker 1: The AGVs?\n\nSpeaker 2: Yeah, they're both AGVs.\n\nSpeaker 1: One's just made in France, one's made here in America.\n\nSpeaker 2: Now, to start out, can I take half of one?\n\nSpeaker 1: Yeah, I always say if you're taking 100, take the 100 first, see what it does to you.\n\nSpeaker 2: If you feel like that was way too much, just cut it in half and that would be 50,\n\nSpeaker 1: and then try it that way.\n\nSpeaker 2: But if you just want to stick with 50 and play it safe, play it safe and take the 50.\n\nSpeaker 1: All right.\n\nSpeaker 2: All right, buddy. I appreciate it.\n\nSpeaker 1: I just want to make sure I got the right ones this time.\n\nSpeaker 2: Yes, sir. Yes, sir.\n\nSpeaker 1: Hope you have a great day.\n\nSpeaker 2: You too. Thank you. Bye.",
+    "duration": 4157,
+    "audioDuration": 101.23999786376953,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 14,
+        "text": " Thanks for calling Viagra, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 14,
+        "end": 22,
+        "text": " Hey, Charles. I'm one of your customers, and you guys sent me the wrong stuff, and now I got more today."
+      },
+      {
+        "id": 2,
+        "start": 22,
+        "end": 27,
+        "text": " What is the new Viagra supposed to say on the pill?"
+      },
+      {
+        "id": 3,
+        "start": 27,
+        "end": 33,
+        "text": " The AGV should have the number depending on the dosage. If you got 50 milligrams, it should have 50."
+      },
+      {
+        "id": 4,
+        "start": 33,
+        "end": 37,
+        "text": " If you got 100, you should have 100 pressed onto it like a stamp."
+      },
+      {
+        "id": 5,
+        "start": 37,
+        "end": 39,
+        "text": " Yes, that's what it's got."
+      },
+      {
+        "id": 6,
+        "start": 39,
+        "end": 46,
+        "text": " All right, then these first ones you sent me, what do I do with those?"
+      },
+      {
+        "id": 7,
+        "start": 46,
+        "end": 49,
+        "text": " First ones we sent you. Is this Robin Hendricks?"
+      },
+      {
+        "id": 8,
+        "start": 49,
+        "end": 51,
+        "text": " Yeah, you sent me the wrong ones."
+      },
+      {
+        "id": 9,
+        "start": 51,
+        "end": 52,
+        "text": " Ah, I see that."
+      },
+      {
+        "id": 10,
+        "start": 52,
+        "end": 53,
+        "text": " Today, I got more."
+      },
+      {
+        "id": 11,
+        "start": 53,
+        "end": 57,
+        "text": " Okay, I see that. Yeah, we reshipped them."
+      },
+      {
+        "id": 12,
+        "start": 57,
+        "end": 60,
+        "text": " Those ones, the first ones that you got are made in America."
+      },
+      {
+        "id": 13,
+        "start": 60,
+        "end": 62,
+        "text": " If you want to try them, try them."
+      },
+      {
+        "id": 14,
+        "start": 62,
+        "end": 65,
+        "text": " And then those ones are made in France."
+      },
+      {
+        "id": 15,
+        "start": 65,
+        "end": 67,
+        "text": " And then compare them."
+      },
+      {
+        "id": 16,
+        "start": 67,
+        "end": 68,
+        "text": " The AGVs?"
+      },
+      {
+        "id": 17,
+        "start": 68,
+        "end": 70,
+        "text": " Yeah, they're both AGVs."
+      },
+      {
+        "id": 18,
+        "start": 70,
+        "end": 73,
+        "text": " One's just made in France, one's made here in America."
+      },
+      {
+        "id": 19,
+        "start": 73,
+        "end": 77,
+        "text": " Now, to start out, can I take half of one?"
+      },
+      {
+        "id": 20,
+        "start": 77,
+        "end": 83,
+        "text": " Yeah, I always say if you're taking 100, take the 100 first, see what it does to you."
+      },
+      {
+        "id": 21,
+        "start": 83,
+        "end": 87,
+        "text": " If you feel like that was way too much, just cut it in half and that would be 50,"
+      },
+      {
+        "id": 22,
+        "start": 87,
+        "end": 88,
+        "text": " and then try it that way."
+      },
+      {
+        "id": 23,
+        "start": 88,
+        "end": 93,
+        "text": " But if you just want to stick with 50 and play it safe, play it safe and take the 50."
+      },
+      {
+        "id": 24,
+        "start": 93,
+        "end": 94,
+        "text": " All right."
+      },
+      {
+        "id": 25,
+        "start": 94,
+        "end": 95,
+        "text": " All right, buddy. I appreciate it."
+      },
+      {
+        "id": 26,
+        "start": 95,
+        "end": 97,
+        "text": " I just want to make sure I got the right ones this time."
+      },
+      {
+        "id": 27,
+        "start": 97,
+        "end": 98,
+        "text": " Yes, sir. Yes, sir."
+      },
+      {
+        "id": 28,
+        "start": 98,
+        "end": 99,
+        "text": " Hope you have a great day."
+      },
+      {
+        "id": 29,
+        "start": 99,
+        "end": 101,
+        "text": " You too. Thank you. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81d7-8087-f2392dcb9008",
+    "url": "https://www.notion.so/300000001241204-300000001730694-30611d0a101c81d78087f2392dcb9008"
+  },
+  "processedAt": "2026-02-13T00:05:28.155Z"
+}

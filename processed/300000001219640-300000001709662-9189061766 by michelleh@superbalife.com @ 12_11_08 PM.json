@@ -1,0 +1,266 @@
+{
+  "recording": {
+    "name": "300000001219640-300000001709662-9189061766 by michelleh@superbalife.com @ 12_11_08 PM.wav",
+    "size": 137146,
+    "modifyTime": 1769589430000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219640-300000001709662-9189061766 by michelleh@superbalife.com @ 12_11_08 PM.wav",
+    "uploadDate": "2026-01-28T08:37:10.000Z",
+    "callId": "300000001219640-300000001709662",
+    "agent": "michelleh",
+    "phoneNumber": "9189061766",
+    "callTimestamp": "2026-01-28T12:11:08.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, how can I help you?\n\nSpeaker 2: Yes, I need to cancel my order and prescription, please.\n\nSpeaker 1: Sure, no problem, I can help you out.\n\nSpeaker 2: Jim, can you just confirm your date of birth?\n\nSpeaker 1: 6-9-46.\n\nSpeaker 2: Thank you so much, I see you're a VIP status customer.\n\nSpeaker 1: And how's the medication working out for you?\n\nSpeaker 2: Well, now my wife's got a heart problem, so we haven't been able to try it, that's why I'm taking it.\n\nSpeaker 1: Okay, not a problem.\n\nSpeaker 2: So I've already got a shipment I've got and I'm not going to be able to use them, so it's not going to help me for a while.\n\nSpeaker 1: Not a problem, okay.\n\nSpeaker 2: Well, I can't answer your question on that one.\n\nSpeaker 1: Yeah, no worries.\n\nSpeaker 2: So with your VIP status, you don't have to have your refills on a monthly basis.\n\nSpeaker 1: What a lot of people like to do is just go ahead and pause that for six months.\n\nSpeaker 2: That way it keeps your prescription active and just allows you to call in whenever you want a refill.\n\nSpeaker 1: I could pause that for you until July 31st.\n\nSpeaker 2: Just go ahead and cancel it because I don't know how long this is going to be.\n\nSpeaker 1: Okay, no, not a problem.\n\nSpeaker 2: It's just kind of an unknown.\n\nSpeaker 1: They don't even know what we're going to do.\n\nSpeaker 2: It's completely fiction on it, so that's kind of like nothing to do with anything.\n\nSpeaker 1: And she's not going into surgery until March, so I think it's too bad I have to cancel.\n\nSpeaker 2: I know I can call back and get it now.\n\nSpeaker 1: Yeah, yeah, totally.\n\nSpeaker 2: All right, well, I'll send my prayers for her and take care.\n\nSpeaker 1: All right, thank you.\n\nSpeaker 2: No problem, have a great day.\n\nSpeaker 1: All right, thank you, appreciate it.\n\nSpeaker 2: No problem, bye.",
+    "duration": 4222,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.799999952316284,
+        "text": " Thank you for calling Viagra, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 2.799999952316284,
+        "end": 6.599999904632568,
+        "text": " Yes, I need to cancel my order and prescription, please."
+      },
+      {
+        "id": 2,
+        "start": 6.599999904632568,
+        "end": 9.079999923706055,
+        "text": " Sure, no problem, I can help you out."
+      },
+      {
+        "id": 3,
+        "start": 9.079999923706055,
+        "end": 12.119999885559082,
+        "text": " Jim, can you just confirm your date of birth?"
+      },
+      {
+        "id": 4,
+        "start": 12.119999885559082,
+        "end": 14.079999923706055,
+        "text": " 6-9-46."
+      },
+      {
+        "id": 5,
+        "start": 14.079999923706055,
+        "end": 16.920000076293945,
+        "text": " Thank you so much, I see you're a VIP status customer."
+      },
+      {
+        "id": 6,
+        "start": 16.920000076293945,
+        "end": 19.8799991607666,
+        "text": " And how's the medication working out for you?"
+      },
+      {
+        "id": 7,
+        "start": 19.8799991607666,
+        "end": 21.520000457763672,
+        "text": " Well, now my wife's got a heart problem,"
+      },
+      {
+        "id": 8,
+        "start": 21.520000457763672,
+        "end": 25.520000457763672,
+        "text": " so we haven't been able to try it, that's why I'm taking it."
+      },
+      {
+        "id": 9,
+        "start": 25.520000457763672,
+        "end": 26.360000610351562,
+        "text": " Okay, not a problem."
+      },
+      {
+        "id": 10,
+        "start": 26.360000610351562,
+        "end": 28.440000534057617,
+        "text": " So I've already got a shipment I've got"
+      },
+      {
+        "id": 11,
+        "start": 28.440000534057617,
+        "end": 29.639999389648438,
+        "text": " and I'm not going to be able to use them,"
+      },
+      {
+        "id": 12,
+        "start": 29.639999389648438,
+        "end": 32.040000915527344,
+        "text": " so it's not going to help me for a while."
+      },
+      {
+        "id": 13,
+        "start": 32.040000915527344,
+        "end": 33.63999938964844,
+        "text": " Not a problem, okay."
+      },
+      {
+        "id": 14,
+        "start": 33.63999938964844,
+        "end": 35.15999984741211,
+        "text": " Well, I can't answer your question on that one."
+      },
+      {
+        "id": 15,
+        "start": 35.15999984741211,
+        "end": 36.31999969482422,
+        "text": " Yeah, no worries."
+      },
+      {
+        "id": 16,
+        "start": 36.31999969482422,
+        "end": 37.880001068115234,
+        "text": " So with your VIP status,"
+      },
+      {
+        "id": 17,
+        "start": 37.880001068115234,
+        "end": 40.7599983215332,
+        "text": " you don't have to have your refills on a monthly basis."
+      },
+      {
+        "id": 18,
+        "start": 40.7599983215332,
+        "end": 42.08000183105469,
+        "text": " What a lot of people like to do"
+      },
+      {
+        "id": 19,
+        "start": 42.08000183105469,
+        "end": 44.68000030517578,
+        "text": " is just go ahead and pause that for six months."
+      },
+      {
+        "id": 20,
+        "start": 44.68000030517578,
+        "end": 46.52000045776367,
+        "text": " That way it keeps your prescription active"
+      },
+      {
+        "id": 21,
+        "start": 46.52000045776367,
+        "end": 49.400001525878906,
+        "text": " and just allows you to call in whenever you want a refill."
+      },
+      {
+        "id": 22,
+        "start": 49.400001525878906,
+        "end": 52.79999923706055,
+        "text": " I could pause that for you until July 31st."
+      },
+      {
+        "id": 23,
+        "start": 52.79999923706055,
+        "end": 54,
+        "text": " Just go ahead and cancel it"
+      },
+      {
+        "id": 24,
+        "start": 54,
+        "end": 55.84000015258789,
+        "text": " because I don't know how long this is going to be."
+      },
+      {
+        "id": 25,
+        "start": 55.84000015258789,
+        "end": 57.439998626708984,
+        "text": " Okay, no, not a problem."
+      },
+      {
+        "id": 26,
+        "start": 57.439998626708984,
+        "end": 58.79999923706055,
+        "text": " It's just kind of an unknown."
+      },
+      {
+        "id": 27,
+        "start": 58.79999923706055,
+        "end": 60.15999984741211,
+        "text": " They don't even know what we're going to do."
+      },
+      {
+        "id": 28,
+        "start": 60.15999984741211,
+        "end": 61.20000076293945,
+        "text": " It's completely fiction on it,"
+      },
+      {
+        "id": 29,
+        "start": 61.20000076293945,
+        "end": 63.36000061035156,
+        "text": " so that's kind of like nothing to do with anything."
+      },
+      {
+        "id": 30,
+        "start": 63.36000061035156,
+        "end": 66.80000305175781,
+        "text": " And she's not going into surgery until March,"
+      },
+      {
+        "id": 31,
+        "start": 66.80000305175781,
+        "end": 69.83999633789062,
+        "text": " so I think it's too bad I have to cancel."
+      },
+      {
+        "id": 32,
+        "start": 69.83999633789062,
+        "end": 71.4000015258789,
+        "text": " I know I can call back and get it now."
+      },
+      {
+        "id": 33,
+        "start": 71.4000015258789,
+        "end": 73.44000244140625,
+        "text": " Yeah, yeah, totally."
+      },
+      {
+        "id": 34,
+        "start": 73.44000244140625,
+        "end": 75.63999938964844,
+        "text": " All right, well, I'll send my prayers for her"
+      },
+      {
+        "id": 35,
+        "start": 75.63999938964844,
+        "end": 76.4800033569336,
+        "text": " and take care."
+      },
+      {
+        "id": 36,
+        "start": 76.4800033569336,
+        "end": 77.5999984741211,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 37,
+        "start": 77.5999984741211,
+        "end": 79.63999938964844,
+        "text": " No problem, have a great day."
+      },
+      {
+        "id": 38,
+        "start": 79.63999938964844,
+        "end": 81.36000061035156,
+        "text": " All right, thank you, appreciate it."
+      },
+      {
+        "id": 39,
+        "start": 81.36000061035156,
+        "end": 83.44000244140625,
+        "text": " No problem, bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-817d-b3de-fdc04f7e1290",
+    "url": "https://www.notion.so/300000001219640-300000001709662-2f611d0a101c817db3defdc04f7e1290"
+  },
+  "processedAt": "2026-01-28T12:52:01.712Z"
+}

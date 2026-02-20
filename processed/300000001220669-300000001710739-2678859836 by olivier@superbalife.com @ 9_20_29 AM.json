@@ -1,0 +1,434 @@
+{
+  "recording": {
+    "name": "300000001220669-300000001710739-2678859836 by olivier@superbalife.com @ 9_20_29 AM.wav",
+    "size": 220280,
+    "modifyTime": 1769620985000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220669-300000001710739-2678859836 by olivier@superbalife.com @ 9_20_29 AM.wav",
+    "uploadDate": "2026-01-28T17:23:05.000Z",
+    "callId": "300000001220669-300000001710739",
+    "agent": "olivier",
+    "phoneNumber": "2678859836",
+    "callTimestamp": "2026-01-28T09:20:29.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Yes, hello.\n\nSpeaker 1: Hello, how are we doing, sir? Mr. Lutz?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Pulling your prescription here, give me one moment.\n\nSpeaker 2: Yep.\n\nSpeaker 1: Mr. Bob Lutz,\n\nSpeaker 2: I see that you have a VIP account\n\nSpeaker 1: for Viagra 50mg 25 tablets.\n\nSpeaker 2: How can I help you, Mr. Lutz?\n\nSpeaker 1: Yes, I would like to cancel those.\n\nSpeaker 2: Okay.\n\nSpeaker 1: You just don't need refills?\n\nSpeaker 2: Would you like to order as needed instead?\n\nSpeaker 1: Um...\n\nSpeaker 2: Actually, no.\n\nSpeaker 1: My doctor says I shouldn't be taking these,\n\nSpeaker 2: so I can't take them.\n\nSpeaker 1: Oh, really? Okay.\n\nSpeaker 2: Yeah, the reason I was asking,\n\nSpeaker 1: because you don't have to get it often.\n\nSpeaker 2: You can order as needed.\n\nSpeaker 1: Usually, we advise pharmacy to pause.\n\nSpeaker 2: Let's say if you have a medical or you need a break.\n\nSpeaker 1: What's that allow you is to lock\n\nSpeaker 2: the current market price\n\nSpeaker 1: so you can still claim it.\n\nSpeaker 2: And then also, the company don't have to get\n\nSpeaker 1: a new doctor consultation,\n\nSpeaker 2: which has a cost behind\n\nSpeaker 1: to serve you in the future.\n\nSpeaker 2: So usually, the offer, you can even pause\n\nSpeaker 1: up to half a year so you can reorder\n\nSpeaker 2: because you don't require to get it as often anyway.\n\nSpeaker 1: Um...\n\nSpeaker 2: Yeah, I don't think I...\n\nSpeaker 1: I'm not going to be allowed to take those,\n\nSpeaker 2: so please pay at home.\n\nSpeaker 1: All right. I cancel the doctor prescription,\n\nSpeaker 2: cancel the VIP account.\n\nSpeaker 1: That being said, you know,\n\nSpeaker 2: if anything's changing in the future,\n\nSpeaker 1: the doctor has changed you to the new doctor.\n\nSpeaker 2: They're going to have to finance for you to offer you the Vagra.\n\nSpeaker 1: But you have said, Mr. Lutz,\n\nSpeaker 2: everything's canceled. You have a good day, okay?\n\nSpeaker 1: Will I get an email notifying me that this was canceled?\n\nSpeaker 2: I can give you a tracking...\n\nSpeaker 1: I mean, a confirmation number\n\nSpeaker 2: right now, if you like.\n\nSpeaker 1: Yes.\n\nSpeaker 2: All right.\n\nSpeaker 1: So, DCA...\n\nSpeaker 2: One second.\n\nSpeaker 1: Okay.\n\nSpeaker 2: DCA5...\n\nSpeaker 1: Yeah.\n\nSpeaker 2: F869...\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Go ahead.\n\nSpeaker 1: So...\n\nSpeaker 2: Hello?\n\nSpeaker 1: The last one was F869\n\nSpeaker 2: and then FF at the end.\n\nSpeaker 1: Got it.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right. Thank you.\n\nSpeaker 2: Bye-bye.",
+    "duration": 5176,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 4,
+        "text": " Yes, hello."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 6,
+        "text": " Hello, how are we doing, sir? Mr. Lutz?"
+      },
+      {
+        "id": 3,
+        "start": 6,
+        "end": 8,
+        "text": " Yes."
+      },
+      {
+        "id": 4,
+        "start": 8,
+        "end": 10,
+        "text": " Pulling your prescription here, give me one moment."
+      },
+      {
+        "id": 5,
+        "start": 10,
+        "end": 12,
+        "text": " Yep."
+      },
+      {
+        "id": 6,
+        "start": 12,
+        "end": 14,
+        "text": " Mr. Bob Lutz,"
+      },
+      {
+        "id": 7,
+        "start": 14,
+        "end": 16,
+        "text": " I see that you have a VIP account"
+      },
+      {
+        "id": 8,
+        "start": 16,
+        "end": 18,
+        "text": " for Viagra 50mg 25 tablets."
+      },
+      {
+        "id": 9,
+        "start": 18,
+        "end": 20,
+        "text": " How can I help you, Mr. Lutz?"
+      },
+      {
+        "id": 10,
+        "start": 20,
+        "end": 22,
+        "text": " Yes, I would like to cancel those."
+      },
+      {
+        "id": 11,
+        "start": 22,
+        "end": 24,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 24,
+        "end": 26,
+        "text": " You just don't need refills?"
+      },
+      {
+        "id": 13,
+        "start": 26,
+        "end": 28,
+        "text": " Would you like to order as needed instead?"
+      },
+      {
+        "id": 14,
+        "start": 28,
+        "end": 30,
+        "text": " Um..."
+      },
+      {
+        "id": 15,
+        "start": 30,
+        "end": 32,
+        "text": " Actually, no."
+      },
+      {
+        "id": 16,
+        "start": 32,
+        "end": 34,
+        "text": " My doctor says I shouldn't be taking these,"
+      },
+      {
+        "id": 17,
+        "start": 34,
+        "end": 36,
+        "text": " so I can't take them."
+      },
+      {
+        "id": 18,
+        "start": 36,
+        "end": 38,
+        "text": " Oh, really? Okay."
+      },
+      {
+        "id": 19,
+        "start": 38,
+        "end": 40,
+        "text": " Yeah, the reason I was asking,"
+      },
+      {
+        "id": 20,
+        "start": 40,
+        "end": 42,
+        "text": " because you don't have to get it often."
+      },
+      {
+        "id": 21,
+        "start": 42,
+        "end": 44,
+        "text": " You can order as needed."
+      },
+      {
+        "id": 22,
+        "start": 44,
+        "end": 46,
+        "text": " Usually, we advise pharmacy to pause."
+      },
+      {
+        "id": 23,
+        "start": 46,
+        "end": 48,
+        "text": " Let's say if you have a medical or you need a break."
+      },
+      {
+        "id": 24,
+        "start": 48,
+        "end": 50,
+        "text": " What's that allow you is to lock"
+      },
+      {
+        "id": 25,
+        "start": 50,
+        "end": 52,
+        "text": " the current market price"
+      },
+      {
+        "id": 26,
+        "start": 52,
+        "end": 54,
+        "text": " so you can still claim it."
+      },
+      {
+        "id": 27,
+        "start": 54,
+        "end": 56,
+        "text": " And then also, the company don't have to get"
+      },
+      {
+        "id": 28,
+        "start": 56,
+        "end": 58,
+        "text": " a new doctor consultation,"
+      },
+      {
+        "id": 29,
+        "start": 58,
+        "end": 60,
+        "text": " which has a cost behind"
+      },
+      {
+        "id": 30,
+        "start": 60,
+        "end": 62,
+        "text": " to serve you in the future."
+      },
+      {
+        "id": 31,
+        "start": 62,
+        "end": 64,
+        "text": " So usually, the offer, you can even pause"
+      },
+      {
+        "id": 32,
+        "start": 64,
+        "end": 66,
+        "text": " up to half a year so you can reorder"
+      },
+      {
+        "id": 33,
+        "start": 66,
+        "end": 68,
+        "text": " because you don't require to get it as often anyway."
+      },
+      {
+        "id": 34,
+        "start": 68,
+        "end": 70,
+        "text": " Um..."
+      },
+      {
+        "id": 35,
+        "start": 70,
+        "end": 72,
+        "text": " Yeah, I don't think I..."
+      },
+      {
+        "id": 36,
+        "start": 72,
+        "end": 74,
+        "text": " I'm not going to be allowed to take those,"
+      },
+      {
+        "id": 37,
+        "start": 74,
+        "end": 76,
+        "text": " so please pay at home."
+      },
+      {
+        "id": 38,
+        "start": 76,
+        "end": 78,
+        "text": " All right. I cancel the doctor prescription,"
+      },
+      {
+        "id": 39,
+        "start": 78,
+        "end": 80,
+        "text": " cancel the VIP account."
+      },
+      {
+        "id": 40,
+        "start": 80,
+        "end": 82,
+        "text": " That being said, you know,"
+      },
+      {
+        "id": 41,
+        "start": 82,
+        "end": 84,
+        "text": " if anything's changing in the future,"
+      },
+      {
+        "id": 42,
+        "start": 84,
+        "end": 86,
+        "text": " the doctor has changed you to the new doctor."
+      },
+      {
+        "id": 43,
+        "start": 86,
+        "end": 88,
+        "text": " They're going to have to finance for you to offer you the Vagra."
+      },
+      {
+        "id": 44,
+        "start": 88,
+        "end": 90,
+        "text": " But you have said, Mr. Lutz,"
+      },
+      {
+        "id": 45,
+        "start": 90,
+        "end": 92,
+        "text": " everything's canceled. You have a good day, okay?"
+      },
+      {
+        "id": 46,
+        "start": 92,
+        "end": 94,
+        "text": " Will I get an email notifying me that this was canceled?"
+      },
+      {
+        "id": 47,
+        "start": 94,
+        "end": 96,
+        "text": " I can give you a tracking..."
+      },
+      {
+        "id": 48,
+        "start": 96,
+        "end": 98,
+        "text": " I mean, a confirmation number"
+      },
+      {
+        "id": 49,
+        "start": 98,
+        "end": 100,
+        "text": " right now, if you like."
+      },
+      {
+        "id": 50,
+        "start": 100,
+        "end": 102,
+        "text": " Yes."
+      },
+      {
+        "id": 51,
+        "start": 102,
+        "end": 104,
+        "text": " All right."
+      },
+      {
+        "id": 52,
+        "start": 104,
+        "end": 106,
+        "text": " So, DCA..."
+      },
+      {
+        "id": 53,
+        "start": 106,
+        "end": 108,
+        "text": " One second."
+      },
+      {
+        "id": 54,
+        "start": 108,
+        "end": 110,
+        "text": " Okay."
+      },
+      {
+        "id": 55,
+        "start": 110,
+        "end": 112,
+        "text": " DCA5..."
+      },
+      {
+        "id": 56,
+        "start": 112,
+        "end": 114,
+        "text": " Yeah."
+      },
+      {
+        "id": 57,
+        "start": 114,
+        "end": 116,
+        "text": " F869..."
+      },
+      {
+        "id": 58,
+        "start": 116,
+        "end": 118,
+        "text": " Yeah."
+      },
+      {
+        "id": 59,
+        "start": 118,
+        "end": 120,
+        "text": " Go ahead."
+      },
+      {
+        "id": 60,
+        "start": 120,
+        "end": 122,
+        "text": " So..."
+      },
+      {
+        "id": 61,
+        "start": 122,
+        "end": 124,
+        "text": " Hello?"
+      },
+      {
+        "id": 62,
+        "start": 124,
+        "end": 126,
+        "text": " The last one was F869"
+      },
+      {
+        "id": 63,
+        "start": 126,
+        "end": 128,
+        "text": " and then FF at the end."
+      },
+      {
+        "id": 64,
+        "start": 128,
+        "end": 130,
+        "text": " Got it."
+      },
+      {
+        "id": 65,
+        "start": 130,
+        "end": 132,
+        "text": " Okay."
+      },
+      {
+        "id": 66,
+        "start": 132,
+        "end": 134,
+        "text": " All right. Thank you."
+      },
+      {
+        "id": 67,
+        "start": 134,
+        "end": 136,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-814c-8ea3-d53203f508fd",
+    "url": "https://www.notion.so/300000001220669-300000001710739-2f611d0a101c814c8ea3d53203f508fd"
+  },
+  "processedAt": "2026-01-28T18:33:38.465Z"
+}

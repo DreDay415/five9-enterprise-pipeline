@@ -1,0 +1,45 @@
+{
+  "recording": {
+    "name": "300000001240688-300000001730357-6513383101 by josimar@superbalife.com @ 12_48_55 PM.wav",
+    "size": 21056,
+    "modifyTime": 1770929369000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240688-300000001730357-6513383101 by josimar@superbalife.com @ 12_48_55 PM.wav",
+    "uploadDate": "2026-02-12T20:49:29.000Z",
+    "callId": "300000001240688-300000001730357",
+    "agent": "josimar",
+    "phoneNumber": "6513383101",
+    "callTimestamp": "2026-02-12T12:48:55.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, I can help you today.\n\nSpeaker 2: Yes, I'm calling for K.T. Goodrich.\n\nSpeaker 1: Yeah, got it, let me send you right over, one moment.",
+    "duration": 761,
+    "audioDuration": 12.920000076293945,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling Viagra, I can help you today."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 6,
+        "text": " Yes, I'm calling for K.T. Goodrich."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 9,
+        "text": " Yeah, got it, let me send you right over, one moment."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81c0-99f8-d49e3b750745",
+    "url": "https://www.notion.so/300000001240688-300000001730357-30511d0a101c81c099f8d49e3b750745"
+  },
+  "processedAt": "2026-02-12T21:06:45.781Z"
+}

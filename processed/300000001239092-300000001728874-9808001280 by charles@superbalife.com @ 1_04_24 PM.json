@@ -1,0 +1,68 @@
+{
+  "recording": {
+    "name": "300000001239092-300000001728874-9808001280 by charles@superbalife.com @ 1_04_24 PM.wav",
+    "size": 11826,
+    "modifyTime": 1770843893000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239092-300000001728874-9808001280 by charles@superbalife.com @ 1_04_24 PM.wav",
+    "uploadDate": "2026-02-11T21:04:53.000Z",
+    "callId": "300000001239092-300000001728874",
+    "agent": "charles",
+    "phoneNumber": "9808001280",
+    "callTimestamp": "2026-02-11T13:04:24.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, friend.\n\nSpeaker 2: Hi.\n\nSpeaker 1: This is a Spanish one.\n\nSpeaker 2: OK.\n\nSpeaker 1: OK.\n\nSpeaker 2: All right.\n\nSpeaker 1: 3, 2, 1.",
+    "duration": 1344,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Hi, friend."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2,
+        "text": " Hi."
+      },
+      {
+        "id": 2,
+        "start": 2,
+        "end": 3,
+        "text": " This is a Spanish one."
+      },
+      {
+        "id": 3,
+        "start": 3,
+        "end": 4,
+        "text": " OK."
+      },
+      {
+        "id": 4,
+        "start": 4,
+        "end": 5,
+        "text": " OK."
+      },
+      {
+        "id": 5,
+        "start": 5,
+        "end": 6,
+        "text": " All right."
+      },
+      {
+        "id": 6,
+        "start": 6,
+        "end": 7,
+        "text": " 3, 2, 1."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-81d3-9f85-f2ffdd7d0f34",
+    "url": "https://www.notion.so/300000001239092-300000001728874-30411d0a101c81d39f85f2ffdd7d0f34"
+  },
+  "processedAt": "2026-02-11T21:31:12.541Z"
+}

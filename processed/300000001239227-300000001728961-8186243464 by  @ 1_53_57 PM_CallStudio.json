@@ -1,0 +1,43 @@
+{
+  "recording": {
+    "name": "300000001239227-300000001728961-8186243464 by  @ 1_53_57 PM_CallStudio.wav",
+    "size": 37500,
+    "modifyTime": 1770846884000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239227-300000001728961-8186243464 by  @ 1_53_57 PM_CallStudio.wav",
+    "uploadDate": "2026-02-11T21:54:44.000Z",
+    "callId": "300000001239227-300000001728961",
+    "phoneNumber": "8186243464",
+    "callTimestamp": "2026-02-11T21:54:44.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: We didn't receive a response or I couldn't hear you. Let's try again.\n\nSpeaker 2: Please state the reason for your call. Speak to an agent. Thanks, transferring.\n\nSpeaker 1: To agent.",
+    "duration": 1044,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 13.039999961853027,
+        "text": " We didn't receive a response or I couldn't hear your let's try again"
+      },
+      {
+        "id": 1,
+        "start": 13.039999961853027,
+        "end": 22.31999969482422,
+        "text": " please state the reason for your call. Speak to an agent. Thanks transferring"
+      },
+      {
+        "id": 2,
+        "start": 22.31999969482422,
+        "end": 24.719999313354492,
+        "text": " to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-8198-9976-c58ee3007c7e",
+    "url": "https://www.notion.so/300000001239227-300000001728961-30411d0a101c81989976c58ee3007c7e"
+  },
+  "processedAt": "2026-02-11T22:03:36.764Z"
+}

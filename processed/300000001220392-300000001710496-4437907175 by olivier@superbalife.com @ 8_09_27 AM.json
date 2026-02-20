@@ -1,0 +1,170 @@
+{
+  "recording": {
+    "name": "300000001220392-300000001710496-4437907175 by olivier@superbalife.com @ 8_09_27 AM.wav",
+    "size": 226390,
+    "modifyTime": 1769616727000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220392-300000001710496-4437907175 by olivier@superbalife.com @ 8_09_27 AM.wav",
+    "uploadDate": "2026-01-28T16:12:07.000Z",
+    "callId": "300000001220392-300000001710496",
+    "agent": "olivier",
+    "phoneNumber": "4437907175",
+    "callTimestamp": "2026-01-28T08:09:27.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yes, good morning. I would like to cancel my prescription.\n\nSpeaker 2: Okay, let me pull the prescription here. Give me one moment.\n\nSpeaker 1: Mr. Logan Starr?\n\nSpeaker 2: Yes, sir.\n\nSpeaker 1: Yes, so I see your prescription from Dr. Blackwell for Viagra 100 mg, 20 tablets.\n\nSpeaker 2: You just don't need refills? You could put a pause and just order as needed.\n\nSpeaker 1: Yeah, just do that then. Yeah, pause it because I got so much.\n\nSpeaker 2: I got so much now, I could sell it.\n\nSpeaker 1: Oh, I see. Yeah, no, that's fine. I wish you would have called us even earlier so we would have stopped.\n\nSpeaker 2: We're just assuming the patient is active, you know what I mean? Because most patients are.\n\nSpeaker 1: Yeah, I try. I am. I'm just not like I used to and I tried canceling it online a while ago and it just kept on coming.\n\nSpeaker 2: Yeah, so I'm going to pause you so that way you don't lose your privilege, perks and price and any promotion because you get to apply automatically to your account.\n\nSpeaker 1: But you're just not going to receive the monthly. That was the original prescription every 30 days.\n\nSpeaker 2: That was right up to half a year and then you can get it once or twice a year and or more if you want.\n\nSpeaker 1: You just got to. Okay, so I could just go online, just go online and just order it like like go back into the profile and.\n\nSpeaker 2: Yes. Okay, that'd be great.\n\nSpeaker 1: The quick refill button or you call us.\n\nSpeaker 2: But then when you place your order, if you want to adjust your frequency, you got to call us usually most of the time for do it the right way.\n\nSpeaker 1: So make sure to call us, let's say, if you want to adjust your frequency, you know.\n\nSpeaker 2: Okay. Okay. So as of right now, I'll receive no more.\n\nSpeaker 1: Okay, perfect. All right. That's all. That's what I needed to know.\n\nSpeaker 2: All right. Yeah. Give us a call to reorder and yeah, good to hear from you and you have a good day.\n\nSpeaker 1: Thank you, sir. Thank you. You too.\n\nSpeaker 2: Bye. Bye. Bye.",
+    "duration": 5921,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Yes, good morning. I would like to cancel my prescription."
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 25,
+        "text": " Okay, let me pull the prescription here. Give me one moment."
+      },
+      {
+        "id": 2,
+        "start": 25,
+        "end": 27,
+        "text": " Mr. Logan Starr?"
+      },
+      {
+        "id": 3,
+        "start": 27,
+        "end": 29,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 4,
+        "start": 29,
+        "end": 35,
+        "text": " Yes, so I see your prescription from Dr. Blackwell for Viagra 100 mg, 20 tablets."
+      },
+      {
+        "id": 5,
+        "start": 35,
+        "end": 40,
+        "text": " You just don't need refills? You could put a pause and just order as needed."
+      },
+      {
+        "id": 6,
+        "start": 40,
+        "end": 44,
+        "text": " Yeah, just do that then. Yeah, pause it because I got so much."
+      },
+      {
+        "id": 7,
+        "start": 44,
+        "end": 49,
+        "text": " I got so much now, I could sell it."
+      },
+      {
+        "id": 8,
+        "start": 49,
+        "end": 55,
+        "text": " Oh, I see. Yeah, no, that's fine. I wish you would have called us even earlier so we would have stopped."
+      },
+      {
+        "id": 9,
+        "start": 55,
+        "end": 61,
+        "text": " We're just assuming the patient is active, you know what I mean? Because most patients are."
+      },
+      {
+        "id": 10,
+        "start": 61,
+        "end": 71,
+        "text": " Yeah, I try. I am. I'm just not like I used to and I tried canceling it online a while ago and it just kept on coming."
+      },
+      {
+        "id": 11,
+        "start": 71,
+        "end": 79,
+        "text": " Yeah, so I'm going to pause you so that way you don't lose your privilege, perks and price and any promotion because you get to apply automatically to your account."
+      },
+      {
+        "id": 12,
+        "start": 79,
+        "end": 84,
+        "text": " But you're just not going to receive the monthly. That was the original prescription every 30 days."
+      },
+      {
+        "id": 13,
+        "start": 84,
+        "end": 90,
+        "text": " That was right up to half a year and then you can get it once or twice a year and or more if you want."
+      },
+      {
+        "id": 14,
+        "start": 90,
+        "end": 97,
+        "text": " You just got to. Okay, so I could just go online, just go online and just order it like like go back into the profile and."
+      },
+      {
+        "id": 15,
+        "start": 97,
+        "end": 100,
+        "text": " Yes. Okay, that'd be great."
+      },
+      {
+        "id": 16,
+        "start": 100,
+        "end": 103,
+        "text": " The quick refill button or you call us."
+      },
+      {
+        "id": 17,
+        "start": 103,
+        "end": 110,
+        "text": " But then when you place your order, if you want to adjust your frequency, you got to call us usually most of the time for do it the right way."
+      },
+      {
+        "id": 18,
+        "start": 111,
+        "end": 116,
+        "text": " So make sure to call us, let's say, if you want to adjust your frequency, you know."
+      },
+      {
+        "id": 19,
+        "start": 116,
+        "end": 120,
+        "text": " Okay. Okay. So as of right now, I'll receive no more."
+      },
+      {
+        "id": 20,
+        "start": 120,
+        "end": 126,
+        "text": " Okay, perfect. All right. That's all. That's what I needed to know."
+      },
+      {
+        "id": 21,
+        "start": 126,
+        "end": 132,
+        "text": " All right. Yeah. Give us a call to reorder and yeah, good to hear from you and you have a good day."
+      },
+      {
+        "id": 22,
+        "start": 132,
+        "end": 134,
+        "text": " Thank you, sir. Thank you. You too."
+      },
+      {
+        "id": 23,
+        "start": 134,
+        "end": 135,
+        "text": " Bye. Bye. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8153-ae85-c68769e051f4",
+    "url": "https://www.notion.so/300000001220392-300000001710496-2f611d0a101c8153ae85c68769e051f4"
+  },
+  "processedAt": "2026-01-28T19:06:58.973Z"
+}

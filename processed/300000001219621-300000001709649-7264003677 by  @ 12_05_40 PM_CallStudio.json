@@ -1,0 +1,67 @@
+{
+  "recording": {
+    "name": "300000001219621-300000001709649-7264003677 by  @ 12_05_40 PM_CallStudio.wav",
+    "size": 58690,
+    "modifyTime": 1769591839000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219621-300000001709649-7264003677 by  @ 12_05_40 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:17:19.000Z",
+    "callId": "300000001219621-300000001709649",
+    "phoneNumber": "7264003677",
+    "callTimestamp": "2026-01-28T09:17:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Para Español marque número 9.\n\nSpeaker 1: Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto y claro.\n\nSpeaker 2: For English press 9.\n\nSpeaker 1: To help get you to the right agent, please state the reason for your call, speak loudly and clearly.\n\nSpeaker 2: Para Español marque número 9.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 3328,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 9,
+        "text": " Para Español Marque Número 9."
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 17,
+        "text": " Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto y claro."
+      },
+      {
+        "id": 3,
+        "start": 17,
+        "end": 19,
+        "text": " For English Press 9."
+      },
+      {
+        "id": 4,
+        "start": 22,
+        "end": 28,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly and clearly."
+      },
+      {
+        "id": 5,
+        "start": 28,
+        "end": 30,
+        "text": " Para Español Marque Número 9."
+      },
+      {
+        "id": 6,
+        "start": 34,
+        "end": 36,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81f7-9375-e0cf8949fb7e",
+    "url": "https://www.notion.so/300000001219621-300000001709649-2f611d0a101c81f79375e0cf8949fb7e"
+  },
+  "processedAt": "2026-01-28T11:22:50.374Z"
+}

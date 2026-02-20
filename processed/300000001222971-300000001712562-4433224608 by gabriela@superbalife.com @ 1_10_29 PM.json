@@ -1,0 +1,248 @@
+{
+  "recording": {
+    "name": "300000001222971-300000001712562-4433224608 by gabriela@superbalife.com @ 1_10_29 PM.wav",
+    "size": 174066,
+    "modifyTime": 1769721159000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222971-300000001712562-4433224608 by gabriela@superbalife.com @ 1_10_29 PM.wav",
+    "uploadDate": "2026-01-29T21:12:39.000Z",
+    "callId": "300000001222971-300000001712562",
+    "agent": "gabriela",
+    "phoneNumber": "4433224608",
+    "callTimestamp": "2026-01-29T13:10:29.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra, how can I assist you?\n\nSpeaker 2: Yeah, I was calling for a score booth, a refill.\n\nSpeaker 1: Okay, what is your name and date of birth?\n\nSpeaker 2: James Taylor, K-E-H-L-E-R, 10-5-49.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Okay, and how many pills would you like to order?\n\nSpeaker 1: How much are they?\n\nSpeaker 2: So you can either get 10 for $49, 25 for $99, or 40 for $149.\n\nSpeaker 1: How much is that, 10 for $49?\n\nSpeaker 2: 10 for $49, yes.\n\nSpeaker 1: And what's the next one?\n\nSpeaker 2: The next one will be 25 pills for $99, or the 40 pills for $149.\n\nSpeaker 1: Let's see, what is it, 20?\n\nSpeaker 2: 25 for $99?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: 50 milligrams, right?\n\nSpeaker 2: What's that?\n\nSpeaker 1: 50 milligrams?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And, James, is your shipping address still the same, 2326 Ned Clark Road,\n\nSpeaker 1: Bean Station, Tennessee, 37708?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Great.\n\nSpeaker 2: And can I charge the MasterCard ending in 6465?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, great, James, you're all set.\n\nSpeaker 1: I was able to successfully place that order for you,\n\nSpeaker 2: so you should be receiving it within the next three to five business days.\n\nSpeaker 1: Okay?\n\nSpeaker 2: Okay, thank you very much.\n\nSpeaker 1: You're welcome.\n\nSpeaker 2: Have a good day.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Thank you.",
+    "duration": 3981,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 11,
+        "text": " Hi, thank you for calling Viagra, how can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 11,
+        "end": 16,
+        "text": " Yeah, I was calling for a score booth, a refill."
+      },
+      {
+        "id": 2,
+        "start": 16,
+        "end": 19,
+        "text": " Okay, what is your name and date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 19,
+        "end": 26,
+        "text": " James Taylor, K-E-H-L-E-R, 10-5-49."
+      },
+      {
+        "id": 4,
+        "start": 26,
+        "end": 28,
+        "text": " Thank you."
+      },
+      {
+        "id": 5,
+        "start": 28,
+        "end": 31,
+        "text": " Okay, and how many pills would you like to order?"
+      },
+      {
+        "id": 6,
+        "start": 31,
+        "end": 33,
+        "text": " How much are they?"
+      },
+      {
+        "id": 7,
+        "start": 33,
+        "end": 40,
+        "text": " So you can either get 10 for $49, 25 for $99, or 40 for $149."
+      },
+      {
+        "id": 8,
+        "start": 40,
+        "end": 43,
+        "text": " How much is that, 10 for $49?"
+      },
+      {
+        "id": 9,
+        "start": 43,
+        "end": 46,
+        "text": " 10 for $49, yes."
+      },
+      {
+        "id": 10,
+        "start": 46,
+        "end": 48,
+        "text": " And what's the next one?"
+      },
+      {
+        "id": 11,
+        "start": 48,
+        "end": 55,
+        "text": " The next one will be 25 pills for $99, or the 40 pills for $149."
+      },
+      {
+        "id": 12,
+        "start": 55,
+        "end": 58,
+        "text": " Let's see, what is it, 20?"
+      },
+      {
+        "id": 13,
+        "start": 58,
+        "end": 60,
+        "text": " 25 for $99?"
+      },
+      {
+        "id": 14,
+        "start": 60,
+        "end": 61,
+        "text": " Yes."
+      },
+      {
+        "id": 15,
+        "start": 61,
+        "end": 63,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 63,
+        "end": 66,
+        "text": " 50 milligrams, right?"
+      },
+      {
+        "id": 17,
+        "start": 66,
+        "end": 67,
+        "text": " What's that?"
+      },
+      {
+        "id": 18,
+        "start": 67,
+        "end": 69,
+        "text": " 50 milligrams?"
+      },
+      {
+        "id": 19,
+        "start": 69,
+        "end": 71,
+        "text": " Yeah."
+      },
+      {
+        "id": 20,
+        "start": 71,
+        "end": 72,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 72,
+        "end": 78,
+        "text": " And, James, is your shipping address still the same, 2326 Ned Clark Road,"
+      },
+      {
+        "id": 22,
+        "start": 78,
+        "end": 81,
+        "text": " Bean Station, Tennessee, 37708?"
+      },
+      {
+        "id": 23,
+        "start": 81,
+        "end": 82,
+        "text": " Correct."
+      },
+      {
+        "id": 24,
+        "start": 82,
+        "end": 83,
+        "text": " Great."
+      },
+      {
+        "id": 25,
+        "start": 83,
+        "end": 86,
+        "text": " And can I charge the MasterCard ending in 6465?"
+      },
+      {
+        "id": 26,
+        "start": 86,
+        "end": 88,
+        "text": " Yes."
+      },
+      {
+        "id": 27,
+        "start": 94,
+        "end": 96,
+        "text": " Okay, great, James, you're all set."
+      },
+      {
+        "id": 28,
+        "start": 96,
+        "end": 98,
+        "text": " I was able to successfully place in that order for you,"
+      },
+      {
+        "id": 29,
+        "start": 98,
+        "end": 101,
+        "text": " so you should be receiving it within the next three to five business days."
+      },
+      {
+        "id": 30,
+        "start": 101,
+        "end": 102,
+        "text": " Okay?"
+      },
+      {
+        "id": 31,
+        "start": 102,
+        "end": 104,
+        "text": " Okay, thank you very much."
+      },
+      {
+        "id": 32,
+        "start": 104,
+        "end": 105,
+        "text": " You're welcome."
+      },
+      {
+        "id": 33,
+        "start": 105,
+        "end": 106,
+        "text": " Have a good day."
+      },
+      {
+        "id": 34,
+        "start": 106,
+        "end": 107,
+        "text": " Bye."
+      },
+      {
+        "id": 35,
+        "start": 107,
+        "end": 108,
+        "text": " Bye."
+      },
+      {
+        "id": 36,
+        "start": 108,
+        "end": 109,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-819a-8f79-f05efe6a8177",
+    "url": "https://www.notion.so/300000001222971-300000001712562-2f711d0a101c819a8f79f05efe6a8177"
+  },
+  "processedAt": "2026-01-29T21:15:39.613Z"
+}

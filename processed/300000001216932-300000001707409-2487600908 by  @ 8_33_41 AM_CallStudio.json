@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001216932-300000001707409-2487600908 by  @ 8_33_41 AM_CallStudio.wav",
+    "size": 25346,
+    "modifyTime": 1769583133000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216932-300000001707409-2487600908 by  @ 8_33_41 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T06:52:13.000Z",
+    "callId": "300000001216932-300000001707409",
+    "phoneNumber": "2487600908",
+    "callTimestamp": "2026-01-28T06:52:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para español, marque número nueve.\n\nSpeaker 2: I'm following up on my order for...\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Transferring to agent.",
+    "duration": 1641,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.159999847412109,
+        "end": 6.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.159999847412109,
+        "end": 9.960000038146973,
+        "text": " Para espanol, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.960000038146973,
+        "end": 13.920000076293945,
+        "text": " I'm following up on my order for ..."
+      },
+      {
+        "id": 4,
+        "start": 13.920000076293945,
+        "end": 14.920000076293945,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 14.920000076293945,
+        "end": 15.15999984741211,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e2-a739-e2af87ec0bab",
+    "url": "https://www.notion.so/300000001216932-300000001707409-2f611d0a101c81e2a739e2af87ec0bab"
+  },
+  "processedAt": "2026-01-28T16:35:11.808Z"
+}

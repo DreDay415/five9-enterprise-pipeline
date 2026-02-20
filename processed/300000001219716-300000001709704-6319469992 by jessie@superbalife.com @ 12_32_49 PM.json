@@ -1,0 +1,644 @@
+{
+  "recording": {
+    "name": "300000001219716-300000001709704-6319469992 by jessie@superbalife.com @ 12_32_49 PM.wav",
+    "size": 219176,
+    "modifyTime": 1769590641000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219716-300000001709704-6319469992 by jessie@superbalife.com @ 12_32_49 PM.wav",
+    "uploadDate": "2026-01-28T08:57:21.000Z",
+    "callId": "300000001219716-300000001709704",
+    "agent": "jessie",
+    "phoneNumber": "6319469992",
+    "callTimestamp": "2026-01-28T12:32:49.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you so much for calling Viagra.\n\nSpeaker 2: My name is Jessie.\n\nSpeaker 1: Can I get your first and last name?\n\nSpeaker 2: Sure.\n\nSpeaker 1: It's Joseph Belletta.\n\nSpeaker 2: Perfect.\n\nSpeaker 1: Mr. Belletta, can I get your zip code?\n\nSpeaker 2: 11784.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Perfect.\n\nSpeaker 2: I have you at 11 Oak Court in Selden, New York, 11784.\n\nSpeaker 1: Let's go.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: One moment, please.\n\nSpeaker 2: Okay.\n\nSpeaker 1: So you had a question about pricing?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: I thought when I saw this thing online and signed up for it, it was a very, very cheap\n\nSpeaker 2: price.\n\nSpeaker 1: Right.\n\nSpeaker 2: And now I see that it's subtracted $63 from my bank account.\n\nSpeaker 1: Oh, gosh.\n\nSpeaker 2: Okay.\n\nSpeaker 1: So it should have listed this on there.\n\nSpeaker 2: The package price is $49.\n\nSpeaker 1: After the...\n\nSpeaker 2: Hold on one second.\n\nSpeaker 1: Let's see what happened here.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: After taxes and fees, the only other fee that gets passed on to you is the pharmacy's processing\n\nSpeaker 2: fee.\n\nSpeaker 1: And that's it.\n\nSpeaker 2: So...\n\nSpeaker 1: And how much is that?\n\nSpeaker 2: Oh, that one's $14.95.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: They should...\n\nSpeaker 1: Okay.\n\nSpeaker 2: Well, I guess it is not listed.\n\nSpeaker 1: And the other thing is, I don't want repairs unless I have a prescription.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I'm fine.\n\nSpeaker 2: All right.\n\nSpeaker 1: Good luck.\n\nSpeaker 2: You're all set.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye.\n\nSpeaker 2: All right.",
+    "duration": 14975,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.079999923706055,
+        "text": " Thank you so much for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 4.079999923706055,
+        "end": 5.079999923706055,
+        "text": " My name is Jessie."
+      },
+      {
+        "id": 2,
+        "start": 5.079999923706055,
+        "end": 7.079999923706055,
+        "text": " Can I get your first and last name?"
+      },
+      {
+        "id": 3,
+        "start": 7.079999923706055,
+        "end": 8.079999923706055,
+        "text": " Sure."
+      },
+      {
+        "id": 4,
+        "start": 8.079999923706055,
+        "end": 9.079999923706055,
+        "text": " It's Joseph Belletta."
+      },
+      {
+        "id": 5,
+        "start": 9.079999923706055,
+        "end": 10.079999923706055,
+        "text": " Perfect."
+      },
+      {
+        "id": 6,
+        "start": 10.079999923706055,
+        "end": 14.079999923706055,
+        "text": " Mr. Belletta, can I get your zip code?"
+      },
+      {
+        "id": 7,
+        "start": 14.079999923706055,
+        "end": 15.079999923706055,
+        "text": " 11784."
+      },
+      {
+        "id": 8,
+        "start": 15.079999923706055,
+        "end": 16.079999923706055,
+        "text": " Okay."
+      },
+      {
+        "id": 9,
+        "start": 16.079999923706055,
+        "end": 17.079999923706055,
+        "text": " Thank you."
+      },
+      {
+        "id": 10,
+        "start": 17.079999923706055,
+        "end": 18.079999923706055,
+        "text": " Perfect."
+      },
+      {
+        "id": 11,
+        "start": 18.079999923706055,
+        "end": 27.079999923706055,
+        "text": " I have you at 11 Oak Court in Selden, New York, 11784."
+      },
+      {
+        "id": 12,
+        "start": 27.15999984741211,
+        "end": 34.15999984741211,
+        "text": " Let's go."
+      },
+      {
+        "id": 13,
+        "start": 34.15999984741211,
+        "end": 35.15999984741211,
+        "text": " Yeah."
+      },
+      {
+        "id": 14,
+        "start": 35.15999984741211,
+        "end": 36.15999984741211,
+        "text": " One moment, please."
+      },
+      {
+        "id": 15,
+        "start": 36.15999984741211,
+        "end": 37.15999984741211,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 37.15999984741211,
+        "end": 40.15999984741211,
+        "text": " So you had a question about pricing?"
+      },
+      {
+        "id": 17,
+        "start": 40.15999984741211,
+        "end": 41.15999984741211,
+        "text": " Yeah."
+      },
+      {
+        "id": 18,
+        "start": 41.15999984741211,
+        "end": 47.880001068115234,
+        "text": " I thought when I saw this thing online and signed up for it, it was a very, very cheap"
+      },
+      {
+        "id": 19,
+        "start": 47.880001068115234,
+        "end": 48.880001068115234,
+        "text": " price."
+      },
+      {
+        "id": 20,
+        "start": 48.880001068115234,
+        "end": 49.880001068115234,
+        "text": " Right."
+      },
+      {
+        "id": 21,
+        "start": 49.880001068115234,
+        "end": 54.15999984741211,
+        "text": " And now I see that it's subtracted $63 from my bank account."
+      },
+      {
+        "id": 22,
+        "start": 55.15999984741211,
+        "end": 56.15999984741211,
+        "text": " Oh, gosh."
+      },
+      {
+        "id": 23,
+        "start": 56.15999984741211,
+        "end": 57.15999984741211,
+        "text": " Okay."
+      },
+      {
+        "id": 24,
+        "start": 57.15999984741211,
+        "end": 58.15999984741211,
+        "text": " So it should have listed this on there."
+      },
+      {
+        "id": 25,
+        "start": 58.15999984741211,
+        "end": 59.15999984741211,
+        "text": " The package price is $49."
+      },
+      {
+        "id": 26,
+        "start": 59.15999984741211,
+        "end": 60.15999984741211,
+        "text": " After the..."
+      },
+      {
+        "id": 27,
+        "start": 60.15999984741211,
+        "end": 61.15999984741211,
+        "text": " Hold on one second."
+      },
+      {
+        "id": 28,
+        "start": 61.15999984741211,
+        "end": 62.15999984741211,
+        "text": " Let's see what happened here."
+      },
+      {
+        "id": 29,
+        "start": 62.15999984741211,
+        "end": 63.15999984741211,
+        "text": " Yeah."
+      },
+      {
+        "id": 30,
+        "start": 63.15999984741211,
+        "end": 64.16000366210938,
+        "text": " After taxes and fees, the only other fee that gets passed on to you is the pharmacy's processing"
+      },
+      {
+        "id": 31,
+        "start": 64.16000366210938,
+        "end": 65.16000366210938,
+        "text": " fee."
+      },
+      {
+        "id": 32,
+        "start": 65.16000366210938,
+        "end": 66.16000366210938,
+        "text": " And that's it."
+      },
+      {
+        "id": 33,
+        "start": 66.16000366210938,
+        "end": 67.16000366210938,
+        "text": " So..."
+      },
+      {
+        "id": 34,
+        "start": 67.16000366210938,
+        "end": 68.16000366210938,
+        "text": " And how much is that?"
+      },
+      {
+        "id": 35,
+        "start": 68.16000366210938,
+        "end": 69.16000366210938,
+        "text": " Oh, that one's $14.95."
+      },
+      {
+        "id": 36,
+        "start": 69.16000366210938,
+        "end": 70.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 37,
+        "start": 70.16000366210938,
+        "end": 71.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 38,
+        "start": 71.16000366210938,
+        "end": 72.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 39,
+        "start": 72.16000366210938,
+        "end": 73.16000366210938,
+        "text": " They should..."
+      },
+      {
+        "id": 40,
+        "start": 73.16000366210938,
+        "end": 74.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 41,
+        "start": 74.16000366210938,
+        "end": 75.16000366210938,
+        "text": " Well, I guess it is not listed."
+      },
+      {
+        "id": 42,
+        "start": 75.16000366210938,
+        "end": 76.16000366210938,
+        "text": " And the other thing is, I don't want repairs unless I have a prescription."
+      },
+      {
+        "id": 43,
+        "start": 76.16000366210938,
+        "end": 77.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 44,
+        "start": 77.16000366210938,
+        "end": 78.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 45,
+        "start": 78.16000366210938,
+        "end": 79.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 46,
+        "start": 79.16000366210938,
+        "end": 80.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 47,
+        "start": 80.16000366210938,
+        "end": 81.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 48,
+        "start": 81.16000366210938,
+        "end": 82.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 49,
+        "start": 82.16000366210938,
+        "end": 83.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 50,
+        "start": 83.16000366210938,
+        "end": 84.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 51,
+        "start": 84.16000366210938,
+        "end": 85.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 52,
+        "start": 85.16000366210938,
+        "end": 86.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 53,
+        "start": 86.16000366210938,
+        "end": 87.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 54,
+        "start": 87.16000366210938,
+        "end": 88.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 55,
+        "start": 88.16000366210938,
+        "end": 89.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 56,
+        "start": 89.16000366210938,
+        "end": 90.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 57,
+        "start": 90.16000366210938,
+        "end": 91.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 58,
+        "start": 91.16000366210938,
+        "end": 92.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 59,
+        "start": 92.16000366210938,
+        "end": 93.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 60,
+        "start": 93.16000366210938,
+        "end": 94.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 61,
+        "start": 94.16000366210938,
+        "end": 95.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 62,
+        "start": 95.16000366210938,
+        "end": 96.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 63,
+        "start": 96.16000366210938,
+        "end": 97.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 64,
+        "start": 97.16000366210938,
+        "end": 98.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 65,
+        "start": 98.16000366210938,
+        "end": 99.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 66,
+        "start": 99.16000366210938,
+        "end": 100.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 67,
+        "start": 100.16000366210938,
+        "end": 101.16000366210938,
+        "text": " So..."
+      },
+      {
+        "id": 68,
+        "start": 101.16000366210938,
+        "end": 102.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 69,
+        "start": 102.16000366210938,
+        "end": 103.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 70,
+        "start": 103.16000366210938,
+        "end": 104.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 71,
+        "start": 104.16000366210938,
+        "end": 105.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 72,
+        "start": 105.16000366210938,
+        "end": 106.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 73,
+        "start": 106.16000366210938,
+        "end": 107.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 74,
+        "start": 107.16000366210938,
+        "end": 108.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 75,
+        "start": 108.16000366210938,
+        "end": 109.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 76,
+        "start": 109.16000366210938,
+        "end": 110.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 77,
+        "start": 110.16000366210938,
+        "end": 111.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 78,
+        "start": 111.16000366210938,
+        "end": 112.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 79,
+        "start": 112.16000366210938,
+        "end": 113.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 80,
+        "start": 113.16000366210938,
+        "end": 114.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 81,
+        "start": 114.16000366210938,
+        "end": 115.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 82,
+        "start": 115.16000366210938,
+        "end": 116.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 83,
+        "start": 116.16000366210938,
+        "end": 117.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 84,
+        "start": 117.16000366210938,
+        "end": 118.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 85,
+        "start": 118.16000366210938,
+        "end": 119.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 86,
+        "start": 119.16000366210938,
+        "end": 120.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 87,
+        "start": 120.16000366210938,
+        "end": 121.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 88,
+        "start": 121.16000366210938,
+        "end": 122.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 89,
+        "start": 122.16000366210938,
+        "end": 123.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 90,
+        "start": 123.16000366210938,
+        "end": 124.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 91,
+        "start": 124.16000366210938,
+        "end": 125.16000366210938,
+        "text": " Okay."
+      },
+      {
+        "id": 92,
+        "start": 125.16000366210938,
+        "end": 129.16000366210938,
+        "text": " sondern"
+      },
+      {
+        "id": 93,
+        "start": 129.16000366210938,
+        "end": 130.16000366210938,
+        "text": " Yes."
+      },
+      {
+        "id": 94,
+        "start": 130.16000366210938,
+        "end": 131.16000366210938,
+        "text": " I'm fine."
+      },
+      {
+        "id": 95,
+        "start": 131.16000366210938,
+        "end": 132.16000366210938,
+        "text": " All right."
+      },
+      {
+        "id": 96,
+        "start": 132.16000366210938,
+        "end": 133.16000366210938,
+        "text": " Good luck."
+      },
+      {
+        "id": 97,
+        "start": 133.16000366210938,
+        "end": 134.16000366210938,
+        "text": " You're all set."
+      },
+      {
+        "id": 98,
+        "start": 134.16000366210938,
+        "end": 135.16000366210938,
+        "text": " Thank you."
+      },
+      {
+        "id": 99,
+        "start": 135.16000366210938,
+        "end": 136.16000366210938,
+        "text": " Bye."
+      },
+      {
+        "id": 100,
+        "start": 136.16000366210938,
+        "end": 137.16000366210938,
+        "text": " Bye."
+      },
+      {
+        "id": 101,
+        "start": 137.16000366210938,
+        "end": 138.16000366210938,
+        "text": " All right."
+      },
+      {
+        "id": 102,
+        "start": 138.16000366210938,
+        "end": 138.16000366210938,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8114-ae7c-f6ac8468a91a",
+    "url": "https://www.notion.so/300000001219716-300000001709704-2f611d0a101c8114ae7cf6ac8468a91a"
+  },
+  "processedAt": "2026-01-28T11:58:38.392Z"
+}

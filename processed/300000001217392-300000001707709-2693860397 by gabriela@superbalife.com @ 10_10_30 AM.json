@@ -1,0 +1,182 @@
+{
+  "recording": {
+    "name": "300000001217392-300000001707709-2693860397 by gabriela@superbalife.com @ 10_10_30 AM.wav",
+    "size": 201560,
+    "modifyTime": 1769592147000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217392-300000001707709-2693860397 by gabriela@superbalife.com @ 10_10_30 AM.wav",
+    "uploadDate": "2026-01-28T09:22:27.000Z",
+    "callId": "300000001217392-300000001707709",
+    "agent": "gabriela",
+    "phoneNumber": "2693860397",
+    "callTimestamp": "2026-01-28T10:10:30.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hola, gracias Fernanda Villagra, ¿cómo lo puedo ayudar?\n\nSpeaker 2: Hola, mi nombre es Benjamín García García.\n\nSpeaker 1: Tengo una orden allí.\n\nSpeaker 2: Pero la razón de mi llamada es que...\n\nSpeaker 1: una vez esa orden, entonces ahora me están mandando las pastillas cada mes.\n\nSpeaker 2: Entonces quiero cancelarla, que no me la manden cada mes.\n\nSpeaker 1: Ok, ¿cuál es su nombre y fecha de nacimiento?\n\nSpeaker 2: Mi nombre es Benjamín García García.\n\nSpeaker 1: Mi fecha de nacimiento es mes 1, 18 del 74.\n\nSpeaker 2: Gracias.\n\nSpeaker 1: Ok, señor Benjamín, sí. Lo que está pasando es que usted tiene prescripción activa con nosotros para la viagra AGB.\n\nSpeaker 2: Entonces esa prescripción sí viene con rellenos.\n\nSpeaker 1: Entonces usted recibe una cantidad de 10 pastillas cada mes.\n\nSpeaker 2: Es como tiene ahorita su prescripción activada.\n\nSpeaker 1: Sí. Entonces si usted no es activo tan frecuente, totalmente entendemos eso y podemos cambiar su frecuencia.\n\nSpeaker 2: Si no le ocupa el medicamento cada mes, se lo podemos cambiar a una frecuencia de cada 2 meses o cada 3 meses.\n\nSpeaker 1: Usualmente clientes que no son tan activos les gusta cambiar la prescripción a cada 3 meses o cada 4 meses.\n\nSpeaker 2: Ajá.\n\nSpeaker 1: Entonces se lo puedo cambiar ahorita. ¿Gustaría que se lo ajuste a cada 3 meses o cada 4 meses?\n\nSpeaker 2: A lo mejor póngalo cada, déjame ver, póngalo cada 4 meses.\n\nSpeaker 1: ¿Cada 4 meses? Ok, perfecto. Entonces ya se lo cambié a cada 4 meses.\n\nSpeaker 2: Entonces después que usted reciba esta orden, no va a recibir otra hasta en 4 meses, que sería en mayo. Ok.\n\nSpeaker 1: Ok, está bien.\n\nSpeaker 2: Bueno, señor Benjamín, que tenga un buen resto de su día. Adiós.\n\nSpeaker 1: Igualmente, adiós.\n\nSpeaker 2: Gracias, adiós.",
+    "duration": 4393,
+    "language": "spanish",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.5,
+        "text": " Hola, gracias Fernanda Villagra, ¿cómo lo puedo ayudar?"
+      },
+      {
+        "id": 1,
+        "start": 4.5,
+        "end": 7,
+        "text": " Hola, mi nombre es Benjamín García García."
+      },
+      {
+        "id": 2,
+        "start": 9.5,
+        "end": 11.5,
+        "text": " Tengo una orden allí."
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 18,
+        "text": " Pero la razón de mi llamada es que..."
+      },
+      {
+        "id": 4,
+        "start": 19.5,
+        "end": 24,
+        "text": " una vez esa orden, entonces ahora me están mandando las pastillas cada mes."
+      },
+      {
+        "id": 5,
+        "start": 24.5,
+        "end": 29.5,
+        "text": " Entonces quiero cancelarla, que no me la manden cada mes."
+      },
+      {
+        "id": 6,
+        "start": 30,
+        "end": 32.5,
+        "text": " Ok, ¿cuál es su nombre y fecha de nacimiento?"
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 36.5,
+        "text": " Mi nombre es Benjamín García García."
+      },
+      {
+        "id": 8,
+        "start": 37.5,
+        "end": 42.5,
+        "text": " Mi fecha de nacimiento es mes 1, 18 del 74."
+      },
+      {
+        "id": 9,
+        "start": 43.5,
+        "end": 46,
+        "text": " Gracias. Ok, señor Benjamín, sí."
+      },
+      {
+        "id": 10,
+        "start": 46.5,
+        "end": 51.5,
+        "text": " Lo que está pasando es que usted tiene prescripción activa con nosotros para la viagra AGB."
+      },
+      {
+        "id": 11,
+        "start": 52,
+        "end": 55,
+        "text": " Entonces esa prescripción sí viene con rellenos."
+      },
+      {
+        "id": 12,
+        "start": 55.5,
+        "end": 59.5,
+        "text": " Entonces usted recibe una cantidad de 10 pastillas cada mes."
+      },
+      {
+        "id": 13,
+        "start": 60,
+        "end": 62.5,
+        "text": " Es como tiene ahorita su prescripción activada."
+      },
+      {
+        "id": 14,
+        "start": 65.5,
+        "end": 72.5,
+        "text": " Sí. Entonces si usted no es activo tan frecuente, totalmente entendemos eso y podemos cambiar su frecuencia."
+      },
+      {
+        "id": 15,
+        "start": 73,
+        "end": 79.5,
+        "text": " Si no le ocupa el medicamento cada mes, se lo podemos cambiar a una frecuencia de cada 2 meses o cada 3 meses."
+      },
+      {
+        "id": 16,
+        "start": 80,
+        "end": 86.5,
+        "text": " Usualmente clientes que no son tan activos les gusta cambiar la prescripción a cada 3 meses o cada 4 meses."
+      },
+      {
+        "id": 17,
+        "start": 87,
+        "end": 88,
+        "text": " Ajá."
+      },
+      {
+        "id": 18,
+        "start": 89,
+        "end": 94,
+        "text": " Entonces se lo puedo cambiar ahorita. ¿Gustaría que se lo ajuste a cada 3 meses o cada 4 meses?"
+      },
+      {
+        "id": 19,
+        "start": 96,
+        "end": 101,
+        "text": " A lo mejor póngalo cada, déjame ver, póngalo cada 4 meses."
+      },
+      {
+        "id": 20,
+        "start": 101.5,
+        "end": 106,
+        "text": " ¿Cada 4 meses? Ok, perfecto. Entonces ya se lo cambié a cada 4 meses."
+      },
+      {
+        "id": 21,
+        "start": 106.5,
+        "end": 112,
+        "text": " Entonces después que usted reciba esta orden, no va a recibir otra hasta en 4 meses, que sería en mayo. Ok."
+      },
+      {
+        "id": 22,
+        "start": 113,
+        "end": 114,
+        "text": " Ok, está bien."
+      },
+      {
+        "id": 23,
+        "start": 114.5,
+        "end": 117.5,
+        "text": " Bueno, señor Benjamin, que tenga un buen resto de su día. Adiós."
+      },
+      {
+        "id": 24,
+        "start": 118.5,
+        "end": 119.5,
+        "text": " Igualmente, adiós."
+      },
+      {
+        "id": 25,
+        "start": 120,
+        "end": 121.5,
+        "text": " Gracias, adiós."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8141-ad65-f1bb07acce4e",
+    "url": "https://www.notion.so/300000001217392-300000001707709-2f611d0a101c8141ad65f1bb07acce4e"
+  },
+  "processedAt": "2026-01-28T10:49:26.796Z"
+}

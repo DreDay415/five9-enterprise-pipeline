@@ -1,0 +1,434 @@
+{
+  "recording": {
+    "name": "300000001217541-300000001707822-2487600908 by john@superbalife.com @ 10_42_07 AM.wav",
+    "size": 342350,
+    "modifyTime": 1769591840000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217541-300000001707822-2487600908 by john@superbalife.com @ 10_42_07 AM.wav",
+    "uploadDate": "2026-01-28T09:17:20.000Z",
+    "callId": "300000001217541-300000001707822",
+    "agent": "john",
+    "phoneNumber": "2487600908",
+    "callTimestamp": "2026-01-28T10:42:07.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling, this is John, how can I help you?\n\nSpeaker 2: Hi, my name is Martin Henchman and I ordered score blue.\n\nSpeaker 1: And I got to want to know when it's coming, one.\n\nSpeaker 2: And two, I think I ordered more and I can't see a receipt for that.\n\nSpeaker 1: And three, I think I made the wrong email address out.\n\nSpeaker 2: I can help you with all that. I just need your zip code, sir.\n\nSpeaker 1: 48038.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay, I got you pulled up here.\n\nSpeaker 2: So regarding the shipping, you will be approved probably today\n\nSpeaker 1: and then we'll ship it out within a day or two.\n\nSpeaker 2: We usually get it about a week after you ordered it.\n\nSpeaker 1: So you ordered it, it looks like, yesterday.\n\nSpeaker 2: So you probably will get it approximately next Monday.\n\nSpeaker 1: Our pharmacy is also in this storm zone, though, sort of like you.\n\nSpeaker 2: So it may be delayed with that.\n\nSpeaker 1: But typically, five to seven days after you order it, you receive it.\n\nSpeaker 2: Regarding your email, what should it be, sir?\n\nSpeaker 1: Yeah, my email.\n\nSpeaker 2: It's marty.henchman at gmail.com.\n\nSpeaker 1: And I left the dot out.\n\nSpeaker 2: Oh, so you didn't leave the dot out, sir.\n\nSpeaker 1: The way Google reads those emails, they actually read them the same,\n\nSpeaker 2: whether or not it has a period in there.\n\nSpeaker 1: So to not confuse our system, we automatically remove them.\n\nSpeaker 2: It still functions the same.\n\nSpeaker 1: You'll get emails all the same like you would, but it just doesn't display the period.\n\nSpeaker 2: Well, I checked it myself and it didn't work.\n\nSpeaker 1: I sent an email to myself.\n\nSpeaker 2: And I'm using Gmail, which is Google, you know.\n\nSpeaker 1: I understand.\n\nSpeaker 2: I'll send you an email explaining it because it does work.\n\nSpeaker 1: And then the last question was about the amount you ordered.\n\nSpeaker 2: You did order ten pills and then you added ten more.\n\nSpeaker 1: So you're getting 20 total pills.\n\nSpeaker 2: And then the total on that was $93.35.\n\nSpeaker 1: Have you taken the money yet?\n\nSpeaker 2: Yes, you were charged when you paid for them.\n\nSpeaker 1: I see.\n\nSpeaker 2: That's good.\n\nSpeaker 1: Sometimes I'm on limited funds.\n\nSpeaker 2: It depends when my checks come in.\n\nSpeaker 1: Isn't that where you get it paid for?\n\nSpeaker 2: Oh, I got you.\n\nSpeaker 1: Yeah, and if for some reason you were not approved, I don't expect that,\n\nSpeaker 2: because most people are not approved.\n\nSpeaker 1: That's very rare.\n\nSpeaker 2: But if it happens, you get your money back.\n\nSpeaker 1: So either way, you'll either get the pills or you'll get your money.\n\nSpeaker 2: But I got you.\n\nSpeaker 1: I'm looking at everything here.\n\nSpeaker 2: Are you telling me the doctor still hasn't approved me?\n\nSpeaker 1: When you put in that request to change your e-mail,\n\nSpeaker 2: that's a line to the doctor, not to customer service.\n\nSpeaker 1: So that then slows up the process, sir.\n\nSpeaker 2: Also, you did that on Sunday, so the doctor isn't even working Sunday.\n\nSpeaker 1: But, yes, he's going to approve you today.\n\nSpeaker 2: And it takes another week, huh?\n\nSpeaker 1: Where do you ship from?\n\nSpeaker 2: It ships out of Kentucky,\n\nSpeaker 1: and then it takes how long the U.S. Postal Service takes.\n\nSpeaker 2: And like I said, as you know, there's a ton of snow right now,\n\nSpeaker 1: so things are slowing down with that, too.\n\nSpeaker 2: Yeah, we got five inches overnight.\n\nSpeaker 1: Yeah, a lot of parts of the country got more than that, too,\n\nSpeaker 2: including where our pharmacy's at.\n\nSpeaker 1: So they will get this out this week, though.\n\nSpeaker 2: Thank you.",
+    "duration": 10442,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling, this is John, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 8,
+        "text": " Hi, my name is Martin Henchman and I ordered score blue."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " And I got to want to know when it's coming, one."
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 16,
+        "text": " And two, I think I ordered more and I can't see a receipt for that."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 21,
+        "text": " And three, I think I made the wrong email address out."
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 25,
+        "text": " I can help you with all that. I just need your zip code, sir."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 28,
+        "text": " 48038."
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 44,
+        "text": " Thank you."
+      },
+      {
+        "id": 8,
+        "start": 44,
+        "end": 49,
+        "text": " Okay, I got you pulled up here."
+      },
+      {
+        "id": 9,
+        "start": 49,
+        "end": 55,
+        "text": " So regarding the shipping, you will be approved probably today"
+      },
+      {
+        "id": 10,
+        "start": 55,
+        "end": 57,
+        "text": " and then we'll ship it out within a day or two."
+      },
+      {
+        "id": 11,
+        "start": 57,
+        "end": 59,
+        "text": " We usually get it about a week after you ordered it."
+      },
+      {
+        "id": 12,
+        "start": 59,
+        "end": 61,
+        "text": " So you ordered it, it looks like, yesterday."
+      },
+      {
+        "id": 13,
+        "start": 61,
+        "end": 64,
+        "text": " So you probably will get it approximately next Monday."
+      },
+      {
+        "id": 14,
+        "start": 64,
+        "end": 67,
+        "text": " Our pharmacy is also in this storm zone, though, sort of like you."
+      },
+      {
+        "id": 15,
+        "start": 67,
+        "end": 69,
+        "text": " So it may be delayed with that."
+      },
+      {
+        "id": 16,
+        "start": 69,
+        "end": 73,
+        "text": " But typically, five to seven days after you order it, you receive it."
+      },
+      {
+        "id": 17,
+        "start": 73,
+        "end": 77,
+        "text": " Regarding your email, what should it be, sir?"
+      },
+      {
+        "id": 18,
+        "start": 77,
+        "end": 80,
+        "text": " Yeah, my email."
+      },
+      {
+        "id": 19,
+        "start": 80,
+        "end": 84,
+        "text": " It's marty.henchman at gmail.com."
+      },
+      {
+        "id": 20,
+        "start": 85,
+        "end": 87,
+        "text": " And I left the dot out."
+      },
+      {
+        "id": 21,
+        "start": 87,
+        "end": 90,
+        "text": " Oh, so you didn't leave the dot out, sir."
+      },
+      {
+        "id": 22,
+        "start": 90,
+        "end": 93,
+        "text": " The way Google reads those emails, they actually read them the same,"
+      },
+      {
+        "id": 23,
+        "start": 93,
+        "end": 95,
+        "text": " whether or not it has a period in there."
+      },
+      {
+        "id": 24,
+        "start": 95,
+        "end": 98,
+        "text": " So to not confuse our system, we automatically remove them."
+      },
+      {
+        "id": 25,
+        "start": 98,
+        "end": 100,
+        "text": " It still functions the same."
+      },
+      {
+        "id": 26,
+        "start": 100,
+        "end": 104,
+        "text": " You'll get emails all the same like you would, but it just doesn't display the period."
+      },
+      {
+        "id": 27,
+        "start": 104,
+        "end": 107,
+        "text": " Well, I checked it myself and it didn't work."
+      },
+      {
+        "id": 28,
+        "start": 107,
+        "end": 110,
+        "text": " I sent an email to myself."
+      },
+      {
+        "id": 29,
+        "start": 111,
+        "end": 114,
+        "text": " And I'm using Gmail, which is Google, you know."
+      },
+      {
+        "id": 30,
+        "start": 114,
+        "end": 115,
+        "text": " I understand."
+      },
+      {
+        "id": 31,
+        "start": 115,
+        "end": 117,
+        "text": " I'll send you an email explaining it because it does work."
+      },
+      {
+        "id": 32,
+        "start": 117,
+        "end": 121,
+        "text": " And then the last question was about the amount you ordered."
+      },
+      {
+        "id": 33,
+        "start": 121,
+        "end": 123,
+        "text": " You did order ten pills and then you added ten more."
+      },
+      {
+        "id": 34,
+        "start": 123,
+        "end": 125,
+        "text": " So you're getting 20 total pills."
+      },
+      {
+        "id": 35,
+        "start": 125,
+        "end": 134,
+        "text": " And then the total on that was $93.35."
+      },
+      {
+        "id": 36,
+        "start": 134,
+        "end": 136,
+        "text": " Have you taken the money yet?"
+      },
+      {
+        "id": 37,
+        "start": 136,
+        "end": 138,
+        "text": " Yes, you were charged when you paid for them."
+      },
+      {
+        "id": 38,
+        "start": 139,
+        "end": 140,
+        "text": " I see."
+      },
+      {
+        "id": 39,
+        "start": 140,
+        "end": 142,
+        "text": " That's good."
+      },
+      {
+        "id": 40,
+        "start": 142,
+        "end": 145,
+        "text": " Sometimes I'm on limited funds."
+      },
+      {
+        "id": 41,
+        "start": 145,
+        "end": 148,
+        "text": " It depends when my checks come in."
+      },
+      {
+        "id": 42,
+        "start": 148,
+        "end": 150,
+        "text": " Isn't that where you get it paid for?"
+      },
+      {
+        "id": 43,
+        "start": 150,
+        "end": 151,
+        "text": " Oh, I got you."
+      },
+      {
+        "id": 44,
+        "start": 151,
+        "end": 153,
+        "text": " Yeah, and if for some reason you were not approved, I don't expect that,"
+      },
+      {
+        "id": 45,
+        "start": 153,
+        "end": 154,
+        "text": " because most people are not approved."
+      },
+      {
+        "id": 46,
+        "start": 154,
+        "end": 155,
+        "text": " That's very rare."
+      },
+      {
+        "id": 47,
+        "start": 155,
+        "end": 157,
+        "text": " But if it happens, you get your money back."
+      },
+      {
+        "id": 48,
+        "start": 157,
+        "end": 159,
+        "text": " So either way, you'll either get the pills or you'll get your money."
+      },
+      {
+        "id": 49,
+        "start": 159,
+        "end": 161,
+        "text": " But I got you."
+      },
+      {
+        "id": 50,
+        "start": 161,
+        "end": 162,
+        "text": " I'm looking at everything here."
+      },
+      {
+        "id": 51,
+        "start": 162,
+        "end": 166,
+        "text": " Are you telling me the doctor still hasn't approved me?"
+      },
+      {
+        "id": 52,
+        "start": 167,
+        "end": 169,
+        "text": " When you put in that request to change your e-mail,"
+      },
+      {
+        "id": 53,
+        "start": 169,
+        "end": 172,
+        "text": " that's a line to the doctor, not to customer service."
+      },
+      {
+        "id": 54,
+        "start": 172,
+        "end": 174,
+        "text": " So that then slows up the process, sir."
+      },
+      {
+        "id": 55,
+        "start": 174,
+        "end": 177,
+        "text": " Also, you did that on Sunday, so the doctor isn't even working Sunday."
+      },
+      {
+        "id": 56,
+        "start": 177,
+        "end": 181,
+        "text": " But, yes, he's going to approve you today."
+      },
+      {
+        "id": 57,
+        "start": 181,
+        "end": 183,
+        "text": " And it takes another week, huh?"
+      },
+      {
+        "id": 58,
+        "start": 183,
+        "end": 185,
+        "text": " Where do you ship from?"
+      },
+      {
+        "id": 59,
+        "start": 185,
+        "end": 186,
+        "text": " It ships out of Kentucky,"
+      },
+      {
+        "id": 60,
+        "start": 186,
+        "end": 189,
+        "text": " and then it takes how long the U.S. Postal Service takes."
+      },
+      {
+        "id": 61,
+        "start": 189,
+        "end": 191,
+        "text": " And like I said, as you know, there's a ton of snow right now,"
+      },
+      {
+        "id": 62,
+        "start": 191,
+        "end": 195,
+        "text": " so things are slowing down with that, too."
+      },
+      {
+        "id": 63,
+        "start": 195,
+        "end": 198,
+        "text": " Yeah, we got five inches overnight."
+      },
+      {
+        "id": 64,
+        "start": 198,
+        "end": 202,
+        "text": " Yeah, a lot of parts of the country got more than that, too,"
+      },
+      {
+        "id": 65,
+        "start": 202,
+        "end": 204,
+        "text": " including where our pharmacy's at."
+      },
+      {
+        "id": 66,
+        "start": 204,
+        "end": 209,
+        "text": " So they will get this out this week, though."
+      },
+      {
+        "id": 67,
+        "start": 209,
+        "end": 210,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a7-b4e9-d34ecba161c0",
+    "url": "https://www.notion.so/300000001217541-300000001707822-2f611d0a101c81a7b4e9d34ecba161c0"
+  },
+  "processedAt": "2026-01-28T11:21:51.077Z"
+}

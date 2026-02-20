@@ -1,0 +1,392 @@
+{
+  "recording": {
+    "name": "300000001218198-300000001708250-8082806747 by michelleh@superbalife.com @ 1_42_52 PM.wav",
+    "size": 317520,
+    "modifyTime": 1769584051000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218198-300000001708250-8082806747 by michelleh@superbalife.com @ 1_42_52 PM.wav",
+    "uploadDate": "2026-01-28T07:07:31.000Z",
+    "callId": "300000001218198-300000001708250",
+    "agent": "michelleh",
+    "phoneNumber": "8082806747",
+    "callTimestamp": "2026-01-28T13:42:52.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Yes, I was calling to cancel the subscription that you guys have me on.\n\nSpeaker 1: Sure. Hold on one second. I'll pull up your profile.\n\nSpeaker 2: All right.\n\nSpeaker 1: Maceo? Is that how I say your name? Maceo. Maceo.\n\nSpeaker 2: Maceo. Can you just confirm your date of birth, please?\n\nSpeaker 1: 9-21-74.\n\nSpeaker 2: Thank you so much. And how's the medication working out for you?\n\nSpeaker 1: It did not.\n\nSpeaker 2: Yeah, I think I see the problem. Do you happen to have them on you by chance?\n\nSpeaker 1: On me? I mean, they're...\n\nSpeaker 2: I have the bottle.\n\nSpeaker 1: Yeah, I just want to... Can you take out one pill?\n\nSpeaker 2: I just need to know if it says AC imprinted on it.\n\nSpeaker 1: It says, yes, AC.\n\nSpeaker 2: Yeah, okay. So the pharmacy made an error and just sent you regular generics.\n\nSpeaker 1: That's why they're not working.\n\nSpeaker 2: Give me a second. I'm going to get you out a replacement\n\nSpeaker 1: and then I'm going to tell you how you can confirm you received the replacement.\n\nSpeaker 2: And I'm going to send you 100 milligrams instead.\n\nSpeaker 1: You could just break them in half if you need to.\n\nSpeaker 2: I'm going to send you 25.\n\nSpeaker 1: So 20.\n\nSpeaker 2: Okay, perfect. All right, that went through.\n\nSpeaker 1: Okay, so when you get this new bottle in the mail,\n\nSpeaker 2: it's going to say AGB on the bottle, but it's also going to say Greenstone.\n\nSpeaker 1: Greenstone is the name of Pfizer's manufacturer in France.\n\nSpeaker 2: And then on the pill, the only number imprinted is going to be the number 100 for the milligrams.\n\nSpeaker 1: And those are the two ways you can confirm you received the FDA-approved Pfizer-Viagra AGB.\n\nSpeaker 2: Because right now, yeah, your pill say AC and on the bottle it says APCO.\n\nSpeaker 1: So those are just regular generics.\n\nSpeaker 2: And then I'm going to go ahead and pause your refills for six months.\n\nSpeaker 1: I'm going to pause it till July 31st.\n\nSpeaker 2: That way the pharmacy will be able to send you out that replacement.\n\nSpeaker 1: And I'll give you my extension so you can call me back and let me know how the AGB works out for you.\n\nSpeaker 2: Give me one second.\n\nSpeaker 1: No problem.\n\nSpeaker 2: AGB 100.\n\nSpeaker 1: Okay, extension.\n\nSpeaker 2: Okay, 0020.\n\nSpeaker 1: And my name's Michelle.\n\nSpeaker 2: One L or two L's?\n\nSpeaker 1: Two.\n\nSpeaker 2: And then AGB 100 and you said Bluestone?\n\nSpeaker 1: Greenstone.\n\nSpeaker 2: So Bluestone on the bottle and the only thing imprinted on the pill is going to be the number 100.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Perfect.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right.\n\nSpeaker 1: And then July, sorry, June or July?\n\nSpeaker 2: July 31st.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thank you very much, Michelle.\n\nSpeaker 1: No problem.\n\nSpeaker 2: Have a great day.\n\nSpeaker 1: All right, you too.\n\nSpeaker 2: Thanks.\n\nSpeaker 1: Bye.",
+    "duration": 8520,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.5,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3.700000047683716,
+        "end": 7,
+        "text": " Yes, I was calling to cancel the subscription that you guys have me on."
+      },
+      {
+        "id": 2,
+        "start": 7.300000190734863,
+        "end": 10.399999618530273,
+        "text": " Sure. Hold on one second. I'll pull up your profile."
+      },
+      {
+        "id": 3,
+        "start": 13.699999809265137,
+        "end": 14.600000381469727,
+        "text": " All right."
+      },
+      {
+        "id": 4,
+        "start": 15.800000190734863,
+        "end": 18.600000381469727,
+        "text": " Maceo? Is that how I say your name? Maceo. Maceo."
+      },
+      {
+        "id": 5,
+        "start": 19.100000381469727,
+        "end": 21.700000762939453,
+        "text": " Maceo. Can you just confirm your date of birth, please?"
+      },
+      {
+        "id": 6,
+        "start": 22.100000381469727,
+        "end": 23.600000381469727,
+        "text": " 9-21-74."
+      },
+      {
+        "id": 7,
+        "start": 24.200000762939453,
+        "end": 27.700000762939453,
+        "text": " Thank you so much. And how's the medication working out for you?"
+      },
+      {
+        "id": 8,
+        "start": 28.200000762939453,
+        "end": 29.5,
+        "text": " It did not."
+      },
+      {
+        "id": 9,
+        "start": 29.899999618530273,
+        "end": 33.20000076293945,
+        "text": " Yeah, I think I see the problem. Do you happen to have them on you by chance?"
+      },
+      {
+        "id": 10,
+        "start": 34.599998474121094,
+        "end": 36.20000076293945,
+        "text": " On me? I mean, they're..."
+      },
+      {
+        "id": 11,
+        "start": 39.79999923706055,
+        "end": 41.29999923706055,
+        "text": " I have the bottle."
+      },
+      {
+        "id": 12,
+        "start": 42.099998474121094,
+        "end": 44.29999923706055,
+        "text": " Yeah, I just want to... Can you take out one pill?"
+      },
+      {
+        "id": 13,
+        "start": 44.29999923706055,
+        "end": 46.900001525878906,
+        "text": " I just need to know if it says AC imprinted on it."
+      },
+      {
+        "id": 14,
+        "start": 56.79999923706055,
+        "end": 58.29999923706055,
+        "text": " It says, yes, AC."
+      },
+      {
+        "id": 15,
+        "start": 58.599998474121094,
+        "end": 63.099998474121094,
+        "text": " Yeah, okay. So the pharmacy made an error and just sent you regular generics."
+      },
+      {
+        "id": 16,
+        "start": 63.099998474121094,
+        "end": 64.5999984741211,
+        "text": " That's why they're not working."
+      },
+      {
+        "id": 17,
+        "start": 65.19999694824219,
+        "end": 67.69999694824219,
+        "text": " Give me a second. I'm going to get you out a replacement"
+      },
+      {
+        "id": 18,
+        "start": 67.69999694824219,
+        "end": 71.0999984741211,
+        "text": " and then I'm going to tell you how you can confirm you received the replacement."
+      },
+      {
+        "id": 19,
+        "start": 71.69999694824219,
+        "end": 73.69999694824219,
+        "text": " And I'm going to send you 100 milligrams instead."
+      },
+      {
+        "id": 20,
+        "start": 73.69999694824219,
+        "end": 75.5,
+        "text": " You could just break them in half if you need to."
+      },
+      {
+        "id": 21,
+        "start": 80.0999984741211,
+        "end": 81.30000305175781,
+        "text": " I'm going to send you 25."
+      },
+      {
+        "id": 22,
+        "start": 81.80000305175781,
+        "end": 82.5999984741211,
+        "text": " So 20."
+      },
+      {
+        "id": 23,
+        "start": 83.19999694824219,
+        "end": 85.5,
+        "text": " Okay, perfect. All right, that went through."
+      },
+      {
+        "id": 24,
+        "start": 85.5999984741211,
+        "end": 87.69999694824219,
+        "text": " Okay, so when you get this new bottle in the mail,"
+      },
+      {
+        "id": 25,
+        "start": 87.69999694824219,
+        "end": 92.19999694824219,
+        "text": " it's going to say AGB on the bottle, but it's also going to say Greenstone."
+      },
+      {
+        "id": 26,
+        "start": 92.5,
+        "end": 96.0999984741211,
+        "text": " Greenstone is the name of Pfizer's manufacturer in France."
+      },
+      {
+        "id": 27,
+        "start": 96.5,
+        "end": 102.4000015258789,
+        "text": " And then on the pill, the only number imprinted is going to be the number 100 for the milligrams."
+      },
+      {
+        "id": 28,
+        "start": 102.69999694824219,
+        "end": 107.5,
+        "text": " And those are the two ways you can confirm you received the FDA-approved Pfizer-Viagra AGB."
+      },
+      {
+        "id": 29,
+        "start": 107.69999694824219,
+        "end": 111.80000305175781,
+        "text": " Because right now, yeah, your pill say AC and on the bottle it says APCO."
+      },
+      {
+        "id": 30,
+        "start": 112.0999984741211,
+        "end": 114,
+        "text": " So those are just regular generics."
+      },
+      {
+        "id": 31,
+        "start": 114.4000015258789,
+        "end": 117.4000015258789,
+        "text": " And then I'm going to go ahead and pause your refills for six months."
+      },
+      {
+        "id": 32,
+        "start": 117.4000015258789,
+        "end": 120.5999984741211,
+        "text": " I'm going to pause it till July 31st."
+      },
+      {
+        "id": 33,
+        "start": 120.80000305175781,
+        "end": 123.9000015258789,
+        "text": " That way the pharmacy will be able to send you out that replacement."
+      },
+      {
+        "id": 34,
+        "start": 124.19999694824219,
+        "end": 128.39999389648438,
+        "text": " And I'll give you my extension so you can call me back and let me know how the AGB works out for you."
+      },
+      {
+        "id": 35,
+        "start": 129.10000610351562,
+        "end": 130.1999969482422,
+        "text": " Give me one second."
+      },
+      {
+        "id": 36,
+        "start": 131.10000610351562,
+        "end": 131.8000030517578,
+        "text": " No problem."
+      },
+      {
+        "id": 37,
+        "start": 144,
+        "end": 150.39999389648438,
+        "text": " AGB 100."
+      },
+      {
+        "id": 38,
+        "start": 150.8000030517578,
+        "end": 152,
+        "text": " Okay, extension."
+      },
+      {
+        "id": 39,
+        "start": 152.5,
+        "end": 154.3000030517578,
+        "text": " Okay, 0020."
+      },
+      {
+        "id": 40,
+        "start": 155.8000030517578,
+        "end": 156.8000030517578,
+        "text": " And my name's Michelle."
+      },
+      {
+        "id": 41,
+        "start": 160.60000610351562,
+        "end": 161.60000610351562,
+        "text": " One L or two L's?"
+      },
+      {
+        "id": 42,
+        "start": 162.39999389648438,
+        "end": 162.89999389648438,
+        "text": " Two."
+      },
+      {
+        "id": 43,
+        "start": 165,
+        "end": 168.8000030517578,
+        "text": " And then AGB 100 and you said Bluestone?"
+      },
+      {
+        "id": 44,
+        "start": 169.8000030517578,
+        "end": 170.60000610351562,
+        "text": " Greenstone."
+      },
+      {
+        "id": 45,
+        "start": 170.8000030517578,
+        "end": 176,
+        "text": " So Bluestone on the bottle and the only thing imprinted on the pill is going to be the number 100."
+      },
+      {
+        "id": 46,
+        "start": 177,
+        "end": 177.5,
+        "text": " Okay."
+      },
+      {
+        "id": 47,
+        "start": 178.8000030517578,
+        "end": 179.3000030517578,
+        "text": " Perfect."
+      },
+      {
+        "id": 48,
+        "start": 179.3000030517578,
+        "end": 179.8000030517578,
+        "text": " Okay."
+      },
+      {
+        "id": 49,
+        "start": 180.39999389648438,
+        "end": 180.6999969482422,
+        "text": " All right."
+      },
+      {
+        "id": 50,
+        "start": 180.6999969482422,
+        "end": 183.39999389648438,
+        "text": " And then July, sorry, June or July?"
+      },
+      {
+        "id": 51,
+        "start": 183.39999389648438,
+        "end": 185.39999389648438,
+        "text": " July 31st."
+      },
+      {
+        "id": 52,
+        "start": 185.39999389648438,
+        "end": 185.89999389648438,
+        "text": " Yeah."
+      },
+      {
+        "id": 53,
+        "start": 186.5,
+        "end": 187,
+        "text": " Okay."
+      },
+      {
+        "id": 54,
+        "start": 187.39999389648438,
+        "end": 187.8000030517578,
+        "text": " All right."
+      },
+      {
+        "id": 55,
+        "start": 187.8000030517578,
+        "end": 188.89999389648438,
+        "text": " Thank you very much, Michelle."
+      },
+      {
+        "id": 56,
+        "start": 189.39999389648438,
+        "end": 190,
+        "text": " No problem."
+      },
+      {
+        "id": 57,
+        "start": 190,
+        "end": 190.8000030517578,
+        "text": " Have a great day."
+      },
+      {
+        "id": 58,
+        "start": 191.10000610351562,
+        "end": 191.6999969482422,
+        "text": " All right, you too."
+      },
+      {
+        "id": 59,
+        "start": 192.3000030517578,
+        "end": 192.8000030517578,
+        "text": " Thanks."
+      },
+      {
+        "id": 60,
+        "start": 192.8000030517578,
+        "end": 193.3000030517578,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81c2-b2c7-cacecb522f9b",
+    "url": "https://www.notion.so/300000001218198-300000001708250-2f611d0a101c81c2b2c7cacecb522f9b"
+  },
+  "processedAt": "2026-01-28T15:18:09.611Z"
+}

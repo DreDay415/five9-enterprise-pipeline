@@ -1,0 +1,140 @@
+{
+  "recording": {
+    "name": "300000001217194-300000001707547-9512851900 by summer@verifiednutrition.com @ 9_23_54 AM.wav",
+    "size": 143320,
+    "modifyTime": 1769584038000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217194-300000001707547-9512851900 by summer@verifiednutrition.com @ 9_23_54 AM.wav",
+    "uploadDate": "2026-01-28T07:07:18.000Z",
+    "callId": "300000001217194-300000001707547",
+    "agent": "summer",
+    "phoneNumber": "9512851900",
+    "callTimestamp": "2026-01-28T09:23:54.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service. I can help you.\n\nSpeaker 2: Hi there. My name is Anthony Bloomfield, and I'd like to refill my prescription, please.\n\nSpeaker 1: Okay. Can I have your birthday?\n\nSpeaker 2: September 17, 1947.\n\nSpeaker 1: Are you still on California Avenue?\n\nSpeaker 2: Yes.\n\nSpeaker 1: You want to get 100 mg, 50 tablets?\n\nSpeaker 2: 100 mg what?\n\nSpeaker 1: 50 tablets.\n\nSpeaker 2: 50? Is that what that is? Okay.\n\nSpeaker 1: Uh-huh.\n\nSpeaker 2: All right. Yes, please.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay. Give me a second.\n\nSpeaker 1: I don't know why.\n\nSpeaker 2: It's supposed to be $163, it looks like. It looks like your grandfather went into that price.\n\nSpeaker 1: The system keeps charging you regular price, so I have to go in and refund you $100. Give me a second.\n\nSpeaker 2: I don't know why it keeps doing that.\n\nSpeaker 1: Give me a second.",
+    "duration": 2780,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling customer service. I can help you."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 10,
+        "text": " Hi there. My name is Anthony Bloomfield, and I'd like to refill my prescription, please."
+      },
+      {
+        "id": 2,
+        "start": 15,
+        "end": 17,
+        "text": " Okay. Can I have your birthday?"
+      },
+      {
+        "id": 3,
+        "start": 18,
+        "end": 21,
+        "text": " September 17, 1947."
+      },
+      {
+        "id": 4,
+        "start": 26,
+        "end": 28,
+        "text": " Are you still on California Avenue?"
+      },
+      {
+        "id": 5,
+        "start": 28,
+        "end": 30,
+        "text": " Yes."
+      },
+      {
+        "id": 6,
+        "start": 31,
+        "end": 35,
+        "text": " You want to get 100 mg, 50 tablets?"
+      },
+      {
+        "id": 7,
+        "start": 36,
+        "end": 38,
+        "text": " 100 mg what?"
+      },
+      {
+        "id": 8,
+        "start": 39,
+        "end": 41,
+        "text": " 50 tablets."
+      },
+      {
+        "id": 9,
+        "start": 41,
+        "end": 43,
+        "text": " 50? Is that what that is? Okay."
+      },
+      {
+        "id": 10,
+        "start": 43,
+        "end": 44,
+        "text": " Uh-huh."
+      },
+      {
+        "id": 11,
+        "start": 45,
+        "end": 47,
+        "text": " All right. Yes, please."
+      },
+      {
+        "id": 12,
+        "start": 47,
+        "end": 48,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 58,
+        "end": 60,
+        "text": " Okay. Give me a second."
+      },
+      {
+        "id": 14,
+        "start": 67,
+        "end": 69,
+        "text": " I don't know why."
+      },
+      {
+        "id": 15,
+        "start": 69,
+        "end": 75,
+        "text": " It's supposed to be $163, it looks like. It looks like your grandfather went into that price."
+      },
+      {
+        "id": 16,
+        "start": 75,
+        "end": 80,
+        "text": " The system keeps charging you regular price, so I have to go in and refund you $100. Give me a second."
+      },
+      {
+        "id": 17,
+        "start": 83,
+        "end": 85,
+        "text": " I don't know why it keeps doing that."
+      },
+      {
+        "id": 18,
+        "start": 85,
+        "end": 88,
+        "text": " Give me a second."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e6-9b6e-deb22aff39b5",
+    "url": "https://www.notion.so/300000001217194-300000001707547-2f611d0a101c81e69b6edeb22aff39b5"
+  },
+  "processedAt": "2026-01-28T15:34:07.150Z"
+}

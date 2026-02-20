@@ -1,0 +1,332 @@
+{
+  "recording": {
+    "name": "300000001216456-300000001705879-5185690864 by josimar@superbalife.com @ 2_02_29 PM.wav",
+    "size": 401630,
+    "modifyTime": 1769586433000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216456-300000001705879-5185690864 by josimar@superbalife.com @ 2_02_29 PM.wav",
+    "uploadDate": "2026-01-28T07:47:13.000Z",
+    "callId": "300000001216456-300000001705879",
+    "agent": "josimar",
+    "phoneNumber": "5185690864",
+    "callTimestamp": "2026-01-28T14:02:29.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. I can help you today.\n\nSpeaker 2: Hello. I received some Sildenafil in the mail today.\n\nSpeaker 1: I had ordered Viagra AGV and this came in its place.\n\nSpeaker 2: I currently have this product. I have Sildenafil already at home and I do not need more.\n\nSpeaker 1: What I wanted was the Viagra AGV.\n\nSpeaker 2: Just a quick thing. All Viagras are going to contain Sildenafil.\n\nSpeaker 1: The AGV just has the highest quality version of Sildenafil around which makes it an authorized generic.\n\nSpeaker 2: I know that. That is why I ordered it.\n\nSpeaker 1: I am just explaining to you that all Viagras have Sildenafil.\n\nSpeaker 2: I know that.\n\nSpeaker 1: I can take a look into your script to see what you received. What is your zip code?\n\nSpeaker 2: 12901.\n\nSpeaker 1: What is your last name?\n\nSpeaker 2: Walker.\n\nSpeaker 1: First name?\n\nSpeaker 2: Robert.\n\nSpeaker 1: Quick question. What does the engraving on the pill say on the ones you received?\n\nSpeaker 2: Sildenafil citrate 50 mg tablets.\n\nSpeaker 1: I will just say it one more time. The engraving on the pill.\n\nSpeaker 2: It says generic for Viagra.\n\nSpeaker 1: It is not going to say all that on the pill. I am asking you what the engraving on the pill says.\n\nSpeaker 2: Why would it be on the pill?\n\nSpeaker 1: I am asking you can you tell me what the pill says.\n\nSpeaker 2: The pill that is right in that little bottle you are reading. Take one out and tell me what that says.\n\nSpeaker 1: Hold on please.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Just a minute.\n\nSpeaker 2: It reads A339.\n\nSpeaker 1: It says A339 you said?\n\nSpeaker 2: AC339.\n\nSpeaker 1: Got it.\n\nSpeaker 2: You are breaking up. I can't hear you.\n\nSpeaker 1: I can hear you now. You were breaking up at first.\n\nSpeaker 2: Are you still there?\n\nSpeaker 1: I am still here and I will repeat.\n\nSpeaker 2: AC339.\n\nSpeaker 1: What I was telling you is that information I could confirm at the pharmacy did make a mistake.\n\nSpeaker 2: The only engraving you should have seen on your pill is 50 for the dosage.\n\nSpeaker 1: I am going to go ahead and let them know.\n\nSpeaker 2: They will ship you out a new order and you will get this in three to five business days.\n\nSpeaker 1: Aside from that, the one you have you are more than welcome to keep or dispose.\n\nSpeaker 2: We will send you the correct one.\n\nSpeaker 1: I want to make it clear.\n\nSpeaker 2: Once and for all I want the AGV.\n\nSpeaker 1: I just told you I would send that to you.\n\nSpeaker 2: I am not sure why you had to reiterate that.\n\nSpeaker 1: I want to make sure I get the right thing.\n\nSpeaker 2: I will send you that one.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: No problem. Have a good one.\n\nSpeaker 1: Bye.",
+    "duration": 8865,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. I can help you today."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 14,
+        "text": " Hello. I received some Sildenafil in the mail today."
+      },
+      {
+        "id": 2,
+        "start": 14,
+        "end": 21,
+        "text": " I had ordered Viagra AGV and this came in its place."
+      },
+      {
+        "id": 3,
+        "start": 21,
+        "end": 29,
+        "text": " I currently have this product. I have Sildenafil already at home and I do not need more."
+      },
+      {
+        "id": 4,
+        "start": 29,
+        "end": 32,
+        "text": " What I wanted was the Viagra AGV."
+      },
+      {
+        "id": 5,
+        "start": 32,
+        "end": 38,
+        "text": " Just a quick thing. All Viagras are going to contain Sildenafil."
+      },
+      {
+        "id": 6,
+        "start": 38,
+        "end": 44,
+        "text": " The AGV just has the highest quality version of Sildenafil around which makes it an authorized generic."
+      },
+      {
+        "id": 7,
+        "start": 44,
+        "end": 49,
+        "text": " I know that. That is why I ordered it."
+      },
+      {
+        "id": 8,
+        "start": 49,
+        "end": 53,
+        "text": " I am just explaining to you that all Viagras have Sildenafil."
+      },
+      {
+        "id": 9,
+        "start": 53,
+        "end": 55,
+        "text": " I know that."
+      },
+      {
+        "id": 10,
+        "start": 55,
+        "end": 60,
+        "text": " I can take a look into your script to see what you received. What is your zip code?"
+      },
+      {
+        "id": 11,
+        "start": 60,
+        "end": 63,
+        "text": " 12901."
+      },
+      {
+        "id": 12,
+        "start": 63,
+        "end": 65,
+        "text": " What is your last name?"
+      },
+      {
+        "id": 13,
+        "start": 65,
+        "end": 67,
+        "text": " Walker."
+      },
+      {
+        "id": 14,
+        "start": 67,
+        "end": 69,
+        "text": " First name?"
+      },
+      {
+        "id": 15,
+        "start": 69,
+        "end": 71,
+        "text": " Robert."
+      },
+      {
+        "id": 16,
+        "start": 71,
+        "end": 80,
+        "text": " Quick question. What does the engraving on the pill say on the ones you received?"
+      },
+      {
+        "id": 17,
+        "start": 80,
+        "end": 84,
+        "text": " Sildenafil citrate 50 mg tablets."
+      },
+      {
+        "id": 18,
+        "start": 84,
+        "end": 87,
+        "text": " I will just say it one more time. The engraving on the pill."
+      },
+      {
+        "id": 19,
+        "start": 87,
+        "end": 91,
+        "text": " It says generic for Viagra."
+      },
+      {
+        "id": 20,
+        "start": 91,
+        "end": 97,
+        "text": " It is not going to say all that on the pill. I am asking you what the engraving on the pill says."
+      },
+      {
+        "id": 21,
+        "start": 97,
+        "end": 100,
+        "text": " Why would it be on the pill?"
+      },
+      {
+        "id": 22,
+        "start": 100,
+        "end": 104,
+        "text": " I am asking you can you tell me what the pill says."
+      },
+      {
+        "id": 23,
+        "start": 104,
+        "end": 108,
+        "text": " The pill that is right in that little bottle you are reading. Take one out and tell me what that says."
+      },
+      {
+        "id": 24,
+        "start": 108,
+        "end": 110,
+        "text": " Hold on please."
+      },
+      {
+        "id": 25,
+        "start": 110,
+        "end": 124,
+        "text": " Thank you."
+      },
+      {
+        "id": 26,
+        "start": 124,
+        "end": 127,
+        "text": " Just a minute."
+      },
+      {
+        "id": 27,
+        "start": 154,
+        "end": 168,
+        "text": " It reads A339."
+      },
+      {
+        "id": 28,
+        "start": 168,
+        "end": 171,
+        "text": " It says A339 you said?"
+      },
+      {
+        "id": 29,
+        "start": 171,
+        "end": 178,
+        "text": " AC339."
+      },
+      {
+        "id": 30,
+        "start": 178,
+        "end": 184,
+        "text": " Got it."
+      },
+      {
+        "id": 31,
+        "start": 184,
+        "end": 189,
+        "text": " You are breaking up. I can't hear you."
+      },
+      {
+        "id": 32,
+        "start": 189,
+        "end": 192,
+        "text": " I can hear you now. You were breaking up at first."
+      },
+      {
+        "id": 33,
+        "start": 192,
+        "end": 194,
+        "text": " Are you still there?"
+      },
+      {
+        "id": 34,
+        "start": 194,
+        "end": 198,
+        "text": " I am still here and I will repeat."
+      },
+      {
+        "id": 35,
+        "start": 198,
+        "end": 200,
+        "text": " AC339."
+      },
+      {
+        "id": 36,
+        "start": 201,
+        "end": 206,
+        "text": " What I was telling you is that information I could confirm at the pharmacy did make a mistake."
+      },
+      {
+        "id": 37,
+        "start": 206,
+        "end": 210,
+        "text": " The only engraving you should have seen on your pill is 50 for the dosage."
+      },
+      {
+        "id": 38,
+        "start": 210,
+        "end": 212,
+        "text": " I am going to go ahead and let them know."
+      },
+      {
+        "id": 39,
+        "start": 212,
+        "end": 216,
+        "text": " They will ship you out a new order and you will get this in three to five business days."
+      },
+      {
+        "id": 40,
+        "start": 216,
+        "end": 221,
+        "text": " Aside from that, the one you have you are more than welcome to keep user disposal."
+      },
+      {
+        "id": 41,
+        "start": 221,
+        "end": 224,
+        "text": " We will send you the correct one."
+      },
+      {
+        "id": 42,
+        "start": 224,
+        "end": 226,
+        "text": " I want to make it clear."
+      },
+      {
+        "id": 43,
+        "start": 226,
+        "end": 229,
+        "text": " Once and for all I want the AVG."
+      },
+      {
+        "id": 44,
+        "start": 229,
+        "end": 231,
+        "text": " I just told you I would send that to you."
+      },
+      {
+        "id": 45,
+        "start": 231,
+        "end": 235,
+        "text": " I am not sure why you had to reiterate that."
+      },
+      {
+        "id": 46,
+        "start": 235,
+        "end": 239,
+        "text": " I want to make sure I get the right thing."
+      },
+      {
+        "id": 47,
+        "start": 239,
+        "end": 241,
+        "text": " I will send you that one."
+      },
+      {
+        "id": 48,
+        "start": 241,
+        "end": 243,
+        "text": " Thank you."
+      },
+      {
+        "id": 49,
+        "start": 243,
+        "end": 245,
+        "text": " No problem. Have a good one."
+      },
+      {
+        "id": 50,
+        "start": 245,
+        "end": 247,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816c-ba14-f3bf94413ef9",
+    "url": "https://www.notion.so/300000001216456-300000001705879-2f611d0a101c816cba14f3bf94413ef9"
+  },
+  "processedAt": "2026-01-28T13:51:58.489Z"
+}

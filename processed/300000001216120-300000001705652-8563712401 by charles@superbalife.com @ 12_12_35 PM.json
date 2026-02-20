@@ -1,0 +1,134 @@
+{
+  "recording": {
+    "name": "300000001216120-300000001705652-8563712401 by charles@superbalife.com @ 12_12_35 PM.wav",
+    "size": 65840,
+    "modifyTime": 1769589133000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216120-300000001705652-8563712401 by charles@superbalife.com @ 12_12_35 PM.wav",
+    "uploadDate": "2026-01-28T08:32:13.000Z",
+    "callId": "300000001216120-300000001705652",
+    "agent": "charles",
+    "phoneNumber": "8563712401",
+    "callTimestamp": "2026-01-28T12:12:35.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: We're calling back, this is Charles.\n\nSpeaker 2: Yeah, I like that.\n\nSpeaker 1: I need chambers online where I can stop my medication.\n\nSpeaker 2: OK, I got Lou Schneider in Elmer, New Jersey.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Gotcha, OK, you just overstocked right now.\n\nSpeaker 1: I need to pump the brakes for a while.\n\nSpeaker 2: I didn't see a place to pause it.\n\nSpeaker 1: I just, yeah, I just stop it for now, and yes.\n\nSpeaker 2: OK, I can go all the way up until June.\n\nSpeaker 1: And I need to call back again, right?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Yeah, for right now that works, yes.\n\nSpeaker 2: Yes, that works.\n\nSpeaker 1: All right, then, yep.\n\nSpeaker 2: All right, thank you much.\n\nSpeaker 1: Yes, sir, take care.\n\nSpeaker 2: Thank you, take care.",
+    "duration": 2903,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.0799999237060547,
+        "text": " We're calling back, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 3.0799999237060547,
+        "end": 4.039999961853027,
+        "text": " Yeah, I like that."
+      },
+      {
+        "id": 2,
+        "start": 4.039999961853027,
+        "end": 7.880000114440918,
+        "text": " I need chambers online where I can stop my medication."
+      },
+      {
+        "id": 3,
+        "start": 7.880000114440918,
+        "end": 13.960000038146973,
+        "text": " OK, I got Lou Schneider in Elmer, New Jersey."
+      },
+      {
+        "id": 4,
+        "start": 13.960000038146973,
+        "end": 14.800000190734863,
+        "text": " Yes."
+      },
+      {
+        "id": 5,
+        "start": 14.800000190734863,
+        "end": 16.639999389648438,
+        "text": " Gotcha, OK, you just overstocked right now."
+      },
+      {
+        "id": 6,
+        "start": 16.639999389648438,
+        "end": 18.760000228881836,
+        "text": " I need to pump the brakes for a while."
+      },
+      {
+        "id": 7,
+        "start": 18.760000228881836,
+        "end": 20.200000762939453,
+        "text": " I didn't see a place to pause it."
+      },
+      {
+        "id": 8,
+        "start": 20.200000762939453,
+        "end": 23.479999542236328,
+        "text": " I just, yeah, I just stop it for now, and yes."
+      },
+      {
+        "id": 9,
+        "start": 23.479999542236328,
+        "end": 25.68000030517578,
+        "text": " OK, I can go all the way up until June."
+      },
+      {
+        "id": 10,
+        "start": 26.68000030517578,
+        "end": 28.760000228881836,
+        "text": " And I need to call back again, right?"
+      },
+      {
+        "id": 11,
+        "start": 28.760000228881836,
+        "end": 29.280000686645508,
+        "text": " Yeah."
+      },
+      {
+        "id": 12,
+        "start": 29.280000686645508,
+        "end": 30.84000015258789,
+        "text": " Yeah, for right now that works, yes."
+      },
+      {
+        "id": 13,
+        "start": 30.84000015258789,
+        "end": 31.639999389648438,
+        "text": " Yes, that works."
+      },
+      {
+        "id": 14,
+        "start": 31.639999389648438,
+        "end": 32.599998474121094,
+        "text": " All right, then, yep."
+      },
+      {
+        "id": 15,
+        "start": 32.599998474121094,
+        "end": 33.959999084472656,
+        "text": " All right, thank you much."
+      },
+      {
+        "id": 16,
+        "start": 33.959999084472656,
+        "end": 34.84000015258789,
+        "text": " Yes, sir, take care."
+      },
+      {
+        "id": 17,
+        "start": 34.84000015258789,
+        "end": 37.119998931884766,
+        "text": " Thank you, take care."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8187-b4d0-d9d35a44c17c",
+    "url": "https://www.notion.so/300000001216120-300000001705652-2f611d0a101c8187b4d0d9d35a44c17c"
+  },
+  "processedAt": "2026-01-28T12:58:41.110Z"
+}

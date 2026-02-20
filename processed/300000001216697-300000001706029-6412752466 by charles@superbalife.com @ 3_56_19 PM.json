@@ -1,0 +1,164 @@
+{
+  "recording": {
+    "name": "300000001216697-300000001706029-6412752466 by charles@superbalife.com @ 3_56_19 PM.wav",
+    "size": 90606,
+    "modifyTime": 1769583131000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216697-300000001706029-6412752466 by charles@superbalife.com @ 3_56_19 PM.wav",
+    "uploadDate": "2026-01-28T06:52:11.000Z",
+    "callId": "300000001216697-300000001706029",
+    "agent": "charles",
+    "phoneNumber": "6412752466",
+    "callTimestamp": "2026-01-28T15:56:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: This is Randy James, I'd like to cancel my prescription.\n\nSpeaker 2: Okay.\n\nSpeaker 1: You're in Kellogg, Iowa?\n\nSpeaker 2: Yes, I am.\n\nSpeaker 1: All right.\n\nSpeaker 2: Looks like you're a VIP member here.\n\nSpeaker 1: Randy, do you just need to pump the brakes for a while on the refills?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: If you'd like, I could pause everything from now until June.\n\nSpeaker 1: That way you've got some time to kill what you've got and then call us if you need them earlier.\n\nSpeaker 2: No, I'm just going to cancel out completely.\n\nSpeaker 1: I'll call you back if I need some.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right.\n\nSpeaker 2: Good luck in the future.\n\nSpeaker 1: All right.\n\nSpeaker 2: Are we done?\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thank you.",
+    "duration": 3185,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 10,
+        "text": " This is Randy James, I'd like to cancel my prescription."
+      },
+      {
+        "id": 1,
+        "start": 10,
+        "end": 11,
+        "text": " Okay."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 14,
+        "text": " You're in Kellogg, Iowa?"
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 16,
+        "text": " Yes, I am."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 17,
+        "text": " All right."
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 20,
+        "text": " Looks like you're a VIP member here."
+      },
+      {
+        "id": 6,
+        "start": 20,
+        "end": 24,
+        "text": " Randy, do you just need to pump the brakes for a while on the refills?"
+      },
+      {
+        "id": 7,
+        "start": 24,
+        "end": 25,
+        "text": " Yeah."
+      },
+      {
+        "id": 8,
+        "start": 25,
+        "end": 26,
+        "text": " Okay."
+      },
+      {
+        "id": 9,
+        "start": 27,
+        "end": 28,
+        "text": " Yeah."
+      },
+      {
+        "id": 10,
+        "start": 28,
+        "end": 29,
+        "text": " Okay."
+      },
+      {
+        "id": 11,
+        "start": 29,
+        "end": 31,
+        "text": " If you'd like, I could pause everything from now until June."
+      },
+      {
+        "id": 12,
+        "start": 31,
+        "end": 36,
+        "text": " That way you've got some time to kill what you've got and then call us if you need them earlier."
+      },
+      {
+        "id": 13,
+        "start": 36,
+        "end": 38,
+        "text": " No, I'm just going to cancel out completely."
+      },
+      {
+        "id": 14,
+        "start": 38,
+        "end": 40,
+        "text": " I'll call you back if I need some."
+      },
+      {
+        "id": 15,
+        "start": 40,
+        "end": 41,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 41,
+        "end": 42,
+        "text": " All right."
+      },
+      {
+        "id": 17,
+        "start": 42,
+        "end": 44,
+        "text": " Good luck in the future."
+      },
+      {
+        "id": 18,
+        "start": 44,
+        "end": 49,
+        "text": " All right."
+      },
+      {
+        "id": 19,
+        "start": 49,
+        "end": 50,
+        "text": " Are we done?"
+      },
+      {
+        "id": 20,
+        "start": 50,
+        "end": 52,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 21,
+        "start": 52,
+        "end": 53,
+        "text": " All right."
+      },
+      {
+        "id": 22,
+        "start": 53,
+        "end": 54,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81b2-8f8a-f5910028e916",
+    "url": "https://www.notion.so/300000001216697-300000001706029-2f611d0a101c81b28f8af5910028e916"
+  },
+  "processedAt": "2026-01-28T16:38:41.753Z"
+}

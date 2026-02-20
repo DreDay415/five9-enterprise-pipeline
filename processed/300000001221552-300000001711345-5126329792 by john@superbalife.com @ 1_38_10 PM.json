@@ -1,0 +1,176 @@
+{
+  "recording": {
+    "name": "300000001221552-300000001711345-5126329792 by john@superbalife.com @ 1_38_10 PM.wav",
+    "size": 157360,
+    "modifyTime": 1769636408000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221552-300000001711345-5126329792 by john@superbalife.com @ 1_38_10 PM.wav",
+    "uploadDate": "2026-01-28T21:40:08.000Z",
+    "callId": "300000001221552-300000001711345",
+    "agent": "john",
+    "phoneNumber": "5126329792",
+    "callTimestamp": "2026-01-28T13:38:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling, this is John, how can I help you?\n\nSpeaker 2: Yeah, I'm trying to see where my prescription is.\n\nSpeaker 1: I ordered it and it says it's been delivered to the mailbox, but it never got there.\n\nSpeaker 2: Can I get your name and zip code?\n\nSpeaker 1: Kevin Staff, STFF, zip code 78646.\n\nSpeaker 2: Is your address 310 Eagle's Nest?\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: And there's nothing more to that address?\n\nSpeaker 1: It's 310 Eagle's Nest, Wembley, Texas.\n\nSpeaker 2: Weird.\n\nSpeaker 1: What I see here is it does say delivered, but then four days later it says that they returned it to sender because they couldn't get it to the forwarding address, which is why I was wondering if there was something weird with the address.\n\nSpeaker 2: I have no forward address.\n\nSpeaker 1: Okay, so I'm going to get this reshipped for you, sir.\n\nSpeaker 2: What I would suggest is if you could call your local post office and make sure that's not going to be an issue, but I'll get it reshipped.\n\nSpeaker 1: Now, that goes through the mail, right?\n\nSpeaker 2: It's not UPS or anything like that?\n\nSpeaker 1: It goes through postal service.\n\nSpeaker 2: Yeah, because that's what it said.\n\nSpeaker 1: It was delivered to mailbox, but I just opened the mailbox and there was nothing in it.\n\nSpeaker 2: Right, it says that on January 24th, and then today it says forward expired, return to sender, which means it's going to come back to us, obviously, at the pharmacy.\n\nSpeaker 1: So I don't know what that deal is about.\n\nSpeaker 2: That's all I'm saying is just call your post office, make sure that won't happen again, but I'm going to get it reshipped for you.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: Thanks, sir. Bye-bye.\n\nSpeaker 1: Thanks.",
+    "duration": 5631,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling, this is John, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 6,
+        "text": " Yeah, I'm trying to see where my prescription is."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 11,
+        "text": " I ordered it and it says it's been delivered to the mailbox, but it never got there."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 13,
+        "text": " Can I get your name and zip code?"
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 20,
+        "text": " Kevin Staff, STFF, zip code 78646."
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 31,
+        "text": " Is your address 310 Eagle's Nest?"
+      },
+      {
+        "id": 6,
+        "start": 31,
+        "end": 33,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 7,
+        "start": 33,
+        "end": 35,
+        "text": " And there's nothing more to that address?"
+      },
+      {
+        "id": 8,
+        "start": 35,
+        "end": 38,
+        "text": " It's 310 Eagle's Nest, Wembley, Texas."
+      },
+      {
+        "id": 9,
+        "start": 38,
+        "end": 40,
+        "text": " Weird."
+      },
+      {
+        "id": 10,
+        "start": 40,
+        "end": 52,
+        "text": " What I see here is it does say delivered, but then four days later it says that they returned it to sender because they couldn't get it to the forwarding address, which is why I was wondering if there was something weird with the address."
+      },
+      {
+        "id": 11,
+        "start": 52,
+        "end": 55,
+        "text": " I have no forward address."
+      },
+      {
+        "id": 12,
+        "start": 55,
+        "end": 58,
+        "text": " Okay, so I'm going to get this reshipped for you, sir."
+      },
+      {
+        "id": 13,
+        "start": 58,
+        "end": 64,
+        "text": " What I would suggest is if you could call your local post office and make sure that's not going to be an issue, but I'll get it reshipped."
+      },
+      {
+        "id": 14,
+        "start": 65,
+        "end": 68,
+        "text": " Now, that goes through the mail, right?"
+      },
+      {
+        "id": 15,
+        "start": 68,
+        "end": 70,
+        "text": " It's not UPS or anything like that?"
+      },
+      {
+        "id": 16,
+        "start": 70,
+        "end": 72,
+        "text": " It goes through postal service."
+      },
+      {
+        "id": 17,
+        "start": 72,
+        "end": 74,
+        "text": " Yeah, because that's what it said."
+      },
+      {
+        "id": 18,
+        "start": 74,
+        "end": 78,
+        "text": " It was delivered to mailbox, but I just opened the mailbox and there was nothing in it."
+      },
+      {
+        "id": 19,
+        "start": 78,
+        "end": 86,
+        "text": " Right, it says that on January 24th, and then today it says forward expired, return to sender, which means it's going to come back to us, obviously, at the pharmacy."
+      },
+      {
+        "id": 20,
+        "start": 86,
+        "end": 88,
+        "text": " So I don't know what that deal is about."
+      },
+      {
+        "id": 21,
+        "start": 88,
+        "end": 92,
+        "text": " That's all I'm saying is just call your post office, make sure that won't happen again, but I'm going to get it reshipped for you."
+      },
+      {
+        "id": 22,
+        "start": 92,
+        "end": 94,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 23,
+        "start": 94,
+        "end": 95,
+        "text": " Thanks, sir. Bye-bye."
+      },
+      {
+        "id": 24,
+        "start": 95,
+        "end": 96,
+        "text": " Thanks."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81c4-9d2c-e9eac10cc31f",
+    "url": "https://www.notion.so/300000001221552-300000001711345-2f611d0a101c81c49d2ce9eac10cc31f"
+  },
+  "processedAt": "2026-01-28T22:32:16.132Z"
+}

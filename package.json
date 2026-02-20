@@ -1,0 +1,68 @@
+{
+  "name": "five9-enterprise-pipeline",
+  "version": "1.0.0",
+  "description": "Production-grade Five9 call recording transcription pipeline with OpenAI Whisper and Notion integration",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "nodemon --exec ts-node src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "jest --coverage",
+    "test:watch": "jest --watch",
+    "test:integration": "jest --testMatch='**/tests/integration/**/*.test.ts'",
+    "lint": "eslint src/**/*.ts",
+    "lint:fix": "eslint src/**/*.ts --fix",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "format:check": "prettier --check \"src/**/*.ts\"",
+    "docker:build": "docker build -t five9-pipeline:latest .",
+    "docker:run": "docker-compose up",
+    "typecheck": "tsc --noEmit",
+    "prepare": "husky install"
+  },
+  "keywords": [
+    "five9",
+    "transcription",
+    "openai",
+    "whisper",
+    "notion",
+    "sftp",
+    "enterprise"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.988.0",
+    "@aws-sdk/lib-storage": "^3.988.0",
+    "@notionhq/client": "^2.2.15",
+    "axios": "^1.13.5",
+    "dotenv": "^16.4.5",
+    "form-data": "^4.0.5",
+    "openai": "^4.28.0",
+    "pino": "^8.19.0",
+    "pino-pretty": "^10.3.1",
+    "prom-client": "^15.1.0",
+    "ssh2-sftp-client": "^10.0.3",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.11.19",
+    "@types/ssh2-sftp-client": "^9.0.6",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "husky": "^9.0.10",
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.3",
+    "prettier": "^3.2.5",
+    "ts-jest": "^29.1.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=10.0.0"
+  }
+}

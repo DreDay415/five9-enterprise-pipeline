@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001220430-300000001710566-8887955826 by  @ 8_21_30 AM_CallStudio.wav",
+    "size": 21056,
+    "modifyTime": 1769617325000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220430-300000001710566-8887955826 by  @ 8_21_30 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T16:22:05.000Z",
+    "callId": "300000001220430-300000001710566",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T16:22:05.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Careful.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Transferring to agent.",
+    "duration": 912,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.199999809265137,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.199999809265137,
+        "end": 6.199999809265137,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.199999809265137,
+        "end": 9.199999809265137,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.199999809265137,
+        "end": 10.199999809265137,
+        "text": " Careful."
+      },
+      {
+        "id": 4,
+        "start": 10.199999809265137,
+        "end": 11.199999809265137,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 11.199999809265137,
+        "end": 12.600000381469727,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ba-9d1b-fca202d5c1f9",
+    "url": "https://www.notion.so/300000001220430-300000001710566-2f611d0a101c81ba9d1bfca202d5c1f9"
+  },
+  "processedAt": "2026-01-28T19:04:08.766Z"
+}

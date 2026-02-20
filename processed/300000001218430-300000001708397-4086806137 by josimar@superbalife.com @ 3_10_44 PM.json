@@ -1,0 +1,92 @@
+{
+  "recording": {
+    "name": "300000001218430-300000001708397-4086806137 by josimar@superbalife.com @ 3_10_44 PM.wav",
+    "size": 135910,
+    "modifyTime": 1769592741000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218430-300000001708397-4086806137 by josimar@superbalife.com @ 3_10_44 PM.wav",
+    "uploadDate": "2026-01-28T09:32:21.000Z",
+    "callId": "300000001218430-300000001708397",
+    "agent": "josimar",
+    "phoneNumber": "4086806137",
+    "callTimestamp": "2026-01-28T15:10:44.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, I can help you today. Yes, question is I purchased the stuff from you here.\n\nSpeaker 2: And I've been trying it for a couple weeks already and it doesn't work, so is\n\nSpeaker 1: any way we can get the send it back, get a refund with that?\n\nSpeaker 2: Yeah, I could take a look. When did you purchase the product? One moment, what's your last name and a zip code?\n\nSpeaker 1: Zip code is nine five zero three five. The last name is Bonn, B-A-N-H.\n\nSpeaker 2: Okay, one moment.\n\nSpeaker 1: Okay, I see you purchased it very recently. We're just gonna email you some return instructions that way you can send the remaining pills back for the refund. You'll get that in the email inbox.\n\nSpeaker 2: Okay, you send it to my email, right?\n\nSpeaker 1: Yeah, correct, you're gonna get it sent to the email.\n\nSpeaker 2: Okay, all right, all right, thank you.\n\nSpeaker 1: Have a good one, bye bye.",
+    "duration": 3045,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 11.100000381469727,
+        "text": " Viagra I can help you today. Yes question is I purchased the stuff from you here"
+      },
+      {
+        "id": 1,
+        "start": 11.100000381469727,
+        "end": 15.520000457763672,
+        "text": " and I've been trying it for a couple weeks already and it doesn't work so is"
+      },
+      {
+        "id": 2,
+        "start": 15.520000457763672,
+        "end": 20.040000915527344,
+        "text": " any way we can get the send it back get a refund with that? Yeah I could take a"
+      },
+      {
+        "id": 3,
+        "start": 20.040000915527344,
+        "end": 23.780000686645508,
+        "text": " look when you purchase the product one moment what's your last name and a zip"
+      },
+      {
+        "id": 4,
+        "start": 23.780000686645508,
+        "end": 34.900001525878906,
+        "text": " code? Zip code is nine five zero three five the last name is Bonn B-A-N-H. Okay one"
+      },
+      {
+        "id": 5,
+        "start": 34.900001525878906,
+        "end": 37.2599983215332,
+        "text": " moment"
+      },
+      {
+        "id": 6,
+        "start": 53.779998779296875,
+        "end": 66.69999694824219,
+        "text": " okay I see you purchased it very recently we're just gonna email you some"
+      },
+      {
+        "id": 7,
+        "start": 66.69999694824219,
+        "end": 69.5,
+        "text": " return instructions that way you can send the remaining bills back for the"
+      },
+      {
+        "id": 8,
+        "start": 69.5,
+        "end": 74.62000274658203,
+        "text": " refund you'll get that in the email inbox. Okay you send it to my email right?"
+      },
+      {
+        "id": 9,
+        "start": 74.62000274658203,
+        "end": 78.81999969482422,
+        "text": " Yeah correct you're gonna get it sent to the email. Okay all right all right thank you."
+      },
+      {
+        "id": 10,
+        "start": 78.81999969482422,
+        "end": 82.0199966430664,
+        "text": " Have a good one, bye bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81d7-90d3-f480e0537ac9",
+    "url": "https://www.notion.so/300000001218430-300000001708397-2f611d0a101c81d790d3f480e0537ac9"
+  },
+  "processedAt": "2026-01-28T10:11:47.574Z"
+}

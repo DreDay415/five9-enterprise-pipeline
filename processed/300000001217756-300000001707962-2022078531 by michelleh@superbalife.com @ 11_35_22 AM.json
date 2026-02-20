@@ -1,0 +1,182 @@
+{
+  "recording": {
+    "name": "300000001217756-300000001707962-2022078531 by michelleh@superbalife.com @ 11_35_22 AM.wav",
+    "size": 138706,
+    "modifyTime": 1769584931000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217756-300000001707962-2022078531 by michelleh@superbalife.com @ 11_35_22 AM.wav",
+    "uploadDate": "2026-01-28T07:22:11.000Z",
+    "callId": "300000001217756-300000001707962",
+    "agent": "michelleh",
+    "phoneNumber": "2022078531",
+    "callTimestamp": "2026-01-28T11:35:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Yeah, my name is Jason Cooper, date of birth 11-11-1971.\n\nSpeaker 1: Hi.\n\nSpeaker 2: Yeah, don't keep billing me every couple of months for these pills\n\nSpeaker 1: that I do not sign up for a subscription for, and I'm tired of getting charged for it.\n\nSpeaker 2: Okay, not a problem, Jason. I can help you out.\n\nSpeaker 1: Okay, I see the doctor has you on refills every two months, which you do not have to have.\n\nSpeaker 2: I see they shipped out. Let me see if I can hold the tracking.\n\nSpeaker 1: Okay, it's going to be delivered in a few days.\n\nSpeaker 2: So once you get that, just don't open it up.\n\nSpeaker 1: Just write return to sender on it, have it back in the mailbox.\n\nSpeaker 2: That way we can issue you a refund and you don't have to pay for postage.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And then, yeah, and then with your VIP status, you don't have to have your refills every two months.\n\nSpeaker 1: What a lot of people like to do is just go ahead and pause that for six months.\n\nSpeaker 2: That way it keeps your prescription active and just allows you to call in whenever you need a refill.\n\nSpeaker 1: And then if you don't need one by then, you just call and pause it further.\n\nSpeaker 2: I can pause that for you until July 31st of 2026.\n\nSpeaker 1: Yeah, I just want to cancel the whole thing.\n\nSpeaker 2: I don't want to be billed anymore for any more prescriptions.\n\nSpeaker 1: Okay, not a problem.\n\nSpeaker 2: Okay, I went ahead and canceled you out. You're all set.\n\nSpeaker 1: Okay, thank you.\n\nSpeaker 2: No problem. Have a good day.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Bye.",
+    "duration": 4940,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 8,
+        "text": " Yeah, my name is Jason Cooper, date of birth 11-11-1971."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 10,
+        "text": " Hi."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 14,
+        "text": " Yeah, don't keep billing me every couple of months for these pills"
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 19,
+        "text": " that I do not sign up for a subscription for, and I'm tired of getting charged for it."
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 22,
+        "text": " Okay, not a problem, Jason. I can help you out."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 26,
+        "text": " Okay, I see the doctor has you on refills every two months, which you do not have to have."
+      },
+      {
+        "id": 7,
+        "start": 26,
+        "end": 33,
+        "text": " I see they shipped out. Let me see if I can hold the tracking."
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 36,
+        "text": " Okay, it's going to be delivered in a few days."
+      },
+      {
+        "id": 9,
+        "start": 36,
+        "end": 38,
+        "text": " So once you get that, just don't open it up."
+      },
+      {
+        "id": 10,
+        "start": 38,
+        "end": 42,
+        "text": " Just write return to sender on it, have it back in the mailbox."
+      },
+      {
+        "id": 11,
+        "start": 42,
+        "end": 47,
+        "text": " That way we can issue you a refund and you don't have to pay for postage."
+      },
+      {
+        "id": 12,
+        "start": 47,
+        "end": 48,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 48,
+        "end": 53,
+        "text": " And then, yeah, and then with your VIP status, you don't have to have your refills every two months."
+      },
+      {
+        "id": 14,
+        "start": 53,
+        "end": 57,
+        "text": " What a lot of people like to do is just go ahead and pause that for six months."
+      },
+      {
+        "id": 15,
+        "start": 57,
+        "end": 62,
+        "text": " That way it keeps your prescription active and just allows you to call in whenever you need a refill."
+      },
+      {
+        "id": 16,
+        "start": 62,
+        "end": 65,
+        "text": " And then if you don't need one by then, you just call and pause it further."
+      },
+      {
+        "id": 17,
+        "start": 65,
+        "end": 70,
+        "text": " I can pause that for you until July 31st of 2026."
+      },
+      {
+        "id": 18,
+        "start": 70,
+        "end": 72,
+        "text": " Yeah, I just want to cancel the whole thing."
+      },
+      {
+        "id": 19,
+        "start": 72,
+        "end": 75,
+        "text": " I don't want to be billed anymore for any more prescriptions."
+      },
+      {
+        "id": 20,
+        "start": 75,
+        "end": 77,
+        "text": " Okay, not a problem."
+      },
+      {
+        "id": 21,
+        "start": 77,
+        "end": 80,
+        "text": " Okay, I went ahead and canceled you out. You're all set."
+      },
+      {
+        "id": 22,
+        "start": 80,
+        "end": 82,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 23,
+        "start": 82,
+        "end": 84,
+        "text": " No problem. Have a good day."
+      },
+      {
+        "id": 24,
+        "start": 84,
+        "end": 85,
+        "text": " Bye."
+      },
+      {
+        "id": 25,
+        "start": 85,
+        "end": 86,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8181-8dac-f96c307a8544",
+    "url": "https://www.notion.so/300000001217756-300000001707962-2f611d0a101c81818dacf96c307a8544"
+  },
+  "processedAt": "2026-01-28T14:49:17.964Z"
+}

@@ -1,0 +1,200 @@
+{
+  "recording": {
+    "name": "300000001220820-300000001710858-6064019929 by lucif@superbalife.com @ 9_58_24 AM.wav",
+    "size": 172636,
+    "modifyTime": 1769623233000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220820-300000001710858-6064019929 by lucif@superbalife.com @ 9_58_24 AM.wav",
+    "uploadDate": "2026-01-28T18:00:33.000Z",
+    "callId": "300000001220820-300000001710858",
+    "agent": "lucif",
+    "phoneNumber": "6064019929",
+    "callTimestamp": "2026-01-28T09:58:24.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Quinn speaking. How can I help you?\n\nSpeaker 2: Hey bud, I need to cancel this. I got a surprise prescription in the mail today. I need to cancel this thing.\n\nSpeaker 1: Okay, let's see what's going on. Is your name Mark?\n\nSpeaker 2: That's me.\n\nSpeaker 1: Alrighty Mark, I do see you are a VIP with us here at Viagra.\n\nSpeaker 2: You do not have to order it like that sir. You can order this as needed.\n\nSpeaker 1: You don't have to get it automatically.\n\nSpeaker 2: I didn't ever want to get it automatically. I don't know why I'm getting it automatically to be honest with you.\n\nSpeaker 1: But that happens in your knucklehead like me you know.\n\nSpeaker 2: It only happens that way if you basically don't choose how you want it to come out.\n\nSpeaker 1: So when you first order it you can choose as needed or you can set it to day or month.\n\nSpeaker 2: I'm sure I goofed it up. But anyway, I need to try to fix it. I can't.\n\nSpeaker 1: Well I can set it up for you now so you can order as needed.\n\nSpeaker 2: Okay, if you would do that that would be great. Don't send me any more surprises.\n\nSpeaker 1: So basically how it works is the next six months we're going to keep this prescription open.\n\nSpeaker 2: But you're going to have to call in for your next order.\n\nSpeaker 1: Sounds good to me buddy. So I call this number and say send me some or whatever?\n\nSpeaker 2: You can take my name and extension as well. Yes, call this number and I can also make sure it stays like this for you too.\n\nSpeaker 1: Alright, and what is your name sir?\n\nSpeaker 2: Quinn, Q-U-I-N-N.\n\nSpeaker 1: Q-U-I-N-N, okay.\n\nSpeaker 2: What's your extension number bud?\n\nSpeaker 1: 0035.\n\nSpeaker 2: I got you. Alright bud, I'll put that on my contacts.\n\nSpeaker 1: If you want to need some more I'll just give you a call, okay bud?\n\nSpeaker 2: Alrighty, sounds good.\n\nSpeaker 1: Thank you my friend. You have a great day.\n\nSpeaker 2: You as well. Thank you.\n\nSpeaker 1: Bye-bye.",
+    "duration": 4295,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you for calling Viagra. This is Quinn speaking. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 12,
+        "text": " Hey bud, I need to cancel this. I got a surprise prescription in the mail today. I need to cancel this thing."
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 15,
+        "text": " Okay, let's see what's going on. Is your name Mark?"
+      },
+      {
+        "id": 3,
+        "start": 15,
+        "end": 18,
+        "text": " That's me."
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 23,
+        "text": " Alrighty Mark, I do see you are a VIP with us here at Viagra."
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 27,
+        "text": " You do not have to order it like that sir. You can order this as needed."
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 29,
+        "text": " You don't have to get it automatically."
+      },
+      {
+        "id": 7,
+        "start": 29,
+        "end": 33,
+        "text": " I didn't ever want to get it automatically. I don't know why I'm getting it automatically to be honest with you."
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 37,
+        "text": " But that happens in your knucklehead like me you know."
+      },
+      {
+        "id": 9,
+        "start": 37,
+        "end": 42,
+        "text": " It only happens that way if you basically don't choose how you want it to come out."
+      },
+      {
+        "id": 10,
+        "start": 42,
+        "end": 48,
+        "text": " So when you first order it you can choose as needed or you can set it to day or month."
+      },
+      {
+        "id": 11,
+        "start": 48,
+        "end": 53,
+        "text": " I'm sure I goofed it up. But anyway, I need to try to fix it. I can't."
+      },
+      {
+        "id": 12,
+        "start": 53,
+        "end": 56,
+        "text": " Well I can set it up for you now so you can order as needed."
+      },
+      {
+        "id": 13,
+        "start": 57,
+        "end": 62,
+        "text": " Okay, if you would do that that would be great. Don't send me any more surprises."
+      },
+      {
+        "id": 14,
+        "start": 62,
+        "end": 67,
+        "text": " So basically how it works is the next six months we're going to keep this prescription open."
+      },
+      {
+        "id": 15,
+        "start": 67,
+        "end": 70,
+        "text": " But you're going to have to call in for your next order."
+      },
+      {
+        "id": 16,
+        "start": 70,
+        "end": 75,
+        "text": " Sounds good to me buddy. So I call this number and say send me some or whatever?"
+      },
+      {
+        "id": 17,
+        "start": 75,
+        "end": 81,
+        "text": " You can take my name and extension as well. Yes, call this number and I can also make sure it stays like this for you too."
+      },
+      {
+        "id": 18,
+        "start": 81,
+        "end": 83,
+        "text": " Alright, and what is your name sir?"
+      },
+      {
+        "id": 19,
+        "start": 83,
+        "end": 87,
+        "text": " Quinn, Q-U-I-N-N."
+      },
+      {
+        "id": 20,
+        "start": 87,
+        "end": 89,
+        "text": " Q-U-I-N-N, okay."
+      },
+      {
+        "id": 21,
+        "start": 89,
+        "end": 91,
+        "text": " What's your extension number bud?"
+      },
+      {
+        "id": 22,
+        "start": 91,
+        "end": 93,
+        "text": " 0035."
+      },
+      {
+        "id": 23,
+        "start": 93,
+        "end": 97,
+        "text": " I got you. Alright bud, I'll put that on my contacts."
+      },
+      {
+        "id": 24,
+        "start": 97,
+        "end": 100,
+        "text": " If you want to need some more I'll just give you a call, okay bud?"
+      },
+      {
+        "id": 25,
+        "start": 100,
+        "end": 102,
+        "text": " Alrighty, sounds good."
+      },
+      {
+        "id": 26,
+        "start": 102,
+        "end": 104,
+        "text": " Thank you my friend. You have a great day."
+      },
+      {
+        "id": 27,
+        "start": 104,
+        "end": 106,
+        "text": " You as well. Thank you."
+      },
+      {
+        "id": 28,
+        "start": 106,
+        "end": 108,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-819f-85a0-e5ec1d8e1142",
+    "url": "https://www.notion.so/300000001220820-300000001710858-2f611d0a101c819f85a0e5ec1d8e1142"
+  },
+  "processedAt": "2026-01-28T18:11:52.682Z"
+}

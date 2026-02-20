@@ -1,0 +1,224 @@
+{
+  "recording": {
+    "name": "300000001221112-300000001711031-4105968600 by nickh@superbalife.com @ 11_24_18 AM.wav",
+    "size": 124016,
+    "modifyTime": 1769628337000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221112-300000001711031-4105968600 by nickh@superbalife.com @ 11_24_18 AM.wav",
+    "uploadDate": "2026-01-28T19:25:37.000Z",
+    "callId": "300000001221112-300000001711031",
+    "agent": "nickh",
+    "phoneNumber": "4105968600",
+    "callTimestamp": "2026-01-28T11:24:18.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Nick.\n\nSpeaker 2: Yes, Nick.\n\nSpeaker 1: This is Brian Boone again.\n\nSpeaker 2: Hey, Brian.\n\nSpeaker 1: I just contacted the credit card company and they said they only received one refund.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Well, like I said, I pulled up your account here.\n\nSpeaker 2: I just gave it a little bit more time.\n\nSpeaker 1: I don't know why there's a delay in the other ones, but I see three separate refunds of\n\nSpeaker 2: $63.95 under your account.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I guess we'll wait a few days and see if it shows up.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: It's there.\n\nSpeaker 2: I don't know why there's a delay in the processing.\n\nSpeaker 1: Obviously, I mean, PayPal's the best.\n\nSpeaker 2: You see the refunds immediately.\n\nSpeaker 1: American Express, it's within 24 hours.\n\nSpeaker 2: There's always some sort of delay with the other banking institutions.\n\nSpeaker 1: I don't know why.\n\nSpeaker 2: But it's been...\n\nSpeaker 1: They've been issued.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Well, we'll see what happens here until the end of the month.\n\nSpeaker 1: All right.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Well, thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Bye.",
+    "duration": 2874,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Hi, this is Nick."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 2,
+        "text": " Yes, Nick."
+      },
+      {
+        "id": 2,
+        "start": 2,
+        "end": 3,
+        "text": " This is Brian Boone again."
+      },
+      {
+        "id": 3,
+        "start": 3,
+        "end": 4,
+        "text": " Hey, Brian."
+      },
+      {
+        "id": 4,
+        "start": 4,
+        "end": 13,
+        "text": " I just contacted the credit card company and they said they only received one refund."
+      },
+      {
+        "id": 5,
+        "start": 13,
+        "end": 14,
+        "text": " Okay."
+      },
+      {
+        "id": 6,
+        "start": 14,
+        "end": 16.799999237060547,
+        "text": " Well, like I said, I pulled up your account here."
+      },
+      {
+        "id": 7,
+        "start": 16.799999237060547,
+        "end": 18.440000534057617,
+        "text": " I just gave it a little bit more time."
+      },
+      {
+        "id": 8,
+        "start": 18.440000534057617,
+        "end": 23.15999984741211,
+        "text": " I don't know why there's a delay in the other ones, but I see three separate refunds of"
+      },
+      {
+        "id": 9,
+        "start": 23.15999984741211,
+        "end": 26.15999984741211,
+        "text": " $63.95 under your account."
+      },
+      {
+        "id": 10,
+        "start": 26.15999984741211,
+        "end": 27.15999984741211,
+        "text": " Okay."
+      },
+      {
+        "id": 11,
+        "start": 27.31999969482422,
+        "end": 28.31999969482422,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 28.31999969482422,
+        "end": 33.31999969482422,
+        "text": " I guess we'll wait a few days and see if it shows up."
+      },
+      {
+        "id": 13,
+        "start": 33.31999969482422,
+        "end": 34.31999969482422,
+        "text": " Yeah."
+      },
+      {
+        "id": 14,
+        "start": 34.31999969482422,
+        "end": 35.31999969482422,
+        "text": " It's there."
+      },
+      {
+        "id": 15,
+        "start": 35.31999969482422,
+        "end": 37.31999969482422,
+        "text": " I don't know why there's a delay in the processing."
+      },
+      {
+        "id": 16,
+        "start": 37.31999969482422,
+        "end": 41.31999969482422,
+        "text": " Obviously, I mean, PayPal's the best."
+      },
+      {
+        "id": 17,
+        "start": 41.31999969482422,
+        "end": 43,
+        "text": " You see the refunds immediately."
+      },
+      {
+        "id": 18,
+        "start": 43,
+        "end": 45.880001068115234,
+        "text": " American Express, it's within 24 hours."
+      },
+      {
+        "id": 19,
+        "start": 45.880001068115234,
+        "end": 48.63999938964844,
+        "text": " There's always some sort of delay with the other banking institutions."
+      },
+      {
+        "id": 20,
+        "start": 48.63999938964844,
+        "end": 49.63999938964844,
+        "text": " I don't know why."
+      },
+      {
+        "id": 21,
+        "start": 49.63999938964844,
+        "end": 50.63999938964844,
+        "text": " But it's been..."
+      },
+      {
+        "id": 22,
+        "start": 50.63999938964844,
+        "end": 51.63999938964844,
+        "text": " They've been issued."
+      },
+      {
+        "id": 23,
+        "start": 51.63999938964844,
+        "end": 52.63999938964844,
+        "text": " Okay."
+      },
+      {
+        "id": 24,
+        "start": 53.119998931884766,
+        "end": 54.119998931884766,
+        "text": " Okay."
+      },
+      {
+        "id": 25,
+        "start": 54.119998931884766,
+        "end": 57.119998931884766,
+        "text": " Well, we'll see what happens here until the end of the month."
+      },
+      {
+        "id": 26,
+        "start": 57.119998931884766,
+        "end": 58.119998931884766,
+        "text": " All right."
+      },
+      {
+        "id": 27,
+        "start": 58.119998931884766,
+        "end": 59.119998931884766,
+        "text": " Yeah."
+      },
+      {
+        "id": 28,
+        "start": 59.119998931884766,
+        "end": 60.119998931884766,
+        "text": " Okay."
+      },
+      {
+        "id": 29,
+        "start": 60.119998931884766,
+        "end": 61.119998931884766,
+        "text": " Well, thank you."
+      },
+      {
+        "id": 30,
+        "start": 61.119998931884766,
+        "end": 62.119998931884766,
+        "text": " Thank you."
+      },
+      {
+        "id": 31,
+        "start": 62.119998931884766,
+        "end": 63.119998931884766,
+        "text": " Bye."
+      },
+      {
+        "id": 32,
+        "start": 63.119998931884766,
+        "end": 63.119998931884766,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8106-a401-ee6ef4806a9a",
+    "url": "https://www.notion.so/300000001221112-300000001711031-2f611d0a101c8106a401ee6ef4806a9a"
+  },
+  "processedAt": "2026-01-28T23:50:42.319Z"
+}

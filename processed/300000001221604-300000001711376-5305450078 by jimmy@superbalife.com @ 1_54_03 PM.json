@@ -1,0 +1,242 @@
+{
+  "recording": {
+    "name": "300000001221604-300000001711376-5305450078 by jimmy@superbalife.com @ 1_54_03 PM.wav",
+    "size": 288076,
+    "modifyTime": 1769637442000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221604-300000001711376-5305450078 by jimmy@superbalife.com @ 1_54_03 PM.wav",
+    "uploadDate": "2026-01-28T21:57:22.000Z",
+    "callId": "300000001221604-300000001711376",
+    "agent": "jimmy",
+    "phoneNumber": "5305450078",
+    "callTimestamp": "2026-01-28T13:54:03.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Jimmy. How can I help you today?\n\nSpeaker 2: Hey, Jimmy. I sent a couple bottles back and want to find out how long does it take to get the refund.\n\nSpeaker 1: I got a tracking number that says you guys received it yesterday.\n\nSpeaker 2: Okay. Let me take a look and I can help you out with that.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I'm looking at the phone number. Let me try one more time. I think I might have had the wrong digit in there.\n\nSpeaker 1: 530...\n\nSpeaker 2: No, last time they couldn't find it either.\n\nSpeaker 1: Bear with me one second. Let me see what I can come up with.\n\nSpeaker 2: That time it was my mistake with the digit.\n\nSpeaker 1: No, do you have another number then that you gave them other than when you called it from?\n\nSpeaker 2: I gave it to them last time. It didn't work either, but it's 530-541-5596.\n\nSpeaker 1: No, nothing comes up under that one either.\n\nSpeaker 2: How did they find it? What did they do last time to find it for you?\n\nSpeaker 1: I think they looked it up by my name. My birth date, 89701.\n\nSpeaker 2: 89701. And what's your name?\n\nSpeaker 1: Frank Giardina.\n\nSpeaker 2: All right, Frank. I got you here. Okay. I don't know why they have a number of 530-545-0094.\n\nSpeaker 1: That's the number that I'm seeing.\n\nSpeaker 2: I see that there was a credit issue on your account, so it's probably going to be a couple of days before you see it in the mail.\n\nSpeaker 1: Both of those are refunded. You had two 6395s refunded back to you.\n\nSpeaker 2: So you should be getting that back on your card any day now because I see it was there.\n\nSpeaker 1: And it's going to go to them. Let me see what card it's going to go to so you know.\n\nSpeaker 2: Does it end with a 9427?\n\nSpeaker 1: No, but I'll tell you right now, I have to go to a different screen for that. Okay?\n\nSpeaker 2: Uh-huh.\n\nSpeaker 1: I don't have it off. The number's not running. Yes, it is still.\n\nSpeaker 2: I'm seeing it on my bank card. I'm looking back to the 23rd here, but you guys didn't get it until yesterday.\n\nSpeaker 1: Yeah, we got it yesterday. It's going to take about at least two to three days before you see it, if that's the case,\n\nSpeaker 2: because they've got to upgrade it. But I do see that it was credited back on the system.\n\nSpeaker 1: It was actually refunded today. I see it was refunded today on the 28th.\n\nSpeaker 2: And so you should see that it was for November and January orders,\n\nSpeaker 1: and you should see that on your card within the next two to three days. Okay?\n\nSpeaker 2: All right. I'll keep an eye out for it. Thanks, Jimmy.\n\nSpeaker 1: Not a problem. Take care.\n\nSpeaker 2: You too. Bye.",
+    "duration": 9089,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. This is Jimmy. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 10,
+        "text": " Hey, Jimmy. I sent a couple bottles back and want to find out how long does it take to get the refund."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 14,
+        "text": " I got a tracking number that says you guys received it yesterday."
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 17,
+        "text": " Okay. Let me take a look and I can help you out with that."
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 19,
+        "text": " Okay."
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 24,
+        "text": " I'm looking at the phone number. Let me try one more time. I think I might have had the wrong digit in there."
+      },
+      {
+        "id": 6,
+        "start": 24,
+        "end": 28,
+        "text": " 530..."
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 31,
+        "text": " No, last time they couldn't find it either."
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 34,
+        "text": " Bear with me one second. Let me see what I can come up with."
+      },
+      {
+        "id": 9,
+        "start": 34,
+        "end": 37,
+        "text": " That time it was my mistake with the digit."
+      },
+      {
+        "id": 10,
+        "start": 37,
+        "end": 43,
+        "text": " No, do you have another number then that you gave them other than when you called it from?"
+      },
+      {
+        "id": 11,
+        "start": 43,
+        "end": 52,
+        "text": " I gave it to them last time. It didn't work either, but it's 530-541-5596."
+      },
+      {
+        "id": 12,
+        "start": 52,
+        "end": 55,
+        "text": " No, nothing comes up under that one either."
+      },
+      {
+        "id": 13,
+        "start": 55,
+        "end": 59,
+        "text": " How did they find it? What did they do last time to find it for you?"
+      },
+      {
+        "id": 14,
+        "start": 59,
+        "end": 65,
+        "text": " I think they looked it up by my name. My birth date, 89701."
+      },
+      {
+        "id": 15,
+        "start": 65,
+        "end": 68,
+        "text": " 89701. And what's your name?"
+      },
+      {
+        "id": 16,
+        "start": 68,
+        "end": 71,
+        "text": " Frank Giardina."
+      },
+      {
+        "id": 17,
+        "start": 71,
+        "end": 77,
+        "text": " All right, Frank. I got you here. Okay. I don't know why they have a number of 530-545-0094."
+      },
+      {
+        "id": 18,
+        "start": 77,
+        "end": 80,
+        "text": " That's the number that I'm seeing."
+      },
+      {
+        "id": 19,
+        "start": 80,
+        "end": 87,
+        "text": " I see that there was a credit issue on your account, so it's probably going to be a couple of days before you see it in the mail."
+      },
+      {
+        "id": 20,
+        "start": 87,
+        "end": 93,
+        "text": " Both of those are refunded. You had two 6395s refunded back to you."
+      },
+      {
+        "id": 21,
+        "start": 93,
+        "end": 100,
+        "text": " So you should be getting that back on your card any day now because I see it was there."
+      },
+      {
+        "id": 22,
+        "start": 100,
+        "end": 105,
+        "text": " And it's going to go to them. Let me see what card it's going to go to so you know."
+      },
+      {
+        "id": 23,
+        "start": 105,
+        "end": 108,
+        "text": " Does it end with a 9427?"
+      },
+      {
+        "id": 24,
+        "start": 108,
+        "end": 113,
+        "text": " No, but I'll tell you right now, I have to go to a different screen for that. Okay?"
+      },
+      {
+        "id": 25,
+        "start": 113,
+        "end": 115,
+        "text": " Uh-huh."
+      },
+      {
+        "id": 26,
+        "start": 115,
+        "end": 139,
+        "text": " I don't have it off. The number's not running. Yes, it is still."
+      },
+      {
+        "id": 27,
+        "start": 139,
+        "end": 146,
+        "text": " I'm seeing it on my bank card. I'm looking back to the 23rd here, but you guys didn't get it until yesterday."
+      },
+      {
+        "id": 28,
+        "start": 146,
+        "end": 152,
+        "text": " Yeah, we got it yesterday. It's going to take about at least two to three days before you see it, if that's the case,"
+      },
+      {
+        "id": 29,
+        "start": 152,
+        "end": 156,
+        "text": " because they've got to upgrade it. But I do see that it was credited back on the system."
+      },
+      {
+        "id": 30,
+        "start": 156,
+        "end": 162,
+        "text": " It was actually refunded today. I see it was refunded today on the 28th."
+      },
+      {
+        "id": 31,
+        "start": 163,
+        "end": 166,
+        "text": " And so you should see that it was for November and January orders,"
+      },
+      {
+        "id": 32,
+        "start": 166,
+        "end": 170,
+        "text": " and you should see that on your card within the next two to three days. Okay?"
+      },
+      {
+        "id": 33,
+        "start": 170,
+        "end": 173,
+        "text": " All right. I'll keep an eye out for it. Thanks, Jimmy."
+      },
+      {
+        "id": 34,
+        "start": 173,
+        "end": 175,
+        "text": " Not a problem. Take care."
+      },
+      {
+        "id": 35,
+        "start": 175,
+        "end": 177,
+        "text": " You too. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8191-b45e-f6f6cc1f3c84",
+    "url": "https://www.notion.so/300000001221604-300000001711376-2f611d0a101c8191b45ef6f6cc1f3c84"
+  },
+  "processedAt": "2026-01-28T22:25:22.797Z"
+}

@@ -1,0 +1,350 @@
+{
+  "recording": {
+    "name": "300000001221145-300000001711056-7154975685 by jessie@superbalife.com @ 11_30_12 AM.wav",
+    "size": 376800,
+    "modifyTime": 1769628863000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221145-300000001711056-7154975685 by jessie@superbalife.com @ 11_30_12 AM.wav",
+    "uploadDate": "2026-01-28T19:34:23.000Z",
+    "callId": "300000001221145-300000001711056",
+    "agent": "jessie",
+    "phoneNumber": "7154975685",
+    "callTimestamp": "2026-01-28T11:30:12.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra. My name is Jessie. Can I get your first and last?\n\nSpeaker 2: Dan O'Donoghue.\n\nSpeaker 1: Okay, perfect. Mr. O'Donoghue. Can I get your zip code?\n\nSpeaker 2: 54729.\n\nSpeaker 1: Okay, perfect.\n\nSpeaker 2: Are you still at 7925 85th Avenue in Chippewa Falls, Wisconsin?\n\nSpeaker 1: That is correct.\n\nSpeaker 2: All right, super. Let's take a look here and it says here you wanted to cancel your refills, is that it?\n\nSpeaker 1: Yep.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Now this was set for just once every six months and that's just to keep your prescription active.\n\nSpeaker 2: There is 25 still too many. If you'd like, we can keep the same program.\n\nSpeaker 1: But reduce the number of pills that you get so it keeps your prescription active to just get one refill at the end of six—\n\nSpeaker 2: months.\n\nSpeaker 1: And when would the next one be due?\n\nSpeaker 2: The next one won't be until—\n\nSpeaker 1: July 30th, the end of July.\n\nSpeaker 2: And then if 25 is too many, we can reduce it to 10 pills if you want to do that as well.\n\nSpeaker 1: Great, you're saying July is the next one. But does that count the one that I have that I'm assuming is coming now?\n\nSpeaker 2: Yeah, exactly. So the one now is for January, so January plus six months is July, which is the seventh month.\n\nSpeaker 1: The end of, okay.\n\nSpeaker 2: What is my total—\n\nSpeaker 1: bill for—\n\nSpeaker 2: January?\n\nSpeaker 1: That one is 25 pills and that's $113.95. If you want to reduce it to 10 pills, meaning for some people—\n\nSpeaker 2: It's like 25 pills is just too much. If you want to do it for 10 pills, that's $63.95.\n\nSpeaker 1: I'm just gonna, yeah, I'm just gonna go ahead and cancel for now.\n\nSpeaker 2: If we do cancel though—\n\nSpeaker 1: The prescription, it sounds kind of crazy.\n\nSpeaker 2: But we can't refill the prescription or place any orders in the future. If you'd like, I can reduce the 10 pills to 49 for—\n\nSpeaker 1: you to keep your prescription active. Do you want to do that instead?\n\nSpeaker 2: What do you mean reduce it to 49?\n\nSpeaker 1: Because the pharmacy has their own separate fee which is $14.95. That's what, you know, that's what increases that cost.\n\nSpeaker 2: I can set it to where you get one refill. If you don't order anything between now and July, you get one refill of 10—\n\nSpeaker 1: pills for 49 instead of $63.95.\n\nSpeaker 2: And we'll waive that pharmacy fee for you.\n\nSpeaker 1: So that would be $49 due today.\n\nSpeaker 2: No, not due today, in July.\n\nSpeaker 1: Well, what about the one that's going to be due today? Oh—\n\nSpeaker 2: That one's already gone out because that one charged on the 27th.\n\nSpeaker 1: And that was for how much?\n\nSpeaker 2: $113.95. I'm setting up your future one so that way you don't have to. It's not as hefty.\n\nSpeaker 1: Right. Is there any way to recall today's?\n\nSpeaker 2: This one is already—\n\nSpeaker 1: I—\n\nSpeaker 2: can certainly try, but I can't make any guarantees because this was charged yesterday.\n\nSpeaker 1: But what I can do is fix up the future one so that way it's 10 pills for 49.\n\nSpeaker 2: Now let's just go ahead and cancel everything, and if you can cancel today's, I'd appreciate it.\n\nSpeaker 1: Okay. All right, so it has been canceled.\n\nSpeaker 2: We'll see what we can do with the recent one.\n\nSpeaker 1: But like I said, it was charged yesterday and it's shipped out, so well, I don't know what I can do with that one.\n\nSpeaker 2: All right.\n\nSpeaker 1: Bear in mind you can't place any orders in the future, okay?\n\nSpeaker 2: Sure.\n\nSpeaker 1: Have a good day.\n\nSpeaker 2: Bye. Bye.",
+    "duration": 10576,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.360000133514404,
+        "text": " Hi, thank you so much for calling Viagra. My name is Jessie. Can I get your first and last?"
+      },
+      {
+        "id": 1,
+        "start": 6.920000076293945,
+        "end": 8.920000076293945,
+        "text": " Dan O'Donoghue"
+      },
+      {
+        "id": 2,
+        "start": 9.399999618530273,
+        "end": 12.640000343322754,
+        "text": " Okay, perfect. Mr. O'Donoghue. Can I get your zip code?"
+      },
+      {
+        "id": 3,
+        "start": 13.720000267028809,
+        "end": 15.720000267028809,
+        "text": " 5 4 7 2 9"
+      },
+      {
+        "id": 4,
+        "start": 16.15999984741211,
+        "end": 17.84000015258789,
+        "text": " Okay, perfect"
+      },
+      {
+        "id": 5,
+        "start": 17.84000015258789,
+        "end": 22.799999237060547,
+        "text": " Are you still at 7 9 2 5 85th Avenue in Chippewa Falls, Wisconsin?"
+      },
+      {
+        "id": 6,
+        "start": 23.399999618530273,
+        "end": 24.84000015258789,
+        "text": " That is correct"
+      },
+      {
+        "id": 7,
+        "start": 24.84000015258789,
+        "end": 31.68000030517578,
+        "text": " All right, super, let's take a look here and it says here you wanted to cancel your your refills, is that it?"
+      },
+      {
+        "id": 8,
+        "start": 32.31999969482422,
+        "end": 34.31999969482422,
+        "text": " Yep"
+      },
+      {
+        "id": 9,
+        "start": 34.36000061035156,
+        "end": 36.36000061035156,
+        "text": " Okay"
+      },
+      {
+        "id": 10,
+        "start": 39.2400016784668,
+        "end": 45.31999969482422,
+        "text": " Now this was set for just once every six months and that's just to keep your prescription active"
+      },
+      {
+        "id": 11,
+        "start": 46.119998931884766,
+        "end": 50.47999954223633,
+        "text": " There is 25 still too many if you'd like I can we can keep the same program"
+      },
+      {
+        "id": 12,
+        "start": 50.47999954223633,
+        "end": 56.2400016784668,
+        "text": " But reduce the number of pills that you get so it keeps your prescription active to just get one refill at the end of six"
+      },
+      {
+        "id": 13,
+        "start": 56.2400016784668,
+        "end": 57.599998474121094,
+        "text": " months"
+      },
+      {
+        "id": 14,
+        "start": 57.599998474121094,
+        "end": 59.599998474121094,
+        "text": " And when would the next one be due?"
+      },
+      {
+        "id": 15,
+        "start": 60.31999969482422,
+        "end": 62.439998626708984,
+        "text": " the next one won't be until"
+      },
+      {
+        "id": 16,
+        "start": 63.400001525878906,
+        "end": 65.4000015258789,
+        "text": " July 30th the end of July"
+      },
+      {
+        "id": 17,
+        "start": 67.36000061035156,
+        "end": 72.27999877929688,
+        "text": " And then you want if 25 is too many we can reduce it to 10 pills if you want to do that as well"
+      },
+      {
+        "id": 18,
+        "start": 72.91999816894531,
+        "end": 78.76000213623047,
+        "text": " Great, you're saying July is the next one. But does that count one that I have that I'm assuming is coming now"
+      },
+      {
+        "id": 19,
+        "start": 79.4000015258789,
+        "end": 86.72000122070312,
+        "text": " Yeah, exactly so the one now is for January so January plus six months is July which is the seventh month"
+      },
+      {
+        "id": 20,
+        "start": 86.95999908447266,
+        "end": 88.72000122070312,
+        "text": " The end of okay"
+      },
+      {
+        "id": 21,
+        "start": 88.72000122070312,
+        "end": 90.72000122070312,
+        "text": " What is my total?"
+      },
+      {
+        "id": 22,
+        "start": 90.83999633789062,
+        "end": 92.83999633789062,
+        "text": " bill for"
+      },
+      {
+        "id": 23,
+        "start": 93.91999816894531,
+        "end": 95.72000122070312,
+        "text": " January"
+      },
+      {
+        "id": 24,
+        "start": 95.72000122070312,
+        "end": 102.5999984741211,
+        "text": " That one is 25 pills and that's 113 95 if you want to reduce it to 10 pills meaning for some people"
+      },
+      {
+        "id": 25,
+        "start": 102.5999984741211,
+        "end": 108,
+        "text": " It's like 25 pills just too much if you want to do it for 10 pills. That's 63 95"
+      },
+      {
+        "id": 26,
+        "start": 109.63999938964844,
+        "end": 114.12000274658203,
+        "text": " I'm just gonna yeah, I'm just gonna go ahead and cancel for now"
+      },
+      {
+        "id": 27,
+        "start": 115.44000244140625,
+        "end": 117.44000244140625,
+        "text": " If we do cancel though"
+      },
+      {
+        "id": 28,
+        "start": 118.31999969482422,
+        "end": 120.72000122070312,
+        "text": " The prescription it sounds kind of crazy"
+      },
+      {
+        "id": 29,
+        "start": 120.72000122070312,
+        "end": 126.87999725341797,
+        "text": " But we can't read up the prescription or place any orders in the future if you'd like I can reduce the 10 pills to 49 for"
+      },
+      {
+        "id": 30,
+        "start": 126.87999725341797,
+        "end": 130.39999389648438,
+        "text": " You to keep your prescription active. Do you want to do that instead?"
+      },
+      {
+        "id": 31,
+        "start": 131.67999267578125,
+        "end": 133.67999267578125,
+        "text": " What do you mean reduce it to 49?"
+      },
+      {
+        "id": 32,
+        "start": 134.67999267578125,
+        "end": 141.52000427246094,
+        "text": " Because the pharmacy has their own separate fee which is 1495 that's what you know, that's what increases that cost"
+      },
+      {
+        "id": 33,
+        "start": 141.52000427246094,
+        "end": 148.60000610351562,
+        "text": " I can set it to where you get one refill if you don't order anything between now and July you get one refill of 10"
+      },
+      {
+        "id": 34,
+        "start": 148.60000610351562,
+        "end": 150.8800048828125,
+        "text": " pills for 49 instead of 63 95"
+      },
+      {
+        "id": 35,
+        "start": 153.67999267578125,
+        "end": 155.8000030517578,
+        "text": " And we'll waive that pharmacy fee for you"
+      },
+      {
+        "id": 36,
+        "start": 158.44000244140625,
+        "end": 161.1999969482422,
+        "text": " So that would be $49 due today"
+      },
+      {
+        "id": 37,
+        "start": 161.8800048828125,
+        "end": 163.8800048828125,
+        "text": " No, not due today in July"
+      },
+      {
+        "id": 38,
+        "start": 165.75999450683594,
+        "end": 168.44000244140625,
+        "text": " Well, what about the one that's going to be due today oh"
+      },
+      {
+        "id": 39,
+        "start": 169.27999877929688,
+        "end": 173.52000427246094,
+        "text": " That one's already gone out because that one's on that one charged on the 27th"
+      },
+      {
+        "id": 40,
+        "start": 174.36000061035156,
+        "end": 176.36000061035156,
+        "text": " And that was for how much?"
+      },
+      {
+        "id": 41,
+        "start": 177.52000427246094,
+        "end": 183.27999877929688,
+        "text": " 113 95 I'm setting up your future one. So that way you don't have to it's not as it's not as hefty"
+      },
+      {
+        "id": 42,
+        "start": 183.8800048828125,
+        "end": 186.32000732421875,
+        "text": " Right. Is there any way to recall today's?"
+      },
+      {
+        "id": 43,
+        "start": 188.83999633789062,
+        "end": 190.83999633789062,
+        "text": " This one is already"
+      },
+      {
+        "id": 44,
+        "start": 192.1999969482422,
+        "end": 194.1999969482422,
+        "text": " I"
+      },
+      {
+        "id": 45,
+        "start": 194.52000427246094,
+        "end": 198.44000244140625,
+        "text": " Can certainly try but I can't make any guarantees because this was charged yesterday"
+      },
+      {
+        "id": 46,
+        "start": 199.32000732421875,
+        "end": 203.83999633789062,
+        "text": " But what I can do is fix up the the future one. So that way it's 10 pills for 49"
+      },
+      {
+        "id": 47,
+        "start": 205.44000244140625,
+        "end": 213.36000061035156,
+        "text": " Now let's just go ahead and cancel everything and if you can cancel today's I'd appreciate it. Okay. All right, so it has been canceled"
+      },
+      {
+        "id": 48,
+        "start": 214.55999755859375,
+        "end": 216.47999572753906,
+        "text": " We'll see what we can do with the recent one"
+      },
+      {
+        "id": 49,
+        "start": 216.47999572753906,
+        "end": 221.16000366210938,
+        "text": " But like I said, it was charged yesterday and it's shipped out. So well, I don't know what I can do with that one"
+      },
+      {
+        "id": 50,
+        "start": 221.44000244140625,
+        "end": 223.44000244140625,
+        "text": " All right"
+      },
+      {
+        "id": 51,
+        "start": 223.60000610351562,
+        "end": 226.47999572753906,
+        "text": " Bear in mind you can't place any orders in the future. Okay?"
+      },
+      {
+        "id": 52,
+        "start": 227.39999389648438,
+        "end": 228.60000610351562,
+        "text": " Sure"
+      },
+      {
+        "id": 53,
+        "start": 228.60000610351562,
+        "end": 230.60000610351562,
+        "text": " Have a good day. Bye. Bye"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-811a-ba70-dc3fde26719d",
+    "url": "https://www.notion.so/300000001221145-300000001711056-2f611d0a101c811aba70dc3fde26719d"
+  },
+  "processedAt": "2026-01-28T23:46:51.804Z"
+}

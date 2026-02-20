@@ -1,0 +1,122 @@
+{
+  "recording": {
+    "name": "300000001220696-300000001710772-8635812368 by michelleh@superbalife.com @ 9_26_10 AM.wav",
+    "size": 111990,
+    "modifyTime": 1769621249000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220696-300000001710772-8635812368 by michelleh@superbalife.com @ 9_26_10 AM.wav",
+    "uploadDate": "2026-01-28T17:27:29.000Z",
+    "callId": "300000001220696-300000001710772",
+    "agent": "michelleh",
+    "phoneNumber": "8635812368",
+    "callTimestamp": "2026-01-28T09:26:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Oh yes, I've been waiting on an order for quite a while now.\n\nSpeaker 1: Let me help you out. Okay. All right, Russell, can you just confirm your date of birth?\n\nSpeaker 2: Well, 2560.\n\nSpeaker 1: Thank you so much. I see your VIP status. Can you say I'm pulling up tracking? Moving through network in transit to—\n\nSpeaker 2: Next facility arriving late.\n\nSpeaker 1: Wait, what day did they send it out?\n\nSpeaker 2: I think that snowstorm is slowing it down.\n\nSpeaker 1: Okay, hold on.\n\nSpeaker 2: Okay, give it another two days and if you don't get it, give us a—\n\nSpeaker 1: Call and then we can send you out a replacement.\n\nSpeaker 2: Okay, all right. Yeah, give it two more days and if you don't—\n\nSpeaker 1: Get it, give us a call. We can send you out a replacement. I think it just got a little slowed down because of the storms.\n\nSpeaker 2: Okay. All right.\n\nSpeaker 1: All right. All right. All right. All right, Russell. Have a good day.\n\nSpeaker 2: Bye.",
+    "duration": 3005,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.799999952316284,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 2.799999952316284,
+        "end": 6.960000038146973,
+        "text": " Oh yes, I've been waiting on an order for quite a while now."
+      },
+      {
+        "id": 2,
+        "start": 6.960000038146973,
+        "end": 12.079999923706055,
+        "text": " Let me help you out. Okay. All right, Russell, can you just confirm your date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 12.079999923706055,
+        "end": 17.200000762939453,
+        "text": " Well, 2560. Thank you so much. I see your VIP status. Can you say I'm pulling up"
+      },
+      {
+        "id": 4,
+        "start": 17.200000762939453,
+        "end": 21.360000610351562,
+        "text": " tracking? Moving through network in transit to"
+      },
+      {
+        "id": 5,
+        "start": 21.360000610351562,
+        "end": 25.440000534057617,
+        "text": " next facility arriving late."
+      },
+      {
+        "id": 6,
+        "start": 25.760000228881836,
+        "end": 29.200000762939453,
+        "text": " Wait, what day did they send it out?"
+      },
+      {
+        "id": 7,
+        "start": 30.239999771118164,
+        "end": 36.2400016784668,
+        "text": " I think that snowstorm is slowing it down."
+      },
+      {
+        "id": 8,
+        "start": 36.2400016784668,
+        "end": 38.959999084472656,
+        "text": " Okay, hold on."
+      },
+      {
+        "id": 9,
+        "start": 41.36000061035156,
+        "end": 45.20000076293945,
+        "text": " Okay, give it another two days and if you don't get it, give us a"
+      },
+      {
+        "id": 10,
+        "start": 45.20000076293945,
+        "end": 49.040000915527344,
+        "text": " call and then we can send you out a replacement."
+      },
+      {
+        "id": 11,
+        "start": 49.040000915527344,
+        "end": 54.79999923706055,
+        "text": " Okay, all right. Yeah, give it two more days and if you don't"
+      },
+      {
+        "id": 12,
+        "start": 54.79999923706055,
+        "end": 58.15999984741211,
+        "text": " get it, give us a call. We can send you out a replacement. I think it just got a"
+      },
+      {
+        "id": 13,
+        "start": 58.15999984741211,
+        "end": 63.68000030517578,
+        "text": " little slowed down because of the storms. Okay. All right."
+      },
+      {
+        "id": 14,
+        "start": 63.68000030517578,
+        "end": 67.19999694824219,
+        "text": " All right. All right. All right. All right, Russell. Have a good day."
+      },
+      {
+        "id": 15,
+        "start": 67.19999694824219,
+        "end": 70.72000122070312,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-812d-9b5f-d41d2f37025a",
+    "url": "https://www.notion.so/300000001220696-300000001710772-2f611d0a101c812d9b5fd41d2f37025a"
+  },
+  "processedAt": "2026-01-28T18:29:20.178Z"
+}

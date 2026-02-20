@@ -1,0 +1,38 @@
+{
+  "recording": {
+    "name": "300000001219467-300000001709526-8557194751 by nickh@superbalife.com @ 11_26_42 AM.wav",
+    "size": 17546,
+    "modifyTime": 1769586136000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219467-300000001709526-8557194751 by nickh@superbalife.com @ 11_26_42 AM.wav",
+    "uploadDate": "2026-01-28T07:42:16.000Z",
+    "callId": "300000001219467-300000001709526",
+    "agent": "nickh",
+    "phoneNumber": "8557194751",
+    "callTimestamp": "2026-01-28T11:26:42.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra at Score Blue. How can I help you today?\n\nSpeaker 2: Uh, yes, I'd like to maybe put my prescription on hold for a while, sure.",
+    "duration": 1365,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.5999999046325684,
+        "text": " Hi, thank you so much for calling Viagra at score blue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 5.039999961853027,
+        "end": 10.640000343322754,
+        "text": " Uh, yes, I'd like to maybe put my uh prescription on hold for a while sure"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-818a-9623-eb14eda36aec",
+    "url": "https://www.notion.so/300000001219467-300000001709526-2f611d0a101c818a9623eb14eda36aec"
+  },
+  "processedAt": "2026-01-28T13:59:03.752Z"
+}

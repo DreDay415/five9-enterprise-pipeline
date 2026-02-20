@@ -1,0 +1,266 @@
+{
+  "recording": {
+    "name": "300000001217744-300000001707951-9196307620 by summer@verifiednutrition.com @ 11_30_20 AM.wav",
+    "size": 310240,
+    "modifyTime": 1769584038000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217744-300000001707951-9196307620 by summer@verifiednutrition.com @ 11_30_20 AM.wav",
+    "uploadDate": "2026-01-28T07:07:18.000Z",
+    "callId": "300000001217744-300000001707951",
+    "agent": "summer",
+    "phoneNumber": "9196307620",
+    "callTimestamp": "2026-01-28T11:30:20.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I'm trying to get my volume on here, I don't know why I can't hear you.\n\nSpeaker 2: Okay, can you hear me now?\n\nSpeaker 1: Yes, how can I help you?\n\nSpeaker 2: I've got an order that I placed.\n\nSpeaker 1: I'm trying to get to the right picture here.\n\nSpeaker 2: I've got an order ID number that I need to discuss with you first of all.\n\nSpeaker 1: Are you ready for the ID number?\n\nSpeaker 2: What's your name and birthday?\n\nSpeaker 1: Mark Harrison, 8-19-1959.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay, I have your account up.\n\nSpeaker 2: What were you trying to do?\n\nSpeaker 1: First of all, I placed an order for 20 of your pills.\n\nSpeaker 2: When I got ready to check out, a little thing popped up and said I could add 10 more pills for $29.40 or something like that.\n\nSpeaker 1: Which I checked the box and it got charged, both of those charges, $63.95 and $29.40 got charged to my American Express, or my Capital One card.\n\nSpeaker 2: Okay, so $63 plus the $29, uh-huh.\n\nSpeaker 1: Yeah, so the $63 was for 20 pills I think.\n\nSpeaker 2: No, 63 was for 10.\n\nSpeaker 1: $63 was for 10?\n\nSpeaker 2: Yes, sir.\n\nSpeaker 1: That's $6.39 for a pill.\n\nSpeaker 2: So it's $49 and then the pharmacy charges themselves, they charge $14.\n\nSpeaker 1: Okay, so for 20 pills I got charged $80.92.\n\nSpeaker 2: Is that what you're telling me?\n\nSpeaker 1: That's right.\n\nSpeaker 2: That seems pretty expensive.\n\nSpeaker 1: So I sent a thing back in, I wanted to cancel my subscription, I didn't know I was on a subscription until I started reading some reviews.\n\nSpeaker 2: And so I sent out a thing on email and requested to cancel my thing.\n\nSpeaker 1: They said to call this number and, you know, finish taking me off the list or whatever it is.\n\nSpeaker 2: I can't, I'm not buying.\n\nSpeaker 1: Sure, no problem. I went ahead and paused your account out so you won't get any monthly prescriptions.\n\nSpeaker 2: But if you decide to get this medication or any of the other medications, you can do so by calling in or placing an order online with the doctor.\n\nSpeaker 1: So you have effectively canceled my subscription more or less is what I want?\n\nSpeaker 2: Yeah, you won't get any subscription monthly.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Alrighty.\n\nSpeaker 1: Anything else I can assist you with?\n\nSpeaker 2: That's it for now.\n\nSpeaker 1: Alrighty. Have a wonderful day. Bye-bye.\n\nSpeaker 2: Thank you.",
+    "duration": 8100,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 12,
+        "text": " I'm trying to get my volume on here, I don't know why I can't hear you."
+      },
+      {
+        "id": 1,
+        "start": 12,
+        "end": 17,
+        "text": " Okay, can you hear me now?"
+      },
+      {
+        "id": 2,
+        "start": 17,
+        "end": 19,
+        "text": " Yes, how can I help you?"
+      },
+      {
+        "id": 3,
+        "start": 19,
+        "end": 24,
+        "text": " I've got an order that I placed."
+      },
+      {
+        "id": 4,
+        "start": 24,
+        "end": 27,
+        "text": " I'm trying to get to the right picture here."
+      },
+      {
+        "id": 5,
+        "start": 27,
+        "end": 32,
+        "text": " I've got an order ID number that I need to discuss with you first of all."
+      },
+      {
+        "id": 6,
+        "start": 32,
+        "end": 35,
+        "text": " Are you ready for the ID number?"
+      },
+      {
+        "id": 7,
+        "start": 35,
+        "end": 38,
+        "text": " What's your name and birthday?"
+      },
+      {
+        "id": 8,
+        "start": 38,
+        "end": 43,
+        "text": " Mark Harrison, 8-19-1959."
+      },
+      {
+        "id": 9,
+        "start": 43,
+        "end": 44,
+        "text": " Thank you."
+      },
+      {
+        "id": 10,
+        "start": 44,
+        "end": 45,
+        "text": " Okay, I have your account up."
+      },
+      {
+        "id": 11,
+        "start": 45,
+        "end": 47,
+        "text": " What were you trying to do?"
+      },
+      {
+        "id": 12,
+        "start": 48,
+        "end": 56,
+        "text": " First of all, I placed an order for 20 of your pills."
+      },
+      {
+        "id": 13,
+        "start": 56,
+        "end": 66,
+        "text": " When I got ready to check out, a little thing popped up and said I could add 10 more pills for $29.40 or something like that."
+      },
+      {
+        "id": 14,
+        "start": 67,
+        "end": 82,
+        "text": " Which I checked the box and it got charged, both of those charges, $63.95 and $29.40 got charged to my American Express, or my Capital One card."
+      },
+      {
+        "id": 15,
+        "start": 82,
+        "end": 87,
+        "text": " Okay, so $63 plus the $29, uh-huh."
+      },
+      {
+        "id": 16,
+        "start": 87,
+        "end": 93,
+        "text": " Yeah, so the $63 was for 20 pills I think."
+      },
+      {
+        "id": 17,
+        "start": 93,
+        "end": 95,
+        "text": " No, 63 was for 10."
+      },
+      {
+        "id": 18,
+        "start": 96,
+        "end": 98,
+        "text": " $63 was for 10?"
+      },
+      {
+        "id": 19,
+        "start": 98,
+        "end": 99,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 20,
+        "start": 101,
+        "end": 104,
+        "text": " That's $6.39 for a pill."
+      },
+      {
+        "id": 21,
+        "start": 104,
+        "end": 110,
+        "text": " So it's $49 and then the pharmacy charges themselves, they charge $14."
+      },
+      {
+        "id": 22,
+        "start": 112,
+        "end": 119,
+        "text": " Okay, so for 20 pills I got charged $80.92."
+      },
+      {
+        "id": 23,
+        "start": 121,
+        "end": 123,
+        "text": " Is that what you're telling me?"
+      },
+      {
+        "id": 24,
+        "start": 123,
+        "end": 124,
+        "text": " That's right."
+      },
+      {
+        "id": 25,
+        "start": 124,
+        "end": 126,
+        "text": " That seems pretty expensive."
+      },
+      {
+        "id": 26,
+        "start": 126,
+        "end": 135,
+        "text": " So I sent a thing back in, I wanted to cancel my subscription, I didn't know I was on a subscription until I started reading some reviews."
+      },
+      {
+        "id": 27,
+        "start": 135,
+        "end": 141,
+        "text": " And so I sent out a thing on email and requested to cancel my thing."
+      },
+      {
+        "id": 28,
+        "start": 141,
+        "end": 148,
+        "text": " They said to call this number and, you know, finish taking me off the list or whatever it is."
+      },
+      {
+        "id": 29,
+        "start": 148,
+        "end": 150,
+        "text": " I can't, I'm not buying."
+      },
+      {
+        "id": 30,
+        "start": 150,
+        "end": 156,
+        "text": " Sure, no problem. I went ahead and paused your account out so you won't get any monthly prescriptions."
+      },
+      {
+        "id": 31,
+        "start": 156,
+        "end": 163,
+        "text": " But if you decide to get this medication or any of the other medications, you can do so by calling in or placing an order online with the doctor."
+      },
+      {
+        "id": 32,
+        "start": 165,
+        "end": 169,
+        "text": " So you have effectively canceled my subscription more or less is what I want?"
+      },
+      {
+        "id": 33,
+        "start": 169,
+        "end": 172,
+        "text": " Yeah, you won't get any subscription monthly."
+      },
+      {
+        "id": 34,
+        "start": 174,
+        "end": 175,
+        "text": " Okay."
+      },
+      {
+        "id": 35,
+        "start": 175,
+        "end": 176,
+        "text": " Alrighty."
+      },
+      {
+        "id": 36,
+        "start": 176,
+        "end": 178,
+        "text": " Anything else I can assist you with?"
+      },
+      {
+        "id": 37,
+        "start": 178,
+        "end": 179,
+        "text": " That's it for now."
+      },
+      {
+        "id": 38,
+        "start": 179,
+        "end": 181,
+        "text": " Alrighty. Have a wonderful day. Bye-bye."
+      },
+      {
+        "id": 39,
+        "start": 181,
+        "end": 182,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81d3-8a5f-daca4967db3c",
+    "url": "https://www.notion.so/300000001217744-300000001707951-2f611d0a101c81d38a5fdaca4967db3c"
+  },
+  "processedAt": "2026-01-28T15:35:22.304Z"
+}

@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001218569-300000001708504-9175874771 by  @ 4_22_47 PM_CallStudio.wav",
+    "size": 32950,
+    "modifyTime": 1769584932000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218569-300000001708504-9175874771 by  @ 4_22_47 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T07:22:12.000Z",
+    "callId": "300000001218569-300000001708504",
+    "phoneNumber": "9175874771",
+    "callTimestamp": "2026-01-28T07:22:12.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Um, on a, there's a 100 milligrams, I got AGB.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 831,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 7,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 18.68000030517578,
+        "text": " Um, on a, there's a 100 milligrams, I got AGB."
+      },
+      {
+        "id": 4,
+        "start": 18.68000030517578,
+        "end": 19.920000076293945,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8122-a260-d1439a578fec",
+    "url": "https://www.notion.so/300000001218569-300000001708504-2f611d0a101c8122a260d1439a578fec"
+  },
+  "processedAt": "2026-01-28T14:47:54.959Z"
+}

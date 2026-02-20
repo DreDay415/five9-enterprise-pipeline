@@ -1,0 +1,230 @@
+{
+  "recording": {
+    "name": "300000001219550-300000001709584-8887955826 by nickh@superbalife.com @ 11_44_44 AM.wav",
+    "size": 195776,
+    "modifyTime": 1769587939000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219550-300000001709584-8887955826 by nickh@superbalife.com @ 11_44_44 AM.wav",
+    "uploadDate": "2026-01-28T08:12:19.000Z",
+    "callId": "300000001219550-300000001709584",
+    "agent": "nickh",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T11:44:44.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra at Score Blue.\n\nSpeaker 2: How can I help you today?\n\nSpeaker 1: Yes, prescription number 9620448.\n\nSpeaker 2: My name is Edward Carber, K-A-R-B-E-R.\n\nSpeaker 1: I need to have that prescription canceled.\n\nSpeaker 2: Okay, Edward, I can help you with that for sure.\n\nSpeaker 1: Can I just get your date of birth, please?\n\nSpeaker 2: 8-5-60.\n\nSpeaker 1: Okay, Edward, I'm looking at your script now.\n\nSpeaker 2: Looks like it was initially written back in April of 2025.\n\nSpeaker 1: 50 milligram Viagra.\n\nSpeaker 2: AGP, is that accurate?\n\nSpeaker 1: Yes.\n\nSpeaker 2: So I know the prescription was written with refills.\n\nSpeaker 1: That's how the doctor wrote with the low milligram dosage.\n\nSpeaker 2: It is perfectly adjustable, though.\n\nSpeaker 1: You're not required to get this monthly to keep it active.\n\nSpeaker 2: If you wanted, you could just pause this prescription,\n\nSpeaker 1: and that would allow you to call in and place orders as needed,\n\nSpeaker 2: and it keeps you active\n\nSpeaker 1: so you can have access to the four refills you have.\n\nSpeaker 2: Okay, no, for now, let's just cancel it.\n\nSpeaker 1: Okay, so upon cancellation,\n\nSpeaker 2: this would close out the prescription altogether.\n\nSpeaker 1: What that means is you do lose the current pricing for early 2025,\n\nSpeaker 2: so any future prescriptions\n\nSpeaker 1: could have potential price increases, okay?\n\nSpeaker 2: Absolutely.\n\nSpeaker 1: Okay, I'll go ahead and cancel that for you.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, so you're all set.\n\nSpeaker 2: Thank you so much.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Bye-bye.",
+    "duration": 5169,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.240000009536743,
+        "text": " Hi, thank you for calling Viagra at Score Blue."
+      },
+      {
+        "id": 1,
+        "start": 2.240000009536743,
+        "end": 4.739999771118164,
+        "text": " How can I help you today?"
+      },
+      {
+        "id": 2,
+        "start": 4.739999771118164,
+        "end": 16.459999084472656,
+        "text": " Yes, prescription number 9620448."
+      },
+      {
+        "id": 3,
+        "start": 16.459999084472656,
+        "end": 23.5,
+        "text": " My name is Edward Carber, K-A-R-B-E-R."
+      },
+      {
+        "id": 4,
+        "start": 23.5,
+        "end": 26.899999618530273,
+        "text": " I need to have that prescription canceled."
+      },
+      {
+        "id": 5,
+        "start": 26.899999618530273,
+        "end": 29.600000381469727,
+        "text": " Okay, Edward, I can help you with that for sure."
+      },
+      {
+        "id": 6,
+        "start": 29.600000381469727,
+        "end": 32.79999923706055,
+        "text": " Can I just get your date of birth, please?"
+      },
+      {
+        "id": 7,
+        "start": 32.79999923706055,
+        "end": 46.79999923706055,
+        "text": " 8-5-60."
+      },
+      {
+        "id": 8,
+        "start": 46.79999923706055,
+        "end": 49,
+        "text": " Okay, Edward, I'm looking at your script now."
+      },
+      {
+        "id": 9,
+        "start": 49,
+        "end": 51.900001525878906,
+        "text": " Looks like it was initially written back in April of 2025."
+      },
+      {
+        "id": 10,
+        "start": 51.900001525878906,
+        "end": 53.599998474121094,
+        "text": " 50 milligram Viagra."
+      },
+      {
+        "id": 11,
+        "start": 53.599998474121094,
+        "end": 57.599998474121094,
+        "text": " AGP, is that accurate?"
+      },
+      {
+        "id": 12,
+        "start": 58,
+        "end": 64,
+        "text": " Yes."
+      },
+      {
+        "id": 13,
+        "start": 64,
+        "end": 66.5999984741211,
+        "text": " So I know the prescription was written with refills."
+      },
+      {
+        "id": 14,
+        "start": 66.5999984741211,
+        "end": 69.5999984741211,
+        "text": " That's how the doctor wrote with the low milligram dosage."
+      },
+      {
+        "id": 15,
+        "start": 69.5999984741211,
+        "end": 71.80000305175781,
+        "text": " It is perfectly adjustable, though."
+      },
+      {
+        "id": 16,
+        "start": 71.80000305175781,
+        "end": 75.0999984741211,
+        "text": " You're not required to get this monthly to keep it active."
+      },
+      {
+        "id": 17,
+        "start": 75.0999984741211,
+        "end": 77.80000305175781,
+        "text": " If you wanted, you could just pause this prescription,"
+      },
+      {
+        "id": 18,
+        "start": 77.80000305175781,
+        "end": 80.9000015258789,
+        "text": " and that would allow you to call in and place orders as needed,"
+      },
+      {
+        "id": 19,
+        "start": 80.9000015258789,
+        "end": 84.9000015258789,
+        "text": " and it keeps you active"
+      },
+      {
+        "id": 20,
+        "start": 84.9000015258789,
+        "end": 90.4000015258789,
+        "text": " so you can have access to the four refills you have."
+      },
+      {
+        "id": 21,
+        "start": 90.4000015258789,
+        "end": 93.19999694824219,
+        "text": " Okay, no, for now, let's just cancel it."
+      },
+      {
+        "id": 22,
+        "start": 93.19999694824219,
+        "end": 95.19999694824219,
+        "text": " Okay, so upon cancellation,"
+      },
+      {
+        "id": 23,
+        "start": 95.19999694824219,
+        "end": 97.5,
+        "text": " this would close out the prescription altogether."
+      },
+      {
+        "id": 24,
+        "start": 97.5,
+        "end": 102.19999694824219,
+        "text": " What that means is you do lose the current pricing for early 2025,"
+      },
+      {
+        "id": 25,
+        "start": 102.19999694824219,
+        "end": 104.4000015258789,
+        "text": " so any future prescriptions"
+      },
+      {
+        "id": 26,
+        "start": 104.4000015258789,
+        "end": 108.4000015258789,
+        "text": " could have potential price increases, okay?"
+      },
+      {
+        "id": 27,
+        "start": 108.4000015258789,
+        "end": 109.5999984741211,
+        "text": " Absolutely."
+      },
+      {
+        "id": 28,
+        "start": 109.5999984741211,
+        "end": 112.80000305175781,
+        "text": " Okay, I'll go ahead and cancel that for you."
+      },
+      {
+        "id": 29,
+        "start": 112.9000015258789,
+        "end": 115.30000305175781,
+        "text": " Okay."
+      },
+      {
+        "id": 30,
+        "start": 115.30000305175781,
+        "end": 116.30000305175781,
+        "text": " All right, so you're all set."
+      },
+      {
+        "id": 31,
+        "start": 116.30000305175781,
+        "end": 118.19999694824219,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 32,
+        "start": 118.19999694824219,
+        "end": 119.5999984741211,
+        "text": " Thank you."
+      },
+      {
+        "id": 33,
+        "start": 119.5999984741211,
+        "end": 120.5999984741211,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81aa-9b0d-dd53ab5f9dbc",
+    "url": "https://www.notion.so/300000001219550-300000001709584-2f611d0a101c81aa9b0ddd53ab5f9dbc"
+  },
+  "processedAt": "2026-01-28T13:11:49.821Z"
+}

@@ -1,0 +1,326 @@
+{
+  "recording": {
+    "name": "300000001216869-300000001707342-5037340553 by michelleh@superbalife.com @ 8_16_17 AM.wav",
+    "size": 327466,
+    "modifyTime": 1769584630000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216869-300000001707342-5037340553 by michelleh@superbalife.com @ 8_16_17 AM.wav",
+    "uploadDate": "2026-01-28T07:17:10.000Z",
+    "callId": "300000001216869-300000001707342",
+    "agent": "michelleh",
+    "phoneNumber": "5037340553",
+    "callTimestamp": "2026-01-28T08:16:17.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Good morning. I got an order automatically. I submitted yesterday a cancellation order and I received a message.\n\nSpeaker 1: But I want to make sure you don't ship me through this order because I didn't request this order.\n\nSpeaker 2: Okay, Sam. I can help you out. Can you just confirm your date of birth?\n\nSpeaker 1: September 1, 1987.\n\nSpeaker 2: Thank you so much. I see you're a VIP status member. Yes, give me one second. I can cancel out this refill.\n\nSpeaker 1: Okay, perfect. I was able to cancel that out, so you'll be seeing $54.95 back on your credit card in about five business days or less.\n\nSpeaker 2: And I see you haven't tried the new Viagra AGV. You're just getting four of the 100 mg generic Viagras for $54.95.\n\nSpeaker 1: What I can do is, since you've been with us for a while, I can send you 10 of the 100 mg of the AGV for free to try.\n\nSpeaker 2: And then that would save you money if you like those in the future.\n\nSpeaker 1: The quantity of 10 of the AGV is only $63.95, and you're paying $55 for a quantity of four.\n\nSpeaker 2: So I can send you 10 for free if you want to give those a try.\n\nSpeaker 1: 10 for free?\n\nSpeaker 2: Huh?\n\nSpeaker 1: You said 10 for free?\n\nSpeaker 2: Yeah, I can send you 10 for free because you're a loyal customer.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, give me one second.\n\nSpeaker 1: So I'm going to send you 10 for free, and then what we can do is we can pause your automatic refills.\n\nSpeaker 2: You can pause them for up to six months. That way it keeps your profile open with the doctor and your prescription active.\n\nSpeaker 1: It just allows you to call in whenever you need a refill.\n\nSpeaker 2: So I'll send you these 10, and then we'll go ahead and pause you until July 31.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So this is the same like a quality for the same?\n\nSpeaker 1: Actually, yes.\n\nSpeaker 2: So this quality is a lot better than just the generics.\n\nSpeaker 1: It's Viagra's latest formula.\n\nSpeaker 2: So it's the inactive ingredients in this formula that makes it work faster,\n\nSpeaker 1: and it lasts longer for 14 hours and less side effects, especially less headaches.\n\nSpeaker 2: Okay, you can send it to me.\n\nSpeaker 1: I'll try for this one.\n\nSpeaker 2: What is the name for this one?\n\nSpeaker 1: It's the Pfizer's Viagra AGB.\n\nSpeaker 2: A is in Apple, G is in George, B is in Viagra, AGB.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, perfect.\n\nSpeaker 1: So I'm going to be shipping that out today, and then I'll pause your refills until July 31.\n\nSpeaker 2: It works after 30 minutes, the same like all the other ones?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Some people say they feel it kick in at about 11 to 15 minutes, but on the bottle it will say take one hour prior just to get the full results.\n\nSpeaker 1: But it does kick in a lot faster than the regular generic.\n\nSpeaker 2: Got it.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, you're all set.\n\nSpeaker 1: All right.\n\nSpeaker 2: All right, have a good day.\n\nSpeaker 1: You too.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Bye.",
+    "duration": 8808,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 11,
+        "text": " Good morning. I got an order automatically. I submitted yesterday a cancellation order and I received a message."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 16,
+        "text": " But I want to make sure you don't ship me through this order because I didn't request this order."
+      },
+      {
+        "id": 3,
+        "start": 16,
+        "end": 20,
+        "text": " Okay, Sam. I can help you out. Can you just confirm your date of birth?"
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 22,
+        "text": " September 1, 1987."
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 30,
+        "text": " Thank you so much. I see you're a VIP status member. Yes, give me one second. I can cancel out this refill."
+      },
+      {
+        "id": 6,
+        "start": 30,
+        "end": 40,
+        "text": " Okay, perfect. I was able to cancel that out, so you'll be seeing $54.95 back on your credit card in about five business days or less."
+      },
+      {
+        "id": 7,
+        "start": 40,
+        "end": 51,
+        "text": " And I see you haven't tried the new Viagra AGV. You're just getting four of the 100 mg generic Viagras for $54.95."
+      },
+      {
+        "id": 8,
+        "start": 51,
+        "end": 58,
+        "text": " What I can do is, since you've been with us for a while, I can send you 10 of the 100 mg of the AGV for free to try."
+      },
+      {
+        "id": 9,
+        "start": 58,
+        "end": 63,
+        "text": " And then that would save you money if you like those in the future."
+      },
+      {
+        "id": 10,
+        "start": 63,
+        "end": 71,
+        "text": " The quantity of 10 of the AGV is only $63.95, and you're paying $55 for a quantity of four."
+      },
+      {
+        "id": 11,
+        "start": 71,
+        "end": 74,
+        "text": " So I can send you 10 for free if you want to give those a try."
+      },
+      {
+        "id": 12,
+        "start": 74,
+        "end": 76,
+        "text": " 10 for free?"
+      },
+      {
+        "id": 13,
+        "start": 76,
+        "end": 78,
+        "text": " Huh?"
+      },
+      {
+        "id": 14,
+        "start": 78,
+        "end": 80,
+        "text": " You said 10 for free?"
+      },
+      {
+        "id": 15,
+        "start": 80,
+        "end": 83,
+        "text": " Yeah, I can send you 10 for free because you're a loyal customer."
+      },
+      {
+        "id": 16,
+        "start": 83,
+        "end": 85,
+        "text": " Okay."
+      },
+      {
+        "id": 17,
+        "start": 85,
+        "end": 88,
+        "text": " Okay, give me one second."
+      },
+      {
+        "id": 18,
+        "start": 88,
+        "end": 94,
+        "text": " So I'm going to send you 10 for free, and then what we can do is we can pause your automatic refills."
+      },
+      {
+        "id": 19,
+        "start": 94,
+        "end": 101,
+        "text": " You can pause them for up to six months. That way it keeps your profile open with the doctor and your prescription active."
+      },
+      {
+        "id": 20,
+        "start": 101,
+        "end": 104,
+        "text": " It just allows you to call in whenever you need a refill."
+      },
+      {
+        "id": 21,
+        "start": 104,
+        "end": 110,
+        "text": " So I'll send you these 10, and then we'll go ahead and pause you until July 31."
+      },
+      {
+        "id": 22,
+        "start": 110,
+        "end": 112,
+        "text": " Okay."
+      },
+      {
+        "id": 23,
+        "start": 112,
+        "end": 119,
+        "text": " So this is the same like a quality for the same?"
+      },
+      {
+        "id": 24,
+        "start": 119,
+        "end": 120,
+        "text": " Actually, yes."
+      },
+      {
+        "id": 25,
+        "start": 120,
+        "end": 123,
+        "text": " So this quality is a lot better than just the generics."
+      },
+      {
+        "id": 26,
+        "start": 123,
+        "end": 125,
+        "text": " It's Viagra's latest formula."
+      },
+      {
+        "id": 27,
+        "start": 125,
+        "end": 130,
+        "text": " So it's the inactive ingredients in this formula that makes it work faster,"
+      },
+      {
+        "id": 28,
+        "start": 131,
+        "end": 135,
+        "text": " and it lasts longer for 14 hours and less side effects, especially less headaches."
+      },
+      {
+        "id": 29,
+        "start": 135,
+        "end": 138,
+        "text": " Okay, you can send it to me."
+      },
+      {
+        "id": 30,
+        "start": 138,
+        "end": 140,
+        "text": " I'll try for this one."
+      },
+      {
+        "id": 31,
+        "start": 140,
+        "end": 142,
+        "text": " What is the name for this one?"
+      },
+      {
+        "id": 32,
+        "start": 142,
+        "end": 145,
+        "text": " It's the Pfizer's Viagra AGB."
+      },
+      {
+        "id": 33,
+        "start": 145,
+        "end": 153,
+        "text": " A is in Apple, G is in George, B is in Viagra, AGB."
+      },
+      {
+        "id": 34,
+        "start": 153,
+        "end": 155,
+        "text": " Okay."
+      },
+      {
+        "id": 35,
+        "start": 155,
+        "end": 157,
+        "text": " All right, perfect."
+      },
+      {
+        "id": 36,
+        "start": 157,
+        "end": 162,
+        "text": " So I'm going to be shipping that out today, and then I'll pause your refills until July 31."
+      },
+      {
+        "id": 37,
+        "start": 162,
+        "end": 166,
+        "text": " It's work after 30 minutes, the same like all the other ones?"
+      },
+      {
+        "id": 38,
+        "start": 166,
+        "end": 167,
+        "text": " Yes."
+      },
+      {
+        "id": 39,
+        "start": 167,
+        "end": 174,
+        "text": " Some people say they feel it kick in at about 11 to 15 minutes, but on the bottle it will say take one hour prior just to get the full results."
+      },
+      {
+        "id": 40,
+        "start": 174,
+        "end": 178,
+        "text": " But it does kick in a lot faster than the regular generic."
+      },
+      {
+        "id": 41,
+        "start": 178,
+        "end": 179,
+        "text": " Got it."
+      },
+      {
+        "id": 42,
+        "start": 179,
+        "end": 180,
+        "text": " Okay."
+      },
+      {
+        "id": 43,
+        "start": 180,
+        "end": 182,
+        "text": " All right, you're all set."
+      },
+      {
+        "id": 44,
+        "start": 182,
+        "end": 184,
+        "text": " All right."
+      },
+      {
+        "id": 45,
+        "start": 184,
+        "end": 186,
+        "text": " All right, have a good day."
+      },
+      {
+        "id": 46,
+        "start": 186,
+        "end": 187,
+        "text": " You too."
+      },
+      {
+        "id": 47,
+        "start": 187,
+        "end": 188,
+        "text": " Thank you."
+      },
+      {
+        "id": 48,
+        "start": 188,
+        "end": 189,
+        "text": " Bye."
+      },
+      {
+        "id": 49,
+        "start": 189,
+        "end": 190,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8135-b3c0-c3d26ffe1e65",
+    "url": "https://www.notion.so/300000001216869-300000001707342-2f611d0a101c8135b3c0c3d26ffe1e65"
+  },
+  "processedAt": "2026-01-28T15:08:21.640Z"
+}

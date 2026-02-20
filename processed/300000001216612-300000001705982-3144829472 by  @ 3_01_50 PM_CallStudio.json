@@ -1,0 +1,97 @@
+{
+  "recording": {
+    "name": "300000001216612-300000001705982-3144829472 by  @ 3_01_50 PM_CallStudio.wav",
+    "size": 56480,
+    "modifyTime": 1769590639000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216612-300000001705982-3144829472 by  @ 3_01_50 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T08:57:19.000Z",
+    "callId": "300000001216612-300000001705982",
+    "phoneNumber": "3144829472",
+    "callTimestamp": "2026-01-28T08:57:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para español marque número nueve.\n\nSpeaker 2: Receal.\n\nSpeaker 1: This is a natural language AI.\n\nSpeaker 2: Just say what you would like to do.\n\nSpeaker 1: For example, track an order or send me to the billing department.\n\nSpeaker 2: Let's try again.\n\nSpeaker 1: Please state the reason for your call.\n\nSpeaker 2: Receal.\n\nSpeaker 1: I heard you say Lucio.\n\nSpeaker 2: Receal.",
+    "duration": 1622,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.079999923706055,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.079999923706055,
+        "end": 6.079999923706055,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.079999923706055,
+        "end": 9.079999923706055,
+        "text": " Para espanol marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.079999923706055,
+        "end": 11.579999923706055,
+        "text": " Receal."
+      },
+      {
+        "id": 4,
+        "start": 11.579999923706055,
+        "end": 14.319999694824219,
+        "text": " This is a natural language AI."
+      },
+      {
+        "id": 5,
+        "start": 14.319999694824219,
+        "end": 16.440000534057617,
+        "text": " Just say what you would like to do."
+      },
+      {
+        "id": 6,
+        "start": 16.440000534057617,
+        "end": 21,
+        "text": " For example, track an order or send me to the billing department."
+      },
+      {
+        "id": 7,
+        "start": 21,
+        "end": 22.540000915527344,
+        "text": " Let's try again."
+      },
+      {
+        "id": 8,
+        "start": 22.540000915527344,
+        "end": 25.8799991607666,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 9,
+        "start": 25.8799991607666,
+        "end": 29.719999313354492,
+        "text": " Receal."
+      },
+      {
+        "id": 10,
+        "start": 29.719999313354492,
+        "end": 32.040000915527344,
+        "text": " I heard you say Lucio."
+      },
+      {
+        "id": 11,
+        "start": 32.040000915527344,
+        "end": 33.400001525878906,
+        "text": " Receal."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-815d-916d-f704038e5183",
+    "url": "https://www.notion.so/300000001216612-300000001705982-2f611d0a101c815d916df704038e5183"
+  },
+  "processedAt": "2026-01-28T12:05:37.154Z"
+}

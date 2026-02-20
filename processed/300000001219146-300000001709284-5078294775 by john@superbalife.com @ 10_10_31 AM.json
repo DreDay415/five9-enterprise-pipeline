@@ -1,0 +1,92 @@
+{
+  "recording": {
+    "name": "300000001219146-300000001709284-5078294775 by john@superbalife.com @ 10_10_31 AM.wav",
+    "size": 140980,
+    "modifyTime": 1769582239000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219146-300000001709284-5078294775 by john@superbalife.com @ 10_10_31 AM.wav",
+    "uploadDate": "2026-01-28T06:37:19.000Z",
+    "callId": "300000001219146-300000001709284",
+    "agent": "john",
+    "phoneNumber": "5078294775",
+    "callTimestamp": "2026-01-28T10:10:31.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling, this is John. How can I help you today?\n\nSpeaker 2: Yes, I'd like to place an order.\n\nSpeaker 1: No problem. Have you ordered with us before? Is this your first time?\n\nSpeaker 2: No, I've ordered once before.\n\nSpeaker 1: Okay, your name and zip code, please.\n\nSpeaker 2: Curtis Fairchild.\n\nSpeaker 1: What else did you want? The zip, please.\n\nSpeaker 2: Oh, 56220.\n\nSpeaker 1: Thank you, sir. Yeah, 804 Lyon Avenue North. Yes. You want to do the same thing you got the last time, 40 of the 100 milligrams?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Last question for you, do you want me to use the same Visa card that ends in 0171?\n\nSpeaker 2: No.\n\nSpeaker 1: Yeah, use that one, yeah.\n\nSpeaker 2: Okay. What is the price now?\n\nSpeaker 1: It's the same, it was the same as before. You paid 163, it's the same price.\n\nSpeaker 2: Okay.\n\nSpeaker 1: You're all set though, Curtis. Your order did go through successfully, so we're all set. This will ship out in a day or two.\n\nSpeaker 2: Alrighty, thank you very much.\n\nSpeaker 1: You're welcome, sir. Enjoy your day.\n\nSpeaker 2: You too.",
+    "duration": 3312,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.880000114440918,
+        "text": " Thank you for calling, this is John. How can I help you today? Yes, I'd like to"
+      },
+      {
+        "id": 1,
+        "start": 4.880000114440918,
+        "end": 8.880000114440918,
+        "text": " place an order. No problem. Have you ordered with us before? Is this your"
+      },
+      {
+        "id": 2,
+        "start": 8.880000114440918,
+        "end": 15.680000305175781,
+        "text": " first time? No, I've ordered once before. Okay, your name and zip code, please."
+      },
+      {
+        "id": 3,
+        "start": 15.680000305175781,
+        "end": 28,
+        "text": " Curtis Fairchild. What else did you want? The zip, please. Oh, 56220. Thank you, sir."
+      },
+      {
+        "id": 4,
+        "start": 30,
+        "end": 43,
+        "text": " Yeah, 804 Lyon Avenue North. Yes. You want to do the same thing you got the last"
+      },
+      {
+        "id": 5,
+        "start": 43,
+        "end": 50.47999954223633,
+        "text": " time, 40 of the 100 milligrams? Yes. Last question for you, do you want me to use"
+      },
+      {
+        "id": 6,
+        "start": 50.47999954223633,
+        "end": 67.5999984741211,
+        "text": " the same Visa card that ends in 0171? No. Yeah, use that one, yeah. Okay. What is the"
+      },
+      {
+        "id": 7,
+        "start": 67.5999984741211,
+        "end": 72.23999786376953,
+        "text": " price now? It's the same, it was the same as before. You paid 163, it's the same"
+      },
+      {
+        "id": 8,
+        "start": 72.23999786376953,
+        "end": 77.63999938964844,
+        "text": " price. Okay. You're all set though, Curtis. Your order did go through successfully, so"
+      },
+      {
+        "id": 9,
+        "start": 77.63999938964844,
+        "end": 82.23999786376953,
+        "text": " we're all set. This will ship out in a day or two. Alrighty, thank you very much."
+      },
+      {
+        "id": 10,
+        "start": 82.23999786376953,
+        "end": 87.63999938964844,
+        "text": " You're welcome, sir. Enjoy your day. You too."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8178-9b86-ffcab1f0b761",
+    "url": "https://www.notion.so/300000001219146-300000001709284-2f611d0a101c81789b86ffcab1f0b761"
+  },
+  "processedAt": "2026-01-28T17:16:52.797Z"
+}

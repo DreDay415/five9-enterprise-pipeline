@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001219521-300000001709593-9032430642 by  @ 11_40_46 AM_CallStudio.wav",
+    "size": 38150,
+    "modifyTime": 1769591540000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219521-300000001709593-9032430642 by  @ 11_40_46 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:12:20.000Z",
+    "callId": "300000001219521-300000001709593",
+    "phoneNumber": "9032430642",
+    "callTimestamp": "2026-01-28T09:12:20.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I wanted to, this is Daniel G. Wilson, and I wanted to cancel my order on store blue for now.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1793,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.320000171661377,
+        "end": 6.78000020980835,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.099999904632568,
+        "end": 8.579999923706055,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 10.220000267028809,
+        "end": 19.780000686645508,
+        "text": " I wanted to, this is Daniel G. Wilson, and I wanted to cancel my order on store blue for now."
+      },
+      {
+        "id": 4,
+        "start": 21.719999313354492,
+        "end": 22.959999084472656,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81fd-bfdf-e211ea103817",
+    "url": "https://www.notion.so/300000001219521-300000001709593-2f611d0a101c81fdbfdfe211ea103817"
+  },
+  "processedAt": "2026-01-28T11:28:46.785Z"
+}

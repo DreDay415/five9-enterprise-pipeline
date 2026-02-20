@@ -1,0 +1,182 @@
+{
+  "recording": {
+    "name": "300000001219446-300000001709505-9146026645 by lucif@superbalife.com @ 11_18_56 AM.wav",
+    "size": 177120,
+    "modifyTime": 1769585829000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219446-300000001709505-9146026645 by lucif@superbalife.com @ 11_18_56 AM.wav",
+    "uploadDate": "2026-01-28T07:37:09.000Z",
+    "callId": "300000001219446-300000001709505",
+    "agent": "lucif",
+    "phoneNumber": "9146026645",
+    "callTimestamp": "2026-01-28T11:18:56.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, good afternoon. I'm calling to cancel a prescription.\n\nSpeaker 2: Alright, give me a moment. Let me pull up your account.\n\nSpeaker 1: What's your zip code?\n\nSpeaker 2: It's 10507.\n\nSpeaker 1: 10507?\n\nSpeaker 2: Correct.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: What was your first and last name?\n\nSpeaker 1: First name John, last name Vargas, V-A-R-G-A-S.\n\nSpeaker 2: Okie dokie. I do see you are a VIP with us here, sir. Do you mind if I ask why you're canceling?\n\nSpeaker 1: Um, because I have a heart condition and doctor told me I can't be on anything.\n\nSpeaker 2: Oh, wow. Um, okay.\n\nSpeaker 1: Yeah, so.\n\nSpeaker 2: That's concerning.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Alright, and um, this isn't something that should be cleared for in the future?\n\nSpeaker 1: Because we can always just not bill you or send you this for, I mean, like a half a year.\n\nSpeaker 2: It could be like six months.\n\nSpeaker 1: Um, well, as of right now, nothing.\n\nSpeaker 2: Yeah, I know. That's why I'm saying, like, you know, six months down the line.\n\nSpeaker 1: Yeah, um, yeah, I just thought I'd just completely stay off of it until he says anything different.\n\nSpeaker 2: Alright, well, can't see you out, man. Anything else?\n\nSpeaker 1: Oh, that's basically it.\n\nSpeaker 2: Alright, well, you have a good day. You're canceled.\n\nSpeaker 1: Thanks, man. You too. Have a good day.\n\nSpeaker 2: Thank you.",
+    "duration": 3723,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 12,
+        "text": " Hey, good afternoon. I'm calling to cancel a prescription."
+      },
+      {
+        "id": 1,
+        "start": 12,
+        "end": 16,
+        "text": " Alright, give me a moment. Let me pull up your account."
+      },
+      {
+        "id": 2,
+        "start": 16,
+        "end": 26,
+        "text": " What's your zip code?"
+      },
+      {
+        "id": 3,
+        "start": 26,
+        "end": 32,
+        "text": " It's 10507."
+      },
+      {
+        "id": 4,
+        "start": 32,
+        "end": 35,
+        "text": " 10507?"
+      },
+      {
+        "id": 5,
+        "start": 35,
+        "end": 37,
+        "text": " Correct."
+      },
+      {
+        "id": 6,
+        "start": 37,
+        "end": 44,
+        "text": " Thank you."
+      },
+      {
+        "id": 7,
+        "start": 44,
+        "end": 46,
+        "text": " What was your first and last name?"
+      },
+      {
+        "id": 8,
+        "start": 46,
+        "end": 51,
+        "text": " First name John, last name Vargas, V-A-R-G-A-S."
+      },
+      {
+        "id": 9,
+        "start": 52,
+        "end": 58,
+        "text": " Okie dokie. I do see you are a VIP with us here, sir. Do you mind if I ask why you're canceling?"
+      },
+      {
+        "id": 10,
+        "start": 58,
+        "end": 66,
+        "text": " Um, because I have a heart condition and doctor told me I can't be on anything."
+      },
+      {
+        "id": 11,
+        "start": 66,
+        "end": 68,
+        "text": " Oh, wow. Um, okay."
+      },
+      {
+        "id": 12,
+        "start": 68,
+        "end": 70,
+        "text": " Yeah, so."
+      },
+      {
+        "id": 13,
+        "start": 70,
+        "end": 72,
+        "text": " That's concerning."
+      },
+      {
+        "id": 14,
+        "start": 72,
+        "end": 73,
+        "text": " Yeah."
+      },
+      {
+        "id": 15,
+        "start": 73,
+        "end": 76,
+        "text": " Alright, and um, this isn't something that should be cleared for in the future?"
+      },
+      {
+        "id": 16,
+        "start": 76,
+        "end": 80,
+        "text": " Because we can always just not bill you or send you this for, I mean, like a half a year."
+      },
+      {
+        "id": 17,
+        "start": 80,
+        "end": 82,
+        "text": " It could be like six months."
+      },
+      {
+        "id": 18,
+        "start": 82,
+        "end": 86,
+        "text": " Um, well, as of right now, nothing."
+      },
+      {
+        "id": 19,
+        "start": 86,
+        "end": 90,
+        "text": " Yeah, I know. That's why I'm saying, like, you know, six months down the line."
+      },
+      {
+        "id": 20,
+        "start": 90,
+        "end": 99,
+        "text": " Yeah, um, yeah, I just thought I'd just completely stay off of it until he says anything different."
+      },
+      {
+        "id": 21,
+        "start": 99,
+        "end": 102,
+        "text": " Alright, well, can't see you out, man. Anything else?"
+      },
+      {
+        "id": 22,
+        "start": 102,
+        "end": 104,
+        "text": " Oh, that's basically it."
+      },
+      {
+        "id": 23,
+        "start": 104,
+        "end": 106,
+        "text": " Alright, well, you have a good day. You're canceled."
+      },
+      {
+        "id": 24,
+        "start": 106,
+        "end": 108,
+        "text": " Thanks, man. You too. Have a good day."
+      },
+      {
+        "id": 25,
+        "start": 108,
+        "end": 110,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-818e-9028-c6ce1dcb38f9",
+    "url": "https://www.notion.so/300000001219446-300000001709505-2f611d0a101c818e9028c6ce1dcb38f9"
+  },
+  "processedAt": "2026-01-28T14:16:45.733Z"
+}

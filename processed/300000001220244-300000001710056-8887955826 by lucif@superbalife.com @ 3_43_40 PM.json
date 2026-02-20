@@ -1,0 +1,260 @@
+{
+  "recording": {
+    "name": "300000001220244-300000001710056-8887955826 by lucif@superbalife.com @ 3_43_40 PM.wav",
+    "size": 180630,
+    "modifyTime": 1769557553000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220244-300000001710056-8887955826 by lucif@superbalife.com @ 3_43_40 PM.wav",
+    "uploadDate": "2026-01-27T23:45:53.000Z",
+    "callId": "300000001220244-300000001710056",
+    "agent": "lucif",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-27T15:43:40.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra Quinn speaking.\n\nSpeaker 2: How can I help you?\n\nSpeaker 1: Yes, this is Alfred Shoshani.\n\nSpeaker 2: I ordered from you guys back in December,\n\nSpeaker 1: and I just received another shipment, which I never requested.\n\nSpeaker 2: And so I like, I don't know why you guys keep on sending this to me.\n\nSpeaker 1: So can you look it up and let me know what I need to do?\n\nSpeaker 2: What's your zip code?\n\nSpeaker 1: Hello? Zip code is 90049.\n\nSpeaker 2: What's your first and last name?\n\nSpeaker 1: First name is Fred, F-R-E-D.\n\nSpeaker 2: Last name is S-H-O-S-H-A-N-I.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Do you need the address?\n\nSpeaker 1: No. So your order does have refills, but you can choose when you get them.\n\nSpeaker 2: And you just have to set that up with your first purchase, whether you want it as needed\n\nSpeaker 1: or, you know, let us know when you want your orders to come out.\n\nSpeaker 2: If you don't do that, it will kind of come out this way, how the doctor writes it.\n\nSpeaker 1: Okay. You can go ahead and cancel the refill.\n\nSpeaker 2: So I don't need them anymore.\n\nSpeaker 1: So you don't want to order as needed?\n\nSpeaker 2: No.\n\nSpeaker 1: Okay. And you do understand that your prescription will be canceled\n\nSpeaker 2: and you won't be able to reorder, right?\n\nSpeaker 1: Oh, no. So go ahead, put me on as needed.\n\nSpeaker 2: So if I need it, I can call you guys back.\n\nSpeaker 1: Correct. Yes.\n\nSpeaker 2: So we'll just make your prescription available for you.\n\nSpeaker 1: Okay. All right.\n\nSpeaker 2: We'll do that for you now, sir.\n\nSpeaker 1: I do appreciate it.\n\nSpeaker 2: Anything else you need?\n\nSpeaker 1: That should do it, sir.\n\nSpeaker 2: All right.\n\nSpeaker 1: Thank you so much.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Have a great day.\n\nSpeaker 2: You too, sir.\n\nSpeaker 1: All right. Bye.",
+    "duration": 5968,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.5199999809265137,
+        "text": " Thanks for calling Viagra Quinn speaking."
+      },
+      {
+        "id": 1,
+        "start": 3.5199999809265137,
+        "end": 4.159999847412109,
+        "text": " How can I help you?"
+      },
+      {
+        "id": 2,
+        "start": 5.639999866485596,
+        "end": 7.800000190734863,
+        "text": " Yes, this is Alfred Shoshani."
+      },
+      {
+        "id": 3,
+        "start": 8.239999771118164,
+        "end": 11.960000038146973,
+        "text": " I ordered from you guys back in December,"
+      },
+      {
+        "id": 4,
+        "start": 12.5,
+        "end": 19.079999923706055,
+        "text": " and I just received another shipment, which I never requested."
+      },
+      {
+        "id": 5,
+        "start": 19.079999923706055,
+        "end": 24.65999984741211,
+        "text": " And so I like, I don't know why you guys are keep on sending this to me."
+      },
+      {
+        "id": 6,
+        "start": 25.18000030517578,
+        "end": 28.040000915527344,
+        "text": " So can you look it up and let me know what I need to do?"
+      },
+      {
+        "id": 7,
+        "start": 30.3799991607666,
+        "end": 31.1200008392334,
+        "text": " What's your zip code?"
+      },
+      {
+        "id": 8,
+        "start": 31.34000015258789,
+        "end": 34.81999969482422,
+        "text": " Hello? Zip code is 90049."
+      },
+      {
+        "id": 9,
+        "start": 34.81999969482422,
+        "end": 39.13999938964844,
+        "text": " What's your first and last name?"
+      },
+      {
+        "id": 10,
+        "start": 39.91999816894531,
+        "end": 43.279998779296875,
+        "text": " First name is Fred, F-R-E-D."
+      },
+      {
+        "id": 11,
+        "start": 43.279998779296875,
+        "end": 46.31999969482422,
+        "text": " Last name is S-H-O-S-H-A-N-I."
+      },
+      {
+        "id": 12,
+        "start": 46.31999969482422,
+        "end": 46.900001525878906,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 46.900001525878906,
+        "end": 48.86000061035156,
+        "text": " Do you need the address?"
+      },
+      {
+        "id": 14,
+        "start": 49.560001373291016,
+        "end": 53.31999969482422,
+        "text": " No. So your order does have refills, but you can choose when you get them."
+      },
+      {
+        "id": 15,
+        "start": 53.31999969482422,
+        "end": 58.08000183105469,
+        "text": " And you just have to set that up with your first purchase, whether you like want it as needed"
+      },
+      {
+        "id": 16,
+        "start": 58.08000183105469,
+        "end": 61.15999984741211,
+        "text": " or, you know, let us know when you want your orders to come out."
+      },
+      {
+        "id": 17,
+        "start": 61.15999984741211,
+        "end": 65.12000274658203,
+        "text": " If you don't do that, it will kind of come out this way, how the doctor writes it."
+      },
+      {
+        "id": 18,
+        "start": 66.31999969482422,
+        "end": 71,
+        "text": " Okay. You can go ahead and cancel the refill."
+      },
+      {
+        "id": 19,
+        "start": 71.27999877929688,
+        "end": 73.30000305175781,
+        "text": " So I don't need them anymore."
+      },
+      {
+        "id": 20,
+        "start": 74.08000183105469,
+        "end": 75.80000305175781,
+        "text": " So you don't want to order as needed?"
+      },
+      {
+        "id": 21,
+        "start": 76.76000213623047,
+        "end": 77,
+        "text": " No."
+      },
+      {
+        "id": 22,
+        "start": 78.80000305175781,
+        "end": 81.83999633789062,
+        "text": " Okay. And you do understand that your prescription will be canceled"
+      },
+      {
+        "id": 23,
+        "start": 81.83999633789062,
+        "end": 83,
+        "text": " and you won't be able to reorder, right?"
+      },
+      {
+        "id": 24,
+        "start": 83.87999725341797,
+        "end": 86.83999633789062,
+        "text": " Oh, no. So go ahead, put me on as needed."
+      },
+      {
+        "id": 25,
+        "start": 86.83999633789062,
+        "end": 88.95999908447266,
+        "text": " So if I need it, I can call you guys back."
+      },
+      {
+        "id": 26,
+        "start": 89.16000366210938,
+        "end": 89.87999725341797,
+        "text": " Correct. Yes."
+      },
+      {
+        "id": 27,
+        "start": 89.87999725341797,
+        "end": 91.95999908447266,
+        "text": " So we'll just make your prescription available for you."
+      },
+      {
+        "id": 28,
+        "start": 92.5199966430664,
+        "end": 94.04000091552734,
+        "text": " Okay. All right."
+      },
+      {
+        "id": 29,
+        "start": 94.04000091552734,
+        "end": 95.08000183105469,
+        "text": " We'll do that for you now, sir."
+      },
+      {
+        "id": 30,
+        "start": 96.44000244140625,
+        "end": 97.63999938964844,
+        "text": " I do appreciate it."
+      },
+      {
+        "id": 31,
+        "start": 98.19999694824219,
+        "end": 98.91999816894531,
+        "text": " Anything else you need?"
+      },
+      {
+        "id": 32,
+        "start": 100.31999969482422,
+        "end": 101.23999786376953,
+        "text": " That should do it, sir."
+      },
+      {
+        "id": 33,
+        "start": 101.27999877929688,
+        "end": 101.63999938964844,
+        "text": " All right."
+      },
+      {
+        "id": 34,
+        "start": 101.68000030517578,
+        "end": 102.5999984741211,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 35,
+        "start": 103,
+        "end": 103.5199966430664,
+        "text": " You're welcome."
+      },
+      {
+        "id": 36,
+        "start": 103.5199966430664,
+        "end": 104,
+        "text": " Have a great day."
+      },
+      {
+        "id": 37,
+        "start": 105.12000274658203,
+        "end": 105.68000030517578,
+        "text": " You too, sir."
+      },
+      {
+        "id": 38,
+        "start": 106.36000061035156,
+        "end": 106.80000305175781,
+        "text": " All right. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8119-8f5f-f27f66949bbd",
+    "url": "https://www.notion.so/300000001220244-300000001710056-2f611d0a101c81198f5ff27f66949bbd"
+  },
+  "processedAt": "2026-01-28T17:51:44.118Z"
+}

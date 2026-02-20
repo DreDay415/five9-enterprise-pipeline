@@ -1,0 +1,164 @@
+{
+  "recording": {
+    "name": "300000001219833-300000001709781-2036677234 by summer@verifiednutrition.com @ 1_11_56 PM.wav",
+    "size": 87486,
+    "modifyTime": 1769592445000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219833-300000001709781-2036677234 by summer@verifiednutrition.com @ 1_11_56 PM.wav",
+    "uploadDate": "2026-01-28T09:27:25.000Z",
+    "callId": "300000001219833-300000001709781",
+    "agent": "summer",
+    "phoneNumber": "2036677234",
+    "callTimestamp": "2026-01-28T13:11:56.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Customer Service, how can I help you?\n\nSpeaker 2: Hi, how are you doing?\n\nSpeaker 1: Listen, I got a prescription, I don't know, a few weeks back.\n\nSpeaker 2: I just got another one yesterday.\n\nSpeaker 1: I no longer need the prescription anymore,\n\nSpeaker 2: and I didn't know that they were going to keep sending it to me every\n\nSpeaker 1: whatever, so many weeks.\n\nSpeaker 2: I'd like to cancel this prescription so they don't keep charging me.\n\nSpeaker 1: Okay.\n\nSpeaker 1: Let me pull up your account.\n\nSpeaker 1: Can I have your name and birthday?\n\nSpeaker 2: Yeah, my name is Silvio Polini, and my birthday is 10-12-1960.\n\nSpeaker 1: Okay.\n\nSpeaker 1: Alrighty, I'm just going to pause out your account so that your\n\nSpeaker 2: prescription stays active with the doctor, but you won't get any monthlies.\n\nSpeaker 1: You can call in to place an order.\n\nSpeaker 2: No, I don't need it anymore.\n\nSpeaker 1: I won't be needing it.\n\nSpeaker 2: You can just cancel me right now.\n\nSpeaker 1: I won't be calling you ever again.\n\nSpeaker 2: Okay, no problem.\n\nSpeaker 1: I went ahead and canceled you out.\n\nSpeaker 2: Okay, thank you.",
+    "duration": 3633,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Customer Service, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 5,
+        "text": " Hi, how are you doing?"
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 11,
+        "text": " Listen, I got a prescription, I don't know, a few weeks back."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 13,
+        "text": " I just got another one yesterday."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 15,
+        "text": " I no longer need the prescription anymore,"
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 20,
+        "text": " and I didn't know that they were going to keep sending it to me every"
+      },
+      {
+        "id": 6,
+        "start": 20,
+        "end": 22,
+        "text": " whatever, so many weeks."
+      },
+      {
+        "id": 7,
+        "start": 22,
+        "end": 25,
+        "text": " I'd like to cancel this prescription so they don't keep charging me."
+      },
+      {
+        "id": 8,
+        "start": 25,
+        "end": 26,
+        "text": " Okay."
+      },
+      {
+        "id": 9,
+        "start": 26,
+        "end": 27,
+        "text": " Let me pull up your account."
+      },
+      {
+        "id": 10,
+        "start": 27,
+        "end": 29,
+        "text": " Can I have your name and birthday?"
+      },
+      {
+        "id": 11,
+        "start": 29,
+        "end": 36,
+        "text": " Yeah, my name is Silvio Polini, and my birthday is 10-12-1960."
+      },
+      {
+        "id": 12,
+        "start": 36,
+        "end": 37,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 37,
+        "end": 39,
+        "text": " Alrighty, I'm just going to pause out your account so that your"
+      },
+      {
+        "id": 14,
+        "start": 39,
+        "end": 42,
+        "text": " prescription stays active with the doctor, but you won't get any monthlies."
+      },
+      {
+        "id": 15,
+        "start": 42,
+        "end": 44,
+        "text": " You can call in to place an order."
+      },
+      {
+        "id": 16,
+        "start": 44,
+        "end": 45,
+        "text": " No, I don't need it anymore."
+      },
+      {
+        "id": 17,
+        "start": 45,
+        "end": 46,
+        "text": " I won't be needing it."
+      },
+      {
+        "id": 18,
+        "start": 46,
+        "end": 47,
+        "text": " You can just cancel me right now."
+      },
+      {
+        "id": 19,
+        "start": 47,
+        "end": 49,
+        "text": " I won't be calling you ever again."
+      },
+      {
+        "id": 20,
+        "start": 49,
+        "end": 50,
+        "text": " Okay, no problem."
+      },
+      {
+        "id": 21,
+        "start": 50,
+        "end": 52,
+        "text": " I went ahead and canceled you out."
+      },
+      {
+        "id": 22,
+        "start": 52,
+        "end": 53,
+        "text": " Okay, thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a6-8030-e69ccbcca0ec",
+    "url": "https://www.notion.so/300000001219833-300000001709781-2f611d0a101c81a68030e69ccbcca0ec"
+  },
+  "processedAt": "2026-01-28T10:19:28.760Z"
+}

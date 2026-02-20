@@ -1,0 +1,362 @@
+{
+  "recording": {
+    "name": "300000001216977-300000001707352-3154360203 by olivier@superbalife.com @ 8_41_10 AM.wav",
+    "size": 305170,
+    "modifyTime": 1769587334000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216977-300000001707352-3154360203 by olivier@superbalife.com @ 8_41_10 AM.wav",
+    "uploadDate": "2026-01-28T08:02:14.000Z",
+    "callId": "300000001216977-300000001707352",
+    "agent": "olivier",
+    "phoneNumber": "3154360203",
+    "callTimestamp": "2026-01-28T08:41:10.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi. Hi, this is Viagra.\n\nSpeaker 2: Hello.\n\nSpeaker 1: How we doing, sir?\n\nSpeaker 2: I'm doing all right. How are you?\n\nSpeaker 1: Good. Mr. Eric Trippani?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Syracuse, New York?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Yes. Well, I see you have a prescription from Dr. Tariq for Viagra 50 mg from Pfizer.\n\nSpeaker 2: How can I help you, Mr. Trippani?\n\nSpeaker 1: I was calling to cancel the order.\n\nSpeaker 2: Any health concern, or you just don't need refill for a while?\n\nSpeaker 1: Send me a refill.\n\nSpeaker 2: Okay. I mean, you can pause and just reorder as needed moving forward.\n\nSpeaker 1: So, I can advise the pharmacy to stop the monthly moving forward, and you can just reorder.\n\nSpeaker 2: Usually, they pause you up to half a year, and then, you know, you can get your refill once or twice a year,\n\nSpeaker 1: but not every month or every other month, basically.\n\nSpeaker 2: Yeah. I just don't have the need for them at this point, so I want to cancel.\n\nSpeaker 1: Yeah. I can advise them to pause, so you can just reorder when you need them.\n\nSpeaker 2: I tell them that you're not active. Usually, we advise pharmacy based on your need.\n\nSpeaker 1: When you call, you know, if you don't need pill, there is no point to send you pill if you have some pill left.\n\nSpeaker 2: So, I can let them know for you, and they just will pause you so you can just reorder.\n\nSpeaker 1: So, that way, you lock your price in, but you don't just receive no refill because you don't need it at the moment.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: You see what I'm saying?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Yeah. So, let me advise the pharmacy for you, and you can just call to reorder.\n\nSpeaker 2: Okay.\n\nSpeaker 1: And you don't have to get 25. You can get 10. You can get 10 pills.\n\nSpeaker 2: You know, you don't necessarily have to get 25 pills every time, too.\n\nSpeaker 1: Sure.\n\nSpeaker 2: Alright.\n\nSpeaker 1: So, can you send that in an email that you're just putting it on hold until I'm ready to order? Is that something we can confirm that way?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Yeah. They're going to pause you for half a year, and you can just reorder. Okay?\n\nSpeaker 2: Okay.\n\nSpeaker 1: And then, you think in the future, you think that 25 is a good quantity for you, or you want to decrease?\n\nSpeaker 2: I'm not sure at this point.\n\nSpeaker 1: You're not sure? Okay.\n\nSpeaker 2: Yeah, because I have plenty now. I don't need any more.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Yeah. Go ahead.\n\nSpeaker 2: I had reached out before, like about a month, two months ago, and asked to stop the order.\n\nSpeaker 1: But I just saw that the process began.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay. You know, I see. I'm going to stop. I'm going to stop right now.\n\nSpeaker 2: I advise the pharmacy to stop, and the account will be paused for half a year. Okay?\n\nSpeaker 1: Alright.\n\nSpeaker 2: Anything you might need, Mr. Tripani?\n\nSpeaker 1: No, all set.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Yeah. Thank you for calling us, and you have a good one. And call us to reorder.\n\nSpeaker 2: Thank you. I will.\n\nSpeaker 1: You're welcome. Bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 6782,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi. Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 3.5,
+        "end": 4.5,
+        "text": " Hello."
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 6,
+        "text": " How we doing, sir?"
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 8,
+        "text": " I'm doing all right. How are you?"
+      },
+      {
+        "id": 4,
+        "start": 8.5,
+        "end": 10.5,
+        "text": " Good. Mr. Eric Trippani?"
+      },
+      {
+        "id": 5,
+        "start": 11.5,
+        "end": 12.5,
+        "text": " Yes."
+      },
+      {
+        "id": 6,
+        "start": 13,
+        "end": 14,
+        "text": " Syracuse, New York?"
+      },
+      {
+        "id": 7,
+        "start": 14.5,
+        "end": 15.5,
+        "text": " Yes."
+      },
+      {
+        "id": 8,
+        "start": 16,
+        "end": 22,
+        "text": " Yes. Well, I see you have a prescription from Dr. Tariq for Viagra 50 mg from Pfizer."
+      },
+      {
+        "id": 9,
+        "start": 22,
+        "end": 24,
+        "text": " How can I help you, Mr. Trippani?"
+      },
+      {
+        "id": 10,
+        "start": 24.5,
+        "end": 26.5,
+        "text": " I was calling to cancel the order."
+      },
+      {
+        "id": 11,
+        "start": 27.5,
+        "end": 31.5,
+        "text": " Any health concern, or you just don't need refill for a while?"
+      },
+      {
+        "id": 12,
+        "start": 32.5,
+        "end": 33.5,
+        "text": " Send me a refill."
+      },
+      {
+        "id": 13,
+        "start": 34.5,
+        "end": 38.5,
+        "text": " Okay. I mean, you can pause and just reorder as needed moving forward."
+      },
+      {
+        "id": 14,
+        "start": 38.5,
+        "end": 45.5,
+        "text": " So, I can advise the pharmacy to stop the monthly moving forward, and you can just reorder."
+      },
+      {
+        "id": 15,
+        "start": 45.5,
+        "end": 51.5,
+        "text": " Usually, they pause you up to half a year, and then, you know, you can get your refill once or twice a year,"
+      },
+      {
+        "id": 16,
+        "start": 51.5,
+        "end": 54.5,
+        "text": " but not every month or every other month, basically."
+      },
+      {
+        "id": 17,
+        "start": 55.5,
+        "end": 61.5,
+        "text": " Yeah. I just don't have the need for them at this point, so I want to cancel."
+      },
+      {
+        "id": 18,
+        "start": 61.5,
+        "end": 65.5,
+        "text": " Yeah. I can advise them to pause, so you can just reorder when you need them."
+      },
+      {
+        "id": 19,
+        "start": 68.5,
+        "end": 72.5,
+        "text": " I tell them that you're not active. Usually, we advise pharmacy based on your need."
+      },
+      {
+        "id": 20,
+        "start": 72.5,
+        "end": 78.5,
+        "text": " When you call, you know, if you don't need pill, there is no point to send you pill if you have some pill left."
+      },
+      {
+        "id": 21,
+        "start": 78.5,
+        "end": 83.5,
+        "text": " So, I can let them know for you, and they just will pause you so you can just reorder."
+      },
+      {
+        "id": 22,
+        "start": 83.5,
+        "end": 88.5,
+        "text": " So, that way, you lock your price in, but you don't just receive no refill because you don't need it at the moment."
+      },
+      {
+        "id": 23,
+        "start": 89.5,
+        "end": 90.5,
+        "text": " Yeah."
+      },
+      {
+        "id": 24,
+        "start": 90.5,
+        "end": 91.5,
+        "text": " You see what I'm saying?"
+      },
+      {
+        "id": 25,
+        "start": 92.5,
+        "end": 93.5,
+        "text": " Yes."
+      },
+      {
+        "id": 26,
+        "start": 93.5,
+        "end": 98.5,
+        "text": " Yeah. So, let me advise the pharmacy for you, and you can just call to reorder."
+      },
+      {
+        "id": 27,
+        "start": 100.5,
+        "end": 101.5,
+        "text": " Okay."
+      },
+      {
+        "id": 28,
+        "start": 101.5,
+        "end": 106.5,
+        "text": " And you don't have to get 25. You can get 10. You can get 10 pills."
+      },
+      {
+        "id": 29,
+        "start": 106.5,
+        "end": 109.5,
+        "text": " You know, you don't necessarily have to get 25 pills every time, too."
+      },
+      {
+        "id": 30,
+        "start": 110.5,
+        "end": 111.5,
+        "text": " Sure."
+      },
+      {
+        "id": 31,
+        "start": 113.5,
+        "end": 114.5,
+        "text": " Alright."
+      },
+      {
+        "id": 32,
+        "start": 114.5,
+        "end": 120.5,
+        "text": " So, can you send that in an email that you're just putting it on hold until I'm ready to order? Is that something we can confirm that way?"
+      },
+      {
+        "id": 33,
+        "start": 120.5,
+        "end": 121.5,
+        "text": " Yeah."
+      },
+      {
+        "id": 34,
+        "start": 121.5,
+        "end": 125.5,
+        "text": " Yeah. They're going to pause you for half a year, and you can just reorder. Okay?"
+      },
+      {
+        "id": 35,
+        "start": 125.5,
+        "end": 126.5,
+        "text": " Okay."
+      },
+      {
+        "id": 36,
+        "start": 128.5,
+        "end": 134.5,
+        "text": " And then, you think in the future, you think that 25 is a good quantity for you, or you want to decrease?"
+      },
+      {
+        "id": 37,
+        "start": 135.5,
+        "end": 137.5,
+        "text": " I'm not sure at this point."
+      },
+      {
+        "id": 38,
+        "start": 137.5,
+        "end": 139.5,
+        "text": " You're not sure? Okay."
+      },
+      {
+        "id": 39,
+        "start": 139.5,
+        "end": 142.5,
+        "text": " Yeah, because I have plenty now. I don't need any more."
+      },
+      {
+        "id": 40,
+        "start": 143.5,
+        "end": 144.5,
+        "text": " Okay."
+      },
+      {
+        "id": 41,
+        "start": 144.5,
+        "end": 145.5,
+        "text": " Yeah."
+      },
+      {
+        "id": 42,
+        "start": 146.5,
+        "end": 147.5,
+        "text": " Yeah. Go ahead."
+      },
+      {
+        "id": 43,
+        "start": 147.5,
+        "end": 153.5,
+        "text": " I had reached out before, like about a month, two months ago, and asked to stop the order."
+      },
+      {
+        "id": 44,
+        "start": 153.5,
+        "end": 155.5,
+        "text": " But I just saw that the process began."
+      },
+      {
+        "id": 45,
+        "start": 157.5,
+        "end": 158.5,
+        "text": " Okay."
+      },
+      {
+        "id": 46,
+        "start": 158.5,
+        "end": 161.5,
+        "text": " Okay. You know, I see. I'm going to stop. I'm going to stop right now."
+      },
+      {
+        "id": 47,
+        "start": 161.5,
+        "end": 165.5,
+        "text": " I advise the pharmacy to stop, and the account will be paused for half a year. Okay?"
+      },
+      {
+        "id": 48,
+        "start": 168.5,
+        "end": 169.5,
+        "text": " Alright."
+      },
+      {
+        "id": 49,
+        "start": 170.5,
+        "end": 172.5,
+        "text": " Anything you might need, Mr. Tripani?"
+      },
+      {
+        "id": 50,
+        "start": 173.5,
+        "end": 174.5,
+        "text": " No, all set."
+      },
+      {
+        "id": 51,
+        "start": 175.5,
+        "end": 176.5,
+        "text": " Okay."
+      },
+      {
+        "id": 52,
+        "start": 176.5,
+        "end": 180.5,
+        "text": " Yeah. Thank you for calling us, and you have a good one. And call us to reorder."
+      },
+      {
+        "id": 53,
+        "start": 181.5,
+        "end": 182.5,
+        "text": " Thank you. I will."
+      },
+      {
+        "id": 54,
+        "start": 183.5,
+        "end": 184.5,
+        "text": " You're welcome. Bye-bye."
+      },
+      {
+        "id": 55,
+        "start": 185.5,
+        "end": 186.5,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81d9-b42f-d397ab51bb6b",
+    "url": "https://www.notion.so/300000001216977-300000001707352-2f611d0a101c81d9b42fd397ab51bb6b"
+  },
+  "processedAt": "2026-01-28T13:23:52.217Z"
+}

@@ -1,0 +1,56 @@
+{
+  "recording": {
+    "name": "300000001240697-300000001730372-7244130836 by  @ 12_51_36 PM_CallStudio.wav",
+    "size": 24956,
+    "modifyTime": 1770929533000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240697-300000001730372-7244130836 by  @ 12_51_36 PM_CallStudio.wav",
+    "uploadDate": "2026-02-12T20:52:13.000Z",
+    "callId": "300000001240697-300000001730372",
+    "phoneNumber": "7244130836",
+    "callTimestamp": "2026-02-12T20:52:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: I've been sent the wrong prescription.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1622,
+    "audioDuration": 15.319999694824219,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.159999847412109,
+        "end": 6.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.159999847412109,
+        "end": 9.880000114440918,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.880000114440918,
+        "end": 13.84000015258789,
+        "text": " I've been sent the wrong prescription."
+      },
+      {
+        "id": 4,
+        "start": 13.84000015258789,
+        "end": 15.039999961853027,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81f7-9704-d4cd0b8e7d02",
+    "url": "https://www.notion.so/300000001240697-300000001730372-30511d0a101c81f79704d4cd0b8e7d02"
+  },
+  "processedAt": "2026-02-12T21:05:58.387Z"
+}

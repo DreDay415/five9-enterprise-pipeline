@@ -1,0 +1,356 @@
+{
+  "recording": {
+    "name": "300000001219493-300000001709536-6032347929 by olivier@superbalife.com @ 11_29_06 AM.wav",
+    "size": 306860,
+    "modifyTime": 1769585834000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219493-300000001709536-6032347929 by olivier@superbalife.com @ 11_29_06 AM.wav",
+    "uploadDate": "2026-01-28T07:37:14.000Z",
+    "callId": "300000001219493-300000001709536",
+    "agent": "olivier",
+    "phoneNumber": "6032347929",
+    "callTimestamp": "2026-01-28T11:29:06.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I logged on this morning to cancel, and then I got an email saying that you guys were filling\n\nSpeaker 2: a prescription.\n\nSpeaker 1: Okay, let me pull your prescription.\n\nSpeaker 2: Mr. Alvey?\n\nSpeaker 1: Yes, thank you.\n\nSpeaker 2: Yeah, you just placed an order for Cialis 5 mg.\n\nSpeaker 1: No, no.\n\nSpeaker 2: I was trying to cancel.\n\nSpeaker 1: You were trying to cancel.\n\nSpeaker 2: Oh, yeah, it happened by accident.\n\nSpeaker 1: So let me refund that first.\n\nSpeaker 2: And you just don't need your Viagra as often, or you need to switch meds in the future?\n\nSpeaker 1: Well, I want to switch, but I don't need it right now.\n\nSpeaker 2: Okay, no, for sure.\n\nSpeaker 1: Yeah, and the price seems high anyway.\n\nSpeaker 2: I mean, you can call us, and we can arrange with you, because you're a VIP with us.\n\nSpeaker 1: You're not a new patient, so keep that in mind.\n\nSpeaker 2: Communication is key, you know?\n\nSpeaker 1: We sometimes are anticipating stuff, you know?\n\nSpeaker 2: You never know.\n\nSpeaker 1: We may have something for you.\n\nSpeaker 2: But nonetheless, since you don't need it at the moment, I'm going to advise the pharmacy\n\nSpeaker 1: to pause your prescription, so when you try to reorder, if you want to switch, you don't\n\nSpeaker 2: lose kind of your privilege to negotiate a good deal.\n\nSpeaker 1: Because if you lose your old account, it's going to be difficult, because the note is\n\nSpeaker 2: going to be placed in the account, and you're going to be under, because we have to place\n\nSpeaker 1: that.\n\nSpeaker 2: We offer you to pause, and then you decline, you know, stuff of that nature.\n\nSpeaker 1: So I would advise, or that's just me, to pause everything, to pause it, and then you can\n\nSpeaker 2: call to update and switch your meds.\n\nSpeaker 1: That pauses you up to half a year.\n\nSpeaker 2: And just call.\n\nSpeaker 1: Give us an update, you know, which one you like, and, you know, we'd be happy to adjust\n\nSpeaker 2: for you.\n\nSpeaker 1: And I refunded you on the order that you placed by accident, $213.95.\n\nSpeaker 2: How much?\n\nSpeaker 1: $213.95.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: And even that, it said it was $199 on the thing when I was looking at pricing.\n\nSpeaker 1: That's the pharmacy processing fee, which is $14.95.\n\nSpeaker 2: It used to be $9.95, and then it went up to $14.95.\n\nSpeaker 1: But if you want to order SwitchMed, call us over the phone, okay?\n\nSpeaker 2: Don't necessarily go over there, call us, so we can have a live call where we can make\n\nSpeaker 1: adjustment and find a middle ground, okay?\n\nSpeaker 2: Mm-hmm.\n\nSpeaker 1: Thank you so much.\n\nSpeaker 2: So everything is paused.\n\nSpeaker 1: That pauses you for half a year, and then call us to make your adjustment, okay?\n\nSpeaker 2: So we'd be happy if you want to switch.\n\nSpeaker 1: You just let us know, and then we'll do that for you.\n\nSpeaker 2: Everything is paused for now, okay?\n\nSpeaker 1: Thank you.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: Bye-bye.",
+    "duration": 8246,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 14.15999984741211,
+        "text": " I logged on this morning to cancel, and then I got an email saying that you guys were filling"
+      },
+      {
+        "id": 1,
+        "start": 14.15999984741211,
+        "end": 15.15999984741211,
+        "text": " a prescription."
+      },
+      {
+        "id": 2,
+        "start": 15.15999984741211,
+        "end": 21.479999542236328,
+        "text": " Okay, let me pull your prescription."
+      },
+      {
+        "id": 3,
+        "start": 21.479999542236328,
+        "end": 22.479999542236328,
+        "text": " Mr. Alvey?"
+      },
+      {
+        "id": 4,
+        "start": 22.479999542236328,
+        "end": 23.479999542236328,
+        "text": " Yes, thank you."
+      },
+      {
+        "id": 5,
+        "start": 23.479999542236328,
+        "end": 28.200000762939453,
+        "text": " Yeah, you just placed an order for Cialis 5 mg."
+      },
+      {
+        "id": 6,
+        "start": 28.200000762939453,
+        "end": 29.200000762939453,
+        "text": " No, no."
+      },
+      {
+        "id": 7,
+        "start": 30.200000762939453,
+        "end": 32.20000076293945,
+        "text": " I was trying to cancel."
+      },
+      {
+        "id": 8,
+        "start": 32.20000076293945,
+        "end": 34.20000076293945,
+        "text": " You were trying to cancel."
+      },
+      {
+        "id": 9,
+        "start": 34.20000076293945,
+        "end": 36.20000076293945,
+        "text": " Oh, yeah, it happened by accident."
+      },
+      {
+        "id": 10,
+        "start": 36.20000076293945,
+        "end": 38.20000076293945,
+        "text": " So let me refund that first."
+      },
+      {
+        "id": 11,
+        "start": 43.20000076293945,
+        "end": 49.20000076293945,
+        "text": " And you just don't need your Viagra as often, or you need to switch meds in the future?"
+      },
+      {
+        "id": 12,
+        "start": 49.20000076293945,
+        "end": 52.20000076293945,
+        "text": " Well, I want to switch, but I don't need it right now."
+      },
+      {
+        "id": 13,
+        "start": 52.20000076293945,
+        "end": 54.20000076293945,
+        "text": " Okay, no, for sure."
+      },
+      {
+        "id": 14,
+        "start": 54.20000076293945,
+        "end": 57.20000076293945,
+        "text": " Yeah, and the price seems high anyway."
+      },
+      {
+        "id": 15,
+        "start": 58.20000076293945,
+        "end": 62.20000076293945,
+        "text": " I mean, you can call us, and we can arrange with you, because you're a VIP with us."
+      },
+      {
+        "id": 16,
+        "start": 62.20000076293945,
+        "end": 64.19999694824219,
+        "text": " You're not a new patient, so keep that in mind."
+      },
+      {
+        "id": 17,
+        "start": 64.19999694824219,
+        "end": 66.19999694824219,
+        "text": " Communication is key, you know?"
+      },
+      {
+        "id": 18,
+        "start": 66.19999694824219,
+        "end": 69.19999694824219,
+        "text": " We sometimes are anticipating stuff, you know?"
+      },
+      {
+        "id": 19,
+        "start": 69.19999694824219,
+        "end": 70.19999694824219,
+        "text": " You never know."
+      },
+      {
+        "id": 20,
+        "start": 70.19999694824219,
+        "end": 71.19999694824219,
+        "text": " We may have something for you."
+      },
+      {
+        "id": 21,
+        "start": 71.19999694824219,
+        "end": 76.19999694824219,
+        "text": " But nonetheless, since you don't need it at the moment, I'm going to advise the pharmacy"
+      },
+      {
+        "id": 22,
+        "start": 76.19999694824219,
+        "end": 82.19999694824219,
+        "text": " to pause your prescription, so when you try to reorder, if you want to switch, you don't"
+      },
+      {
+        "id": 23,
+        "start": 82.19999694824219,
+        "end": 86.19999694824219,
+        "text": " lose kind of your privilege to negotiate a good deal."
+      },
+      {
+        "id": 24,
+        "start": 86.19999694824219,
+        "end": 91.19999694824219,
+        "text": " Because if you lose your old account, it's going to be difficult, because the note is"
+      },
+      {
+        "id": 25,
+        "start": 91.19999694824219,
+        "end": 96.19999694824219,
+        "text": " going to be placed in the account, and you're going to be under, because we have to place"
+      },
+      {
+        "id": 26,
+        "start": 96.19999694824219,
+        "end": 97.19999694824219,
+        "text": " that."
+      },
+      {
+        "id": 27,
+        "start": 97.19999694824219,
+        "end": 100.19999694824219,
+        "text": " We offer you to pause, and then you decline, you know, stuff of that nature."
+      },
+      {
+        "id": 28,
+        "start": 100.19999694824219,
+        "end": 105.19999694824219,
+        "text": " So I would advise, or that's just me, to pause everything, to pause it, and then you can"
+      },
+      {
+        "id": 29,
+        "start": 105.19999694824219,
+        "end": 107.19999694824219,
+        "text": " call to update and switch your meds."
+      },
+      {
+        "id": 30,
+        "start": 107.19999694824219,
+        "end": 109.19999694824219,
+        "text": " That pauses you up to half a year."
+      },
+      {
+        "id": 31,
+        "start": 109.19999694824219,
+        "end": 110.19999694824219,
+        "text": " And just call."
+      },
+      {
+        "id": 32,
+        "start": 110.19999694824219,
+        "end": 115.19999694824219,
+        "text": " Give us an update, you know, which one you like, and, you know, we'd be happy to adjust"
+      },
+      {
+        "id": 33,
+        "start": 115.19999694824219,
+        "end": 116.19999694824219,
+        "text": " for you."
+      },
+      {
+        "id": 34,
+        "start": 118.19999694824219,
+        "end": 123.19999694824219,
+        "text": " And I refunded you on the order that you placed by accident, $213.95."
+      },
+      {
+        "id": 35,
+        "start": 125.19999694824219,
+        "end": 126.19999694824219,
+        "text": " How much?"
+      },
+      {
+        "id": 36,
+        "start": 126.19999694824219,
+        "end": 129.1999969482422,
+        "text": " $213.95."
+      },
+      {
+        "id": 37,
+        "start": 130.1999969482422,
+        "end": 131.1999969482422,
+        "text": " Yeah."
+      },
+      {
+        "id": 38,
+        "start": 131.1999969482422,
+        "end": 132.1999969482422,
+        "text": " Yeah."
+      },
+      {
+        "id": 39,
+        "start": 132.1999969482422,
+        "end": 137.1999969482422,
+        "text": " And even that, it said it was $199 on the thing when I was looking at pricing."
+      },
+      {
+        "id": 40,
+        "start": 137.1999969482422,
+        "end": 140.1999969482422,
+        "text": " That's the pharmacy processing fee, which is $14.95."
+      },
+      {
+        "id": 41,
+        "start": 140.1999969482422,
+        "end": 144.1999969482422,
+        "text": " It used to be $9.95, and then it went up to $14.95."
+      },
+      {
+        "id": 42,
+        "start": 144.1999969482422,
+        "end": 149.1999969482422,
+        "text": " But if you want to order SwitchMed, call us over the phone, okay?"
+      },
+      {
+        "id": 43,
+        "start": 150.1999969482422,
+        "end": 155.1999969482422,
+        "text": " Don't necessarily go over there, call us, so we can have a live call where we can make"
+      },
+      {
+        "id": 44,
+        "start": 155.1999969482422,
+        "end": 158.1999969482422,
+        "text": " adjustment and find a middle ground, okay?"
+      },
+      {
+        "id": 45,
+        "start": 159.1999969482422,
+        "end": 160.1999969482422,
+        "text": " Mm-hmm."
+      },
+      {
+        "id": 46,
+        "start": 160.1999969482422,
+        "end": 161.1999969482422,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 47,
+        "start": 161.1999969482422,
+        "end": 162.1999969482422,
+        "text": " So everything is paused."
+      },
+      {
+        "id": 48,
+        "start": 162.1999969482422,
+        "end": 168.1999969482422,
+        "text": " That pauses you for half a year, and then call us to make your adjustment, okay?"
+      },
+      {
+        "id": 49,
+        "start": 169.1999969482422,
+        "end": 171.1999969482422,
+        "text": " So we'd be happy if you want to switch."
+      },
+      {
+        "id": 50,
+        "start": 171.1999969482422,
+        "end": 174.1999969482422,
+        "text": " You just let us know, and then we'll do that for you."
+      },
+      {
+        "id": 51,
+        "start": 174.1999969482422,
+        "end": 176.1999969482422,
+        "text": " Everything is paused for now, okay?"
+      },
+      {
+        "id": 52,
+        "start": 177.1999969482422,
+        "end": 178.1999969482422,
+        "text": " Thank you."
+      },
+      {
+        "id": 53,
+        "start": 178.1999969482422,
+        "end": 179.1999969482422,
+        "text": " You're welcome."
+      },
+      {
+        "id": 54,
+        "start": 179.1999969482422,
+        "end": 180.1999969482422,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81b2-9aea-da2754fab607",
+    "url": "https://www.notion.so/300000001219493-300000001709536-2f611d0a101c81b29aeada2754fab607"
+  },
+  "processedAt": "2026-01-28T14:09:40.883Z"
+}

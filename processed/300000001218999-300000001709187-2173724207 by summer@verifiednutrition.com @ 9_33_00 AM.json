@@ -1,0 +1,110 @@
+{
+  "recording": {
+    "name": "300000001218999-300000001709187-2173724207 by summer@verifiednutrition.com @ 9_33_00 AM.wav",
+    "size": 83130,
+    "modifyTime": 1769582532000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001218999-300000001709187-2173724207 by summer@verifiednutrition.com @ 9_33_00 AM.wav",
+    "uploadDate": "2026-01-28T06:42:12.000Z",
+    "callId": "300000001218999-300000001709187",
+    "agent": "summer",
+    "phoneNumber": "2173724207",
+    "callTimestamp": "2026-01-28T09:33:00.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling customer service, how can I help you?\n\nSpeaker 2: Oh yes, how you doing, my name is Tony Walker, and I was calling to cancel my subscription.\n\nSpeaker 1: Okay, let me pull you up. Can I have your name, your birthday, I'm sorry.\n\nSpeaker 2: 8-12-1970.\n\nSpeaker 1: Okay, alrighty, um, did you, you didn't want to try our AGV bills?\n\nSpeaker 2: No.\n\nSpeaker 1: Okay, not a problem. I went ahead and canceled you out.\n\nSpeaker 2: Okay, so we're all good then?\n\nSpeaker 1: Yep, you're good.\n\nSpeaker 2: Do you have a confirmation number or anything?\n\nSpeaker 1: Um, it is 5-2-C-63.\n\nSpeaker 2: 5-2-C-63. Alright, thank you very much.\n\nSpeaker 1: You're welcome, bye-bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 2766,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling customer service, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10,
+        "text": " Oh yes, how you doing, my name is Tony Walker, and I was calling to cancel my subscription."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 17,
+        "text": " Okay, let me pull you up. Can I have your name, your birthday, I'm sorry."
+      },
+      {
+        "id": 3,
+        "start": 17,
+        "end": 20,
+        "text": " 8-12-1970."
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 27,
+        "text": " Okay, alrighty, um, did you, you didn't want to try our AGV bills?"
+      },
+      {
+        "id": 5,
+        "start": 27,
+        "end": 28,
+        "text": " No."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 32,
+        "text": " Okay, not a problem. I went ahead and canceled you out."
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 34,
+        "text": " Okay, so we're all good then?"
+      },
+      {
+        "id": 8,
+        "start": 34,
+        "end": 35,
+        "text": " Yep, you're good."
+      },
+      {
+        "id": 9,
+        "start": 35,
+        "end": 38,
+        "text": " Do you have a confirmation number or anything?"
+      },
+      {
+        "id": 10,
+        "start": 38,
+        "end": 43,
+        "text": " Um, it is 5-2-C-63."
+      },
+      {
+        "id": 11,
+        "start": 43,
+        "end": 47,
+        "text": " 5-2-C-63. Alright, thank you very much."
+      },
+      {
+        "id": 12,
+        "start": 47,
+        "end": 49,
+        "text": " You're welcome, bye-bye."
+      },
+      {
+        "id": 13,
+        "start": 49,
+        "end": 50,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8159-a19b-ccd2199e1d88",
+    "url": "https://www.notion.so/300000001218999-300000001709187-2f611d0a101c8159a19bccd2199e1d88"
+  },
+  "processedAt": "2026-01-28T17:09:00.973Z"
+}

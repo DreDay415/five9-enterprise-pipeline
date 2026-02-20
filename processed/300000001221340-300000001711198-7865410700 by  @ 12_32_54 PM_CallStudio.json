@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001221340-300000001711198-7865410700 by  @ 12_32_54 PM_CallStudio.wav",
+    "size": 50436,
+    "modifyTime": 1769632433000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221340-300000001711198-7865410700 by  @ 12_32_54 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T20:33:53.000Z",
+    "callId": "300000001221340-300000001711198",
+    "phoneNumber": "7865410700",
+    "callTimestamp": "2026-01-28T20:33:53.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: We didn't receive a response, or I couldn't hear you.\n\nSpeaker 1: Let's try again.\n\nSpeaker 2: Please state the reason for your call.\n\nSpeaker 1: Canceling my membership.\n\nSpeaker 2: Thanks. Transferring to agent.",
+    "duration": 1306,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.260000228881836,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.420000076293945,
+        "end": 5.900000095367432,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.199999809265137,
+        "end": 7.699999809265137,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 15.460000038146973,
+        "end": 17.959999084472656,
+        "text": " We didn't receive a response, or I couldn't hear your."
+      },
+      {
+        "id": 4,
+        "start": 18.6200008392334,
+        "end": 19.540000915527344,
+        "text": " Let's try again."
+      },
+      {
+        "id": 5,
+        "start": 20.15999984741211,
+        "end": 21.780000686645508,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 6,
+        "start": 26.040000915527344,
+        "end": 27.540000915527344,
+        "text": " Canceling my membership."
+      },
+      {
+        "id": 7,
+        "start": 27.540000915527344,
+        "end": 30.540000915527344,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81fa-aabf-eb35c0bcba4f",
+    "url": "https://www.notion.so/300000001221340-300000001711198-2f611d0a101c81faaabfeb35c0bcba4f"
+  },
+  "processedAt": "2026-01-28T23:00:13.626Z"
+}

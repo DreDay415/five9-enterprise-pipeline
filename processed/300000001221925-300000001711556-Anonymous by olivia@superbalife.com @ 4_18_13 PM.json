@@ -1,0 +1,36 @@
+{
+  "recording": {
+    "name": "300000001221925-300000001711556-Anonymous by olivia@superbalife.com @ 4_18_13 PM.wav",
+    "size": 11500,
+    "modifyTime": 1769646029000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221925-300000001711556-Anonymous by olivia@superbalife.com @ 4_18_13 PM.wav",
+    "uploadDate": "2026-01-29T00:20:29.000Z",
+    "agent": "olivia",
+    "callTimestamp": "2026-01-29T16:18:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Are you ready to be helped?\n\nSpeaker 2: I'm ready to speak to a supervisor.",
+    "duration": 1109,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.880000114440918,
+        "text": " Are you ready to be helped?"
+      },
+      {
+        "id": 1,
+        "start": 4.880000114440918,
+        "end": 7,
+        "text": " I'm ready to speak to a supervisor."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81c3-97b9-d2a85d5eabac",
+    "url": "https://www.notion.so/300000001221925-300000001711556-Anonymous-by-olivia-superbalife-com-4_18_13-PM-wav-2f711d0a101c81c397b9d2a85d5eabac"
+  },
+  "processedAt": "2026-01-29T10:11:47.408Z"
+}

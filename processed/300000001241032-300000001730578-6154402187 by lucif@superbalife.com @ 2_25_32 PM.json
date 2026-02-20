@@ -1,0 +1,251 @@
+{
+  "recording": {
+    "name": "300000001241032-300000001730578-6154402187 by lucif@superbalife.com @ 2_25_32 PM.wav",
+    "size": 245240,
+    "modifyTime": 1770935305000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241032-300000001730578-6154402187 by lucif@superbalife.com @ 2_25_32 PM.wav",
+    "uploadDate": "2026-02-12T22:28:25.000Z",
+    "callId": "300000001241032-300000001730578",
+    "agent": "lucif",
+    "phoneNumber": "6154402187",
+    "callTimestamp": "2026-02-12T14:25:32.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_lucif_300000001241032-300000001730578_6154402187.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_lucif_300000001241032-300000001730578_6154402187.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, Quinn speaking. How can I help you?\n\nSpeaker 2: Yeah, how are you doing? I was online trying to figure out how to cancel my account,\n\nSpeaker 1: and it doesn't give an option on the website to cancel.\n\nSpeaker 2: There is an option on there.\n\nSpeaker 1: I'm sorry?\n\nSpeaker 2: No, but we can help you out. There's an option on there, but we can help you out with that.\n\nSpeaker 1: What's going on with the Viagra? Why is it that you don't want it anymore?\n\nSpeaker 2: Medical reasons, I can't use it.\n\nSpeaker 1: Oh, okay. Well, let's see, you kind of just got this.\n\nSpeaker 2: Did some things change? Because, you know, this was prescribed by a doctor.\n\nSpeaker 1: It's been three months.\n\nSpeaker 2: When I went to my primary care physician, I'm having an issue with my heart.\n\nSpeaker 1: She said do not take Viagra or any other ED medication anymore.\n\nSpeaker 2: Okay, well, I know sometimes you guys do get cleared to pick back up with this type of stuff down the line.\n\nSpeaker 1: When that is the case, we can always just put this on hold for you for like a half a year,\n\nSpeaker 2: give you some time to figure things out.\n\nSpeaker 1: No, I just need to cancel it, man.\n\nSpeaker 2: All right, we'll cancel you out.\n\nSpeaker 1: Have a good day, sir.\n\nSpeaker 2: Pardon me, can you send me an e-mail verification that it's canceled, please?\n\nSpeaker 1: No, we don't send any e-mail verifications, but I can confirm that everything was just canceled for you.\n\nSpeaker 2: Okay, and then how about directing me on the website to where the cancellation request would be?\n\nSpeaker 1: You can sign into your website, and you can see under your prescriptions that everything says you are,\n\nSpeaker 2: that there is no more prescription there.\n\nSpeaker 1: It says you are not currently on auto-ship, and everything hasn't stopped.\n\nSpeaker 2: Okay, when I go into my prescriptions, there's no way.\n\nSpeaker 1: Yeah, I'm in my prescriptions right now.\n\nSpeaker 2: It doesn't give an option to stop it.\n\nSpeaker 1: That's because everything has stopped.\n\nSpeaker 2: If you go to the last option on the bottom right, you will see that it says you are not currently on anything.\n\nSpeaker 1: That's because everything has been stopped.\n\nSpeaker 2: Oh, down at the bottom under auto-ship.\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: It says you are not currently on auto-ship.\n\nSpeaker 1: Anything else that you need.\n\nSpeaker 2: That's all I needed, buddy.\n\nSpeaker 1: All right, you have a good day.",
+    "duration": 5054,
+    "audioDuration": 150.8800048828125,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thanks for calling Viagra, Quinn speaking. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 10,
+        "text": " Yeah, how are you doing? I was online trying to figure out how to cancel my account,"
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 14,
+        "text": " and it doesn't give an option on the website to cancel."
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 16,
+        "text": " There is an option on there."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 17,
+        "text": " I'm sorry?"
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 22,
+        "text": " No, but we can help you out. There's an option on there, but we can help you out with that."
+      },
+      {
+        "id": 6,
+        "start": 22,
+        "end": 26,
+        "text": " What's going on with the Viagra? Why is it that you don't want it anymore?"
+      },
+      {
+        "id": 7,
+        "start": 26,
+        "end": 31,
+        "text": " Medical reasons, I can't use it."
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 34,
+        "text": " Oh, okay. Well, let's see, you kind of just got this."
+      },
+      {
+        "id": 9,
+        "start": 34,
+        "end": 38,
+        "text": " Did some things change? Because, you know, this was prescribed by a doctor."
+      },
+      {
+        "id": 10,
+        "start": 38,
+        "end": 40,
+        "text": " It's been three months."
+      },
+      {
+        "id": 11,
+        "start": 40,
+        "end": 49,
+        "text": " When I went to my primary care physician, I'm having an issue with my heart."
+      },
+      {
+        "id": 12,
+        "start": 49,
+        "end": 54,
+        "text": " She said do not take Viagra or any other ED medication anymore."
+      },
+      {
+        "id": 13,
+        "start": 54,
+        "end": 61,
+        "text": " Okay, well, I know sometimes you guys do get cleared to pick back up with this type of stuff down the line."
+      },
+      {
+        "id": 14,
+        "start": 61,
+        "end": 66,
+        "text": " When that is the case, we can always just put this on hold for you for like a half a year,"
+      },
+      {
+        "id": 15,
+        "start": 66,
+        "end": 68,
+        "text": " give you some time to figure things out."
+      },
+      {
+        "id": 16,
+        "start": 68,
+        "end": 71,
+        "text": " No, I just need to cancel it, man."
+      },
+      {
+        "id": 17,
+        "start": 71,
+        "end": 74,
+        "text": " All right, we'll cancel you out."
+      },
+      {
+        "id": 18,
+        "start": 74,
+        "end": 76,
+        "text": " Have a good day, sir."
+      },
+      {
+        "id": 19,
+        "start": 77,
+        "end": 84,
+        "text": " Pardon me, can you send me an e-mail verification that it's canceled, please?"
+      },
+      {
+        "id": 20,
+        "start": 84,
+        "end": 91,
+        "text": " No, we don't send any e-mail verifications, but I can confirm that everything was just canceled for you."
+      },
+      {
+        "id": 21,
+        "start": 91,
+        "end": 99,
+        "text": " Okay, and then how about directing me on the website to where the cancellation request would be?"
+      },
+      {
+        "id": 22,
+        "start": 99,
+        "end": 108,
+        "text": " You can sign into your website, and you can see under your prescriptions that everything says you are,"
+      },
+      {
+        "id": 23,
+        "start": 108,
+        "end": 110,
+        "text": " that there is no more prescription there."
+      },
+      {
+        "id": 24,
+        "start": 110,
+        "end": 116,
+        "text": " It says you are not currently on auto-ship, and everything hasn't stopped."
+      },
+      {
+        "id": 25,
+        "start": 116,
+        "end": 120,
+        "text": " Okay, when I go into my prescriptions, there's no way."
+      },
+      {
+        "id": 26,
+        "start": 120,
+        "end": 123,
+        "text": " Yeah, I'm in my prescriptions right now."
+      },
+      {
+        "id": 27,
+        "start": 123,
+        "end": 126,
+        "text": " It doesn't give an option to stop it."
+      },
+      {
+        "id": 28,
+        "start": 126,
+        "end": 127,
+        "text": " That's because everything has stopped."
+      },
+      {
+        "id": 29,
+        "start": 127,
+        "end": 132,
+        "text": " If you go to the last option on the bottom right, you will see that it says you are not currently on anything."
+      },
+      {
+        "id": 30,
+        "start": 132,
+        "end": 134,
+        "text": " That's because everything has been stopped."
+      },
+      {
+        "id": 31,
+        "start": 136,
+        "end": 139,
+        "text": " Oh, down at the bottom under auto-ship."
+      },
+      {
+        "id": 32,
+        "start": 139,
+        "end": 140,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 33,
+        "start": 140,
+        "end": 145,
+        "text": " It says you are not currently on auto-ship."
+      },
+      {
+        "id": 34,
+        "start": 145,
+        "end": 147,
+        "text": " Anything else that you need."
+      },
+      {
+        "id": 35,
+        "start": 147,
+        "end": 149,
+        "text": " That's all I needed, buddy."
+      },
+      {
+        "id": 36,
+        "start": 149,
+        "end": 151,
+        "text": " All right, you have a good day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-8112-9e4a-fe18d4994096",
+    "url": "https://www.notion.so/300000001241032-300000001730578-30511d0a101c81129e4afe18d4994096"
+  },
+  "processedAt": "2026-02-12T22:47:54.083Z"
+}

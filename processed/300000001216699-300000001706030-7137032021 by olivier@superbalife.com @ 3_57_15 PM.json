@@ -1,0 +1,38 @@
+{
+  "recording": {
+    "name": "300000001216699-300000001706030-7137032021 by olivier@superbalife.com @ 3_57_15 PM.wav",
+    "size": 9876,
+    "modifyTime": 1769583131000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216699-300000001706030-7137032021 by olivier@superbalife.com @ 3_57_15 PM.wav",
+    "uploadDate": "2026-01-28T06:52:11.000Z",
+    "callId": "300000001216699-300000001706030",
+    "agent": "olivier",
+    "phoneNumber": "7137032021",
+    "callTimestamp": "2026-01-28T15:57:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for following along, and make sure to celebrate COVID-19.\n\nSpeaker 2: It's time to celebrate each other.",
+    "duration": 968,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thanks for following along, and make sure to celebrate COVID-19."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 6,
+        "text": " It's time to celebrate each other."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8114-9e2a-cca2a339acad",
+    "url": "https://www.notion.so/300000001216699-300000001706030-2f611d0a101c81149e2acca2a339acad"
+  },
+  "processedAt": "2026-01-28T16:38:44.340Z"
+}

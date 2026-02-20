@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001216907-300000001707389-7143066922 by  @ 8_26_36 AM_CallStudio.wav",
+    "size": 38280,
+    "modifyTime": 1769582536000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001216907-300000001707389-7143066922 by  @ 8_26_36 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T06:42:16.000Z",
+    "callId": "300000001216907-300000001707389",
+    "phoneNumber": "7143066922",
+    "callTimestamp": "2026-01-28T06:42:16.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español marque numero nueve.\n\nSpeaker 2: Scout.\n\nSpeaker 1: I heard you say, Scout.\n\nSpeaker 2: Say yes or press 1 if this is correct.\n\nSpeaker 1: Otherwise say no.",
+    "duration": 1062,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.340000152587891,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.340000152587891,
+        "end": 7.340000152587891,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.340000152587891,
+        "end": 12.34000015258789,
+        "text": " Para Español marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 12.34000015258789,
+        "end": 15.65999984741211,
+        "text": " Scout."
+      },
+      {
+        "id": 4,
+        "start": 15.65999984741211,
+        "end": 18.18000030517578,
+        "text": " I heard you say, Scout."
+      },
+      {
+        "id": 5,
+        "start": 18.18000030517578,
+        "end": 21.18000030517578,
+        "text": " Say yes or press 1 if this is correct."
+      },
+      {
+        "id": 6,
+        "start": 21.18000030517578,
+        "end": 22.18000030517578,
+        "text": " Otherwise say no."
+      },
+      {
+        "id": 7,
+        "start": 22.18000030517578,
+        "end": 22.18000030517578,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8144-b99d-feee8cc9257b",
+    "url": "https://www.notion.so/300000001216907-300000001707389-2f611d0a101c8144b99dfeee8cc9257b"
+  },
+  "processedAt": "2026-01-28T17:08:07.578Z"
+}

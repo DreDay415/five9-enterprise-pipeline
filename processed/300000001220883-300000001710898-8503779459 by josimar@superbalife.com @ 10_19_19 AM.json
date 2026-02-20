@@ -1,0 +1,362 @@
+{
+  "recording": {
+    "name": "300000001220883-300000001710898-8503779459 by josimar@superbalife.com @ 10_19_19 AM.wav",
+    "size": 223660,
+    "modifyTime": 1769624519000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220883-300000001710898-8503779459 by josimar@superbalife.com @ 10_19_19 AM.wav",
+    "uploadDate": "2026-01-28T18:21:59.000Z",
+    "callId": "300000001220883-300000001710898",
+    "agent": "josimar",
+    "phoneNumber": "8503779459",
+    "callTimestamp": "2026-01-28T10:19:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, I can help you today.\n\nSpeaker 2: Hey man, how you doing?\n\nSpeaker 1: Doing well, I can help you.\n\nSpeaker 2: Good. Um, I got a prescription from y'all,\n\nSpeaker 1: and then I can't put it on hold or whatever,\n\nSpeaker 2: so you guys are giving it to me every six months or whatever.\n\nSpeaker 1: I'll just see if I can put it back on monthly.\n\nSpeaker 2: Yeah, I can help you with that.\n\nSpeaker 1: What's your zip code and your last name real quick?\n\nSpeaker 2: Uh, 32570. My last name is Morgan.\n\nSpeaker 1: Got it. Pulled you up here.\n\nSpeaker 2: And you said you wanted to have it set up for every month then?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Okay, so I'll set you up.\n\nSpeaker 1: That's your only options, right?\n\nSpeaker 2: No, we have every, like, four or five or six months or a month.\n\nSpeaker 1: It's up to you which one you wanted to choose, though.\n\nSpeaker 2: But your monthly is your, like, shortest one, right?\n\nSpeaker 1: Oh, yeah, monthly is the shortest one.\n\nSpeaker 2: Okay, yeah, that's what I want.\n\nSpeaker 1: Okay, so did you want to get one for this month or starting next month?\n\nSpeaker 2: Got this month.\n\nSpeaker 1: You're going to get one this month?\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Got it. So we'll set it up for your process.\n\nSpeaker 2: So I'll just push an order through today,\n\nSpeaker 1: and then we'll set it up for every month from this date.\n\nSpeaker 2: So just to verify here,\n\nSpeaker 1: are we going to use the Visa ending 7456?\n\nSpeaker 2: Yep.\n\nSpeaker 1: Okay, cool. One second.\n\nSpeaker 2: Let me get this sorted for you.\n\nSpeaker 1: Okay, so you're going to get an order.\n\nSpeaker 2: I'm going to push a new console, too.\n\nSpeaker 1: Okay, you're all set.\n\nSpeaker 2: Y'all can't actually do that shit, can you?\n\nSpeaker 1: They're going to try.\n\nSpeaker 2: The only thing is, since you have an order since 2024,\n\nSpeaker 1: there's going to be a new prescription that needs to get written out,\n\nSpeaker 2: and the doctor needs to sign off for it.\n\nSpeaker 1: If he does it quickly, then, yeah, it'll ship out today.\n\nSpeaker 2: But if he takes a little long and he does it, like, late in the day,\n\nSpeaker 1: it'll ship out tomorrow.\n\nSpeaker 2: If I have an order since 2024, I'll get a package at the house.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: It shows me the last one was done on the 25th,\n\nSpeaker 1: but your prescription is a little different.\n\nSpeaker 2: Oh, yeah. I got you. I got you.\n\nSpeaker 1: Yeah, it's a little confusing on that part.\n\nSpeaker 2: But, yeah, as long as he just approves it really quickly, then, yeah.\n\nSpeaker 1: But if he doesn't, you're going to get it shipped tomorrow.\n\nSpeaker 2: You'll get an email, though.\n\nSpeaker 1: All right.\n\nSpeaker 2: All right, you're all set. Have a good one.\n\nSpeaker 1: I appreciate it.\n\nSpeaker 2: Of course. Bye-bye.",
+    "duration": 9554,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Viagra, I can help you today."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 5,
+        "text": " Hey man, how you doing?"
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 7,
+        "text": " Doing well, I can help you."
+      },
+      {
+        "id": 3,
+        "start": 7,
+        "end": 11,
+        "text": " Good. Um, I got a prescription from y'all,"
+      },
+      {
+        "id": 4,
+        "start": 11,
+        "end": 15,
+        "text": " and then I can't put it on hold or whatever,"
+      },
+      {
+        "id": 5,
+        "start": 15,
+        "end": 18,
+        "text": " so you guys are giving it to me every six months or whatever."
+      },
+      {
+        "id": 6,
+        "start": 18,
+        "end": 20,
+        "text": " I'll just see if I can put it back on monthly."
+      },
+      {
+        "id": 7,
+        "start": 20,
+        "end": 22,
+        "text": " Yeah, I can help you with that."
+      },
+      {
+        "id": 8,
+        "start": 22,
+        "end": 24,
+        "text": " What's your zip code and your last name real quick?"
+      },
+      {
+        "id": 9,
+        "start": 24,
+        "end": 28,
+        "text": " Uh, 32570. My last name is Morgan."
+      },
+      {
+        "id": 10,
+        "start": 29,
+        "end": 31,
+        "text": " Got it. Pulled you up here."
+      },
+      {
+        "id": 11,
+        "start": 31,
+        "end": 34,
+        "text": " And you said you wanted to have it set up for every month then?"
+      },
+      {
+        "id": 12,
+        "start": 34,
+        "end": 35,
+        "text": " Yeah."
+      },
+      {
+        "id": 13,
+        "start": 35,
+        "end": 37,
+        "text": " Okay, so I'll set you up."
+      },
+      {
+        "id": 14,
+        "start": 37,
+        "end": 39,
+        "text": " That's your only options, right?"
+      },
+      {
+        "id": 15,
+        "start": 39,
+        "end": 42,
+        "text": " No, we have every, like, four or five or six months or a month."
+      },
+      {
+        "id": 16,
+        "start": 42,
+        "end": 45,
+        "text": " It's up to you which one you wanted to choose, though."
+      },
+      {
+        "id": 17,
+        "start": 45,
+        "end": 48,
+        "text": " But your monthly is your, like, shortest one, right?"
+      },
+      {
+        "id": 18,
+        "start": 48,
+        "end": 50,
+        "text": " Oh, yeah, monthly is the shortest one."
+      },
+      {
+        "id": 19,
+        "start": 50,
+        "end": 52,
+        "text": " Okay, yeah, that's what I want."
+      },
+      {
+        "id": 20,
+        "start": 52,
+        "end": 56,
+        "text": " Okay, so did you want to get one for this month or starting next month?"
+      },
+      {
+        "id": 21,
+        "start": 56,
+        "end": 58,
+        "text": " Got this month."
+      },
+      {
+        "id": 22,
+        "start": 58,
+        "end": 60,
+        "text": " You're going to get one this month?"
+      },
+      {
+        "id": 23,
+        "start": 60,
+        "end": 61,
+        "text": " Yeah."
+      },
+      {
+        "id": 24,
+        "start": 61,
+        "end": 64,
+        "text": " Got it. So we'll set it up for your process."
+      },
+      {
+        "id": 25,
+        "start": 64,
+        "end": 66,
+        "text": " So I'll just push an order through today,"
+      },
+      {
+        "id": 26,
+        "start": 66,
+        "end": 68,
+        "text": " and then we'll set it up for every month from this date."
+      },
+      {
+        "id": 27,
+        "start": 68,
+        "end": 70,
+        "text": " So just to verify here,"
+      },
+      {
+        "id": 28,
+        "start": 70,
+        "end": 73,
+        "text": " are we going to use the Visa and Engine 7456?"
+      },
+      {
+        "id": 29,
+        "start": 73,
+        "end": 74,
+        "text": " Yep."
+      },
+      {
+        "id": 30,
+        "start": 74,
+        "end": 76,
+        "text": " Okay, cool. One second."
+      },
+      {
+        "id": 31,
+        "start": 76,
+        "end": 78,
+        "text": " Let me get this sorted for you."
+      },
+      {
+        "id": 32,
+        "start": 80,
+        "end": 82,
+        "text": " Okay, so you're going to get an order."
+      },
+      {
+        "id": 33,
+        "start": 82,
+        "end": 84,
+        "text": " I'm going to push a new console, too."
+      },
+      {
+        "id": 34,
+        "start": 85,
+        "end": 87,
+        "text": " Okay, you're all set."
+      },
+      {
+        "id": 35,
+        "start": 87,
+        "end": 90,
+        "text": " Y'all can't actually do that shit, can you?"
+      },
+      {
+        "id": 36,
+        "start": 90,
+        "end": 92,
+        "text": " They're going to try."
+      },
+      {
+        "id": 37,
+        "start": 92,
+        "end": 94,
+        "text": " The only thing is, since you have an order since 2024,"
+      },
+      {
+        "id": 38,
+        "start": 94,
+        "end": 98,
+        "text": " there's going to be a new prescription that needs to get written out,"
+      },
+      {
+        "id": 39,
+        "start": 98,
+        "end": 100,
+        "text": " and the doctor needs to sign off for it."
+      },
+      {
+        "id": 40,
+        "start": 100,
+        "end": 102,
+        "text": " If he does it quickly, then, yeah, it'll ship out today."
+      },
+      {
+        "id": 41,
+        "start": 102,
+        "end": 105,
+        "text": " But if he takes a little long and he does it, like, late in the day,"
+      },
+      {
+        "id": 42,
+        "start": 105,
+        "end": 107,
+        "text": " it'll ship out tomorrow."
+      },
+      {
+        "id": 43,
+        "start": 107,
+        "end": 110,
+        "text": " If I have an order since 2024, I'll get a package at the house."
+      },
+      {
+        "id": 44,
+        "start": 110,
+        "end": 112,
+        "text": " Yeah."
+      },
+      {
+        "id": 45,
+        "start": 112,
+        "end": 114,
+        "text": " It shows me the last one was done on the 2025th,"
+      },
+      {
+        "id": 46,
+        "start": 114,
+        "end": 116,
+        "text": " but your prescription is a little different."
+      },
+      {
+        "id": 47,
+        "start": 116,
+        "end": 120,
+        "text": " Oh, yeah. I got you. I got you."
+      },
+      {
+        "id": 48,
+        "start": 120,
+        "end": 122,
+        "text": " Yeah, it's a little confusing on that part."
+      },
+      {
+        "id": 49,
+        "start": 122,
+        "end": 125,
+        "text": " But, yeah, as long as he just approves it really quickly, then, yeah."
+      },
+      {
+        "id": 50,
+        "start": 125,
+        "end": 128,
+        "text": " But if he doesn't, you're going to get it shipped tomorrow."
+      },
+      {
+        "id": 51,
+        "start": 128,
+        "end": 130,
+        "text": " You'll get an email, though."
+      },
+      {
+        "id": 52,
+        "start": 130,
+        "end": 132,
+        "text": " All right."
+      },
+      {
+        "id": 53,
+        "start": 132,
+        "end": 134,
+        "text": " All right, you're all set. Have a good one."
+      },
+      {
+        "id": 54,
+        "start": 134,
+        "end": 135,
+        "text": " I appreciate it."
+      },
+      {
+        "id": 55,
+        "start": 135,
+        "end": 137,
+        "text": " Of course. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81be-bd22-e0844011b36f",
+    "url": "https://www.notion.so/300000001220883-300000001710898-2f711d0a101c81bebd22e0844011b36f"
+  },
+  "processedAt": "2026-01-29T00:21:26.969Z"
+}

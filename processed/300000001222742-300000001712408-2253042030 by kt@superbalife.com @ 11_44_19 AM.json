@@ -1,0 +1,122 @@
+{
+  "recording": {
+    "name": "300000001222742-300000001712408-2253042030 by kt@superbalife.com @ 11_44_19 AM.wav",
+    "size": 70196,
+    "modifyTime": 1769715920000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222742-300000001712408-2253042030 by kt@superbalife.com @ 11_44_19 AM.wav",
+    "uploadDate": "2026-01-29T19:45:20.000Z",
+    "callId": "300000001222742-300000001712408",
+    "agent": "kt",
+    "phoneNumber": "2253042030",
+    "callTimestamp": "2026-01-29T11:44:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Your call has been forwarded to voicemail.\n\nSpeaker 2: The person you're trying to reach is not available.\n\nSpeaker 1: At the tone, please record your message.\n\nSpeaker 2: When you have finished recording, you may hang up.\n\nSpeaker 1: Hey, Rhonda, it's JT Goodrich from Pfizer-ScoreBlue.\n\nSpeaker 2: Call me.\n\nSpeaker 1: I'm here to take care of you and whatever your needs are.\n\nSpeaker 2: 1-800-675-9807.\n\nSpeaker 1: That's 1-800-675-9807.\n\nSpeaker 2: My extension, so you don't have to wait in the queue or in line, is 0037.\n\nSpeaker 1: Call me.\n\nSpeaker 2: I'd like to take care of you and make things right or whatever it takes, right?\n\nSpeaker 1: We'll take care of you, bud.\n\nSpeaker 2: Just give me a call.\n\nSpeaker 1: Thanks, Ronnie.\n\nSpeaker 2: Bye-bye.",
+    "duration": 2990,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Your call has been forwarded to voicemail."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 6,
+        "text": " The person you're trying to reach is not available."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 8,
+        "text": " At the tone, please record your message."
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 11,
+        "text": " When you have finished recording, you may hang up."
+      },
+      {
+        "id": 4,
+        "start": 11,
+        "end": 14,
+        "text": " Hey, Rhonda, it's JT Goodrich from Pfizer-ScoreBlue."
+      },
+      {
+        "id": 5,
+        "start": 14,
+        "end": 15,
+        "text": " Call me."
+      },
+      {
+        "id": 6,
+        "start": 15,
+        "end": 18,
+        "text": " I'm here to take care of you and whatever your needs are."
+      },
+      {
+        "id": 7,
+        "start": 18,
+        "end": 23,
+        "text": " 1-800-675-9807."
+      },
+      {
+        "id": 8,
+        "start": 23,
+        "end": 28,
+        "text": " That's 1-800-675-9807."
+      },
+      {
+        "id": 9,
+        "start": 28,
+        "end": 34,
+        "text": " My extension, so you don't have to wait in the queue or in line, is 0037."
+      },
+      {
+        "id": 10,
+        "start": 34,
+        "end": 35,
+        "text": " Call me."
+      },
+      {
+        "id": 11,
+        "start": 35,
+        "end": 38,
+        "text": " I'd like to take care of you and make things right or whatever it takes, right?"
+      },
+      {
+        "id": 12,
+        "start": 38,
+        "end": 40,
+        "text": " We'll take care of you, bud."
+      },
+      {
+        "id": 13,
+        "start": 40,
+        "end": 41,
+        "text": " Just give me a call."
+      },
+      {
+        "id": 14,
+        "start": 41,
+        "end": 42,
+        "text": " Thanks, Ronnie."
+      },
+      {
+        "id": 15,
+        "start": 42,
+        "end": 43,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8140-be6d-fecf99180a07",
+    "url": "https://www.notion.so/300000001222742-300000001712408-2f711d0a101c8140be6dfecf99180a07"
+  },
+  "processedAt": "2026-01-29T21:51:03.429Z"
+}

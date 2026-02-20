@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001220756-300000001710819-6318047774 by  @ 9_42_14 AM_CallStudio.wav",
+    "size": 28660,
+    "modifyTime": 1769622174000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220756-300000001710819-6318047774 by  @ 9_42_14 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T17:42:54.000Z",
+    "callId": "300000001220756-300000001710819",
+    "phoneNumber": "6318047774",
+    "callTimestamp": "2026-01-28T17:42:54.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Billing.\n\nSpeaker 1: I heard you say, billing.\n\nSpeaker 2: Say yes or press 1.",
+    "duration": 786,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.800000190734863,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.800000190734863,
+        "end": 7.800000190734863,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.800000190734863,
+        "end": 8.800000190734863,
+        "text": " Billing."
+      },
+      {
+        "id": 3,
+        "start": 8.800000190734863,
+        "end": 9.800000190734863,
+        "text": " Billing."
+      },
+      {
+        "id": 4,
+        "start": 9.800000190734863,
+        "end": 15.020000457763672,
+        "text": " I heard you say, billing."
+      },
+      {
+        "id": 5,
+        "start": 15.020000457763672,
+        "end": 16.239999771118164,
+        "text": " Say yes or press 1."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-814b-b968-ef81212ba31e",
+    "url": "https://www.notion.so/300000001220756-300000001710819-2f611d0a101c814bb968ef81212ba31e"
+  },
+  "processedAt": "2026-01-28T18:20:54.622Z"
+}

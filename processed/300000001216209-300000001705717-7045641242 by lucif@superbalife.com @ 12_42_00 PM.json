@@ -1,0 +1,110 @@
+{
+  "recording": {
+    "name": "300000001216209-300000001705717-7045641242 by lucif@superbalife.com @ 12_42_00 PM.wav",
+    "size": 150796,
+    "modifyTime": 1769591232000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216209-300000001705717-7045641242 by lucif@superbalife.com @ 12_42_00 PM.wav",
+    "uploadDate": "2026-01-28T09:07:12.000Z",
+    "callId": "300000001216209-300000001705717",
+    "agent": "lucif",
+    "phoneNumber": "7045641242",
+    "callTimestamp": "2026-01-28T12:42:00.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for speaking. How can I help you?\n\nSpeaker 2: Yeah. Hi. I was just looking to cancel my automatic—\n\nSpeaker 1: Okay, let me pull up your account one moment.\n\nSpeaker 2: Need to say Douglas, correct?\n\nSpeaker 1: Yes.\n\nSpeaker 2: All right, sir, so I do see you are a VIP here. I'm with the Viagra—\n\nSpeaker 1: Can I ask why you're cancelling? Do you mind if I ask you that?\n\nSpeaker 2: Just the cost and I'm not going through as quickly as the refill.\n\nSpeaker 1: Well, you can order as needed.\n\nSpeaker 2: You do not have to get it monthly or when you're not ready.\n\nSpeaker 1: I mean, am I able to just call whenever I need more?\n\nSpeaker 2: Yes, that's exactly what I just said, sir. You can order as needed.\n\nSpeaker 1: Uh-huh.\n\nSpeaker 2: Okay, so how that works for the next five months here we will not bill you or ship you anything.\n\nSpeaker 1: You're gonna have to call us in that time to receive your next order.\n\nSpeaker 2: All right.\n\nSpeaker 1: Sounds good.\n\nSpeaker 2: All right, amazing, sir. Yeah, that's all set up for you.\n\nSpeaker 1: All right, perfect. Well, thank you very much. Have a good day.\n\nSpeaker 2: You're welcome. You as well.\n\nSpeaker 1: All right.",
+    "duration": 2936,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.380000114440918,
+        "text": " Thanks for speaking. How can I help you? Yeah. Hi. I was just looking to cancel my automatic"
+      },
+      {
+        "id": 1,
+        "start": 12.380000114440918,
+        "end": 14.380000114440918,
+        "text": " Okay, let me pull up your account one moment"
+      },
+      {
+        "id": 2,
+        "start": 18.899999618530273,
+        "end": 22.040000915527344,
+        "text": " Need to say Douglas, correct? Yes"
+      },
+      {
+        "id": 3,
+        "start": 30,
+        "end": 32,
+        "text": " All right, sir, so I do see you are a VIP here. I'm with the Viagra"
+      },
+      {
+        "id": 4,
+        "start": 43.18000030517578,
+        "end": 45.52000045776367,
+        "text": " Can I ask why you're cancelling? Do you mind if I ask you that?"
+      },
+      {
+        "id": 5,
+        "start": 47.20000076293945,
+        "end": 54.720001220703125,
+        "text": " Just the cost and I'm not going through as quickly as the refill. Well, you can order as needed"
+      },
+      {
+        "id": 6,
+        "start": 54.720001220703125,
+        "end": 57.040000915527344,
+        "text": " You do not have to get it monthly or when you're not ready"
+      },
+      {
+        "id": 7,
+        "start": 60,
+        "end": 68.80000305175781,
+        "text": " I mean, am I able to just call whenever I need more? Yes, that's exactly what I just said, sir. You can order as needed, uh-huh"
+      },
+      {
+        "id": 8,
+        "start": 71.80000305175781,
+        "end": 76.16000366210938,
+        "text": " Okay, so how that works for the next five months here we will not bill you or ship you anything"
+      },
+      {
+        "id": 9,
+        "start": 76.16000366210938,
+        "end": 79.16000366210938,
+        "text": " You're gonna have to call us in that time to receive your next order"
+      },
+      {
+        "id": 10,
+        "start": 79.76000213623047,
+        "end": 81.08000183105469,
+        "text": " All right"
+      },
+      {
+        "id": 11,
+        "start": 81.08000183105469,
+        "end": 85.27999877929688,
+        "text": " Sounds good. All right, amazing, sir. Yeah, that's all set up for you"
+      },
+      {
+        "id": 12,
+        "start": 85.95999908447266,
+        "end": 89.54000091552734,
+        "text": " All right, perfect. Well, thank you very much. Have a good day. You're welcome. You as well"
+      },
+      {
+        "id": 13,
+        "start": 90,
+        "end": 92.16000366210938,
+        "text": " All right"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8153-98da-fce86dbfb269",
+    "url": "https://www.notion.so/300000001216209-300000001705717-2f611d0a101c815398dafce86dbfb269"
+  },
+  "processedAt": "2026-01-28T11:47:21.692Z"
+}

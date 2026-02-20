@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001215969-300000001705554-8887955826 by  @ 11_25_40 AM_CallStudio.wav",
+    "size": 27230,
+    "modifyTime": 1769196385000,
+    "remotePath": "/five9sftp/recordings/SB CS/1_23_2026/300000001215969-300000001705554-8887955826 by  @ 11_25_40 AM_CallStudio.wav",
+    "uploadDate": "2026-01-23T19:26:25.000Z",
+    "callId": "300000001215969-300000001705554",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-23T19:26:25.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: I want to know why I'm still getting charged for medicine that I already paid for. \n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1171,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.079999923706055,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.079999923706055,
+        "end": 6.079999923706055,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.079999923706055,
+        "end": 9.359999656677246,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.359999656677246,
+        "end": 15.239999771118164,
+        "text": " I want to know why I'm still getting charged for medicine that I already paid for."
+      },
+      {
+        "id": 4,
+        "start": 15.239999771118164,
+        "end": 16.399999618530273,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f411d0a-101c-815f-989b-c716967828fc",
+    "url": "https://www.notion.so/300000001215969-300000001705554-2f411d0a101c815f989bc716967828fc"
+  },
+  "processedAt": "2026-01-26T21:37:51.458Z"
+}

@@ -1,0 +1,128 @@
+{
+  "recording": {
+    "name": "300000001219602-300000001709617-7065642430 by gabriela@superbalife.com @ 11_57_52 AM.wav",
+    "size": 154370,
+    "modifyTime": 1769589438000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219602-300000001709617-7065642430 by gabriela@superbalife.com @ 11_57_52 AM.wav",
+    "uploadDate": "2026-01-28T08:37:18.000Z",
+    "callId": "300000001219602-300000001709617",
+    "agent": "gabriela",
+    "phoneNumber": "7065642430",
+    "callTimestamp": "2026-01-28T11:57:52.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Yes, my name is Mrs. Coleman. My husband wanted me to contact y'all to let you know that he no longer wants to receive the Sinonell, whatever it is, the generic for Viagra, because he had a reaction to it, so his doctor told him not to take it, and y'all sent him another shipment.\n\nSpeaker 1: What's his date of birth?\n\nSpeaker 2: It's March 17, 1961.\n\nSpeaker 1: His name?\n\nSpeaker 2: Norbert Coleman, C-O-L-E-M-A-N.\n\nSpeaker 1: Thank you. And is Norbert there with you?\n\nSpeaker 2: No, he's at work. That's why he wanted me to call.\n\nSpeaker 1: Okay, yeah, because this is prescribed medication, we will need him to give us a call, or at least give you consent to be able to give us a call and for you to make any changes.\n\nSpeaker 2: Okay, and how late are y'all open?\n\nSpeaker 1: We're open until 5 p.m. Pacific time. It looks like you're in Georgia, so you're three hours ahead of us.\n\nSpeaker 2: Okay.\n\nSpeaker 1: He's three, so he'll still have time to call.\n\nSpeaker 2: Yeah, he'll still have time, so just have him give us a call, and we'll be able to make those changes for him.\n\nSpeaker 1: Okay, no problem. Thank you so much, and you have a good day.\n\nSpeaker 2: Thank you, you too. Bye.",
+    "duration": 3653,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 20,
+        "text": " Yes, my name is Mrs. Coleman. My husband wanted me to contact y'all to let you know that he no longer wants to receive the Sinonell, whatever it is, the generic for Viagra,"
+      },
+      {
+        "id": 2,
+        "start": 20,
+        "end": 28,
+        "text": " because he had a reaction to it, so his doctor told him not to take it, and y'all sent him another shipment."
+      },
+      {
+        "id": 3,
+        "start": 28,
+        "end": 31,
+        "text": " What's his date of birth?"
+      },
+      {
+        "id": 4,
+        "start": 31,
+        "end": 38,
+        "text": " It's March 17, 1961."
+      },
+      {
+        "id": 5,
+        "start": 38,
+        "end": 41,
+        "text": " His name?"
+      },
+      {
+        "id": 6,
+        "start": 41,
+        "end": 47,
+        "text": " Norbert Coleman, C-O-L-E-M-A-N."
+      },
+      {
+        "id": 7,
+        "start": 47,
+        "end": 51,
+        "text": " Thank you. And is Norbert there with you?"
+      },
+      {
+        "id": 8,
+        "start": 51,
+        "end": 55,
+        "text": " No, he's at work. That's why he wanted me to call."
+      },
+      {
+        "id": 9,
+        "start": 55,
+        "end": 67,
+        "text": " Okay, yeah, because this is prescribed medication, we will need him to give us a call, or at least give you consent to be able to give us a call and for you to make any changes."
+      },
+      {
+        "id": 10,
+        "start": 67,
+        "end": 70,
+        "text": " Okay, and how late are y'all open?"
+      },
+      {
+        "id": 11,
+        "start": 70,
+        "end": 77,
+        "text": " We're open until 5 p.m. Pacific time. It looks like you're in Georgia, so you're three hours ahead of us."
+      },
+      {
+        "id": 12,
+        "start": 77,
+        "end": 80,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 80,
+        "end": 83,
+        "text": " He's three, so he'll still have time to call."
+      },
+      {
+        "id": 14,
+        "start": 83,
+        "end": 88,
+        "text": " Yeah, he'll still have time, so just have him give us a call, and we'll be able to make those changes for him."
+      },
+      {
+        "id": 15,
+        "start": 88,
+        "end": 92,
+        "text": " Okay, no problem. Thank you so much, and you have a good day."
+      },
+      {
+        "id": 16,
+        "start": 92,
+        "end": 95,
+        "text": " Thank you, you too. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8112-aa28-e517d4b318da",
+    "url": "https://www.notion.so/300000001219602-300000001709617-2f611d0a101c8112aa28e517d4b318da"
+  },
+  "processedAt": "2026-01-28T12:44:16.791Z"
+}

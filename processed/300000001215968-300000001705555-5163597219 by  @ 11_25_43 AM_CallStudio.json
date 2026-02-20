@@ -1,0 +1,49 @@
+{
+  "recording": {
+    "name": "300000001215968-300000001705555-5163597219 by  @ 11_25_43 AM_CallStudio.wav",
+    "size": 23656,
+    "modifyTime": 1769196385000,
+    "remotePath": "/five9sftp/recordings/SB CS/1_23_2026/300000001215968-300000001705555-5163597219 by  @ 11_25_43 AM_CallStudio.wav",
+    "uploadDate": "2026-01-23T19:26:25.000Z",
+    "callId": "300000001215968-300000001705555",
+    "phoneNumber": "5163597219",
+    "callTimestamp": "2026-01-23T19:26:25.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: I received the wrong order.\n\nSpeaker 1: Thanks, transferring to an agent.",
+    "duration": 878,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.360000133514404,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.360000133514404,
+        "end": 7.840000152587891,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.840000152587891,
+        "end": 11.239999771118164,
+        "text": " Received the wrong order."
+      },
+      {
+        "id": 3,
+        "start": 11.239999771118164,
+        "end": 14.239999771118164,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f411d0a-101c-8129-832c-d3d2753fa093",
+    "url": "https://www.notion.so/300000001215968-300000001705555-2f411d0a101c8129832cd3d2753fa093"
+  },
+  "processedAt": "2026-01-26T21:37:48.857Z"
+}

@@ -1,0 +1,272 @@
+{
+  "recording": {
+    "name": "300000001217375-300000001707719-6304011054 by johanna@superbalife.com @ 10_08_19 AM.wav",
+    "size": 108870,
+    "modifyTime": 1769592158000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217375-300000001707719-6304011054 by johanna@superbalife.com @ 10_08_19 AM.wav",
+    "uploadDate": "2026-01-28T09:22:38.000Z",
+    "callId": "300000001217375-300000001707719",
+    "agent": "johanna",
+    "phoneNumber": "6304011054",
+    "callTimestamp": "2026-01-28T10:08:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: This is Joanna speaking.\n\nSpeaker 2: Yeah, hi.\n\nSpeaker 1: I think I spoke with you a few minutes ago about canceling my plan that I had with you guys.\n\nSpeaker 2: Yes.\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Hey, you were telling me about the refund process.\n\nSpeaker 1: Are they going to put that back on the card that it came off of? Because I actually went in there to stop you guys from taking another one, put another card number in there.\n\nSpeaker 2: It's the same card, but it's the old number.\n\nSpeaker 1: Does that matter?\n\nSpeaker 2: No.\n\nSpeaker 1: They'll still be able to put it back on the same card, even if you change the card number.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Once they're canceled, you're entirely canceled.\n\nSpeaker 1: So no need to dispute it with your bank, because that does hurt our business when you report it as fraud.\n\nSpeaker 2: Right.\n\nSpeaker 1: Don't want to do that.\n\nSpeaker 2: Okay.\n\nSpeaker 1: But thank you.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: You know about how long before the refund is issued?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: It's already been done on our end.\n\nSpeaker 1: It'll take up to five business days.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Cool.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, sir.\n\nSpeaker 2: Thank you for calling in.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: No problem.\n\nSpeaker 1: You're welcome.\n\nSpeaker 2: Bye-bye.",
+    "duration": 4410,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " This is Joanna speaking."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 4,
+        "text": " Yeah, hi."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 10.319999694824219,
+        "text": " I think I spoke with you a few minutes ago about counseling my plan that I had with you"
+      },
+      {
+        "id": 3,
+        "start": 10.319999694824219,
+        "end": 11.319999694824219,
+        "text": " guys."
+      },
+      {
+        "id": 4,
+        "start": 11.319999694824219,
+        "end": 12.319999694824219,
+        "text": " Yes."
+      },
+      {
+        "id": 5,
+        "start": 12.319999694824219,
+        "end": 13.319999694824219,
+        "text": " Yeah."
+      },
+      {
+        "id": 6,
+        "start": 13.319999694824219,
+        "end": 14.319999694824219,
+        "text": " Hey, you were telling me about the refund process."
+      },
+      {
+        "id": 7,
+        "start": 14.319999694824219,
+        "end": 19.68000030517578,
+        "text": " Are they going to put that back on the card that it came off of, because I actually went"
+      },
+      {
+        "id": 8,
+        "start": 19.68000030517578,
+        "end": 24,
+        "text": " in there to stop you guys from taking another one, put another card number in there."
+      },
+      {
+        "id": 9,
+        "start": 24,
+        "end": 27,
+        "text": " It's the same card, but it's the old number."
+      },
+      {
+        "id": 10,
+        "start": 27,
+        "end": 29,
+        "text": " Does that matter?"
+      },
+      {
+        "id": 11,
+        "start": 29,
+        "end": 30,
+        "text": " No."
+      },
+      {
+        "id": 12,
+        "start": 30,
+        "end": 35,
+        "text": " They'll still be able to put it back on the same card, even if you change the card number."
+      },
+      {
+        "id": 13,
+        "start": 35,
+        "end": 36,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 36,
+        "end": 37,
+        "text": " Thank you."
+      },
+      {
+        "id": 15,
+        "start": 37,
+        "end": 38,
+        "text": " Once they're canceled, you're entirely canceled."
+      },
+      {
+        "id": 16,
+        "start": 38,
+        "end": 42,
+        "text": " So no need to dispute it with your bank, because that does hurt our business when you report"
+      },
+      {
+        "id": 17,
+        "start": 42,
+        "end": 43,
+        "text": " it as fraud."
+      },
+      {
+        "id": 18,
+        "start": 43,
+        "end": 44,
+        "text": " Right."
+      },
+      {
+        "id": 19,
+        "start": 44,
+        "end": 45,
+        "text": " Right."
+      },
+      {
+        "id": 20,
+        "start": 45,
+        "end": 46,
+        "text": " Don't want to do that."
+      },
+      {
+        "id": 21,
+        "start": 46,
+        "end": 47,
+        "text": " Okay."
+      },
+      {
+        "id": 22,
+        "start": 47,
+        "end": 48,
+        "text": " But thank you."
+      },
+      {
+        "id": 23,
+        "start": 48,
+        "end": 49,
+        "text": " Yeah."
+      },
+      {
+        "id": 24,
+        "start": 49,
+        "end": 50,
+        "text": " Okay."
+      },
+      {
+        "id": 25,
+        "start": 50,
+        "end": 51,
+        "text": " Thank you."
+      },
+      {
+        "id": 26,
+        "start": 51,
+        "end": 52,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 27,
+        "start": 52,
+        "end": 53,
+        "text": " You know about how long before the refund is issued?"
+      },
+      {
+        "id": 28,
+        "start": 53,
+        "end": 54,
+        "text": " Yeah."
+      },
+      {
+        "id": 29,
+        "start": 54,
+        "end": 55,
+        "text": " It's already been done on our end."
+      },
+      {
+        "id": 30,
+        "start": 55,
+        "end": 59,
+        "text": " It'll take up to five business days."
+      },
+      {
+        "id": 31,
+        "start": 59,
+        "end": 60,
+        "text": " Okay."
+      },
+      {
+        "id": 32,
+        "start": 60,
+        "end": 61,
+        "text": " Cool."
+      },
+      {
+        "id": 33,
+        "start": 61,
+        "end": 62,
+        "text": " Okay."
+      },
+      {
+        "id": 34,
+        "start": 62,
+        "end": 63,
+        "text": " All right, sir."
+      },
+      {
+        "id": 35,
+        "start": 63,
+        "end": 64,
+        "text": " Thank you for calling in."
+      },
+      {
+        "id": 36,
+        "start": 64,
+        "end": 65,
+        "text": " Thank you."
+      },
+      {
+        "id": 37,
+        "start": 65,
+        "end": 66,
+        "text": " No problem."
+      },
+      {
+        "id": 38,
+        "start": 66,
+        "end": 67,
+        "text": " You're welcome."
+      },
+      {
+        "id": 39,
+        "start": 67,
+        "end": 68,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 40,
+        "start": 68,
+        "end": 68,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8189-a3fb-d287fc863cbf",
+    "url": "https://www.notion.so/300000001217375-300000001707719-2f611d0a101c8189a3fbd287fc863cbf"
+  },
+  "processedAt": "2026-01-28T10:38:23.437Z"
+}

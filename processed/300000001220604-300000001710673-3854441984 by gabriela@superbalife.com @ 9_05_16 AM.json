@@ -1,0 +1,110 @@
+{
+  "recording": {
+    "name": "300000001220604-300000001710673-3854441984 by gabriela@superbalife.com @ 9_05_16 AM.wav",
+    "size": 98016,
+    "modifyTime": 1769619998000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220604-300000001710673-3854441984 by gabriela@superbalife.com @ 9_05_16 AM.wav",
+    "uploadDate": "2026-01-28T17:06:38.000Z",
+    "callId": "300000001220604-300000001710673",
+    "agent": "gabriela",
+    "phoneNumber": "3854441984",
+    "callTimestamp": "2026-01-28T09:05:16.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Yeah, I was just calling because I paid for an expedited shipment.\n\nSpeaker 1: It said they shipped yesterday.\n\nSpeaker 2: But the tracking number and the USPS isn't valid, they say.\n\nSpeaker 1: So I was trying to follow up and see when it might be delivered\n\nSpeaker 2: because I'm not at home.\n\nSpeaker 1: Yeah, of course. What's your name and date of birth?\n\nSpeaker 2: Kent Stanger, October 7, 1954.\n\nSpeaker 1: Thank you for confirming that information, Kent.\n\nSpeaker 2: So yes, you should be receiving your order today.\n\nSpeaker 1: It's estimated to arrive between 9:10 a.m. and 1:10 p.m.\n\nSpeaker 2: Okay, that's helpful.\n\nSpeaker 1: Thank you very much.\n\nSpeaker 2: You're welcome. Have a good rest of your day. Bye.",
+    "duration": 3181,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 12,
+        "text": " Yeah, I was just calling because I paid for an expedited shipment."
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 14,
+        "text": " It said they shipped yesterday."
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 22,
+        "text": " But the tracking number and the USPS isn't valid, they say."
+      },
+      {
+        "id": 4,
+        "start": 22,
+        "end": 25,
+        "text": " So I was trying to follow up and see when it might be delivered"
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 30,
+        "text": " because I'm not at home."
+      },
+      {
+        "id": 6,
+        "start": 30,
+        "end": 33,
+        "text": " Yeah, of course. What's your name and date of birth?"
+      },
+      {
+        "id": 7,
+        "start": 33,
+        "end": 37,
+        "text": " Kent Stanger, October 7, 1954."
+      },
+      {
+        "id": 8,
+        "start": 37,
+        "end": 40,
+        "text": " Thank you for confirming that information, Kent."
+      },
+      {
+        "id": 9,
+        "start": 40,
+        "end": 43,
+        "text": " So yes, you should be receiving your order today."
+      },
+      {
+        "id": 10,
+        "start": 43,
+        "end": 50,
+        "text": " It's estimated to arrive between 9, 10 a.m. and 1, 10 p.m."
+      },
+      {
+        "id": 11,
+        "start": 50,
+        "end": 54,
+        "text": " Okay, that's helpful."
+      },
+      {
+        "id": 12,
+        "start": 54,
+        "end": 55,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 13,
+        "start": 55,
+        "end": 60,
+        "text": " You're welcome. Have a good rest of your day. Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-810f-976d-e7ea7de2280f",
+    "url": "https://www.notion.so/300000001220604-300000001710673-2f611d0a101c810f976de7ea7de2280f"
+  },
+  "processedAt": "2026-01-28T18:41:38.767Z"
+}

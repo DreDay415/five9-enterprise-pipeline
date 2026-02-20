@@ -1,0 +1,212 @@
+{
+  "recording": {
+    "name": "300000001217134-300000001707537-8653235301 by john@superbalife.com @ 9_14_08 AM.wav",
+    "size": 213260,
+    "modifyTime": 1769592443000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217134-300000001707537-8653235301 by john@superbalife.com @ 9_14_08 AM.wav",
+    "uploadDate": "2026-01-28T09:27:23.000Z",
+    "callId": "300000001217134-300000001707537",
+    "agent": "john",
+    "phoneNumber": "8653235301",
+    "callTimestamp": "2026-01-28T09:14:08.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Hi, John. My name is Kyle Bean. How are you doing today?\n\nSpeaker 1: I'm doing well. What can I do for you?\n\nSpeaker 2: I was actually calling because I've noticed that another payment was taken out for the subscription,\n\nSpeaker 1: which I've emailed and asked for it to be canceled before, and apparently it wasn't.\n\nSpeaker 2: So I need to make sure that it gets canceled out because I don't need it no longer.\n\nSpeaker 1: Okay. Can I get your zip code, please?\n\nSpeaker 2: Zip code? I don't remember what I had listed on there. I think it's 37331.\n\nSpeaker 1: How about your date of birth?\n\nSpeaker 2: 10-22-1985.\n\nSpeaker 1: I see your email, sir. We replied to you telling you you had to call, so that's why it wasn't done.\n\nSpeaker 2: I can take care of it now. We'll close out the account for good, though. That's what you want?\n\nSpeaker 1: Yeah. Will it continue because it's in the pharmacy process?\n\nSpeaker 2: Will it still cancel it out and be refunded?\n\nSpeaker 1: That one I have to check on.\n\nSpeaker 2: You can still get your money back on the one that's at the pharmacy, even if it's shipped.\n\nSpeaker 1: You just would have to return it when it gets to you, but I can cancel the future order, sir.\n\nSpeaker 2: Okay.\n\nSpeaker 1: So I'll check with the pharmacy on the other one, and I can let you know once I get a word back from them.\n\nSpeaker 2: Well, we'll do it this way. We'll let this one go.\n\nSpeaker 1: I just need to make sure that the address was updated when I did it.\n\nSpeaker 2: We have 301 First Street.\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I'll go ahead and have this one sent out.\n\nSpeaker 2: I'll just have it for future references, but from here on, I'll just have it canceled out.\n\nSpeaker 1: Okay, Kyle. Then we're all set. We're squared away on our side.\n\nSpeaker 2: All right. I appreciate it.\n\nSpeaker 1: Have a good day, sir.\n\nSpeaker 2: Okay. Bye.\n\nSpeaker 1: Bye.",
+    "duration": 5549,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 6,
+        "text": " Hi, John. My name is Kyle Bean. How are you doing today?"
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 9,
+        "text": " I'm doing well. What can I do for you?"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 18,
+        "text": " I was actually calling because I've noticed that another payment was taken out for the subscription,"
+      },
+      {
+        "id": 4,
+        "start": 18,
+        "end": 23,
+        "text": " which I've emailed and asked for it to be canceled before, and apparently it wasn't."
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 28,
+        "text": " So I need to make sure that it gets canceled out because I don't need it no longer."
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 32,
+        "text": " Okay. Can I get your zip code, please?"
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 41,
+        "text": " Zip code? I don't remember what I had listed on there. I think it's 37331."
+      },
+      {
+        "id": 8,
+        "start": 41,
+        "end": 43,
+        "text": " How about your date of birth?"
+      },
+      {
+        "id": 9,
+        "start": 43,
+        "end": 56,
+        "text": " 10-22-1985."
+      },
+      {
+        "id": 10,
+        "start": 57,
+        "end": 62,
+        "text": " I see your email, sir. We replied to you telling you you had to call, so that's why it wasn't done."
+      },
+      {
+        "id": 11,
+        "start": 62,
+        "end": 68,
+        "text": " I can take care of it now. We'll close out the account for good, though. That's what you want?"
+      },
+      {
+        "id": 12,
+        "start": 68,
+        "end": 73,
+        "text": " Yeah. Will it continue because it's in the pharmacy process?"
+      },
+      {
+        "id": 13,
+        "start": 73,
+        "end": 79,
+        "text": " Will it still cancel it out and be refunded?"
+      },
+      {
+        "id": 14,
+        "start": 79,
+        "end": 81,
+        "text": " That one I have to check on."
+      },
+      {
+        "id": 15,
+        "start": 81,
+        "end": 85,
+        "text": " You can still get your money back on the one that's at the pharmacy, even if it's shipped."
+      },
+      {
+        "id": 16,
+        "start": 85,
+        "end": 89,
+        "text": " You just would have to return it when it gets to you, but I can cancel the future order, sir."
+      },
+      {
+        "id": 17,
+        "start": 89,
+        "end": 91,
+        "text": " Okay."
+      },
+      {
+        "id": 18,
+        "start": 91,
+        "end": 98,
+        "text": " So I'll check with the pharmacy on the other one, and I can let you know once I get a word back from them."
+      },
+      {
+        "id": 19,
+        "start": 98,
+        "end": 103,
+        "text": " Well, we'll do it this way. We'll let this one go."
+      },
+      {
+        "id": 20,
+        "start": 103,
+        "end": 109,
+        "text": " I just need to make sure that the address was updated when I did it."
+      },
+      {
+        "id": 21,
+        "start": 109,
+        "end": 112,
+        "text": " We have 301 First Street."
+      },
+      {
+        "id": 22,
+        "start": 112,
+        "end": 113,
+        "text": " Yes."
+      },
+      {
+        "id": 23,
+        "start": 113,
+        "end": 114,
+        "text": " Okay."
+      },
+      {
+        "id": 24,
+        "start": 114,
+        "end": 117,
+        "text": " I'll go ahead and have this one sent out."
+      },
+      {
+        "id": 25,
+        "start": 117,
+        "end": 123,
+        "text": " I'll just have it for future references, but from here on, I'll just have it canceled out."
+      },
+      {
+        "id": 26,
+        "start": 123,
+        "end": 126,
+        "text": " Okay, Kyle. Then we're all set. We're squared away on our side."
+      },
+      {
+        "id": 27,
+        "start": 126,
+        "end": 128,
+        "text": " All right. I appreciate it."
+      },
+      {
+        "id": 28,
+        "start": 128,
+        "end": 129,
+        "text": " Have a good day, sir."
+      },
+      {
+        "id": 29,
+        "start": 129,
+        "end": 130,
+        "text": " Okay. Bye."
+      },
+      {
+        "id": 30,
+        "start": 130,
+        "end": 131,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-813c-8dc3-ed643aaf874b",
+    "url": "https://www.notion.so/300000001217134-300000001707537-2f611d0a101c813c8dc3ed643aaf874b"
+  },
+  "processedAt": "2026-01-28T10:28:15.620Z"
+}

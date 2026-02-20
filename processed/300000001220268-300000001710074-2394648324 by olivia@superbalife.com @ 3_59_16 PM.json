@@ -1,0 +1,266 @@
+{
+  "recording": {
+    "name": "300000001220268-300000001710074-2394648324 by olivia@superbalife.com @ 3_59_16 PM.wav",
+    "size": 190186,
+    "modifyTime": 1769558494000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220268-300000001710074-2394648324 by olivia@superbalife.com @ 3_59_16 PM.wav",
+    "uploadDate": "2026-01-28T00:01:34.000Z",
+    "callId": "300000001220268-300000001710074",
+    "agent": "olivia",
+    "phoneNumber": "2394648324",
+    "callTimestamp": "2026-01-28T15:59:16.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, this is Olivia speaking.\n\nSpeaker 2: Who do I have the pleasure of speaking with today?\n\nSpeaker 1: Russell Myers.\n\nSpeaker 2: Hi, Russell.\n\nSpeaker 1: How are you?\n\nSpeaker 2: Great.\n\nSpeaker 1: How about yourself?\n\nSpeaker 2: Good.\n\nSpeaker 1: Thank you so much for asking.\n\nSpeaker 2: How can I help you today, Russell?\n\nSpeaker 1: Yeah, I just want to cancel the automated delivery that I have coming.\n\nSpeaker 2: Yeah, I can help you with that.\n\nSpeaker 1: Okay, Russell, so what is your date of birth?\n\nSpeaker 2: 5-6-57.\n\nSpeaker 1: Great.\n\nSpeaker 2: And you're located at 17691 Oakmont Ridge Circle, Fort Myers, Florida?\n\nSpeaker 1: Yep, that's me.\n\nSpeaker 2: Yeah, so I see your prescription here.\n\nSpeaker 1: All right, yeah, well, just so you know, Russell,\n\nSpeaker 2: if you don't want to receive those regular monthly refills with your prescription,\n\nSpeaker 1: you certainly don't have to.\n\nSpeaker 2: You always have the option with your prescription to place it on hold for up to six months,\n\nSpeaker 1: just because six months is when the prescription would expire if we didn't refill it.\n\nSpeaker 2: And the way that would work is if you did want to order before then you could,\n\nSpeaker 1: you just have to give us a call to place the order yourself.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, great.\n\nSpeaker 2: So, yeah, if you need anything before the end of July, July 27th,\n\nSpeaker 1: just give us a call to place the order whenever you're ready.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Yeah, of course.\n\nSpeaker 2: Okay, thank you.\n\nSpeaker 1: Yeah, I hope you have a great day, Russell.\n\nSpeaker 2: You too, thank you.\n\nSpeaker 1: Yeah, happy new year to you too.\n\nSpeaker 2: Yeah, same to you.\n\nSpeaker 1: Okay, thanks.\n\nSpeaker 2: Thank you so much.\n\nSpeaker 1: Bye.\n\nSpeaker 2: Bye.",
+    "duration": 4096,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you for calling Viagra, this is Olivia speaking."
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 9,
+        "text": " Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 11,
+        "text": " Russell Myers."
+      },
+      {
+        "id": 3,
+        "start": 11,
+        "end": 13,
+        "text": " Hi, Russell."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 14,
+        "text": " How are you?"
+      },
+      {
+        "id": 5,
+        "start": 14,
+        "end": 15,
+        "text": " Great."
+      },
+      {
+        "id": 6,
+        "start": 15,
+        "end": 17,
+        "text": " How about yourself?"
+      },
+      {
+        "id": 7,
+        "start": 17,
+        "end": 18,
+        "text": " Good."
+      },
+      {
+        "id": 8,
+        "start": 18,
+        "end": 20,
+        "text": " Thank you so much for asking."
+      },
+      {
+        "id": 9,
+        "start": 20,
+        "end": 22,
+        "text": " How can I help you today, Russell?"
+      },
+      {
+        "id": 10,
+        "start": 22,
+        "end": 28,
+        "text": " Yeah, I just want to cancel the automated delivery that I have coming."
+      },
+      {
+        "id": 11,
+        "start": 28,
+        "end": 30,
+        "text": " Yeah, I can help you with that."
+      },
+      {
+        "id": 12,
+        "start": 30,
+        "end": 34,
+        "text": " Okay, Russell, so what is your date of birth?"
+      },
+      {
+        "id": 13,
+        "start": 34,
+        "end": 37,
+        "text": " 5-6-57."
+      },
+      {
+        "id": 14,
+        "start": 37,
+        "end": 38,
+        "text": " Great."
+      },
+      {
+        "id": 15,
+        "start": 38,
+        "end": 46,
+        "text": " And you're located at 17691 Oakmont Ridge Circle, Fort Myers, Florida?"
+      },
+      {
+        "id": 16,
+        "start": 46,
+        "end": 49,
+        "text": " Yep, that's me."
+      },
+      {
+        "id": 17,
+        "start": 49,
+        "end": 52,
+        "text": " Yeah, so I see your prescription here."
+      },
+      {
+        "id": 18,
+        "start": 52,
+        "end": 55,
+        "text": " All right, yeah, well, just so you know, Russell,"
+      },
+      {
+        "id": 19,
+        "start": 55,
+        "end": 61,
+        "text": " if you don't want to receive those regular monthly refills with your prescription,"
+      },
+      {
+        "id": 20,
+        "start": 61,
+        "end": 63,
+        "text": " you certainly don't have to."
+      },
+      {
+        "id": 21,
+        "start": 63,
+        "end": 70,
+        "text": " You always have the option with your prescription to place it on hold for up to six months,"
+      },
+      {
+        "id": 22,
+        "start": 70,
+        "end": 76,
+        "text": " just because six months is when the prescription would expire if we didn't refill it."
+      },
+      {
+        "id": 23,
+        "start": 76,
+        "end": 82,
+        "text": " And the way that would work is if you did want to order before then you could,"
+      },
+      {
+        "id": 24,
+        "start": 82,
+        "end": 87,
+        "text": " you just have to give us a call to place the order yourself."
+      },
+      {
+        "id": 25,
+        "start": 87,
+        "end": 89,
+        "text": " Okay."
+      },
+      {
+        "id": 26,
+        "start": 89,
+        "end": 91,
+        "text": " Okay, great."
+      },
+      {
+        "id": 27,
+        "start": 91,
+        "end": 98,
+        "text": " So, yeah, if you need anything before the end of July, July 27th,"
+      },
+      {
+        "id": 28,
+        "start": 98,
+        "end": 101,
+        "text": " just give us a call to place the order whenever you're ready."
+      },
+      {
+        "id": 29,
+        "start": 101,
+        "end": 102,
+        "text": " Thank you."
+      },
+      {
+        "id": 30,
+        "start": 102,
+        "end": 103,
+        "text": " Yeah, of course."
+      },
+      {
+        "id": 31,
+        "start": 103,
+        "end": 104,
+        "text": " Okay, thank you."
+      },
+      {
+        "id": 32,
+        "start": 104,
+        "end": 107,
+        "text": " Yeah, I hope you have a great day, Russell."
+      },
+      {
+        "id": 33,
+        "start": 107,
+        "end": 109,
+        "text": " You too, thank you."
+      },
+      {
+        "id": 34,
+        "start": 109,
+        "end": 111,
+        "text": " Yeah, happy new year to you too."
+      },
+      {
+        "id": 35,
+        "start": 111,
+        "end": 113,
+        "text": " Yeah, same to you."
+      },
+      {
+        "id": 36,
+        "start": 113,
+        "end": 114,
+        "text": " Okay, thanks."
+      },
+      {
+        "id": 37,
+        "start": 114,
+        "end": 115,
+        "text": " Thank you so much."
+      },
+      {
+        "id": 38,
+        "start": 115,
+        "end": 116,
+        "text": " Bye."
+      },
+      {
+        "id": 39,
+        "start": 116,
+        "end": 117,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81af-9052-e263f73b694e",
+    "url": "https://www.notion.so/300000001220268-300000001710074-2f611d0a101c81af9052e263f73b694e"
+  },
+  "processedAt": "2026-01-28T17:47:40.886Z"
+}

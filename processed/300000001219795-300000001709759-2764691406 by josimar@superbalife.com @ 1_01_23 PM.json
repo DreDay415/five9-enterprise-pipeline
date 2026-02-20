@@ -1,0 +1,134 @@
+{
+  "recording": {
+    "name": "300000001219795-300000001709759-2764691406 by josimar@superbalife.com @ 1_01_23 PM.wav",
+    "size": 118750,
+    "modifyTime": 1769591840000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219795-300000001709759-2764691406 by josimar@superbalife.com @ 1_01_23 PM.wav",
+    "uploadDate": "2026-01-28T09:17:20.000Z",
+    "callId": "300000001219795-300000001709759",
+    "agent": "josimar",
+    "phoneNumber": "2764691406",
+    "callTimestamp": "2026-01-28T13:01:23.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I received a text that my order was on the way and I confused that with something else.\n\nSpeaker 2: And sent a message that I did not order it, but I indeed did. I confused it with another—\n\nSpeaker 1: Order, and I called and left a message to that effect, but I did indeed order it and don't—\n\nSpeaker 2: Want to cancel it.\n\nSpeaker 1: Sure, I can see what's going on.\n\nSpeaker 2: What's your last name and a zip code?\n\nSpeaker 1: Sexton, I see it, 37620.\n\nSpeaker 2: Alrighty sir, so I don't see that message you sent causing any delays because you got—\n\nSpeaker 1: To prove that now it's currently making its way to you.\n\nSpeaker 2: It's sending it to me?\n\nSpeaker 1: Yeah, yeah.\n\nSpeaker 2: That's fine, that's all I wanted to make sure that it did and didn't get canceled.\n\nSpeaker 1: You're not correct, you're all set sir on that part.\n\nSpeaker 2: I'm sorry?\n\nSpeaker 1: You're all set sir, the order will be there in 3 to 5 business days.\n\nSpeaker 2: Alright, appreciate it, thank you.\n\nSpeaker 1: No problem, have a good one.\n\nSpeaker 2: Bye.",
+    "duration": 3547,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 9.800000190734863,
+        "text": " I received a text that my order was on the way and I confused that with something else"
+      },
+      {
+        "id": 1,
+        "start": 9.800000190734863,
+        "end": 16.68000030517578,
+        "text": " and sent a message that I did not order it but I indeed did, I confused it with another"
+      },
+      {
+        "id": 2,
+        "start": 16.68000030517578,
+        "end": 25,
+        "text": " order and I called and left a message to that effect but I did indeed order it and don't"
+      },
+      {
+        "id": 3,
+        "start": 25,
+        "end": 26,
+        "text": " want to cancel it."
+      },
+      {
+        "id": 4,
+        "start": 27,
+        "end": 29,
+        "text": " Sure, I can see what's going on."
+      },
+      {
+        "id": 5,
+        "start": 31,
+        "end": 33,
+        "text": " What's your last name and a zip code?"
+      },
+      {
+        "id": 6,
+        "start": 33,
+        "end": 37,
+        "text": " Sexton, I see it, 37620."
+      },
+      {
+        "id": 7,
+        "start": 41,
+        "end": 47,
+        "text": " Alrighty sir, so I don't see that message you sent causing any delays because you got"
+      },
+      {
+        "id": 8,
+        "start": 47,
+        "end": 50,
+        "text": " to prove that now it's currently making its way to you."
+      },
+      {
+        "id": 9,
+        "start": 50,
+        "end": 53,
+        "text": " It's sending it to me?"
+      },
+      {
+        "id": 10,
+        "start": 53,
+        "end": 54,
+        "text": " Yeah, yeah."
+      },
+      {
+        "id": 11,
+        "start": 54,
+        "end": 58,
+        "text": " That's fine, that's all I wanted to make sure that it did and didn't get canceled."
+      },
+      {
+        "id": 12,
+        "start": 58,
+        "end": 61,
+        "text": " You're not correct, you're all set sir on that part."
+      },
+      {
+        "id": 13,
+        "start": 61,
+        "end": 63,
+        "text": " I'm sorry?"
+      },
+      {
+        "id": 14,
+        "start": 63,
+        "end": 67,
+        "text": " You're all set sir, the order will be there in 3 to 5 business days."
+      },
+      {
+        "id": 15,
+        "start": 67,
+        "end": 69,
+        "text": " Alright, appreciate it, thank you."
+      },
+      {
+        "id": 16,
+        "start": 69,
+        "end": 71,
+        "text": " No problem, have a good one."
+      },
+      {
+        "id": 17,
+        "start": 71,
+        "end": 72,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81b5-a788-e3f8f9738b2c",
+    "url": "https://www.notion.so/300000001219795-300000001709759-2f611d0a101c81b5a788e3f8f9738b2c"
+  },
+  "processedAt": "2026-01-28T11:20:26.887Z"
+}

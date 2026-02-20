@@ -1,0 +1,95 @@
+{
+  "recording": {
+    "name": "300000001242183-300000001731682-5094493385 by summer@verifiednutrition.com @ 11_39_54 AM.wav",
+    "size": 94636,
+    "modifyTime": 1771012350000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242183-300000001731682-5094493385 by summer@verifiednutrition.com @ 11_39_54 AM.wav",
+    "uploadDate": "2026-02-13T19:52:30.000Z",
+    "callId": "300000001242183-300000001731682",
+    "agent": "summer",
+    "phoneNumber": "5094493385",
+    "callTimestamp": "2026-02-13T11:39:54.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_summer_300000001242183-300000001731682_5094493385.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_summer_300000001242183-300000001731682_5094493385.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: I just called a few minutes ago about getting my order from you folks and I've since decided\n\nSpeaker 2: that since it hasn't been delivered in like two months that I might as well just cancel\n\nSpeaker 1: the order.\n\nSpeaker 2: Okay, give me a second.\n\nSpeaker 1: Since you have, oh, what's going to happen?\n\nSpeaker 2: Verify data for new prescriptions.\n\nSpeaker 1: Please verify patient data for...\n\nSpeaker 2: Just spoke with a lady who said she was going to ship it out via FedEx, but I just don't\n\nSpeaker 1: really trust you guys.\n\nSpeaker 2: And the stuff I see online is pretty bad.\n\nSpeaker 1: Okay, one second.",
+    "duration": 3093,
+    "audioDuration": 58.20000076293945,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 12.5600004196167,
+        "text": " I just called a few minutes ago about getting my order from you folks and I've since decided"
+      },
+      {
+        "id": 1,
+        "start": 12.5600004196167,
+        "end": 17.059999465942383,
+        "text": " that since it hasn't been delivered in like two months that I might as well just cancel"
+      },
+      {
+        "id": 2,
+        "start": 17.059999465942383,
+        "end": 18.059999465942383,
+        "text": " the order."
+      },
+      {
+        "id": 3,
+        "start": 19.059999465942383,
+        "end": 22.059999465942383,
+        "text": " Okay, give me a second."
+      },
+      {
+        "id": 4,
+        "start": 28.059999465942383,
+        "end": 32.060001373291016,
+        "text": " Since you have, oh, what's going to happen?"
+      },
+      {
+        "id": 5,
+        "start": 34.060001373291016,
+        "end": 38.060001373291016,
+        "text": " Verify data for new prescriptions."
+      },
+      {
+        "id": 6,
+        "start": 41.060001373291016,
+        "end": 44.060001373291016,
+        "text": " Please verify patient data for..."
+      },
+      {
+        "id": 7,
+        "start": 44.060001373291016,
+        "end": 51.060001373291016,
+        "text": " Just spoke with a lady who said she was going to ship it out via FedEx, but I just don't"
+      },
+      {
+        "id": 8,
+        "start": 51.060001373291016,
+        "end": 53.060001373291016,
+        "text": " really trust you guys."
+      },
+      {
+        "id": 9,
+        "start": 53.060001373291016,
+        "end": 56.060001373291016,
+        "text": " And the stuff I see online is pretty bad."
+      },
+      {
+        "id": 10,
+        "start": 56.060001373291016,
+        "end": 58.060001373291016,
+        "text": " Okay, one second."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-810b-83e3-fe8d374e097f",
+    "url": "https://www.notion.so/300000001242183-300000001731682-30611d0a101c810b83e3fe8d374e097f"
+  },
+  "processedAt": "2026-02-13T20:05:41.734Z"
+}

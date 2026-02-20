@@ -1,0 +1,146 @@
+{
+  "recording": {
+    "name": "300000001217628-300000001707881-4805161282 by john@superbalife.com @ 11_04_45 AM.wav",
+    "size": 159570,
+    "modifyTime": 1769589437000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217628-300000001707881-4805161282 by john@superbalife.com @ 11_04_45 AM.wav",
+    "uploadDate": "2026-01-28T08:37:17.000Z",
+    "callId": "300000001217628-300000001707881",
+    "agent": "john",
+    "phoneNumber": "4805161282",
+    "callTimestamp": "2026-01-28T11:04:45.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling. This is John. How can I help you?\n\nSpeaker 2: Hello?\n\nSpeaker 1: Hi. This is John. You called us, sir.\n\nSpeaker 2: Well, I received a text. Some clinician needed to talk to me. I talked to one the day before yesterday, so I keep getting these messages. So, I don't know. I don't know what else I need to do.\n\nSpeaker 1: Can I get your name and zip code?\n\nSpeaker 2: Nicky Garrett, 72104.\n\nSpeaker 1: Okay. I got you pulled up here. Give me one second, sir.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Oh, do you want to change this to 20 milligrams, sir? Or did you want to stick at 100? That's why the doctor needs to know that.\n\nSpeaker 2: Oh, well, he said he was going to change it to 20. So, I don't know. I didn't necessarily need to.\n\nSpeaker 1: We're confirming. Do you want to do that? You don't have to do that. If you want to stick at the 100, I'll just tell him that you want to stick at the 100 and try it.\n\nSpeaker 2: Well, I'll just stay at the 100. I'll just stay at the 100.\n\nSpeaker 1: Okay. I'll let him know and then he'll get you approved and we'll be all set. Thank you, sir.\n\nSpeaker 2: Okay. Thank you.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Thank you. Bye-bye.",
+    "duration": 4489,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling. This is John. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 7,
+        "text": " Hello?"
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 13,
+        "text": " This message has been transcribed. One moment while I notify the caller."
+      },
+      {
+        "id": 3,
+        "start": 15,
+        "end": 17,
+        "text": " Hello. How may I help you?"
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 19,
+        "text": " Hi. This is John. You called us, sir."
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 35,
+        "text": " Well, I received a text. Some clinician needed to talk to me. I talked to one the day before yesterday, so I keep getting these messages. So, I don't know. I don't know what else I need to do."
+      },
+      {
+        "id": 6,
+        "start": 35,
+        "end": 37,
+        "text": " Can I get your name and zip code?"
+      },
+      {
+        "id": 7,
+        "start": 38,
+        "end": 42,
+        "text": " Nicky Garrett, 72104."
+      },
+      {
+        "id": 8,
+        "start": 42,
+        "end": 43,
+        "text": " Okay."
+      },
+      {
+        "id": 9,
+        "start": 45,
+        "end": 47,
+        "text": " So, I don't know what..."
+      },
+      {
+        "id": 10,
+        "start": 53,
+        "end": 55,
+        "text": " I got you pulled up here. Give me one second, sir."
+      },
+      {
+        "id": 11,
+        "start": 56,
+        "end": 57,
+        "text": " Thank you."
+      },
+      {
+        "id": 12,
+        "start": 62,
+        "end": 65,
+        "text": " Oh, do you want to change this to 20 milligrams, sir?"
+      },
+      {
+        "id": 13,
+        "start": 66,
+        "end": 70,
+        "text": " Or did you want to stick at 100? That's why the doctor needs to know that."
+      },
+      {
+        "id": 14,
+        "start": 72,
+        "end": 80,
+        "text": " Oh, well, he said he was going to change it to 20. So, I don't know. I didn't necessarily need to."
+      },
+      {
+        "id": 15,
+        "start": 80,
+        "end": 86,
+        "text": " We're confirming. Do you want to do that? You don't have to do that. If you want to stick at the 100, I'll just tell him that you want to stick at the 100 and try it."
+      },
+      {
+        "id": 16,
+        "start": 86,
+        "end": 90,
+        "text": " Well, I'll just stay at the 100. I'll just stay at the 100."
+      },
+      {
+        "id": 17,
+        "start": 90,
+        "end": 93,
+        "text": " Okay. I'll let him know and then he'll get you approved and we'll be all set. Thank you, sir."
+      },
+      {
+        "id": 18,
+        "start": 93,
+        "end": 94,
+        "text": " Okay. Thank you."
+      },
+      {
+        "id": 19,
+        "start": 95,
+        "end": 96,
+        "text": " Thank you. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8161-89e7-d5b048368c41",
+    "url": "https://www.notion.so/300000001217628-300000001707881-2f611d0a101c816189e7d5b048368c41"
+  },
+  "processedAt": "2026-01-28T12:46:19.979Z"
+}

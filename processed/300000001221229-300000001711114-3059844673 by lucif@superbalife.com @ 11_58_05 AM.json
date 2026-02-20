@@ -1,0 +1,404 @@
+{
+  "recording": {
+    "name": "300000001221229-300000001711114-3059844673 by lucif@superbalife.com @ 11_58_05 AM.wav",
+    "size": 199546,
+    "modifyTime": 1769630413000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221229-300000001711114-3059844673 by lucif@superbalife.com @ 11_58_05 AM.wav",
+    "uploadDate": "2026-01-28T20:00:13.000Z",
+    "callId": "300000001221229-300000001711114",
+    "agent": "lucif",
+    "phoneNumber": "3059844673",
+    "callTimestamp": "2026-01-28T11:58:05.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: I'm calling because I sent in an email like a month or two ago requesting to cancel my—\n\nSpeaker 2: Subscription.\n\nSpeaker 1: I tried to do it through my PayPal, they said they can't, they have to go directly to you.\n\nSpeaker 2: I have a response from you guys, your request, 398870 has to be received or whatever, but—\n\nSpeaker 1: I just checked today and they keep charging my card.\n\nSpeaker 2: I mean, what do I need to do to cancel that because I had a medical condition.\n\nSpeaker 1: I mean, we usually send you back an email that says to call us to cancel, that's—\n\nSpeaker 2: A pretty simple process.\n\nSpeaker 1: What's going on with Niagara though?\n\nSpeaker 2: Is it not working or are you just getting it too fast because you can order this as—\n\nSpeaker 1: Needed?\n\nSpeaker 2: No, a few months ago I had a medical condition, I had to go to the doctor and they told me—\n\nSpeaker 1: Do not take it anymore.\n\nSpeaker 2: I got like two orders sitting in my drawer there, can I use it, the doctor said don't—\n\nSpeaker 1: Take it anymore.\n\nSpeaker 2: So I got running some tests and see what was happening, I was in the hospital.\n\nSpeaker 1: So like two months ago, I tell them, you know, cancel it, you know, and I'm in a bad condition—\n\nSpeaker 2: I can't use it.\n\nSpeaker 1: Yeah, because we don't do cancellations through email.\n\nSpeaker 2: Okay, so how can I do the cancellation?\n\nSpeaker 1: Yeah, I'll call and cancel it for you right now.\n\nSpeaker 2: I mean, your health doesn't matter.\n\nSpeaker 1: Yeah, right now.\n\nSpeaker 2: I understand.\n\nSpeaker 1: You can't take it.\n\nSpeaker 2: Cancel it, man, because I'm spending my money and it's just sitting in my drawer there—\n\nSpeaker 1: I can't even use this.\n\nSpeaker 2: Okay, yeah, no, we understand.\n\nSpeaker 1: So we canceled it for you.\n\nSpeaker 2: Is there anything else that you need?\n\nSpeaker 1: No.\n\nSpeaker 2: Will I get a confirmation email regarding that?\n\nSpeaker 1: No email, no, just the verbal confirmation.\n\nSpeaker 2: Is your prescription canceled?\n\nSpeaker 1: So verbally, it's canceled.\n\nSpeaker 2: What's your name?\n\nSpeaker 1: You have an agent name, a number or something?\n\nSpeaker 2: Yeah, my name is Quinn.\n\nSpeaker 1: No employee number or nothing like that?\n\nSpeaker 2: Yeah, extension is 0035.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay.\n\nSpeaker 1: 0035.\n\nSpeaker 2: Glenn.\n\nSpeaker 1: Thank you very much, Glenn.\n\nSpeaker 2: You're welcome.\n\nSpeaker 1: You have a good day.",
+    "duration": 11662,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 12.34000015258789,
+        "text": " I'm calling because I sent in an email like a month or two ago requesting to cancel my"
+      },
+      {
+        "id": 1,
+        "start": 12.34000015258789,
+        "end": 13.34000015258789,
+        "text": " subscription."
+      },
+      {
+        "id": 2,
+        "start": 13.34000015258789,
+        "end": 17.739999771118164,
+        "text": " I tried to do it through my PayPal, they said they can't, they have to go directly to you."
+      },
+      {
+        "id": 3,
+        "start": 17.739999771118164,
+        "end": 24.940000534057617,
+        "text": " I have a response from you guys, your request, 398870 has to be received or whatever, but"
+      },
+      {
+        "id": 4,
+        "start": 24.940000534057617,
+        "end": 28.540000915527344,
+        "text": " I just checked today and they keep charging my card."
+      },
+      {
+        "id": 5,
+        "start": 28.540000915527344,
+        "end": 31.540000915527344,
+        "text": " I mean, what do I need to do to cancel that because I had a medical condition."
+      },
+      {
+        "id": 6,
+        "start": 31.540000915527344,
+        "end": 35.41999816894531,
+        "text": " I mean, we usually send you back an email back that says to call us to cancel, that's"
+      },
+      {
+        "id": 7,
+        "start": 35.41999816894531,
+        "end": 36.41999816894531,
+        "text": " a pretty simple process."
+      },
+      {
+        "id": 8,
+        "start": 36.41999816894531,
+        "end": 37.41999816894531,
+        "text": " What's going on with Niagara though?"
+      },
+      {
+        "id": 9,
+        "start": 37.41999816894531,
+        "end": 43.41999816894531,
+        "text": " Is it not working or are you just getting it too fast because you can order this as"
+      },
+      {
+        "id": 10,
+        "start": 43.41999816894531,
+        "end": 44.41999816894531,
+        "text": " needed?"
+      },
+      {
+        "id": 11,
+        "start": 44.41999816894531,
+        "end": 48.70000076293945,
+        "text": " No, a few months ago I had a medical condition, I had to go to the doctor and they told me"
+      },
+      {
+        "id": 12,
+        "start": 48.70000076293945,
+        "end": 49.70000076293945,
+        "text": " do not take it anymore."
+      },
+      {
+        "id": 13,
+        "start": 49.70000076293945,
+        "end": 55.220001220703125,
+        "text": " I got like two orders sitting in my drawer there, can I use it, the doctor said don't"
+      },
+      {
+        "id": 14,
+        "start": 55.220001220703125,
+        "end": 56.220001220703125,
+        "text": " take it anymore."
+      },
+      {
+        "id": 15,
+        "start": 56.900001525878906,
+        "end": 61.060001373291016,
+        "text": " So I got running some tests and see what was happening, I was in the hospital."
+      },
+      {
+        "id": 16,
+        "start": 61.060001373291016,
+        "end": 66.45999908447266,
+        "text": " So like two months ago, I tell them, you know, cancel it, you know, and I'm in a bad condition,"
+      },
+      {
+        "id": 17,
+        "start": 66.45999908447266,
+        "end": 67.45999908447266,
+        "text": " I can't use it."
+      },
+      {
+        "id": 18,
+        "start": 67.45999908447266,
+        "end": 69.45999908447266,
+        "text": " Yeah, because we don't do cancellations through email."
+      },
+      {
+        "id": 19,
+        "start": 69.45999908447266,
+        "end": 72.45999908447266,
+        "text": " Okay, so how can I do the cancellation?"
+      },
+      {
+        "id": 20,
+        "start": 72.45999908447266,
+        "end": 75.45999908447266,
+        "text": " Yeah, I'll call and cancel it for you right now."
+      },
+      {
+        "id": 21,
+        "start": 75.45999908447266,
+        "end": 76.45999908447266,
+        "text": " I mean, your health doesn't matter."
+      },
+      {
+        "id": 22,
+        "start": 76.45999908447266,
+        "end": 77.45999908447266,
+        "text": " Yeah, right now."
+      },
+      {
+        "id": 23,
+        "start": 77.45999908447266,
+        "end": 78.45999908447266,
+        "text": " I understand."
+      },
+      {
+        "id": 24,
+        "start": 78.45999908447266,
+        "end": 79.45999908447266,
+        "text": " You can't take it."
+      },
+      {
+        "id": 25,
+        "start": 79.45999908447266,
+        "end": 82.45999908447266,
+        "text": " Cancel it, man, because I'm spending my money and it's just sitting in my drawer there,"
+      },
+      {
+        "id": 26,
+        "start": 82.45999908447266,
+        "end": 83.45999908447266,
+        "text": " I can't even use this."
+      },
+      {
+        "id": 27,
+        "start": 83.45999908447266,
+        "end": 84.45999908447266,
+        "text": " Okay, yeah, no, we understand."
+      },
+      {
+        "id": 28,
+        "start": 84.45999908447266,
+        "end": 85.45999908447266,
+        "text": " So we canceled it for you."
+      },
+      {
+        "id": 29,
+        "start": 85.69999694824219,
+        "end": 88.69999694824219,
+        "text": " Is there anything else that you need?"
+      },
+      {
+        "id": 30,
+        "start": 88.69999694824219,
+        "end": 89.69999694824219,
+        "text": " No."
+      },
+      {
+        "id": 31,
+        "start": 89.69999694824219,
+        "end": 90.69999694824219,
+        "text": " Will I get a confirmation email regarding that?"
+      },
+      {
+        "id": 32,
+        "start": 90.69999694824219,
+        "end": 91.69999694824219,
+        "text": " No email, no, just the verbal confirmation."
+      },
+      {
+        "id": 33,
+        "start": 91.69999694824219,
+        "end": 92.69999694824219,
+        "text": " Is your prescription canceled?"
+      },
+      {
+        "id": 34,
+        "start": 92.69999694824219,
+        "end": 93.69999694824219,
+        "text": " So verbally is canceled."
+      },
+      {
+        "id": 35,
+        "start": 93.69999694824219,
+        "end": 94.69999694824219,
+        "text": " What's your name?"
+      },
+      {
+        "id": 36,
+        "start": 94.69999694824219,
+        "end": 95.69999694824219,
+        "text": " You have an agent name, a number or something?"
+      },
+      {
+        "id": 37,
+        "start": 95.69999694824219,
+        "end": 96.69999694824219,
+        "text": " Yeah, my name is Quinn."
+      },
+      {
+        "id": 38,
+        "start": 96.69999694824219,
+        "end": 97.69999694824219,
+        "text": " No employee number or nothing like that?"
+      },
+      {
+        "id": 39,
+        "start": 97.69999694824219,
+        "end": 98.69999694824219,
+        "text": " Yeah, extension is 0035."
+      },
+      {
+        "id": 40,
+        "start": 98.69999694824219,
+        "end": 99.69999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 41,
+        "start": 99.69999694824219,
+        "end": 100.69999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 42,
+        "start": 100.69999694824219,
+        "end": 101.69999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 43,
+        "start": 101.69999694824219,
+        "end": 102.69999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 44,
+        "start": 102.69999694824219,
+        "end": 103.69999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 45,
+        "start": 103.69999694824219,
+        "end": 104.69999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 46,
+        "start": 104.69999694824219,
+        "end": 105.69999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 47,
+        "start": 105.69999694824219,
+        "end": 106.69999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 48,
+        "start": 106.69999694824219,
+        "end": 107.69999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 49,
+        "start": 107.69999694824219,
+        "end": 108.69999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 50,
+        "start": 108.69999694824219,
+        "end": 109.69999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 51,
+        "start": 109.69999694824219,
+        "end": 110.69999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 52,
+        "start": 110.69999694824219,
+        "end": 111.69999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 53,
+        "start": 111.69999694824219,
+        "end": 112.69999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 54,
+        "start": 112.69999694824219,
+        "end": 113.69999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 55,
+        "start": 113.69999694824219,
+        "end": 114.69999694824219,
+        "text": " Okay."
+      },
+      {
+        "id": 56,
+        "start": 114.94000244140625,
+        "end": 115.94000244140625,
+        "text": " Okay."
+      },
+      {
+        "id": 57,
+        "start": 115.94000244140625,
+        "end": 116.94000244140625,
+        "text": " Okay."
+      },
+      {
+        "id": 58,
+        "start": 116.94000244140625,
+        "end": 117.94000244140625,
+        "text": " 0035."
+      },
+      {
+        "id": 59,
+        "start": 117.94000244140625,
+        "end": 118.94000244140625,
+        "text": " Glenn."
+      },
+      {
+        "id": 60,
+        "start": 118.94000244140625,
+        "end": 119.94000244140625,
+        "text": " Thank you very much, Glenn."
+      },
+      {
+        "id": 61,
+        "start": 119.94000244140625,
+        "end": 120.94000244140625,
+        "text": " You're welcome."
+      },
+      {
+        "id": 62,
+        "start": 120.94000244140625,
+        "end": 122.54000091552734,
+        "text": " You have a good day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-819e-8e35-c6712c8da632",
+    "url": "https://www.notion.so/300000001221229-300000001711114-2f611d0a101c819e8e35c6712c8da632"
+  },
+  "processedAt": "2026-01-28T23:17:29.244Z"
+}

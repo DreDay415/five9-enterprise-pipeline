@@ -1,0 +1,128 @@
+{
+  "recording": {
+    "name": "300000001216034-300000001705594-8027457630 by michelleh@superbalife.com @ 11_38_54 AM.wav",
+    "size": 96130,
+    "modifyTime": 1769587340000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216034-300000001705594-8027457630 by michelleh@superbalife.com @ 11_38_54 AM.wav",
+    "uploadDate": "2026-01-28T08:02:20.000Z",
+    "callId": "300000001216034-300000001705594",
+    "agent": "michelleh",
+    "phoneNumber": "8027457630",
+    "callTimestamp": "2026-01-28T11:38:54.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you?\n\nSpeaker 2: Yes, I'd like to show my prescription to the AGV.\n\nSpeaker 1: Sure, no problem, James. I can help you out. Can you just confirm your date of birth?\n\nSpeaker 2: 8-17-80.\n\nSpeaker 1: Thank you so much. I see you're a VIP status customer. Okay.\n\nSpeaker 2: Right now, you can get a quantity of 12 AGVs for $63.95.\n\nSpeaker 1: That'll work.\n\nSpeaker 2: Okay. And they come in 25, 50, and 100 milligrams. It's all the same price.\n\nSpeaker 1: Do you want to go for the hundreds? You could break them in half if you need to.\n\nSpeaker 2: Yes, please.\n\nSpeaker 1: Okay. Problem.\n\nSpeaker 2: Okay. Am I using the MasterCard on file ending in 1306?\n\nSpeaker 1: Yep.\n\nSpeaker 2: All right. Perfect.\n\nSpeaker 1: All right. That went through. They'll be shipping it out to you today.\n\nSpeaker 2: All right. Thank you.\n\nSpeaker 1: Have a good day.",
+    "duration": 2212,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Thank you for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 8,
+        "text": " Yes, I'd like to show my prescription to the AGV."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 12,
+        "text": " Sure, no problem, James. I can help you out. Can you just confirm your date of birth?"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 14,
+        "text": " 8-17-80."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 18,
+        "text": " Thank you so much. I see you're a VIP status customer. Okay."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 25,
+        "text": " Right now, you can get a quantity of 12 AGVs for $63.95."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 28,
+        "text": " That'll work."
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 33,
+        "text": " Okay. And they come in 25, 50, and 100 milligrams. It's all the same price."
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 36,
+        "text": " Do you want to go for the hundreds? You could break them in half if you need to."
+      },
+      {
+        "id": 9,
+        "start": 36,
+        "end": 37,
+        "text": " Yes, please."
+      },
+      {
+        "id": 10,
+        "start": 37,
+        "end": 41,
+        "text": " Okay. Problem."
+      },
+      {
+        "id": 11,
+        "start": 41,
+        "end": 45,
+        "text": " Okay. Am I using the MasterCard on file ending in 1306?"
+      },
+      {
+        "id": 12,
+        "start": 45,
+        "end": 47,
+        "text": " Yep."
+      },
+      {
+        "id": 13,
+        "start": 47,
+        "end": 52,
+        "text": " All right. Perfect."
+      },
+      {
+        "id": 14,
+        "start": 52,
+        "end": 55,
+        "text": " All right. That went through. They'll be shipping it out to you today."
+      },
+      {
+        "id": 15,
+        "start": 55,
+        "end": 57,
+        "text": " All right. Thank you."
+      },
+      {
+        "id": 16,
+        "start": 57,
+        "end": 59,
+        "text": " Have a good day."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81bc-a862-e7c811c47259",
+    "url": "https://www.notion.so/300000001216034-300000001705594-2f611d0a101c81bca862e7c811c47259"
+  },
+  "processedAt": "2026-01-28T13:21:12.031Z"
+}

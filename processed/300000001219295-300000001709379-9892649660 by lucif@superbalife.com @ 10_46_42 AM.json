@@ -1,0 +1,62 @@
+{
+  "recording": {
+    "name": "300000001219295-300000001709379-9892649660 by lucif@superbalife.com @ 10_46_42 AM.wav",
+    "size": 76110,
+    "modifyTime": 1769583737000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219295-300000001709379-9892649660 by lucif@superbalife.com @ 10_46_42 AM.wav",
+    "uploadDate": "2026-01-28T07:02:17.000Z",
+    "callId": "300000001219295-300000001709379",
+    "agent": "lucif",
+    "phoneNumber": "9892649660",
+    "callTimestamp": "2026-01-28T10:46:42.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: You need a thumbs up for your team?\n\nSpeaker 2: No?\n\nSpeaker 1: All right, well...\n\nSpeaker 2: Hello?\n\nSpeaker 1: I can't believe I don't have my knife on me.\n\nSpeaker 2: Hello?",
+    "duration": 993,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " You need a thumbs up for your team?"
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 3,
+        "text": " No?"
+      },
+      {
+        "id": 2,
+        "start": 3,
+        "end": 4,
+        "text": " All right, well..."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 11,
+        "text": " Hello?"
+      },
+      {
+        "id": 4,
+        "start": 20,
+        "end": 22,
+        "text": " I can't believe I don't have my knife on me."
+      },
+      {
+        "id": 5,
+        "start": 30,
+        "end": 31,
+        "text": " Hello?"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8125-b444-c3df3e400730",
+    "url": "https://www.notion.so/300000001219295-300000001709379-2f611d0a101c8125b444c3df3e400730"
+  },
+  "processedAt": "2026-01-28T15:54:01.935Z"
+}

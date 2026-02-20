@@ -1,0 +1,230 @@
+{
+  "recording": {
+    "name": "300000001220548-300000001710636-8887955826 by charles@superbalife.com @ 8_48_43 AM.wav",
+    "size": 149300,
+    "modifyTime": 1769619037000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220548-300000001710636-8887955826 by charles@superbalife.com @ 8_48_43 AM.wav",
+    "uploadDate": "2026-01-28T16:50:37.000Z",
+    "callId": "300000001220548-300000001710636",
+    "agent": "charles",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T08:48:43.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Mr. Kronberger, this is Charles.\n\nSpeaker 2: Yeah, I was wanting to cancel a prescription.\n\nSpeaker 1: OK, can I have your phone number, please?\n\nSpeaker 2: 509-830-3219.\n\nSpeaker 1: Jerry Roberts in Bickleton, Washington.\n\nSpeaker 2: All right.\n\nSpeaker 1: Yep.\n\nSpeaker 2: OK, Jerry, it does look like you are a VIP member here.\n\nSpeaker 1: I'm assuming you're way over stock\n\nSpeaker 2: and just need to pump the brakes for a while.\n\nSpeaker 1: Is there another issue?\n\nSpeaker 2: Yeah, I'm just going to cancel and just quit those, I guess.\n\nSpeaker 1: OK, all right.\n\nSpeaker 2: Were the pills not doing anything good for you anymore?\n\nSpeaker 1: Not that, just things seem to be working better.\n\nSpeaker 2: I lost a bunch of weight, and it seems\n\nSpeaker 1: like everything is working OK.\n\nSpeaker 2: OK, you know what?\n\nSpeaker 1: You're like the third person to tell me that today,\n\nSpeaker 2: so you know what, kudos to all of you guys.\n\nSpeaker 1: OK, yep, I'll pump the brakes.\n\nSpeaker 2: Whenever you're ready, just give us a holler, all right?\n\nSpeaker 1: What's that?\n\nSpeaker 2: I said whenever you're ready, just give us a holler.\n\nSpeaker 1: Everything's canceled right now.\n\nSpeaker 2: OK, yeah, I'll just contact you back when if things go south\n\nSpeaker 1: and things stop working, I'll start again.\n\nSpeaker 2: But I have you guys' containers, so it's easy to contact you.\n\nSpeaker 1: Yeah, absolutely, or go to the website, whichever one.\n\nSpeaker 2: You can order online as well, all right?\n\nSpeaker 1: OK, I appreciate it.\n\nSpeaker 2: Absolutely, take care.\n\nSpeaker 1: You too, bye.\n\nSpeaker 2: Bye-bye.",
+    "duration": 5229,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.759999990463257,
+        "text": " Mr. Kronberger, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 2.759999990463257,
+        "end": 8.760000228881836,
+        "text": " Yeah, I was wanting to cancel a prescription."
+      },
+      {
+        "id": 2,
+        "start": 8.760000228881836,
+        "end": 11.920000076293945,
+        "text": " OK, can I have your phone number, please?"
+      },
+      {
+        "id": 3,
+        "start": 11.920000076293945,
+        "end": 18.639999389648438,
+        "text": " 509-830-3219."
+      },
+      {
+        "id": 4,
+        "start": 18.639999389648438,
+        "end": 22.68000030517578,
+        "text": " Jerry Roberts in Bickleton, Washington."
+      },
+      {
+        "id": 5,
+        "start": 22.68000030517578,
+        "end": 23.479999542236328,
+        "text": " All right."
+      },
+      {
+        "id": 6,
+        "start": 23.479999542236328,
+        "end": 24.31999969482422,
+        "text": " Yep."
+      },
+      {
+        "id": 7,
+        "start": 24.31999969482422,
+        "end": 26.639999389648438,
+        "text": " OK, Jerry, it does look like you are a VIP member here."
+      },
+      {
+        "id": 8,
+        "start": 26.639999389648438,
+        "end": 27.84000015258789,
+        "text": " I'm assuming you're way over stock"
+      },
+      {
+        "id": 9,
+        "start": 27.84000015258789,
+        "end": 29.760000228881836,
+        "text": " and just need to pump the brakes for a while."
+      },
+      {
+        "id": 10,
+        "start": 29.760000228881836,
+        "end": 30.719999313354492,
+        "text": " Is there another issue?"
+      },
+      {
+        "id": 11,
+        "start": 30.719999313354492,
+        "end": 37.79999923706055,
+        "text": " Yeah, I'm just going to cancel and just quit those, I guess."
+      },
+      {
+        "id": 12,
+        "start": 37.79999923706055,
+        "end": 38.599998474121094,
+        "text": " OK, all right."
+      },
+      {
+        "id": 13,
+        "start": 38.599998474121094,
+        "end": 42.91999816894531,
+        "text": " Were the pills not doing anything good for you anymore?"
+      },
+      {
+        "id": 14,
+        "start": 42.91999816894531,
+        "end": 47.84000015258789,
+        "text": " Not that, just things seem to be working better."
+      },
+      {
+        "id": 15,
+        "start": 47.84000015258789,
+        "end": 49.439998626708984,
+        "text": " I lost a bunch of weight, and it seems"
+      },
+      {
+        "id": 16,
+        "start": 49.439998626708984,
+        "end": 51.15999984741211,
+        "text": " like everything is working OK."
+      },
+      {
+        "id": 17,
+        "start": 51.15999984741211,
+        "end": 52.040000915527344,
+        "text": " OK, you know what?"
+      },
+      {
+        "id": 18,
+        "start": 52.040000915527344,
+        "end": 54.20000076293945,
+        "text": " You're like the third person to tell me that today,"
+      },
+      {
+        "id": 19,
+        "start": 54.20000076293945,
+        "end": 56.880001068115234,
+        "text": " so you know what, kudos to all of you guys."
+      },
+      {
+        "id": 20,
+        "start": 56.880001068115234,
+        "end": 59.79999923706055,
+        "text": " OK, yep, I'll pump the brakes."
+      },
+      {
+        "id": 21,
+        "start": 59.79999923706055,
+        "end": 63.119998931884766,
+        "text": " Whenever you're ready, just give us a holler, all right?"
+      },
+      {
+        "id": 22,
+        "start": 63.119998931884766,
+        "end": 63.91999816894531,
+        "text": " What's that?"
+      },
+      {
+        "id": 23,
+        "start": 63.91999816894531,
+        "end": 66.12000274658203,
+        "text": " I said whenever you're ready, just give us a holler."
+      },
+      {
+        "id": 24,
+        "start": 66.12000274658203,
+        "end": 68.23999786376953,
+        "text": " Everything's canceled right now."
+      },
+      {
+        "id": 25,
+        "start": 68.23999786376953,
+        "end": 72.31999969482422,
+        "text": " OK, yeah, I'll just contact you back when if things go south"
+      },
+      {
+        "id": 26,
+        "start": 72.31999969482422,
+        "end": 76.5999984741211,
+        "text": " and things stop working, I'll start again."
+      },
+      {
+        "id": 27,
+        "start": 76.5999984741211,
+        "end": 80.83999633789062,
+        "text": " But I have you guys' containers, so it's easy to contact you."
+      },
+      {
+        "id": 28,
+        "start": 80.83999633789062,
+        "end": 83.08000183105469,
+        "text": " Yeah, absolutely, or go to the website, whichever one."
+      },
+      {
+        "id": 29,
+        "start": 83.08000183105469,
+        "end": 85.31999969482422,
+        "text": " You can order online as well, all right?"
+      },
+      {
+        "id": 30,
+        "start": 85.31999969482422,
+        "end": 86.55999755859375,
+        "text": " OK, I appreciate it."
+      },
+      {
+        "id": 31,
+        "start": 86.55999755859375,
+        "end": 88.36000061035156,
+        "text": " Absolutely, take care."
+      },
+      {
+        "id": 32,
+        "start": 88.36000061035156,
+        "end": 89.4800033569336,
+        "text": " You too, bye."
+      },
+      {
+        "id": 33,
+        "start": 89.4800033569336,
+        "end": 91.04000091552734,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-819e-a573-e8b0a1c92470",
+    "url": "https://www.notion.so/300000001220548-300000001710636-2f611d0a101c819ea573e8b0a1c92470"
+  },
+  "processedAt": "2026-01-28T18:50:26.734Z"
+}

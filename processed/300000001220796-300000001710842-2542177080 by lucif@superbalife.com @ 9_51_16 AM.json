@@ -1,0 +1,128 @@
+{
+  "recording": {
+    "name": "300000001220796-300000001710842-2542177080 by lucif@superbalife.com @ 9_51_16 AM.wav",
+    "size": 121090,
+    "modifyTime": 1769622773000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220796-300000001710842-2542177080 by lucif@superbalife.com @ 9_51_16 AM.wav",
+    "uploadDate": "2026-01-28T17:52:53.000Z",
+    "callId": "300000001220796-300000001710842",
+    "agent": "lucif",
+    "phoneNumber": "2542177080",
+    "callTimestamp": "2026-01-28T09:51:16.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra Clinic speaking. How can I help you?\n\nSpeaker 2: Yeah, this is Jimmy Okun. I need to cancel my subscription.\n\nSpeaker 1: Okay, one moment. Let me pull up your account.\n\nSpeaker 2: Alrighty, Mr. Okun, I do see that you are a VIP with us here.\n\nSpeaker 1: Do you mind if I ask why you're cancelling?\n\nSpeaker 2: Yeah, because it don't work.\n\nSpeaker 1: Oh wow, that is unfortunate, but I'm not sure if you're aware.\n\nSpeaker 2: This is like a body chemistry type of medication. It's about the blood flow in your body.\n\nSpeaker 1: We do have others that may be a better fit for you that we can send you for free, free of charge.\n\nSpeaker 2: No, I just want to cancel it.\n\nSpeaker 1: And if it's not working, why would you not want to try something for free?\n\nSpeaker 2: Because I don't want to.\n\nSpeaker 1: And you do realize you can order this as needed. You don't have to get it automatically or when you're not ready for it.\n\nSpeaker 2: You do understand that as well, correct?\n\nSpeaker 1: I don't need it.\n\nSpeaker 2: Alrighty, well you won't get it, sir. We'll go ahead and cancel you out so you will not be able to reorder with us in the future, okay?\n\nSpeaker 1: Alright, thank you.",
+    "duration": 2720,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Thanks for calling Viagra Clinic speaking. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 12,
+        "text": " Yeah, this is Jimmy Okun. I need to cancel my subscription."
+      },
+      {
+        "id": 2,
+        "start": 12,
+        "end": 19,
+        "text": " Okay, one moment. Let me pull up your account."
+      },
+      {
+        "id": 3,
+        "start": 19,
+        "end": 22,
+        "text": " Alrighty, Mr. Okun, I do see that you are a VIP with us here."
+      },
+      {
+        "id": 4,
+        "start": 22,
+        "end": 25,
+        "text": " Do you mind if I ask why you're cancelling?"
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 27,
+        "text": " Yeah, because it don't work."
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 32,
+        "text": " Oh wow, that is unfortunate, but I'm not sure if you're aware."
+      },
+      {
+        "id": 7,
+        "start": 32,
+        "end": 37,
+        "text": " This is like a body chemistry type of medication. It's about the blood flow in your body."
+      },
+      {
+        "id": 8,
+        "start": 37,
+        "end": 44,
+        "text": " We do have others that may be a better fit for you that we can send you for free, free of charge."
+      },
+      {
+        "id": 9,
+        "start": 44,
+        "end": 48,
+        "text": " No, I just want to cancel it."
+      },
+      {
+        "id": 10,
+        "start": 48,
+        "end": 53,
+        "text": " And if it's not working, why would you not want to try something for free?"
+      },
+      {
+        "id": 11,
+        "start": 53,
+        "end": 56,
+        "text": " Because I don't want to."
+      },
+      {
+        "id": 12,
+        "start": 56,
+        "end": 62,
+        "text": " And you do realize you can order this as needed. You don't have to get it automatically or when you're not ready for it."
+      },
+      {
+        "id": 13,
+        "start": 62,
+        "end": 64,
+        "text": " You do understand that as well, correct?"
+      },
+      {
+        "id": 14,
+        "start": 64,
+        "end": 68,
+        "text": " I don't need it."
+      },
+      {
+        "id": 15,
+        "start": 68,
+        "end": 73,
+        "text": " Alrighty, well you won't get it, sir. We'll go ahead and cancel you out so you will not be able to reorder with us in the future, okay?"
+      },
+      {
+        "id": 16,
+        "start": 73,
+        "end": 75,
+        "text": " Alright, thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81d7-8a31-c4e357846f4c",
+    "url": "https://www.notion.so/300000001220796-300000001710842-2f611d0a101c81d78a31c4e357846f4c"
+  },
+  "processedAt": "2026-01-28T18:15:01.428Z"
+}

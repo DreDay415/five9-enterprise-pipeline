@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "name": "300000001217104-300000001707524-3104358885 by josimar@superbalife.com @ 9_10_09 AM.wav",
+    "size": 26580,
+    "modifyTime": 1769584033000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217104-300000001707524-3104358885 by josimar@superbalife.com @ 9_10_09 AM.wav",
+    "uploadDate": "2026-01-28T07:07:13.000Z",
+    "callId": "300000001217104-300000001707524",
+    "agent": "josimar",
+    "phoneNumber": "3104358885",
+    "callTimestamp": "2026-01-28T09:10:09.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. How can I help you today?\n\nSpeaker 2: Oh, hi. Is this Nick?\n\nSpeaker 1: No, I could send you over though. Give me one moment.",
+    "duration": 1453,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7.480000019073486,
+        "text": " Thank you for calling Viagra I can help you today. Oh, hi. Is this Nick? No, I could send you over though. Give me one moment"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a7-9d14-dba086cef8dd",
+    "url": "https://www.notion.so/300000001217104-300000001707524-2f611d0a101c81a79d14dba086cef8dd"
+  },
+  "processedAt": "2026-01-28T15:44:28.746Z"
+}

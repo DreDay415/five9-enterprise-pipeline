@@ -1,0 +1,98 @@
+{
+  "recording": {
+    "name": "300000001217838-300000001708004-7173142527 by gabriela@superbalife.com @ 12_05_42 PM.wav",
+    "size": 66426,
+    "modifyTime": 1769582238000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217838-300000001708004-7173142527 by gabriela@superbalife.com @ 12_05_42 PM.wav",
+    "uploadDate": "2026-01-28T06:37:18.000Z",
+    "callId": "300000001217838-300000001708004",
+    "agent": "gabriela",
+    "phoneNumber": "7173142527",
+    "callTimestamp": "2026-01-28T12:05:42.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you for calling Viagra. How can I assist you?\n\nSpeaker 2: Yeah, I need to cancel any more of my refills.\n\nSpeaker 1: You need a what?\n\nSpeaker 2: To cancel more refills on my—\n\nSpeaker 1: Pills.\n\nSpeaker 2: Okay, um, do you have enough supply at this time?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Okay, well I can go ahead and just pause your prescription for the moment since you have enough supply.\n\nSpeaker 1: I can go ahead and pause it till June, and if you need any supply before that time, you can always give us a call.\n\nSpeaker 2: Okay?\n\nSpeaker 1: Yeah.\n\nSpeaker 2: Okay, you're all set. Have a good rest of your day, Stephen. Bye. Thank you.",
+    "duration": 1889,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.0799999237060547,
+        "text": " Hi, thank you for calling Viagra. How can I assist you?"
+      },
+      {
+        "id": 1,
+        "start": 3.7200000286102295,
+        "end": 6.019999980926514,
+        "text": " Yeah, I need to cancel any more of my refills."
+      },
+      {
+        "id": 2,
+        "start": 7.159999847412109,
+        "end": 9.15999984741211,
+        "text": " You need a what?"
+      },
+      {
+        "id": 3,
+        "start": 9.199999809265137,
+        "end": 11.199999809265137,
+        "text": " To cancel more refills on my"
+      },
+      {
+        "id": 4,
+        "start": 12.119999885559082,
+        "end": 13.319999694824219,
+        "text": " pills."
+      },
+      {
+        "id": 5,
+        "start": 13.319999694824219,
+        "end": 16,
+        "text": " Okay, um, do you have enough supply at this time?"
+      },
+      {
+        "id": 6,
+        "start": 16.68000030517578,
+        "end": 18,
+        "text": " Yeah."
+      },
+      {
+        "id": 7,
+        "start": 18,
+        "end": 23.360000610351562,
+        "text": " Okay, well I can go ahead and just pause your prescription for the moment since you have enough supply."
+      },
+      {
+        "id": 8,
+        "start": 23.360000610351562,
+        "end": 29.18000030517578,
+        "text": " I can go ahead and pause it till June and if you need any supply before that time you can always give us a call."
+      },
+      {
+        "id": 9,
+        "start": 29.219999313354492,
+        "end": 31.219999313354492,
+        "text": " Okay?"
+      },
+      {
+        "id": 10,
+        "start": 32.540000915527344,
+        "end": 34.540000915527344,
+        "text": " Yeah."
+      },
+      {
+        "id": 11,
+        "start": 35.81999969482422,
+        "end": 40.459999084472656,
+        "text": " Okay, you're all set. Have a good rest of your day, Stephen. Bye. Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81a9-9e06-c716153b77e1",
+    "url": "https://www.notion.so/300000001217838-300000001708004-2f611d0a101c81a99e06c716153b77e1"
+  },
+  "processedAt": "2026-01-28T17:24:29.370Z"
+}

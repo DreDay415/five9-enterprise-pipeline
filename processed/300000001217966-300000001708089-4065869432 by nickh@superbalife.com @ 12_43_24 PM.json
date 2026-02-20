@@ -1,0 +1,332 @@
+{
+  "recording": {
+    "name": "300000001217966-300000001708089-4065869432 by nickh@superbalife.com @ 12_43_24 PM.wav",
+    "size": 342156,
+    "modifyTime": 1769582237000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217966-300000001708089-4065869432 by nickh@superbalife.com @ 12_43_24 PM.wav",
+    "uploadDate": "2026-01-28T06:37:17.000Z",
+    "callId": "300000001217966-300000001708089",
+    "agent": "nickh",
+    "phoneNumber": "4065869432",
+    "callTimestamp": "2026-01-28T12:43:24.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra at ScoreGlue. How can I help you today?\n\nSpeaker 2: Yes, my name is Terry Colvin and I placed an order for Viagra for a second time.\n\nSpeaker 1: And it's supposed to be shipped, United States Postal Service?\n\nSpeaker 2: And I was looking up the tracking number and then it says FedEx.\n\nSpeaker 1: It's going to my post office box. Can you check on that for me?\n\nSpeaker 2: Yes, I can, Mr. Colvin. Could you confirm your date of birth for me?\n\nSpeaker 1: Yes, August 29, 1952.\n\nSpeaker 2: Okay, so I do see here it's set to arrive today, and you're right.\n\nSpeaker 1: It is being shipped to your PO box.\n\nSpeaker 2: When I look up the tracking number, the reason why I'm calling you is because\n\nSpeaker 1: I had an order shipped out, I think it was on the 8th of this month,\n\nSpeaker 2: and it never got here.\n\nSpeaker 1: I called last week and I changed the delivery to, what is it, a three-day delivery?\n\nSpeaker 2: What did I change that to?\n\nSpeaker 1: Yes, so it looks like you did the two-day.\n\nSpeaker 2: Two-day. So my question, and I think there was an additional fee to that,\n\nSpeaker 1: but when I check, when I look at the tracking ID, why does it come up FedEx?\n\nSpeaker 2: So when doing FedEx, that's the only way you can do express shipping,\n\nSpeaker 1: with one-day or two-day air.\n\nSpeaker 2: Will it go to my post office box, though?\n\nSpeaker 1: It should, or usually the post office will hold it if it's not in your PO box.\n\nSpeaker 2: Okay, so they didn't give me, I sent my wife,\n\nSpeaker 1: I was expecting bills and we have a post office box in Bozeman,\n\nSpeaker 2: and she said it wasn't in the post office box.\n\nSpeaker 1: Should I have her stand in line and check on it?\n\nSpeaker 2: Well, looking here, it looks like it's going to be delivered before 5 p.m. Bozeman time.\n\nSpeaker 1: So that does give it, I'd say, like an hour or so, right?\n\nSpeaker 2: So it should be there by the end of the day.\n\nSpeaker 1: Okay, I'm only asking because it came up FedEx and I'm not knowledgeable about it.\n\nSpeaker 2: And so I really, I wanted it registered so I'd have to sign for it,\n\nSpeaker 1: but that's not the case.\n\nSpeaker 2: You couldn't offer that to a PO box, is that correct?\n\nSpeaker 1: No, sir, because it would just be dropped off at the PO box because you're not always there.\n\nSpeaker 2: Sometimes what happens is they do drop it off with the representative who is working.\n\nSpeaker 1: So say it's at a post office with a PO box, they'll drop it off at the post office,\n\nSpeaker 2: and then you have to sign for it with them.\n\nSpeaker 1: Okay, but there was no notification.\n\nSpeaker 2: But you answered my question, so I guess it is going to my post office box,\n\nSpeaker 1: and FedEx is the only way I can get two-day air, and it should show up sometime today, is that correct?\n\nSpeaker 2: Exactly correct.\n\nSpeaker 1: I have no idea why my last order that I ordered on the 8th of the month,\n\nSpeaker 2: well, actually it was on the 6th, it was supposed to be shipped, I never got it.\n\nSpeaker 1: I'm wondering if it was stolen.\n\nSpeaker 2: Interesting.\n\nSpeaker 1: Yeah, and I've had problems like that before.\n\nSpeaker 2: Well, I thank you for your time.\n\nSpeaker 1: Yeah, of course.\n\nSpeaker 2: And I appreciate it. Thank you, bud.\n\nSpeaker 1: Yep, thank you.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye bye.",
+    "duration": 11608,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hi, thank you so much for calling Viagra at ScoreGlue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 14,
+        "text": " Yes, my name is Terry Colvin and I placed an order for Viagra for a second time"
+      },
+      {
+        "id": 2,
+        "start": 14,
+        "end": 21,
+        "text": " and it's supposed to be shipped, United States Postal Service,"
+      },
+      {
+        "id": 3,
+        "start": 21,
+        "end": 26,
+        "text": " and I was looking up the tracking number and then it says FedEx."
+      },
+      {
+        "id": 4,
+        "start": 26,
+        "end": 30,
+        "text": " It's going to my post office box. Can you check on that for me?"
+      },
+      {
+        "id": 5,
+        "start": 30,
+        "end": 35,
+        "text": " Yes, I can, Mr. Colvin. Could you confirm your date of birth for me?"
+      },
+      {
+        "id": 6,
+        "start": 35,
+        "end": 38,
+        "text": " Yes, August 29, 1952."
+      },
+      {
+        "id": 7,
+        "start": 38,
+        "end": 51,
+        "text": " Okay, so I do see here it's set to arrive today, and you're right."
+      },
+      {
+        "id": 8,
+        "start": 51,
+        "end": 53,
+        "text": " It is being shipped to your PO box."
+      },
+      {
+        "id": 9,
+        "start": 53,
+        "end": 58,
+        "text": " When I look up the tracking number, the reason why I'm calling you is because"
+      },
+      {
+        "id": 10,
+        "start": 58,
+        "end": 63,
+        "text": " I had an order shipped out, I think it was on the 8th of this month,"
+      },
+      {
+        "id": 11,
+        "start": 63,
+        "end": 65,
+        "text": " and it never got here."
+      },
+      {
+        "id": 12,
+        "start": 65,
+        "end": 74,
+        "text": " I called last week and I changed the delivery to, what is it, a three-day delivery?"
+      },
+      {
+        "id": 13,
+        "start": 74,
+        "end": 76,
+        "text": " What did I change that to?"
+      },
+      {
+        "id": 14,
+        "start": 76,
+        "end": 78,
+        "text": " Yes, so it looks like you did the two-day."
+      },
+      {
+        "id": 15,
+        "start": 79,
+        "end": 84,
+        "text": " Two-day. So my question, and I think there was an additional fee to that,"
+      },
+      {
+        "id": 16,
+        "start": 84,
+        "end": 92,
+        "text": " but when I check, when I look at the tracking ID, why does it come up FedEx?"
+      },
+      {
+        "id": 17,
+        "start": 92,
+        "end": 97,
+        "text": " So when doing FedEx, that's the only way you can do express shipping,"
+      },
+      {
+        "id": 18,
+        "start": 97,
+        "end": 99,
+        "text": " with one-day or two-day air."
+      },
+      {
+        "id": 19,
+        "start": 99,
+        "end": 102,
+        "text": " Will it go to my post office box, though?"
+      },
+      {
+        "id": 20,
+        "start": 102,
+        "end": 109,
+        "text": " It should, or usually the post office will hold it if it's not in your PO box."
+      },
+      {
+        "id": 21,
+        "start": 109,
+        "end": 114,
+        "text": " Okay, so they didn't give me, I sent my wife,"
+      },
+      {
+        "id": 22,
+        "start": 114,
+        "end": 118,
+        "text": " I was expecting bills and we have a post office box in Bozeman,"
+      },
+      {
+        "id": 23,
+        "start": 118,
+        "end": 124,
+        "text": " and she said it wasn't in the post office box."
+      },
+      {
+        "id": 24,
+        "start": 124,
+        "end": 127,
+        "text": " Should I have her stand in line and check on it?"
+      },
+      {
+        "id": 25,
+        "start": 128,
+        "end": 134,
+        "text": " Well, looking here, it looks like it's going to be delivered before 5 p.m. Bozeman time."
+      },
+      {
+        "id": 26,
+        "start": 134,
+        "end": 138,
+        "text": " So that does give it, I'd say, like an hour or so, right?"
+      },
+      {
+        "id": 27,
+        "start": 138,
+        "end": 141,
+        "text": " So it should be there by the end of the day."
+      },
+      {
+        "id": 28,
+        "start": 141,
+        "end": 146,
+        "text": " Okay, I'm only asking because it came up FedEx and I'm not knowledgeable about it."
+      },
+      {
+        "id": 29,
+        "start": 146,
+        "end": 152,
+        "text": " And so I really, I wanted it registered so I'd have to sign for it,"
+      },
+      {
+        "id": 30,
+        "start": 152,
+        "end": 154,
+        "text": " but that's not the case."
+      },
+      {
+        "id": 31,
+        "start": 154,
+        "end": 157,
+        "text": " You couldn't offer that to a PO box, is that correct?"
+      },
+      {
+        "id": 32,
+        "start": 157,
+        "end": 162,
+        "text": " No, sir, because it would just be dropped off at the PO box because you're not always there."
+      },
+      {
+        "id": 33,
+        "start": 162,
+        "end": 166,
+        "text": " Sometimes what happens is they do drop it off with the representative who is working."
+      },
+      {
+        "id": 34,
+        "start": 166,
+        "end": 170,
+        "text": " So say it's at a post office with a PO box, they'll drop it off at the post office,"
+      },
+      {
+        "id": 35,
+        "start": 170,
+        "end": 172,
+        "text": " and then you have to sign for it with them."
+      },
+      {
+        "id": 36,
+        "start": 172,
+        "end": 174,
+        "text": " Okay, but there was no notification."
+      },
+      {
+        "id": 37,
+        "start": 174,
+        "end": 178,
+        "text": " But you answered my question, so I guess it is going to my post office box,"
+      },
+      {
+        "id": 38,
+        "start": 178,
+        "end": 184,
+        "text": " and FedEx is the only way I can get two-day air, and it should show up sometime today, is that correct?"
+      },
+      {
+        "id": 39,
+        "start": 184,
+        "end": 185,
+        "text": " Exactly correct."
+      },
+      {
+        "id": 40,
+        "start": 185,
+        "end": 190,
+        "text": " I have no idea why my last order that I ordered on the 8th of the month,"
+      },
+      {
+        "id": 41,
+        "start": 190,
+        "end": 193,
+        "text": " well, actually it was on the 6th, it was supposed to be shipped, I never got it."
+      },
+      {
+        "id": 42,
+        "start": 193,
+        "end": 195,
+        "text": " I'm wondering if it was stolen."
+      },
+      {
+        "id": 43,
+        "start": 195,
+        "end": 197,
+        "text": " Interesting."
+      },
+      {
+        "id": 44,
+        "start": 197,
+        "end": 200,
+        "text": " Yeah, and I've had problems like that before."
+      },
+      {
+        "id": 45,
+        "start": 200,
+        "end": 202,
+        "text": " Well, I thank you for your time."
+      },
+      {
+        "id": 46,
+        "start": 202,
+        "end": 204,
+        "text": " Yeah, of course."
+      },
+      {
+        "id": 47,
+        "start": 204,
+        "end": 206,
+        "text": " And I appreciate it. Thank you, bud."
+      },
+      {
+        "id": 48,
+        "start": 206,
+        "end": 207,
+        "text": " Yep, thank you."
+      },
+      {
+        "id": 49,
+        "start": 207,
+        "end": 208,
+        "text": " Bye."
+      },
+      {
+        "id": 50,
+        "start": 208,
+        "end": 210,
+        "text": " Bye bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81bd-83b7-c8799a785300",
+    "url": "https://www.notion.so/300000001217966-300000001708089-2f611d0a101c81bd83b7c8799a785300"
+  },
+  "processedAt": "2026-01-28T17:27:50.125Z"
+}

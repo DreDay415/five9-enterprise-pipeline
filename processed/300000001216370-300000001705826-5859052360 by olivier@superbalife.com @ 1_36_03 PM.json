@@ -1,0 +1,248 @@
+{
+  "recording": {
+    "name": "300000001216370-300000001705826-5859052360 by olivier@superbalife.com @ 1_36_03 PM.wav",
+    "size": 243940,
+    "modifyTime": 1769583130000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216370-300000001705826-5859052360 by olivier@superbalife.com @ 1_36_03 PM.wav",
+    "uploadDate": "2026-01-28T06:52:10.000Z",
+    "callId": "300000001216370-300000001705826",
+    "agent": "olivier",
+    "phoneNumber": "5859052360",
+    "callTimestamp": "2026-01-28T13:36:03.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Hi, this is Jay Maslin.\n\nSpeaker 1: I had called yesterday about cancelling subscription,\n\nSpeaker 2: and I just sent an e-mail asking for confirmation,\n\nSpeaker 1: and they responded to say,\n\nSpeaker 2: call and request that you notify the pharmacy to hold any refills.\n\nSpeaker 1: So you want to hold a refill to reorder as needed, or you want to cancel?\n\nSpeaker 2: No, no, no, no, no. I'm canceling.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Now, I heard hold. That's why I'm asking question.\n\nSpeaker 1: I'm not trying to hold you or anything like that.\n\nSpeaker 2: I'm just asking question because I kind of heard something.\n\nSpeaker 1: That's the reason why.\n\nSpeaker 2: All right.\n\nSpeaker 1: So you say you need an e-mail confirming the confirmation?\n\nSpeaker 2: Yes, if I could, please.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Let me send a request.\n\nSpeaker 1: I don't send e-mails, but I have somebody who does that.\n\nSpeaker 2: So I'm going to send a request right now for you.\n\nSpeaker 1: Give me one moment.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right.\n\nSpeaker 1: Mr. Maslin?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Yes, you will receive an e-mail, okay?\n\nSpeaker 2: I'll send a request for you.\n\nSpeaker 1: You're going to have an e-mail stating that everything has been canceled, okay?\n\nSpeaker 2: Your account is canceled here.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Terrific.\n\nSpeaker 1: Thank you very much.\n\nSpeaker 2: You're all set.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Have a good day.\n\nSpeaker 1: You too.",
+    "duration": 3692,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " Hi, this is Jay Maslin."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " I had called yesterday about cancelling subscription,"
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 13,
+        "text": " and I just sent an e-mail asking for confirmation,"
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 17,
+        "text": " and they responded to say,"
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 24,
+        "text": " call and request that you notify the pharmacy to hold any refills."
+      },
+      {
+        "id": 6,
+        "start": 24,
+        "end": 28,
+        "text": " So you want to hold a refill to reorder as needed, or you want to cancel?"
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 31,
+        "text": " No, no, no, no, no. I'm canceling."
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 32,
+        "text": " Okay."
+      },
+      {
+        "id": 9,
+        "start": 32,
+        "end": 34,
+        "text": " Now, I heard hold. That's why I'm asking question."
+      },
+      {
+        "id": 10,
+        "start": 34,
+        "end": 36,
+        "text": " I'm not trying to hold you or anything like that."
+      },
+      {
+        "id": 11,
+        "start": 36,
+        "end": 39,
+        "text": " I'm just asking question because I kind of heard something."
+      },
+      {
+        "id": 12,
+        "start": 39,
+        "end": 41,
+        "text": " That's the reason why."
+      },
+      {
+        "id": 13,
+        "start": 41,
+        "end": 42,
+        "text": " All right."
+      },
+      {
+        "id": 14,
+        "start": 42,
+        "end": 46,
+        "text": " So you say you need an e-mail confirming the confirmation?"
+      },
+      {
+        "id": 15,
+        "start": 46,
+        "end": 47,
+        "text": " Yes, if I could, please."
+      },
+      {
+        "id": 16,
+        "start": 47,
+        "end": 48,
+        "text": " Okay."
+      },
+      {
+        "id": 17,
+        "start": 48,
+        "end": 49,
+        "text": " Let me send a request."
+      },
+      {
+        "id": 18,
+        "start": 49,
+        "end": 52,
+        "text": " I don't send e-mails, but I have somebody who does that."
+      },
+      {
+        "id": 19,
+        "start": 52,
+        "end": 54,
+        "text": " So I'm going to send a request right now for you."
+      },
+      {
+        "id": 20,
+        "start": 54,
+        "end": 56,
+        "text": " Give me one moment."
+      },
+      {
+        "id": 21,
+        "start": 56,
+        "end": 57,
+        "text": " Thank you."
+      },
+      {
+        "id": 22,
+        "start": 86,
+        "end": 88,
+        "text": " Okay."
+      },
+      {
+        "id": 23,
+        "start": 116,
+        "end": 132,
+        "text": " All right."
+      },
+      {
+        "id": 24,
+        "start": 132,
+        "end": 133,
+        "text": " Mr. Maslin?"
+      },
+      {
+        "id": 25,
+        "start": 133,
+        "end": 134,
+        "text": " Yes."
+      },
+      {
+        "id": 26,
+        "start": 134,
+        "end": 136,
+        "text": " Yes, you will receive an e-mail, okay?"
+      },
+      {
+        "id": 27,
+        "start": 136,
+        "end": 137,
+        "text": " I'll send a request for you."
+      },
+      {
+        "id": 28,
+        "start": 137,
+        "end": 140,
+        "text": " You're going to have an e-mail stating that everything has been canceled, okay?"
+      },
+      {
+        "id": 29,
+        "start": 140,
+        "end": 142,
+        "text": " Your account is canceled here."
+      },
+      {
+        "id": 30,
+        "start": 142,
+        "end": 143,
+        "text": " Okay."
+      },
+      {
+        "id": 31,
+        "start": 143,
+        "end": 144,
+        "text": " Terrific."
+      },
+      {
+        "id": 32,
+        "start": 144,
+        "end": 145,
+        "text": " Thank you very much."
+      },
+      {
+        "id": 33,
+        "start": 145,
+        "end": 146,
+        "text": " You're all set."
+      },
+      {
+        "id": 34,
+        "start": 146,
+        "end": 147,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 35,
+        "start": 147,
+        "end": 148,
+        "text": " Have a good day."
+      },
+      {
+        "id": 36,
+        "start": 148,
+        "end": 149,
+        "text": " You too."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ca-a414-fbef09cf9628",
+    "url": "https://www.notion.so/300000001216370-300000001705826-2f611d0a101c81caa414fbef09cf9628"
+  },
+  "processedAt": "2026-01-28T16:43:00.053Z"
+}

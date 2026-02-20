@@ -1,0 +1,392 @@
+{
+  "recording": {
+    "name": "300000001217478-300000001707778-3095250399 by michelleh@superbalife.com @ 10_28_21 AM.wav",
+    "size": 314400,
+    "modifyTime": 1769592149000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217478-300000001707778-3095250399 by michelleh@superbalife.com @ 10_28_21 AM.wav",
+    "uploadDate": "2026-01-28T09:22:29.000Z",
+    "callId": "300000001217478-300000001707778",
+    "agent": "michelleh",
+    "phoneNumber": "3095250399",
+    "callTimestamp": "2026-01-28T10:28:21.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Michelle. How can I help you?\n\nSpeaker 2: Hi. This is Donald Pierce. I called you before and you gave me your extension number.\n\nSpeaker 1: Hi, Donald.\n\nSpeaker 2: Hi. I sent those one pills back, like you said. I don't know if you guys got them or not.\n\nSpeaker 1: Okay. Let me check. Can you just confirm your date of birth?\n\nSpeaker 2: 11-17-1957.\n\nSpeaker 1: Thank you so much. We did not get them back yet, but we should get them back in a few days. I don't see it logged in yet.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay. And then you just got your AGB delivered? Perfect.\n\nSpeaker 2: Yeah. I got them a couple days ago.\n\nSpeaker 1: Okay. Perfect.\n\nSpeaker 2: And I tried it and they worked great.\n\nSpeaker 1: Yay! That's what we like to hear.\n\nSpeaker 2: A lot better than the other ones.\n\nSpeaker 1: Yeah, exactly. A lot better.\n\nSpeaker 2: Here, I'll just go ahead and issue you that refund now. Give me one second.\n\nSpeaker 1: Okay.\n\nSpeaker 2: It might take up to 10 business days to show back on your credit card.\n\nSpeaker 1: Okay.\n\nSpeaker 2: So you don't have to wait.\n\nSpeaker 1: And you said these are cheaper than the other ones, right?\n\nSpeaker 2: Yeah. Give me one second. Hold on. Okay.\n\nSpeaker 1: Okay. Successfully refunded. You'll be seeing $94.95 back on your credit card.\n\nSpeaker 2: Sometimes it takes up to 10 business days.\n\nSpeaker 1: And then, yeah, you're paying $94.95 for eight generics.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: Right now, the AGB, a quantity of 10 is $63.95.\n\nSpeaker 2: That's much better.\n\nSpeaker 1: Yeah. A quantity of 25 is $113.95.\n\nSpeaker 2: And the highest quantity is 40 for $163.95.\n\nSpeaker 1: Hmm.\n\nSpeaker 2: What was the next one up?\n\nSpeaker 1: 25 for $113.95.\n\nSpeaker 2: I might do that.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Do you want to put an order now or do you want to –\n\nSpeaker 1: Yeah, you can because this one didn't cost me that you sent me this time.\n\nSpeaker 2: Yeah.\n\nSpeaker 1: At least I didn't think. I thought that's what you said.\n\nSpeaker 2: Yeah, no, it didn't. No, it's free.\n\nSpeaker 1: Okay. So, yeah, I'll do that. Go ahead.\n\nSpeaker 2: Okay. Perfect. Give me one second.\n\nSpeaker 1: And then that would be every month, right?\n\nSpeaker 2: A quantity of 25 is every two months.\n\nSpeaker 1: Okay. That's fine. That would be perfect.\n\nSpeaker 2: Okay. Perfect. Okay. 25. Okay.\n\nSpeaker 1: Use the same card, MasterCard, ending in 9141?\n\nSpeaker 2: Yep.\n\nSpeaker 1: Perfect. All right.\n\nSpeaker 2: All right. That went through.\n\nSpeaker 1: And then I'll tell you your next refill date.\n\nSpeaker 2: And then they would send you out a refill on March 27th.\n\nSpeaker 1: March 27th? Okay.\n\nSpeaker 2: Yeah. They'll ship this one out to you today, but then I'll send you the next one on the 27th.\n\nSpeaker 1: Okay. That'll be fine.\n\nSpeaker 2: All right. Sounds great, Donald. Glad that worked out.\n\nSpeaker 1: All right. Thank you very much.\n\nSpeaker 2: No problem. Have a great day.\n\nSpeaker 1: You too.\n\nSpeaker 2: Bye.\n\nSpeaker 1: Bye.",
+    "duration": 6890,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Thank you for calling Viagra. This is Michelle. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 9,
+        "text": " Hi. This is Donald Pierce. I called you before and you gave me your extension number."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 10,
+        "text": " Hi, Donald."
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 19,
+        "text": " Hi. I sent those one pills back, like you said. I don't know if you guys got them or not."
+      },
+      {
+        "id": 4,
+        "start": 19,
+        "end": 22,
+        "text": " Okay. Let me check. Can you just confirm your date of birth?"
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 26,
+        "text": " 11-17-1957."
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 34,
+        "text": " Thank you so much. We did not get them back yet, but we should get them back in a few days. I don't see it logged in yet."
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 36,
+        "text": " Okay."
+      },
+      {
+        "id": 8,
+        "start": 36,
+        "end": 41,
+        "text": " Okay. And then you just got your AGB delivered? Perfect."
+      },
+      {
+        "id": 9,
+        "start": 41,
+        "end": 43,
+        "text": " Yeah. I got them a couple days ago."
+      },
+      {
+        "id": 10,
+        "start": 43,
+        "end": 44,
+        "text": " Okay. Perfect."
+      },
+      {
+        "id": 11,
+        "start": 44,
+        "end": 46,
+        "text": " And I tried it and they worked great."
+      },
+      {
+        "id": 12,
+        "start": 46,
+        "end": 48,
+        "text": " Yay! That's what we like to hear."
+      },
+      {
+        "id": 13,
+        "start": 48,
+        "end": 49,
+        "text": " A lot better than the other ones."
+      },
+      {
+        "id": 14,
+        "start": 49,
+        "end": 52,
+        "text": " Yeah, exactly. A lot better."
+      },
+      {
+        "id": 15,
+        "start": 52,
+        "end": 56,
+        "text": " Here, I'll just go ahead and issue you that refund now. Give me one second."
+      },
+      {
+        "id": 16,
+        "start": 56,
+        "end": 59,
+        "text": " Okay."
+      },
+      {
+        "id": 17,
+        "start": 59,
+        "end": 65,
+        "text": " It might take up to 10 business days to show back on your credit card."
+      },
+      {
+        "id": 18,
+        "start": 65,
+        "end": 66,
+        "text": " Okay."
+      },
+      {
+        "id": 19,
+        "start": 66,
+        "end": 71,
+        "text": " So you don't have to wait."
+      },
+      {
+        "id": 20,
+        "start": 71,
+        "end": 75,
+        "text": " And you said these are cheaper than the other ones, right?"
+      },
+      {
+        "id": 21,
+        "start": 75,
+        "end": 80,
+        "text": " Yeah. Give me one second. Hold on. Okay."
+      },
+      {
+        "id": 22,
+        "start": 80,
+        "end": 84,
+        "text": " Okay. Successfully refunded. You'll be seeing $94.95 back on your credit card."
+      },
+      {
+        "id": 23,
+        "start": 84,
+        "end": 86,
+        "text": " Sometimes it takes up to 10 business days."
+      },
+      {
+        "id": 24,
+        "start": 86,
+        "end": 91,
+        "text": " And then, yeah, you're paying $94.95 for eight generics."
+      },
+      {
+        "id": 25,
+        "start": 91,
+        "end": 92,
+        "text": " Yeah."
+      },
+      {
+        "id": 26,
+        "start": 92,
+        "end": 97,
+        "text": " Right now, the AGB, a quantity of 10 is $63.95."
+      },
+      {
+        "id": 27,
+        "start": 97,
+        "end": 99,
+        "text": " That's much better."
+      },
+      {
+        "id": 28,
+        "start": 99,
+        "end": 102,
+        "text": " Yeah. A quantity of 25 is $113.95."
+      },
+      {
+        "id": 29,
+        "start": 102,
+        "end": 108,
+        "text": " And the highest quantity is 40 for $163.95."
+      },
+      {
+        "id": 30,
+        "start": 108,
+        "end": 114,
+        "text": " Hmm."
+      },
+      {
+        "id": 31,
+        "start": 114,
+        "end": 116,
+        "text": " What was the next one up?"
+      },
+      {
+        "id": 32,
+        "start": 116,
+        "end": 119,
+        "text": " 25 for $113.95."
+      },
+      {
+        "id": 33,
+        "start": 119,
+        "end": 121,
+        "text": " I might do that."
+      },
+      {
+        "id": 34,
+        "start": 121,
+        "end": 123,
+        "text": " Okay."
+      },
+      {
+        "id": 35,
+        "start": 123,
+        "end": 128,
+        "text": " Do you want to put an order now or do you want to –"
+      },
+      {
+        "id": 36,
+        "start": 128,
+        "end": 133,
+        "text": " Yeah, you can because this one didn't cost me that you sent me this time."
+      },
+      {
+        "id": 37,
+        "start": 133,
+        "end": 134,
+        "text": " Yeah."
+      },
+      {
+        "id": 38,
+        "start": 134,
+        "end": 136,
+        "text": " At least I didn't think. I thought that's what you said."
+      },
+      {
+        "id": 39,
+        "start": 136,
+        "end": 139,
+        "text": " Yeah, no, it didn't. No, it's free."
+      },
+      {
+        "id": 40,
+        "start": 139,
+        "end": 142,
+        "text": " Okay. So, yeah, I'll do that. Go ahead."
+      },
+      {
+        "id": 41,
+        "start": 142,
+        "end": 146,
+        "text": " Okay. Perfect. Give me one second."
+      },
+      {
+        "id": 42,
+        "start": 146,
+        "end": 149,
+        "text": " And then that would be every month, right?"
+      },
+      {
+        "id": 43,
+        "start": 149,
+        "end": 151,
+        "text": " A quantity of 25 is every two months."
+      },
+      {
+        "id": 44,
+        "start": 151,
+        "end": 153,
+        "text": " Okay. That's fine. That would be perfect."
+      },
+      {
+        "id": 45,
+        "start": 153,
+        "end": 158,
+        "text": " Okay. Perfect. Okay. 25. Okay."
+      },
+      {
+        "id": 46,
+        "start": 158,
+        "end": 161,
+        "text": " Use the same card, MasterCard, ending in 9141?"
+      },
+      {
+        "id": 47,
+        "start": 161,
+        "end": 162,
+        "text": " Yep."
+      },
+      {
+        "id": 48,
+        "start": 162,
+        "end": 165,
+        "text": " Perfect. All right."
+      },
+      {
+        "id": 49,
+        "start": 165,
+        "end": 168,
+        "text": " All right. That went through."
+      },
+      {
+        "id": 50,
+        "start": 168,
+        "end": 171,
+        "text": " And then I'll tell you your next refill date."
+      },
+      {
+        "id": 51,
+        "start": 171,
+        "end": 175,
+        "text": " And then they would send you out a refill on March 27th."
+      },
+      {
+        "id": 52,
+        "start": 175,
+        "end": 177,
+        "text": " March 27th? Okay."
+      },
+      {
+        "id": 53,
+        "start": 177,
+        "end": 181,
+        "text": " Yeah. They'll ship this one out to you today, but then I'll send you the next one on the 27th."
+      },
+      {
+        "id": 54,
+        "start": 181,
+        "end": 183,
+        "text": " Okay. That'll be fine."
+      },
+      {
+        "id": 55,
+        "start": 183,
+        "end": 186,
+        "text": " All right. Sounds great, Donald. Glad that worked out."
+      },
+      {
+        "id": 56,
+        "start": 186,
+        "end": 188,
+        "text": " All right. Thank you very much."
+      },
+      {
+        "id": 57,
+        "start": 188,
+        "end": 190,
+        "text": " No problem. Have a great day."
+      },
+      {
+        "id": 58,
+        "start": 190,
+        "end": 191,
+        "text": " You too."
+      },
+      {
+        "id": 59,
+        "start": 191,
+        "end": 192,
+        "text": " Bye."
+      },
+      {
+        "id": 60,
+        "start": 192,
+        "end": 193,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81c6-ac8c-fb60f254e655",
+    "url": "https://www.notion.so/300000001217478-300000001707778-2f611d0a101c81c6ac8cfb60f254e655"
+  },
+  "processedAt": "2026-01-28T10:48:05.226Z"
+}

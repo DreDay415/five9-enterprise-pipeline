@@ -1,0 +1,149 @@
+{
+  "recording": {
+    "name": "300000001241269-300000001730746-6208021211 by olivier@superbalife.com @ 4_38_55 PM.wav",
+    "size": 338710,
+    "modifyTime": 1770943366000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241269-300000001730746-6208021211 by olivier@superbalife.com @ 4_38_55 PM.wav",
+    "uploadDate": "2026-02-13T00:42:46.000Z",
+    "callId": "300000001241269-300000001730746",
+    "agent": "olivier",
+    "phoneNumber": "6208021211",
+    "callTimestamp": "2026-02-13T16:38:55.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivier_300000001241269-300000001730746_6208021211.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivier_300000001241269-300000001730746_6208021211.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra. Hi, my name is Paul Martin. I just want to cancel my subscription. Okay.\n\nSpeaker 2: Yeah, yeah, let me pull the prescription here. Yeah, no worry. Mr. Paul Martin. Oh, I see\n\nSpeaker 1: that you are a VIP for Viagra 50 milligram, 22 tablets. Any health concern or you just want\n\nSpeaker 2: to take a break and reorder later? You don't want it on the monthly anymore? You want to\n\nSpeaker 1: order as needed?\n\nSpeaker 2: Yeah, I'll probably buy it. I will, but I only use one pill in a year\n\nSpeaker 1: and a half.\n\nSpeaker 2: Oh, what? In a year and a half?\n\nSpeaker 1: No way.\n\nSpeaker 2: Yeah, that's all I really need.\n\nSpeaker 1: Wow. We are really active patient here.\n\nSpeaker 2: Yeah, I would offer to pause your prescription\n\nSpeaker 1: up to half a year so you can order as needed and you don't lose your price or your prescription\n\nSpeaker 2: and you can get to refill once or twice a year to keep that price. But you know, it's\n\nSpeaker 1: your call. I don't know what you want to do.\n\nSpeaker 2: That's fine as long as I'm automatically charged.\n\nSpeaker 1: Okay, you want me to pause you for half a year so you get your refill once or twice\n\nSpeaker 2: a year?\n\nSpeaker 1: Yeah, as long as I'm automatically charged, that's fine.\n\nSpeaker 2: So the way they do,\n\nSpeaker 1: when you get paused to maintain the prescription, you get the minimum order, I think after half\n\nSpeaker 2: a year, I think it's 10 pills. And then you get another 10 half a year from that. But\n\nSpeaker 1: you don't get no monthly or large quantity or stuff of that nature.\n\nSpeaker 2: Okay, what does that cost? Let me let me check here. Give me one moment.\n\nSpeaker 1: It's $49. It comes to $63.95. It's\n\nSpeaker 2: 10 pills.\n\nSpeaker 1: Okay, that's fine. So that's every six months?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, that's fine.\n\nSpeaker 2: All right.\n\nSpeaker 1: All right, perfect. Let me, let me set you up, which is actually really smart, because\n\nSpeaker 2: you keep the market price, basically. And you're just not on a monthly basis.\n\nSpeaker 1: Okay, so you're all set. I'll put you up for half a year.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, thank you very much. You're welcome.",
+    "duration": 11740,
+    "audioDuration": 208.39999389648438,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 15,
+        "text": " Hi this is Viagra. Hi, my name is Paul Martin. I just want to cancel my subscription. Okay."
+      },
+      {
+        "id": 1,
+        "start": 15,
+        "end": 23.520000457763672,
+        "text": " Yeah, yeah, let me pull the prescription here. Yeah, no worry. Mr. Paul Martin. Oh, I see"
+      },
+      {
+        "id": 2,
+        "start": 23.520000457763672,
+        "end": 30.799999237060547,
+        "text": " that you a VIP for Viagra 50 milligram, 22 tablets. Any health concern or you just want"
+      },
+      {
+        "id": 3,
+        "start": 30.799999237060547,
+        "end": 35.36000061035156,
+        "text": " to take a break and reorder later? You don't want it on the monthly anymore? You want to"
+      },
+      {
+        "id": 4,
+        "start": 35.36000061035156,
+        "end": 41.959999084472656,
+        "text": " order as needed? Yeah, I'll probably buy it. I will, but I only use one pill in a year"
+      },
+      {
+        "id": 5,
+        "start": 41.959999084472656,
+        "end": 51.47999954223633,
+        "text": " and a half. Oh, what? In a year and a half? No way. Yeah, that's all I really need. Wow."
+      },
+      {
+        "id": 6,
+        "start": 51.47999954223633,
+        "end": 56.91999816894531,
+        "text": " We are, we are really active patient here. Yeah, I would offer to pause your prescription"
+      },
+      {
+        "id": 7,
+        "start": 56.91999816894531,
+        "end": 61.439998626708984,
+        "text": " up to half a year so you can order as needed and you don't lose your price or your prescription"
+      },
+      {
+        "id": 8,
+        "start": 61.439998626708984,
+        "end": 65.5199966430664,
+        "text": " and you can get to refill once or twice a year to keep that price. But you know, it's"
+      },
+      {
+        "id": 9,
+        "start": 65.5199966430664,
+        "end": 71.55999755859375,
+        "text": " your call. I don't know what you want to do. That's fine as long as I'm automatically charged."
+      },
+      {
+        "id": 10,
+        "start": 71.55999755859375,
+        "end": 75.87999725341797,
+        "text": " Okay, you want me to pause you for half a year so you get your refill once or twice"
+      },
+      {
+        "id": 11,
+        "start": 75.87999725341797,
+        "end": 82.68000030517578,
+        "text": " a year? Yeah, as long as I'm automatically charged, that's fine. So the way they do,"
+      },
+      {
+        "id": 12,
+        "start": 82.68000030517578,
+        "end": 87.36000061035156,
+        "text": " when you get paused to maintain the prescription, you get the minimum order, I think after half"
+      },
+      {
+        "id": 13,
+        "start": 87.36000061035156,
+        "end": 93.55999755859375,
+        "text": " a year, I think it's 10 pills. And then you get another 10 half a year from that. But"
+      },
+      {
+        "id": 14,
+        "start": 93.55999755859375,
+        "end": 99.63999938964844,
+        "text": " you don't get no monthly or large quantity or stuff of that nature. Okay, what does that"
+      },
+      {
+        "id": 15,
+        "start": 99.63999938964844,
+        "end": 115.19999694824219,
+        "text": " cost? Let me let me check here. Give me one moment. It's $49. It comes to $63.95. It's"
+      },
+      {
+        "id": 16,
+        "start": 115.19999694824219,
+        "end": 124.23999786376953,
+        "text": " 10 pills. Okay, that's fine. So that's every six months? Yes. Okay, that's fine. All right."
+      },
+      {
+        "id": 17,
+        "start": 124.27999877929688,
+        "end": 130.75999450683594,
+        "text": " All right, perfect. Let me, let me set you up, which is actually really smart, because"
+      },
+      {
+        "id": 18,
+        "start": 130.75999450683594,
+        "end": 137.9199981689453,
+        "text": " you keep the market price, basically. And you're just not on a monthly basis. Okay, so"
+      },
+      {
+        "id": 19,
+        "start": 137.9199981689453,
+        "end": 143,
+        "text": " you're all set. I'll put you up for half a year. Okay. Okay, thank you very much. You're"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-81e9-8fef-c7d86d178a4b",
+    "url": "https://www.notion.so/300000001241269-300000001730746-30611d0a101c81e98fefc7d86d178a4b"
+  },
+  "processedAt": "2026-02-13T01:03:51.359Z"
+}

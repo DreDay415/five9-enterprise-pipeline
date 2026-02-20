@@ -1,0 +1,38 @@
+{
+  "recording": {
+    "name": "300000001239142-300000001728913-5138336126 by josimar@superbalife.com @ 1_23_31 PM.wav",
+    "size": 3246,
+    "modifyTime": 1770845121000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239142-300000001728913-5138336126 by josimar@superbalife.com @ 1_23_31 PM.wav",
+    "uploadDate": "2026-02-11T21:25:21.000Z",
+    "callId": "300000001239142-300000001728913",
+    "agent": "josimar",
+    "phoneNumber": "5138336126",
+    "callTimestamp": "2026-02-11T13:23:31.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Bye.",
+    "duration": 1259,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 1,
+        "text": " Bye."
+      },
+      {
+        "id": 1,
+        "start": 1,
+        "end": 1,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-81bc-84a7-dc8042d83309",
+    "url": "https://www.notion.so/300000001239142-300000001728913-30411d0a101c81bc84a7dc8042d83309"
+  },
+  "processedAt": "2026-02-11T21:25:47.178Z"
+}

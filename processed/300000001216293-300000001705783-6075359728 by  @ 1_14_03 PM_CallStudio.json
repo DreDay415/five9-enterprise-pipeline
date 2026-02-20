@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001216293-300000001705783-6075359728 by  @ 1_14_03 PM_CallStudio.wav",
+    "size": 23396,
+    "modifyTime": 1769592739000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216293-300000001705783-6075359728 by  @ 1_14_03 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:32:19.000Z",
+    "callId": "300000001216293-300000001705783",
+    "phoneNumber": "6075359728",
+    "callTimestamp": "2026-01-28T09:32:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Speak loudly and clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: DUI shipment.\n\nSpeaker 1: Thanks. Transferring to agent.",
+    "duration": 1451,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.400000095367432,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 4.400000095367432,
+        "end": 6.099999904632568,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.099999904632568,
+        "end": 7.900000095367432,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 7.900000095367432,
+        "end": 11.100000381469727,
+        "text": " DUI shipment."
+      },
+      {
+        "id": 4,
+        "start": 11.100000381469727,
+        "end": 14.300000190734863,
+        "text": " Thanks. Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81d0-a1ff-d7cb0e1db333",
+    "url": "https://www.notion.so/300000001216293-300000001705783-2f611d0a101c81d0a1ffd7cb0e1db333"
+  },
+  "processedAt": "2026-01-28T10:12:23.088Z"
+}

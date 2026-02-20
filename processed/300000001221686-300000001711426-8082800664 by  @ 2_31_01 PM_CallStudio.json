@@ -1,0 +1,73 @@
+{
+  "recording": {
+    "name": "300000001221686-300000001711426-8082800664 by  @ 2_31_01 PM_CallStudio.wav",
+    "size": 48096,
+    "modifyTime": 1769639514000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221686-300000001711426-8082800664 by  @ 2_31_01 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T22:31:54.000Z",
+    "callId": "300000001221686-300000001711426",
+    "phoneNumber": "8082800664",
+    "callTimestamp": "2026-01-28T22:31:54.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: We didn't receive a response or I couldn't hear you.\n\nSpeaker 1: Let's try again.\n\nSpeaker 2: Please state the reason for your call.\n\nSpeaker 1: I want to speak to Juan.\n\nSpeaker 2: Thanks, transferring to agent.",
+    "duration": 1203,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.079999923706055,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.079999923706055,
+        "end": 6.079999923706055,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.079999923706055,
+        "end": 15.5600004196167,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 15.5600004196167,
+        "end": 18.799999237060547,
+        "text": " We didn't receive a response or I couldn't hear your."
+      },
+      {
+        "id": 4,
+        "start": 18.799999237060547,
+        "end": 20.360000610351562,
+        "text": " Let's try again."
+      },
+      {
+        "id": 5,
+        "start": 20.360000610351562,
+        "end": 24.559999465942383,
+        "text": " Please state the reason for your call."
+      },
+      {
+        "id": 6,
+        "start": 24.559999465942383,
+        "end": 28.079999923706055,
+        "text": " I want to speak to Juan."
+      },
+      {
+        "id": 7,
+        "start": 28.079999923706055,
+        "end": 29.280000686645508,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8183-bc67-d08ff4c635b5",
+    "url": "https://www.notion.so/300000001221686-300000001711426-2f611d0a101c8183bc67d08ff4c635b5"
+  },
+  "processedAt": "2026-01-28T23:37:59.493Z"
+}

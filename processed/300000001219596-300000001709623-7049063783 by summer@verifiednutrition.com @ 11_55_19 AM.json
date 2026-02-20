@@ -1,0 +1,290 @@
+{
+  "recording": {
+    "name": "300000001219596-300000001709623-7049063783 by summer@verifiednutrition.com @ 11_55_19 AM.wav",
+    "size": 292170,
+    "modifyTime": 1769589433000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219596-300000001709623-7049063783 by summer@verifiednutrition.com @ 11_55_19 AM.wav",
+    "uploadDate": "2026-01-28T08:37:13.000Z",
+    "callId": "300000001219596-300000001709623",
+    "agent": "summer",
+    "phoneNumber": "7049063783",
+    "callTimestamp": "2026-01-28T11:55:19.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Customer Service, how can I help you?\n\nSpeaker 2: Yes, I'd like to order an AGV.\n\nSpeaker 1: Sure, have you ordered one of those before?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Okay, let me go out of this.\n\nSpeaker 2: What's your name and birthday?\n\nSpeaker 1: My name is Antonio Petrone. It's March 16, 1955.\n\nSpeaker 2: Are you still on Westport Drive?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, and you want to get 100 milligrams, how many tablets?\n\nSpeaker 1: Ten.\n\nSpeaker 2: All right, and you want to use the card on file or do you want to update the card?\n\nSpeaker 1: Which one do you have on file?\n\nSpeaker 2: It says $37.92.\n\nSpeaker 1: Yes, how much will it be?\n\nSpeaker 2: It'll be $49.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Is that a one-time or—\n\nSpeaker 1: Oops.\n\nSpeaker 2: Give me a second, sorry.\n\nSpeaker 1: One second.\n\nSpeaker 2: It's up to you.\n\nSpeaker 1: You can do one time, you can have every couple of months,\n\nSpeaker 2: or we can just pause it so you can see how you like it.\n\nSpeaker 1: Because when you have the membership on, you're able to get discounts.\n\nSpeaker 2: Okay, so I can call you if I want to cancel, is that what you're saying?\n\nSpeaker 1: Yes, so if we leave it on, it'll allow you to get discounts.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, let's do that.\n\nSpeaker 2: Okay, I've processed that for you, and then I'm just going to pause it for a few months\n\nSpeaker 1: so that you have time to try it out.\n\nSpeaker 2: And then you can call back if you need anything sooner\n\nSpeaker 1: or if you want to pause it again or anything like that, okay?\n\nSpeaker 2: All right, and that's the NGV you got?\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: It was before it wasn't NGV, right?\n\nSpeaker 1: Nope, it was not.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Because it didn't work at all.\n\nSpeaker 2: Okay, no problem.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, you have a good day.\n\nSpeaker 1: You too, thank you.\n\nSpeaker 2: Bye-bye.",
+    "duration": 5001,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Thank you for calling Customers Service, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 10,
+        "text": " Yes, I'd like to order an AGV."
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 12,
+        "text": " Sure, have you ordered one of those before?"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 14,
+        "text": " Yes."
+      },
+      {
+        "id": 4,
+        "start": 14,
+        "end": 17,
+        "text": " Okay, let me go out of this."
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 20,
+        "text": " What's your name and birthday?"
+      },
+      {
+        "id": 6,
+        "start": 20,
+        "end": 34,
+        "text": " My name is Antonio Petrone. It's March 16, 1955."
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 36,
+        "text": " Are you still on Westport Drive?"
+      },
+      {
+        "id": 8,
+        "start": 36,
+        "end": 51,
+        "text": " Yes."
+      },
+      {
+        "id": 9,
+        "start": 51,
+        "end": 56,
+        "text": " Okay, and you want to get 100 milligrams, how many tablets?"
+      },
+      {
+        "id": 10,
+        "start": 56,
+        "end": 69,
+        "text": " Ten."
+      },
+      {
+        "id": 11,
+        "start": 69,
+        "end": 74,
+        "text": " All right, and you want to use the card on file or do you want to update the card?"
+      },
+      {
+        "id": 12,
+        "start": 74,
+        "end": 77,
+        "text": " Which one do you have on file?"
+      },
+      {
+        "id": 13,
+        "start": 77,
+        "end": 80,
+        "text": " It says $37.92."
+      },
+      {
+        "id": 14,
+        "start": 80,
+        "end": 82,
+        "text": " Yes, how much will it be?"
+      },
+      {
+        "id": 15,
+        "start": 82,
+        "end": 85,
+        "text": " It'll be $49."
+      },
+      {
+        "id": 16,
+        "start": 85,
+        "end": 89,
+        "text": " Okay."
+      },
+      {
+        "id": 17,
+        "start": 89,
+        "end": 92,
+        "text": " Is that a one-time or?"
+      },
+      {
+        "id": 18,
+        "start": 92,
+        "end": 94,
+        "text": " Oops."
+      },
+      {
+        "id": 19,
+        "start": 94,
+        "end": 98,
+        "text": " Give me a second, sorry."
+      },
+      {
+        "id": 20,
+        "start": 98,
+        "end": 106,
+        "text": " One second."
+      },
+      {
+        "id": 21,
+        "start": 106,
+        "end": 107,
+        "text": " It's up to you."
+      },
+      {
+        "id": 22,
+        "start": 107,
+        "end": 111,
+        "text": " You can do one time, you can have every couple of months,"
+      },
+      {
+        "id": 23,
+        "start": 111,
+        "end": 113,
+        "text": " or we can just pause it so you can see how you like it."
+      },
+      {
+        "id": 24,
+        "start": 113,
+        "end": 119,
+        "text": " Because when you have the membership on, you're able to get discounts."
+      },
+      {
+        "id": 25,
+        "start": 119,
+        "end": 128,
+        "text": " Okay, so I can call you if I want to cancel, is that what you're saying?"
+      },
+      {
+        "id": 26,
+        "start": 128,
+        "end": 132,
+        "text": " Yes, so if we leave it on, it'll allow you to get discounts."
+      },
+      {
+        "id": 27,
+        "start": 132,
+        "end": 134,
+        "text": " Okay."
+      },
+      {
+        "id": 28,
+        "start": 135,
+        "end": 143,
+        "text": " All right, let's do that."
+      },
+      {
+        "id": 29,
+        "start": 143,
+        "end": 148,
+        "text": " Okay, I've processed that for you, and then I'm just going to pause it for a few months"
+      },
+      {
+        "id": 30,
+        "start": 148,
+        "end": 150,
+        "text": " so that you have time to try it out."
+      },
+      {
+        "id": 31,
+        "start": 150,
+        "end": 154,
+        "text": " And then you can call back if you need anything sooner"
+      },
+      {
+        "id": 32,
+        "start": 154,
+        "end": 158,
+        "text": " or if you want to pause it again or anything like that, okay?"
+      },
+      {
+        "id": 33,
+        "start": 158,
+        "end": 161,
+        "text": " All right, and that's the NGV you got?"
+      },
+      {
+        "id": 34,
+        "start": 161,
+        "end": 163,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 35,
+        "start": 163,
+        "end": 165,
+        "text": " It was before it wasn't NGV, right?"
+      },
+      {
+        "id": 36,
+        "start": 165,
+        "end": 167,
+        "text": " Nope, it was not."
+      },
+      {
+        "id": 37,
+        "start": 167,
+        "end": 169,
+        "text": " Okay."
+      },
+      {
+        "id": 38,
+        "start": 169,
+        "end": 171,
+        "text": " Because it didn't work at all."
+      },
+      {
+        "id": 39,
+        "start": 171,
+        "end": 173,
+        "text": " Okay, no problem."
+      },
+      {
+        "id": 40,
+        "start": 173,
+        "end": 174,
+        "text": " Okay."
+      },
+      {
+        "id": 41,
+        "start": 174,
+        "end": 176,
+        "text": " All right, you have a good day."
+      },
+      {
+        "id": 42,
+        "start": 176,
+        "end": 177,
+        "text": " You too, thank you."
+      },
+      {
+        "id": 43,
+        "start": 177,
+        "end": 178,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81e7-9a2a-e2196d75a0a1",
+    "url": "https://www.notion.so/300000001219596-300000001709623-2f611d0a101c81e79a2ae2196d75a0a1"
+  },
+  "processedAt": "2026-01-28T12:49:23.747Z"
+}

@@ -1,0 +1,188 @@
+{
+  "recording": {
+    "name": "300000001220086-300000001709955-2177999608 by olivia@superbalife.com @ 2_41_44 PM.wav",
+    "size": 220476,
+    "modifyTime": 1769553862000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001220086-300000001709955-2177999608 by olivia@superbalife.com @ 2_41_44 PM.wav",
+    "uploadDate": "2026-01-27T22:44:22.000Z",
+    "callId": "300000001220086-300000001709955",
+    "agent": "olivia",
+    "phoneNumber": "2177999608",
+    "callTimestamp": "2026-01-27T14:41:44.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra. This is Olivia speaking. Who do I have the pleasure of speaking with today?\n\nSpeaker 2: Bradley Snoddy.\n\nSpeaker 1: Hi, Bradley. How are you?\n\nSpeaker 2: Oh, not bad.\n\nSpeaker 1: Good. I'm glad to hear that. How can I help you today, Bradley?\n\nSpeaker 2: I did not know that they would just automatically keep ordering for me, so I was needing to cancel my order.\n\nSpeaker 1: Yeah, I can help you with that. Okay, Bradley, what is your date of birth?\n\nSpeaker 2: 2-22-1970.\n\nSpeaker 1: Great. And you're located at 651 North Trojan Complex Road, Covington, Indiana, 47932?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Great. And this refill from today, you do not need it, is that right?\n\nSpeaker 2: That is correct.\n\nSpeaker 1: Okay, great. So I just canceled and refunded that order, so you should see that refund within these next few days.\n\nSpeaker 2: And yeah, if you don't want to receive regular refills with your prescription, you certainly don't have to.\n\nSpeaker 1: You always have the option with the prescription to place it on hold for up to six months at a time,\n\nSpeaker 2: just because six months is when the prescription would expire if we didn't refill it.\n\nSpeaker 1: And the way that would work is if you did want to place it on hold and you did want to order before then, you could.\n\nSpeaker 2: You just have to give us a call to place the order yourself whenever you're ready.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Okay, great. All right, so yeah, if you need anything before the end of July, just give us a call because your prescription is on hold.\n\nSpeaker 1: And we're always here Monday through Friday, 8 to 5 Pacific.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All righty. Well, thank you so much.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: Yeah, have a great day.\n\nSpeaker 2: You too. Bye.\n\nSpeaker 1: Okay, bye.",
+    "duration": 4984,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8,
+        "text": " Thank you for calling Viagra. This is Olivia speaking. Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 1,
+        "start": 8,
+        "end": 11,
+        "text": " Bradley Snoddy."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 13,
+        "text": " Hi, Bradley. How are you?"
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 16,
+        "text": " Oh, not bad."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 20,
+        "text": " Good. I'm glad to hear that. How can I help you today, Bradley?"
+      },
+      {
+        "id": 5,
+        "start": 20,
+        "end": 31,
+        "text": " I did not know that they would just automatically keep ordering for me, so I was needing to cancel my order."
+      },
+      {
+        "id": 6,
+        "start": 31,
+        "end": 36,
+        "text": " Yeah, I can help you with that. Okay, Bradley, what is your date of birth?"
+      },
+      {
+        "id": 7,
+        "start": 36,
+        "end": 40,
+        "text": " 2-22-1970."
+      },
+      {
+        "id": 8,
+        "start": 40,
+        "end": 49,
+        "text": " Great. And you're located at 651 North Trojan Complex Road, Covington, Indiana, 47932?"
+      },
+      {
+        "id": 9,
+        "start": 49,
+        "end": 51,
+        "text": " Yes."
+      },
+      {
+        "id": 10,
+        "start": 51,
+        "end": 56,
+        "text": " Great. And this refill from today, you do not need it, is that right?"
+      },
+      {
+        "id": 11,
+        "start": 56,
+        "end": 58,
+        "text": " That is correct."
+      },
+      {
+        "id": 12,
+        "start": 58,
+        "end": 66,
+        "text": " Okay, great. So I just canceled and refunded that order, so you should see that refund within these next few days."
+      },
+      {
+        "id": 13,
+        "start": 66,
+        "end": 72,
+        "text": " And yeah, if you don't want to receive regular refills with your prescription, you certainly don't have to."
+      },
+      {
+        "id": 14,
+        "start": 73,
+        "end": 80,
+        "text": " You always have the option with the prescription to place it on hold for up to six months at a time,"
+      },
+      {
+        "id": 15,
+        "start": 80,
+        "end": 86,
+        "text": " just because six months is when the prescription would expire if we didn't refill it."
+      },
+      {
+        "id": 16,
+        "start": 86,
+        "end": 94,
+        "text": " And the way that would work is if you did want to place it on hold and you did want to order before then, you could."
+      },
+      {
+        "id": 17,
+        "start": 94,
+        "end": 100,
+        "text": " You just have to give us a call to place the order yourself whenever you're ready."
+      },
+      {
+        "id": 18,
+        "start": 101,
+        "end": 103,
+        "text": " Okay."
+      },
+      {
+        "id": 19,
+        "start": 103,
+        "end": 114,
+        "text": " Okay, great. All right, so yeah, if you need anything before the end of July, just give us a call because your prescription is on hold."
+      },
+      {
+        "id": 20,
+        "start": 114,
+        "end": 120,
+        "text": " And we're always here Monday through Friday, 8 to 5 Pacific."
+      },
+      {
+        "id": 21,
+        "start": 120,
+        "end": 122,
+        "text": " Okay."
+      },
+      {
+        "id": 22,
+        "start": 122,
+        "end": 125,
+        "text": " All righty. Well, thank you so much."
+      },
+      {
+        "id": 23,
+        "start": 125,
+        "end": 126,
+        "text": " Thank you."
+      },
+      {
+        "id": 24,
+        "start": 126,
+        "end": 128,
+        "text": " Yeah, have a great day."
+      },
+      {
+        "id": 25,
+        "start": 128,
+        "end": 129,
+        "text": " You too. Bye."
+      },
+      {
+        "id": 26,
+        "start": 129,
+        "end": 130,
+        "text": " Okay, bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f511d0a-101c-8179-b73e-e8b9b2567876",
+    "url": "https://www.notion.so/300000001220086-300000001709955-2f511d0a101c8179b73ee8b9b2567876"
+  },
+  "processedAt": "2026-01-27T22:58:02.556Z"
+}

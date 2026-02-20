@@ -1,0 +1,188 @@
+{
+  "recording": {
+    "name": "300000001218118-300000001708196-8657244101 by olivia@superbalife.com @ 1_21_43 PM.wav",
+    "size": 203900,
+    "modifyTime": 1769584032000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218118-300000001708196-8657244101 by olivia@superbalife.com @ 1_21_43 PM.wav",
+    "uploadDate": "2026-01-28T07:07:12.000Z",
+    "callId": "300000001218118-300000001708196",
+    "agent": "olivia",
+    "phoneNumber": "8657244101",
+    "callTimestamp": "2026-01-28T13:21:43.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viacra. This is Olivia speaking. Who do I have the pleasure of speaking with today?\n\nSpeaker 2: Michael Kidd.\n\nSpeaker 1: Hi, Michael. How are you?\n\nSpeaker 2: Pretty good. How about yourself?\n\nSpeaker 1: Good. Good. How can I help you today?\n\nSpeaker 2: I was calling to check the status of my return.\n\nSpeaker 1: Yeah, so it looks like we did issue you a refund back.\n\nSpeaker 2: Okay.\n\nSpeaker 1: I can go look further into that, but yeah, refunds usually take three to five business days to process.\n\nSpeaker 2: Can you just confirm your date of birth for me, Michael?\n\nSpeaker 1: 9573.\n\nSpeaker 2: John, you're located at 1415 Montville Station Road, Apartment 905, Maryville, Tennessee?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay, great. Yeah, give me one moment to go look you up.\n\nSpeaker 1: And then there you are.\n\nSpeaker 2: Okay.\n\nSpeaker 1: So, yeah, I think we did that on – I think we processed the refund last Wednesday.\n\nSpeaker 2: So, yeah, you should see it by tomorrow, the end of day tomorrow.\n\nSpeaker 1: So, you know, if it's Wednesday and you still don't receive it, then there might be something wrong.\n\nSpeaker 2: But I would call your bank just because I've confirmed both on your account\n\nSpeaker 1: and then on the back end that we did submit the refund.\n\nSpeaker 2: Was it card ending in 7843?\n\nSpeaker 1: Let's see. Yep, exactly.\n\nSpeaker 2: Okay, awesome. Thank you so much.\n\nSpeaker 1: Thank you. I hope you have a great day.\n\nSpeaker 2: All right, goodbye.\n\nSpeaker 1: Bye.",
+    "duration": 4705,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 9,
+        "text": " Thank you for calling Viacra. This is Olivia speaking. Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 1,
+        "start": 9,
+        "end": 11,
+        "text": " Michael Kidd."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 14,
+        "text": " Hi, Michael. How are you?"
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 16,
+        "text": " Pretty good. How about yourself?"
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 21,
+        "text": " Good. Good. How can I help you today?"
+      },
+      {
+        "id": 5,
+        "start": 21,
+        "end": 26,
+        "text": " I was calling to check the status of my return."
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 33,
+        "text": " Yeah, so it looks like we did issue you a refund back."
+      },
+      {
+        "id": 7,
+        "start": 33,
+        "end": 34,
+        "text": " Okay."
+      },
+      {
+        "id": 8,
+        "start": 34,
+        "end": 43,
+        "text": " I can go look further into that, but yeah, refunds usually take three to five business days to process."
+      },
+      {
+        "id": 9,
+        "start": 43,
+        "end": 46,
+        "text": " Can you just confirm your date of birth for me, Michael?"
+      },
+      {
+        "id": 10,
+        "start": 46,
+        "end": 49,
+        "text": " 9573."
+      },
+      {
+        "id": 11,
+        "start": 49,
+        "end": 56,
+        "text": " John, you're located at 1415 Montville Station Road, Apartment 905, Maryville, Tennessee?"
+      },
+      {
+        "id": 12,
+        "start": 56,
+        "end": 58,
+        "text": " Yes."
+      },
+      {
+        "id": 13,
+        "start": 58,
+        "end": 66,
+        "text": " Okay, great. Yeah, give me one moment to go look you up."
+      },
+      {
+        "id": 14,
+        "start": 66,
+        "end": 73,
+        "text": " And then there you are."
+      },
+      {
+        "id": 15,
+        "start": 73,
+        "end": 80,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 80,
+        "end": 87,
+        "text": " So, yeah, I think we did that on – I think we processed the refund last Wednesday."
+      },
+      {
+        "id": 17,
+        "start": 87,
+        "end": 92,
+        "text": " So, yeah, you should see it by tomorrow, the end of day tomorrow."
+      },
+      {
+        "id": 18,
+        "start": 92,
+        "end": 99,
+        "text": " So, you know, if it's Wednesday and you still don't receive it, then there might be something wrong."
+      },
+      {
+        "id": 19,
+        "start": 100,
+        "end": 104,
+        "text": " But I would call your bank just because I've confirmed both on your account"
+      },
+      {
+        "id": 20,
+        "start": 104,
+        "end": 108,
+        "text": " and then on the back end that we did submit the refund."
+      },
+      {
+        "id": 21,
+        "start": 108,
+        "end": 114,
+        "text": " Was it card ending in 7843?"
+      },
+      {
+        "id": 22,
+        "start": 114,
+        "end": 118,
+        "text": " Let's see. Yep, exactly."
+      },
+      {
+        "id": 23,
+        "start": 118,
+        "end": 120,
+        "text": " Okay, awesome. Thank you so much."
+      },
+      {
+        "id": 24,
+        "start": 120,
+        "end": 122,
+        "text": " Thank you. I hope you have a great day."
+      },
+      {
+        "id": 25,
+        "start": 122,
+        "end": 124,
+        "text": " All right, goodbye."
+      },
+      {
+        "id": 26,
+        "start": 124,
+        "end": 125,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8125-bae8-d52e2377814c",
+    "url": "https://www.notion.so/300000001218118-300000001708196-2f611d0a101c8125bae8d52e2377814c"
+  },
+  "processedAt": "2026-01-28T15:46:28.580Z"
+}

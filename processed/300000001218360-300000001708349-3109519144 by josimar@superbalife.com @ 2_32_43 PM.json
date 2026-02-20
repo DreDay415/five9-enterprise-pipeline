@@ -1,0 +1,314 @@
+{
+  "recording": {
+    "name": "300000001218360-300000001708349-3109519144 by josimar@superbalife.com @ 2_32_43 PM.wav",
+    "size": 240690,
+    "modifyTime": 1769589134000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218360-300000001708349-3109519144 by josimar@superbalife.com @ 2_32_43 PM.wav",
+    "uploadDate": "2026-01-28T08:32:14.000Z",
+    "callId": "300000001218360-300000001708349",
+    "agent": "josimar",
+    "phoneNumber": "3109519144",
+    "callTimestamp": "2026-01-28T14:32:43.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Leagra, ¿cómo le puedo ayudar hoy día?\n\nSpeaker 2: Buenos días.\n\nSpeaker 1: Buenas tardes.\n\nSpeaker 2: No, quiero comprar, no sé cómo venden,\n\nSpeaker 1: una botella de Scorp Blue.\n\nSpeaker 2: Sí, ¿no vendemos uno nomás?\n\nSpeaker 1: Es una prescripción que viene con rellenos que usted tiene\n\nSpeaker 2: que seleccionar.\n\nSpeaker 1: Si usted quiere poner una orden, le puedo ayudar ahorita.\n\nSpeaker 2: ¿Cuánto, mejor dicho, cuánto es la orden y cuántos frascos?\n\nSpeaker 1: ¿O cuánto?\n\nSpeaker 2: Pues es una botella y viene 10 pastillas a $63.\n\nSpeaker 1: 25 pastillas a $113 o 40 a $163.\n\nSpeaker 2: OK, ve lo que le digo.\n\nSpeaker 1: Yo compré, yo tengo cuenta allá y compré anteriormente y me\n\nSpeaker 2: manda, en lugar de mandarme lo que yo quería,\n\nSpeaker 1: me mandaron unas pastillas blancas que no hacen nada.\n\nSpeaker 2: Y a mí nadie.\n\nSpeaker 1: Si acá veo que le dieron la correcta orden y lo arreglaron\n\nSpeaker 2: todo.\n\nSpeaker 1: Acá veo superficientes, Nelson Pinzón.\n\nSpeaker 2: Sí.\n\nSpeaker 1: Sí, sí, yo lo arreglaron y le mandaron la correcta orden.\n\nSpeaker 2: ¿O quería ordenar esos 10 otra vez, sí o no, señor?\n\nSpeaker 1: A mí no, a mí nunca me llegó nada, nunca me llegó nada.\n\nSpeaker 2: Cuando usted llamó, le llegaron viniendo las órdenes.\n\nSpeaker 1: Y acá usted recibió la orden correcta desde el mes\n\nSpeaker 2: de agosto.\n\nSpeaker 1: La primera orden que hizo en junio no fue correcto.\n\nSpeaker 2: Desde el mes de agosto, de septiembre, octubre y\n\nSpeaker 1: noviembre, usted recibió las órdenes correctas.\n\nSpeaker 2: Usted llamó en diciembre 10 para decirles que no le funciona la\n\nSpeaker 1: medicación y le avisaron que no lo tome con alcohol.\n\nSpeaker 2: Eso fue lo que le avisaron.\n\nSpeaker 1: Sí, yo me acuerdo que hablé con usted.\n\nSpeaker 2: Ahora me acuerdo.\n\nSpeaker 1: No, no, no, no, no habló conmigo.\n\nSpeaker 2: No, o sería alguien más.\n\nSpeaker 1: Él me dijo que no tomara con alcohol y que tenía que ser como media hora antes o\n\nSpeaker 2: algo así.\n\nSpeaker 1: El alcohol no va a funcionar, pero el alcohol es que usted recibió la medicación\n\nSpeaker 2: del alcohólico, señor.\n\nSpeaker 1: Se fue la, se fue la conexión.\n\nSpeaker 2: Bueno, pero usted está diciendo que la medicación se abrió un doble día.\n\nSpeaker 1: No, no estoy oyendo correctamente.\n\nSpeaker 2: La conexión está mala.\n\nSpeaker 1: ¿Me puede, me puede llamar de vuelta?\n\nSpeaker 2: Si tienes el número.",
+    "duration": 7790,
+    "language": "spanish",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Leagra, ¿cómo le puedo ayudar hoy día?"
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 4,
+        "text": " Buenos días."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 5.679999828338623,
+        "text": " Buenas tardes."
+      },
+      {
+        "id": 3,
+        "start": 5.679999828338623,
+        "end": 10.279999732971191,
+        "text": " No, quiero comprar, no sé cómo venden,"
+      },
+      {
+        "id": 4,
+        "start": 10.279999732971191,
+        "end": 17.959999084472656,
+        "text": " una botella de Scorp Blue."
+      },
+      {
+        "id": 5,
+        "start": 17.959999084472656,
+        "end": 19.520000457763672,
+        "text": " Sí, ¿no vendemos uno nomás?"
+      },
+      {
+        "id": 6,
+        "start": 19.520000457763672,
+        "end": 22.040000915527344,
+        "text": " Es una prescripción que viene con rellenos que usted tiene"
+      },
+      {
+        "id": 7,
+        "start": 22.040000915527344,
+        "end": 23.479999542236328,
+        "text": " que seleccionar."
+      },
+      {
+        "id": 8,
+        "start": 23.479999542236328,
+        "end": 25.799999237060547,
+        "text": " Si usted quiere poner una orden, le puedo ayudar ahorita."
+      },
+      {
+        "id": 9,
+        "start": 30.239999771118164,
+        "end": 35.47999954223633,
+        "text": " ¿Cuánto, mejor dicho, cuánto es la orden y cuántos frascos?"
+      },
+      {
+        "id": 10,
+        "start": 35.47999954223633,
+        "end": 36.15999984741211,
+        "text": " ¿O cuánto?"
+      },
+      {
+        "id": 11,
+        "start": 36.15999984741211,
+        "end": 40.2400016784668,
+        "text": " Pues es una botella y viene 10 pastillas a $63."
+      },
+      {
+        "id": 12,
+        "start": 40.2400016784668,
+        "end": 46.63999938964844,
+        "text": " 25 pastillas a $113 o 40 a $163."
+      },
+      {
+        "id": 13,
+        "start": 46.63999938964844,
+        "end": 48.79999923706055,
+        "text": " OK, ve lo que le digo."
+      },
+      {
+        "id": 14,
+        "start": 48.79999923706055,
+        "end": 54.84000015258789,
+        "text": " Yo compré, yo tengo cuenta allá y compré anteriormente y me"
+      },
+      {
+        "id": 15,
+        "start": 54.84000015258789,
+        "end": 58.279998779296875,
+        "text": " manda, en lugar de mandarme lo que yo quería,"
+      },
+      {
+        "id": 16,
+        "start": 58.279998779296875,
+        "end": 62.36000061035156,
+        "text": " me mandaron unas pastillas blancas que no hacen nada."
+      },
+      {
+        "id": 17,
+        "start": 62.36000061035156,
+        "end": 63.31999969482422,
+        "text": " Y a mí nadie."
+      },
+      {
+        "id": 18,
+        "start": 63.31999969482422,
+        "end": 65.68000030517578,
+        "text": " Si acá veo que le dieron la correcta orden y lo arreglaron"
+      },
+      {
+        "id": 19,
+        "start": 65.68000030517578,
+        "end": 66.18000030517578,
+        "text": " todo."
+      },
+      {
+        "id": 20,
+        "start": 66.18000030517578,
+        "end": 69.08000183105469,
+        "text": " Acá veo superficientes, Nelson Pinzón."
+      },
+      {
+        "id": 21,
+        "start": 69.08000183105469,
+        "end": 70.08000183105469,
+        "text": " Sí."
+      },
+      {
+        "id": 22,
+        "start": 70.08000183105469,
+        "end": 72.83999633789062,
+        "text": " Sí, sí, yo lo arreglaron y le mandaron la correcta orden."
+      },
+      {
+        "id": 23,
+        "start": 72.83999633789062,
+        "end": 75.55999755859375,
+        "text": " ¿O quería ordenar esos 10 otra vez, sí o no, señor?"
+      },
+      {
+        "id": 24,
+        "start": 75.55999755859375,
+        "end": 80.23999786376953,
+        "text": " A mí no, a mí nunca me llegó nada, nunca me llegó nada."
+      },
+      {
+        "id": 25,
+        "start": 80.23999786376953,
+        "end": 84.44000244140625,
+        "text": " Cuando usted llamó, le llegaron viniendo las órdenes."
+      },
+      {
+        "id": 26,
+        "start": 84.44000244140625,
+        "end": 87.91999816894531,
+        "text": " Y acá usted recibió la orden correcta desde el mes"
+      },
+      {
+        "id": 27,
+        "start": 88.55999755859375,
+        "end": 89.83999633789062,
+        "text": " de agosto."
+      },
+      {
+        "id": 28,
+        "start": 89.83999633789062,
+        "end": 92.95999908447266,
+        "text": " La primera orden que hizo en junio no fue correcto."
+      },
+      {
+        "id": 29,
+        "start": 92.95999908447266,
+        "end": 95.95999908447266,
+        "text": " Desde el mes de agosto, de septiembre, octubre y"
+      },
+      {
+        "id": 30,
+        "start": 95.95999908447266,
+        "end": 99.63999938964844,
+        "text": " noviembre, usted recibió las órdenes correctas."
+      },
+      {
+        "id": 31,
+        "start": 99.63999938964844,
+        "end": 103.31999969482422,
+        "text": " Usted llamó en diciembre 10 para decirles que no le funciona la"
+      },
+      {
+        "id": 32,
+        "start": 103.31999969482422,
+        "end": 107.72000122070312,
+        "text": " medicación y le avisaron que no lo tome con alcohol."
+      },
+      {
+        "id": 33,
+        "start": 107.72000122070312,
+        "end": 109.04000091552734,
+        "text": " Eso fue lo que le avisaron."
+      },
+      {
+        "id": 34,
+        "start": 109.04000091552734,
+        "end": 111.31999969482422,
+        "text": " Sí, yo me acuerdo que hablé con usted."
+      },
+      {
+        "id": 35,
+        "start": 111.31999969482422,
+        "end": 112.08000183105469,
+        "text": " Ahora me acuerdo."
+      },
+      {
+        "id": 36,
+        "start": 112.08000183105469,
+        "end": 113.4800033569336,
+        "text": " No, no, no, no, no habló conmigo."
+      },
+      {
+        "id": 37,
+        "start": 113.4800033569336,
+        "end": 116.55999755859375,
+        "text": " No, o sería alguien más."
+      },
+      {
+        "id": 38,
+        "start": 116.55999755859375,
+        "end": 121.83999633789062,
+        "text": " Él me dijo que no tomara con alcohol y que tenía que ser como media hora antes o"
+      },
+      {
+        "id": 39,
+        "start": 121.83999633789062,
+        "end": 122.4000015258789,
+        "text": " algo así."
+      },
+      {
+        "id": 40,
+        "start": 122.4000015258789,
+        "end": 126.95999908447266,
+        "text": " El alcohol no va a funcionar, pero el alcohol es que usted recibió la medicación"
+      },
+      {
+        "id": 41,
+        "start": 126.95999908447266,
+        "end": 128.8000030517578,
+        "text": " del alcohólico, señor."
+      },
+      {
+        "id": 42,
+        "start": 128.8000030517578,
+        "end": 130.9600067138672,
+        "text": " Se fue la, se fue la conexión."
+      },
+      {
+        "id": 43,
+        "start": 130.9600067138672,
+        "end": 136.60000610351562,
+        "text": " Bueno, pero usted está diciendo que la medicación se abrió un doble día."
+      },
+      {
+        "id": 44,
+        "start": 136.60000610351562,
+        "end": 139.1999969482422,
+        "text": " No, no estoy oyendo correctamente."
+      },
+      {
+        "id": 45,
+        "start": 139.1999969482422,
+        "end": 141.44000244140625,
+        "text": " La conexión está mala."
+      },
+      {
+        "id": 46,
+        "start": 141.44000244140625,
+        "end": 146.36000061035156,
+        "text": " ¿Me puede, me puede llamar de vuelta?"
+      },
+      {
+        "id": 47,
+        "start": 146.36000061035156,
+        "end": 148.0800018310547,
+        "text": " Si tienes el número."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8119-8e89-dfc9e50b6f3b",
+    "url": "https://www.notion.so/300000001218360-300000001708349-2f611d0a101c81198e89dfc9e50b6f3b"
+  },
+  "processedAt": "2026-01-28T12:57:37.403Z"
+}

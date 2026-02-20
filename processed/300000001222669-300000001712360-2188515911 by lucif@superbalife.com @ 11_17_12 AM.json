@@ -1,0 +1,206 @@
+{
+  "recording": {
+    "name": "300000001222669-300000001712360-2188515911 by lucif@superbalife.com @ 11_17_12 AM.wav",
+    "size": 123300,
+    "modifyTime": 1769714329000,
+    "remotePath": "/five9sftp/upload/SB CS/1_29_2026/300000001222669-300000001712360-2188515911 by lucif@superbalife.com @ 11_17_12 AM.wav",
+    "uploadDate": "2026-01-29T19:18:49.000Z",
+    "callId": "300000001222669-300000001712360",
+    "agent": "lucif",
+    "phoneNumber": "2188515911",
+    "callTimestamp": "2026-01-29T11:17:12.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra, Quinn speaking, how can I help you?\n\nSpeaker 2: Yeah, I just, can I put a hold on my prescription for a couple of months?\n\nSpeaker 1: You absolutely can, let me pull up your prescription.\n\nSpeaker 2: Yeah, because I'm going in for surgery and I won't be able to take any pills for a while.\n\nSpeaker 1: Okay, no worries then.\n\nSpeaker 2: I can push you out five months and you can always shorten that if you need to.\n\nSpeaker 1: Okay, so let's do the five months and then if I need it sooner I'll call back.\n\nSpeaker 2: And you can also request more time if need be as well.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Do you want to take my name and extension?\n\nSpeaker 1: Yes.\n\nSpeaker 2: So that way if you do need to change or alter anything, you know, you can reach me directly.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All right, so my name is Quinn.\n\nSpeaker 1: Quinn.\n\nSpeaker 2: And my, excuse me, extension is 0035.\n\nSpeaker 1: Okay, thank you so much.\n\nSpeaker 2: You are very welcome, sir.\n\nSpeaker 1: Anything else that I could do for you?\n\nSpeaker 2: No, so it's automatically on hold now?\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: I just changed that for you.\n\nSpeaker 1: Okay.\n\nSpeaker 2: All righty.\n\nSpeaker 1: All you, excuse me, you're all set.\n\nSpeaker 2: Thank you, I appreciate it.\n\nSpeaker 1: You have a great day.\n\nSpeaker 2: You too.\n\nSpeaker 1: Okay, bye.\n\nSpeaker 2: Bye.",
+    "duration": 3314,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6,
+        "text": " Thank you for calling Viagra, Quinn speaking, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 6,
+        "end": 10,
+        "text": " Yeah, I just, can I put a hold on my prescription for a couple of months?"
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 13,
+        "text": " You absolutely can, let me pull up your prescription."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 17,
+        "text": " Yeah, because I'm going in for surgery and I won't be able to take any pills for a while."
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 19,
+        "text": " Okay, no worries then."
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 24,
+        "text": " I can push you out five months and you can always shorten that if you need to."
+      },
+      {
+        "id": 6,
+        "start": 24,
+        "end": 29,
+        "text": " Okay, so let's do the five months and then if I need it sooner I'll call back."
+      },
+      {
+        "id": 7,
+        "start": 29,
+        "end": 32,
+        "text": " And you can also request more time if need be as well."
+      },
+      {
+        "id": 8,
+        "start": 32,
+        "end": 33,
+        "text": " Okay."
+      },
+      {
+        "id": 9,
+        "start": 33,
+        "end": 36,
+        "text": " Do you want to take my name and extension?"
+      },
+      {
+        "id": 10,
+        "start": 36,
+        "end": 37,
+        "text": " Yes."
+      },
+      {
+        "id": 11,
+        "start": 37,
+        "end": 41,
+        "text": " So that way if you do need to change or alter anything, you know, you can reach me directly."
+      },
+      {
+        "id": 12,
+        "start": 41,
+        "end": 42,
+        "text": " Okay."
+      },
+      {
+        "id": 13,
+        "start": 42,
+        "end": 44,
+        "text": " All right, so my name is Quinn."
+      },
+      {
+        "id": 14,
+        "start": 44,
+        "end": 46,
+        "text": " Quinn."
+      },
+      {
+        "id": 15,
+        "start": 46,
+        "end": 51,
+        "text": " And my, excuse me, extension is 0035."
+      },
+      {
+        "id": 16,
+        "start": 51,
+        "end": 53,
+        "text": " Okay, thank you so much."
+      },
+      {
+        "id": 17,
+        "start": 53,
+        "end": 55,
+        "text": " You are very welcome, sir."
+      },
+      {
+        "id": 18,
+        "start": 55,
+        "end": 57,
+        "text": " Anything else that I could do for you?"
+      },
+      {
+        "id": 19,
+        "start": 57,
+        "end": 60,
+        "text": " No, so it's automatically on hold now?"
+      },
+      {
+        "id": 20,
+        "start": 60,
+        "end": 61,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 21,
+        "start": 61,
+        "end": 62,
+        "text": " I just changed that for you."
+      },
+      {
+        "id": 22,
+        "start": 62,
+        "end": 63,
+        "text": " Okay."
+      },
+      {
+        "id": 23,
+        "start": 66,
+        "end": 67,
+        "text": " All righty."
+      },
+      {
+        "id": 24,
+        "start": 67,
+        "end": 69,
+        "text": " All you, excuse me, you're all set."
+      },
+      {
+        "id": 25,
+        "start": 69,
+        "end": 71,
+        "text": " Thank you, I appreciate it."
+      },
+      {
+        "id": 26,
+        "start": 71,
+        "end": 72,
+        "text": " You have a great day."
+      },
+      {
+        "id": 27,
+        "start": 72,
+        "end": 73,
+        "text": " You too."
+      },
+      {
+        "id": 28,
+        "start": 73,
+        "end": 74,
+        "text": " Okay, bye."
+      },
+      {
+        "id": 29,
+        "start": 74,
+        "end": 75,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-81ca-bfa8-c0458453b2fd",
+    "url": "https://www.notion.so/300000001222669-300000001712360-2f711d0a101c81cabfa8c0458453b2fd"
+  },
+  "processedAt": "2026-01-29T22:00:21.098Z"
+}

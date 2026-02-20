@@ -1,0 +1,413 @@
+{
+  "recording": {
+    "name": "300000001241059-300000001730588-6614788307 by charles@superbalife.com @ 2_34_20 PM.wav",
+    "size": 284046,
+    "modifyTime": 1770935856000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241059-300000001730588-6614788307 by charles@superbalife.com @ 2_34_20 PM.wav",
+    "uploadDate": "2026-02-12T22:37:36.000Z",
+    "callId": "300000001241059-300000001730588",
+    "agent": "charles",
+    "phoneNumber": "6614788307",
+    "callTimestamp": "2026-02-12T14:34:20.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_charles_300000001241059-300000001730588_6614788307.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-12_charles_300000001241059-300000001730588_6614788307.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: I'm a current patient and I would like to cancel my subscription, sir.\n\nSpeaker 2: I'm sorry, what did you say your name was?\n\nSpeaker 1: Logan.\n\nSpeaker 2: Chicago.\n\nSpeaker 1: Gotcha.\n\nSpeaker 2: And Cal State California, correct?\n\nSpeaker 1: Correct.\n\nSpeaker 2: All right.\n\nSpeaker 1: Okay, it does look like you are a VIP member here.\n\nSpeaker 2: I'm assuming you're just still overstocked from the last couple months.\n\nSpeaker 1: Yeah, I'm a little overstocked.\n\nSpeaker 2: Yeah, okay.\n\nSpeaker 1: If you want, typically what our guys do here that are on the VIP status,\n\nSpeaker 2: they'll put themselves on like a once or twice a year setting for the refill.\n\nSpeaker 1: That way it does not come as often as every three months.\n\nSpeaker 2: It would be once or twice a year.\n\nSpeaker 1: So I could pause everything from now until August.\n\nSpeaker 2: We'd be the only one that you get charged for for the rest of the year,\n\nSpeaker 1: or until you call and let us know that you need it.\n\nSpeaker 2: Just an option.\n\nSpeaker 1: Okay.\n\nSpeaker 2: I mean, would I still be a VIP status if I could just call at any time?\n\nSpeaker 1: Like let's say I wanted to call in October, would I still get the same VIP status?\n\nSpeaker 2: Like if we cancel everything, no.\n\nSpeaker 1: And then the price might change as well.\n\nSpeaker 2: My understanding is because if we cancel everything, it cancels the prescription.\n\nSpeaker 1: And that's the most important thing to ordering the medication for the Viagra,\n\nSpeaker 2: if that makes sense.\n\nSpeaker 1: So, I mean, I could pause everything from now until August 24th.\n\nSpeaker 2: I don't know if you want to write that date down.\n\nSpeaker 1: I have everybody do that and then call in before then\n\nSpeaker 2: and then let us know when it's needed and not needed.\n\nSpeaker 1: We're very customer service friendly.\n\nSpeaker 2: As long as you work with us, we'll work with you.\n\nSpeaker 1: Gotcha.\n\nSpeaker 2: No, I'll do that for now.\n\nSpeaker 1: Sounds good.\n\nSpeaker 2: August 24th, if you ever want me again, my name is Charles, and it's 0040.\n\nSpeaker 1: Okay, cool.\n\nSpeaker 2: All right, sounds good.\n\nSpeaker 1: I hope to hear from you sooner than August.\n\nSpeaker 2: Other than that, I hope you have a great rest of your day, okay?\n\nSpeaker 1: I appreciate that.\n\nSpeaker 2: What's the current shipment when it comes in August?\n\nSpeaker 1: Or the amount of pills and what the price would be?\n\nSpeaker 2: Yeah, so you actually have options with that too.\n\nSpeaker 1: If it's 40 pills for $163.95, it would lock in for that price always.\n\nSpeaker 2: Or you can drop it down to 25 pills at a time for $99\n\nSpeaker 1: or 10 pills at a time for $49.\n\nSpeaker 2: Gotcha.\n\nSpeaker 1: All right.\n\nSpeaker 2: Well, I'll just keep it at the current rate right now,\n\nSpeaker 1: at 40 pills, and I'll just call you guys before August 24th, you said?\n\nSpeaker 2: Yes, sir.\n\nSpeaker 1: Okay, cool.\n\nSpeaker 2: Yeah, that works.\n\nSpeaker 1: All right.\n\nSpeaker 2: Sounds good.\n\nSpeaker 1: All right, Logan, hope you have a great day.\n\nSpeaker 2: Take care, brother.\n\nSpeaker 1: You too, Charles.\n\nSpeaker 2: I'll see you later.\n\nSpeaker 1: All right.",
+    "duration": 6627,
+    "audioDuration": 174.75999450683594,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 17,
+        "text": " I'm a current patient and I would like to cancel my subscription, sir."
+      },
+      {
+        "id": 1,
+        "start": 17,
+        "end": 22,
+        "text": " I'm sorry, what did you say your name was?"
+      },
+      {
+        "id": 2,
+        "start": 22,
+        "end": 23,
+        "text": " Logan."
+      },
+      {
+        "id": 3,
+        "start": 23,
+        "end": 24,
+        "text": " Chicago."
+      },
+      {
+        "id": 4,
+        "start": 24,
+        "end": 25,
+        "text": " Gotcha."
+      },
+      {
+        "id": 5,
+        "start": 25,
+        "end": 28,
+        "text": " And Cal State California, correct?"
+      },
+      {
+        "id": 6,
+        "start": 28,
+        "end": 29,
+        "text": " Correct."
+      },
+      {
+        "id": 7,
+        "start": 29,
+        "end": 31,
+        "text": " All right."
+      },
+      {
+        "id": 8,
+        "start": 31,
+        "end": 34,
+        "text": " Okay, it does look like you are a VIP member here."
+      },
+      {
+        "id": 9,
+        "start": 34,
+        "end": 38,
+        "text": " I'm assuming you're just still overstocked from the last couple months."
+      },
+      {
+        "id": 10,
+        "start": 38,
+        "end": 40,
+        "text": " Yeah, I'm a little overstocked."
+      },
+      {
+        "id": 11,
+        "start": 40,
+        "end": 42,
+        "text": " Yeah, okay."
+      },
+      {
+        "id": 12,
+        "start": 42,
+        "end": 46,
+        "text": " If you want, typically what our guys do here that are on the VIP status,"
+      },
+      {
+        "id": 13,
+        "start": 46,
+        "end": 51,
+        "text": " they'll put themselves on like a once or twice a year setting for the refill."
+      },
+      {
+        "id": 14,
+        "start": 51,
+        "end": 54,
+        "text": " That way it does not come as often as every three months."
+      },
+      {
+        "id": 15,
+        "start": 54,
+        "end": 56,
+        "text": " It would be once or twice a year."
+      },
+      {
+        "id": 16,
+        "start": 56,
+        "end": 58,
+        "text": " So I could pause everything from now until August."
+      },
+      {
+        "id": 17,
+        "start": 58,
+        "end": 61,
+        "text": " We'd be the only one that you get charged for for the rest of the year,"
+      },
+      {
+        "id": 18,
+        "start": 61,
+        "end": 64,
+        "text": " or until you call and let us know that you need it."
+      },
+      {
+        "id": 19,
+        "start": 64,
+        "end": 67,
+        "text": " Just an option."
+      },
+      {
+        "id": 20,
+        "start": 67,
+        "end": 70,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 70,
+        "end": 74,
+        "text": " I mean, would I still be a VIP status if I could just call at any time?"
+      },
+      {
+        "id": 22,
+        "start": 74,
+        "end": 79,
+        "text": " Like let's say I wanted to call in October, would I still get the same VIP status?"
+      },
+      {
+        "id": 23,
+        "start": 79,
+        "end": 83,
+        "text": " Like if we cancel everything, no."
+      },
+      {
+        "id": 24,
+        "start": 83,
+        "end": 85,
+        "text": " And then the price might change as well."
+      },
+      {
+        "id": 25,
+        "start": 85,
+        "end": 90,
+        "text": " My understanding is because if we cancel everything, it cancels the prescription."
+      },
+      {
+        "id": 26,
+        "start": 90,
+        "end": 95,
+        "text": " And that's the most important thing to ordering the medication for the Viagra,"
+      },
+      {
+        "id": 27,
+        "start": 95,
+        "end": 97,
+        "text": " if that makes sense."
+      },
+      {
+        "id": 28,
+        "start": 97,
+        "end": 100,
+        "text": " So, I mean, I could pause everything from now until August 24th."
+      },
+      {
+        "id": 29,
+        "start": 100,
+        "end": 102,
+        "text": " I don't know if you want to write that date down."
+      },
+      {
+        "id": 30,
+        "start": 102,
+        "end": 104,
+        "text": " I have everybody do that and then call in before then"
+      },
+      {
+        "id": 31,
+        "start": 104,
+        "end": 106,
+        "text": " and then let us know when it's needed and not needed."
+      },
+      {
+        "id": 32,
+        "start": 106,
+        "end": 108,
+        "text": " We're very customer service friendly."
+      },
+      {
+        "id": 33,
+        "start": 108,
+        "end": 110,
+        "text": " As long as you work with us, we'll work with you."
+      },
+      {
+        "id": 34,
+        "start": 110,
+        "end": 112,
+        "text": " Gotcha."
+      },
+      {
+        "id": 35,
+        "start": 112,
+        "end": 114,
+        "text": " No, I'll do that for now."
+      },
+      {
+        "id": 36,
+        "start": 115,
+        "end": 116,
+        "text": " Sounds good."
+      },
+      {
+        "id": 37,
+        "start": 116,
+        "end": 123,
+        "text": " August 24th, if you ever want me again, my name is Charles, and it's 0040."
+      },
+      {
+        "id": 38,
+        "start": 123,
+        "end": 124,
+        "text": " Okay, cool."
+      },
+      {
+        "id": 39,
+        "start": 124,
+        "end": 126,
+        "text": " All right, sounds good."
+      },
+      {
+        "id": 40,
+        "start": 126,
+        "end": 129,
+        "text": " I hope to hear from you sooner than August."
+      },
+      {
+        "id": 41,
+        "start": 129,
+        "end": 132,
+        "text": " Other than that, I hope you have a great rest of your day, okay?"
+      },
+      {
+        "id": 42,
+        "start": 132,
+        "end": 133,
+        "text": " I appreciate that."
+      },
+      {
+        "id": 43,
+        "start": 133,
+        "end": 137,
+        "text": " What's the current shipment when it comes in August?"
+      },
+      {
+        "id": 44,
+        "start": 137,
+        "end": 140,
+        "text": " Or the amount of pills and what the price would be?"
+      },
+      {
+        "id": 45,
+        "start": 140,
+        "end": 142,
+        "text": " Yeah, so you actually have options with that too."
+      },
+      {
+        "id": 46,
+        "start": 142,
+        "end": 147,
+        "text": " If it's 40 pills for $163.95, it would lock in for that price always."
+      },
+      {
+        "id": 47,
+        "start": 147,
+        "end": 151,
+        "text": " Or you can drop it down to 25 pills at a time for $99"
+      },
+      {
+        "id": 48,
+        "start": 151,
+        "end": 155,
+        "text": " or 10 pills at a time for $49."
+      },
+      {
+        "id": 49,
+        "start": 155,
+        "end": 156,
+        "text": " Gotcha."
+      },
+      {
+        "id": 50,
+        "start": 156,
+        "end": 157,
+        "text": " All right."
+      },
+      {
+        "id": 51,
+        "start": 157,
+        "end": 159,
+        "text": " Well, I'll just keep it at the current rate right now,"
+      },
+      {
+        "id": 52,
+        "start": 159,
+        "end": 163,
+        "text": " at 40 pills, and I'll just call you guys before August 24th, you said?"
+      },
+      {
+        "id": 53,
+        "start": 163,
+        "end": 164,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 54,
+        "start": 164,
+        "end": 165,
+        "text": " Okay, cool."
+      },
+      {
+        "id": 55,
+        "start": 165,
+        "end": 166,
+        "text": " Yeah, that works."
+      },
+      {
+        "id": 56,
+        "start": 166,
+        "end": 167,
+        "text": " All right."
+      },
+      {
+        "id": 57,
+        "start": 167,
+        "end": 168,
+        "text": " Sounds good."
+      },
+      {
+        "id": 58,
+        "start": 168,
+        "end": 169,
+        "text": " All right, Logan, hope you have a great day."
+      },
+      {
+        "id": 59,
+        "start": 169,
+        "end": 171,
+        "text": " Take care, brother."
+      },
+      {
+        "id": 60,
+        "start": 171,
+        "end": 172,
+        "text": " You too, Charles."
+      },
+      {
+        "id": 61,
+        "start": 172,
+        "end": 173,
+        "text": " I'll see you later."
+      },
+      {
+        "id": 62,
+        "start": 173,
+        "end": 174,
+        "text": " All right."
+      },
+      {
+        "id": 63,
+        "start": 174,
+        "end": 174,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81a9-81a4-ccef0f6528da",
+    "url": "https://www.notion.so/300000001241059-300000001730588-30511d0a101c81a981a4ccef0f6528da"
+  },
+  "processedAt": "2026-02-12T22:45:10.759Z"
+}

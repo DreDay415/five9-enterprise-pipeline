@@ -1,0 +1,302 @@
+{
+  "recording": {
+    "name": "300000001219033-300000001709200-7576764559 by olivier@superbalife.com @ 9_39_08 AM.wav",
+    "size": 296916,
+    "modifyTime": 1769582238000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219033-300000001709200-7576764559 by olivier@superbalife.com @ 9_39_08 AM.wav",
+    "uploadDate": "2026-01-28T06:37:18.000Z",
+    "callId": "300000001219033-300000001709200",
+    "agent": "olivier",
+    "phoneNumber": "7576764559",
+    "callTimestamp": "2026-01-28T09:39:08.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Viagra.\n\nSpeaker 2: Hello, um, I spoke with an agent about three or four weeks ago.\n\nSpeaker 1: He gave me his extension number, 0040, and they said that wasn't an accurate extension.\n\nSpeaker 2: I don't know his name, but...\n\nSpeaker 1: Oh, you want me to transfer you?\n\nSpeaker 2: Do you know who I'm talking about?\n\nSpeaker 1: Uh, I mean, yeah, I see that you spoke to one of them. I can help you, too.\n\nSpeaker 2: Whatever works better for you.\n\nSpeaker 1: Well, I had ordered some pills that made me really dizzy.\n\nSpeaker 2: Okay.\n\nSpeaker 1: And he sent me some that he said might be better, but they weren't.\n\nSpeaker 2: Was it you I talked to?\n\nSpeaker 1: Anyway, I said, anyway, um, I just wanted to say that I don't need any more pills\n\nSpeaker 2: since you take my name, unsubscribe me, or whatever.\n\nSpeaker 1: I'm not going to try anymore.\n\nSpeaker 2: Okay, and that's your first time taking Viagra, correct?\n\nSpeaker 1: Yes.\n\nSpeaker 2: And then did you take Cialis in the past? Was Cialis a better fit for you?\n\nSpeaker 1: He sent me something different, and it wasn't any better.\n\nSpeaker 2: No, I see what he's saying, but the two calls is usually either Viagra will help you or Cialis,\n\nSpeaker 1: because they work more differently, so that's why I'm trying to evaluate\n\nSpeaker 2: what would be a better fit to help you, basically,\n\nSpeaker 1: because apparently the Viagra is not for you,\n\nSpeaker 2: because you say that even the replacement didn't work,\n\nSpeaker 1: so I'm trying to kind of evaluate what would be a better help, you know?\n\nSpeaker 2: And I don't know if you had Cialis in the past.\n\nSpeaker 1: Do you have the same problem with Cialis?\n\nSpeaker 2: Cialis, I'm just trying to understand a little bit more.\n\nSpeaker 1: Well, I tried two different ones. I don't know what they were,\n\nSpeaker 2: but I tried two different ones, and they both made me really dizzy.\n\nSpeaker 1: And I'm 80 years old, so maybe I'm just too old to take that stuff.\n\nSpeaker 2: Okay, I see. I see.\n\nSpeaker 1: I mean, you know, I wouldn't say to give up on it, maybe here and there,\n\nSpeaker 2: but, you know, your account was paused,\n\nSpeaker 1: so you can reorder as needed in the future.\n\nSpeaker 2: I think they're paused for half a year.\n\nSpeaker 1: You don't want to keep it paused just in case you need something?\n\nSpeaker 2: No. No, I'm just not going to try it anymore.\n\nSpeaker 1: Okay. All right. I'm going to cancel everything. It's okay.\n\nSpeaker 2: Just be aware of possible price change.\n\nSpeaker 1: If anything changes, try to reorder. Okay?\n\nSpeaker 2: But I'm canceling.\n\nSpeaker 1: Okay. All right. Don't send me anymore.\n\nSpeaker 2: Okay. I got you, Mr. Turner.\n\nSpeaker 1: Okay. All right. Thank you.\n\nSpeaker 2: All right. You're welcome. Bye-bye.",
+    "duration": 6121,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Hi, this is Viagra."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 8,
+        "text": " Hello, um, I spoke with an agent about three or four weeks ago."
+      },
+      {
+        "id": 2,
+        "start": 8,
+        "end": 19,
+        "text": " He gave me his extension number, 0040, and they said that wasn't an accurate extension."
+      },
+      {
+        "id": 3,
+        "start": 19,
+        "end": 21,
+        "text": " I don't know his name, but..."
+      },
+      {
+        "id": 4,
+        "start": 21,
+        "end": 23,
+        "text": " Oh, you want me to transfer you?"
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 26,
+        "text": " Do you know who I'm talking about?"
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 30,
+        "text": " Uh, I mean, yeah, I see that you spoke to one of them. I can help you, too."
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 33,
+        "text": " Whatever works better for you."
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 40,
+        "text": " Well, I had ordered some pills that made me really dizzy."
+      },
+      {
+        "id": 9,
+        "start": 40,
+        "end": 41,
+        "text": " Okay."
+      },
+      {
+        "id": 10,
+        "start": 41,
+        "end": 49,
+        "text": " And he sent me some that he said might be better, but they weren't."
+      },
+      {
+        "id": 11,
+        "start": 49,
+        "end": 53,
+        "text": " Was it you I talked to?"
+      },
+      {
+        "id": 12,
+        "start": 53,
+        "end": 60,
+        "text": " Anyway, I said, anyway, um, I just wanted to say that I don't need any more pills"
+      },
+      {
+        "id": 13,
+        "start": 60,
+        "end": 65,
+        "text": " since you take my name, unsubscribe me, or whatever."
+      },
+      {
+        "id": 14,
+        "start": 65,
+        "end": 68,
+        "text": " I'm not going to try anymore."
+      },
+      {
+        "id": 15,
+        "start": 68,
+        "end": 73,
+        "text": " Okay, and that's your first time taking Viagra, correct?"
+      },
+      {
+        "id": 16,
+        "start": 73,
+        "end": 74,
+        "text": " Yes."
+      },
+      {
+        "id": 17,
+        "start": 74,
+        "end": 80,
+        "text": " And then did you take Cialis in the past? Was Cialis a better fit for you?"
+      },
+      {
+        "id": 18,
+        "start": 80,
+        "end": 84,
+        "text": " He sent me something different, and it wasn't any better."
+      },
+      {
+        "id": 19,
+        "start": 84,
+        "end": 90,
+        "text": " No, I see what he's saying, but the two calls is usually either Viagra will help you or Cialis,"
+      },
+      {
+        "id": 20,
+        "start": 90,
+        "end": 93,
+        "text": " because they work more differently, so that's why I'm trying to evaluate"
+      },
+      {
+        "id": 21,
+        "start": 93,
+        "end": 96,
+        "text": " what would be a better fit to help you, basically,"
+      },
+      {
+        "id": 22,
+        "start": 96,
+        "end": 98,
+        "text": " because apparently the Viagra is not for you,"
+      },
+      {
+        "id": 23,
+        "start": 98,
+        "end": 101,
+        "text": " because you say that even the replacement didn't work,"
+      },
+      {
+        "id": 24,
+        "start": 101,
+        "end": 104,
+        "text": " so I'm trying to kind of evaluate what would be a better help, you know?"
+      },
+      {
+        "id": 25,
+        "start": 104,
+        "end": 106,
+        "text": " And I don't know if you had Cialis in the past."
+      },
+      {
+        "id": 26,
+        "start": 106,
+        "end": 108,
+        "text": " Do you have the same problem with Cialis?"
+      },
+      {
+        "id": 27,
+        "start": 108,
+        "end": 111,
+        "text": " Cialis, I'm just trying to understand a little bit more."
+      },
+      {
+        "id": 28,
+        "start": 111,
+        "end": 116,
+        "text": " Well, I tried two different ones. I don't know what they were,"
+      },
+      {
+        "id": 29,
+        "start": 116,
+        "end": 121,
+        "text": " but I tried two different ones, and they both made me really dizzy."
+      },
+      {
+        "id": 30,
+        "start": 121,
+        "end": 128,
+        "text": " And I'm 80 years old, so maybe I'm just too old to take that stuff."
+      },
+      {
+        "id": 31,
+        "start": 128,
+        "end": 130,
+        "text": " Okay, I see. I see."
+      },
+      {
+        "id": 32,
+        "start": 130,
+        "end": 134,
+        "text": " I mean, you know, I wouldn't say to give up on it, maybe here and there,"
+      },
+      {
+        "id": 33,
+        "start": 134,
+        "end": 137,
+        "text": " but, you know, your account was paused,"
+      },
+      {
+        "id": 34,
+        "start": 137,
+        "end": 139,
+        "text": " so you can reorder as needed in the future."
+      },
+      {
+        "id": 35,
+        "start": 139,
+        "end": 141,
+        "text": " I think they're paused for half a year."
+      },
+      {
+        "id": 36,
+        "start": 141,
+        "end": 145,
+        "text": " You don't want to keep it paused just in case you need something?"
+      },
+      {
+        "id": 37,
+        "start": 145,
+        "end": 152,
+        "text": " No. No, I'm just not going to try it anymore."
+      },
+      {
+        "id": 38,
+        "start": 152,
+        "end": 159,
+        "text": " Okay. All right. I'm going to cancel everything. It's okay."
+      },
+      {
+        "id": 39,
+        "start": 159,
+        "end": 162,
+        "text": " Just be aware of possible price change."
+      },
+      {
+        "id": 40,
+        "start": 162,
+        "end": 166,
+        "text": " If anything changes, try to reorder. Okay?"
+      },
+      {
+        "id": 41,
+        "start": 166,
+        "end": 167,
+        "text": " But I'm canceling."
+      },
+      {
+        "id": 42,
+        "start": 167,
+        "end": 172,
+        "text": " Okay. All right. Don't send me anymore."
+      },
+      {
+        "id": 43,
+        "start": 172,
+        "end": 175,
+        "text": " Okay. I got you, Mr. Turner."
+      },
+      {
+        "id": 44,
+        "start": 175,
+        "end": 177,
+        "text": " Okay. All right. Thank you."
+      },
+      {
+        "id": 45,
+        "start": 177,
+        "end": 179,
+        "text": " All right. You're welcome. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81f6-949e-c7ccd5b29b83",
+    "url": "https://www.notion.so/300000001219033-300000001709200-2f611d0a101c81f6949ec7ccd5b29b83"
+  },
+  "processedAt": "2026-01-28T17:20:01.014Z"
+}

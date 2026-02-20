@@ -1,0 +1,140 @@
+{
+  "recording": {
+    "name": "300000001217652-300000001707898-3473931362 by josimar@superbalife.com @ 11_10_13 AM.wav",
+    "size": 101396,
+    "modifyTime": 1769586734000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217652-300000001707898-3473931362 by josimar@superbalife.com @ 11_10_13 AM.wav",
+    "uploadDate": "2026-01-28T07:52:14.000Z",
+    "callId": "300000001217652-300000001707898",
+    "agent": "josimar",
+    "phoneNumber": "3473931362",
+    "callTimestamp": "2026-01-28T11:10:13.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, I can help you today.\n\nSpeaker 2: How's it going? I would like to cancel my subscription.\n\nSpeaker 1: I can take a look into your account. What's your last name and zip code?\n\nSpeaker 2: My last name is Lao, L-A-O. Zip code is 92117.\n\nSpeaker 1: Okay, I pulled up your order here. Just keep in mind, sir, that if I do end up canceling this out now,\n\nSpeaker 2: you wouldn't be able to order in the future because the doctor would delete the visit,\n\nSpeaker 1: but I could always freeze it for you instead. Did you want to switch over to that?\n\nSpeaker 2: Say again? Sorry.\n\nSpeaker 1: If I cancel the orders out now, you won't be able to access it in the future when you eventually need it.\n\nSpeaker 2: Because the doctor would delete the prescription, but I could always freeze it for you instead.\n\nSpeaker 1: And then if I freeze it for you, you can always call us to order it down the road.\n\nSpeaker 2: You can go ahead and cancel it. Thank you.\n\nSpeaker 1: Okay, no worries. I'll go ahead and cancel it. Just keep in mind, you won't be able to access it anymore.\n\nSpeaker 2: So you're all set. Have a good one.\n\nSpeaker 1: Do I get a confirmation for cancellation?\n\nSpeaker 2: 24 and 48 hours in the email.\n\nSpeaker 1: Okay. I appreciate it. Thank you.\n\nSpeaker 2: No problem. Bye-bye.\n\nSpeaker 1: Bye-bye.",
+    "duration": 3753,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Viagra, I can help you today."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 6,
+        "text": " How's it going? I would like to cancel my subscription."
+      },
+      {
+        "id": 2,
+        "start": 6,
+        "end": 10,
+        "text": " I can take a look into your account. What's your last name and a zip code?"
+      },
+      {
+        "id": 3,
+        "start": 10,
+        "end": 17,
+        "text": " My last name is Lao, L-A-O. Zip code is 92117."
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 22,
+        "text": " Okay, I pulled up your order here. Just keep in mind, sir, that if I do end up canceling this out now,"
+      },
+      {
+        "id": 5,
+        "start": 22,
+        "end": 25,
+        "text": " you wouldn't be able to order in the future because the doctor would delete the visit,"
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 28,
+        "text": " but I could always freeze it for you instead. Did you want to switch over to that?"
+      },
+      {
+        "id": 7,
+        "start": 28,
+        "end": 30,
+        "text": " Say again? Sorry."
+      },
+      {
+        "id": 8,
+        "start": 30,
+        "end": 36,
+        "text": " If I cancel the orders out now, you won't be able to access it in the future when you eventually need it"
+      },
+      {
+        "id": 9,
+        "start": 36,
+        "end": 40,
+        "text": " because the doctor would delete the prescription, but I could always freeze it for you instead,"
+      },
+      {
+        "id": 10,
+        "start": 40,
+        "end": 44,
+        "text": " and then if I freeze it for you, you can always call us to order it down the road."
+      },
+      {
+        "id": 11,
+        "start": 44,
+        "end": 46,
+        "text": " You can go ahead and cancel it. Thank you."
+      },
+      {
+        "id": 12,
+        "start": 46,
+        "end": 50,
+        "text": " Okay, no worries. I'll go ahead and cancel it. Just keep in mind, you won't be able to access it anymore."
+      },
+      {
+        "id": 13,
+        "start": 50,
+        "end": 52,
+        "text": " So you're all set. Have a good one."
+      },
+      {
+        "id": 14,
+        "start": 52,
+        "end": 54,
+        "text": " Do I get a confirmation for cancellation?"
+      },
+      {
+        "id": 15,
+        "start": 54,
+        "end": 57,
+        "text": " 24 and 48 hours in the email."
+      },
+      {
+        "id": 16,
+        "start": 57,
+        "end": 59,
+        "text": " Okay. I appreciate it. Thank you."
+      },
+      {
+        "id": 17,
+        "start": 59,
+        "end": 60,
+        "text": " No problem. Bye-bye."
+      },
+      {
+        "id": 18,
+        "start": 60,
+        "end": 61,
+        "text": " Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8197-8a5d-f73141d1deb7",
+    "url": "https://www.notion.so/300000001217652-300000001707898-2f611d0a101c81978a5df73141d1deb7"
+  },
+  "processedAt": "2026-01-28T13:39:23.845Z"
+}

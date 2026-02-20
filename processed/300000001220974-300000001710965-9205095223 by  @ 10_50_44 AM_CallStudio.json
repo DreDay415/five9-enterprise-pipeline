@@ -1,0 +1,61 @@
+{
+  "recording": {
+    "name": "300000001220974-300000001710965-9205095223 by  @ 10_50_44 AM_CallStudio.wav",
+    "size": 22226,
+    "modifyTime": 1769626280000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220974-300000001710965-9205095223 by  @ 10_50_44 AM_CallStudio.wav",
+    "uploadDate": "2026-01-28T18:51:20.000Z",
+    "callId": "300000001220974-300000001710965",
+    "phoneNumber": "9205095223",
+    "callTimestamp": "2026-01-28T18:51:20.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español, marque numero nueve.\n\nSpeaker 2: Representative.\n\nSpeaker 1: Thanks.\n\nSpeaker 2: Transferring to agent.",
+    "duration": 1576,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.239999771118164,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.239999771118164,
+        "end": 6.239999771118164,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.239999771118164,
+        "end": 9.399999618530273,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.399999618530273,
+        "end": 10.399999618530273,
+        "text": " Representative."
+      },
+      {
+        "id": 4,
+        "start": 10.399999618530273,
+        "end": 11.399999618530273,
+        "text": " Thanks."
+      },
+      {
+        "id": 5,
+        "start": 11.399999618530273,
+        "end": 13.399999618530273,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-816e-a33b-c2dfb3fb1e50",
+    "url": "https://www.notion.so/300000001220974-300000001710965-2f711d0a101c816ea33bc2dfb3fb1e50"
+  },
+  "processedAt": "2026-01-29T00:07:42.927Z"
+}

@@ -1,0 +1,242 @@
+{
+  "recording": {
+    "name": "300000001216110-300000001705636-5857507682 by olivia@superbalife.com @ 12_08_48 PM.wav",
+    "size": 182516,
+    "modifyTime": 1769589132000,
+    "remotePath": "/five9sftp/upload/SB CS/1_23_2026/300000001216110-300000001705636-5857507682 by olivia@superbalife.com @ 12_08_48 PM.wav",
+    "uploadDate": "2026-01-28T08:32:12.000Z",
+    "callId": "300000001216110-300000001705636",
+    "agent": "olivia",
+    "phoneNumber": "5857507682",
+    "callTimestamp": "2026-01-28T12:08:48.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra.\n\nSpeaker 2: This is Olivia speaking.\n\nSpeaker 1: Who do I have the pleasure of speaking with today?\n\nSpeaker 2: I'm Selvin Burke.\n\nSpeaker 1: Hi, Selvin.\n\nSpeaker 2: How are you?\n\nSpeaker 1: I'm pretty good.\n\nSpeaker 2: Not too bad.\n\nSpeaker 1: Good.\n\nSpeaker 2: I'm glad to hear that.\n\nSpeaker 1: How can I help you today, Selvin?\n\nSpeaker 2: Okay.\n\nSpeaker 1: The reason why I'm calling, I need to put a hold on my order because I still have four bottles left.\n\nSpeaker 2: Yeah, I can definitely help you with that.\n\nSpeaker 1: Okay, Selvin, what is your date of birth?\n\nSpeaker 2: 7-2-1949.\n\nSpeaker 1: Great.\n\nSpeaker 2: And you're located at 105 Kinchrest Drive, Rochester, New York, 14606?\n\nSpeaker 1: Correct.\n\nSpeaker 2: Great.\n\nSpeaker 1: Yeah, so I do see your prescription here.\n\nSpeaker 2: So, yeah, if you don't want to receive those regular monthly refills with the prescription, you certainly don't have to.\n\nSpeaker 1: You always have the option to place your prescription on hold for up to six months at a time just because six months is when the prescription would expire.\n\nSpeaker 2: If we didn't refill it, and the way that works is if you did want to order at any point before then, you could.\n\nSpeaker 1: You just have to give us a call to place the order yourself.\n\nSpeaker 2: Sure.\n\nSpeaker 1: No problem.\n\nSpeaker 2: Okay, great.\n\nSpeaker 1: So, yeah, if you need anything before July, just give us a call.\n\nSpeaker 2: We're always here Monday through Friday, 8 to 5 Pacific.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Thanks very much.\n\nSpeaker 1: Yeah, thank you so much, Selvin.\n\nSpeaker 2: Have a great day.\n\nSpeaker 1: Okay, bye-bye.\n\nSpeaker 2: Bye.",
+    "duration": 4852,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Thank you for calling Viagra."
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 4,
+        "text": " This is Olivia speaking."
+      },
+      {
+        "id": 2,
+        "start": 4,
+        "end": 8,
+        "text": " Who do I have the pleasure of speaking with today?"
+      },
+      {
+        "id": 3,
+        "start": 8,
+        "end": 12,
+        "text": " I'm Selvin Burke."
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 13,
+        "text": " Hi, Selvin."
+      },
+      {
+        "id": 5,
+        "start": 13,
+        "end": 14,
+        "text": " How are you?"
+      },
+      {
+        "id": 6,
+        "start": 14,
+        "end": 15,
+        "text": " I'm pretty good."
+      },
+      {
+        "id": 7,
+        "start": 15,
+        "end": 17,
+        "text": " Not too bad."
+      },
+      {
+        "id": 8,
+        "start": 17,
+        "end": 18,
+        "text": " Good."
+      },
+      {
+        "id": 9,
+        "start": 18,
+        "end": 19,
+        "text": " I'm glad to hear that."
+      },
+      {
+        "id": 10,
+        "start": 19,
+        "end": 21,
+        "text": " How can I help you today, Selvin?"
+      },
+      {
+        "id": 11,
+        "start": 21,
+        "end": 22,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 22,
+        "end": 34,
+        "text": " The reason why I'm calling, I need to put a hole in my order because I still have four bottles left."
+      },
+      {
+        "id": 13,
+        "start": 34,
+        "end": 36,
+        "text": " Yeah, I can definitely help you with that."
+      },
+      {
+        "id": 14,
+        "start": 36,
+        "end": 41,
+        "text": " Okay, Selvin, what is your date of birth?"
+      },
+      {
+        "id": 15,
+        "start": 41,
+        "end": 44,
+        "text": " 7-2-1949."
+      },
+      {
+        "id": 16,
+        "start": 44,
+        "end": 45,
+        "text": " Great."
+      },
+      {
+        "id": 17,
+        "start": 45,
+        "end": 52,
+        "text": " And you're located at 105 Kinchrest Drive, Rochester, New York, 14606?"
+      },
+      {
+        "id": 18,
+        "start": 52,
+        "end": 54,
+        "text": " Correct."
+      },
+      {
+        "id": 19,
+        "start": 54,
+        "end": 55,
+        "text": " Great."
+      },
+      {
+        "id": 20,
+        "start": 55,
+        "end": 58,
+        "text": " Yeah, so I do see your prescription here."
+      },
+      {
+        "id": 21,
+        "start": 58,
+        "end": 67,
+        "text": " So, yeah, if you don't want to receive those regular monthly refills with the prescription, you certainly don't have to."
+      },
+      {
+        "id": 22,
+        "start": 68,
+        "end": 78,
+        "text": " You always have the option to place your prescription on hold for up to six months at a time just because six months is when the prescription would expire."
+      },
+      {
+        "id": 23,
+        "start": 78,
+        "end": 87,
+        "text": " If we didn't refill it, and the way that works is if you did want to order at any point before then, you could."
+      },
+      {
+        "id": 24,
+        "start": 87,
+        "end": 91,
+        "text": " You just have to give us a call to place the order yourself."
+      },
+      {
+        "id": 25,
+        "start": 91,
+        "end": 92,
+        "text": " Sure."
+      },
+      {
+        "id": 26,
+        "start": 92,
+        "end": 93,
+        "text": " No problem."
+      },
+      {
+        "id": 27,
+        "start": 93,
+        "end": 95,
+        "text": " Okay, great."
+      },
+      {
+        "id": 28,
+        "start": 95,
+        "end": 100,
+        "text": " So, yeah, if you need anything before July, just give us a call."
+      },
+      {
+        "id": 29,
+        "start": 100,
+        "end": 104,
+        "text": " We're always here Monday through Friday, 8 to 5 Pacific."
+      },
+      {
+        "id": 30,
+        "start": 104,
+        "end": 105,
+        "text": " Okay."
+      },
+      {
+        "id": 31,
+        "start": 105,
+        "end": 106,
+        "text": " Thanks very much."
+      },
+      {
+        "id": 32,
+        "start": 106,
+        "end": 108,
+        "text": " Yeah, thank you so much, Selvin."
+      },
+      {
+        "id": 33,
+        "start": 108,
+        "end": 109,
+        "text": " Have a great day."
+      },
+      {
+        "id": 34,
+        "start": 109,
+        "end": 110,
+        "text": " Okay, bye-bye."
+      },
+      {
+        "id": 35,
+        "start": 110,
+        "end": 111,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8168-9273-e6fb259e8e0c",
+    "url": "https://www.notion.so/300000001216110-300000001705636-2f611d0a101c81689273e6fb259e8e0c"
+  },
+  "processedAt": "2026-01-28T13:01:44.746Z"
+}

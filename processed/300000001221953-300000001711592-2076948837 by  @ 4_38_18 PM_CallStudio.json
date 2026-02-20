@@ -1,0 +1,55 @@
+{
+  "recording": {
+    "name": "300000001221953-300000001711592-2076948837 by  @ 4_38_18 PM_CallStudio.wav",
+    "size": 30676,
+    "modifyTime": 1769647140000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221953-300000001711592-2076948837 by  @ 4_38_18 PM_CallStudio.wav",
+    "uploadDate": "2026-01-29T00:39:00.000Z",
+    "callId": "300000001221953-300000001711592",
+    "phoneNumber": "2076948837",
+    "callTimestamp": "2026-01-29T00:39:00.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: Um, I haven't got my confirmation email on when my prescription is going to get shipped.\n\nSpeaker 1: Thanks, transferring to agent.",
+    "duration": 1029,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 6.159999847412109,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 6.159999847412109,
+        "end": 7.159999847412109,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.159999847412109,
+        "end": 9.15999984741211,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 9.15999984741211,
+        "end": 17.360000610351562,
+        "text": " Um, I haven't got my confirmation email on when my prescription is going to get shipped."
+      },
+      {
+        "id": 4,
+        "start": 17.360000610351562,
+        "end": 18.559999465942383,
+        "text": " Thanks transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8196-b5a4-d6dcbfe134ee",
+    "url": "https://www.notion.so/300000001221953-300000001711592-2f711d0a101c8196b5a4d6dcbfe134ee"
+  },
+  "processedAt": "2026-01-29T10:05:25.252Z"
+}

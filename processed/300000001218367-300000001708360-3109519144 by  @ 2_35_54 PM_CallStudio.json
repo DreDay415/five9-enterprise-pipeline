@@ -1,0 +1,37 @@
+{
+  "recording": {
+    "name": "300000001218367-300000001708360-3109519144 by  @ 2_35_54 PM_CallStudio.wav",
+    "size": 35486,
+    "modifyTime": 1769592742000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001218367-300000001708360-3109519144 by  @ 2_35_54 PM_CallStudio.wav",
+    "uploadDate": "2026-01-28T09:32:22.000Z",
+    "callId": "300000001218367-300000001708360",
+    "phoneNumber": "3109519144",
+    "callTimestamp": "2026-01-28T09:32:22.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto y claro.\n\nSpeaker 2: Poner una orden.",
+    "duration": 538,
+    "language": "spanish",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 17,
+        "text": " Para ayudarle a encontrar al agente adecuado, indique el motivo de su llamada, hable alto y claro."
+      },
+      {
+        "id": 1,
+        "start": 18,
+        "end": 20,
+        "text": " Poner una orden."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8120-80d9-cb8ac9e7631a",
+    "url": "https://www.notion.so/300000001218367-300000001708360-2f611d0a101c812080d9cb8ac9e7631a"
+  },
+  "processedAt": "2026-01-28T10:05:54.950Z"
+}

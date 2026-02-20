@@ -1,0 +1,212 @@
+{
+  "recording": {
+    "name": "300000001239589-300000001729225-7023270519 by kt@superbalife.com @ 4_50_01 PM.wav",
+    "size": 126356,
+    "modifyTime": 1770857805000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239589-300000001729225-7023270519 by kt@superbalife.com @ 4_50_01 PM.wav",
+    "uploadDate": "2026-02-12T00:56:45.000Z",
+    "callId": "300000001239589-300000001729225",
+    "agent": "kt",
+    "phoneNumber": "7023270519",
+    "callTimestamp": "2026-02-12T16:50:01.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, guys, this is K.T. Goodrich with Pfizer-Score Blue.\n\nSpeaker 2: Just bear with me, bud, as I pull up your account,\n\nSpeaker 1: and then I use your telephone number to read off what I see,\n\nSpeaker 2: and just correct me if I'm wrong,\n\nSpeaker 1: so I can help you put a stop to this, all right, bud?\n\nSpeaker 2: So what?\n\nSpeaker 1: So I wanted to read off what I see on your chart, guy,\n\nSpeaker 2: and just correct me if I'm wrong,\n\nSpeaker 1: so I can do what you need.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Okay, so I'm looking at it, and it's basically saying that,\n\nSpeaker 2: let me see, it says that you were working\n\nSpeaker 1: with Dr. Michael Wassef,\n\nSpeaker 2: and you've been with us for quite some time, since 2022,\n\nSpeaker 1: and you had several other doctors,\n\nSpeaker 2: but you do have a VIP status,\n\nSpeaker 1: and then it looks like you went from Sidenafil\n\nSpeaker 2: to Viagra to Generic,\n\nSpeaker 1: and then these were the white, all that.\n\nSpeaker 2: It doesn't even say what's clear, though,\n\nSpeaker 1: but nevertheless, I do see that Dr. Wassef\n\nSpeaker 2: has ordered the pharmacy to send refills on a monthly.\n\nSpeaker 1: You want me to put a stop to that,\n\nSpeaker 2: so you don't get them anymore, monthly?\n\nSpeaker 1: Yes, please.\n\nSpeaker 2: Okay, you got it.\n\nSpeaker 1: Hold your line, and then that way,\n\nSpeaker 2: you can just get it whenever you want,\n\nSpeaker 1: or call in, all right, bud?\n\nSpeaker 2: One moment.\n\nSpeaker 1: Okay.",
+    "duration": 6042,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.700000047683716,
+        "text": " Hey, guys, this is K.T. Goodrich with Pfizer-Score Blue."
+      },
+      {
+        "id": 1,
+        "start": 2.700000047683716,
+        "end": 6.300000190734863,
+        "text": " Just bear with me, bud, as I pull up your account,"
+      },
+      {
+        "id": 2,
+        "start": 6.300000190734863,
+        "end": 9.399999618530273,
+        "text": " and then I use your telephone number to read off what I see,"
+      },
+      {
+        "id": 3,
+        "start": 9.399999618530273,
+        "end": 11.199999809265137,
+        "text": " and just correct me if I'm wrong,"
+      },
+      {
+        "id": 4,
+        "start": 11.199999809265137,
+        "end": 15.399999618530273,
+        "text": " so I can help you put a stop to this, all right, bud?"
+      },
+      {
+        "id": 5,
+        "start": 15.399999618530273,
+        "end": 17,
+        "text": " So what?"
+      },
+      {
+        "id": 6,
+        "start": 17,
+        "end": 21.299999237060547,
+        "text": " So I wanted to read off what I see on your chart, guy,"
+      },
+      {
+        "id": 7,
+        "start": 21.299999237060547,
+        "end": 22.700000762939453,
+        "text": " and just correct me if I'm wrong,"
+      },
+      {
+        "id": 8,
+        "start": 22.700000762939453,
+        "end": 26.100000381469727,
+        "text": " so I can do what you need."
+      },
+      {
+        "id": 9,
+        "start": 26.100000381469727,
+        "end": 27.100000381469727,
+        "text": " Okay."
+      },
+      {
+        "id": 10,
+        "start": 27.200000762939453,
+        "end": 32,
+        "text": " Okay, so I'm looking at it, and it's basically saying that,"
+      },
+      {
+        "id": 11,
+        "start": 32,
+        "end": 35.400001525878906,
+        "text": " let me see, it says that you were working"
+      },
+      {
+        "id": 12,
+        "start": 35.400001525878906,
+        "end": 37.599998474121094,
+        "text": " with Dr. Michael Wassef,"
+      },
+      {
+        "id": 13,
+        "start": 37.599998474121094,
+        "end": 41.20000076293945,
+        "text": " and you've been with us for quite some time, since 2022,"
+      },
+      {
+        "id": 14,
+        "start": 41.20000076293945,
+        "end": 42.79999923706055,
+        "text": " and you had several other doctors,"
+      },
+      {
+        "id": 15,
+        "start": 42.79999923706055,
+        "end": 45,
+        "text": " but you do have a VIP status,"
+      },
+      {
+        "id": 16,
+        "start": 45,
+        "end": 49.79999923706055,
+        "text": " and then it looks like you went from Sidenafil"
+      },
+      {
+        "id": 17,
+        "start": 49.79999923706055,
+        "end": 52.099998474121094,
+        "text": " to Viagra to Generic,"
+      },
+      {
+        "id": 18,
+        "start": 52.099998474121094,
+        "end": 55.099998474121094,
+        "text": " and then these were the white, all that."
+      },
+      {
+        "id": 19,
+        "start": 55.099998474121094,
+        "end": 58.099998474121094,
+        "text": " It doesn't even say what's clear, though,"
+      },
+      {
+        "id": 20,
+        "start": 58.099998474121094,
+        "end": 61.400001525878906,
+        "text": " but nevertheless, I do see that Dr. Wassef"
+      },
+      {
+        "id": 21,
+        "start": 61.400001525878906,
+        "end": 64.5,
+        "text": " has ordered the pharmacy to send refills on a monthly."
+      },
+      {
+        "id": 22,
+        "start": 64.5,
+        "end": 65.5999984741211,
+        "text": " You want me to put a stop to that,"
+      },
+      {
+        "id": 23,
+        "start": 65.5999984741211,
+        "end": 68.19999694824219,
+        "text": " so you don't get them anymore, monthly?"
+      },
+      {
+        "id": 24,
+        "start": 68.19999694824219,
+        "end": 69.80000305175781,
+        "text": " Yes, please."
+      },
+      {
+        "id": 25,
+        "start": 69.80000305175781,
+        "end": 71,
+        "text": " Okay, you got it."
+      },
+      {
+        "id": 26,
+        "start": 71,
+        "end": 72.19999694824219,
+        "text": " Hold your line, and then that way,"
+      },
+      {
+        "id": 27,
+        "start": 72.19999694824219,
+        "end": 73.5999984741211,
+        "text": " you can just get it whenever you want,"
+      },
+      {
+        "id": 28,
+        "start": 73.5999984741211,
+        "end": 74.9000015258789,
+        "text": " or call in, all right, bud?"
+      },
+      {
+        "id": 29,
+        "start": 74.9000015258789,
+        "end": 76.5,
+        "text": " One moment."
+      },
+      {
+        "id": 30,
+        "start": 76.5,
+        "end": 78,
+        "text": " Okay."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81a5-9678-d539c7778f23",
+    "url": "https://www.notion.so/300000001239589-300000001729225-30511d0a101c81a59678d539c7778f23"
+  },
+  "processedAt": "2026-02-12T01:02:47.071Z"
+}

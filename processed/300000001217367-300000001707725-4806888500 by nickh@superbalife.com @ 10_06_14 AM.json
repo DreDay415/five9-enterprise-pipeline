@@ -1,0 +1,188 @@
+{
+  "recording": {
+    "name": "300000001217367-300000001707725-4806888500 by nickh@superbalife.com @ 10_06_14 AM.wav",
+    "size": 142540,
+    "modifyTime": 1769584036000,
+    "remotePath": "/five9sftp/upload/SB CS/1_26_2026/300000001217367-300000001707725-4806888500 by nickh@superbalife.com @ 10_06_14 AM.wav",
+    "uploadDate": "2026-01-28T07:07:16.000Z",
+    "callId": "300000001217367-300000001707725",
+    "agent": "nickh",
+    "phoneNumber": "4806888500",
+    "callTimestamp": "2026-01-28T10:06:14.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling Viagra at Score Blue. How can I help you today?\n\nSpeaker 2: Yeah, I was looking uh, I need a reorder but I was trying to look into getting some of the uh, AGV.\n\nSpeaker 1: But I didn't see it on the um order form.\n\nSpeaker 2: Yeah, I can help you with this, sir.\n\nSpeaker 1: Uh, let me pull up your account here and see why that might be the case.\n\nSpeaker 2: Could I get your full name and date of birth?\n\nSpeaker 1: It's Joshua Johnson.\n\nSpeaker 2: 6 17.\n\nSpeaker 1: 1974.\n\nSpeaker 2: All right, Mr.\n\nSpeaker 1: Johnson, yeah, I do see you have an account with us.\n\nSpeaker 2: If you want it, I could place an order of the Viagra AGV for you.\n\nSpeaker 1: Uh, it comes in three different quantities.\n\nSpeaker 2: You can do 10 pills for 49.\n\nSpeaker 1: 25 pills for 99 or 40 pills for 149.\n\nSpeaker 2: Yeah, let's do the what you said last one was 100 pills.\n\nSpeaker 1: 40 pills for 149. Yeah.\n\nSpeaker 2: Yeah. Yeah. Yeah, do that.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And I have your address is 6862 East Casilla Avenue.\n\nSpeaker 1: Uh-huh.\n\nSpeaker 2: Okay, and a Visa on file is ending in 5922.\n\nSpeaker 1: Yep, okay. I'll go ahead and put this through for you.\n\nSpeaker 2: Awesome.\n\nSpeaker 1: All right, so that went through. You can probably expect that in two to five business days.\n\nSpeaker 2: Sounds great. Thank you. Thank you.\n\nSpeaker 1: All right.",
+    "duration": 2946,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.5199999809265137,
+        "text": " Hi, thank you so much for calling Viagra at score blue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 5.119999885559082,
+        "end": 10.15999984741211,
+        "text": " Yeah, I was looking uh, I need a reorder but I was trying to look into getting some of the uh, agv"
+      },
+      {
+        "id": 2,
+        "start": 11.4399995803833,
+        "end": 13.680000305175781,
+        "text": " But I didn't see it on the um order form"
+      },
+      {
+        "id": 3,
+        "start": 14.319999694824219,
+        "end": 16.31999969482422,
+        "text": " Yeah, I can help you with this sir"
+      },
+      {
+        "id": 4,
+        "start": 16.31999969482422,
+        "end": 19.520000457763672,
+        "text": " Uh, let me pull up your account here and see why that might be the case"
+      },
+      {
+        "id": 5,
+        "start": 19.520000457763672,
+        "end": 21.520000457763672,
+        "text": " Could I get your full name and date of birth?"
+      },
+      {
+        "id": 6,
+        "start": 22.479999542236328,
+        "end": 24.479999542236328,
+        "text": " It's a joshua johnson"
+      },
+      {
+        "id": 7,
+        "start": 24.959999084472656,
+        "end": 26.959999084472656,
+        "text": " 6 17"
+      },
+      {
+        "id": 8,
+        "start": 27.100000381469727,
+        "end": 29.100000381469727,
+        "text": " 1974"
+      },
+      {
+        "id": 9,
+        "start": 30.719999313354492,
+        "end": 31.280000686645508,
+        "text": " All right, mr"
+      },
+      {
+        "id": 10,
+        "start": 31.280000686645508,
+        "end": 33.7599983215332,
+        "text": " Johnson, yeah, if you I do see you have an account with us"
+      },
+      {
+        "id": 11,
+        "start": 34.2400016784668,
+        "end": 37.119998931884766,
+        "text": " If you want it, I could place an order of the viagra agv for you"
+      },
+      {
+        "id": 12,
+        "start": 37.68000030517578,
+        "end": 39.68000030517578,
+        "text": " Uh, it comes in three different quantities"
+      },
+      {
+        "id": 13,
+        "start": 40.15999984741211,
+        "end": 42.15999984741211,
+        "text": " You can do 10 pills for 49"
+      },
+      {
+        "id": 14,
+        "start": 42.220001220703125,
+        "end": 45.779998779296875,
+        "text": " 25 pills for 99 or 40 pills for 149"
+      },
+      {
+        "id": 15,
+        "start": 48.959999084472656,
+        "end": 51.20000076293945,
+        "text": " Yeah, let's do the what you said last one was 100 pills"
+      },
+      {
+        "id": 16,
+        "start": 52.47999954223633,
+        "end": 54.79999923706055,
+        "text": " 40 pills for 140. Yeah"
+      },
+      {
+        "id": 17,
+        "start": 55.599998474121094,
+        "end": 57.279998779296875,
+        "text": " Yeah. Yeah. Yeah do that"
+      },
+      {
+        "id": 18,
+        "start": 57.279998779296875,
+        "end": 58.400001525878906,
+        "text": " Okay"
+      },
+      {
+        "id": 19,
+        "start": 58.400001525878906,
+        "end": 61.91999816894531,
+        "text": " And I have your address is 6862 east casilla avenue"
+      },
+      {
+        "id": 20,
+        "start": 63.119998931884766,
+        "end": 64.23999786376953,
+        "text": " Uh-huh"
+      },
+      {
+        "id": 21,
+        "start": 64.23999786376953,
+        "end": 67.27999877929688,
+        "text": " Okay, and a visa on file is ending in 5 9 2 2"
+      },
+      {
+        "id": 22,
+        "start": 69.36000061035156,
+        "end": 72.08000183105469,
+        "text": " Yep, okay. I'll go ahead and put this through for you"
+      },
+      {
+        "id": 23,
+        "start": 75.76000213623047,
+        "end": 77.76000213623047,
+        "text": " Awesome"
+      },
+      {
+        "id": 24,
+        "start": 78.4000015258789,
+        "end": 81.91999816894531,
+        "text": " All right, so that went through you can probably expect that in two to five business days"
+      },
+      {
+        "id": 25,
+        "start": 83.04000091552734,
+        "end": 85.04000091552734,
+        "text": " Sounds great. Thank you. Thank you"
+      },
+      {
+        "id": 26,
+        "start": 85.76000213623047,
+        "end": 87.76000213623047,
+        "text": " All right"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8199-81ad-eab60bcda813",
+    "url": "https://www.notion.so/300000001217367-300000001707725-2f611d0a101c819981adeab60bcda813"
+  },
+  "processedAt": "2026-01-28T15:38:38.908Z"
+}

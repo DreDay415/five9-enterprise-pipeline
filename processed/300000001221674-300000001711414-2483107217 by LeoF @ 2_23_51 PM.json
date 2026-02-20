@@ -1,0 +1,223 @@
+{
+  "recording": {
+    "name": "300000001221674-300000001711414-2483107217 by LeoF @ 2_23_51 PM.wav",
+    "size": 164250,
+    "modifyTime": 1769639154000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221674-300000001711414-2483107217 by LeoF @ 2_23_51 PM.wav",
+    "uploadDate": "2026-01-28T22:25:54.000Z",
+    "callId": "300000001221674-300000001711414",
+    "phoneNumber": "2483107217",
+    "callTimestamp": "2026-01-28T14:23:51.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Yeah, thanks for calling Viagra. How can I help you?\n\nSpeaker 2: Yeah, I had recently gotten an order, and I talked to somebody a little while ago.\n\nSpeaker 1: They sent me the wrong prescription, and he said he was going to rectify it and fix it.\n\nSpeaker 2: And then when I got confirmation of the new prescription,\n\nSpeaker 1: it seemed to be the same stuff that I got that I wasn't supposed to get.\n\nSpeaker 2: What's your first and last name?\n\nSpeaker 1: Yeah, my first name is Joe. My last name is Telmos. T-E-L-M-O-S.\n\nSpeaker 2: All right, Joe. Let me see what's going on here.\n\nSpeaker 1: You definitely shouldn't have gotten the same thing.\n\nSpeaker 2: But let me pull up your info and see what's happening.\n\nSpeaker 1: Yeah, I was supposed to get the Viagra ABG.\n\nSpeaker 2: Oh, and they sent me –\n\nSpeaker 1: Yeah, the new thing. That's why. The new order –\n\nSpeaker 2: Well, but they sent me like a –\n\nSpeaker 1: Thank you for using Blue Score, your treatment, your safety information.\n\nSpeaker 2: But then it says the thing they sent me on was the Filidophil again?\n\nSpeaker 1: Yeah. So that's the name, like the scientific name of the medicine, Filidophil.\n\nSpeaker 2: The Viagra ABG?\n\nSpeaker 1: Yeah, exactly. That's not important.\n\nSpeaker 2: Okay. No, no. I just wanted to make sure.\n\nSpeaker 1: Yeah. The manufacturer that it comes from, it'll be different.\n\nSpeaker 2: You'll see the markings on the pills will be different when you get them, Joe.\n\nSpeaker 1: And then the label will be different as well.\n\nSpeaker 2: No, and he told me all that.\n\nSpeaker 1: But then I got this, and I'm like, man, I just wanted to call and make sure\n\nSpeaker 2: they're not sending me the same stuff.\n\nSpeaker 1: No, he's doing it the right way.\n\nSpeaker 2: You're going to get the correct thing this time.\n\nSpeaker 1: Okay. The Viagra ABG 100?\n\nSpeaker 2: Exactly.\n\nSpeaker 1: Okay, perfect. Thank you so much. Sorry to bother you.\n\nSpeaker 2: Thank you. No bother at all. Have a good one. Bye-bye now.\n\nSpeaker 1: All right, buddy. Bye-bye.",
+    "duration": 6485,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Yeah, thanks for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 7,
+        "text": " Yeah, I had recently gotten an order, and I talked to somebody a little while ago."
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 13,
+        "text": " They sent me the wrong prescription, and he said he was going to rectify it and fix it."
+      },
+      {
+        "id": 3,
+        "start": 13,
+        "end": 17,
+        "text": " And then when I got confirmation of the new prescription,"
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 23,
+        "text": " it seemed to be the same stuff that I got that I wasn't supposed to get."
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 26,
+        "text": " What's your first and last name?"
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 33,
+        "text": " Yeah, my first name is Joe. My last name is Telmos. T-E-L-M-O-S."
+      },
+      {
+        "id": 7,
+        "start": 33,
+        "end": 35,
+        "text": " All right, Joe. Let me see what's going on here."
+      },
+      {
+        "id": 8,
+        "start": 35,
+        "end": 38,
+        "text": " You definitely shouldn't have gotten the same thing."
+      },
+      {
+        "id": 9,
+        "start": 38,
+        "end": 42,
+        "text": " But let me pull up your info and see what's happening."
+      },
+      {
+        "id": 10,
+        "start": 42,
+        "end": 45,
+        "text": " Yeah, I was supposed to get the Viagra ABG."
+      },
+      {
+        "id": 11,
+        "start": 45,
+        "end": 47,
+        "text": " Oh, and they sent me –"
+      },
+      {
+        "id": 12,
+        "start": 47,
+        "end": 49,
+        "text": " Yeah, the new thing. That's why. The new order –"
+      },
+      {
+        "id": 13,
+        "start": 49,
+        "end": 52,
+        "text": " Well, but they sent me like a –"
+      },
+      {
+        "id": 14,
+        "start": 52,
+        "end": 56,
+        "text": " Thank you for using Blue Score, your treatment, your safety information."
+      },
+      {
+        "id": 15,
+        "start": 56,
+        "end": 61,
+        "text": " But then it says the thing they sent me on was the Filidophil again?"
+      },
+      {
+        "id": 16,
+        "start": 61,
+        "end": 66,
+        "text": " Yeah. So that's the name, like the scientific name of the medicine, Filidophil."
+      },
+      {
+        "id": 17,
+        "start": 66,
+        "end": 68,
+        "text": " The Viagra ABG?"
+      },
+      {
+        "id": 18,
+        "start": 68,
+        "end": 70,
+        "text": " Yeah, exactly. That's not important."
+      },
+      {
+        "id": 19,
+        "start": 70,
+        "end": 72,
+        "text": " Okay. No, no. I just wanted to make sure."
+      },
+      {
+        "id": 20,
+        "start": 72,
+        "end": 75,
+        "text": " Yeah. The manufacturer that it comes from, it'll be different."
+      },
+      {
+        "id": 21,
+        "start": 75,
+        "end": 78,
+        "text": " You'll see the markings on the pills will be different when you get them, Joe."
+      },
+      {
+        "id": 22,
+        "start": 78,
+        "end": 81,
+        "text": " And then the label will be different as well."
+      },
+      {
+        "id": 23,
+        "start": 81,
+        "end": 82,
+        "text": " No, and he told me all that."
+      },
+      {
+        "id": 24,
+        "start": 82,
+        "end": 85,
+        "text": " But then I got this, and I'm like, man, I just wanted to call and make sure"
+      },
+      {
+        "id": 25,
+        "start": 85,
+        "end": 87,
+        "text": " they're not sending me the same stuff."
+      },
+      {
+        "id": 26,
+        "start": 87,
+        "end": 89,
+        "text": " No, he's doing it the right way."
+      },
+      {
+        "id": 27,
+        "start": 89,
+        "end": 91,
+        "text": " You're going to get the correct thing this time."
+      },
+      {
+        "id": 28,
+        "start": 91,
+        "end": 93,
+        "text": " Okay. The Viagra ABG 100?"
+      },
+      {
+        "id": 29,
+        "start": 93,
+        "end": 94,
+        "text": " Exactly."
+      },
+      {
+        "id": 30,
+        "start": 94,
+        "end": 97,
+        "text": " Okay, perfect. Thank you so much. Sorry to bother you."
+      },
+      {
+        "id": 31,
+        "start": 97,
+        "end": 100,
+        "text": " Thank you. No bother at all. Have a good one. Bye-bye now."
+      },
+      {
+        "id": 32,
+        "start": 100,
+        "end": 101,
+        "text": " All right, buddy. Bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81ad-b5a0-e491f6c718e1",
+    "url": "https://www.notion.so/300000001221674-300000001711414-2f611d0a101c81adb5a0e491f6c718e1"
+  },
+  "processedAt": "2026-01-28T23:39:06.687Z"
+}

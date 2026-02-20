@@ -1,0 +1,158 @@
+{
+  "recording": {
+    "name": "300000001219348-300000001709433-4326346225 by johanna@superbalife.com @ 10_57_34 AM.wav",
+    "size": 137210,
+    "modifyTime": 1769587628000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219348-300000001709433-4326346225 by johanna@superbalife.com @ 10_57_34 AM.wav",
+    "uploadDate": "2026-01-28T08:07:08.000Z",
+    "callId": "300000001219348-300000001709433",
+    "agent": "johanna",
+    "phoneNumber": "4326346225",
+    "callTimestamp": "2026-01-28T10:57:34.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, Joanna speaking, how can I help you?\n\nSpeaker 2: Hey, Joanna, this is Isaac Lujan.\n\nSpeaker 1: Hi, how are you, sir?\n\nSpeaker 2: I'm doing good.\n\nSpeaker 1: Hey, I received the order, but they forgot to put the activator in there.\n\nSpeaker 2: Oh, they did?\n\nSpeaker 1: Oh, the activator actually gets sent separately.\n\nSpeaker 2: So the first one actually comes from our pharmacy, and the activator comes\n\nSpeaker 1: from our supplement warehouse.\n\nSpeaker 2: So let me actually check on that for you.\n\nSpeaker 1: Okay, hold on.\n\nSpeaker 2: I'm just checking on the tracking on the activator, sir.\n\nSpeaker 1: Give me one second.\n\nSpeaker 2: Okay, it looks like it was shipped three days ago, at 11 hours.\n\nSpeaker 1: So you should be receiving it any day now, okay?\n\nSpeaker 2: Okay, all right.\n\nSpeaker 1: All right, thank you.\n\nSpeaker 2: Thank you, Mr. Lujan.\n\nSpeaker 1: Have a beautiful day.\n\nSpeaker 2: You too. Thank you.\n\nSpeaker 1: Bye-bye.\n\nSpeaker 2: Thank you.",
+    "duration": 3225,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2.799999952316284,
+        "text": " Thanks for calling Viagra, Joanna speaking, how can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 3.799999952316284,
+        "end": 5.71999979019165,
+        "text": " Hey, Joanna, this is Isaac Lujan."
+      },
+      {
+        "id": 2,
+        "start": 7.059999942779541,
+        "end": 8.380000114440918,
+        "text": " Hi, how are you, sir?"
+      },
+      {
+        "id": 3,
+        "start": 8.960000038146973,
+        "end": 9.9399995803833,
+        "text": " I'm doing good."
+      },
+      {
+        "id": 4,
+        "start": 10.5,
+        "end": 14.479999542236328,
+        "text": " Hey, I received the order, but they forgot to put the activator in there."
+      },
+      {
+        "id": 5,
+        "start": 15.699999809265137,
+        "end": 16.360000610351562,
+        "text": " Oh, they did?"
+      },
+      {
+        "id": 6,
+        "start": 16.360000610351562,
+        "end": 19.979999542236328,
+        "text": " Oh, the activator actually gets sent separately."
+      },
+      {
+        "id": 7,
+        "start": 20.479999542236328,
+        "end": 24.8799991607666,
+        "text": " So the first one actually comes from our pharmacy, and the activator comes"
+      },
+      {
+        "id": 8,
+        "start": 24.8799991607666,
+        "end": 28.3799991607666,
+        "text": " from our supplement warehouse."
+      },
+      {
+        "id": 9,
+        "start": 28.3799991607666,
+        "end": 31.739999771118164,
+        "text": " So let me actually check on that for you."
+      },
+      {
+        "id": 10,
+        "start": 32.540000915527344,
+        "end": 33.779998779296875,
+        "text": " Okay, hold on."
+      },
+      {
+        "id": 11,
+        "start": 52.65999984741211,
+        "end": 54.900001525878906,
+        "text": " I'm just checking on the tracking on the activator, sir."
+      },
+      {
+        "id": 12,
+        "start": 54.900001525878906,
+        "end": 56.13999938964844,
+        "text": " Give me one second."
+      },
+      {
+        "id": 13,
+        "start": 58.380001068115234,
+        "end": 69.41999816894531,
+        "text": " Okay, it looks like it was shipped three days ago, at 11 hours."
+      },
+      {
+        "id": 14,
+        "start": 69.5999984741211,
+        "end": 74.77999877929688,
+        "text": " So you should be receiving it any day now, okay?"
+      },
+      {
+        "id": 15,
+        "start": 75.12000274658203,
+        "end": 76.31999969482422,
+        "text": " Okay, all right."
+      },
+      {
+        "id": 16,
+        "start": 76.31999969482422,
+        "end": 77.87999725341797,
+        "text": " All right, thank you."
+      },
+      {
+        "id": 17,
+        "start": 77.87999725341797,
+        "end": 79.08000183105469,
+        "text": " Thank you, Mr. Lujan."
+      },
+      {
+        "id": 18,
+        "start": 79.08000183105469,
+        "end": 79.76000213623047,
+        "text": " Have a beautiful day."
+      },
+      {
+        "id": 19,
+        "start": 80.81999969482422,
+        "end": 81.63999938964844,
+        "text": " You too. Thank you."
+      },
+      {
+        "id": 20,
+        "start": 81.63999938964844,
+        "end": 81.9800033569336,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 21,
+        "start": 81.9800033569336,
+        "end": 82.5,
+        "text": " Thank you."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8104-b708-c0342b62c059",
+    "url": "https://www.notion.so/300000001219348-300000001709433-2f611d0a101c8104b708c0342b62c059"
+  },
+  "processedAt": "2026-01-28T13:18:23.687Z"
+}

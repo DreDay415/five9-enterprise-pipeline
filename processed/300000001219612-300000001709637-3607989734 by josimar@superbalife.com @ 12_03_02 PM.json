@@ -1,0 +1,152 @@
+{
+  "recording": {
+    "name": "300000001219612-300000001709637-3607989734 by josimar@superbalife.com @ 12_03_02 PM.wav",
+    "size": 91320,
+    "modifyTime": 1769591534000,
+    "remotePath": "/five9sftp/upload/SB CS/1_27_2026/300000001219612-300000001709637-3607989734 by josimar@superbalife.com @ 12_03_02 PM.wav",
+    "uploadDate": "2026-01-28T09:12:14.000Z",
+    "callId": "300000001219612-300000001709637",
+    "agent": "josimar",
+    "phoneNumber": "3607989734",
+    "callTimestamp": "2026-01-28T12:03:02.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Viagra, can I help you today?\n\nSpeaker 2: Yeah, I want to cancel my account.\n\nSpeaker 1: I can take a look into your profile, sir, one moment.\n\nSpeaker 2: What's your last name and a zip code?\n\nSpeaker 1: Paul, H-A-L-L-9-8-6-6-4.\n\nSpeaker 2: Okay, one moment.\n\nSpeaker 1: Okay, so I do see you're currently one of our VIP members for the Viagra AGV, sir.\n\nSpeaker 2: I wanted to mention, the moment we cancel these orders out,\n\nSpeaker 1: unfortunately, the doctor would also delete the visit from his system,\n\nSpeaker 2: and you wouldn't be able to order this anymore.\n\nSpeaker 1: However, I can always freeze this out for you,\n\nSpeaker 2: so that way when you need it in the future, you can always have access to it.\n\nSpeaker 1: Did you want to try to freeze it out?\n\nSpeaker 2: Just cancel it.\n\nSpeaker 1: No problem.\n\nSpeaker 2: Just keep in mind you won't be able to order these in the future,\n\nSpeaker 1: but you're all set for today.\n\nSpeaker 2: Thank you.\n\nSpeaker 1: No worries.\n\nSpeaker 2: Bye-bye now.\n\nSpeaker 1: Bye.",
+    "duration": 2935,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 2,
+        "text": " Viagra, can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 2,
+        "end": 5,
+        "text": " Yeah, I want to cancel my account."
+      },
+      {
+        "id": 2,
+        "start": 5,
+        "end": 9,
+        "text": " I can take a look into your profile, sir, one moment."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 12,
+        "text": " What's your last name and a zip code?"
+      },
+      {
+        "id": 4,
+        "start": 12,
+        "end": 17,
+        "text": " Paul, H-A-L-L-9-8-6-6-4."
+      },
+      {
+        "id": 5,
+        "start": 17,
+        "end": 26,
+        "text": " Okay, one moment."
+      },
+      {
+        "id": 6,
+        "start": 26,
+        "end": 30,
+        "text": " Okay, so I do see you're currently one of our VIP members for the Viagra AGV, sir."
+      },
+      {
+        "id": 7,
+        "start": 30,
+        "end": 33,
+        "text": " I wanted to mention, the moment we cancel these orders out,"
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 35,
+        "text": " unfortunately, the doctor would also delete the visit from his system,"
+      },
+      {
+        "id": 9,
+        "start": 35,
+        "end": 37,
+        "text": " and you wouldn't be able to order this anymore."
+      },
+      {
+        "id": 10,
+        "start": 37,
+        "end": 40,
+        "text": " However, I can always freeze this out for you,"
+      },
+      {
+        "id": 11,
+        "start": 40,
+        "end": 43,
+        "text": " so that way when you need it in the future, you can always have access to it."
+      },
+      {
+        "id": 12,
+        "start": 43,
+        "end": 45,
+        "text": " Did you want to try to freeze it out?"
+      },
+      {
+        "id": 13,
+        "start": 45,
+        "end": 47,
+        "text": " Just cancel it."
+      },
+      {
+        "id": 14,
+        "start": 47,
+        "end": 48,
+        "text": " No problem."
+      },
+      {
+        "id": 15,
+        "start": 48,
+        "end": 50,
+        "text": " Just keep in mind you won't be able to order these in the future,"
+      },
+      {
+        "id": 16,
+        "start": 50,
+        "end": 52,
+        "text": " but you're all set for today."
+      },
+      {
+        "id": 17,
+        "start": 52,
+        "end": 53,
+        "text": " Thank you."
+      },
+      {
+        "id": 18,
+        "start": 53,
+        "end": 54,
+        "text": " No worries."
+      },
+      {
+        "id": 19,
+        "start": 54,
+        "end": 55,
+        "text": " Bye-bye now."
+      },
+      {
+        "id": 20,
+        "start": 55,
+        "end": 56,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-81fb-90b0-fa1d292fd83f",
+    "url": "https://www.notion.so/300000001219612-300000001709637-2f611d0a101c81fb90b0fa1d292fd83f"
+  },
+  "processedAt": "2026-01-28T11:32:30.312Z"
+}

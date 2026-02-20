@@ -1,0 +1,359 @@
+{
+  "recording": {
+    "name": "300000001241937-300000001731553-9366418603 by charles@superbalife.com @ 10_44_11 AM.wav",
+    "size": 256680,
+    "modifyTime": 1771008431000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001241937-300000001731553-9366418603 by charles@superbalife.com @ 10_44_11 AM.wav",
+    "uploadDate": "2026-02-13T18:47:11.000Z",
+    "callId": "300000001241937-300000001731553",
+    "agent": "charles",
+    "phoneNumber": "9366418603",
+    "callTimestamp": "2026-02-13T10:44:11.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_charles_300000001241937-300000001731553_9366418603.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_charles_300000001241937-300000001731553_9366418603.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra, this is Charles.\n\nSpeaker 2: Hey Charles, how you doing?\n\nSpeaker 1: Good, how about yourself?\n\nSpeaker 2: I'm doing good.\n\nSpeaker 1: Hey, I got a concern I need to try to figure something out here.\n\nSpeaker 2: For some reason I'm getting a charge and more medications sent to me without my knowledge.\n\nSpeaker 1: All I get is an email that my debit card has been tapped for the $68 a month or however long it is, I'm not sure.\n\nSpeaker 2: So I went to the website, it doesn't give you a clear way to unsubscribe, so what do I do?\n\nSpeaker 1: I just got this and I don't want it anymore.\n\nSpeaker 2: Am I stuck with it?\n\nSpeaker 1: No.\n\nSpeaker 2: So I have Gerald Ben in Devers, Texas?\n\nSpeaker 1: Yes.\n\nSpeaker 2: Okay.\n\nSpeaker 1: All right, so with your prescription when it gets written up, it does come with refills.\n\nSpeaker 2: Okay.\n\nSpeaker 1: If you don't necessarily need the refills every single month, we completely understand.\n\nSpeaker 2: Okay, we understand not everybody pops these things like M&Ms.\n\nSpeaker 1: With that most recent order that you have, what you can do is write, refer to sender on it, throw it back in the mailbox.\n\nSpeaker 2: Mailman will come by either tomorrow or Monday, take it and send it right back to us for a refund.\n\nSpeaker 1: Okay.\n\nSpeaker 2: And then that will be that.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Just shot out of the blue here, question.\n\nSpeaker 1: How are you doing on the first couple of orders?\n\nSpeaker 2: It's okay.\n\nSpeaker 1: I mean, it's okay.\n\nSpeaker 2: It's just I was going to just try it for however long, but I got the last one.\n\nSpeaker 1: I thought, well, let me try to cancel it.\n\nSpeaker 2: So I canceled my Google Wallet and then I got another one today.\n\nSpeaker 1: So I just want to, you know, it's just something I want to discontinue.\n\nSpeaker 2: Now, I didn't know what it was, so I have the bag open, but I haven't opened the bottle.\n\nSpeaker 1: Can I just put it back in the bag and tape it?\n\nSpeaker 2: Yeah, tape it up really, really good, write return to sender on it with a marker,\n\nSpeaker 1: and you should be good to go as far as them sending it back for free.\n\nSpeaker 2: Okay.\n\nSpeaker 1: And then how long can I expect to get my refund?\n\nSpeaker 2: As soon as I'm already writing the notes, as soon as we have it back at our pharmacy,\n\nSpeaker 1: they're going to do a refund immediately.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Now, can I get that e-mail confirmation?\n\nSpeaker 2: Yeah, I'll send one out.\n\nSpeaker 1: Expect that in about 30 to 40 minutes, okay?\n\nSpeaker 2: Our e-mail team should be busy.\n\nSpeaker 1: Okay.\n\nSpeaker 2: That'll work.\n\nSpeaker 1: And what's your name, sir?\n\nSpeaker 2: Charles.\n\nSpeaker 1: Charles, you've been a big help, Charles.\n\nSpeaker 2: I'll do this right away.\n\nSpeaker 1: Sounds good.\n\nSpeaker 2: All right, Gerald.\n\nSpeaker 1: Hope you have a great rest of your day.\n\nSpeaker 2: You too, sir.\n\nSpeaker 1: All right, take care.",
+    "duration": 7564,
+    "audioDuration": 157.9199981689453,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 7,
+        "text": " Thanks for calling Viagra, this is Charles."
+      },
+      {
+        "id": 1,
+        "start": 7,
+        "end": 10,
+        "text": " Hey Charles, how you doing?"
+      },
+      {
+        "id": 2,
+        "start": 10,
+        "end": 12,
+        "text": " Good, how about yourself?"
+      },
+      {
+        "id": 3,
+        "start": 12,
+        "end": 13,
+        "text": " I'm doing good."
+      },
+      {
+        "id": 4,
+        "start": 13,
+        "end": 18,
+        "text": " Hey, I got a concern I need to try to figure something out here."
+      },
+      {
+        "id": 5,
+        "start": 18,
+        "end": 25,
+        "text": " For some reason I'm getting a charge and more medications sent to me without my knowledge."
+      },
+      {
+        "id": 6,
+        "start": 25,
+        "end": 36,
+        "text": " All I get is an email that my debit card has been tapped for the $68 a month or however long it is, I'm not sure."
+      },
+      {
+        "id": 7,
+        "start": 36,
+        "end": 42,
+        "text": " So I went to the website, it doesn't give you a clear way to unsubscribe, so what do I do?"
+      },
+      {
+        "id": 8,
+        "start": 42,
+        "end": 44,
+        "text": " I just got this and I don't want it anymore."
+      },
+      {
+        "id": 9,
+        "start": 44,
+        "end": 46,
+        "text": " Am I stuck with it?"
+      },
+      {
+        "id": 10,
+        "start": 46,
+        "end": 47,
+        "text": " No."
+      },
+      {
+        "id": 11,
+        "start": 47,
+        "end": 50,
+        "text": " So I have Gerald Ben in Devers, Texas?"
+      },
+      {
+        "id": 12,
+        "start": 50,
+        "end": 51,
+        "text": " Yes."
+      },
+      {
+        "id": 13,
+        "start": 51,
+        "end": 52,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 52,
+        "end": 56,
+        "text": " All right, so with your prescription when it gets written up, it does come with refills."
+      },
+      {
+        "id": 15,
+        "start": 56,
+        "end": 57,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 57,
+        "end": 61,
+        "text": " If you don't necessarily need the refills every single month, we completely understand."
+      },
+      {
+        "id": 17,
+        "start": 61,
+        "end": 65,
+        "text": " Okay, we understand not everybody pops these things like M&Ms."
+      },
+      {
+        "id": 18,
+        "start": 65,
+        "end": 71,
+        "text": " With that most recent order that you have, what you can do is write, refer to sender on it, throw it back in the mailbox."
+      },
+      {
+        "id": 19,
+        "start": 71,
+        "end": 76,
+        "text": " Mailman will come by either tomorrow or Monday, take it and send it right back to us for a refund."
+      },
+      {
+        "id": 20,
+        "start": 76,
+        "end": 77,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 77,
+        "end": 78,
+        "text": " And then that will be that."
+      },
+      {
+        "id": 22,
+        "start": 78,
+        "end": 79,
+        "text": " Okay."
+      },
+      {
+        "id": 23,
+        "start": 79,
+        "end": 82,
+        "text": " Just shot out of the blue here, question."
+      },
+      {
+        "id": 24,
+        "start": 82,
+        "end": 85,
+        "text": " How are you doing on the first couple of orders?"
+      },
+      {
+        "id": 25,
+        "start": 85,
+        "end": 90,
+        "text": " It's okay."
+      },
+      {
+        "id": 26,
+        "start": 90,
+        "end": 91,
+        "text": " I mean, it's okay."
+      },
+      {
+        "id": 27,
+        "start": 91,
+        "end": 96,
+        "text": " It's just I was going to just try it for however long, but I got the last one."
+      },
+      {
+        "id": 28,
+        "start": 96,
+        "end": 98,
+        "text": " I thought, well, let me try to cancel it."
+      },
+      {
+        "id": 29,
+        "start": 98,
+        "end": 104,
+        "text": " So I canceled my Google Wallet and then I got another one today."
+      },
+      {
+        "id": 30,
+        "start": 104,
+        "end": 109,
+        "text": " So I just want to, you know, it's just something I want to discontinue."
+      },
+      {
+        "id": 31,
+        "start": 109,
+        "end": 114,
+        "text": " Now, I didn't know what it was, so I have the bag open, but I haven't opened the bottle."
+      },
+      {
+        "id": 32,
+        "start": 114,
+        "end": 116,
+        "text": " Can I just put it back in the bag and tape it?"
+      },
+      {
+        "id": 33,
+        "start": 116,
+        "end": 120,
+        "text": " Yeah, tape it up really, really good, write return to sender on it with a marker,"
+      },
+      {
+        "id": 34,
+        "start": 120,
+        "end": 124,
+        "text": " and you should be good to go as far as them sending it back for free."
+      },
+      {
+        "id": 35,
+        "start": 124,
+        "end": 125,
+        "text": " Okay."
+      },
+      {
+        "id": 36,
+        "start": 125,
+        "end": 127,
+        "text": " And then how long can I expect to get my refund?"
+      },
+      {
+        "id": 37,
+        "start": 127,
+        "end": 132,
+        "text": " As soon as I'm already writing the notes, as soon as we have it back at our pharmacy,"
+      },
+      {
+        "id": 38,
+        "start": 132,
+        "end": 134,
+        "text": " they're going to do a refund immediately."
+      },
+      {
+        "id": 39,
+        "start": 134,
+        "end": 135,
+        "text": " Okay."
+      },
+      {
+        "id": 40,
+        "start": 135,
+        "end": 138,
+        "text": " Now, can I get that e-mail confirmation?"
+      },
+      {
+        "id": 41,
+        "start": 138,
+        "end": 141,
+        "text": " Yeah, I'll send one out."
+      },
+      {
+        "id": 42,
+        "start": 141,
+        "end": 144,
+        "text": " Expect that in about 30 to 40 minutes, okay?"
+      },
+      {
+        "id": 43,
+        "start": 144,
+        "end": 145,
+        "text": " Our e-mail team should be busy."
+      },
+      {
+        "id": 44,
+        "start": 145,
+        "end": 146,
+        "text": " Okay."
+      },
+      {
+        "id": 45,
+        "start": 146,
+        "end": 147,
+        "text": " That'll work."
+      },
+      {
+        "id": 46,
+        "start": 147,
+        "end": 148,
+        "text": " And what's your name, sir?"
+      },
+      {
+        "id": 47,
+        "start": 148,
+        "end": 149,
+        "text": " Charles."
+      },
+      {
+        "id": 48,
+        "start": 149,
+        "end": 151,
+        "text": " Charles, you've been a big help, Charles."
+      },
+      {
+        "id": 49,
+        "start": 151,
+        "end": 152,
+        "text": " I'll do this right away."
+      },
+      {
+        "id": 50,
+        "start": 152,
+        "end": 153,
+        "text": " Sounds good."
+      },
+      {
+        "id": 51,
+        "start": 153,
+        "end": 154,
+        "text": " All right, Gerald."
+      },
+      {
+        "id": 52,
+        "start": 154,
+        "end": 155,
+        "text": " Hope you have a great rest of your day."
+      },
+      {
+        "id": 53,
+        "start": 155,
+        "end": 156,
+        "text": " You too, sir."
+      },
+      {
+        "id": 54,
+        "start": 156,
+        "end": 157,
+        "text": " All right, take care."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-819a-92e0-c5071d7a426c",
+    "url": "https://www.notion.so/300000001241937-300000001731553-30611d0a101c819a92e0c5071d7a426c"
+  },
+  "processedAt": "2026-02-13T19:04:35.569Z"
+}

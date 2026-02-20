@@ -1,0 +1,235 @@
+{
+  "recording": {
+    "name": "300000001220545-300000001710610-2604142989 by LeoF @ 8_48_07 AM.wav",
+    "size": 163600,
+    "modifyTime": 1769619009000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220545-300000001710610-2604142989 by LeoF @ 8_48_07 AM.wav",
+    "uploadDate": "2026-01-28T16:50:09.000Z",
+    "callId": "300000001220545-300000001710610",
+    "phoneNumber": "2604142989",
+    "callTimestamp": "2026-01-28T08:48:07.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hey, thanks for calling Viagra. How can I help you?\n\nSpeaker 2: Hey, I just received the refill of my order. My first order was wrong.\n\nSpeaker 1: I got sildenafil instead of Viagra AGV.\n\nSpeaker 2: Oh, wow.\n\nSpeaker 1: And I talked to one of you guys, and she sent it right out.\n\nSpeaker 2: Uh-huh.\n\nSpeaker 1: And it looks like I got exactly the same thing again. It says take it an hour before.\n\nSpeaker 2: What's your first and last name?\n\nSpeaker 1: John Forbing, F-O-R-B-I-N-G.\n\nSpeaker 2: Go ahead, Mr. Forbing. Sorry to cut you off.\n\nSpeaker 1: Everything looks exactly the same, the same directions on the fill.\n\nSpeaker 2: But the numbers on the pills are different.\n\nSpeaker 1: The one says 50, and the other one is AC-339.\n\nSpeaker 2: Ah, yeah, so that is correct, Ben, if you got the ones that just say 50 on them.\n\nSpeaker 1: The instructions, that's so the manufacturer's not, like, sued.\n\nSpeaker 2: It's just to protect them from any sort of lawsuit or anything.\n\nSpeaker 1: Some guys do take an hour still. You shouldn't see that.\n\nSpeaker 2: That's few and far in between.\n\nSpeaker 1: Give it a try. Let us know how it goes.\n\nSpeaker 2: You definitely still are within, like, the 90-day return thing. No worries there.\n\nSpeaker 1: So, yeah, give it a shot. Those pills work really fast.\n\nSpeaker 2: I've tried them. A few of the guys in here, we've talked about it as well.\n\nSpeaker 1: We get a lot of great feedback, so you should see those results really quickly.\n\nSpeaker 2: That's just, like, for the manufacturer to be protected by, like, law in case any guy, you know,\n\nSpeaker 1: wants to bring a lawsuit.\n\nSpeaker 2: It's curious that they don't even have, like, there's a paper of directions that come along.\n\nSpeaker 1: Don't mention it treats it all like just normal Sildenafil.\n\nSpeaker 2: Okay. That's how you do it.\n\nSpeaker 1: Yeah, basically.\n\nSpeaker 2: So, all you have is...\n\nSpeaker 1: Different results there.\n\nSpeaker 2: Okay. So, just the 50, that's what you go by?\n\nSpeaker 1: Yeah, exactly.\n\nSpeaker 2: Okay. All right. Thank you, sir. I'll give him a shot, and I'll let you know.\n\nSpeaker 1: Thank you. Bye-bye now.",
+    "duration": 4866,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5,
+        "text": " Hey, thanks for calling Viagra. How can I help you?"
+      },
+      {
+        "id": 1,
+        "start": 5,
+        "end": 11,
+        "text": " Hey, I just received the refill of my order. My first order was wrong."
+      },
+      {
+        "id": 2,
+        "start": 11,
+        "end": 15,
+        "text": " I got syldenafil instead of Viagra AGV."
+      },
+      {
+        "id": 3,
+        "start": 15,
+        "end": 16,
+        "text": " Oh, wow."
+      },
+      {
+        "id": 4,
+        "start": 16,
+        "end": 19,
+        "text": " And I talked to one of you guys, and she sent it right out."
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 20,
+        "text": " Uh-huh."
+      },
+      {
+        "id": 6,
+        "start": 20,
+        "end": 25,
+        "text": " And it looks like I got exactly the same thing again. It says take it an hour before."
+      },
+      {
+        "id": 7,
+        "start": 25,
+        "end": 27,
+        "text": " What's your first and last name?"
+      },
+      {
+        "id": 8,
+        "start": 27,
+        "end": 30,
+        "text": " John Forbing, F-O-R-B-I-N-G."
+      },
+      {
+        "id": 9,
+        "start": 30,
+        "end": 32,
+        "text": " Go ahead, Mr. Forbing. Sorry to cut you off."
+      },
+      {
+        "id": 10,
+        "start": 32,
+        "end": 36,
+        "text": " Everything looks exactly the same, the same directions on the fill."
+      },
+      {
+        "id": 11,
+        "start": 36,
+        "end": 38,
+        "text": " But the numbers on the pills are different."
+      },
+      {
+        "id": 12,
+        "start": 38,
+        "end": 42,
+        "text": " The one says 50, and the other one is AC-339."
+      },
+      {
+        "id": 13,
+        "start": 42,
+        "end": 46,
+        "text": " Ah, yeah, so that is correct, Ben, if you got the ones that just say 50 on them."
+      },
+      {
+        "id": 14,
+        "start": 46,
+        "end": 49,
+        "text": " The instructions, that's so the manufacturer's not, like, sued."
+      },
+      {
+        "id": 15,
+        "start": 49,
+        "end": 52,
+        "text": " It's just to protect them from any sort of lawsuit or anything."
+      },
+      {
+        "id": 16,
+        "start": 52,
+        "end": 55,
+        "text": " Some guys do take an hour still. You shouldn't see that."
+      },
+      {
+        "id": 17,
+        "start": 55,
+        "end": 57,
+        "text": " That's few and far in between."
+      },
+      {
+        "id": 18,
+        "start": 57,
+        "end": 59,
+        "text": " Give it a try. Let us know how it goes."
+      },
+      {
+        "id": 19,
+        "start": 59,
+        "end": 63,
+        "text": " You definitely still are within, like, the 90-day return thing. No worries there."
+      },
+      {
+        "id": 20,
+        "start": 63,
+        "end": 65,
+        "text": " So, yeah, give it a shot. Those pills work really fast."
+      },
+      {
+        "id": 21,
+        "start": 65,
+        "end": 68,
+        "text": " I've tried them. A few of the guys in here, we've talked about it as well."
+      },
+      {
+        "id": 22,
+        "start": 68,
+        "end": 71,
+        "text": " We get a lot of great feedback, so you should see those results really quickly."
+      },
+      {
+        "id": 23,
+        "start": 71,
+        "end": 76,
+        "text": " That's just, like, for the manufacturer to be protected by, like, law in case any guy, you know,"
+      },
+      {
+        "id": 24,
+        "start": 76,
+        "end": 77,
+        "text": " wants to bring a lawsuit."
+      },
+      {
+        "id": 25,
+        "start": 77,
+        "end": 80,
+        "text": " It's curious that they don't even have, like, there's a paper of directions that come along."
+      },
+      {
+        "id": 26,
+        "start": 80,
+        "end": 84,
+        "text": " Don't mention it treats it all like just normal Sildenafil."
+      },
+      {
+        "id": 27,
+        "start": 84,
+        "end": 86,
+        "text": " Okay. That's how you do it."
+      },
+      {
+        "id": 28,
+        "start": 86,
+        "end": 87,
+        "text": " Yeah, basically."
+      },
+      {
+        "id": 29,
+        "start": 87,
+        "end": 88,
+        "text": " So, all you have is..."
+      },
+      {
+        "id": 30,
+        "start": 88,
+        "end": 90,
+        "text": " Different results there."
+      },
+      {
+        "id": 31,
+        "start": 90,
+        "end": 93,
+        "text": " Okay. So, just the 50, that's what you go by?"
+      },
+      {
+        "id": 32,
+        "start": 93,
+        "end": 95,
+        "text": " Yeah, exactly."
+      },
+      {
+        "id": 33,
+        "start": 95,
+        "end": 99,
+        "text": " Okay. All right. Thank you, sir. I'll give him a shot, and I'll let you know."
+      },
+      {
+        "id": 34,
+        "start": 99,
+        "end": 100,
+        "text": " Thank you. Bye-bye now."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8158-aacb-df995fbe993c",
+    "url": "https://www.notion.so/300000001220545-300000001710610-2f611d0a101c8158aacbdf995fbe993c"
+  },
+  "processedAt": "2026-01-28T18:51:06.695Z"
+}

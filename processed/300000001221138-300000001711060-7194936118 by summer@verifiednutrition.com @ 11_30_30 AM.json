@@ -1,0 +1,146 @@
+{
+  "recording": {
+    "name": "300000001221138-300000001711060-7194936118 by summer@verifiednutrition.com @ 11_30_30 AM.wav",
+    "size": 122390,
+    "modifyTime": 1769628727000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001221138-300000001711060-7194936118 by summer@verifiednutrition.com @ 11_30_30 AM.wav",
+    "uploadDate": "2026-01-28T19:32:07.000Z",
+    "callId": "300000001221138-300000001711060",
+    "agent": "summer",
+    "phoneNumber": "7194936118",
+    "callTimestamp": "2026-01-28T11:30:30.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: My name is Donald Maslin and I ordered some pills I think a couple weeks ago and I wanted\n\nSpeaker 2: to know what the status was on them.\n\nSpeaker 1: Okay, um, what's your birthday and zip code?\n\nSpeaker 2: My birthday is 02-04-65 and the zip code is 80915.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: It shipped out late yesterday, like around 7:30 pm and then it's going to be delivered\n\nSpeaker 1: on Saturday.\n\nSpeaker 2: That's what it's showing.\n\nSpeaker 1: So why did it wait so long?\n\nSpeaker 2: I don't, I'm not sure.\n\nSpeaker 1: Two weeks?\n\nSpeaker 2: That's crazy.\n\nSpeaker 1: That has to do with the doctor.\n\nSpeaker 2: Oh, but they did ship it out?\n\nSpeaker 1: Yeah, they did ship it out.\n\nSpeaker 2: Okay.\n\nSpeaker 1: How does this one look?\n\nSpeaker 2: What's the status?\n\nSpeaker 1: Alright, thank you.\n\nSpeaker 2: You're welcome, bye-bye.",
+    "duration": 2869,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 10.479999542236328,
+        "text": " My name is Donald Maslin and I ordered some pills I think a couple weeks ago and I wanted"
+      },
+      {
+        "id": 1,
+        "start": 10.479999542236328,
+        "end": 13.84000015258789,
+        "text": " to know what the status was on them."
+      },
+      {
+        "id": 2,
+        "start": 13.84000015258789,
+        "end": 20.639999389648438,
+        "text": " Okay, um, what's your birthday and zip code?"
+      },
+      {
+        "id": 3,
+        "start": 20.639999389648438,
+        "end": 29.600000381469727,
+        "text": " My birthday is 02-04-65 and the zip code is 80915."
+      },
+      {
+        "id": 4,
+        "start": 29.600000381469727,
+        "end": 30.600000381469727,
+        "text": " Thank you."
+      },
+      {
+        "id": 5,
+        "start": 30.600000381469727,
+        "end": 37.63999938964844,
+        "text": " It shipped out late yesterday, like around 7.30pm and then it's going to be delivered"
+      },
+      {
+        "id": 6,
+        "start": 37.63999938964844,
+        "end": 38.63999938964844,
+        "text": " on Saturday."
+      },
+      {
+        "id": 7,
+        "start": 38.63999938964844,
+        "end": 39.63999938964844,
+        "text": " That's what it's showing."
+      },
+      {
+        "id": 8,
+        "start": 39.63999938964844,
+        "end": 41.63999938964844,
+        "text": " So why did it wait so long?"
+      },
+      {
+        "id": 9,
+        "start": 41.63999938964844,
+        "end": 44.63999938964844,
+        "text": " I don't, I'm not sure."
+      },
+      {
+        "id": 10,
+        "start": 44.63999938964844,
+        "end": 45.63999938964844,
+        "text": " Two weeks?"
+      },
+      {
+        "id": 11,
+        "start": 45.63999938964844,
+        "end": 46.63999938964844,
+        "text": " That's crazy."
+      },
+      {
+        "id": 12,
+        "start": 46.63999938964844,
+        "end": 49.63999938964844,
+        "text": " That has to do with the doctor."
+      },
+      {
+        "id": 13,
+        "start": 49.63999938964844,
+        "end": 54.63999938964844,
+        "text": " Oh, but they did ship it out?"
+      },
+      {
+        "id": 14,
+        "start": 54.63999938964844,
+        "end": 56.63999938964844,
+        "text": " Yeah, they did ship it out."
+      },
+      {
+        "id": 15,
+        "start": 56.63999938964844,
+        "end": 57.63999938964844,
+        "text": " Okay."
+      },
+      {
+        "id": 16,
+        "start": 57.68000030517578,
+        "end": 58.68000030517578,
+        "text": " How does this one look?"
+      },
+      {
+        "id": 17,
+        "start": 58.68000030517578,
+        "end": 59.68000030517578,
+        "text": " What's the status?"
+      },
+      {
+        "id": 18,
+        "start": 59.68000030517578,
+        "end": 60.68000030517578,
+        "text": " Alright, thank you."
+      },
+      {
+        "id": 19,
+        "start": 60.68000030517578,
+        "end": 61.68000030517578,
+        "text": " You're welcome, bye-bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-816d-ba1b-d92e02f47dd5",
+    "url": "https://www.notion.so/300000001221138-300000001711060-2f611d0a101c816dba1bd92e02f47dd5"
+  },
+  "processedAt": "2026-01-28T23:48:06.871Z"
+}

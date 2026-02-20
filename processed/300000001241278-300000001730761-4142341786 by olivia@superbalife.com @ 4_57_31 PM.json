@@ -1,0 +1,143 @@
+{
+  "recording": {
+    "name": "300000001241278-300000001730761-4142341786 by olivia@superbalife.com @ 4_57_31 PM.wav",
+    "size": 146636,
+    "modifyTime": 1770944348000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001241278-300000001730761-4142341786 by olivia@superbalife.com @ 4_57_31 PM.wav",
+    "uploadDate": "2026-02-13T00:59:08.000Z",
+    "callId": "300000001241278-300000001730761",
+    "agent": "olivia",
+    "phoneNumber": "4142341786",
+    "callTimestamp": "2026-02-13T16:57:31.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivia_300000001241278-300000001730761_4142341786.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_olivia_300000001241278-300000001730761_4142341786.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Your call has been forwarded to an automatic voice message system or 1-4-2-3-4-1-7-8-6.\n\nSpeaker 2: Is not available.\n\nSpeaker 1: At the tone, please record your message.\n\nSpeaker 2: When you have finished recording, you may hang up or press 1 for more options.\n\nSpeaker 1: Hi, Jeffrey.\n\nSpeaker 2: This is Olivia from ScoreBlue.\n\nSpeaker 1: You gave us a call and left me or us, you know, a voicemail.\n\nSpeaker 2: So you did, your prescription was canceled by me like a few days ago.\n\nSpeaker 1: But yeah, we processed that refund to you also a few days ago.\n\nSpeaker 2: But I think it's only been, what, let me pull up my phone.\n\nSpeaker 1: I think it's only been two business days since your refund was processed.\n\nSpeaker 2: So you should see it back soon, but that's just dependent, unfortunately, upon your bank,\n\nSpeaker 1: not us.\n\nSpeaker 2: But I can tell you that I'm looking at your refund right now.\n\nSpeaker 1: You don't have a prescription with us, and I did cancel your prescription for you.\n\nSpeaker 2: And I left extensive notes about our conversation.\n\nSpeaker 1: So yeah, you should see that refund soon, and you do not have a prescription with us.\n\nSpeaker 2: But yeah, I hope you have a great day.\n\nSpeaker 1: Thanks.",
+    "duration": 2917,
+    "audioDuration": 90.19999694824219,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8.359999656677246,
+        "text": " Your call has been forwarded to an automatic voice message system or 1-4-2-3-4-1-7-8-6"
+      },
+      {
+        "id": 1,
+        "start": 8.359999656677246,
+        "end": 9.359999656677246,
+        "text": " is not available."
+      },
+      {
+        "id": 2,
+        "start": 9.359999656677246,
+        "end": 12.920000076293945,
+        "text": " At the tone, please record your message."
+      },
+      {
+        "id": 3,
+        "start": 12.920000076293945,
+        "end": 17.280000686645508,
+        "text": " When you have finished recording, you may hang up or press 1 for more options."
+      },
+      {
+        "id": 4,
+        "start": 17.280000686645508,
+        "end": 19,
+        "text": " Hi, Jeffrey."
+      },
+      {
+        "id": 5,
+        "start": 19,
+        "end": 23.479999542236328,
+        "text": " This is Olivia from ScoreBlue."
+      },
+      {
+        "id": 6,
+        "start": 23.479999542236328,
+        "end": 28.719999313354492,
+        "text": " You gave us a call and left me or us, you know, a voicemail."
+      },
+      {
+        "id": 7,
+        "start": 28.719999313354492,
+        "end": 36.15999984741211,
+        "text": " So you did, your prescription was canceled by me like a few days ago."
+      },
+      {
+        "id": 8,
+        "start": 36.15999984741211,
+        "end": 42.720001220703125,
+        "text": " But yeah, we processed that refund to you also a few days ago."
+      },
+      {
+        "id": 9,
+        "start": 42.720001220703125,
+        "end": 48.2400016784668,
+        "text": " But I think it's only been, what, let me pull up my phone."
+      },
+      {
+        "id": 10,
+        "start": 48.2400016784668,
+        "end": 53.08000183105469,
+        "text": " I think it's only been two business days since your refund was processed."
+      },
+      {
+        "id": 11,
+        "start": 53.08000183105469,
+        "end": 59.36000061035156,
+        "text": " So you should see it back soon, but that's just dependent, unfortunately, upon your bank,"
+      },
+      {
+        "id": 12,
+        "start": 59.36000061035156,
+        "end": 60.36000061035156,
+        "text": " not us."
+      },
+      {
+        "id": 13,
+        "start": 60.36000061035156,
+        "end": 66,
+        "text": " But I can tell you that I'm looking at your refund right now."
+      },
+      {
+        "id": 14,
+        "start": 66,
+        "end": 72.91999816894531,
+        "text": " You don't have a prescription with us, and I did cancel your prescription for you."
+      },
+      {
+        "id": 15,
+        "start": 72.91999816894531,
+        "end": 77.72000122070312,
+        "text": " And I left extensive notes about our conversation."
+      },
+      {
+        "id": 16,
+        "start": 77.72000122070312,
+        "end": 84.04000091552734,
+        "text": " So yeah, you should see that refund soon, and you do not have a prescription with us."
+      },
+      {
+        "id": 17,
+        "start": 84.04000091552734,
+        "end": 86.72000122070312,
+        "text": " But yeah, I hope you have a great day."
+      },
+      {
+        "id": 18,
+        "start": 86.72000122070312,
+        "end": 87.23999786376953,
+        "text": " Thanks."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-813f-9ac3-dcbc24dfedbb",
+    "url": "https://www.notion.so/300000001241278-300000001730761-30611d0a101c813f9ac3dcbc24dfedbb"
+  },
+  "processedAt": "2026-02-13T01:01:42.333Z"
+}

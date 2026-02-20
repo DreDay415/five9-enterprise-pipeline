@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "name": "300000001220534-300000001710609-8887955826 by nickh@superbalife.com @ 8_46_40 AM.wav",
+    "size": 7926,
+    "modifyTime": 1769618823000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220534-300000001710609-8887955826 by nickh@superbalife.com @ 8_46_40 AM.wav",
+    "uploadDate": "2026-01-28T16:47:03.000Z",
+    "callId": "300000001220534-300000001710609",
+    "agent": "nickh",
+    "phoneNumber": "8887955826",
+    "callTimestamp": "2026-01-28T08:46:40.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thank you for calling Viagra at ScoreBlue. How can I help you today?",
+    "duration": 1289,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4.800000190734863,
+        "text": " Thank you for calling Viagra at ScoreBlue. How can I help you today?"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-8175-84f9-fc217b2fbe97",
+    "url": "https://www.notion.so/300000001220534-300000001710609-2f611d0a101c817584f9fc217b2fbe97"
+  },
+  "processedAt": "2026-01-28T18:51:54.262Z"
+}

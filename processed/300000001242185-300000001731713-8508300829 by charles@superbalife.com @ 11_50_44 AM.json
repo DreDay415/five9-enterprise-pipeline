@@ -1,0 +1,233 @@
+{
+  "recording": {
+    "name": "300000001242185-300000001731713-8508300829 by charles@superbalife.com @ 11_50_44 AM.wav",
+    "size": 173806,
+    "modifyTime": 1771012372000,
+    "remotePath": "/five9sftp/upload/SB CS/2_13_2026/300000001242185-300000001731713-8508300829 by charles@superbalife.com @ 11_50_44 AM.wav",
+    "uploadDate": "2026-02-13T19:52:52.000Z",
+    "callId": "300000001242185-300000001731713",
+    "agent": "charles",
+    "phoneNumber": "8508300829",
+    "callTimestamp": "2026-02-13T11:50:44.000Z",
+    "campaign": "test one",
+    "audioUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_charles_300000001242185-300000001731713_8508300829.wav",
+    "transcriptUrl": "https://sfo3.digitaloceanspaces.com/spaces-bucket/five9-recordings/2026-02-13_charles_300000001242185-300000001731713_8508300829.txt"
+  },
+  "transcription": {
+    "text": "Speaker 1: Thanks for calling Viagra. This is Charles.\n\nSpeaker 2: Yes, I need to cancel my prescription.\n\nSpeaker 1: Eugene McLean in Mary Esther, Florida?\n\nSpeaker 2: Yes.\n\nSpeaker 1: All right. All right, Eugene, it does look like you are a VIP member here.\n\nSpeaker 2: Are you just overstocked and don't need the pills as often as every month?\n\nSpeaker 1: No, they're just not working for me.\n\nSpeaker 2: They didn't?\n\nSpeaker 1: They're just not working.\n\nSpeaker 2: I've got prostate cancer and I guess I'm just too far gone.\n\nSpeaker 1: It should be working. We are with Pfizer.\n\nSpeaker 2: Damn it. Okay. That's unfortunate, brother.\n\nSpeaker 1: If you are still interested in seeing if we can provide anything for you\n\nSpeaker 2: to give you that kick that you're looking for, Eugene,\n\nSpeaker 1: I can message my pharmacy and have them send out a different version.\n\nSpeaker 2: It's a Viagra AGB that's made in our France factory from Pfizer.\n\nSpeaker 1: I can send you ten free pills as a sample,\n\nSpeaker 2: and if these pills give you the kick that you're looking for,\n\nSpeaker 1: call us back and let us know.\n\nSpeaker 2: I'll give you like four months to try them out and call us back\n\nSpeaker 1: and let us know what the deal is and work out a better refill schedule for you\n\nSpeaker 2: if you like it.\n\nSpeaker 1: Sure. Yeah, I can try that.\n\nSpeaker 2: Okay.\n\nSpeaker 1: The pills that you're going to be looking for,\n\nSpeaker 2: we'll have the number 100 pressed onto them.\n\nSpeaker 1: That's how you're able to spot the difference.\n\nSpeaker 2: So try them out, and then my extension is 0040\n\nSpeaker 1: if you ever want to get a hold of me again.\n\nSpeaker 2: Okay. I'll reach out now. 0040.\n\nSpeaker 1: Yes, sir.\n\nSpeaker 2: All right. I'll do it. I appreciate it.\n\nSpeaker 1: Yes, sir. All right, Eugene. Happy Valentine's Day.\n\nSpeaker 2: I hope you have a great weekend.\n\nSpeaker 1: Thank you.\n\nSpeaker 2: Take care.\n\nSpeaker 1: Bye.",
+    "duration": 4044,
+    "audioDuration": 106.91999816894531,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8,
+        "text": " Thanks for calling Viagra. This is Charles. Yes, I need to cancel my prescription."
+      },
+      {
+        "id": 1,
+        "start": 8,
+        "end": 14,
+        "text": " Eugene McLean in Mary Esther, Florida? Yes."
+      },
+      {
+        "id": 2,
+        "start": 14,
+        "end": 20,
+        "text": " All right. All right, Eugene, it does look like you are a VIP member here."
+      },
+      {
+        "id": 3,
+        "start": 20,
+        "end": 24,
+        "text": " Are you just overstocked and don't need the pills as often as every month?"
+      },
+      {
+        "id": 4,
+        "start": 24,
+        "end": 28,
+        "text": " No, they're just not working for me. They didn't?"
+      },
+      {
+        "id": 5,
+        "start": 28,
+        "end": 32,
+        "text": " I've got prostate cancer and I guess I'm just too far gone."
+      },
+      {
+        "id": 6,
+        "start": 32,
+        "end": 34,
+        "text": " They're just not working."
+      },
+      {
+        "id": 7,
+        "start": 34,
+        "end": 37,
+        "text": " Damn it. Okay. That's unfortunate, brother."
+      },
+      {
+        "id": 8,
+        "start": 37,
+        "end": 40,
+        "text": " It should be working. We are with Pfizer."
+      },
+      {
+        "id": 9,
+        "start": 40,
+        "end": 44,
+        "text": " If you are still interested in seeing if we can provide anything for you"
+      },
+      {
+        "id": 10,
+        "start": 44,
+        "end": 47,
+        "text": " to give you that kick that you're looking for, Eugene,"
+      },
+      {
+        "id": 11,
+        "start": 47,
+        "end": 52,
+        "text": " I can message my pharmacy and have them send out a different version."
+      },
+      {
+        "id": 12,
+        "start": 52,
+        "end": 58,
+        "text": " It's a Viagra AGB that's made in our France factory from Pfizer."
+      },
+      {
+        "id": 13,
+        "start": 58,
+        "end": 60,
+        "text": " I can send you ten free pills as a sample,"
+      },
+      {
+        "id": 14,
+        "start": 60,
+        "end": 63,
+        "text": " and if these pills give you the kick that you're looking for,"
+      },
+      {
+        "id": 15,
+        "start": 63,
+        "end": 65,
+        "text": " call us back and let us know."
+      },
+      {
+        "id": 16,
+        "start": 65,
+        "end": 67,
+        "text": " I'll give you like four months to try them out and call us back"
+      },
+      {
+        "id": 17,
+        "start": 67,
+        "end": 71,
+        "text": " and let us know what the deal is and work out a better refill schedule for you"
+      },
+      {
+        "id": 18,
+        "start": 71,
+        "end": 73,
+        "text": " if you like it."
+      },
+      {
+        "id": 19,
+        "start": 73,
+        "end": 75,
+        "text": " Sure. Yeah, I can try that."
+      },
+      {
+        "id": 20,
+        "start": 75,
+        "end": 79,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 79,
+        "end": 81,
+        "text": " Okay, the pills that you're going to be looking for,"
+      },
+      {
+        "id": 22,
+        "start": 81,
+        "end": 83,
+        "text": " we'll have the number 100 pressed onto them."
+      },
+      {
+        "id": 23,
+        "start": 83,
+        "end": 85,
+        "text": " That's how you're able to spot the difference."
+      },
+      {
+        "id": 24,
+        "start": 85,
+        "end": 89,
+        "text": " So try them out, and then my extension is 0040"
+      },
+      {
+        "id": 25,
+        "start": 89,
+        "end": 92,
+        "text": " if you ever want to get a hold of me again."
+      },
+      {
+        "id": 26,
+        "start": 92,
+        "end": 96,
+        "text": " Okay. I'll reach out now. 0040."
+      },
+      {
+        "id": 27,
+        "start": 96,
+        "end": 97,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 28,
+        "start": 97,
+        "end": 99,
+        "text": " All right. I'll do it. I appreciate it."
+      },
+      {
+        "id": 29,
+        "start": 99,
+        "end": 101,
+        "text": " Yes, sir. All right, Eugene. Happy Valentine's Day."
+      },
+      {
+        "id": 30,
+        "start": 101,
+        "end": 103,
+        "text": " I hope you have a great weekend."
+      },
+      {
+        "id": 31,
+        "start": 103,
+        "end": 104,
+        "text": " Thank you."
+      },
+      {
+        "id": 32,
+        "start": 104,
+        "end": 105,
+        "text": " Take care."
+      },
+      {
+        "id": 33,
+        "start": 105,
+        "end": 106,
+        "text": " Bye."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30611d0a-101c-8133-8f7c-f8dd0fcc52e8",
+    "url": "https://www.notion.so/300000001242185-300000001731713-30611d0a101c81338f7cf8dd0fcc52e8"
+  },
+  "processedAt": "2026-02-13T20:05:34.736Z"
+}

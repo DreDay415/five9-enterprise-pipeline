@@ -1,0 +1,140 @@
+{
+  "recording": {
+    "name": "300000001220915-300000001710922-7047565886 by nickh@superbalife.com @ 10_33_46 AM.wav",
+    "size": 104710,
+    "modifyTime": 1769625309000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220915-300000001710922-7047565886 by nickh@superbalife.com @ 10_33_46 AM.wav",
+    "uploadDate": "2026-01-28T18:35:09.000Z",
+    "callId": "300000001220915-300000001710922",
+    "agent": "nickh",
+    "phoneNumber": "7047565886",
+    "callTimestamp": "2026-01-28T10:33:46.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi. Thank you so much for calling Viagra. I score blue. How can I help you today?\n\nSpeaker 2: Hi. I'd like to cancel my husband's prescription.\n\nSpeaker 1: Of course, miss. I can help you with that. Sure, sure. Happy to help.\n\nSpeaker 2: Could I just get the full name and date of birth under the prescription?\n\nSpeaker 1: David Sparks, November 4, 1947.\n\nSpeaker 2: Thank you, miss Sparks. Now, is David there with you?\n\nSpeaker 1: No, he's at work.\n\nSpeaker 2: Okay. So, I know it's a little bit of an inconvenience,\n\nSpeaker 1: but HIPAA laws require us to get verbal confirmation from the patient\n\nSpeaker 2: for any adjustments for family or anyone else.\n\nSpeaker 1: So, I can walk you through the prescription.\n\nSpeaker 2: I can let you know your options and things like that,\n\nSpeaker 1: given that you've given me the confirmation information.\n\nSpeaker 2: No, he just wants to cancel it. He just wants to cancel it.\n\nSpeaker 1: Okay. Okay. So, in order to cancel it,\n\nSpeaker 2: I just need you to call back with David present to give us verbal confirmation,\n\nSpeaker 1: or I need David to call.\n\nSpeaker 2: Okay. Thank you.\n\nSpeaker 1: Okay. I'm sorry, miss Sparks.",
+    "duration": 3795,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 4,
+        "text": " Hi. Thank you so much for calling Viagra. I score blue. How can I help you today?"
+      },
+      {
+        "id": 1,
+        "start": 4,
+        "end": 9,
+        "text": " Hi. I'd like to cancel my husband's prescription."
+      },
+      {
+        "id": 2,
+        "start": 9,
+        "end": 14,
+        "text": " Of course, miss. I can help you with that. Sure, sure. Happy to help."
+      },
+      {
+        "id": 3,
+        "start": 14,
+        "end": 17,
+        "text": " Could I just get the full name and date of birth under the prescription?"
+      },
+      {
+        "id": 4,
+        "start": 17,
+        "end": 23,
+        "text": " David Sparks, November 4, 1947."
+      },
+      {
+        "id": 5,
+        "start": 23,
+        "end": 27,
+        "text": " Thank you, miss Sparks. Now, is David there with you?"
+      },
+      {
+        "id": 6,
+        "start": 27,
+        "end": 29,
+        "text": " No, he's at work."
+      },
+      {
+        "id": 7,
+        "start": 29,
+        "end": 33,
+        "text": " Okay. So, I know it's a little bit of an inconvenience,"
+      },
+      {
+        "id": 8,
+        "start": 33,
+        "end": 37,
+        "text": " but HIPAA laws require us to get verbal confirmation from the patient"
+      },
+      {
+        "id": 9,
+        "start": 37,
+        "end": 42,
+        "text": " for any adjustments for family or anyone else."
+      },
+      {
+        "id": 10,
+        "start": 42,
+        "end": 46,
+        "text": " So, I can walk you through the prescription."
+      },
+      {
+        "id": 11,
+        "start": 46,
+        "end": 48,
+        "text": " I can let you know your options and things like that,"
+      },
+      {
+        "id": 12,
+        "start": 48,
+        "end": 50,
+        "text": " given that you've given me the confirmation information."
+      },
+      {
+        "id": 13,
+        "start": 50,
+        "end": 52,
+        "text": " No, he just wants to cancel it. He just wants to cancel it."
+      },
+      {
+        "id": 14,
+        "start": 52,
+        "end": 55,
+        "text": " Okay. Okay. So, in order to cancel it,"
+      },
+      {
+        "id": 15,
+        "start": 55,
+        "end": 59,
+        "text": " I just need you to call back with David present to give us verbal confirmation,"
+      },
+      {
+        "id": 16,
+        "start": 59,
+        "end": 61,
+        "text": " or I need David to call."
+      },
+      {
+        "id": 17,
+        "start": 61,
+        "end": 62,
+        "text": " Okay. Thank you."
+      },
+      {
+        "id": 18,
+        "start": 62,
+        "end": 64,
+        "text": " Okay. I'm sorry, miss Sparks."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f711d0a-101c-8128-a0e4-cf7f3b899ef4",
+    "url": "https://www.notion.so/300000001220915-300000001710922-2f711d0a101c8128a0e4cf7f3b899ef4"
+  },
+  "processedAt": "2026-01-29T00:14:44.708Z"
+}

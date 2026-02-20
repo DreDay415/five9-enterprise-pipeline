@@ -1,0 +1,32 @@
+{
+  "recording": {
+    "name": "300000001193249-300000001681498-7733986619 by jessie@superbalife.com @ 3_15_59 PM.wav",
+    "size": 19690,
+    "modifyTime": 1767741397000,
+    "remotePath": "/five9sftp/recordings/Vasozyte Sales/1_6_2026/300000001193249-300000001681498-7733986619 by jessie@superbalife.com @ 3_15_59 PM.wav"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, thank you so much for calling BASIS. My name is Jessie. Could I get your first and last name?\n\nSpeaker 2: Hello.",
+    "duration": 692,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 8,
+        "text": " Hi, thank you so much for calling BASIS. My name is Jessie. Could I get your first and last name?"
+      },
+      {
+        "id": 1,
+        "start": 8,
+        "end": 12,
+        "text": " Hello."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f411d0a-101c-813b-a9c0-c70272f63247",
+    "url": "https://www.notion.so/300000001193249-300000001681498-2f411d0a101c813ba9c0c70272f63247"
+  },
+  "processedAt": "2026-01-26T20:41:02.255Z"
+}

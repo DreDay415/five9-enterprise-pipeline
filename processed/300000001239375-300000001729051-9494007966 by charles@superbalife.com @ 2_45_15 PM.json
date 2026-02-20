@@ -1,0 +1,170 @@
+{
+  "recording": {
+    "name": "300000001239375-300000001729051-9494007966 by charles@superbalife.com @ 2_45_15 PM.wav",
+    "size": 87746,
+    "modifyTime": 1770849990000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239375-300000001729051-9494007966 by charles@superbalife.com @ 2_45_15 PM.wav",
+    "uploadDate": "2026-02-11T22:46:30.000Z",
+    "callId": "300000001239375-300000001729051",
+    "agent": "charles",
+    "phoneNumber": "9494007966",
+    "callTimestamp": "2026-02-11T14:45:15.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Dr. Ganim, I received a charge for, I guess, I'm on a subscription I wasn't aware of, and\n\nSpeaker 2: I'm trying to cancel that subscription, please, and get funding funded.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Newport Beach, California, right?\n\nSpeaker 1: Correct.\n\nSpeaker 2: Gotcha.\n\nSpeaker 1: Okay.\n\nSpeaker 2: Just not ready for any refills at the moment, doctor?\n\nSpeaker 1: No.\n\nSpeaker 2: I'm choosing between this and to the outfill, so I'm going to ask that you just cancel this,\n\nSpeaker 1: and if I want to start it again, I will.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Understood.\n\nSpeaker 2: Okay.\n\nSpeaker 1: So, can I count on you canceling the subscription?\n\nSpeaker 2: Say it again?\n\nSpeaker 1: I say you should be getting the funds back, and everything is canceled from here on out.\n\nSpeaker 2: Wonderful.\n\nSpeaker 1: All right.\n\nSpeaker 2: Thanks, man.\n\nSpeaker 1: I appreciate it.\n\nSpeaker 2: Bye-bye.\n\nSpeaker 1: Yes, sir.",
+    "duration": 2002,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 17.799999237060547,
+        "text": " Dr. Ganim, I received a charge for, I guess, I'm on a subscription I wasn't aware of, and"
+      },
+      {
+        "id": 1,
+        "start": 17.799999237060547,
+        "end": 21.399999618530273,
+        "text": " I'm trying to cancel that subscription, please, and get funding funded."
+      },
+      {
+        "id": 2,
+        "start": 21.399999618530273,
+        "end": 22.399999618530273,
+        "text": " Okay."
+      },
+      {
+        "id": 3,
+        "start": 22.399999618530273,
+        "end": 23.399999618530273,
+        "text": " Newport Beach, California, right?"
+      },
+      {
+        "id": 4,
+        "start": 23.399999618530273,
+        "end": 24.399999618530273,
+        "text": " Correct."
+      },
+      {
+        "id": 5,
+        "start": 24.399999618530273,
+        "end": 25.399999618530273,
+        "text": " Gotcha."
+      },
+      {
+        "id": 6,
+        "start": 25.399999618530273,
+        "end": 26.399999618530273,
+        "text": " Okay."
+      },
+      {
+        "id": 7,
+        "start": 26.399999618530273,
+        "end": 29.399999618530273,
+        "text": " Just not ready for any refills at the moment, doctor?"
+      },
+      {
+        "id": 8,
+        "start": 29.399999618530273,
+        "end": 30.399999618530273,
+        "text": " No."
+      },
+      {
+        "id": 9,
+        "start": 30.399999618530273,
+        "end": 35.720001220703125,
+        "text": " I'm choosing between this and to the outfill, so I'm going to ask that you just cancel this,"
+      },
+      {
+        "id": 10,
+        "start": 35.720001220703125,
+        "end": 38.720001220703125,
+        "text": " and if I want to start it again, I will."
+      },
+      {
+        "id": 11,
+        "start": 38.720001220703125,
+        "end": 39.720001220703125,
+        "text": " Okay."
+      },
+      {
+        "id": 12,
+        "start": 39.720001220703125,
+        "end": 40.720001220703125,
+        "text": " Understood."
+      },
+      {
+        "id": 13,
+        "start": 40.720001220703125,
+        "end": 41.720001220703125,
+        "text": " Okay."
+      },
+      {
+        "id": 14,
+        "start": 41.720001220703125,
+        "end": 42.720001220703125,
+        "text": " So, can I count on you canceling the subscription?"
+      },
+      {
+        "id": 15,
+        "start": 42.720001220703125,
+        "end": 43.720001220703125,
+        "text": " Say it again?"
+      },
+      {
+        "id": 16,
+        "start": 43.720001220703125,
+        "end": 48.720001220703125,
+        "text": " I say you should be getting the funds back, and everything is canceled from here on out."
+      },
+      {
+        "id": 17,
+        "start": 48.720001220703125,
+        "end": 49.720001220703125,
+        "text": " Wonderful."
+      },
+      {
+        "id": 18,
+        "start": 49.720001220703125,
+        "end": 50.720001220703125,
+        "text": " All right."
+      },
+      {
+        "id": 19,
+        "start": 50.720001220703125,
+        "end": 51.720001220703125,
+        "text": " Thanks, man."
+      },
+      {
+        "id": 20,
+        "start": 51.720001220703125,
+        "end": 52.720001220703125,
+        "text": " I appreciate it."
+      },
+      {
+        "id": 21,
+        "start": 52.720001220703125,
+        "end": 53.720001220703125,
+        "text": " Bye-bye."
+      },
+      {
+        "id": 22,
+        "start": 53.720001220703125,
+        "end": 54.720001220703125,
+        "text": " Yes, sir."
+      },
+      {
+        "id": 23,
+        "start": 54.720001220703125,
+        "end": 54.720001220703125,
+        "text": ""
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-81b5-8b85-fc026e008487",
+    "url": "https://www.notion.so/300000001239375-300000001729051-30411d0a101c81b58b85fc026e008487"
+  },
+  "processedAt": "2026-02-11T23:06:46.685Z"
+}

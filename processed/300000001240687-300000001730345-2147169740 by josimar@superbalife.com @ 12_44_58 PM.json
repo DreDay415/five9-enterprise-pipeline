@@ -1,0 +1,387 @@
+{
+  "recording": {
+    "name": "300000001240687-300000001730345-2147169740 by josimar@superbalife.com @ 12_44_58 PM.wav",
+    "size": 382520,
+    "modifyTime": 1770929340000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240687-300000001730345-2147169740 by josimar@superbalife.com @ 12_44_58 PM.wav",
+    "uploadDate": "2026-02-12T20:49:00.000Z",
+    "callId": "300000001240687-300000001730345",
+    "agent": "josimar",
+    "phoneNumber": "2147169740",
+    "callTimestamp": "2026-02-12T12:44:58.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Biagra, I can help you today.\n\nSpeaker 2: Yes, my name is Jose Robles.\n\nSpeaker 1: I had an order before.\n\nSpeaker 2: And what I was ordering was the AVG, the new weather,\n\nSpeaker 1: and all I got was the generic stuff.\n\nSpeaker 2: Got it.\n\nSpeaker 1: Let me take a look into your account to see what's going on.\n\nSpeaker 2: What's your last name and a zip code?\n\nSpeaker 1: My last name is Robles, R-O-B-L-E-S.\n\nSpeaker 2: My zip code is 75041.\n\nSpeaker 1: OK, one moment.\n\nSpeaker 2: OK, and then can you verify for me\n\nSpeaker 1: what the marking on the pill says on the ones you got?\n\nSpeaker 2: Wait, the marking means it's generic Biagra.\n\nSpeaker 1: No, no, so I'll repeat it one more time.\n\nSpeaker 2: The marking on the pill.\n\nSpeaker 1: The marking on the pill?\n\nSpeaker 2: I don't have it on me right now.\n\nSpeaker 1: I cannot reach it.\n\nSpeaker 2: Yeah, I need to know what the marking says\n\nSpeaker 1: to then confirm if the pharmacy made a mistake or not.\n\nSpeaker 2: OK, let me put you on hold for a minute, OK?\n\nSpeaker 1: Sure, I can't hold too long though,\n\nSpeaker 2: so if you please let me know if you can make it quick,\n\nSpeaker 1: that'd be appreciated.\n\nSpeaker 2: OK, all right.\n\nSpeaker 1: I'm going to take one now.\n\nSpeaker 2: OK, so you know that it's not long after.\n\nSpeaker 1: The one other thing I was going to say,\n\nSpeaker 2: I couldn't hear a word that you were saying.\n\nSpeaker 1: OK, good job.\n\nSpeaker 2: OK.\n\nSpeaker 1: So, I'm going to look at the next one.\n\nSpeaker 2: OK, so I'm going to go to the next one.\n\nSpeaker 1: So, you know that it's not long after.\n\nSpeaker 2: The one other thing I was going to say,\n\nSpeaker 1: I couldn't hear a word that you were saying.\n\nSpeaker 2: So, I'm going to look at the next one.\n\nSpeaker 1: Yes, that's a little ahead.\n\nSpeaker 2: We'll make it work now.\n\nSpeaker 1: OK.\n\nSpeaker 2: Do you know?\n\nSpeaker 1: We didn't.\n\nSpeaker 2: OK.\n\nSpeaker 1: Well, OK.\n\nSpeaker 2: I think it's about time.\n\nSpeaker 1: So, we are up here.\n\nSpeaker 2: Well, it is the end of the program.\n\nSpeaker 1: So let's go.\n\nSpeaker 2: OK.\n\nSpeaker 1: Other questions?\n\nSpeaker 2: Yes.\n\nSpeaker 1: Hi.\n\nSpeaker 2: How did you get to Austin?\n\nSpeaker 1: Taking short courses here?\n\nSpeaker 2: Can I have that written down for me?\n\nSpeaker 1: Yes.\n\nSpeaker 2: All right.\n\nSpeaker 1: So.\n\nSpeaker 2: What brings you here?",
+    "duration": 41269,
+    "audioDuration": 235.36000061035156,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3.1600000858306885,
+        "text": " Biagra, I can help you today."
+      },
+      {
+        "id": 1,
+        "start": 3.1600000858306885,
+        "end": 6.119999885559082,
+        "text": " Yes, my name is Jose Robles."
+      },
+      {
+        "id": 2,
+        "start": 6.119999885559082,
+        "end": 7.639999866485596,
+        "text": " I had an order before."
+      },
+      {
+        "id": 3,
+        "start": 7.639999866485596,
+        "end": 14.319999694824219,
+        "text": " And what I was ordering was the AVG, the new weather,"
+      },
+      {
+        "id": 4,
+        "start": 14.319999694824219,
+        "end": 17.600000381469727,
+        "text": " and all I got was the genetic stuff."
+      },
+      {
+        "id": 5,
+        "start": 17.600000381469727,
+        "end": 18.1200008392334,
+        "text": " Got it."
+      },
+      {
+        "id": 6,
+        "start": 18.1200008392334,
+        "end": 20.479999542236328,
+        "text": " Let me take a look into your account to see what's going on."
+      },
+      {
+        "id": 7,
+        "start": 20.479999542236328,
+        "end": 22.040000915527344,
+        "text": " What's your last name and a zip code?"
+      },
+      {
+        "id": 8,
+        "start": 26,
+        "end": 29.8799991607666,
+        "text": " My last name is Robles, R-O-B-L-E-S."
+      },
+      {
+        "id": 9,
+        "start": 29.8799991607666,
+        "end": 33.119998931884766,
+        "text": " My zip code is 75041."
+      },
+      {
+        "id": 10,
+        "start": 33.119998931884766,
+        "end": 33.79999923706055,
+        "text": " OK, one moment."
+      },
+      {
+        "id": 11,
+        "start": 41.52000045776367,
+        "end": 43.880001068115234,
+        "text": " OK, and then can you verify for me"
+      },
+      {
+        "id": 12,
+        "start": 43.880001068115234,
+        "end": 48.84000015258789,
+        "text": " what the marking on the pill says on the ones you got?"
+      },
+      {
+        "id": 13,
+        "start": 48.84000015258789,
+        "end": 52.2400016784668,
+        "text": " Wait, the marking means it's genetic Biagra."
+      },
+      {
+        "id": 14,
+        "start": 52.2400016784668,
+        "end": 54,
+        "text": " No, no, so I'll repeat it one more time."
+      },
+      {
+        "id": 15,
+        "start": 54,
+        "end": 57.2400016784668,
+        "text": " The marking on the pill."
+      },
+      {
+        "id": 16,
+        "start": 57.2400016784668,
+        "end": 59.279998779296875,
+        "text": " The marking on the pill?"
+      },
+      {
+        "id": 17,
+        "start": 60.279998779296875,
+        "end": 63.47999954223633,
+        "text": " I don't have it on me right now."
+      },
+      {
+        "id": 18,
+        "start": 63.47999954223633,
+        "end": 65.80000305175781,
+        "text": " I cannot reach it."
+      },
+      {
+        "id": 19,
+        "start": 65.80000305175781,
+        "end": 67.63999938964844,
+        "text": " Yeah, I need to know what the marking says"
+      },
+      {
+        "id": 20,
+        "start": 67.63999938964844,
+        "end": 72.27999877929688,
+        "text": " to then confirm if the pharmacy made a mistake or not."
+      },
+      {
+        "id": 21,
+        "start": 72.27999877929688,
+        "end": 75.19999694824219,
+        "text": " OK, let me put you on hold for a minute, OK?"
+      },
+      {
+        "id": 22,
+        "start": 75.19999694824219,
+        "end": 76.68000030517578,
+        "text": " Sure, I can't hold too long though,"
+      },
+      {
+        "id": 23,
+        "start": 76.68000030517578,
+        "end": 78.12000274658203,
+        "text": " so if you please let me know if you can make it quick,"
+      },
+      {
+        "id": 24,
+        "start": 78.12000274658203,
+        "end": 79.4000015258789,
+        "text": " that'd be appreciated."
+      },
+      {
+        "id": 25,
+        "start": 79.4000015258789,
+        "end": 80.87999725341797,
+        "text": " OK, all right."
+      },
+      {
+        "id": 26,
+        "start": 80.87999725341797,
+        "end": 81.95999908447266,
+        "text": " I'm going to take one now."
+      },
+      {
+        "id": 27,
+        "start": 90.08000183105469,
+        "end": 93.95999908447266,
+        "text": " OK, so you know that it's not long after."
+      },
+      {
+        "id": 28,
+        "start": 93.95999908447266,
+        "end": 97.4800033569336,
+        "text": " The one other thing I was going to say,"
+      },
+      {
+        "id": 29,
+        "start": 97.4800033569336,
+        "end": 99.4800033569336,
+        "text": " I couldn't hear a word that you were saying."
+      },
+      {
+        "id": 30,
+        "start": 149.60000610351562,
+        "end": 151.60000610351562,
+        "text": " OK, good job."
+      },
+      {
+        "id": 31,
+        "start": 151.60000610351562,
+        "end": 153.60000610351562,
+        "text": " OK."
+      },
+      {
+        "id": 32,
+        "start": 153.60000610351562,
+        "end": 157.60000610351562,
+        "text": " So, I'm going to look at the next one."
+      },
+      {
+        "id": 33,
+        "start": 157.60000610351562,
+        "end": 160.60000610351562,
+        "text": " OK, so I'm going to go to the next one."
+      },
+      {
+        "id": 34,
+        "start": 164.60000610351562,
+        "end": 166.60000610351562,
+        "text": " So, you know that it's not long after."
+      },
+      {
+        "id": 35,
+        "start": 166.60000610351562,
+        "end": 169.0800018310547,
+        "text": " The one other thing I was going to say,"
+      },
+      {
+        "id": 36,
+        "start": 169.0800018310547,
+        "end": 171.60000610351562,
+        "text": " I couldn't hear a word that you were saying."
+      },
+      {
+        "id": 37,
+        "start": 171.60000610351562,
+        "end": 175.60000610351562,
+        "text": " So, I'm going to look at the next one."
+      },
+      {
+        "id": 38,
+        "start": 175.60000610351562,
+        "end": 181.0800018310547,
+        "text": " Yes, that's a little ahead."
+      },
+      {
+        "id": 39,
+        "start": 181.0800018310547,
+        "end": 183.0800018310547,
+        "text": " We'll make it work now."
+      },
+      {
+        "id": 40,
+        "start": 183.0800018310547,
+        "end": 184.05999755859375,
+        "text": " OK."
+      },
+      {
+        "id": 41,
+        "start": 184.05999755859375,
+        "end": 185.05999755859375,
+        "text": " Do you know?"
+      },
+      {
+        "id": 42,
+        "start": 185.05999755859375,
+        "end": 186.05999755859375,
+        "text": " We didn't."
+      },
+      {
+        "id": 43,
+        "start": 186.52000427246094,
+        "end": 188.5,
+        "text": " OK."
+      },
+      {
+        "id": 44,
+        "start": 190.22000122070312,
+        "end": 190.72000122070312,
+        "text": " Well, OK."
+      },
+      {
+        "id": 45,
+        "start": 190.72000122070312,
+        "end": 193.47999572753906,
+        "text": " I think it's about time."
+      },
+      {
+        "id": 46,
+        "start": 193.47999572753906,
+        "end": 196.27999877929688,
+        "text": " So, we are up here."
+      },
+      {
+        "id": 47,
+        "start": 196.27999877929688,
+        "end": 202.4600067138672,
+        "text": " Well, it is the end of the program."
+      },
+      {
+        "id": 48,
+        "start": 202.4600067138672,
+        "end": 203.4600067138672,
+        "text": " So let's go."
+      },
+      {
+        "id": 49,
+        "start": 204.10000610351562,
+        "end": 205.94000244140625,
+        "text": " OK."
+      },
+      {
+        "id": 50,
+        "start": 209.6199951171875,
+        "end": 211,
+        "text": " Other questions?"
+      },
+      {
+        "id": 51,
+        "start": 211.39999389648438,
+        "end": 212.10000610351562,
+        "text": " Yes."
+      },
+      {
+        "id": 52,
+        "start": 212.10000610351562,
+        "end": 212.63999938964844,
+        "text": " Hi."
+      },
+      {
+        "id": 53,
+        "start": 215.44000244140625,
+        "end": 218.94000244140625,
+        "text": " How did you get to Austin?"
+      },
+      {
+        "id": 54,
+        "start": 219.27999877929688,
+        "end": 221.83999633789062,
+        "text": " Taking short courses here?"
+      },
+      {
+        "id": 55,
+        "start": 221.83999633789062,
+        "end": 222.9600067138672,
+        "text": " Can I have that written down for me?"
+      },
+      {
+        "id": 56,
+        "start": 223.52000427246094,
+        "end": 224.1999969482422,
+        "text": " Yes."
+      },
+      {
+        "id": 57,
+        "start": 225.13999938964844,
+        "end": 226.1199951171875,
+        "text": " All right."
+      },
+      {
+        "id": 58,
+        "start": 226.1199951171875,
+        "end": 226.60000610351562,
+        "text": " So."
+      },
+      {
+        "id": 59,
+        "start": 227.60000610351562,
+        "end": 230.16000366210938,
+        "text": " What brings you here?"
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81cf-9980-ead9ca9c1ccb",
+    "url": "https://www.notion.so/300000001240687-300000001730345-30511d0a101c81cf9980ead9ca9c1ccb"
+  },
+  "processedAt": "2026-02-12T21:08:19.206Z"
+}

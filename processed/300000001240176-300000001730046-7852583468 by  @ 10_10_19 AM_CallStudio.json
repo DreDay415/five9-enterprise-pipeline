@@ -1,0 +1,68 @@
+{
+  "recording": {
+    "name": "300000001240176-300000001730046-7852583468 by  @ 10_10_19 AM_CallStudio.wav",
+    "size": 21966,
+    "modifyTime": 1770919854000,
+    "remotePath": "/five9sftp/upload/SB CS/2_12_2026/300000001240176-300000001730046-7852583468 by  @ 10_10_19 AM_CallStudio.wav",
+    "uploadDate": "2026-02-12T18:10:54.000Z",
+    "callId": "300000001240176-300000001730046",
+    "phoneNumber": "7852583468",
+    "callTimestamp": "2026-02-12T18:10:54.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call, speak loudly.\n\nSpeaker 2: And clearly.\n\nSpeaker 1: Para Español Marque Número 1.\n\nSpeaker 2: Misordered pills.\n\nSpeaker 1: Misordered pills.\n\nSpeaker 2: Thanks.\n\nSpeaker 1: Transferring to agent.",
+    "duration": 1636,
+    "audioDuration": 13.479999542236328,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.199999809265137,
+        "text": " To help get you to the right agent, please state the reason for your call, speak loudly"
+      },
+      {
+        "id": 1,
+        "start": 5.199999809265137,
+        "end": 6.199999809265137,
+        "text": " and clearly."
+      },
+      {
+        "id": 2,
+        "start": 6.199999809265137,
+        "end": 7.199999809265137,
+        "text": " Para Español Marque Número 1."
+      },
+      {
+        "id": 3,
+        "start": 7.199999809265137,
+        "end": 8.199999809265137,
+        "text": " Misordered pills."
+      },
+      {
+        "id": 4,
+        "start": 8.199999809265137,
+        "end": 9.199999809265137,
+        "text": " Misordered pills."
+      },
+      {
+        "id": 5,
+        "start": 9.199999809265137,
+        "end": 10.199999809265137,
+        "text": " Thanks."
+      },
+      {
+        "id": 6,
+        "start": 10.199999809265137,
+        "end": 13.199999809265137,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-81c2-bede-ea0bfaca943c",
+    "url": "https://www.notion.so/300000001240176-300000001730046-30511d0a101c81c2bedeea0bfaca943c"
+  },
+  "processedAt": "2026-02-12T18:29:47.083Z"
+}

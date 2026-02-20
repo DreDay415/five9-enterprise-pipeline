@@ -1,0 +1,31 @@
+{
+  "recording": {
+    "name": "300000001239241-300000001728969-5756804568 by  @ 1_58_31 PM_CallStudio.wav",
+    "size": 53100,
+    "modifyTime": 1770847146000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239241-300000001728969-5756804568 by  @ 1_58_31 PM_CallStudio.wav",
+    "uploadDate": "2026-02-11T21:59:06.000Z",
+    "callId": "300000001239241-300000001728969",
+    "phoneNumber": "5756804568",
+    "callTimestamp": "2026-02-11T21:59:06.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: .",
+    "duration": 1867,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 30,
+        "end": 32.599998474121094,
+        "text": " ."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30411d0a-101c-812d-ad31-f49e1c9f9de4",
+    "url": "https://www.notion.so/300000001239241-300000001728969-30411d0a101c812dad31f49e1c9f9de4"
+  },
+  "processedAt": "2026-02-11T22:01:33.120Z"
+}

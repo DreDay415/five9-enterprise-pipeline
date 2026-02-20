@@ -1,0 +1,67 @@
+{
+  "recording": {
+    "name": "300000001239500-300000001729149-6012787214 by  @ 3_40_40 PM_CallStudio.wav",
+    "size": 37760,
+    "modifyTime": 1770853285000,
+    "remotePath": "/five9sftp/upload/SB CS/2_11_2026/300000001239500-300000001729149-6012787214 by  @ 3_40_40 PM_CallStudio.wav",
+    "uploadDate": "2026-02-11T23:41:25.000Z",
+    "callId": "300000001239500-300000001729149",
+    "phoneNumber": "6012787214",
+    "callTimestamp": "2026-02-11T23:41:25.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: To help get you to the right agent, please state the reason for your call.\n\nSpeaker 2: Reimbursed my money.\n\nSpeaker 1: They took my money out of my account, and I told them that I was done with that.\n\nSpeaker 2: Thanks.\n\nSpeaker 1: Transferring to agent.",
+    "duration": 1695,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 5.099999904632568,
+        "text": " To help get you to the right agent, please state the reason for your call."
+      },
+      {
+        "id": 1,
+        "start": 5.260000228881836,
+        "end": 6.739999771118164,
+        "text": " Speak loudly and clearly."
+      },
+      {
+        "id": 2,
+        "start": 7.059999942779541,
+        "end": 8.539999961853027,
+        "text": " Para Español, marque numero nueve."
+      },
+      {
+        "id": 3,
+        "start": 11.720000267028809,
+        "end": 13.399999618530273,
+        "text": " Reimbursed my money."
+      },
+      {
+        "id": 4,
+        "start": 14.079999923706055,
+        "end": 19.799999237060547,
+        "text": " They took my money out of my account, and I told them that I was done with that."
+      },
+      {
+        "id": 5,
+        "start": 21.65999984741211,
+        "end": 21.979999542236328,
+        "text": " Thanks."
+      },
+      {
+        "id": 6,
+        "start": 21.979999542236328,
+        "end": 22.8799991607666,
+        "text": " Transferring to agent."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "30511d0a-101c-814c-9780-f5d50d9d7fa7",
+    "url": "https://www.notion.so/300000001239500-300000001729149-30511d0a101c814c9780f5d50d9d7fa7"
+  },
+  "processedAt": "2026-02-12T00:06:36.032Z"
+}

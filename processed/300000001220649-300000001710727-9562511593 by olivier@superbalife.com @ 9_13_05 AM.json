@@ -1,0 +1,284 @@
+{
+  "recording": {
+    "name": "300000001220649-300000001710727-9562511593 by olivier@superbalife.com @ 9_13_05 AM.wav",
+    "size": 250180,
+    "modifyTime": 1769620653000,
+    "remotePath": "/five9sftp/upload/SB CS/1_28_2026/300000001220649-300000001710727-9562511593 by olivier@superbalife.com @ 9_13_05 AM.wav",
+    "uploadDate": "2026-01-28T17:17:33.000Z",
+    "callId": "300000001220649-300000001710727",
+    "agent": "olivier",
+    "phoneNumber": "9562511593",
+    "callTimestamp": "2026-01-28T09:13:05.000Z",
+    "campaign": "test one"
+  },
+  "transcription": {
+    "text": "Speaker 1: Hi, this is Vagra.\n\nSpeaker 2: Yes, do you have someone in Spanish?\n\nSpeaker 1: Let me see if I can transfer you.\n\nSpeaker 2: Yeah, I can.\n\nSpeaker 1: It's going to be a little wait.\n\nSpeaker 2: Okay.\n\nSpeaker 1: Or if you want, I can help you, or if you want to wait.\n\nSpeaker 2: Well, let me try then.\n\nSpeaker 1: I have...\n\nSpeaker 2: I canceled my order, and I have a charge from you.\n\nSpeaker 1: And I don't have any product.\n\nSpeaker 2: Yeah, I think what happened was they sent you, I think, a replacement,\n\nSpeaker 1: and they paused the account, and you were up for a refill.\n\nSpeaker 2: But what I can do, Mr. Durand, if you don't need it as often and also those quantities,\n\nSpeaker 1: what I can do, I can advise the pharmacy to pause the prescription.\n\nSpeaker 2: So that being said, you're not going to get it as often anymore, like every 30 days or every two months?\n\nSpeaker 1: No, I already canceled everything.\n\nSpeaker 2: I have my direct prescription from the doctor right now.\n\nSpeaker 1: Okay, let me cancel then.\n\nSpeaker 2: I suppose it's canceled.\n\nSpeaker 1: Okay.\n\nSpeaker 2: But I have a charge.\n\nSpeaker 1: Yeah, they sent you, from what I see, they sent you a replacement,\n\nSpeaker 2: and I don't see, maybe it was a misunderstanding.\n\nSpeaker 1: But I'm canceling so you won't receive anything anymore, okay?\n\nSpeaker 2: No, but I don't receive anything right now, and I have a charge.\n\nSpeaker 1: They say it was delivered on the 24th of January, that refill.\n\nSpeaker 2: I don't have any refills.\n\nSpeaker 1: Okay.\n\nSpeaker 2: You want me to give you the tracking number so you can look in your building or whatever?\n\nSpeaker 1: Because the post office says it was delivered on the 24th.\n\nSpeaker 2: I already checked yesterday in the mailbox and house and everything, and I don't have nothing.\n\nSpeaker 1: Yeah, because I can refund you, but you've got to return that package, sir.\n\nSpeaker 2: But I don't have it.\n\nSpeaker 1: How can I return it?\n\nSpeaker 2: Can you contact the post office maybe?\n\nSpeaker 1: Me, myself?\n\nSpeaker 2: No, you should contact.\n\nSpeaker 1: It's local post office.\n\nSpeaker 2: I just need a refund, sir.\n\nSpeaker 1: We need to put it back, sir.\n\nSpeaker 2: Send me to someone in Spanish, please.\n\nSpeaker 1: All right.",
+    "duration": 5778,
+    "language": "english",
+    "segments": [
+      {
+        "id": 0,
+        "start": 0,
+        "end": 3,
+        "text": " Hi, this is Vagra."
+      },
+      {
+        "id": 1,
+        "start": 3,
+        "end": 7,
+        "text": " Yes, do you have someone in Spanish?"
+      },
+      {
+        "id": 2,
+        "start": 7,
+        "end": 9,
+        "text": " Let me see if I can transfer you."
+      },
+      {
+        "id": 3,
+        "start": 9,
+        "end": 10,
+        "text": " Yeah, I can."
+      },
+      {
+        "id": 4,
+        "start": 10,
+        "end": 11,
+        "text": " It's going to be a little wait."
+      },
+      {
+        "id": 5,
+        "start": 11,
+        "end": 12,
+        "text": " Okay."
+      },
+      {
+        "id": 6,
+        "start": 12,
+        "end": 14,
+        "text": " Or if you want, I can help you, or if you want to wait."
+      },
+      {
+        "id": 7,
+        "start": 14,
+        "end": 17,
+        "text": " Well, let me try then."
+      },
+      {
+        "id": 8,
+        "start": 17,
+        "end": 20,
+        "text": " I have..."
+      },
+      {
+        "id": 9,
+        "start": 20,
+        "end": 28,
+        "text": " I canceled my order, and I have a charge from you."
+      },
+      {
+        "id": 10,
+        "start": 28,
+        "end": 33,
+        "text": " And I don't have any product."
+      },
+      {
+        "id": 11,
+        "start": 33,
+        "end": 39,
+        "text": " Yeah, I think what happened was they sent you, I think, a replacement,"
+      },
+      {
+        "id": 12,
+        "start": 39,
+        "end": 41,
+        "text": " and they paused the account, and you were up for a refill."
+      },
+      {
+        "id": 13,
+        "start": 41,
+        "end": 47,
+        "text": " But what I can do, Mr. Durand, if you don't need it as often and also those quantities,"
+      },
+      {
+        "id": 14,
+        "start": 47,
+        "end": 50,
+        "text": " what I can do, I can advise the pharmacy to pause the prescription."
+      },
+      {
+        "id": 15,
+        "start": 50,
+        "end": 56,
+        "text": " So that being said, you're not going to get it as often anymore, like every 30 days or every two months?"
+      },
+      {
+        "id": 16,
+        "start": 56,
+        "end": 59,
+        "text": " No, I already canceled everything."
+      },
+      {
+        "id": 17,
+        "start": 59,
+        "end": 64,
+        "text": " I have my direct prescription from the doctor right now."
+      },
+      {
+        "id": 18,
+        "start": 64,
+        "end": 68,
+        "text": " Okay, let me cancel then."
+      },
+      {
+        "id": 19,
+        "start": 68,
+        "end": 71,
+        "text": " I suppose it's canceled."
+      },
+      {
+        "id": 20,
+        "start": 71,
+        "end": 73,
+        "text": " Okay."
+      },
+      {
+        "id": 21,
+        "start": 73,
+        "end": 75,
+        "text": " But I have a charge."
+      },
+      {
+        "id": 22,
+        "start": 75,
+        "end": 79,
+        "text": " Yeah, they sent you, from what I see, they sent you a replacement,"
+      },
+      {
+        "id": 23,
+        "start": 79,
+        "end": 83,
+        "text": " and I don't see, maybe it was a misunderstanding."
+      },
+      {
+        "id": 24,
+        "start": 83,
+        "end": 87,
+        "text": " But I'm canceling so you won't receive anything anymore, okay?"
+      },
+      {
+        "id": 25,
+        "start": 87,
+        "end": 94,
+        "text": " No, but I don't receive anything right now, and I have a charge."
+      },
+      {
+        "id": 26,
+        "start": 94,
+        "end": 98,
+        "text": " They say it was delivered on the 24th of January, that refill."
+      },
+      {
+        "id": 27,
+        "start": 98,
+        "end": 101,
+        "text": " I don't have any refills."
+      },
+      {
+        "id": 28,
+        "start": 101,
+        "end": 102,
+        "text": " Okay."
+      },
+      {
+        "id": 29,
+        "start": 102,
+        "end": 106,
+        "text": " You want me to give you the tracking number so you can look in your building or whatever?"
+      },
+      {
+        "id": 30,
+        "start": 106,
+        "end": 108,
+        "text": " Because the post office says it was delivered on the 24th."
+      },
+      {
+        "id": 31,
+        "start": 108,
+        "end": 117,
+        "text": " I already checked yesterday in the mailbox and house and everything, and I don't have nothing."
+      },
+      {
+        "id": 32,
+        "start": 117,
+        "end": 121,
+        "text": " Yeah, because I can refund you, but you've got to return that package, sir."
+      },
+      {
+        "id": 33,
+        "start": 121,
+        "end": 123,
+        "text": " But I don't have it."
+      },
+      {
+        "id": 34,
+        "start": 123,
+        "end": 124,
+        "text": " How can I return it?"
+      },
+      {
+        "id": 35,
+        "start": 124,
+        "end": 127,
+        "text": " Can you contact the post office maybe?"
+      },
+      {
+        "id": 36,
+        "start": 127,
+        "end": 129,
+        "text": " Me, myself?"
+      },
+      {
+        "id": 37,
+        "start": 129,
+        "end": 131,
+        "text": " No, you should contact."
+      },
+      {
+        "id": 38,
+        "start": 131,
+        "end": 133,
+        "text": " It's local post office."
+      },
+      {
+        "id": 39,
+        "start": 133,
+        "end": 135,
+        "text": " I just need a refund, sir."
+      },
+      {
+        "id": 40,
+        "start": 135,
+        "end": 137,
+        "text": " We need to put it back, sir."
+      },
+      {
+        "id": 41,
+        "start": 138,
+        "end": 141,
+        "text": " Send me to someone in Spanish, please."
+      },
+      {
+        "id": 42,
+        "start": 141,
+        "end": 143,
+        "text": " All right."
+      }
+    ]
+  },
+  "notionPage": {
+    "id": "2f611d0a-101c-817f-bcf4-fbfdec77d1eb",
+    "url": "https://www.notion.so/300000001220649-300000001710727-2f611d0a101c817fbcf4fbfdec77d1eb"
+  },
+  "processedAt": "2026-01-28T18:37:12.213Z"
+}
