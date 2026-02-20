@@ -31,14 +31,14 @@ export class NotionService {
       const dateMatch = data.remotePath?.match(/(\d{1,2}_\d{1,2}_\d{4})/);
       const callDateStr = dateMatch ? dateMatch[1].replace(/_/g, '/') : 'Unknown';
 
-      await this.notion.pages.create({
+     await this.notion.pages.create({
         parent: { database_id: this.databaseId },
         properties: {
           'Call ID': { 
             title: [{ text: { content: filename } }] 
           },
           'Phone number': {
-            phone_number: phoneNumber // Using phone_number type avoids number formatting
+            phone_number: phoneNumber 
           },
           'Agent': {
             rich_text: [{ text: { content: agentName } }] 
