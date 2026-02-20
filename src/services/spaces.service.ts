@@ -16,21 +16,21 @@ export class SpacesService {
   private region: string;
   private folder: string;
 
-constructor(_config: any) {
-    // Hardcoded to match your screenshot exactly
+  constructor(_config: any) {
     this.bucket = 'spaces-bucket'; 
     this.region = 'sfo3';          
     this.folder = 'five9-recordings';
     
     this.client = new S3Client({
       endpoint: `https://sfo3.digitaloceanspaces.com`,
-      region: 'us-east-1', // Required for DO signature compatibility
+      region: 'us-east-1', 
       credentials: {
         accessKeyId: process.env.SPACES_KEY || '',
         secretAccessKey: process.env.SPACES_SECRET || '',
       },
     });
   }
+
   async uploadCallFiles(
     audioPath: string,
     transcriptPath: string,
@@ -40,11 +40,8 @@ constructor(_config: any) {
     const transcriptKey = `${this.folder}/${path.basename(transcriptPath)}`;
 
     try {
-      // 1. Upload MP3
       const audioUrl = await this.uploadFile(audioPath, audioKey, 'audio/mpeg');
-      // 2. Upload Transcript
       const transcriptUrl = await this.uploadFile(transcriptPath, transcriptKey, 'text/plain');
-
       return { audioUrl, transcriptUrl };
     } catch (error: any) {
       logger.error({ error: error.message }, '❌ Spaces upload failed');
@@ -56,20 +53,18 @@ constructor(_config: any) {
     const fileBuffer = readFileSync(filePath);
 
     try {
-      // NOTE: We removed ACL: 'public-read' to test if permissions are the issue.
-      // If this works, the files will be PRIVATE but the upload will succeed.
       await this.client.send(
         new PutObjectCommand({
           Bucket: this.bucket,
           Key: key,
           Body: fileBuffer,
           ContentType: contentType,
+          ACL: 'public-read', 
         })
       );
 
       return `https://${this.bucket}.${this.region}.digitaloceanspaces.com/${key}`;
     } catch (error: any) {
-      // THIS WILL LOG THE EXACT ERROR FROM DIGITAL OCEAN
       logger.error({ 
         name: error.name, 
         message: error.message,
